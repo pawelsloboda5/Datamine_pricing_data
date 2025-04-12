@@ -1,0 +1,16 @@
+{
+  "app_id": "slack",
+  "app_name": "Slack",
+  "app_slug": "slack",
+  "price_model_type": [
+    "unknown"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Failed to extract structured pricing information after multiple attempts. The model response could not be parsed as valid JSON.",
+  "extraction_error": true,
+  "extraction_timestamp": "2025-04-12T01:50:38.607102"
+}

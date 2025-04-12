@@ -1,0 +1,753 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Apicus User Schema",
+  "type": "object",
+  "properties": {
+    "user_id": {
+      "type": "string",
+      "description": "Unique identifier for the user"
+    },
+    "email": {
+      "type": "string",
+      "format": "email",
+      "description": "User's email address"
+    },
+    "display_name": {
+      "type": "string",
+      "description": "User's display name"
+    },
+    "profile": {
+      "type": "object",
+      "properties": {
+        "company": {
+          "type": "string",
+          "description": "User's company name"
+        },
+        "role": {
+          "type": "string",
+          "description": "User's role within the company"
+        },
+        "industry": {
+          "type": "string",
+          "description": "User's industry"
+        },
+        "profile_image": {
+          "type": "string",
+          "format": "uri",
+          "description": "URL to the user's profile image"
+        },
+        "time_zone": {
+          "type": "string",
+          "description": "User's time zone"
+        }
+      }
+    },
+    "preferences": {
+      "type": "object",
+      "properties": {
+        "theme": {
+          "type": "string",
+          "enum": ["light", "dark", "system"],
+          "default": "system",
+          "description": "User's preferred theme"
+        },
+        "canvas_layout": {
+          "type": "string",
+          "enum": ["default", "compact", "expanded"],
+          "default": "default",
+          "description": "User's preferred canvas layout"
+        },
+        "notifications": {
+          "type": "object",
+          "properties": {
+            "email": {
+              "type": "boolean",
+              "default": true,
+              "description": "Whether to send email notifications"
+            },
+            "in_app": {
+              "type": "boolean",
+              "default": true,
+              "description": "Whether to show in-app notifications"
+            }
+          }
+        },
+        "default_module_size": {
+          "type": "object",
+          "properties": {
+            "width": {
+              "type": "number",
+              "default": 400,
+              "description": "Default module width in pixels"
+            },
+            "height": {
+              "type": "number",
+              "default": 300,
+              "description": "Default module height in pixels"
+            }
+          }
+        }
+      }
+    },
+    "api_keys": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "key_id": {
+            "type": "string",
+            "description": "Unique identifier for the API key"
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of the API key"
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date-time",
+            "description": "When the API key was created"
+          },
+          "last_used": {
+            "type": "string",
+            "format": "date-time",
+            "description": "When the API key was last used"
+          }
+        },
+        "required": ["key_id", "name", "created_at"]
+      }
+    },
+    "integrations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "integration_id": {
+            "type": "string",
+            "description": "Unique identifier for the integration"
+          },
+          "platform": {
+            "type": "string",
+            "description": "Integration platform (e.g., 'zapier', 'make', 'custom')"
+          },
+          "name": {
+            "type": "string",
+            "description": "Name of the integration"
+          },
+          "status": {
+            "type": "string",
+            "enum": ["active", "inactive", "pending"],
+            "description": "Status of the integration"
+          },
+          "connected_at": {
+            "type": "string",
+            "format": "date-time",
+            "description": "When the integration was established"
+          },
+          "config": {
+            "type": "object",
+            "description": "Integration-specific configuration"
+          }
+        },
+        "required": ["integration_id", "platform", "name", "status"]
+      }
+    },
+    "automation_flows": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "flow_id": {
+            "type": "string",
+            "description": "Unique identifier for the flow"
+          },
+          "title": {
+            "type": "string",
+            "description": "User-friendly title for the flow"
+          },
+          "description": {
+            "type": "string",
+            "description": "Detailed description of the flow"
+          },
+          "created_at": {
+            "type": "string",
+            "format": "date-time",
+            "description": "When the flow was created"
+          },
+          "updated_at": {
+            "type": "string",
+            "format": "date-time",
+            "description": "When the flow was last updated"
+          },
+          "status": {
+            "type": "string",
+            "enum": ["draft", "published", "archived"],
+            "default": "draft",
+            "description": "Status of the flow"
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Tags associated with the flow"
+          },
+          "context_modules": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "module_id": {
+                  "type": "string",
+                  "description": "Unique identifier for the module"
+                },
+                "module_type": {
+                  "type": "string",
+                  "enum": ["business_information", "current_process", "automation_goals", "technical_requirements", "user_preferences", "custom"],
+                  "description": "Type of context module"
+                },
+                "title": {
+                  "type": "string",
+                  "description": "Title of the module"
+                },
+                "description": {
+                  "type": "string",
+                  "description": "Description of the module"
+                },
+                "fields": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "field_id": {
+                        "type": "string",
+                        "description": "Unique identifier for the field"
+                      },
+                      "name": {
+                        "type": "string",
+                        "description": "Display name of the field"
+                      },
+                      "description": {
+                        "type": "string",
+                        "description": "Description of the field"
+                      },
+                      "type": {
+                        "type": "string",
+                        "enum": ["string", "number", "boolean", "array", "object", "date", "datetime"],
+                        "description": "Data type of the field"
+                      },
+                      "required": {
+                        "type": "boolean",
+                        "default": false,
+                        "description": "Whether the field is required"
+                      },
+                      "value": {
+                        "description": "Current value of the field"
+                      },
+                      "suggestions": {
+                        "type": "array",
+                        "items": {},
+                        "description": "Suggested values for the field"
+                      },
+                      "history": {
+                        "type": "array",
+                        "items": {
+                          "type": "object",
+                          "properties": {
+                            "value": {
+                              "description": "Previous value of the field"
+                            },
+                            "timestamp": {
+                              "type": "string",
+                              "format": "date-time",
+                              "description": "When the value was changed"
+                            },
+                            "source": {
+                              "type": "string",
+                              "enum": ["user", "ai"],
+                              "description": "Source of the change"
+                            }
+                          },
+                          "required": ["value", "timestamp", "source"]
+                        },
+                        "description": "History of field values"
+                      }
+                    },
+                    "required": ["field_id", "name", "type"]
+                  }
+                },
+                "metadata": {
+                  "type": "object",
+                  "properties": {
+                    "created_at": {
+                      "type": "string",
+                      "format": "date-time",
+                      "description": "When the module was created"
+                    },
+                    "updated_at": {
+                      "type": "string",
+                      "format": "date-time",
+                      "description": "When the module was last updated"
+                    },
+                    "position": {
+                      "type": "object",
+                      "properties": {
+                        "x": {
+                          "type": "number",
+                          "description": "X position on the canvas"
+                        },
+                        "y": {
+                          "type": "number",
+                          "description": "Y position on the canvas"
+                        }
+                      },
+                      "required": ["x", "y"]
+                    },
+                    "created_by": {
+                      "type": "string",
+                      "enum": ["user", "ai"],
+                      "description": "Who created the module"
+                    },
+                    "last_updated_by": {
+                      "type": "string",
+                      "enum": ["user", "ai"],
+                      "description": "Who last updated the module"
+                    }
+                  },
+                  "required": ["created_at", "position"]
+                }
+              },
+              "required": ["module_id", "module_type", "title", "fields", "metadata"]
+            }
+          },
+          "dashboard_modules": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "module_id": {
+                  "type": "string",
+                  "description": "Unique identifier for the module"
+                },
+                "module_type": {
+                  "type": "string",
+                  "enum": ["automation_flow", "automation_summary", "roi_calculator", "monthly_cost", "implementation_plan", "lead_generation_emails", "technical_documentation", "node_details", "custom"],
+                  "description": "Type of dashboard module"
+                },
+                "title": {
+                  "type": "string",
+                  "description": "Title of the module"
+                },
+                "description": {
+                  "type": "string",
+                  "description": "Description of the module"
+                },
+                "tabs": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "tab_id": {
+                        "type": "string",
+                        "description": "Unique identifier for the tab"
+                      },
+                      "title": {
+                        "type": "string",
+                        "description": "Title of the tab"
+                      },
+                      "content_type": {
+                        "type": "string",
+                        "enum": ["generated", "static"],
+                        "description": "Whether the content is generated or static"
+                      },
+                      "content": {
+                        "type": "object",
+                        "description": "Content of the tab"
+                      },
+                      "generation_status": {
+                        "type": "string",
+                        "enum": ["not_generated", "generating", "generated", "error"],
+                        "description": "Status of content generation"
+                      },
+                      "selected_context_modules": {
+                        "type": "array",
+                        "items": {
+                          "type": "string"
+                        },
+                        "description": "IDs of context modules selected for generation"
+                      },
+                      "custom_prompt": {
+                        "type": "string",
+                        "description": "Custom prompt for generation"
+                      }
+                    },
+                    "required": ["tab_id", "title"]
+                  }
+                },
+                "metadata": {
+                  "type": "object",
+                  "properties": {
+                    "created_at": {
+                      "type": "string",
+                      "format": "date-time",
+                      "description": "When the module was created"
+                    },
+                    "updated_at": {
+                      "type": "string",
+                      "format": "date-time",
+                      "description": "When the module was last updated"
+                    },
+                    "position": {
+                      "type": "object",
+                      "properties": {
+                        "x": {
+                          "type": "number",
+                          "description": "X position on the canvas"
+                        },
+                        "y": {
+                          "type": "number",
+                          "description": "Y position on the canvas"
+                        }
+                      },
+                      "required": ["x", "y"]
+                    },
+                    "size": {
+                      "type": "object",
+                      "properties": {
+                        "width": {
+                          "type": "number",
+                          "description": "Width of the module"
+                        },
+                        "height": {
+                          "type": "number",
+                          "description": "Height of the module"
+                        }
+                      },
+                      "required": ["width", "height"]
+                    },
+                    "color_group": {
+                      "type": "string",
+                      "enum": ["blue", "green", "purple", "orange", "red"],
+                      "description": "Color group for the module"
+                    },
+                    "created_by": {
+                      "type": "string",
+                      "enum": ["user", "ai"],
+                      "description": "Who created the module"
+                    },
+                    "last_updated_by": {
+                      "type": "string",
+                      "enum": ["user", "ai"],
+                      "description": "Who last updated the module"
+                    }
+                  },
+                  "required": ["created_at", "position", "size"]
+                }
+              },
+              "required": ["module_id", "module_type", "title", "tabs", "metadata"]
+            }
+          },
+          "automation": {
+            "type": "object",
+            "properties": {
+              "steps": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "step_id": {
+                      "type": "string",
+                      "description": "Unique identifier for the step"
+                    },
+                    "type": {
+                      "type": "string",
+                      "enum": ["trigger", "action"],
+                      "description": "Type of step"
+                    },
+                    "app": {
+                      "type": "object",
+                      "properties": {
+                        "app_id": {
+                          "type": "string",
+                          "description": "Unique identifier for the app"
+                        },
+                        "name": {
+                          "type": "string",
+                          "description": "Name of the app"
+                        },
+                        "slug": {
+                          "type": "string",
+                          "description": "Slug of the app"
+                        },
+                        "logo_url": {
+                          "type": "string",
+                          "format": "uri",
+                          "description": "URL to the app logo"
+                        }
+                      },
+                      "required": ["app_id", "name"]
+                    },
+                    "component": {
+                      "type": "object",
+                      "properties": {
+                        "component_id": {
+                          "type": "string",
+                          "description": "Unique identifier for the component"
+                        },
+                        "title": {
+                          "type": "string",
+                          "description": "Title of the component"
+                        },
+                        "description": {
+                          "type": "string",
+                          "description": "Description of the component"
+                        },
+                        "type": {
+                          "type": "string",
+                          "enum": ["read", "write", "search", "filter"],
+                          "description": "Type of component"
+                        }
+                      },
+                      "required": ["component_id", "title", "type"]
+                    },
+                    "configuration": {
+                      "type": "object",
+                      "properties": {
+                        "fields": {
+                          "type": "array",
+                          "items": {
+                            "type": "object",
+                            "properties": {
+                              "field_id": {
+                                "type": "string",
+                                "description": "Unique identifier for the field"
+                              },
+                              "name": {
+                                "type": "string",
+                                "description": "Name of the field"
+                              },
+                              "value": {
+                                "description": "Value of the field"
+                              },
+                              "mapped_from": {
+                                "type": "string",
+                                "description": "ID of the field this field is mapped from"
+                              }
+                            },
+                            "required": ["field_id", "name"]
+                          }
+                        },
+                        "options": {
+                          "type": "object",
+                          "description": "Additional configuration options"
+                        }
+                      }
+                    },
+                    "position": {
+                      "type": "object",
+                      "properties": {
+                        "x": {
+                          "type": "number",
+                          "description": "X position on the canvas"
+                        },
+                        "y": {
+                          "type": "number",
+                          "description": "Y position on the canvas"
+                        }
+                      },
+                      "required": ["x", "y"]
+                    }
+                  },
+                  "required": ["step_id", "type", "app", "component", "position"]
+                }
+              },
+              "connections": {
+                "type": "array",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "connection_id": {
+                      "type": "string",
+                      "description": "Unique identifier for the connection"
+                    },
+                    "from": {
+                      "type": "string",
+                      "description": "ID of the source step"
+                    },
+                    "to": {
+                      "type": "string",
+                      "description": "ID of the target step"
+                    },
+                    "type": {
+                      "type": "string",
+                      "enum": ["standard", "conditional"],
+                      "default": "standard",
+                      "description": "Type of connection"
+                    },
+                    "condition": {
+                      "type": "object",
+                      "description": "Condition for the connection (if conditional)"
+                    }
+                  },
+                  "required": ["connection_id", "from", "to"]
+                }
+              },
+              "version": {
+                "type": "string",
+                "description": "Version of the automation"
+              }
+            },
+            "required": ["steps", "connections"]
+          },
+          "conversation_history": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "message_id": {
+                  "type": "string",
+                  "description": "Unique identifier for the message"
+                },
+                "role": {
+                  "type": "string",
+                  "enum": ["user", "assistant", "system"],
+                  "description": "Role of the message sender"
+                },
+                "content": {
+                  "type": "string",
+                  "description": "Message content"
+                },
+                "timestamp": {
+                  "type": "string",
+                  "format": "date-time",
+                  "description": "When the message was sent"
+                },
+                "metadata": {
+                  "type": "object",
+                  "properties": {
+                    "context_changes": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "module_id": {
+                            "type": "string",
+                            "description": "ID of the module that was changed"
+                          },
+                          "field_id": {
+                            "type": "string",
+                            "description": "ID of the field that was changed"
+                          },
+                          "action": {
+                            "type": "string",
+                            "enum": ["add", "update", "remove"],
+                            "description": "Type of change"
+                          },
+                          "previous_value": {
+                            "description": "Previous value of the field"
+                          },
+                          "new_value": {
+                            "description": "New value of the field"
+                          }
+                        },
+                        "required": ["module_id", "field_id", "action"]
+                      }
+                    },
+                    "automation_changes": {
+                      "type": "array",
+                      "items": {
+                        "type": "object",
+                        "properties": {
+                          "change_type": {
+                            "type": "string",
+                            "enum": ["step_added", "step_removed", "step_updated", "connection_added", "connection_removed"],
+                            "description": "Type of change"
+                          },
+                          "change_details": {
+                            "type": "object",
+                            "description": "Details of the change"
+                          }
+                        },
+                        "required": ["change_type"]
+                      }
+                    }
+                  }
+                }
+              },
+              "required": ["message_id", "role", "content", "timestamp"]
+            }
+          }
+        },
+        "required": ["flow_id", "title", "created_at", "status"]
+      }
+    },
+    "billing": {
+      "type": "object",
+      "properties": {
+        "plan": {
+          "type": "string",
+          "enum": ["free", "pro", "enterprise"],
+          "description": "User's subscription plan"
+        },
+        "plan_started": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the current plan started"
+        },
+        "plan_expires": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the current plan expires"
+        },
+        "billing_cycle": {
+          "type": "string",
+          "enum": ["monthly", "yearly"],
+          "description": "User's billing cycle"
+        },
+        "payment_method": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string",
+              "enum": ["credit_card", "paypal", "invoice"],
+              "description": "Type of payment method"
+            },
+            "last_four": {
+              "type": "string",
+              "description": "Last four digits of credit card (if applicable)"
+            },
+            "expiry": {
+              "type": "string",
+              "description": "Expiry date of credit card (if applicable)"
+            }
+          }
+        }
+      }
+    },
+    "account_info": {
+      "type": "object",
+      "properties": {
+        "created_at": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the user account was created"
+        },
+        "last_login": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the user last logged in"
+        },
+        "status": {
+          "type": "string",
+          "enum": ["active", "inactive", "suspended"],
+          "description": "Status of the user account"
+        },
+        "mfa_enabled": {
+          "type": "boolean",
+          "default": false,
+          "description": "Whether multi-factor authentication is enabled"
+        }
+      }
+    }
+  },
+  "required": ["user_id", "email", "account_info"]
+}

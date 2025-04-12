@@ -1,0 +1,150 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Apicus Template Schema",
+  "type": "object",
+  "properties": {
+    "_id": {
+      "type": "object",
+      "properties": {
+        "$oid": {
+          "type": "string",
+          "description": "MongoDB ObjectId"
+        }
+      },
+      "required": ["$oid"]
+    },
+    "template_id": {
+      "type": "string",
+      "description": "Unique identifier for the template"
+    },
+    "title": {
+      "type": "string",
+      "description": "Display title of the template"
+    },
+    "url": {
+      "type": "string",
+      "description": "URL path to the template"
+    },
+    "editor_url": {
+      "type": "string",
+      "description": "URL path to edit the template"
+    },
+    "primary_app_id": {
+      "type": "string",
+      "description": "ID of the primary app in the template"
+    },
+    "primary_app_name": {
+      "type": "string",
+      "description": "Name of the primary app in the template"
+    },
+    "steps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "index": {
+            "type": "integer",
+            "description": "Zero-based index of the step in the template"
+          },
+          "label": {
+            "type": "string",
+            "description": "Display label for the step"
+          },
+          "action": {
+            "type": "string",
+            "description": "Action or trigger name for the step"
+          },
+          "type_of": {
+            "type": "string",
+            "enum": ["read", "write", "search", "filter"],
+            "description": "Type of the step (read, write, search, filter)"
+          },
+          "app_id": {
+            "type": "string",
+            "description": "ID of the app for this step"
+          },
+          "app_name": {
+            "type": "string",
+            "description": "Name of the app for this step"
+          },
+          "app_slug": {
+            "type": "string",
+            "description": "Slug of the app for this step"
+          }
+        },
+        "required": ["index", "label", "action", "type_of", "app_id", "app_name", "app_slug"]
+      },
+      "description": "List of steps in the template"
+    },
+    "app_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of app IDs used in the template"
+    },
+    "app_names": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of app names used in the template"
+    },
+    "step_count": {
+      "type": "integer",
+      "description": "Total number of steps in the template"
+    },
+    "first_step_type": {
+      "type": "string",
+      "description": "Type of the first step in the template"
+    },
+    "last_step_type": {
+      "type": "string",
+      "description": "Type of the last step in the template"
+    },
+    "step_sequence": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Sequence of step types in the template"
+    },
+    "processed_at": {
+      "type": "object",
+      "properties": {
+        "$date": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the document was processed"
+        }
+      },
+      "required": ["$date"]
+    },
+    "rich_description": {
+      "type": "string",
+      "description": "Enhanced description with formatting that includes template details, apps, steps, and sequence"
+    },
+    "embedding": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      },
+      "description": "Vector embedding for semantic search (added by Azure AI Search)"
+    }
+  },
+  "required": [
+    "template_id",
+    "title",
+    "url",
+    "editor_url",
+    "steps",
+    "app_ids",
+    "app_names",
+    "step_count",
+    "first_step_type",
+    "last_step_type",
+    "step_sequence",
+    "processed_at",
+    "rich_description"
+  ]
+} 

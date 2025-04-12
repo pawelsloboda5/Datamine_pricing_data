@@ -1,0 +1,259 @@
+Azure Cosmos DB for MongoDB vCore: Indexing and IVF Vector Search Guide
+
+Overview
+
+Azure Cosmos DB for MongoDB vCore allows MongoDB-compatible indexing for query optimization. Effective indexing and integrated vector search capabilities using the IVF algorithm provide fast data retrieval and similarity searches for high-dimensional data.
+
+Indexing Fundamentals
+
+Indexes store sorted subsets of fields to enhance query efficiency. By default, Cosmos DB indexes only the _id field. Custom indexes must be explicitly defined based on query patterns.
+
+Recommended Index Types:
+
+Single-Field Indexes: Useful for queries filtering or sorting on a single field.
+
+Compound Indexes: Optimize queries filtering multiple fields.
+
+Partial Indexes: Index subsets of documents based on specified criteria.
+
+Text Indexes: Enable full-text search on string fields.
+
+Wildcard Indexes: Automatically index multiple or unpredictable fields.
+
+Unique Indexes: Ensure field uniqueness across documents.
+
+Geospatial Indexes: Efficiently handle geographic data.
+
+Indexing Best Practices:
+
+Index fields frequently used in query filters.
+
+Use compound indexes for queries involving multiple fields.
+
+Avoid indexing fields with extremely low selectivity alone.
+
+Regularly monitor and adjust indexes based on query patterns.
+
+IVF Vector Search in Cosmos DB
+
+IVF Index Overview
+
+IVF (Inverted File) indexes cluster vectors to accelerate similarity searches. It reduces search space by identifying and searching within nearest clusters to the query vector.
+
+Key Parameters:
+
+numLists: Number of clusters created; affects performance and accuracy.
+
+nProbes: Number of clusters searched during a query; balances recall and speed.
+
+similarity: Metric used ("COS", "L2", "IP").
+
+dimensions: Length of vector embeddings.
+
+IVF Index Creation (Python Example):
+
+from pymongo import MongoClient
+
+client = MongoClient("<connection-string>")
+db = client["my_database"]
+collection = db["documents"]
+
+create_index_cmd = {
+    "createIndexes": "documents",
+    "indexes": [
+        {
+            "name": "EmbeddingVectorIndex",
+            "key": {"embedding": "cosmosSearch"},
+            "cosmosSearchOptions": {
+                "kind": "vector-ivf",
+                "numLists": 100,
+                "similarity": "COS",
+                "dimensions": 1536
+            }
+        }
+    ]
+}
+
+db.command(create_index_cmd)
+
+Performing IVF Vector Searches:
+pipeline = [
+    {
+        "$search": {
+            "cosmosSearch": {
+                "vector": query_vector,
+                "path": "embedding",
+                "k": 5,
+                "nProbes": 3
+            },
+            "returnStoredSource": True
+        }
+    },
+    {"$project": {"similarityScore": {"$meta": "searchScore"}, "document": "$$ROOT"}}
+]
+
+results = list(collection.aggregate(pipeline))
+
+Performance Tuning IVF Vector Search
+
+Adjust numLists to balance speed and accuracy.
+
+Fine-tune nProbes for higher recall.
+
+Scale resources to manage index build and query performance efficiently.
+
+Normalize vectors appropriately for chosen similarity metrics.
+
+Troubleshooting Common Issues
+
+Verify correct index type ("cosmosSearch").
+
+Ensure vectors are stored as numeric arrays.
+
+Adjust numLists and nProbes to optimize results.
+
+Regularly review index configuration to accommodate dataset growth and changes.
+
+Conclusion
+
+Proper indexing and effective use of IVF vector search significantly enhance query performance in Azure Cosmos DB for MongoDB vCore, supporting robust, scalable applications.
+
+Azure Cosmos DB for MongoDB vCore provides a MongoDB-compatible database service where efficient indexing is critical for query performance. By default, only the _id field is indexed, so it’s up to developers to define additional indexes for their data and query patterns
+LEARN.MICROSOFT.COM
+. This guide explains how indexing works in Cosmos DB for MongoDB vCore, how to design optimal indexes for your collections (with attention to field cardinality and query patterns), and how to leverage the integrated vector search capabilities for high-dimensional similarity search. We’ll cover index types, performance optimization techniques, recommended configurations, and detailed examples (in Python) for creating and querying both standard and vector indexes. The goal is a comprehensive yet easily digestible reference that helps you optimize both traditional queries and vector similarity queries on Cosmos DB for MongoDB vCore.
+
+Indexing in Azure Cosmos DB for MongoDB vCore
+Indexes in Cosmos DB for MongoDB vCore function similarly to those in MongoDB: they are data structures (typically B-tree based) that store a sorted subset of fields to speed up data retrieval
+LEARN.MICROSOFT.COM
+. Without an index on a field used in a query filter or sort, the database must perform a collection scan, which becomes increasingly expensive as the collection grows
+LEARN.MICROSOFT.COM
+. Below we discuss the types of indexes supported, how to configure them, and best practices for performance.
+
+Default and Custom Indexes
+By default, each collection has an index on the _id field only
+LEARN.MICROSOFT.COM
+. The _id index ensures fast lookup by primary key (and is required for sharded collections as part of the shard key). No other fields are indexed unless you explicitly create indexes for them. This default policy (unlike Cosmos DB's Core API which auto-indexes all fields) means you must plan and create indexes on all fields that your queries filter or sort on
+LEARN.MICROSOFT.COM
+LEARN.MICROSOFT.COM
+. Failing to index a queryable field will cause full scans and poor performance, especially as data volume grows. On the other hand, avoid indexing fields that are not used in queries. Maintaining an index has a cost: every insert, update, or delete must also update all relevant indexes, which consumes CPU and I/O. Indexes also consume disk space. Cosmos DB for MongoDB vCore allows up to 64 indexes per collection by default (and up to 300 on higher-tier clusters)
+LEARN.MICROSOFT.COM
+, so choose indexes wisely to cover your query patterns without indexing everything by default. In general, define indexes for predictable query patterns and only consider broader indexing (like wildcard indexes) if query patterns are highly dynamic
+LEARN.MICROSOFT.COM
+.
+
+Types of Indexes Supported
+Single-Field Indexes: The most common index type, indexing a single field’s values. You can create these on top-level or embedded fields (using dot notation)
+LEARN.MICROSOFT.COM
+. For example, to index a field author in a collection:
+
+python
+
+db.products.create_index([("author", 1)])
+# or an embedded field:
+db.products.create_index([("author.firstName", -1)])
+Single-field indexes speed up queries that filter or sort by that field. A single query can utilize multiple single-field indexes via index intersection if it has filters on multiple fields, but such intersections are generally less efficient than a compound index on the combined fields.
+
+Compound Indexes: These indexes include multiple fields in a defined order. They support efficient queries that filter on multiple fields or sort by multiple keys. The order of fields in a compound index matters – the index can be used for a query only if the query filters on the prefix of the index fields in order
+LEARN.MICROSOFT.COM
+. For example, an index on {"author": 1, "launchDate": -1} can support a query filtering by author and launchDate together. However, a query filtering only by launchDate would not use this index effectively because author is the first field in the index definition
+LEARN.MICROSOFT.COM
+. You should arrange compound index fields so that the leftmost field is the one that most queries will specify (often a high-cardinality field for selectivity). MongoDB limits compound indexes to 32 fields
+LEARN.MICROSOFT.COM
+, which is more than enough for typical usage. In Python, create a compound index like:
+
+python
+
+db.products.create_index([("author", 1), ("launchDate", -1)])
+Partial Indexes: A partial index indexes only documents that meet a specified filter expression. This is useful to index a subset of data – for example, only “active” records – which can reduce index size and write overhead if other records are rarely queried. For instance, you might create a partial index on status for only documents where status: "pending":
+
+python
+
+db.orders.create_index(
+    [("status", 1), ("createdDate", 1)],
+    partialFilterExpression={"status": "pending"}
+)
+This would index only documents with status: "pending", perhaps because queries for other statuses are not needed. Partial indexes make queries with that filter very fast, but note their limitations: if the query’s filter doesn't include the partial condition, the index won’t be used. Also, partial indexes can’t enforce a unique constraint or be used for sorting unless the query explicitly matches the partial filter
+LEARN.MICROSOFT.COM
+LEARN.MICROSOFT.COM
+.
+
+Text Indexes: Cosmos DB for MongoDB vCore supports MongoDB text indexes for full-text search on string content. A collection can have at most one text index, but that index can cover multiple string fields
+LEARN.MICROSOFT.COM
+. For example:
+
+python
+
+db.products.create_index(
+    [("title", "text"), ("content", "text")],
+    default_language="english",
+    weights={"title": 10, "content": 5}
+)
+This creates a text index on both the title and content fields, with English language stemming and boosting the title field's relevance
+LEARN.MICROSOFT.COM
+. Once a text index is in place, you can query with {"$text": {"$search": "<keywords>"}} and even project a text score. Text indexes are very useful for search features, but remember only one per collection is allowed
+LEARN.MICROSOFT.COM
+and they can be relatively large in size
+LEARN.MICROSOFT.COM
+.
+
+Wildcard Indexes: A wildcard index ($**) can index all fields under a given path, including dynamically added ones. This is useful if your documents have unpredictable or flexible schema and you need to support queries on any field. For example, db.collection.createIndex({ "attributes.$**": 1 }) would index all sub-fields under attributes. Wildcard indexes come with caveats: they cannot enforce unique constraints, and they don’t support certain optimizations (e.g. an $orderby that isn’t fully covered by the wildcard field)
+LEARN.MICROSOFT.COM
+. Because of their broad scope, use wildcard indexes sparingly – typically only when you truly cannot anticipate query fields
+LEARN.MICROSOFT.COM
+. They also count toward the index limit and can consume significant space if used on large documents.
+
+Geospatial Indexes: If your data includes geographical coordinates, Cosmos DB for MongoDB vCore supports geospatial indexing just like MongoDB. Two types are available: a legacy 2d index for flat coordinate pairs, and a 2dsphere index for GeoJSON objects on a sphere (earth-like)
+LEARN.MICROSOFT.COM
+LEARN.MICROSOFT.COM
+. For example, to index GeoJSON location data you’d use:
+
+python
+
+db.places.create_index([("location", "2dsphere")])
+This allows queries like $near or $geoWithin to use the index for efficient geo-spatial filtering. Geospatial indexes have some restrictions (e.g. only one geospatial field can be indexed per compound index, and 2d index only on one field with one additional non-geo field)
+LEARN.MICROSOFT.COM
+.
+
+Unique Indexes: When you need to enforce that a field’s value is unique across documents (e.g. a username or email), you can create an index with the unique: True option. Cosmos DB for MongoDB vCore supports unique indexes, which are particularly important for data integrity. For instance:
+
+python
+
+db.users.create_index([("email", 1)], unique=True)
+This ensures no two documents can have the same email. Keep in mind that if the collection is sharded, the unique index must include the shard key as a prefix (standard MongoDB behavior).
+
+Vector Indexes (cosmosSearch): A special type of index introduced in Cosmos DB for MongoDB vCore is the vector search index. These indexes, created by specifying a key type of "cosmosSearch", enable high-dimensional vector similarity search (for AI/embedding use cases). They are not B-tree indexes but specialized structures for approximate nearest neighbor search. Only one vector index can be created per vector field.
+
+Indexing Best Practices and Performance Considerations
+Designing your indexes requires balancing query performance gains against write overhead and storage. Here are key guidelines for optimal index configuration:
+
+Index all fields used in queries: Ensure that every field used in a frequent query filter, join-equivalent lookup, or sort has an appropriate index
+LEARN.MICROSOFT.COM
+. This includes fields used in $match stages of aggregations or in $lookup (as the local/foreign keys). Without an index, queries will fall back to scanning documents, which is acceptable only for very small collections or infrequent operations.
+
+Use compound indexes to cover multi-field query patterns: If your queries commonly filter on multiple fields together (e.g. find by status and date range, or by userId and type), a compound index on those fields in the order of filter selectivity will yield the best performance
+LEARN.MICROSOFT.COM
+LEARN.MICROSOFT.COM
+. For example, if queries are like “find all orders for customer X in the last month,” an index on { customerId: 1, orderDate: 1 } is ideal. The most selective (high-cardinality) field or the one used for equality matching is often placed first.
+
+Avoid indexing low-selectivity (low-cardinality) fields alone: If a field has very few distinct values relative to the number of documents (for example, a boolean flag or a status field), a single-field index might not be very selective. In such cases, consider combining it with another filter in a compound index or using a partial index. Always analyze your data distribution.
+
+Don’t over-index everything: Each additional index increases the cost of writes. Cosmos DB for MongoDB vCore, by design, does not index all fields by default
+LEARN.MICROSOFT.COM
+– this is a feature that lets you control the trade-off. Resist the temptation to index a field “just in case.” Instead, monitor your query patterns (e.g. using $explain) to see which queries are causing collection scans or using suboptimal indexes, and add indexes accordingly.
+
+Plan indexes upfront (especially for large collections): It’s best to create the necessary indexes before bulk loading data or before your collection grows large
+LEARN.MICROSOFT.COM
+. Building an index on an already large collection is a heavy operation. If you must add an index after data is present, Cosmos DB for MongoDB vCore can perform index builds in the background (this may require a support request to enable)
+LEARN.MICROSOFT.COM
+. You can initiate an index build asynchronously to avoid blocking the application.
+
+Leverage index intersection carefully: MongoDB’s engine can use more than one index to satisfy a complex query. While Cosmos DB vCore supports this feature
+LEARN.MICROSOFT.COM
+, it’s usually more efficient to create a compound index that directly matches the query pattern.
+
+Monitor and tune indexes: Regularly review your indexes and the performance of your queries. Use the $explain plan to see if queries are using indexes as expected. If an index isn’t being used at all, consider dropping it. Also check index sizes (db.collection.stats()) and watch out for large multi-key indexes on array fields.
+
+Sharding considerations: If your cluster is sharded, the shard key is crucial in query performance. Always include the shard key in your queries to ensure the query can be routed to the correct partition rather than broadcast to all shards. Cosmos DB for MongoDB vCore automatically creates an index on the shard key when you shard a collection.
+
+In summary, define a minimal set of indexes that cover your application’s query patterns. Revisit your index strategy as the data grows or query patterns change. Cosmos DB’s Azure portal and MongoDB tools can help analyze which indexes are used. Keep in mind the index limit (64 by default)
+LEARN.MICROSOFT.COM

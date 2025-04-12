@@ -1,0 +1,99 @@
+{
+    "_id": {
+        "$oid": "67db104900f5576d757004ba"
+    },
+    "action_id": "action_f0355c99-9cf6-4d17-a15d-f8af4267a1e3_add_deal_product",
+    "app_id": "f0355c99-9cf6-4d17-a15d-f8af4267a1e3",
+    "app_name": "Livespace",
+    "app_slug": "livespace",
+    "title": "Add Deal Product",
+    "description": "Adds a product to existing deal.",
+    "type": "write",
+    "normalized_categories": [
+        "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+        "crm"
+    ],
+    "fields": [
+        {
+            "name": "Deal ID",
+            "normalized_name": "deal_id",
+            "required": true
+        },
+        {
+            "name": "Product ID",
+            "normalized_name": "product_id",
+            "required": true
+        },
+        {
+            "name": "Discount percent",
+            "normalized_name": "discount_percent",
+            "required": false
+        },
+        {
+            "name": "Description",
+            "normalized_name": "description",
+            "required": false
+        },
+        {
+            "name": "Amount",
+            "normalized_name": "amount",
+            "required": false
+        },
+        {
+            "name": "Price",
+            "normalized_name": "price",
+            "required": false
+        },
+        {
+            "name": "Currency Action This is an event a Zap performs",
+            "normalized_name": "currency_action_this_is_an_event_a_zap_performs",
+            "required": false
+        }
+    ],
+    "normalized_fields": [
+        "deal_id",
+        "product_id",
+        "discount_percent",
+        "description",
+        "amount",
+        "price",
+        "currency_action_this_is_an_event_a_zap_performs"
+    ],
+    "required_fields": [
+        "deal_id",
+        "product_id"
+    ],
+    "optional_fields": [
+        "discount_percent",
+        "description",
+        "amount",
+        "price",
+        "currency_action_this_is_an_event_a_zap_performs"
+    ],
+    "field_count": 7,
+    "processed_at": {
+        "$date": "2025-03-19T18:43:21.683Z"
+    },
+    "rich_description": "Action: Add Deal Product\n        App: Livespace\n        Type: write\n        Categories: CRM (Customer Relationship Management)\n        Description: Adds a product to existing deal.\n        Fields: Deal ID, Product ID, Discount percent, Description, Amount",
+    "use_cases": [
+        "Create new records",
+        "Perform CRM (Customer Relationship Management) tasks"
+    ],
+    "updated_at": {
+        "$date": "2025-03-21T06:29:24.631Z"
+    },
+    "embedding_vector": [
+        -0.010931022465229034,
+        -0.008705136366188526,
+        -0.019753962755203247,
+        0.02879391238093376,
+        0.01297090109437704,
+        0.0028056083247065544,
+        0.007930106483399868,
+        0.02280448004603386,
+        0.008773338980972767,
+        0.009666173718869686
+    ]
+}

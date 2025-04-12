@@ -1,0 +1,22 @@
+# Core dependencies
+requests==2.31.0
+python-dotenv==1.0.1
+pymongo==4.6.1
+datetime>=4.3
+
+# Azure dependencies
+azure-identity==1.15.0
+azure-ai-projects==0.2.0
+
+# Other dependencies
+urllib3>=1.26.15
+certifi>=2022.12.7
+html2text>=2020.1.16
+
+argparse>=1.4.0
+jsonschema>=4.20.0
+
+# New dependencies
+openai==1.12.0
+pydantic==2.5.3
+python-dateutil==2.8.2 

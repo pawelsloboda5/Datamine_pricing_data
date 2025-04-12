@@ -1,0 +1,24 @@
+{
+  "url": "https://slack.com/pricing",
+  "is_accessible": true,
+  "error": null,
+  "content_length": 9958,
+  "pricing_analyzed": true,
+  "content_preview": "<div class=\"mobile_menu_header\"><a href=\"https://slack.com/\" class=\"logo\" data-clog-event=\"WEBSITE_CLICK\" data-clog-params=\"click_target=nav_logo\"></a><a href=\"#\" class=\"close\" aria-label=\"close\" data-clog-event=\"WEBSITE_CLICK\" data-clog-params=\"click_target=nav_menu_close\"><ts-icon class=\"ts_icon ts_icon_times\"></ts-icon></a> the Slack app Sign in Create a new workspace <div id=\"page_contents\" data-qa=\"page_contents\" class=\"\"><div data-automount-redacted-uri=\"/pricing\" data-automount-component=\"AdminMegaphoneHeaderContainer\" data-automount-props=\"{&quot;isFullWidth&quot;:false,&quot;pageType&quot;:&quot;default&quot;}\"> <h1>We're very sorry, but your browser is not supported! Please upgrade to a <a target=\"_blank\" href=\"https://slack.com/help/articles/115002037526-Minimum-requirements-for-using-Slack#web-browsers\">supported browser</a>, or try one of our apps. Desktop Apps <div class=\"col span_1_of_3 small align_center\"><div class=\"platform_icon platform_icon_100 mac_icon\"><a id=\"down...",
+  "pricing_data": {
+    "app_id": "slack",
+    "app_name": "Slack",
+    "app_slug": "slack",
+    "price_model_type": [
+      "unknown"
+    ],
+    "has_free_tier": false,
+    "has_free_trial": false,
+    "currency": "USD",
+    "is_pricing_public": true,
+    "pricing_page_accessible": true,
+    "pricing_notes": "Failed to extract structured pricing information after multiple attempts. The model response could not be parsed as valid JSON.",
+    "extraction_error": true,
+    "extraction_timestamp": "2025-04-12T01:50:45.374627"
+  }
+}

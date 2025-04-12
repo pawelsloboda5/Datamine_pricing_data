@@ -1,0 +1,24 @@
+{
+  "url": "https://slack.com/intl/en-gb/pricing",
+  "is_accessible": true,
+  "error": null,
+  "content_length": 145211,
+  "pricing_analyzed": true,
+  "content_preview": "<div class=\"c-slacklogo\"><a data-clog-click data-clog-ui-element=\"link_home\" data-clog-ui-component=\"inc_header_nav_deux\" class=\"c-slacklogo--white\" href=\"https://slack.com/intl/en-gb/\" aria-label=\"Slack\" data-qa=\"logo\"><img src=\"https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforce-logo-nav-white.png\" srcset=\"https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforce-logo-nav-white.png 1x, https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforce-logo-nav-white@2x.png 2x\" alt=\"Slack\" class=\"c-slacklogo--white\"><img src=\"https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforce-logo-nav-black.png\" srcset=\"https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforce-logo-nav-black.png 1x, https://a.slack-edge.com/3d92b39/marketing/img/nav/slack-salesforce-logo-nav-black@2x.png 2x\" alt=\"Slack\" class=\"c-slacklogo--color\"></a> Features COLLABORATION <div>Channels Organise teams and work <div>Slack Connect Work with external partners <div>Me...",
+  "pricing_data": {
+    "app_id": "slack",
+    "app_name": "Slack",
+    "app_slug": "slack",
+    "price_model_type": [
+      "unknown"
+    ],
+    "has_free_tier": false,
+    "has_free_trial": false,
+    "currency": "USD",
+    "is_pricing_public": true,
+    "pricing_page_accessible": true,
+    "pricing_notes": "Failed to extract structured pricing information after multiple attempts. The model response could not be parsed as valid JSON.",
+    "extraction_error": true,
+    "extraction_timestamp": "2025-04-12T01:50:38.607102"
+  }
+}

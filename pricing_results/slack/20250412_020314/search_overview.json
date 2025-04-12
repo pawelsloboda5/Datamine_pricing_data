@@ -1,0 +1,19 @@
+{
+  "app_name": "Slack",
+  "app_slug": "slack",
+  "timestamp": "2025-04-12T02:03:14.736733",
+  "search_term": "Find the official pricing page URL for Slack (slack.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "response_text": [
+    "Here is the official URL for Slack's pricing page: [https://slack.com/pricing](https://slack.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | Slack",
+      "url": "https://slack.com/intl/en-gb/pricing"
+    }
+  ],
+  "extracted_urls": [
+    "https://slack.com/intl/en-gb/pricing",
+    "https://slack.com/pricing"
+  ]
+}

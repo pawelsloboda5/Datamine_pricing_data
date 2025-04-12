@@ -1,0 +1,219 @@
+{
+    "_id": {
+        "$oid": "67db06b500f5576d756ed5de"
+    },
+    "app_id": "5314d505-b3fb-42ea-b3f5-516be72741c2",
+    "legacy_id": 3986,
+    "name": "GitLab",
+    "slug": "gitlab",
+    "description": "GitLab is an open source code collaboration tool with a rich feature set including management of repositories, reviewing tools, issue tracking, activity feeds and much more.",
+    "profile_url": "https://zapier.com/apps/gitlab/integrations",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/307fa4f7f37831684fe3e3ee33ab97d3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "is_premium": false,
+    "is_upcoming": false,
+    "is_beta": false,
+    "place": 382,
+    "categories_raw": [
+        {
+            "id": "4",
+            "title": "Developer Tools",
+            "slug": "developer-tools",
+            "__typename": "AppCategory"
+        }
+    ],
+    "normalized_categories": [
+        "Developer Tools"
+    ],
+    "category_slugs": [
+        "developer-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 10,
+    "template_count": 302,
+    "integration_links": [
+        {
+            "key": "Skip to content",
+            "value": "https://zapier.com/apps/gitlab/integrations#main"
+        },
+        {
+            "key": "Integrations",
+            "value": "https://zapier.com/apps/gitlab/integrations#integrations"
+        },
+        {
+            "key": "NotionTask Management",
+            "value": "https://zapier.com/apps/gitlab/integrations/notion"
+        },
+        {
+            "key": "SlackTeam Chat",
+            "value": "https://zapier.com/apps/gitlab/integrations/slack"
+        },
+        {
+            "key": "AsanaProject Management",
+            "value": "https://zapier.com/apps/gitlab/integrations/asana"
+        },
+        {
+            "key": "ClickUpProject Management",
+            "value": "https://zapier.com/apps/gitlab/integrations/clickup"
+        },
+        {
+            "key": "TrelloProject Management",
+            "value": "https://zapier.com/apps/gitlab/integrations/trello"
+        },
+        {
+            "key": "Jira Software CloudProject Management",
+            "value": "https://zapier.com/apps/gitlab/integrations/jira-software-cloud"
+        },
+        {
+            "key": "DiscordTeam Chat",
+            "value": "https://zapier.com/apps/gitlab/integrations/discord"
+        },
+        {
+            "key": "Google Forms (Legacy)Forms & Surveys, Google",
+            "value": "https://zapier.com/apps/gitlab/integrations/google-forms-legacy"
+        },
+        {
+            "key": "TodoistTask Management",
+            "value": "https://zapier.com/apps/gitlab/integrations/todoist"
+        },
+        {
+            "key": "Quickly automate GitLab integrations with Zapier's templates",
+            "value": "https://zapier.com/apps/gitlab/integrations#zap-template-list"
+        },
+        {
+            "key": "Details",
+            "value": "https://zapier.com/apps/gitlab/integrations/slack/16966/post-new-gitlab-issues-to-slack"
+        },
+        {
+            "key": "Supported triggers and actions",
+            "value": "https://zapier.com/apps/gitlab/integrations#triggers-and-actions"
+        },
+        {
+            "key": "GitLab",
+            "value": "https://zapier.com/apps/gitlab/integrations"
+        },
+        {
+            "key": "Paths by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/paths"
+        },
+        {
+            "key": "Filter by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/filter"
+        },
+        {
+            "key": "Formatter by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/formatter"
+        },
+        {
+            "key": "Webhooks by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/webhook"
+        },
+        {
+            "key": "Schedule by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/schedule"
+        },
+        {
+            "key": "Zapier Tables",
+            "value": "https://zapier.com/apps/gitlab/integrations/zapier-tables"
+        },
+        {
+            "key": "Code by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/code"
+        },
+        {
+            "key": "Storage by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/storage"
+        },
+        {
+            "key": "Sub-Zap by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/sub-zap-by-zapier"
+        },
+        {
+            "key": "AI by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/ai"
+        },
+        {
+            "key": "Delay by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/delay"
+        },
+        {
+            "key": "Looping by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/looping"
+        },
+        {
+            "key": "Email by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/email"
+        },
+        {
+            "key": "RSS by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/rss"
+        },
+        {
+            "key": "Zapier Manager",
+            "value": "https://zapier.com/apps/gitlab/integrations/zapier-manager"
+        },
+        {
+            "key": "Email Parser by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/email-parser"
+        },
+        {
+            "key": "Digest by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/digest"
+        },
+        {
+            "key": "Translate by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/translate"
+        },
+        {
+            "key": "IMAP by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/imap"
+        },
+        {
+            "key": "SMS by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/sms"
+        },
+        {
+            "key": "Weather by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/weather"
+        },
+        {
+            "key": "Zapier Interfaces",
+            "value": "https://zapier.com/apps/gitlab/integrations/interfaces"
+        },
+        {
+            "key": "URL Shortener by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/url-shortener"
+        },
+        {
+            "key": "SMTP by Zapier",
+            "value": "https://zapier.com/apps/gitlab/integrations/smtp"
+        },
+        {
+            "key": "Zapier Chrome extension",
+            "value": "https://zapier.com/apps/gitlab/integrations/zapier-chrome-extension"
+        }
+    ],
+    "processed_at": {
+        "$date": "2025-03-19T18:01:01.127Z"
+    },
+    "embedding_vector": [
+        -0.03716586157679558,
+        0.045569609850645065,
+        -0.014890017919242382,
+        -0.021613014861941338,
+        0.006622388493269682,
+        -0.03759196773171425,
+        -0.009220448322594166,
+        0.002768205711618066,
+        -0.010220612399280071,
+        -0.03207626938819885,
+        -0.014700637198984623,
+        -0.03797072917222977,
+        0.011670554056763649,
+        -0.047913189977407455,
+        0.02925924025475979,
+        0.03361498564481735,
+        -0.0019085971871390939
+    ]
+}

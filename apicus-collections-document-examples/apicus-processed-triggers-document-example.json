@@ -1,0 +1,78 @@
+{
+    "_id": {
+        "$oid": "67dae5b100f5576d756a85c2"
+    },
+    "trigger_id": "trigger_5539d92f-56d6-4bc1-a74d-00e08499b05e_new_invoice",
+    "app_id": "5539d92f-56d6-4bc1-a74d-00e08499b05e",
+    "app_name": "Stripe",
+    "app_slug": "stripe",
+    "title": "New Invoice",
+    "description": "Triggers on a new invoice. You can filter based on the invoice's status. (supports line items)",
+    "type": "scheduled",
+    "normalized_categories": [
+        "Payment Processing"
+    ],
+    "category_slugs": [
+        "payment-processing"
+    ],
+    "fields": [
+        {
+            "name": "Status",
+            "normalized_name": "status",
+            "required": false
+        },
+        {
+            "name": "Collection Method",
+            "normalized_name": "collection_method",
+            "required": false
+        },
+        {
+            "name": "Customer ID",
+            "normalized_name": "customer_id",
+            "required": false
+        },
+        {
+            "name": "Subscription ID",
+            "normalized_name": "subscription_id",
+            "required": false
+        }
+    ],
+    "normalized_fields": [
+        "status",
+        "collection_method",
+        "customer_id",
+        "subscription_id"
+    ],
+    "required_fields": [],
+    "optional_fields": [
+        "status",
+        "collection_method",
+        "customer_id",
+        "subscription_id"
+    ],
+    "field_count": 4,
+    "zap_link": "https://zapier.com/sign-up/?next=%2Fwebintent%2Fcreate-zap%3Fcreate%3Dtrue%26entry-point-location%3Dexplore%26template__0__action%3Dnew_invoice_v2%26template__0__selected_api%3DStripeCLIAPI%25402.20.6%26template__0__type_of%3Dread&selected_apis=StripeCLIAPI%402.20.6&referrer=%2Fapps%2Fstripe%2Fintegrations&utm_source=zapier&utm_medium=product&utm_campaign=zapier-gbl-zcr-display-team_explore_zt_integration_triggers&entry-point-method=make_a_zap_supported_trigger",
+    "processed_at": {
+        "$date": "2025-03-19T15:35:21.238Z"
+    },
+    "rich_description": "Trigger: New Invoice\n        App: Stripe\n        Type: scheduled\n        Categories: Payment Processing\n        Description: Triggers on a new invoice. You can filter based on the invoice's status. (supports line items)\n        Fields: Status, Collection Method, Customer ID, Subscription ID",
+    "use_cases": [
+        "Monitor Payment Processing events"
+    ],
+    "updated_at": {
+        "$date": "2025-03-21T06:40:46.518Z"
+    },
+    "embedding_vector": [
+        -0.030413223430514336,
+        0.036419596523046494,
+        -0.042854998260736465,
+        -0.05200756713747978,
+        -0.029221482574939728,
+        0.002319425344467163,
+        0.03193865343928337,
+        -0.010117879137396812,
+        0.01784035935997963,
+        -0.005175134167075157,
+        0.02829192578792572
+    ]
+}

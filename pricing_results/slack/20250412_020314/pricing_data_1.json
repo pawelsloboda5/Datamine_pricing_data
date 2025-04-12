@@ -1,0 +1,16 @@
+{
+  "priceModelType": "subscription",
+  "pricingTiers": [
+    {
+      "tierName": "Free",
+      "price": "$0/mth",
+      "freeTier": true,
+      "details": "Free forever with 90 days of message history"
+    }
+  ],
+  "app_slug": "slack",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "extraction_timestamp": "2025-04-12T02:03:05.355615",
+  "app_id": "slack"
+}

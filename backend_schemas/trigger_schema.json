@@ -1,0 +1,182 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Apicus Trigger Schema",
+  "type": "object",
+  "properties": {
+    "_id": {
+      "type": "object",
+      "properties": {
+        "$oid": {
+          "type": "string",
+          "description": "MongoDB ObjectId"
+        }
+      },
+      "required": ["$oid"]
+    },
+    "trigger_id": {
+      "type": "string",
+      "description": "Unique identifier for the trigger in format 'trigger_{app_id}_{trigger_name}'"
+    },
+    "app_id": {
+      "type": "string",
+      "description": "Unique identifier for the app this trigger belongs to"
+    },
+    "app_name": {
+      "type": "string",
+      "description": "Display name of the app"
+    },
+    "app_slug": {
+      "type": "string",
+      "description": "URL-friendly version of the app name"
+    },
+    "title": {
+      "type": "string",
+      "description": "Display title of the trigger"
+    },
+    "description": {
+      "type": "string",
+      "description": "Detailed description of what the trigger does"
+    },
+    "type": {
+      "type": "string",
+      "enum": ["instant", "scheduled", "trigger"],
+      "description": "Type of trigger (instant, scheduled, or trigger)"
+    },
+    "normalized_categories": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Normalized list of categories this trigger belongs to"
+    },
+    "category_slugs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "URL-friendly versions of categories"
+    },
+    "fields": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "description": "Display name of the field"
+              },
+              "normalized_name": {
+                "type": "string",
+                "description": "Normalized version of the field name"
+              },
+              "required": {
+                "type": "boolean",
+                "description": "Whether the field is required"
+              },
+              "type": {
+                "type": ["string", "null"],
+                "description": "Data type of the field (string, number, boolean, file, etc.)"
+              }
+            },
+            "required": ["name", "normalized_name", "required"]
+          },
+          {
+            "type": "null",
+            "description": "Field can be null for triggers without configurable fields"
+          }
+        ]
+      },
+      "description": "List of fields that this trigger accepts, can be null for triggers without configurable fields"
+    },
+    "normalized_fields": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Normalized list of field names"
+    },
+    "required_fields": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of normalized field names that are required"
+    },
+    "optional_fields": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of normalized field names that are optional"
+    },
+    "field_count": {
+      "type": "integer",
+      "description": "Total number of fields"
+    },
+    "zap_link": {
+      "type": "string",
+      "description": "URL link to create a Zap with this trigger"
+    },
+    "processed_at": {
+      "type": "object",
+      "properties": {
+        "$date": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the document was processed"
+        }
+      },
+      "required": ["$date"]
+    },
+    "rich_description": {
+      "type": "string",
+      "description": "Enhanced description with formatting that includes app, trigger, type, categories, and fields"
+    },
+    "use_cases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of potential use cases for this trigger"
+    },
+    "updated_at": {
+      "type": "object",
+      "properties": {
+        "$date": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When the document was last updated"
+        }
+      },
+      "required": ["$date"]
+    },
+    "embedding_vector": {
+      "type": "array",
+      "items": {
+        "type": "number"
+      },
+      "description": "Vector embedding for semantic search (added by the embedding process)"
+    }
+  },
+  "required": [
+    "trigger_id",
+    "app_id",
+    "app_name",
+    "app_slug",
+    "title",
+    "description",
+    "type",
+    "normalized_categories",
+    "category_slugs",
+    "fields",
+    "normalized_fields",
+    "required_fields",
+    "optional_fields",
+    "field_count",
+    "processed_at",
+    "rich_description",
+    "use_cases"
+  ]
+} 

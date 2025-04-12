@@ -1,0 +1,114 @@
+{
+  "app_id": "slack",
+  "app_name": "Slack",
+  "app_slug": "slack",
+  "pricing_url": "https://slack.com/pricing",
+  "source_url": "https://slack.com/pricing",
+  "all_pricing_urls": [
+    "https://slack.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Slack offers a free tier and subscription-based pricing for advanced features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for small teams.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to 10,000 of your team\u2019s most recent messages",
+        "10 integrations with other apps like Google Drive, Office 365, and many more",
+        "1-to-1 voice and video calls between teammates"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "5GB",
+        "operations": null,
+        "api_calls": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced features for small teams.",
+      "monthly_price": 7.25,
+      "annual_price": 87.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited message history",
+        "Unlimited integrations",
+        "Group voice and video calls with screen sharing",
+        "Secure collaboration with outside organizations or guests",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10GB",
+        "operations": null,
+        "api_calls": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business+",
+      "tier_description": "Additional features for larger businesses.",
+      "monthly_price": 12.5,
+      "annual_price": 150.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced identity management through SAML-based SSO and real-time Active Directory sync with OneLogin, Okta, and Ping",
+        "Compliance requirements support with data exports for all messages",
+        "Around-the-clock support with a four-hour response time"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "20GB",
+        "operations": null,
+        "api_calls": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise Grid",
+      "tier_description": "Custom solutions for large enterprises.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Support for large-scale collaboration across multiple workspaces",
+        "Advanced security and compliance support, including Enterprise Key Management",
+        "Customizable policies for data retention"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-12T03:19:37.945808",
+  "schema_validated": true,
+  "confidence_score": 95,
+  "extraction_error": false,
+  "json_repaired": false
+}

@@ -1,0 +1,25 @@
+{
+  "app_id": "slack",
+  "app_name": "Slack",
+  "app_slug": "slack",
+  "pricing_url": "https://slack.com/pricing?ui_step=28&ui_element=5",
+  "all_pricing_urls": [
+    "https://slack.com/pricing?ui_step=28&ui_element=5"
+  ],
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "currency": "USD",
+  "pricing_notes": "The provided HTML snippet does not include detailed pricing tier information. It focuses on download links, platform information, and website navigation. For complete pricing details including tier names, monthly/annual pricing, and feature lists, additional content from the Slack pricing page would be needed.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false
+  },
+  "promotional_offers": [],
+  "extraction_timestamp": "2025-04-12T02:03:14.319843"
+}
