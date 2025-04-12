@@ -1,0 +1,24 @@
+{
+  "app_name": "Hotjar",
+  "app_slug": "hotjar",
+  "search_term": "Find the official pricing page URL for Hotjar (hotjar.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744484110.0638564,
+  "response_text": [
+    "The official URL for the Hotjar pricing page is: [https://www.hotjar.com/pricing/](https://www.hotjar.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Hotjar Pricing: Choose The Plans That Work For You",
+      "url": "https://www.hotjar.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.hotjar.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=5)"
+    }
+  ],
+  "results_directory": "pricing_results\\hotjar\\20250412_145515"
+}

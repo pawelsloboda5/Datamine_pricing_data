@@ -10,154 +10,99 @@ from urllib.parse import quote_plus
 import pricing_schema
 from pricing_models import PricingData, PriceModelType
 from typing import List, Optional
+import asyncio
+import logging
+import uuid
+import config
+from pymongo import MongoClient, ReturnDocument
+import openai
+from openai import AzureOpenAI
+from tenacity import retry, stop_after_attempt, wait_exponential
+import aiohttp
 
 # Load environment variables
 load_dotenv()
 
 # MongoDB configuration
-MONGODB_URI = os.getenv("MONGODB_URI")
-MONGODB_DB_NAME = os.getenv("MONGODB_DB_NAME")
+MONGODB_URI = config.mongodb_uri
+MONGODB_DB_NAME = config.mongodb_db_name
 
 # Azure OpenAI configuration
-AZURE_OPENAI_ENDPOINT = os.getenv("AZURE_OPENAI_ENDPOINT")
-AZURE_OPENAI_API_KEY = os.getenv("AZURE_OPENAI_API_KEY")
-AZURE_OPENAI_API_VERSION = os.getenv("AZURE_OPENAI_API_VERSION", "2024-10-21")  # Updated to use latest API version
-# Changed from o3 model to o4 model for better function calling support
-AZURE_DEPLOYMENT = os.getenv("AZURE_o4_DEPLOYMENT")  # Using o4 model instead of o3 for better function calling
+AZURE_OPENAI_ENDPOINT = config.openai_endpoint
+AZURE_OPENAI_API_KEY = config.openai_api_key
+AZURE_OPENAI_API_VERSION = config.openai_api_version
+AZURE_DEPLOYMENT = config.openai_model
 
+# Setup logging
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
+
+# Get MongoDB connection string from config
+def get_mongodb_connection_string():
+    # Get connection string from config
+    connection_string = config.mongodb_uri
+    
+    # If not found, use default local connection
+    if not connection_string:
+        connection_string = "mongodb://localhost:27017/"
+        logger.warning("MongoDB connection string not found, using default local connection")
+    
+    return connection_string
+
+# Connect to MongoDB
 def connect_to_mongodb():
-    """Connect to MongoDB and return database client."""
-    try:
-        client = pymongo.MongoClient(MONGODB_URI)
-        db = client[MONGODB_DB_NAME]
-        print(f"Connected to MongoDB: {MONGODB_DB_NAME}")
-        return db
-    except Exception as e:
-        print(f"Error connecting to MongoDB: {e}")
-        raise
+    connection_string = get_mongodb_connection_string()
+    client = MongoClient(connection_string)
+    return client['apicus']
 
-# Add the improved repair_json function
+# Repair JSON if needed
 def repair_json(json_str):
     """
-    Attempt to repair malformed JSON strings.
+    Attempt to repair malformed JSON by fixing common issues.
     
     Args:
-        json_str (str): Potentially malformed JSON string
-    
+        json_str (str): JSON string to repair
+        
     Returns:
-        str: Repaired JSON string or None if repair failed
+        Tuple[str, bool]: (Repaired JSON string, whether repair was needed)
     """
-    try:
-        # Check if it's already valid
-        json.loads(json_str)
-        return json_str
-    except json.JSONDecodeError:
-        pass
+    repair_needed = False
     
-    # Remove any text before the first { and after the last }
-    first_brace = json_str.find('{')
-    last_brace = json_str.rfind('}')
-    if first_brace != -1 and last_brace != -1:
-        json_str = json_str[first_brace:last_brace+1]
+    # Replace any triple quotes with single quotes
+    if "'''" in json_str:
+        json_str = json_str.replace("'''", "'")
+        repair_needed = True
     
-    # More robust repair for JSON issues
-    try:
-        # First, check for common field errors that might be causing problems
-        if '"all_pricing_urls": [' in json_str and '"],' not in json_str and '"]' not in json_str:
-            # Fix the common case where all_pricing_urls array is not terminated
-            pattern = r'"all_pricing_urls": \[(.*?)(?=,\s*"|\s*\})'
-            match = re.search(pattern, json_str, re.DOTALL)
-            if match:
-                url_content = match.group(1).strip()
-                # If the array content doesn't end with a quote and bracket, add them
-                if not url_content.endswith(']'):
-                    if not url_content.endswith('"'):
-                        # If the last item doesn't end with a quote, add it
-                        if url_content and not url_content.endswith('"'):
-                            url_content += '"'
-                    # Close the array
-                    fixed_content = f'"all_pricing_urls": [{url_content}]'
-                    json_str = json_str.replace(match.group(0), fixed_content)
-
-        # Simple repair for unclosed quotes
-        lines = json_str.split('\n')
-        repaired_lines = []
-        
-        in_string = False  # Track if we're inside a string across lines
-        for i, line in enumerate(lines):
-            # Check for quote pairs in this line
-            for char_index, char in enumerate(line):
-                if char == '"' and (char_index == 0 or line[char_index-1] != '\\'):
-                    in_string = not in_string
-            
-            # If we're still in a string at the end of the line, close it
-            if in_string:
-                line = line + '"'
-                in_string = False
-            
-            # Check for lines that should end with comma but don't
-            if i < len(lines) - 1:  # Not the last line
-                line_stripped = line.strip()
-                if (line_stripped.endswith('"') or 
-                    line_stripped.endswith('}') or 
-                    line_stripped.endswith(']')) and not line_stripped.endswith(','):
-                    # Check if next line starts an object/array/key
-                    next_line = lines[i+1].strip()
-                    if next_line.startswith('"') or next_line.startswith('{') or next_line.startswith('['):
-                        line = line.rstrip() + ','
-                        
-            repaired_lines.append(line)
-        
-        # Try to parse the repaired JSON
-        repaired_json = '\n'.join(repaired_lines)
-        
-        # Additional cleanup for common JSON issues
-        # 1. Fix arrays with trailing commas
-        repaired_json = re.sub(r',\s*]', ']', repaired_json)
-        # 2. Fix objects with trailing commas
-        repaired_json = re.sub(r',\s*}', '}', repaired_json)
-        
-        try:
-            json.loads(repaired_json)
-            print("Successfully repaired JSON")
-            return repaired_json
-        except json.JSONDecodeError as e:
-            print(f"First repair attempt failed: {e}")
-            
-            # If our first attempt failed, try a more targeted approach
-            # Attempt to create a valid minimal object with the required fields
-            try:
-                # Extract the fields we can clearly identify
-                app_id_match = re.search(r'"app_id":\s*"([^"]+)"', json_str)
-                app_name_match = re.search(r'"app_name":\s*"([^"]+)"', json_str)
-                app_slug_match = re.search(r'"app_slug":\s*"([^"]+)"', json_str)
-                pricing_url_match = re.search(r'"pricing_url":\s*"([^"]+)"', json_str)
-                
-                minimal_json = {
-                    "app_id": app_id_match.group(1) if app_id_match else "unknown",
-                    "app_name": app_name_match.group(1) if app_name_match else "Unknown App",
-                    "app_slug": app_slug_match.group(1) if app_slug_match else "unknown-app",
-                    "pricing_url": pricing_url_match.group(1) if pricing_url_match else "",
-                    "all_pricing_urls": [],
-                    "price_model_type": ["unknown"],
-                    "has_free_tier": False,
-                    "has_free_trial": False,
-                    "currency": "USD",
-                    "is_pricing_public": True,
-                    "pricing_page_accessible": True,
-                    "pricing_notes": "JSON repair recovered only partial data due to malformed response.",
-                    "extraction_timestamp": datetime.now().isoformat(),
-                    "repair_attempted": True
-                }
-                
-                print("Created minimal valid JSON object with extracted fields")
-                return json.dumps(minimal_json)
-            except Exception as e2:
-                print(f"Minimal JSON creation failed: {e2}")
-                return None
-    except Exception as e:
-        print(f"Error during JSON repair: {e}")
-        return None
+    # Handle None vs null - Python uses None, JSON uses null
+    if " None," in json_str or ": None," in json_str or ": None}" in json_str:
+        json_str = json_str.replace(" None,", " null,")
+        json_str = json_str.replace(": None,", ": null,")
+        json_str = json_str.replace(": None}", ": null}")
+        repair_needed = True
+    
+    # Fix trailing commas in arrays and objects
+    if re.search(r",\s*\]", json_str) or re.search(r",\s*\}", json_str):
+        json_str = re.sub(r",(\s*\])", r"\1", json_str)
+        json_str = re.sub(r",(\s*\})", r"\1", json_str)
+        repair_needed = True
+    
+    # Fix missing commas in arrays
+    if re.search(r"\[[^\[\]{}:,]*[^\[\]{}:,\s][^\[\]{}:,]*\s+[^\[\]{}:,]+", json_str):
+        json_str = re.sub(r"(\[[^\[\]{}:,]*[^\[\]{}:,\s][^\[\]{}:,]*)\s+", r"\1, ", json_str)
+        repair_needed = True
+    
+    # Fix unquoted property names
+    if re.search(r"[\{\,]\s*([a-zA-Z_][a-zA-Z0-9_]*)\s*:", json_str):
+        json_str = re.sub(r"([\{\,]\s*)([a-zA-Z_][a-zA-Z0-9_]*)\s*:", r'\1"\2":', json_str)
+        repair_needed = True
+    
+    # Fix boolean values
+    if re.search(r":\s*True\b", json_str) or re.search(r":\s*False\b", json_str):
+        json_str = re.sub(r":\s*True\b", r": true", json_str)
+        json_str = re.sub(r":\s*False\b", r": false", json_str)
+        repair_needed = True
+    
+    return json_str, repair_needed
 
 def fetch_pricing_page_content(url):
     """
@@ -249,164 +194,301 @@ def check_pricing_is_public(content):
     # If we can't determine, default to assuming it's not public
     return len(content.strip()) > 500  # If substantial content but no clear indicators, assume something is there
 
-def analyze_pricing_with_openai(content, app_name, app_slug, is_pricing_public, is_page_accessible):
-    """
-    Use Azure OpenAI to analyze pricing page content and extract structured data
-    using Pydantic models for structured outputs.
+async def get_pricing_system_prompt():
+    """Get the system prompt for pricing analysis with the schema from pricing_schema.py."""
+    try:
+        # Get schema for prompt from pricing_schema.py
+        schema_json = pricing_schema.get_schema_for_prompt()
+        
+        # Build a system prompt with the schema
+        system_prompt = """You are a pricing data extraction specialist. Your task is to analyze content from software product pricing pages and extract structured pricing information.
+
+Extract the following details:
+1. Pricing model types (subscription, usage-based, one-time, etc.)
+2. Whether a free tier or free trial is available
+3. Currency used
+4. All pricing tiers with their names, monthly/annual prices, and features
+5. Any usage-based pricing details
+6. AI-specific pricing if applicable
+7. Promotional offers
+8. Additional fees
+
+Format the information according to the exact schema provided below:
+
+{}
+
+If information is not available, omit those fields rather than guessing. Be precise with pricing values and clearly distinguish between monthly and annual pricing.
+
+Do not include placeholder or example data - only extract what is explicitly stated in the content. Maintain the exact field names from the schema.""".format(schema_json)
+        
+        return system_prompt
+    except Exception as e:
+        logger.error(f"Error generating system prompt: {e}")
+        # Return a basic fallback prompt
+        return "Extract structured pricing information from this webpage content. Return results in JSON format."
+
+async def fetch_pricing_page_content(url, headers=None, timeout=60):
+    """Fetch content from a pricing page URL."""
+    if not headers:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.5',
+            'Connection': 'keep-alive',
+        }
     
-    Args:
-        content (str): Text content from the pricing page
-        app_name (str): Name of the app
-        app_slug (str): URL-friendly version of app name
-        is_pricing_public (bool): Whether the pricing appears to be publicly available
-        is_page_accessible (bool): Whether the pricing page was accessible
-    
-    Returns:
-        dict: Structured pricing data based on our schema
-    """
-    if not content or len(content.strip()) < 50:
-        print(f"Insufficient content for {app_name} to analyze")
+    try:
+        async with aiohttp.ClientSession() as session:
+            async with session.get(url, headers=headers, timeout=timeout) as response:
+                if response.status != 200:
+                    logger.warning(f"URL {url} returned status code {response.status}")
+                    return None
+                
+                content_type = response.headers.get('Content-Type', '')
+                if 'text/html' not in content_type and 'application/json' not in content_type:
+                    logger.warning(f"URL {url} has content type {content_type}, not HTML or JSON")
+                    return None
+                
+                content = await response.text()
+                return content
+    except Exception as e:
+        logger.error(f"Error fetching {url}: {e}")
         return None
+
+async def is_pricing_public(api_client, url_content, url):
+    """Check if the pricing information is publicly available."""
+    # If the content is empty or too short, consider pricing not public
+    if not url_content or len(url_content) < 100:
+        return False
     
-    # Initialize Azure OpenAI client
-    from openai import AzureOpenAI
-    
-    client = AzureOpenAI(
-        azure_endpoint=AZURE_OPENAI_ENDPOINT,
-        api_key=AZURE_OPENAI_API_KEY,
-        api_version=AZURE_OPENAI_API_VERSION
-    )
-    
-    # Build the system prompt
-    system_prompt = f"""You are an expert at analyzing pricing pages for software products and extracting structured pricing information.
-Your task is to extract pricing details for '{app_name}' from the provided content.
+    try:
+        # Use OpenAI to determine if the page has public pricing
+        response = await api_client.chat.completions.create(
+            model=config.openai_model,
+            messages=[
+                {"role": "system", "content": "You are a pricing data analyzer. Your task is to determine if this webpage contains specific pricing information."},
+                {"role": "user", "content": f"Does this webpage contain specific pricing information (prices, tiers, plans)? Please just answer YES or NO.\n\nURL: {url}\n\nContent: {url_content[:5000]}"}
+            ],
+            temperature=0,
+            max_tokens=10
+        )
+        
+        # Get the model's answer
+        answer = response.choices[0].message.content.strip().upper()
+        
+        # Check if the answer contains YES
+        return "YES" in answer
+    except Exception as e:
+        logger.error(f"Error checking if pricing is public for {url}: {e}")
+        # Default to False on error
+        return False
 
-Extract as much information as you can about:
-1. Pricing tiers (e.g., Basic, Pro, Enterprise)
-2. Monthly and annual pricing
-3. Free trials or free tiers
-4. Usage-based pricing (especially for API or AI services)
-5. Features included in each tier
-6. Any special promotional offers
-7. Any limitations on usage (users, storage, etc.)
-
-Important notes:
-- If specific information is not available, omit those fields rather than guessing
-- For price_model_type, identify all applicable pricing models
-- If limits appear to be unlimited, use the string 'unlimited' rather than a number
-- Include any pricing_notes that might help explain unusual or complex pricing structures
-- Set is_pricing_public to {str(is_pricing_public).lower()} based on our analysis
-- Set pricing_page_accessible to {str(is_page_accessible).lower()} based on our analysis
-"""
-
-    # Build user prompt - limit content length to avoid token limits
-    max_content_length = 32000  # Limiting to ~32k chars
-    if len(content) > max_content_length:
-        truncated_content = content[:max_content_length] + "...[content truncated due to length]"
-        user_prompt = f"Extract pricing information for {app_name} from this content:\n\n{truncated_content}"
-    else:
-        user_prompt = f"Extract pricing information for {app_name} from this content:\n\n{content}"
-
-    # Multiple retries with backoff
+async def extract_pricing_data(api_client, app_id, app_name, pricing_content, product_type, prompt_version=2):
+    logger.info(f"Analyzing pricing content for app_id: {app_id}, product_type: {product_type}")
+    # Default max retries with exponential backoff
     max_retries = 3
-    backoff_time = 2  # seconds
-    
-    for retry in range(max_retries):
+    retry_count = 0
+    backoff_factor = 2  # seconds
+
+    while retry_count < max_retries:
         try:
-            print(f"Analyzing pricing content for {app_name} using {AZURE_DEPLOYMENT} model (attempt {retry+1}/{max_retries})...")
-            
-            # Use parse method with Pydantic model for structured output
-            completion = client.beta.chat.completions.parse(
-                model=AZURE_DEPLOYMENT,
+            # Use Azure's OpenAI model to analyze the pricing content with structured outputs
+            response = await api_client.chat.completions.create(
+                model=config.openai_model,
+                response_format={"type": "json_object"},
                 messages=[
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_prompt}
+                    {"role": "system", "content": await get_pricing_system_prompt()},
+                    {"role": "user", "content": pricing_content}
                 ],
-                response_format=PricingData,
-                temperature=0.1,
-                seed=42  # For consistent results
+                temperature=0.2,
+                max_tokens=4000,
+                seed=1000,
+                data_format="structured_outputs",
+                schema=PricingData.schema(),
             )
             
-            # Extract the structured data
-            pricing_data = completion.choices[0].message.parsed
+            # Extract the structured pricing data from the model's response
+            # This will be a PricingData object that has already been validated
+            pricing_data = response.choices[0].message.data_format_output
             
-            # Convert to dictionary for backward compatibility
+            # Convert the Pydantic model to a dictionary for further processing
             pricing_dict = pricing_data.model_dump()
             
-            # Ensure required fields are present
-            if app_slug and not pricing_dict.get("app_slug"):
-                pricing_dict["app_slug"] = app_slug
-                
-            if not pricing_dict.get("app_id"):
-                pricing_dict["app_id"] = app_slug.lower() if app_slug else app_name.lower().replace(" ", "_")
-                
-            # Add timestamp for when this extraction was performed
-            pricing_dict["extraction_timestamp"] = datetime.now().isoformat()
+            # Ensure required fields are populated
+            pricing_dict["app_id"] = app_id
+            pricing_dict["app_name"] = app_name
+            pricing_dict["analysis_date"] = datetime.utcnow().isoformat()
+            pricing_dict["product_type"] = product_type
             
-            # Convert PriceModelType enum values to strings
+            # Convert Pydantic Enum values to strings for MongoDB storage
             if "price_model_type" in pricing_dict:
-                pricing_dict["price_model_type"] = [str(model_type) for model_type in pricing_dict["price_model_type"]]
+                pricing_dict["price_model_type"] = [
+                    model_type.value if isinstance(model_type, PriceModelType) else model_type
+                    for model_type in pricing_dict["price_model_type"]
+                ]
             
+            logger.info(f"Successfully extracted structured pricing data for app_id: {app_id}")
             return pricing_dict
             
         except Exception as e:
-            print(f"Error calling Azure OpenAI structured outputs API for {app_name}: {e}")
+            logger.error(f"Error with structured output extraction: {e}")
+            logger.info("Falling back to regular JSON extraction...")
             
-            # Log the error for debugging
-            error_log_file = f"error_logs_{app_name.lower().replace(' ', '_')}.txt"
-            with open(error_log_file, "w", encoding="utf-8") as f:
-                f.write(f"Structured Output Error: {e}\n\n")
-            
-            # Only retry if we haven't reached max retries
-            if retry < max_retries - 1:
-                wait_time = backoff_time * (2 ** retry)
-                print(f"Retrying in {wait_time}s...")
-                time.sleep(wait_time)
+            try:
+                # Fallback to regular JSON extraction
+                response = await api_client.chat.completions.create(
+                    model=config.openai_model,
+                    response_format={"type": "json_object"},
+                    messages=[
+                        {"role": "system", "content": await get_pricing_system_prompt()},
+                        {"role": "user", "content": pricing_content}
+                    ],
+                    temperature=0.2,
+                    max_tokens=4000,
+                    seed=1000
+                )
                 
-                # Simplify the prompt for the next retry
-                if retry == max_retries - 2:  # Last retry
-                    print("Simplifying prompt for final retry...")
-                    system_prompt = f"""Extract basic pricing information for '{app_name}'. 
-                    Focus on core pricing details: pricing tiers, prices, and free tier availability."""
-                    
-                    # Reduce content length further
-                    max_content_length = max_content_length // 2
-                    user_prompt = f"Extract pricing information for {app_name}:\n\n{content[:max_content_length]}"
-            else:
-                # If we've exhausted all retries, try the legacy approach
-                print(f"Structured output failed after {max_retries} attempts, falling back to legacy approach")
-                return create_fallback_pricing_data(app_name, app_slug, is_pricing_public, is_page_accessible)
-    
-    # If we've reached here, all retries failed
-    return create_fallback_pricing_data(app_name, app_slug, is_pricing_public, is_page_accessible)
+                # Extract the pricing data from the model's response
+                content = response.choices[0].message.content
+                
+                # Extract JSON from markdown code blocks if present
+                if "```json" in content:
+                    pattern = r"```json\s*([\s\S]*?)\s*```"
+                    match = re.search(pattern, content)
+                    if match:
+                        content = match.group(1)
+                elif "```" in content:
+                    pattern = r"```\s*([\s\S]*?)\s*```"
+                    match = re.search(pattern, content)
+                    if match:
+                        content = match.group(1)
+                
+                # Try to parse JSON, repair if needed
+                try:
+                    pricing_dict = json.loads(content.strip())
+                    json_repaired = False
+                except json.JSONDecodeError:
+                    # Try repairing the JSON
+                    repaired_json, json_repaired = repair_json(content.strip())
+                    try:
+                        pricing_dict = json.loads(repaired_json)
+                    except json.JSONDecodeError as e:
+                        # If repair fails, try to extract any JSON object from the text
+                        logger.error(f"JSON repair failed: {e}")
+                        pattern = r"\{[\s\S]*?\}"
+                        match = re.search(pattern, content)
+                        if match:
+                            extracted_json, json_repaired = repair_json(match.group(0))
+                            pricing_dict = json.loads(extracted_json)
+                        else:
+                            raise
+                
+                # Record if JSON repair was needed
+                pricing_dict["json_repaired"] = json_repaired
+                
+                # Ensure required fields are populated
+                pricing_dict["app_id"] = app_id
+                pricing_dict["app_name"] = app_name
+                pricing_dict["analysis_date"] = datetime.utcnow().isoformat()
+                pricing_dict["product_type"] = product_type
+                
+                # Normalize price_model_type
+                if "price_model_type" in pricing_dict:
+                    # Ensure price_model_type is always a list
+                    if pricing_dict["price_model_type"] is None:
+                        pricing_dict["price_model_type"] = ["custom"]
+                    elif not isinstance(pricing_dict["price_model_type"], list):
+                        # If it's a string, convert to a single-item list
+                        if isinstance(pricing_dict["price_model_type"], str):
+                            pricing_dict["price_model_type"] = [pricing_dict["price_model_type"]]
+                        else:
+                            # Try to convert other types to string and then to a list
+                            try:
+                                pricing_dict["price_model_type"] = [str(pricing_dict["price_model_type"])]
+                            except:
+                                pricing_dict["price_model_type"] = ["custom"]
+                else:
+                    pricing_dict["price_model_type"] = ["custom"]
 
-def create_fallback_pricing_data(app_name, app_slug, is_pricing_public, is_page_accessible):
-    """
-    Create a minimal pricing data document when extraction fails.
-    
-    Args:
-        app_name (str): Name of the app
-        app_slug (str): URL-friendly version of app name
-        is_pricing_public (bool): Whether the pricing appears to be publicly available
-        is_page_accessible (bool): Whether the pricing page was accessible
-        
-    Returns:
-        dict: Minimal pricing data
-    """
-    return {
-        "app_id": app_slug.lower() if app_slug else app_name.lower().replace(" ", "_"),
-        "app_name": app_name,
-        "app_slug": app_slug,
-        "price_model_type": ["unknown"],
-        "has_free_tier": False,
-        "has_free_trial": False,
-        "currency": "USD",
-        "is_pricing_public": is_pricing_public,
-        "pricing_page_accessible": is_page_accessible,
-        "pricing_notes": "Failed to extract structured pricing information after multiple attempts.",
-        "extraction_error": True,
-        "extraction_timestamp": datetime.now().isoformat()
-    }
+                # Normalize model types in the list
+                if "price_model_type" in pricing_dict:
+                    valid_types = [e.value for e in PriceModelType]
+                    
+                    # Map old model types to new enum values
+                    model_type_mapping = {
+                        "free": PriceModelType.FREE_TIER.value,
+                        "freemium": PriceModelType.HYBRID.value,
+                        "tiered": PriceModelType.SUBSCRIPTION.value,
+                        "per_user": PriceModelType.SUBSCRIPTION.value,
+                        "flat_rate": PriceModelType.ONE_TIME.value,
+                        "contact_sales": PriceModelType.QUOTE_BASED.value,
+                        "open_source": PriceModelType.FREE_TIER.value,
+                        "unknown": PriceModelType.CUSTOM.value,
+                    }
+                    
+                    for i, model_type in enumerate(pricing_dict["price_model_type"]):
+                        if model_type is None:
+                            pricing_dict["price_model_type"][i] = PriceModelType.CUSTOM.value
+                        elif isinstance(model_type, str):
+                            # Convert to lowercase and sanitize
+                            model_type = model_type.lower().replace(' ', '_')
+                            # Check if it matches one of our enum values
+                            if model_type in model_type_mapping:
+                                model_type = model_type_mapping[model_type]
+                            elif model_type not in valid_types:
+                                model_type = PriceModelType.CUSTOM.value
+                            pricing_dict["price_model_type"][i] = model_type
+                
+                # Ensure array fields are not null but empty lists
+                array_fields = [
+                    'pricing_tiers',
+                    'usage_based_pricing',
+                    'promotional_offers',
+                    'additional_fees',
+                    'all_pricing_urls'
+                ]
+                
+                for field in array_fields:
+                    if field not in pricing_dict or pricing_dict[field] is None:
+                        pricing_dict[field] = []
+                
+                # Create fallback pricing data in case extraction fails for some fields
+                if 'has_free_tier' not in pricing_dict or pricing_dict['has_free_tier'] is None:
+                    pricing_dict['has_free_tier'] = False
+                    
+                # Ensure ai_specific_pricing is a dict if present
+                if 'ai_specific_pricing' in pricing_dict and pricing_dict['ai_specific_pricing'] is None:
+                    pricing_dict['ai_specific_pricing'] = {}
+                
+                logger.info(f"Successfully extracted pricing data for app_id: {app_id} using fallback method")
+                return pricing_dict
+                
+            except Exception as fallback_error:
+                retry_count += 1
+                if retry_count >= max_retries:
+                    logger.error(f"Failed to extract pricing data after {max_retries} attempts for app_id: {app_id}. Error: {fallback_error}")
+                    # Create fallback pricing data in case extraction fails
+                    fallback_data = {
+                        "app_id": app_id,
+                        "app_name": app_name,
+                        "analysis_date": datetime.utcnow().isoformat(),
+                        "product_type": product_type,
+                        "price_model_type": [PriceModelType.CUSTOM.value],
+                        "has_free_tier": False,
+                        "pricing_tiers": [],
+                        "usage_based_pricing": [],
+                        "promotional_offers": [],
+                        "additional_fees": [],
+                        "all_pricing_urls": [],
+                        "extraction_failed": True,
+                        "error_message": str(fallback_error)
+                    }
+                    return fallback_data
+                else:
+                    # Calculate exponential backoff time
+                    sleep_time = backoff_factor ** retry_count
+                    logger.warning(f"Retry {retry_count} after error: {fallback_error}. Waiting {sleep_time} seconds before retry.")
+                    await asyncio.sleep(sleep_time)
 
 def create_embeddings(text, app_name):
     """

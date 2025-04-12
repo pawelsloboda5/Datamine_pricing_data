@@ -25,6 +25,7 @@ class Limits(BaseModel):
     storage: Optional[str] = Field(None, description="Storage limit (e.g., '10GB') or 'unlimited'")
     operations: Optional[Union[int, str]] = Field(None, description="Number of operations included or 'unlimited'")
     api_calls: Optional[Union[int, str]] = Field(None, description="Number of API calls included or 'unlimited'")
+    integrations: Optional[Union[int, str]] = Field(None, description="Number of integrations allowed or 'unlimited'")
     custom_limits: Optional[List[CustomLimit]] = Field(None, description="Custom limits specific to this application")
 
 
@@ -67,6 +68,7 @@ class AISpecificPricing(BaseModel):
     has_inference_pricing: Optional[bool] = Field(None, description="Whether the app has special pricing for inference")
     has_fine_tuning_pricing: Optional[bool] = Field(None, description="Whether the app has special pricing for fine-tuning")
     has_training_pricing: Optional[bool] = Field(None, description="Whether the app has special pricing for model training")
+    ai_addon_available: Optional[bool] = Field(None, description="Whether the app has an AI-specific addon available")
 
 
 class PromotionalOffer(BaseModel):

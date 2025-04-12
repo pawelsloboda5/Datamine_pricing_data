@@ -1,0 +1,194 @@
+{
+  "app_id": "teamup",
+  "app_name": "TeamUp",
+  "app_slug": "teamup",
+  "pricing_url": "https://www.teamup.com/pricing/",
+  "source_url": "https://www.teamup.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.teamup.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 3,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on master calendars with additional options for sub-calendars and account users.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free service with basic features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 8 sub-calendars",
+        "8 account-based users",
+        "Unlimited anonymous users via shareable links"
+      ],
+      "limits": {
+        "users": 8,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Sub-calendars",
+            "value": 8
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Enhanced features for small teams.",
+      "monthly_price": 12.0,
+      "annual_price": 120.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "12 sub-calendars",
+        "12 account users",
+        "1 custom field",
+        "2GB storage for attached files",
+        "Daily Agenda",
+        "5-year historical data",
+        "4-hour sync frequency for inbound iCal feeds"
+      ],
+      "limits": {
+        "users": 12,
+        "storage": "2GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Sub-calendars",
+            "value": 12
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced features for growing teams.",
+      "monthly_price": 29.0,
+      "annual_price": 300.0,
+      "annual_discount_percentage": 13.79,
+      "setup_fee": null,
+      "features": [
+        "25 sub-calendars",
+        "25 account users",
+        "5 custom fields",
+        "20GB storage for attached files",
+        "1-hour sync frequency for inbound iCal feeds",
+        "Option to add more account users ($3 per user/month)"
+      ],
+      "limits": {
+        "users": 25,
+        "storage": "20GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Sub-calendars",
+            "value": 25
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Comprehensive features for larger organizations.",
+      "monthly_price": 69.0,
+      "annual_price": 720.0,
+      "annual_discount_percentage": 13.04,
+      "setup_fee": null,
+      "features": [
+        "70 sub-calendars",
+        "50 account users",
+        "20 custom fields",
+        "100GB storage for attached files",
+        "15-min sync frequency for inbound iCal feeds",
+        "10-year historical data",
+        "Option to add more sub-calendars ($10 per month/pack of 10 calendars)"
+      ],
+      "limits": {
+        "users": 50,
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Sub-calendars",
+            "value": 70
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Enterprise-grade features for large-scale operations.",
+      "monthly_price": 129.0,
+      "annual_price": 1260.0,
+      "annual_discount_percentage": 18.6,
+      "setup_fee": null,
+      "features": [
+        "150 sub-calendars",
+        "100 account users",
+        "50 custom fields",
+        "400GB storage for attached files",
+        "Single sign-on (SSO)",
+        "Option for consolidated billing",
+        "Call back support"
+      ],
+      "limits": {
+        "users": 100,
+        "storage": "400GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Sub-calendars",
+            "value": 150
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-12T03:55:37.486502",
+  "schema_validated": false,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "453ff064-78ec-4cc0-bba5-e4b093b0bf4c",
+    "name": "TeamUp",
+    "slug": "teamup",
+    "description": "TeamUp manages fitness businesses around the world. This integration is for businesses only.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/8284195bfd495bae739a80088f6f57df.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fitness"
+    ],
+    "category_slugs": [
+      "fitness"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 15
+  }
+}

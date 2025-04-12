@@ -16,7 +16,7 @@ MONGODB_URI = os.getenv("MONGODB_URI")
 MONGODB_DB_NAME = os.getenv("MONGODB_DB_NAME")
 
 # Jina.ai configuration
-JINA_SEARCH_ENDPOINT = "https://reader.jina.ai/api/extract"
+JINA_SEARCH_ENDPOINT = "https://r.jina.ai/"
 MAX_RETRIES = 3
 RETRY_DELAY = 2  # seconds
 
@@ -45,31 +45,46 @@ def fetch_content_with_jina(url):
         url (str): URL to extract content from
     
     Returns:
-        tuple: (content, is_accessible) where content is the extracted text and is_accessible is a boolean
+        tuple: (content, is_accessible, error_message) where content is the extracted text,
+               is_accessible is a boolean, and error_message contains any error details
     """
     try:
-        # Jina Reader API - provides a clean, extracted version of the webpage
-        reader_url = f"{JINA_SEARCH_ENDPOINT}?url={quote_plus(url)}"
+        # Jina Reader API - correct format is 'https://r.jina.ai/https://example.com'
+        reader_url = f"{JINA_SEARCH_ENDPOINT}{url}"
         headers = {'Accept': 'application/json'}
         
         print(f"Fetching content using Jina.ai Reader API: {url}")
-        response = requests.get(reader_url, headers=headers, timeout=30)
+        # Add a 5-second timeout for the Jina.ai API call
+        response = requests.get(reader_url, headers=headers, timeout=5)
         
         if response.status_code == 200:
             try:
                 data = response.json()
                 
                 # For debugging, print the response structure
-                if "data" in data:
-                    # Extract the main content text from the nested structure
+                print(f"Jina.ai response structure: {list(data.keys())}")
+                
+                # Parse according to the expected format
+                content = ""
+                
+                # Check if the response has the expected structure with "data" key
+                if "data" in data and isinstance(data["data"], dict):
+                    # Extract content from the data object
                     content = data["data"].get("content", "")
                     title = data["data"].get("title", "")
                     
                     # If we got title but no content, create minimal content
                     if title and not content:
                         content = f"# {title}\n\n"
+                        
+                    # Add description if available
+                    description = data["data"].get("description", "")
+                    if description and not content:
+                        content = f"{title}\n\n{description}\n\n"
+                    elif description:
+                        content += f"\n\n{description}"
                 else:
-                    # Extract the main content text directly
+                    # Legacy format - try alternative fields
                     content = data.get("text", "")
                     
                     # Also get any tables that might contain pricing information
@@ -85,20 +100,20 @@ def fetch_content_with_jina(url):
                 
                 if is_accessible:
                     print(f"Successfully extracted {len(content)} characters from {url}")
-                    return content, is_accessible
+                    return content, is_accessible, None
                 else:
                     print(f"Insufficient content extracted from {url}")
-                    return None, False
+                    return None, False, "Insufficient content extracted"
                     
             except json.JSONDecodeError as e:
                 print(f"Error parsing JSON response from Jina.ai for {url}: {e}")
-                return None, False
+                return None, False, f"JSON parsing error: {e}"
         else:
             print(f"Error fetching content from {url}: HTTP {response.status_code}")
-            return None, False
+            return None, False, f"HTTP error: {response.status_code}"
     except Exception as e:
-        print(f"Error during content extraction for {url}: {e}")
-        return None, False
+        print(f"Error during content extraction with Jina.ai for {url}: {e}")
+        return None, False, f"Exception: {e}"
 
 def search_pricing_page(app_name, app_slug=None):
     """
@@ -567,7 +582,7 @@ def process_apps(limit=10):
         # Try to fetch content from each URL until we find one that works
         valid_pricing_urls = []
         for url in pricing_urls:
-            content, is_accessible = fetch_content_with_jina(url)
+            content, is_accessible, error_message = fetch_content_with_jina(url)
             if content and is_accessible:
                 valid_pricing_urls.append(url)
                 print(f"Found valid pricing page at {url}")

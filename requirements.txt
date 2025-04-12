@@ -6,7 +6,7 @@ datetime>=4.3
 
 # Azure dependencies
 azure-identity==1.15.0
-azure-ai-projects==0.2.0
+azure-ai-projects==1.0.0b8
 
 # Other dependencies
 urllib3>=1.26.15
@@ -17,6 +17,27 @@ argparse>=1.4.0
 jsonschema>=4.20.0
 
 # New dependencies
-openai==1.12.0
+openai==1.73.0
 pydantic==2.5.3
 python-dateutil==2.8.2 
+
+# pydantic
+pydantic==2.5.3
+
+# pymongo
+pymongo==4.6.1
+
+# tenacity
+tenacity==8.2.2
+
+# aiohttp
+aiohttp==3.7.4
+
+# tenacity
+tenacity==8.2.2
+
+
+
+
+
+

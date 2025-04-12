@@ -154,6 +154,10 @@ PRICING_SCHEMA = {
                                 "type": ["integer", "string"],
                                 "description": "Number of API calls included or 'unlimited'"
                             },
+                            "integrations": {
+                                "type": ["integer", "string"],
+                                "description": "Number of integrations allowed or 'unlimited'"
+                            },
                             "custom_limits": {
                                 "type": "array",
                                 "items": {
@@ -273,6 +277,10 @@ PRICING_SCHEMA = {
                 "has_training_pricing": {
                     "type": "boolean",
                     "description": "Whether the app has special pricing for model training"
+                },
+                "ai_addon_available": {
+                    "type": "boolean",
+                    "description": "Whether the app has an AI-specific addon available"
                 }
             },
             "description": "AI-specific pricing details"
@@ -391,6 +399,7 @@ def get_schema_for_prompt():
                     "storage": "string - Storage limit (e.g., '10GB') or 'unlimited'",
                     "operations": "integer or 'unlimited' - Number of operations included",
                     "api_calls": "integer or 'unlimited' - Number of API calls included",
+                    "integrations": "integer or 'unlimited' - Number of integrations allowed",
                     "custom_limits": [
                         {
                             "name": "string - Name of the limit",
@@ -425,7 +434,8 @@ def get_schema_for_prompt():
                     "output_price": "number - Output price",
                     "unit": "string - Pricing unit"
                 }
-            ]
+            ],
+            "ai_addon_available": "boolean - Whether the app has an AI-specific addon available"
         },
         "promotional_offers": [
             {

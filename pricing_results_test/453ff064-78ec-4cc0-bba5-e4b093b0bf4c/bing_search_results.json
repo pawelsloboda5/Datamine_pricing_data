@@ -1,0 +1,30 @@
+{
+  "app_name": "TeamUp",
+  "app_slug": "teamup",
+  "search_term": "Find the official pricing page URL for TeamUp (teamup.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744484062.5781283,
+  "response_text": [
+    "The official pricing page for TeamUp is available at [https://www.teamup.com/pricing](https://www.teamup.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Teamup.com",
+      "url": "https://www.teamup.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.teamup.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=5)"
+    },
+    {
+      "url": "https://www.teamup.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=5)"
+    }
+  ],
+  "results_directory": "pricing_results\\teamup\\20250412_145433"
+}

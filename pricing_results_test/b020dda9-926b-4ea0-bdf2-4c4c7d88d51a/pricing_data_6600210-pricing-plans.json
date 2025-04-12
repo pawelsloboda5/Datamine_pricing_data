@@ -1,0 +1,83 @@
+{
+  "app_id": "folk",
+  "app_name": "folk",
+  "app_slug": "folk",
+  "pricing_url": null,
+  "source_url": "https://help.folk.app/en/articles/6600210-pricing-plans",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is calculated per seat and includes a custom plan option based on user needs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "The standard package includes basic features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic features"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "The premium package includes advanced features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced features"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Personalized package based on user needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Customizable limits"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-12T14:55:00.672677",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b020dda9-926b-4ea0-bdf2-4c4c7d88d51a",
+    "name": "folk",
+    "slug": "folk",
+    "description": "folk is the next generation CRM for teams",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/dbb26b1e29ee172c9ca8dbc4877e671a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 7
+  }
+}

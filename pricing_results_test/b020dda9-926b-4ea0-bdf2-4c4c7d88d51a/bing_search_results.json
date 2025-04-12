@@ -1,0 +1,97 @@
+{
+  "app_name": "folk",
+  "app_slug": "folk",
+  "search_term": "Find the official pricing page URL for folk (folk.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744484082.726754,
+  "response_text": [
+    "The exact URL for the official pricing page of Folk is: [https://help.folk.app/en/articles/7442361-pricing-plans](https://help.folk.app/en/articles/7442361-pricing-plans)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing plans | Folk Help & Support",
+      "url": "https://help.folk.app/en/articles/6600210-pricing-plans"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://help.folk.app/en/articles/7442361-pricing-plans",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=5)"
+    },
+    {
+      "url": "https://help.folk.app/en/articles/6600210-pricing-plans",
+      "is_accessible": true,
+      "content": "When you sign up to folk for the first time, we immediately activate a **2-week free trial** on your workspace with the Premium features. This way you can fully test folk before making your decision.\n\nOnce your trial has ended, you'll need to upgrade to your preferred plan if you want to keep using folk. Otherwise, your account is blocked.\n\nWe offer the three following plans:\n\n**1\\. Standard plan**\n---------------------\n\nThe standard package includes:\n\nPrice per seat (calculated based on the number of members in your workspace):\n\n**2\\. Premium plan**\n--------------------\n\nThe premium package includes:\n\n**Advanced features:**\n\nPrice per seat (calculated based on the number of members in your workspace):\n\n3\\. Custom plan\n---------------\n\nThe Custom plan lets you personalize your package with the limits that will fit your needs.\n\nIf you're interested, please feel free to contact us through [this email](mailto:folks@folk.app) to let us know how many messages, enrichments, or magic fields you need. We'll then get back to you with a quote \ud83d\ude0a\n\n* * *\n\nRelated Articles\n\n[Data Enrichment](https://help.folk.app/en/articles/6804416-data-enrichment)[Import contacts from Outlook](https://help.folk.app/en/articles/7229210-import-contacts-from-outlook)[Magic Fields: AI powered-fields](https://help.folk.app/en/articles/7325564-magic-fields-ai-powered-fields)[What are folk hard limits?](https://help.folk.app/en/articles/8632488-what-are-folk-hard-limits)[Start your free trial](https://help.folk.app/en/articles/9717880-start-your-free-trial)\n\nWe have variety of plans to fit your needs",
+      "error": null,
+      "pricing_data": {
+        "app_id": "folk",
+        "app_name": "folk",
+        "app_slug": "folk",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is calculated per seat for Standard and Premium plans. Custom plan requires contacting for a quote.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Standard",
+            "tier_description": "The standard package includes basic features.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Basic features"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Premium",
+            "tier_description": "The premium package includes advanced features.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Advanced features"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Custom",
+            "tier_description": "Custom plan lets you personalize your package with the limits that will fit your needs.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Personalized limits"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-12T14:54:56.399338",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\folk\\20250412_145456"
+}

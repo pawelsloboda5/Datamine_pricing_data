@@ -1,0 +1,12 @@
+{
+  "app_name": "Moneybird",
+  "app_slug": "moneybird",
+  "search_term": "Find the official pricing page URL for Moneybird (moneybird.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744484124.517574,
+  "response_text": [
+    "I could not locate the official pricing page on the initial search. Could you verify the company you are looking for its official source or provide further clarification?"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\moneybird\\20250412_145524"
+}

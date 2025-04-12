@@ -19,6 +19,7 @@ import pricing_schema
 from pricing_models import PricingData, PriceModelType
 from typing import List, Dict, Optional
 from extract_pricing_data import check_pricing_is_public
+from scrape_w_jina_ai import fetch_content_with_jina
 
 # Load environment variables
 load_dotenv()
@@ -38,15 +39,35 @@ AZURE_DEPLOYMENT = os.getenv("AZURE_o4_DEPLOYMENT", "o4-apicus")  # Using o4 mod
 def initialize_project_client():
     """Initialize and return the Azure AI Project client."""
     try:
+        # Create credential with explicit exclusions to avoid proxy settings
+        credential = DefaultAzureCredential(
+            exclude_shared_token_cache_credential=True,
+            exclude_visual_studio_code_credential=True,
+            exclude_powershell_credential=True,
+            exclude_environment_credential=True
+        )
+        
+        # Initialize the client with minimal credential options
         project_client = AIProjectClient.from_connection_string(
-            credential=DefaultAzureCredential(),
+            credential=credential,
             conn_str=PROJECT_CONNECTION_STRING,
         )
         print("Connected to Azure AI Project")
         return project_client
     except Exception as e:
         print(f"Error connecting to Azure AI Project: {e}")
-        raise
+        
+        # Try connecting without credential as fallback
+        try:
+            print("Trying to connect without credential parameter...")
+            project_client = AIProjectClient.from_connection_string(
+                conn_str=PROJECT_CONNECTION_STRING
+            )
+            print("Connected to Azure AI Project (fallback method)")
+            return project_client
+        except Exception as e2:
+            print(f"Fallback connection also failed: {e2}")
+            raise
 
 def get_bing_grounding_tool(project_client):
     """Retrieve Bing Search connection and create a Bing grounding tool."""
@@ -70,171 +91,6 @@ def extract_urls_from_text(text):
     url_pattern = r'https?://[^\s"\'\)\]}>]+'
     urls = re.findall(url_pattern, text)
     return urls
-
-def extract_text_from_html(html_content):
-    """
-    Extract readable text from HTML content.
-    
-    Args:
-        html_content (str): HTML content
-        
-    Returns:
-        str: Extracted text
-    """
-    try:
-        # Remove script and style elements that contain non-visible text
-        no_script_content = re.sub(r'<script[^>]*>.*?</script>', '', html_content, flags=re.DOTALL)
-        no_style_content = re.sub(r'<style[^>]*>.*?</style>', '', no_script_content, flags=re.DOTALL)
-        
-        # Replace multiple newlines and spaces with single ones
-        cleaned_content = re.sub(r'\s+', ' ', no_style_content)
-        
-        # Extract text from paragraph, heading, div, and span tags
-        paragraphs = re.findall(r'<(?:p|h1|h2|h3|h4|h5|h6|div|span)[^>]*>(.*?)</(?:p|h1|h2|h3|h4|h5|h6|div|span)>', cleaned_content)
-        
-        # Also extract table content
-        tables = re.findall(r'<table[^>]*>(.*?)</table>', html_content, flags=re.DOTALL)
-        
-        # Combine all extracted content
-        extracted_text = '\n\n'.join(paragraphs)
-        
-        # Add tables at the end
-        for i, table in enumerate(tables):
-            # Simple table extraction without formatting
-            table_text = re.sub(r'<[^>]+>', ' ', table)
-            table_text = re.sub(r'\s+', ' ', table_text).strip()
-            if table_text:
-                extracted_text += f"\n\nTable {i+1}:\n{table_text}"
-        
-        # Clean up the text further
-        final_text = re.sub(r'\s+', ' ', extracted_text).strip()
-        
-        # If we didn't get much text, use a simpler approach
-        if len(final_text) < 500:
-            # Simple removal of all HTML tags
-            simple_text = re.sub(r'<[^>]+>', ' ', html_content)
-            simple_text = re.sub(r'\s+', ' ', simple_text).strip()
-            return simple_text
-            
-        return final_text
-    except Exception as e:
-        print(f"Error extracting text from HTML: {e}")
-        # Fallback to a simpler extraction if regex fails
-        text = re.sub(r'<[^>]+>', ' ', html_content)  # Remove HTML tags
-        text = re.sub(r'\s{2,}', ' ', text)  # Replace multiple spaces with a single space
-        return text
-
-def direct_fetch_content(url):
-    """
-    Attempt to directly fetch content from a URL without using Jina.ai.
-    This is a fallback method when Jina.ai extraction fails.
-    
-    Args:
-        url (str): URL to fetch content from
-    
-    Returns:
-        tuple: (content, is_accessible, error_message)
-    """
-    try:
-        # Custom headers to mimic a browser
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
-            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-            'Accept-Language': 'en-US,en;q=0.5',
-            'DNT': '1',
-            'Connection': 'keep-alive',
-            'Upgrade-Insecure-Requests': '1',
-        }
-        
-        print(f"Attempting direct fetch from: {url}")
-        response = requests.get(url, headers=headers, timeout=30, allow_redirects=True)
-        
-        if response.status_code == 200:
-            # Get HTML content
-            html_content = response.text
-            
-            # Simple check if it looks like valid HTML content with reasonable length
-            is_accessible = len(html_content) > 1000 and "<html" in html_content.lower()
-            
-            if is_accessible:
-                # Extract readable text from HTML
-                extracted_text = extract_text_from_html(html_content)
-                
-                # Check if we got meaningful text
-                if len(extracted_text) > 500:
-                    print(f"Successfully extracted {len(extracted_text)} characters of text from HTML")
-                    return extracted_text, True, None
-                else:
-                    print(f"Extracted content too short: {len(extracted_text)} characters")
-            
-            return html_content, is_accessible, None
-        else:
-            return None, False, f"Error directly fetching from {url}: HTTP {response.status_code}"
-    except Exception as e:
-        return None, False, f"Error during direct fetch for {url}: {e}"
-
-def extract_content_with_jina(url):
-    """
-    Extract content from a URL using Jina.ai reader API.
-    
-    Args:
-        url (str): URL to extract content from
-    
-    Returns:
-        tuple: (content, is_accessible, error_message)
-    """
-    try:
-        # Use Jina.ai reader API with proper URL encoding
-        reader_url = f"https://reader.jina.ai/api/extract?url={quote_plus(url)}"
-        headers = {'Accept': 'application/json'}
-        
-        print(f"Calling Jina.ai reader API: {reader_url}")
-        response = requests.get(reader_url, headers=headers, timeout=30)
-        
-        if response.status_code == 200:
-            try:
-                data = response.json()
-                content = ""
-                
-                # Handle the response format from the actual API
-                if "data" in data and isinstance(data["data"], dict):
-                    # This is the format shown in the example: {"data": {"content": "...", "title": "..."}}
-                    content = data["data"].get("content", "")
-                    title = data["data"].get("title", "")
-                    
-                    # If title is available but no content, create a minimal content
-                    if title and not content:
-                        content = f"# {title}\n\n"
-                else:
-                    # Legacy format without the data wrapper - directly access text and tables
-                    content = data.get("text", "")
-                    
-                    # Also get any tables that might contain pricing information
-                    tables = data.get("tables", [])
-                    table_text = "\n\n".join([f"Table {i+1}:\n" + table for i, table in enumerate(tables)])
-                    
-                    # Combine content and tables
-                    if table_text:
-                        content += "\n\n" + table_text
-                
-                # Check if page was accessible with meaningful content
-                is_accessible = len(content.strip()) > 100
-                
-                if is_accessible:
-                    print(f"Successfully extracted {len(content)} characters from {url} using Jina.ai")
-                    return content, is_accessible, None
-                else:
-                    print(f"Jina.ai extraction returned insufficient content, trying direct fetch...")
-                    return direct_fetch_content(url)
-            except json.JSONDecodeError:
-                print(f"Error parsing JSON from Jina.ai, trying direct fetch for {url}")
-                return direct_fetch_content(url)
-        else:
-            print(f"Jina.ai API returned {response.status_code}, trying direct fetch for {url}")
-            return direct_fetch_content(url)
-    except Exception as e:
-        print(f"Exception with Jina.ai API: {e}, trying direct fetch for {url}")
-        return direct_fetch_content(url)
 
 def create_grounded_agent(project_client, bing_tool):
     """Create an agent with Bing Search Grounding capability."""
@@ -414,6 +270,65 @@ def create_pricing_extraction_tool():
     
     return pricing_extraction_tool
 
+def init_openai_client():
+    """
+    Initialize the Azure OpenAI client while avoiding the 'proxies' parameter issue.
+    
+    This is a wrapper function that properly handles client initialization
+    while working around environment issues that might inject proxy settings.
+    
+    Returns:
+        AzureOpenAI: An initialized Azure OpenAI client
+    """
+    from openai import AzureOpenAI
+    import os
+    import httpx
+    
+    # Store original environment variables
+    original_env = os.environ.copy()
+    
+    try:
+        # Temporarily remove any proxy settings from the environment
+        for var in ('http_proxy', 'https_proxy', 'HTTP_PROXY', 'HTTPS_PROXY', 'no_proxy', 'NO_PROXY'):
+            if var in os.environ:
+                del os.environ[var]
+        
+        # Initialize with minimal parameters to avoid proxies issue
+        client = AzureOpenAI(
+            azure_endpoint=AZURE_OPENAI_ENDPOINT,
+            api_key=AZURE_OPENAI_API_KEY,
+            api_version=AZURE_OPENAI_API_VERSION
+        )
+        
+        return client
+    
+    except Exception as e:
+        print(f"Error initializing Azure OpenAI client: {str(e)}")
+        
+        # Try an alternative method
+        try:
+            print("Trying alternative client initialization...")
+            # Create a custom httpx client with no proxy settings
+            http_client = httpx.Client(verify=True, follow_redirects=True)
+            
+            # Pass this client directly to avoid proxy settings
+            client = AzureOpenAI(
+                azure_endpoint=AZURE_OPENAI_ENDPOINT,
+                api_key=AZURE_OPENAI_API_KEY,
+                api_version=AZURE_OPENAI_API_VERSION,
+                http_client=http_client
+            )
+            
+            return client
+        except Exception as e2:
+            print(f"Alternative initialization also failed: {str(e2)}")
+            raise
+    
+    finally:
+        # Restore original environment variables
+        os.environ.clear()
+        os.environ.update(original_env)
+
 def analyze_pricing_with_openai(content, app_name, app_slug, is_pricing_public=True, is_page_accessible=True):
     """
     Use Azure OpenAI to analyze pricing page content and extract structured data
@@ -433,17 +348,12 @@ def analyze_pricing_with_openai(content, app_name, app_slug, is_pricing_public=T
         print(f"Insufficient content for {app_name} to analyze")
         return None
     
-    # Initialize Azure OpenAI client
-    from openai import AzureOpenAI
-    
-    client = AzureOpenAI(
-        azure_endpoint=AZURE_OPENAI_ENDPOINT,
-        api_key=AZURE_OPENAI_API_KEY,
-        api_version=AZURE_OPENAI_API_VERSION
-    )
-    
-    # Build the system prompt
-    system_prompt = f"""You are an expert at analyzing pricing pages for software products and extracting structured pricing information.
+    try:
+        # Use our custom initialization function
+        client = init_openai_client()
+        
+        # Build the system prompt
+        system_prompt = f"""You are an expert at analyzing pricing pages for software products and extracting structured pricing information.
 Your task is to extract pricing details for '{app_name}' from the provided content.
 
 Extract as much information as you can about:
@@ -464,86 +374,93 @@ Important notes:
 - Set pricing_page_accessible to {str(is_page_accessible).lower()} based on our analysis
 """
 
-    # Build user prompt - limit content length to avoid token limits
-    max_content_length = 24000  # Reduced from 32k to ensure we don't exceed limits
-    if len(content) > max_content_length:
-        truncated_content = content[:max_content_length] + "...[content truncated due to length]"
-        user_prompt = f"Extract pricing information for {app_name} from this content:\n\n{truncated_content}"
-    else:
-        user_prompt = f"Extract pricing information for {app_name} from this content:\n\n{content}"
+        # Build user prompt - limit content length to avoid token limits
+        max_content_length = 24000  # Reduced from 32k to ensure we don't exceed limits
+        if len(content) > max_content_length:
+            truncated_content = content[:max_content_length] + "...[content truncated due to length]"
+            user_prompt = f"Extract pricing information for {app_name} from this content:\n\n{truncated_content}"
+        else:
+            user_prompt = f"Extract pricing information for {app_name} from this content:\n\n{content}"
 
-    # Multiple retries with backoff
-    max_retries = 3
-    backoff_time = 2  # seconds
-    
-    for retry in range(max_retries):
-        try:
-            print(f"Analyzing pricing content for {app_name} using {AZURE_DEPLOYMENT} model (attempt {retry+1}/{max_retries})...")
-            
-            # Use parse method with Pydantic model for structured output
-            completion = client.beta.chat.completions.parse(
-                model=AZURE_DEPLOYMENT,
-                messages=[
-                    {"role": "system", "content": system_prompt},
-                    {"role": "user", "content": user_prompt}
-                ],
-                response_format=PricingData,
-                temperature=0.1,
-                seed=42  # For consistent results
-            )
-            
-            # Extract the structured data
-            pricing_data = completion.choices[0].message.parsed
-            
-            # Convert to dictionary for backward compatibility
-            pricing_dict = pricing_data.model_dump()
-            
-            # Ensure required fields are present
-            if app_slug and not pricing_dict.get("app_slug"):
-                pricing_dict["app_slug"] = app_slug
+        # Multiple retries with backoff
+        max_retries = 3
+        backoff_time = 2  # seconds
+        
+        for retry in range(max_retries):
+            try:
+                print(f"Analyzing pricing content for {app_name} using {AZURE_DEPLOYMENT} model (attempt {retry+1}/{max_retries})...")
                 
-            if not pricing_dict.get("app_id"):
-                pricing_dict["app_id"] = app_slug.lower() if app_slug else app_name.lower().replace(" ", "_")
+                # Use parse method with Pydantic model for structured output
+                completion = client.beta.chat.completions.parse(
+                    model=AZURE_DEPLOYMENT,
+                    messages=[
+                        {"role": "system", "content": system_prompt},
+                        {"role": "user", "content": user_prompt}
+                    ],
+                    response_format=PricingData,
+                    temperature=0.1,
+                    seed=42  # For consistent results
+                )
                 
-            # Add timestamp for when this extraction was performed
-            pricing_dict["extraction_timestamp"] = datetime.now().isoformat()
-            
-            # Convert PriceModelType enum values to strings
-            if "price_model_type" in pricing_dict:
-                pricing_dict["price_model_type"] = [str(model_type) for model_type in pricing_dict["price_model_type"]]
-            
-            return pricing_dict
-            
-        except Exception as e:
-            print(f"Error calling Azure OpenAI structured outputs API for {app_name}: {e}")
-            
-            # Log the error for debugging
-            error_log_file = f"error_logs_{app_name.lower().replace(' ', '_')}.txt"
-            with open(error_log_file, "w", encoding="utf-8") as f:
-                f.write(f"Structured Output Error: {e}\n\n")
-            
-            # Only retry if we haven't reached max retries
-            if retry < max_retries - 1:
-                wait_time = backoff_time * (2 ** retry)
-                print(f"Retrying in {wait_time}s...")
-                time.sleep(wait_time)
+                # Extract the structured data
+                pricing_data = completion.choices[0].message.parsed
                 
-                # Simplify the prompt for the next retry
-                if retry == max_retries - 2:  # Last retry
-                    print("Simplifying prompt for final retry...")
-                    system_prompt = f"""Extract basic pricing information for '{app_name}'. 
-                    Focus on core pricing details: pricing tiers, prices, and free tier availability."""
+                # Convert to dictionary for backward compatibility
+                pricing_dict = pricing_data.model_dump()
+                
+                # Ensure required fields are present
+                if app_slug and not pricing_dict.get("app_slug"):
+                    pricing_dict["app_slug"] = app_slug
                     
-                    # Reduce content length further
-                    max_content_length = max_content_length // 2
-                    user_prompt = f"Extract pricing information for {app_name}:\n\n{content[:max_content_length]}"
-            else:
-                # If we've exhausted all retries, create minimal pricing data
-                print(f"Structured output failed after {max_retries} attempts, creating minimal data")
-                return create_fallback_pricing_data(app_name, app_slug, is_pricing_public, is_page_accessible)
-    
-    # If we've reached here, all retries failed
-    return create_fallback_pricing_data(app_name, app_slug, is_pricing_public, is_page_accessible)
+                if not pricing_dict.get("app_id"):
+                    pricing_dict["app_id"] = app_slug.lower() if app_slug else app_name.lower().replace(" ", "_")
+                    
+                # Add timestamp for when this extraction was performed
+                pricing_dict["extraction_timestamp"] = datetime.now().isoformat()
+                
+                # Convert PriceModelType enum values to strings
+                if "price_model_type" in pricing_dict:
+                    pricing_dict["price_model_type"] = [str(model_type) for model_type in pricing_dict["price_model_type"]]
+                
+                return pricing_dict
+                
+            except Exception as e:
+                print(f"Error calling Azure OpenAI structured outputs API for {app_name}: {e}")
+                
+                # Log the error for debugging
+                error_log_file = f"error_logs_{app_name.lower().replace(' ', '_')}.txt"
+                with open(error_log_file, "w", encoding="utf-8") as f:
+                    f.write(f"Structured Output Error: {e}\n\n")
+                
+                # Only retry if we haven't reached max retries
+                if retry < max_retries - 1:
+                    wait_time = backoff_time * (2 ** retry)
+                    print(f"Retrying in {wait_time}s...")
+                    time.sleep(wait_time)
+                    
+                    # Try to initialize a new client for this retry
+                    client = init_openai_client()
+                    
+                    # Simplify the prompt for the next retry
+                    if retry == max_retries - 2:  # Last retry
+                        print("Simplifying prompt for final retry...")
+                        system_prompt = f"""Extract basic pricing information for '{app_name}'. 
+                        Focus on core pricing details: pricing tiers, prices, and free tier availability."""
+                        
+                        # Reduce content length further
+                        max_content_length = max_content_length // 2
+                        user_prompt = f"Extract pricing information for {app_name}:\n\n{content[:max_content_length]}"
+                else:
+                    # If we've exhausted all retries, create minimal pricing data
+                    print(f"Structured output failed after {max_retries} attempts, creating minimal data")
+                    return create_fallback_pricing_data(app_name, app_slug, is_pricing_public, is_page_accessible)
+        
+        # If we've reached here, all retries failed
+        return create_fallback_pricing_data(app_name, app_slug, is_pricing_public, is_page_accessible)
+        
+    except Exception as e:
+        print(f"Error in pricing analysis: {e}")
+        return create_fallback_pricing_data(app_name, app_slug, is_pricing_public, is_page_accessible)
 
 def create_fallback_pricing_data(app_name, app_slug, is_pricing_public, is_page_accessible):
     """
@@ -689,7 +606,7 @@ def search_pricing_with_bing(project_client, agent_id, app_name, app_slug=None):
         # Extract content from each URL using Jina.ai
         for url in urls_to_extract:
             print(f"Extracting content from URL: {url}")
-            content, is_accessible, error = extract_content_with_jina(url)
+            content, is_accessible, error = fetch_content_with_jina(url)
             
             content_result = {
                 "url": url,
