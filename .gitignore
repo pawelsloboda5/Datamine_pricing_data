@@ -1,0 +1,8 @@
+#add our .env file to the gitignore
+.env
+
+#add our pricing_results folder to the gitignore
+pricing_results/
+
+#add our pricing_results folder to the gitignore
+pricing_results/
