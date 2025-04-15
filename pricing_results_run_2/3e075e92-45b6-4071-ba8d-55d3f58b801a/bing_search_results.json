@@ -1,0 +1,126 @@
+{
+  "app_name": "Revv",
+  "app_slug": "revv",
+  "search_term": "Find the official pricing page URL for Revv (revv.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744702094.101506,
+  "response_text": [
+    "I couldn't locate an exact URL for the official pricing page of Revv directly on their website. You might need to explore their contact or product-specific sections further at [revv.com](https://www.revv.com). Let me know if you'd like assistance with another query!"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.revv.com",
+      "is_accessible": true,
+      "content": "Raise More. Work Less.\n----------------------\n\nRevv is a lead optimization and donation platform that increases engagement and maximizes your fundraising.\n-----------------------------------------------------------------------------------------------------------\n\nblob-form\n\nWe\u2019re obsessed\u00a0with boosting conversion rates.\n----------------------------------------------\n\n#### [One Click Donations](https://www.revv.com/#best-oc)\n\nOur One-Click technology automatically remembers users across all organizations that use Revv. Our huge pool of Revv users can donate or sign petitions with just one click and boost your conversions tremendously.\n\n#### [Forms, Petitions, & Surveys](https://www.revv.com/#best-leads)\n\nCreate unlimited forms, petitions, and surveys for your marketing campaigns. Once they complete this step you can direct them to a donation form with their information pre-filled.\n\n[Learn More](https://revv.com/features/petition-pages/)\n\n#### [Meticulous Mobile Optimization](https://www.revv.com/#best-applepay)\n\nToday, most donors are giving on mobile.\u00a0 Features like address autocomplete, Apple Pay and Google Wallet will dramatically boost your conversion rates because it\u2019s much quicker for donors to complete the process on their phones.\n\n#### [Upsell Your Donors](https://www.revv.com/#best-upsell)\n\nAsk users to take additional action while you have their attention:\u00a0become a monthly recurring donor, buy a product and more. We\u2019ve seen 15 \u2013 20% of donors accept at least one upsell.\n\n#### [Text To Donate](https://www.revv.com/#best-mobile)\n\nGrow your list with SMS opt-ins and then deploy our SMS Reply To Donate Technology allowing donors to just respond \u201cYes\u201d to process a donation to your organization.\n\n[Learn More](https://revv.com/features/sms-reply-to-donate-text-message-donations/)\n\nWith 1000+ integrations, you can quickly deploy Revv with the platforms you love.\n---------------------------------------------------------------------------------\n\nThis is the toolkit power fundraisers dream about.\n--------------------------------------------------\n\n![Image 1](https://s33396.pcdn.co/wp-content/uploads/2018/08/power-tool.png)\n\n### Donor Management\n\nRevv\u2019s easy to use platform\u00a0allows your cause to manage donors with a breeze. Need to cancel someone\u2019s recurring plan or issue a refund? No problem! Control how you communicate with your donors by using our custom receipt builder so you can personalize what your donors see.\n\n[Learn More](https://revv.com/features/donor-management/)\n\n### Data The Way You Want It\n\nRevv makes reporting easy for your donor management, marketing, finance or compliance teams. Start with customizable fields and columns and filter the data however you want. Integrated with over 1000+ platforms, you can manage how your data is sent to specific people or APIs in realtime or on a custom schedule.\n\n[Learn More](https://revv.com/features/political-compliance/)\n\n### Customizable Styling\n\nRevv is jam-packed with options for custom branding that matches your organization\u2019s identity with control over colors, photos, layout, fields, and domain name. Fine tune how your page will display on mobile or Facebook and Twitter to optimize your marketing efforts and even use your own CSS.\n\n[Learn More](https://revv.com/features/page-builder/)\n\n### Agency Tools to Manage Clients\n\nRevv\u2019s agency features allow you to manage numerous clients or child organizations in one easy-to-use dashboard. You can easily create new organizations for upcoming campaigns or new clients and take a cut of donations on a page by page basis. We work extremely closely with our agency partners.\n\n[Learn More](https://revv.com/agencies/)\n\nGet Started Today\n-----------------\n\nFree for the basics, $49 per month for Pro features.\n\n### Revv\n\n**Free Monthly**\n\nGet access to all of our basic fundraising features and start raising money.\n\nCredit Card Processing Fee:\n\n4% + 30c per transaction\n\n[Get Started For Free](https://app.revv.co/sign_up)\n\n### Revv Pro\n\n**$49 Monthly** Popular\n\nGet Revv\u2019s full suite of tools and integrations for power fundraisers.\n\nCredit Card Processing Fee:\n\n4% + 30c per transaction\n\n[Sign Up Now](https://app.revv.co/sign_up)\n\n### Revv Enterprise\n\n**Let's Talk**\n\nEnterprise is best suited for large organizations with multiple chapters and agencies with numerous clients.\n\n[Contact Us](https://revv.com/contact/enterprise)\n\nRevv's donation maximization features like marketing automation and up-sells will help your cause, non-profit, or political campaign raise more money.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "revv",
+        "app_name": "Revv",
+        "app_slug": "revv",
+        "pricing_url": "https://revv.com/pricing",
+        "source_url": "https://revv.com",
+        "all_pricing_urls": [
+          "https://revv.com/pricing",
+          "https://revv.com/features"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Credit card processing fees apply to all tiers.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Access to basic fundraising features.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Basic fundraising features"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Full suite of tools and integrations for power fundraisers.",
+            "monthly_price": 49.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Full suite of tools",
+              "Integrations for power fundraisers"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Best suited for large organizations with multiple chapters and agencies.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Custom solutions for large organizations",
+              "Support for multiple chapters and agencies"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Credit Card Processing Fee",
+            "unit": "per transaction",
+            "base_price": 4.3,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Credit Card Processing Fee",
+            "fee_amount": 4.3,
+            "fee_description": "4% + $0.30 per transaction"
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T03:28:29.652373",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\revv\\20250415_032829"
+}

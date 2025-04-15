@@ -1,0 +1,206 @@
+{
+  "app_id": "attio",
+  "app_name": "Attio",
+  "app_slug": "attio",
+  "pricing_url": "https://www.attio.com/pricing",
+  "source_url": "https://www.attio.com/pricing",
+  "all_pricing_urls": [
+    "https://www.attio.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user per month, with discounts for annual billing. Additional workflow credits can be purchased.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For very small teams",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Real-time contact syncing",
+        "Automatic data enrichment"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Seats",
+            "value": 3
+          },
+          {
+            "name": "Objects",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "For growing teams",
+      "monthly_price": 34.0,
+      "annual_price": 29.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Private lists",
+        "Enhanced email sending"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Seats",
+            "value": "unlimited"
+          },
+          {
+            "name": "Objects",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For scaling businesses",
+      "monthly_price": 69.0,
+      "annual_price": 59.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Fully adjustable permissions",
+        "Advanced data enrichment",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Seats",
+            "value": "unlimited"
+          },
+          {
+            "name": "Objects",
+            "value": 8
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large organizations",
+      "monthly_price": 119.0,
+      "annual_price": 119.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited reporting",
+        "SAML and SSO",
+        "Custom billing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Seats",
+            "value": "unlimited"
+          },
+          {
+            "name": "Objects",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Workflow credits",
+      "unit": "per 1,000 credits",
+      "base_price": 20.0,
+      "tiers": [
+        {
+          "min": 1000.0,
+          "max": 5000.0,
+          "price": 20.0
+        },
+        {
+          "min": 5001.0,
+          "max": 10000.0,
+          "price": 75.0
+        },
+        {
+          "min": 10001.0,
+          "max": 25000.0,
+          "price": 110.0
+        },
+        {
+          "min": 25001.0,
+          "max": 50000.0,
+          "price": 190.0
+        },
+        {
+          "min": 50001.0,
+          "max": 100000.0,
+          "price": 270.0
+        },
+        {
+          "min": 100001.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:29:01.988326",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6f8aa3ea-a270-4ad2-9d73-87461ffdc1a0",
+    "name": "Attio",
+    "slug": "attio",
+    "description": "Attio is the CRM of the future: data-driven, completely customizable and intuitively collaborative.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/fef89954993f8ee313da7ccd50a1eff4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 13,
+    "trigger_count": 6
+  }
+}

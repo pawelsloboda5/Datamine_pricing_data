@@ -1,0 +1,182 @@
+{
+  "app_id": "helpdesk",
+  "app_name": "HelpDesk",
+  "app_slug": "helpdesk",
+  "pricing_url": "https://www.helpdesk.com/pricing",
+  "source_url": "https://www.helpdesk.com/pricing",
+  "all_pricing_urls": [
+    "https://www.helpdesk.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes per-agent costs with annual and monthly billing options. Enterprise plan requires custom quotation.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Team",
+      "tier_description": "For growing teams with entry-level needs.",
+      "monthly_price": 34.0,
+      "annual_price": 348.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Paid users with admin or agent roles",
+        "Unlimited free viewers",
+        "5 teams",
+        "5 forwarding addresses",
+        "5 reply addresses",
+        "One custom domain",
+        "5 email templates",
+        "5 active rules",
+        "5 activated custom fields"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "teams",
+            "value": 5
+          },
+          {
+            "name": "forwarding addresses",
+            "value": 5
+          },
+          {
+            "name": "reply addresses",
+            "value": 5
+          },
+          {
+            "name": "email templates",
+            "value": 5
+          },
+          {
+            "name": "active rules",
+            "value": 5
+          },
+          {
+            "name": "activated custom fields",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For businesses with multi-brand operations.",
+      "monthly_price": 59.0,
+      "annual_price": 600.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Paid users with admin or agent roles",
+        "Unlimited free viewers",
+        "100 teams",
+        "100 forwarding addresses",
+        "100 reply addresses",
+        "100 custom domains",
+        "100 email templates",
+        "50 active rules",
+        "20 activated custom fields"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "teams",
+            "value": 100
+          },
+          {
+            "name": "forwarding addresses",
+            "value": 100
+          },
+          {
+            "name": "reply addresses",
+            "value": 100
+          },
+          {
+            "name": "custom domains",
+            "value": 100
+          },
+          {
+            "name": "email templates",
+            "value": 100
+          },
+          {
+            "name": "active rules",
+            "value": 50
+          },
+          {
+            "name": "activated custom fields",
+            "value": 20
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For corporations requiring an individual approach.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything from the Business plan with no limits",
+        "Dedicated account manager",
+        "Product training",
+        "Software engineer support",
+        "Security assistance",
+        "White label"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:16:16.698125",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ba921dd8-cbd8-4b6f-9ec1-034226d5b8d7",
+    "name": "HelpDesk",
+    "slug": "helpdesk",
+    "description": "HelpDesk is a ticketing software for effortless customer support",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/128cded33591bc9535d18dba32397b2a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 6
+  }
+}

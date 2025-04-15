@@ -1,0 +1,178 @@
+{
+  "app_id": "mloflo",
+  "app_name": "Mloflo",
+  "app_slug": "mloflo",
+  "pricing_url": null,
+  "source_url": "https://mloflo.com/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Additional fees apply for certain features and activation fees are required for SMS/MMS plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": null,
+      "monthly_price": 69.99,
+      "annual_price": 755.88,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Pre Approval Generator",
+        "Loan Quoting Tool",
+        "Secure Borrower Portal",
+        "Secure Realtor Portal",
+        "Mobile Responsive"
+      ],
+      "limits": {
+        "users": "per LO seat",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": null,
+      "monthly_price": 199.99,
+      "annual_price": 2159.88,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Pre Approval Generator",
+        "Loan Quoting Tool",
+        "Secure Borrower Portal",
+        "Secure Realtor Portal",
+        "Mobile Responsive",
+        "Secure Processor Portal",
+        "Digital 1003 Application (POS)",
+        "Smart Docs Upload",
+        "Pipeline View",
+        "Task Management",
+        "Calendar Management",
+        "Email/Calendar Integration",
+        "Lead/Loan Milestone Tracking",
+        "Automated Status and Milestone Updates",
+        "My Partners-referral Partner Tracking",
+        "Reporting",
+        "Lead integrations API",
+        "LOS integrations",
+        "\u201cMlo Money Button\u201d",
+        "Marketing Drip Automation",
+        "Smart Dialer"
+      ],
+      "limits": {
+        "users": "per LO seat",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom options to fit your needs",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Pre Approval Generator",
+        "Loan Quoting Tool",
+        "Secure Borrower Portal",
+        "Secure Realtor Portal",
+        "Mobile Responsive",
+        "Secure Processor Portal",
+        "Digital 1003 Application (POS)",
+        "Smart Docs Upload",
+        "Pipeline View",
+        "Task Management",
+        "Calendar Management",
+        "Email/Calendar Integration",
+        "Lead/Loan Milestone Tracking",
+        "Automated Status and Milestone Updates",
+        "My Partners-referral Partner Tracking",
+        "Reporting",
+        "Lead integrations API",
+        "LOS integrations",
+        "\u201cMlo Money Button\u201d",
+        "Marketing Drip Automation",
+        "Smart Dialer",
+        "White Labeling"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Voice Minutes",
+      "unit": "minute",
+      "base_price": 0.0124,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 500.0,
+          "price": 0.0124
+        },
+        {
+          "min": 501.0,
+          "max": 2500.0,
+          "price": 0.0124
+        },
+        {
+          "min": 2501.0,
+          "max": "unlimited",
+          "price": 0.0124
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Activation Fee",
+      "fee_amount": 24.95,
+      "fee_description": "Required for SMS/MMS plans."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:02:30.126249",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "22a5d055-d907-452a-b70c-79f301d9d557",
+    "name": "mloflo",
+    "slug": "mloflo",
+    "description": "Mloflo is a cloud-based CRM platform that helps real estate businesses manage leads, email marketing, sales pipeline, reporting, and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/89c1818bf86161d4dc4b92d87947dc45.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 5
+  }
+}

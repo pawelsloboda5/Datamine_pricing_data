@@ -1,0 +1,55 @@
+{
+  "app_name": "Toodledo",
+  "app_slug": "toodledo",
+  "search_term": "Find the official pricing page URL for Toodledo (toodledo.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744687386.446479,
+  "response_text": [
+    "The official pricing page for Toodledo can be found at: [https://www.toodledo.com/pricing.html](https://www.toodledo.com/pricing.html) \u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Toodledo Online To Do List & Task Management Plans | Toodledo",
+      "url": "https://www.toodledo.com/subscribe/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.toodledo.com/pricing.html",
+      "is_accessible": true,
+      "content": "Error\n===============\n\n[![Image 2: Toodledo.com](https://static.toodledo.com/libs/images/logo-dark.png)](https://www.toodledo.com/index.php)\n\n[Products](https://www.toodledo.com/products.php) [Features](https://www.toodledo.com/features.php) [Platforms](https://www.toodledo.com/platforms.php)\n\n[Try it FreeTry it Free](https://www.toodledo.com/signup.php) [Sign In](https://www.toodledo.com/signin.php)\n\n[Products](https://www.toodledo.com/products.php) [Features](https://www.toodledo.com/features.php) [Platforms](https://www.toodledo.com/platforms.php)\n\n![Image 3](https://www.toodledo.com/img/internal/404.png)\n\nOops! 404 Error\n===============\n\nIt looks like the page you requested (/pricing.html) doesn't exist. Sorry about that!  \n[Back to Toodledo.com](https://www.toodledo.com/index.php)\n\n[Privacy](https://www.toodledo.com/info/privacy.php) \u00b7 [Terms](https://www.toodledo.com/info/terms.php) \u00b7 [Cookies](https://www.toodledo.com/info/cookies.php) \u00b7 Copyright Toodledo \u00a9 2004-2025\n\n[](https://www.toodledo.com/pricing.html#)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "toodledo",
+        "app_name": "Toodledo",
+        "app_slug": "toodledo",
+        "pricing_url": "https://www.toodledo.com/pricing.html",
+        "source_url": "https://www.toodledo.com/pricing.html",
+        "all_pricing_urls": [
+          "https://www.toodledo.com/pricing.html"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page returned a 404 error, so detailed pricing information could not be retrieved.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:23:17.474780",
+        "schema_validated": true,
+        "confidence_score": 80,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\toodledo\\20250414_232317"
+}

@@ -1,0 +1,167 @@
+{
+  "app_id": "bigmarker",
+  "app_name": "BigMarker",
+  "app_slug": "bigmarker",
+  "pricing_url": "https://www.bigmarker.com/pricing",
+  "source_url": "https://www.bigmarker.com/pricing",
+  "all_pricing_urls": [
+    "https://www.bigmarker.com/pricing"
+  ],
+  "price_model_type": [
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are not publicly disclosed and require contacting sales for a quote.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "For small- and medium-sized businesses starting to host webinars & virtual events.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 1,000 Live Attendees",
+        "1 Host License",
+        "Share up to 9 Webcams",
+        "Live & On-Demand Webinars",
+        "Facebook & YouTube Live",
+        "Chat, Polls, Q&A, Handouts",
+        "Screen, File & Video Sharing",
+        "Recording",
+        "Pop-up Offers",
+        "Full-service Registration",
+        "Full-service Emails",
+        "Post-session Surveys",
+        "Basic Integrations",
+        "Basic Analytics & Reporting"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "100 on-demand webinars",
+        "operations": "unlimited live webinars",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Enterprise-grade capabilities & connectivity for the fastest growing companies.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 10,000 Live Attendees",
+        "4 Host Licenses",
+        "Share up to 64 Webcams",
+        "1 CRM/MAS Integration",
+        "A-la-carte Virtual Events",
+        "Simulive Webinars",
+        "Evergreen Webinars",
+        "24-7 Webinars",
+        "Webinar Series",
+        "Ticketing & Payments",
+        "15 Landing Page Templates",
+        "Custom Registration Fields",
+        "Custom UTM Codes",
+        "Embeddable Registration",
+        "Breakout Rooms",
+        "Co-Browsing",
+        "Certificates of Completion",
+        "API Access",
+        "Zapier Integration",
+        "Advanced Analytics & Reporting",
+        "Customer Success Manager",
+        "Enterprise SLA"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "100 on-demand webinars",
+        "operations": "unlimited live webinars",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise+",
+      "tier_description": "For enterprises generating significant results from their webinar & event programs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 500,000 Live Attendees",
+        "6 Host Licenses",
+        "2 CRM/MAS Integrations",
+        "White Labeled Domains",
+        "Premium Landing Page Templates",
+        "Custom Page Designer",
+        "Custom Email Templates",
+        "Custom Font Support",
+        "Live Closed Captioning",
+        "Live Translation",
+        "Multi-language Support",
+        "360-degree Streaming",
+        "Attendee Dial-in",
+        "Embeddable Webinar Rooms",
+        "Multiple Channel Support",
+        "Single Sign-on (SSO)",
+        "Multi-factor Authentication (MFA)",
+        "Mobile SDK",
+        "Negotiable DPA Terms",
+        "Enhanced Customer Success",
+        "Webinar Marketing Services",
+        "Live Event Monitoring",
+        "Enterprise+ SLA"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "100 on-demand webinars",
+        "operations": "unlimited live webinars",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Transaction Fee",
+      "fee_amount": 5.0,
+      "fee_description": "5% transaction fee for ticket sales."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:41:19.669642",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e3d0cfde-b82a-437c-9960-5115a3e6d991",
+    "name": "BigMarker",
+    "slug": "bigmarker",
+    "description": "A platform to host webinars, online workshops, and stream events.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/6a84d74ce9a076a80d9e5ed5d393d26b_6.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Webinars"
+    ],
+    "category_slugs": [
+      "webinars"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 4
+  }
+}

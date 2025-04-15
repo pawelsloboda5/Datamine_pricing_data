@@ -1,0 +1,19 @@
+{
+  "app_name": "Planyo Online Booking",
+  "app_slug": "planyo-online-booking",
+  "search_term": "Find the official pricing page URL for Planyo Online Booking (planyo-online-booking.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744700845.5041542,
+  "response_text": [
+    "The official pricing page for Planyo Online Booking is located at: https://www.planyo.com/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.planyo.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\planyo-online-booking\\20250415_030732"
+}

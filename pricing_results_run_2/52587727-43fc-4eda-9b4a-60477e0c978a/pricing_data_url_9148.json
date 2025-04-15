@@ -1,0 +1,147 @@
+{
+  "app_id": "mycase",
+  "app_name": "MyCase",
+  "app_slug": "mycase",
+  "pricing_url": "https://www.mycase.com/pricing/",
+  "source_url": "https://www.mycase.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.mycase.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 10,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user per month, with discounts for annual billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Cloud-based case management with end-to-end billing and online payments.",
+      "monthly_price": 49.0,
+      "annual_price": 39.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Case and Contact Management",
+        "Task Management",
+        "Client Portal",
+        "Time Entry and Expense Tracking",
+        "Billing and Online Payments",
+        "Legal Calendaring",
+        "Unlimited Document Storage",
+        "Basic Financial Reporting"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Robust firm management + client intake, contact communication, and key integrations.",
+      "monthly_price": 99.0,
+      "annual_price": 89.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Basic",
+        "Custom Fields",
+        "Unlimited 2-way Texting (Includes Accepting Images)",
+        "Client Intake Management",
+        "Unlimited eSignature",
+        "Advanced Billing and Invoicing",
+        "Secure document sharing via Portal",
+        "AI",
+        "Text Editing",
+        "Document Summaries",
+        "Integrations: Google, Outlook, + more"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Desktop document management, full text search, & Word-based advanced document automation.",
+      "monthly_price": 119.0,
+      "annual_price": 109.0,
+      "annual_discount_percentage": 8.4,
+      "setup_fee": null,
+      "features": [
+        "Everything in Basic & Pro",
+        "MyCase Drive",
+        "Full Text Search",
+        "Advanced Document Automation",
+        "Split Billing",
+        "Open API"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "MyCase Accounting",
+      "fee_amount": 39.0,
+      "fee_description": "Per month per accounting user"
+    },
+    {
+      "fee_name": "Website",
+      "fee_amount": 100.0,
+      "fee_description": "Per month support and maintenance + build fee"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:12:30.267898",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "52587727-43fc-4eda-9b4a-60477e0c978a",
+    "name": "MyCase",
+    "slug": "mycase",
+    "description": "MyCase is legal case management software for unparalleled productivity.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/ead76854bcbe2eb98e3f0627d72c1303.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Productivity"
+    ],
+    "category_slugs": [
+      "productivity"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 36,
+    "trigger_count": 4
+  }
+}

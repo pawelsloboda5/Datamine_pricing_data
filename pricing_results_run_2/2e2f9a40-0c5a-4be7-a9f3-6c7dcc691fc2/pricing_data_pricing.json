@@ -1,0 +1,43 @@
+{
+  "app_id": "contractor_foreman",
+  "app_name": "Contractor Foreman",
+  "app_slug": "contractor-foreman",
+  "pricing_url": null,
+  "source_url": "https://www.contractor-foreman.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was inaccessible due to a server error, preventing extraction of detailed pricing information.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:48:33.968154",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "2e2f9a40-0c5a-4be7-a9f3-6c7dcc691fc2",
+    "name": "Contractor Foreman",
+    "slug": "contractor-foreman",
+    "description": "Contractor Foreman is an all-in-one construction management software for contractors and is trusted by contractors in more than 75 countries.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ab627613cca50ba6b86df440334f50cd.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 6
+  }
+}

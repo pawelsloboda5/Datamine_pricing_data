@@ -1,0 +1,48 @@
+{
+  "app_id": "sharpspring",
+  "app_name": "SharpSpring",
+  "app_slug": "sharpspring",
+  "pricing_url": "https://sharpspring.com/pricing/",
+  "source_url": "https://sharpspring.com/pricing/",
+  "all_pricing_urls": [
+    "https://sharpspring.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Detailed pricing information is not directly available on the page.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:45:21.201940",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1ebbb0a7-356e-482b-912b-7decb4c9d242",
+    "name": "SharpSpring",
+    "slug": "sharpspring",
+    "description": "Powerful, affordable marketing tools for marketing agencies and SMBs. Features include email automation, lead capture, and a built in CRM system.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/03fba39555a641d219d5d9041ba3fdb7.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 5
+  }
+}

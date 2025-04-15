@@ -1,0 +1,68 @@
+{
+  "app_id": "onlinecoursehost",
+  "app_name": "OnlineCourseHost.com",
+  "app_slug": "onlinecoursehost-com",
+  "pricing_url": null,
+  "source_url": "https://onlinecoursehost.com/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The platform offers a free trial for 30 days and includes a free tier with no platform fees and unlimited students.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Tier",
+      "tier_description": "No platform fees, unlimited students.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Host online courses",
+        "Unlimited students",
+        "No platform fees"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:00:24.436372",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0b51abf1-5acf-4d63-8198-a36007bfa82c",
+    "name": "OnlineCourseHost.com",
+    "slug": "onlinecoursehostcom",
+    "description": "OnlineCourseHost.com is a white-label course hosting platform that lets you host and sell your courses.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/da6b534b248df616acfc7bac666e826f_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Education"
+    ],
+    "category_slugs": [
+      "education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

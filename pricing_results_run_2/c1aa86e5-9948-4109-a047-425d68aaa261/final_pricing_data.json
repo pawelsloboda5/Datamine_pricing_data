@@ -1,0 +1,118 @@
+{
+  "app_id": "odoo_crm",
+  "app_name": "Odoo CRM",
+  "app_slug": "odoo-crm",
+  "pricing_url": "https://www.odoo.com/pricing",
+  "source_url": "https://www.odoo.com/pricing",
+  "all_pricing_urls": [
+    "https://www.odoo.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing includes unlimited support, hosting, and maintenance. Discounts are valid for the first 12 months for initial users ordered.",
+  "pricing_tiers": [
+    {
+      "tier_name": "One App Free",
+      "tier_description": "For one app only, unlimited users.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited users",
+        "Odoo Online"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Includes all apps.",
+      "monthly_price": 31.1,
+      "annual_price": 24.9,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All apps",
+        "Odoo Online"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Includes all apps with additional features.",
+      "monthly_price": 46.7,
+      "annual_price": 37.4,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All apps",
+        "Odoo Online / Odoo.sh / On-premise",
+        "Odoo Studio",
+        "Multi-Company",
+        "External API"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Odoo.sh hosting",
+      "fee_amount": null,
+      "fee_description": "Cost for Odoo.sh hosting not included."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:45:50.714897",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c1aa86e5-9948-4109-a047-425d68aaa261",
+    "name": "Odoo CRM",
+    "slug": "odoo",
+    "description": "Odoo is a powerful open source platform with dozens of apps to help you grow your business. Available apps range from CRM to eCommerce, and from accounting to manufacturing and project management. This Odoo CRM integration allows users to connect Odoo's CRM product to other apps. This integration works with instances that are cloud hosted at \"odoo.com.\"",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/714c4c70487f63bb10b34332095b04b1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

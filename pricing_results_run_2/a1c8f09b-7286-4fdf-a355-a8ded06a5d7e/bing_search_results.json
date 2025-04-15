@@ -1,0 +1,168 @@
+{
+  "app_name": "Recurly",
+  "app_slug": "recurly",
+  "search_term": "Find the official pricing page URL for Recurly (recurly.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744693646.1357684,
+  "response_text": [
+    "The official pricing page for Recurly can be found at [https://recurly.com/pricing/](https://recurly.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Recurly Pricing and Plans | Recurly",
+      "url": "https://recurly.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://recurly.com/pricing",
+      "is_accessible": true,
+      "content": "Transparent pricing you can trust \u2014 no surprises\n------------------------------------------------\n\nGet started today\n-----------------\n\nFor startups and small businesses launching and growing their business.\n\nFor Small Businesses\n\n$249 $0/month1  \nfirst 3 months \u2014 new customers only\n\nCustom pricing\n--------------\n\nPricing for established brands ready to scale and push the pace.\n\nFor Scaling & Enterprise\n\n*   Full access to the leading subscription management platform.\n*   Simple, transparent pricing that scales as you grow.\n*   No hidden monthly fees. No platform costs.\n\n\u00b9No monthly platform fee plus no payment volume fee for first $40,000 USD per month in first 3 months for new customers only.\n\nEverything you need to grow your subscription business \u2014 built in\n-----------------------------------------------------------------\n\n![Image 1: Subscription Management Icon](https://recurly.com/img2/pricing/UserCircleCheck.svg)\n\n### Subscription management\n\nManage every phase of the subscription lifecycle.\n\n*   Subscriber account management\n*   Multi-subscription support\n\n[See all features](https://recurly.com/pricing#)\n\n\u00d7\n\nAll Features\n\nCustomers & subscriptions\n\n*   Subscriber account management\n*   Subscriptions (create, change, cancel/expire)\n*   Postpone subscriptions\n*   Pause subscriptions\n*   Multi-subscription support\n*   Checkout\n*   Subscriber wallet\\*\n*   Account hierarchy\\*\n\nSubscriber lifecycle communications\n\n*   Multi-language emails (30) - All languages\n*   Customizable email templates\n*   Dunning campaigns\n*   Advanced email deliverability\\*\n\n\\* Not available on Starter Package\n\n![Image 2: Recurring Billing Icon](https://recurly.com/img2/pricing/CurrencyCircleDollar.svg)\n\n### Recurring billing\n\nStreamline and automate subscription billing locally and across borders.\n\n*   Automated and manual invoicing\n*   Tax and compliance\n\n[See all features](https://recurly.com/pricing#)\n\n\u00d7\n\nAll Features\n\nBilling and invoicing\n\n*   Unlimited automated invoices\n*   Subscription billing terms\n*   Manual invoice billing\\*\n*   Invoice & receipt customization\\*\n\nTaxes\n\n*   Sales tax\n*   VAT & GST support\n*   Tax inclusive pricing\n\n\\* Not available on Starter Package\n\n![Image 3: Plans, Pricing, and Promotions Icon](https://recurly.com/img2/pricing/plan-pricing-promotion.svg)\n\n### Plans, pricing, and promotions\n\nQuickly configure and launch new offers, pricing, products, and promotions.\n\n*   Pricing models and add-ons\n*   Coupons and gift cards\n\n[See all features](https://recurly.com/pricing#)\n\n![Image 4: Churn Management Icon](https://recurly.com/img2/pricing/churn-management.svg)\n\n### Churn management\n\nGet ahead of subscriber cancellations and involuntary churn.\n\n*   Intelligent retries\n*   Dunning campaigns\n\n[See all features](https://recurly.com/pricing#)\n\n\u00d7\n\nAll Features\n\n*   Dunning campaigns\n*   Account updater\\*\n*   Static retries\n*   Intelligent retries\\*\n*   Backup payment method\\*\n\n\\* Not available on Starter Package\n\n![Image 5: Payment Orchestration Icon](https://recurly.com/img2/pricing/payment-orchestration.svg)\n\n### Payment orchestration\n\nOptimize, simplify, and secure complex payment processing.\n\n*   Multi-gateway payment setup\n*   Alternative payment methods\n\n[See all features](https://recurly.com/pricing#)\n\n\u00d7\n\nAll Features\n\nPayment gateway features\n\n*   Multi-gateway configuration\n*   Test gateway\n*   Custom gateway routing (merchant-initiated)\\*\n*   Gateway failover\\*\n\n10+ Payment methods, and:\n\n*   Credit cards\n*   PayPal\n*   Amazon Pay\n*   Apple Pay\n*   Google Pay\n*   Venmo\n*   ACH\\*\n\n20+ Payment gateways, and:\n\n*   Adyen\n*   Braintree\n*   Cybersource\n*   Stripe\n\n\\* Not available on Starter Package\n\n![Image 6: Reporting and Analytics Icon](https://recurly.com/img2/pricing/Integration-partners.svg)\n\n### Reporting and analytics\n\nGrow smarter and optimize with dashboards, analytics, and reports.\n\n*   Built-in benchmarks\n*   Recurly Compass: AI-powered growth\n\n[See all features](https://recurly.com/pricing#)\n\n\u00d7\n\nAll Features\n\nDashboards & reports\n\n*   Subscribers\n*   Monthly recurring revenue (MRR)\n*   Plans\n*   Billings\n*   Churn analysis\n*   Recovered revenue\n*   Dunning effectiveness\n*   Trial performance\n*   Plan performance\n*   Built-in Benchmarks\n*   Explore (report builder)\\*\n\nData imports & exports\n\n*   Subscription data imports\n*   Subscription data exports\n*   Site activities export\n*   Account activities export\\*\n*   Automated exports\\*\n\n\\* Not available on Starter Package\n\nPartner integrations\n\n*   Avalara AvaTax integration\n*   Zendesk integration\n*   Zapier integration\n*   Xero integration\n*   QuickBooks Online integration\n*   Vertex (tax) integration\\*\n*   Kount (fraud) integration\\*\n*   Salesforce integration\\*\n*   Snowflake integration\\*\n*   Oracle NetSuite integration\\*\n*   Shopify integration\n*   Braze integration\\*\n\nCustomer support & success\n\n*   Product documentation\n*   Developer documentation\n*   Professional services\\*\n*   24x7 Email support\n*   24x7 Live chat support\n\nSite management\n\n*   User-based roles\n*   Additional subdomain\\*\n*   Custom fields (10 fields)\\*\n*   Multiple business entities\\*\n\nAPIs, DevOps & others\n\n*   REST API keys (10 keys)\n*   Webhooks (JSON & XML)\n*   Recurly.js\n*   Hosted pages\n*   Native mobile SDKs\n\nSecurity & compliance\n\n*   PCI compliance\n*   Two-factor authentication\n*   General data protection regulation\n*   PSD2 compliance\n*   Single sign-on\\*\n\n\\* Not available on Starter Package.\n\nAdd-on services\n\nMore ways we can help\n---------------------\n\n![Image 7: Revenue recognition Icon](https://recurly.com/img2/pricing/rev-rec.svg) Also available as stand-alone\n\n### Revenue recognition\n\nGet a clear picture of your app store and web subscriptions.\n\n*   Automated Revenue Recognition\n*   Compliance automation (ASC-606, IFRS)\n*   Multi-currency support\n\n[Learn more](https://recurly.com/product/revenue-recognition/)\n\n![Image 8: App management Icon](https://recurly.com/img2/pricing/app-management.svg)\n\n### App management\n\nStreamline & automate compliance with multiple revenue reporting standards.\n\n*   Multi-platform product catalog\n*   Cross-platform entitlement\n*   Simple configuration\n\n[Learn more](https://recurly.com/product/app-management/)\n\n![Image 9: Professional services Icon](https://recurly.com/img2/pricing/professional-services.svg)\n\n### Professional services\n\nFor access to comprehensive services and support from subscription experts.\n\n*   Custom reports and feeds\n*   Custom integrations\n*   Dedicated Technical Acct. Manager\n\n[Learn more](https://recurly.com/product/support-and-services/)\n\n![Image 10: Lifecycle management Icon](https://recurly.com/img2/pricing/subscription-changes.svg)\n\n### Lifecycle management\n\nConvert subscriber engagement to revenue in one click.\n\n*   Predict and prevent churn\n*   In-app subscriber journeys\n*   Personalized incentives\n\n[Learn more](https://recurly.com/product/subscriber-engagement/)\n\nIndustry experts you can lean on\n--------------------------------\n\nGrow bigger, faster, and smarter with a partner that\u2019s all in on your success. From onboarding to global expansion, our subscription experts bring the strategy and support to help you make it happen.\n\n![Image 11: Output](https://recurly.com/img2/pricing/testimonial-alaska-image@2x.png)\n\n![Image 12: Output](https://recurly.com/img2/pricing/testimonial-alaska-image@2x.png)\n\n![Image 13: Alaska Airlines Logo](https://recurly.com/img2/pricing/alaska_airlines_logo.svg)\n\nCOLLABORATIVE, SUCCESS-DRIVEN PARTNERS\n\n> Subscriptions are not our core business so engaging the experts at Recurly has saved us engineering hours, internal resource drain, and delivers a higher quality experience for our customers.\n\n### What is subscription pricing or subscription-based model?\n\nA subscription-based pricing model allows a customer or organization to purchase or subscribe to a merchant\u2019s products or services for a specific period of time for a set price and billing frequency on a recurring basis.\n\n### Why is subscription pricing important?\n\nOne of the main reasons why subscription pricing is important is because it offers a convenient way for customers to try new items without a long-term, costly commitment.\n\n### Why adopt a subscription business model?\n\nThere are many reasons why subscription pricing is important to consider. One, it attracts more customers with its lower entry point (e.g. paying $15 monthly vs. $150 upfront). Two, it offers more predictable revenue for businesses. And three, it allows businesses to build stronger, more valuable relationships with their customers.\n\n### What is the difference between a subscription and a license?\n\nThe difference between a subscription and a license is that a license is typically sold as a one-time charge and allows the user to access the product indefinitely, while a subscription is billed on a recurring basis and provides user access only while they continue to pay the subscription fee.\n\n### How does a subscription management model work?\n\nSubscription management business models are based on the idea of selling a product or service to receive monthly or yearly recurring subscription revenue.\n\n\u00b9During the first three (3) months of any Starter (formerly Core) subscription that started on or after January 1, 2023 (Promotional Period), a Qualifying New Merchant will not be charged a monthly platform fee and will not be charged fees for their Total Payment Volume (TPV) unless their TPV exceeds $40,000 USD or the Euro or British pound equivalent during a given month; Merchant will be charged a fee of 0.9% on all TPV beyond $40,000 USD per month. After the Promotional Period, unless Merchant cancels, Merchant will be charged a monthly platform fee of $249 USD per month and will not be charged fees for their Total Payment Volume (TPV) unless their TPV exceeds $40,000 USD during a given month; Merchant will be charged a fee of 0.9% on all TPV beyond $40,000 USD per month. Merchant bank account is required. Other fees may apply including Merchant bank account fees, payment gateway fees, and customer/card import fees. Merchants can cancel and close their Recurly account within the Admin section. Qualifying New Merchant means a Merchant that has not previously been a Recurly customer within the last 3 months. New or different subdomains from existing Merchants do not qualify for this promotion. Recurly reserves the right to cancel or modify the terms of this promotion in its sole discretion.\n\nMerchant bank account is required. Other fees apply including merchant bank account fees and payment gateway fees. Fees may apply to import existing cards/customers.\n\n![Image 14](https://recurly.com/img2/home/cta-bg.svg)\n\nRecurly is the leading subscription management & billing platform. Learn more about our plans and pricing to choose an option that is best for your business.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "recurly",
+        "app_name": "Recurly",
+        "app_slug": "recurly",
+        "pricing_url": "https://recurly.com/pricing",
+        "source_url": "https://recurly.com/pricing",
+        "all_pricing_urls": [
+          "https://recurly.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 90,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Starter package offers promotional pricing for new customers with specific conditions.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Starter",
+            "tier_description": "For startups and small businesses launching and growing their business.",
+            "monthly_price": 249.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Subscriber account management",
+              "Multi-subscription support",
+              "Automated and manual invoicing",
+              "Tax and compliance",
+              "Pricing models and add-ons",
+              "Coupons and gift cards",
+              "Intelligent retries",
+              "Dunning campaigns",
+              "Multi-gateway payment setup",
+              "Alternative payment methods",
+              "Dashboards & reports",
+              "Data imports & exports",
+              "Partner integrations",
+              "Customer support & success",
+              "Site management",
+              "APIs, DevOps & others",
+              "Security & compliance"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Payment Volume Fee",
+                  "value": "0.9% beyond $40,000/month"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Scaling & Enterprise",
+            "tier_description": "Pricing for established brands ready to scale and push the pace.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Full access to the leading subscription management platform",
+              "Simple, transparent pricing that scales as you grow",
+              "No hidden monthly fees",
+              "No platform costs"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Total Payment Volume (TPV)",
+            "unit": "percentage",
+            "base_price": 0.9,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": 40000.0,
+                "price": 0.0
+              },
+              {
+                "min": 40001.0,
+                "max": "unlimited",
+                "price": 0.9
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Starter Package Promotion",
+            "offer_description": "No monthly platform fee plus no payment volume fee for first $40,000 USD per month in first 3 months for new customers only.",
+            "discount_percentage": null,
+            "offer_url": "https://recurly.com/pricing",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": [
+          {
+            "fee_name": "Merchant Bank Account Fees",
+            "fee_amount": null,
+            "fee_description": "Fees associated with merchant bank accounts."
+          },
+          {
+            "fee_name": "Payment Gateway Fees",
+            "fee_amount": null,
+            "fee_description": "Fees for payment gateway usage."
+          },
+          {
+            "fee_name": "Customer/Card Import Fees",
+            "fee_amount": null,
+            "fee_description": "Fees for importing existing cards/customers."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T01:07:40.685302",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://recurly.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\recurly\\20250415_010756"
+}

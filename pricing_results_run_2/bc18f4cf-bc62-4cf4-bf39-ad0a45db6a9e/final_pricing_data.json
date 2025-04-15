@@ -1,0 +1,177 @@
+{
+  "app_id": "dropbox",
+  "app_name": "Dropbox",
+  "app_slug": "dropbox",
+  "pricing_url": "https://www.dropbox.com/plans",
+  "source_url": "https://www.dropbox.com/plans",
+  "all_pricing_urls": [
+    "https://www.dropbox.com/plans"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes individual and team plans with varying storage and features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Free plan for individual users.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2 GB of storage",
+        "File sharing"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "2 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Plan for individual users with additional storage and features.",
+      "monthly_price": 9.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2 TB of storage",
+        "File sharing",
+        "30 days file recovery",
+        "Transfer files up to 50GB"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "2 TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Advanced plan for individual users.",
+      "monthly_price": 16.58,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "3 TB of storage",
+        "File sharing",
+        "180 days file recovery",
+        "Transfer files up to 100GB",
+        "Password-protected files"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "3 TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Team plan for small businesses.",
+      "monthly_price": 15.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 TB of storage for the team",
+        "Team folders",
+        "Admin controls"
+      ],
+      "limits": {
+        "users": "3+",
+        "storage": "5 TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Plan for larger teams with advanced features.",
+      "monthly_price": 24.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "15 TB of storage for the team",
+        "Advanced admin controls",
+        "Compliance tracking"
+      ],
+      "limits": {
+        "users": "3+",
+        "storage": "15 TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Customizable plan for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Enterprise-grade security",
+        "Dedicated support"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "custom",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:07:09.046551",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bc18f4cf-bc62-4cf4-bf39-ad0a45db6a9e",
+    "name": "Dropbox",
+    "slug": "dropbox",
+    "description": "Dropbox lets you store your files online, sync them to all your devices, and share them easily. Get started for free, then upgrade for more space and security features.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/13ed79eef97afd56b212ece05251b2de.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "File Management & Storage"
+    ],
+    "category_slugs": [
+      "files"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 13,
+    "trigger_count": 2
+  }
+}

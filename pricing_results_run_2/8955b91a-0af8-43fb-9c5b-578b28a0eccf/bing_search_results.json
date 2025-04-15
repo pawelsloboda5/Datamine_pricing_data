@@ -1,0 +1,266 @@
+{
+  "app_name": "Order Desk",
+  "app_slug": "order-desk",
+  "search_term": "Find the official pricing page URL for Order Desk (order-desk.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744720593.5351267,
+  "response_text": [
+    "The official pricing page for Order Desk can be found at: [https://www.orderdesk.com/pricing](https://www.orderdesk.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Our Pricing - Order Desk",
+      "url": "https://www.orderdesk.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.orderdesk.com/pricing/",
+      "is_accessible": true,
+      "content": "##### Flexible pricing that's built to ebb and flow with your business.\n\n### All core features included\n\nEvery Order Desk subscription includes:\n\n#### User accounts\n\nInvite your whole team to manage your store.\n\n#### Custom exports\n\nCreate unique data exports that make sense to any supplier that you use.\n\n#### Powerful Automation\n\nAutomate as many processes as you want with our robust Rule Builder.\n\n#### 5-star customer support\n\nEvery business has unique needs, and our support team is ready to tackle those with you.\n\nPlans\n-----\n\n#### Starter\n\n$20/mo\n------\n\n###### plus 25\u00a2 per order\n\n*   Connect up to 3 integrations\n*   One user\n\n#### Pro\n\n$60/mo\n------\n\n###### plus 10\u00a2 per order\n\n*   Unlimited integrations\n*   Unlimited users\n\n#### Plus\n\n$125/mo\n-------\n\n###### plus 5\u00a2 per order\n\n*   Unlimited Pro Stores\n\n*   Manage other Order Desk stores under the same subscription at no additional monthly cost.\n\n*   Unlimited integrations\n*   Unlimited users\n\nPlans\n-----\n\n### Starter\n\n$ 20/mo plus 25\u00a2 per order\n\n*   Connect up to 3 integrations\n    \n*   Add one user\n    \n\n### Pro\n\n$ 60/mo plus 10\u00a2 per order\n\n*   Unlimited integrations\n    \n*   Unlimited users\n    \n\nPopular\n\n##### Best for multiple stores\n\n### Plus\n\n$ 125/mo plus 5\u00a2 per order\n\n*   Unlimited Pro Stores\n    \n*   Unlimited integrations\n    \n*   Unlimited users\n    \n\n###### Our approach\n\nOrder Desk grows with your business\n-----------------------------------\n\nOrder Desk's flexible pricing model is designed to scale with your business. As your business ebbs and flows, you're welcome to adjust your subscription as often as you need.\n\n![Image 1](https://www.orderdesk.com/wp-content/uploads/2023/11/5-stars.png)\n\n### As the warehouse and fulfilment world changes, Order Desk has helped us connect to more selling channels and warehouses for our clients than we ever thought was going to be possible. Incredible software with a great support team behind it.\n\nRyan E, Capterra Review\n\n![Image 2](https://www.orderdesk.com/wp-content/uploads/2023/11/5-stars.png)\n\n### I have to say, I have never experienced customer service like this. This is one of, if not, the best company I have ever worked with.\n\n##### Rancher's Prime, Shopify review\n\nI have a question!\n------------------\n\nThere\u2019s a good chance we\u2019ve answered it below. If not, [reach out](https://www.orderdesk.com/contact/) and we\u2019d be happy to help.\n\nOur fully-featured trial waives our monthly subscription fee for 30 days. The order fee, however, can only be calculated for the number of orders in Order Desk from the previous month, so this fee will always be retroactive, including for the trial period. Know that you will be responsible for any orders you create during the trial period. The trade off for this is that when you leave Order Desk, your last month of orders will be free.\n\nIf you get to the end of your trial and need a little more time, just drop us a note and let us know.\n\nThe per order fee includes orders that are imported through an integration or import template, orders that are created manually within Order Desk, and orders that are copied from other Order Desk stores.\n\nEach invoice has two parts: a monthly subscription fee and an order fee. The subscription fee will cover the upcoming 30 days and the order fee will cover all orders created during the previous 30 days of usage. This means the orders from your trial period will fall under order fee on your first bill, but the trade off is the orders in your last month of service with Order Desk, should you choose to leave, will be free.\n\nNope, not at all! We just require that you agree to our [Terms of Use](https://www.orderdesk.com/legal/terms-of-use/). You can cancel at any time if you find that it isn\u2019t a good fit.\n\nYes. If you have special requirements not covered here, please [contact us](https://www.orderdesk.com/contact/) to discuss your specific needs. We do not offer white-labeling at this time.\n\nNo \u2018deal\u2019 necessary! We know many of you want to import your historical orders into Order Desk to keep everything in one place. Well, good news! We do not charge for historical orders (within reason, of course). If any order is older than a month, it will not be added to the bill. This is a free perk with Order Desk.\n\nEach Order Desk customer is responsible for paying the per order fee (which covers usage and storage costs) for every order they bring into Order Desk, regardless of what happens to the order once it\u2019s here.\n\nHowever, several of our shopping cart integrations have different filter options that allow you to tell Order Desk which orders should be imported from your cart. Check the settings in your shopping cart or marketplace integrations to see if a filter feature is available.\n\nYou can connect to as many integrations on a single Order Desk store as you want (but just one of each connection). You can, however, have as many Order Desk stores on your account as you need. The Plus plan, which offers unlimited Pro stores and a lower per-order fee, is ideal for accounts with more than 3-4 Order Desk stores or about 3500 orders per month. Read more about working with [multiple Order Desk stores](https://help.orderdesk.com/article/137-new-stores).\n\nIn a word: yes. We take security very seriously and have rigorously tested our app. All data is encrypted, and we employ industry best practices to ensure that your data is kept secure.\n\nWe never (ever) see protected card details coming in on your orders. For our own billing, we don\u2019t store your card details either and instead rely on our [secure payment partner](https://www.orderdesk.com/legal/subprocessors/).\n\nReady to automate?  \nStart your free 30-day trial today.\n--------------------------------------------------------\n\nOrder Desk's flexible, inexpensive pricing model is designed to ebb and flow with your business. Less orders = lower monthly cost.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "order_desk",
+        "app_name": "Order Desk",
+        "app_slug": "order-desk",
+        "pricing_url": "https://www.orderdesk.com/pricing",
+        "source_url": "https://www.orderdesk.com/pricing",
+        "all_pricing_urls": [
+          "https://www.orderdesk.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Order Desk charges a monthly subscription fee and a per-order fee based on usage. Historical orders older than a month are not charged.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Starter",
+            "tier_description": null,
+            "monthly_price": 20.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Connect up to 3 integrations",
+              "Add one user"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": 3,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": null,
+            "monthly_price": 60.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited integrations",
+              "Unlimited users"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Plus",
+            "tier_description": "Best for multiple stores",
+            "monthly_price": 125.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited Pro Stores",
+              "Unlimited integrations",
+              "Unlimited users"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "orders",
+            "unit": "per order",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": null,
+                "price": 0.25
+              },
+              {
+                "min": 0.0,
+                "max": null,
+                "price": 0.1
+              },
+              {
+                "min": 0.0,
+                "max": null,
+                "price": 0.05
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Order Fee",
+            "fee_amount": null,
+            "fee_description": "Covers usage and storage costs for every order brought into Order Desk."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T08:36:49.825336",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.orderdesk.com/pricing",
+      "is_accessible": true,
+      "content": "##### Flexible pricing that's built to ebb and flow with your business.\n\n### All core features included\n\nEvery Order Desk subscription includes:\n\n#### User accounts\n\nInvite your whole team to manage your store.\n\n#### Custom exports\n\nCreate unique data exports that make sense to any supplier that you use.\n\n#### Powerful Automation\n\nAutomate as many processes as you want with our robust Rule Builder.\n\n#### 5-star customer support\n\nEvery business has unique needs, and our support team is ready to tackle those with you.\n\nPlans\n-----\n\n#### Starter\n\n$20/mo\n------\n\n###### plus 25\u00a2 per order\n\n*   Connect up to 3 integrations\n*   One user\n\n#### Pro\n\n$60/mo\n------\n\n###### plus 10\u00a2 per order\n\n*   Unlimited integrations\n*   Unlimited users\n\n#### Plus\n\n$125/mo\n-------\n\n###### plus 5\u00a2 per order\n\n*   Unlimited Pro Stores\n\n*   Manage other Order Desk stores under the same subscription at no additional monthly cost.\n\n*   Unlimited integrations\n*   Unlimited users\n\nPlans\n-----\n\n### Starter\n\n$ 20/mo plus 25\u00a2 per order\n\n*   Connect up to 3 integrations\n    \n*   Add one user\n    \n\n### Pro\n\n$ 60/mo plus 10\u00a2 per order\n\n*   Unlimited integrations\n    \n*   Unlimited users\n    \n\nPopular\n\n##### Best for multiple stores\n\n### Plus\n\n$ 125/mo plus 5\u00a2 per order\n\n*   Unlimited Pro Stores\n    \n*   Unlimited integrations\n    \n*   Unlimited users\n    \n\n###### Our approach\n\nOrder Desk grows with your business\n-----------------------------------\n\nOrder Desk's flexible pricing model is designed to scale with your business. As your business ebbs and flows, you're welcome to adjust your subscription as often as you need.\n\n![Image 1](https://www.orderdesk.com/wp-content/uploads/2023/11/5-stars.png)\n\n### As the warehouse and fulfilment world changes, Order Desk has helped us connect to more selling channels and warehouses for our clients than we ever thought was going to be possible. Incredible software with a great support team behind it.\n\nRyan E, Capterra Review\n\n![Image 2](https://www.orderdesk.com/wp-content/uploads/2023/11/5-stars.png)\n\n### I have to say, I have never experienced customer service like this. This is one of, if not, the best company I have ever worked with.\n\n##### Rancher's Prime, Shopify review\n\nI have a question!\n------------------\n\nThere\u2019s a good chance we\u2019ve answered it below. If not, [reach out](https://www.orderdesk.com/contact/) and we\u2019d be happy to help.\n\nOur fully-featured trial waives our monthly subscription fee for 30 days. The order fee, however, can only be calculated for the number of orders in Order Desk from the previous month, so this fee will always be retroactive, including for the trial period. Know that you will be responsible for any orders you create during the trial period. The trade off for this is that when you leave Order Desk, your last month of orders will be free.\n\nIf you get to the end of your trial and need a little more time, just drop us a note and let us know.\n\nThe per order fee includes orders that are imported through an integration or import template, orders that are created manually within Order Desk, and orders that are copied from other Order Desk stores.\n\nEach invoice has two parts: a monthly subscription fee and an order fee. The subscription fee will cover the upcoming 30 days and the order fee will cover all orders created during the previous 30 days of usage. This means the orders from your trial period will fall under order fee on your first bill, but the trade off is the orders in your last month of service with Order Desk, should you choose to leave, will be free.\n\nNope, not at all! We just require that you agree to our [Terms of Use](https://www.orderdesk.com/legal/terms-of-use/). You can cancel at any time if you find that it isn\u2019t a good fit.\n\nYes. If you have special requirements not covered here, please [contact us](https://www.orderdesk.com/contact/) to discuss your specific needs. We do not offer white-labeling at this time.\n\nNo \u2018deal\u2019 necessary! We know many of you want to import your historical orders into Order Desk to keep everything in one place. Well, good news! We do not charge for historical orders (within reason, of course). If any order is older than a month, it will not be added to the bill. This is a free perk with Order Desk.\n\nEach Order Desk customer is responsible for paying the per order fee (which covers usage and storage costs) for every order they bring into Order Desk, regardless of what happens to the order once it\u2019s here.\n\nHowever, several of our shopping cart integrations have different filter options that allow you to tell Order Desk which orders should be imported from your cart. Check the settings in your shopping cart or marketplace integrations to see if a filter feature is available.\n\nYou can connect to as many integrations on a single Order Desk store as you want (but just one of each connection). You can, however, have as many Order Desk stores on your account as you need. The Plus plan, which offers unlimited Pro stores and a lower per-order fee, is ideal for accounts with more than 3-4 Order Desk stores or about 3500 orders per month. Read more about working with [multiple Order Desk stores](https://help.orderdesk.com/article/137-new-stores).\n\nIn a word: yes. We take security very seriously and have rigorously tested our app. All data is encrypted, and we employ industry best practices to ensure that your data is kept secure.\n\nWe never (ever) see protected card details coming in on your orders. For our own billing, we don\u2019t store your card details either and instead rely on our [secure payment partner](https://www.orderdesk.com/legal/subprocessors/).\n\nReady to automate?  \nStart your free 30-day trial today.\n--------------------------------------------------------\n\nOrder Desk's flexible, inexpensive pricing model is designed to ebb and flow with your business. Less orders = lower monthly cost.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "order_desk",
+        "app_name": "Order Desk",
+        "app_slug": "order-desk",
+        "pricing_url": "https://www.orderdesk.com/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://www.orderdesk.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Order Desk charges a monthly subscription fee plus a per-order fee based on the chosen plan. The per-order fee is calculated retroactively for the previous month.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Starter",
+            "tier_description": null,
+            "monthly_price": 20.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Connect up to 3 integrations",
+              "One user"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": 3,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": null,
+            "monthly_price": 60.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited integrations",
+              "Unlimited users"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Plus",
+            "tier_description": null,
+            "monthly_price": 125.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited Pro Stores",
+              "Unlimited integrations",
+              "Unlimited users"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "orders",
+            "unit": "per order",
+            "base_price": 0.25,
+            "tiers": null
+          },
+          {
+            "metric_name": "orders",
+            "unit": "per order",
+            "base_price": 0.1,
+            "tiers": null
+          },
+          {
+            "metric_name": "orders",
+            "unit": "per order",
+            "base_price": 0.05,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T08:37:09.295529",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\order-desk\\20250415_083709"
+}

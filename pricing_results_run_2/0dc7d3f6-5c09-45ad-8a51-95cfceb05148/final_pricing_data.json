@@ -1,0 +1,43 @@
+{
+  "app_id": "stax",
+  "app_name": "Stax",
+  "app_slug": "stax",
+  "pricing_url": null,
+  "source_url": "https://www.stax.com",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "No specific pricing information is provided on the website.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:45:24.660950",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0dc7d3f6-5c09-45ad-8a51-95cfceb05148",
+    "name": "Stax",
+    "slug": "stax",
+    "description": "Stax makes it easy to accept payments in-person and online and provides businesses with the tools they need to grow.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/21bc5ce21b8e8f5a28aafeff6a38ef4d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 17,
+    "trigger_count": 14
+  }
+}

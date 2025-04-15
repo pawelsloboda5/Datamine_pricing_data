@@ -1,0 +1,151 @@
+{
+  "app_id": "fireflies_ai",
+  "app_name": "Fireflies.ai",
+  "app_slug": "fireflies-ai",
+  "pricing_url": "https://fireflies.ai/pricing",
+  "source_url": "https://fireflies.ai/pricing",
+  "all_pricing_urls": [
+    "https://fireflies.ai/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer discounts compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For individuals starting out",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited transcription",
+        "Limited AI summaries",
+        "800 mins of storage/seat"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "800 mins/seat",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "limited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For professional individuals and small teams",
+      "monthly_price": 18.0,
+      "annual_price": 10.0,
+      "annual_discount_percentage": 44.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited transcription",
+        "Unlimited AI summaries",
+        "8,000 mins of storage/seat",
+        "Download transcripts, summaries, recordings",
+        "Talk-time analytics",
+        "AI Apps",
+        "Action Items & Task Manager",
+        "Unlimited integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "8,000 mins/seat",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For fast growing businesses",
+      "monthly_price": 29.0,
+      "annual_price": 19.0,
+      "annual_discount_percentage": 34.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited transcription",
+        "Unlimited AI summaries",
+        "Unlimited storage",
+        "Video recording",
+        "Conversation intelligence",
+        "Team analytics (for admins)",
+        "User groups",
+        "API access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large scale enterprises",
+      "monthly_price": 39.0,
+      "annual_price": 39.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited transcription",
+        "Unlimited AI summaries",
+        "Unlimited storage",
+        "Rules engine",
+        "SSO",
+        "HIPAA compliance",
+        "Private storage",
+        "Custom data retention",
+        "Transcript only mode",
+        "Super admin role",
+        "Dedicated account manager"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:25:11.328302",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a7f32bfc-acd8-4c86-89c2-06db04322569",
+    "name": "Fireflies.ai",
+    "slug": "fireflies",
+    "description": "Automatic notes from every meeting. Fireflies dials into your call to take notes. Automate actions by setting custom commands and alerts.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/d88308a209f9b4ebaca28cae353ac754.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Transcription"
+    ],
+    "category_slugs": [
+      "transcription"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 4,
+    "trigger_count": 0
+  }
+}

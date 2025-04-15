@@ -1,0 +1,208 @@
+{
+  "app_id": "sendpulse",
+  "app_name": "SendPulse",
+  "app_slug": "sendpulse",
+  "pricing_url": "https://sendpulse.com/pricing",
+  "source_url": "https://sendpulse.com/pricing",
+  "all_pricing_urls": [
+    "https://sendpulse.com/pricing",
+    "https://sendpulse.com/en/pricing",
+    "https://sendpulse.com/en/pricing/messengers",
+    "https://sendpulse.com/en/pricing/smtp",
+    "https://sendpulse.com/en/pricing/crm",
+    "https://sendpulse.com/en/pricing/landing-page-builder",
+    "https://sendpulse.com/en/pricing/sms",
+    "https://sendpulse.com/en/pricing/edu",
+    "https://sendpulse.com/en/pricing/pop-up",
+    "https://sendpulse.com/en/pricing/verifier",
+    "https://sendpulse.com/en/pricing/webpush",
+    "https://sendpulse.com/en/pricing/viber"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing varies based on the number of subscribers and emails sent. Discounts are available for annual and semi-annual billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Core features for beginners.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 500 subscribers",
+        "Up to 15,000 emails",
+        "100 MB of image storage",
+        "3 sender email addresses",
+        "1 domain",
+        "5 flows, 1 event, and 50 elements in Automation 360",
+        "1 website or bio link page",
+        "100 verifications with the email verifier"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "100MB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Subscribers",
+            "value": 500
+          },
+          {
+            "name": "Emails per month",
+            "value": 15000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Expanded tools for growing businesses.",
+      "monthly_price": 8.0,
+      "annual_price": 96.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited emails",
+        "200 MB of image storage",
+        "100 sender email addresses",
+        "3 domains",
+        "10 flows, 10 events, and 70 elements in Automation 360",
+        "2 bio link pages",
+        "100 verifications with the email verifier",
+        "5 saved segments",
+        "Full A/B testing suite",
+        "3 users per account"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "200MB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Emails",
+            "value": "Unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Full access for email marketing professionals.",
+      "monthly_price": 9.6,
+      "annual_price": 115.2,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited emails",
+        "500 MB of image storage",
+        "300 sender email addresses",
+        "5 domains",
+        "50 flows, 50 events, and 150 elements in Automation 360",
+        "2 websites and 2 bio link pages",
+        "1,000 verifications with the email verifier",
+        "Unlimited segments",
+        "Full A/B testing suite",
+        "10 users per account",
+        "Unlimited tags"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "500MB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Emails",
+            "value": "Unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Advanced features for large companies.",
+      "monthly_price": 13.44,
+      "annual_price": 161.28,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited emails",
+        "5 GB of image storage",
+        "Unlimited sender email addresses and domains",
+        "Unlimited flows, events, and elements in Automation 360",
+        "50 websites and bio link pages",
+        "Advanced segmentation options",
+        "Full A/B testing suite",
+        "Unlimited users",
+        "Unlimited tags"
+      ],
+      "limits": {
+        "users": "Unlimited",
+        "storage": "5GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Emails",
+            "value": "Unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Emails",
+      "unit": "per email",
+      "base_price": 0.004,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 10000.0,
+          "price": 40.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:00:21.609681",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "32b1a2d3-9fa8-4fc3-aebd-dcb3d2a42a4d",
+    "name": "SendPulse",
+    "slug": "sendpulse",
+    "description": "SendPulse is an Integrated messaging platform providing user communication on all devices with Emails, SMS, Web Push, SMTP and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/10541fd81f996da9beb328b7b4db270e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 2
+  }
+}

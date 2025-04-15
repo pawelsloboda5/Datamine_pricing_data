@@ -1,0 +1,70 @@
+{
+  "app_id": "mailtrack",
+  "app_name": "Mailtrack",
+  "app_slug": "mailtrack",
+  "pricing_url": "https://mailtrack.io/en/pricing",
+  "source_url": "https://mailtrack.io/pricing",
+  "all_pricing_urls": [
+    "https://mailtrack.io/en/pricing"
+  ],
+  "price_model_type": [
+    "free_tier",
+    "subscription"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page was not accessible, but the service offers a free tier with unlimited email tracking.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Unlimited email tracking for Gmail.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited email tracking",
+        "Real-time notifications",
+        "Link tracking"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:40:53.058657",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fcb0f8a6-3c4a-421a-94e4-ee59dc5d1457",
+    "name": "Mailtrack",
+    "slug": "mailtrackio",
+    "description": "Mailtrack is an email tracking extension for Gmail. With Mailtrack, you can see how people interact with the emails you send from Gmail. Track if your emails have been opened, links have been clicked, and much more!",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/97e748ae963ed067bd7ab38c78e5e114.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email"
+    ],
+    "category_slugs": [
+      "email"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

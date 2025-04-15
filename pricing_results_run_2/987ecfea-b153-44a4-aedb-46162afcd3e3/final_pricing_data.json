@@ -1,0 +1,53 @@
+{
+  "app_id": "birdsend",
+  "app_name": "BirdSend",
+  "app_slug": "birdsend",
+  "pricing_url": null,
+  "source_url": "https://www.birdsend.co/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "BirdSend offers a 7-day free trial and provides a 30-day money-back guarantee. Pricing is subscription-based and adjusts automatically if usage exceeds the current plan's limits.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Locked-in Pricing",
+      "offer_description": "Sign up now to lock in the current rate before future price increases.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:03:38.516944",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "987ecfea-b153-44a4-aedb-46162afcd3e3",
+    "name": "BirdSend",
+    "slug": "birdsend",
+    "description": "BirdSend is an email marketing tool exclusively for content creators only.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/ebc0ad59837e0303be6a9be43fb408b6.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Drip Emails"
+    ],
+    "category_slugs": [
+      "drip-emails"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 4
+  }
+}

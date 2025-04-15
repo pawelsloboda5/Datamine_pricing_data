@@ -1,0 +1,217 @@
+{
+  "app_name": "Holded",
+  "app_slug": "holded",
+  "search_term": "Find the official pricing page URL for Holded (holded.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744713230.9517367,
+  "response_text": [
+    "The official pricing page for Holded can be found at: [https://www.holded.com/en/pricing](https://www.holded.com/en/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Prices and plans that adapt to your needs - Holded",
+      "url": "https://www.holded.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.holded.com/en/pricing",
+      "is_accessible": true,
+      "content": "![Image 1](https://storage.googleapis.com/landing-strapi-v4/assets/svg/black_diamond-7FBB98dst6LTCZXiyXtdcE.svg)\n\n404 error.\n\nOops! We can\u2019t seem to find that page.\n======================================\n\nWhile we look for it, here are other pages that might interest you.\n\nWe recommend\n------------\n\n[### Invoicing Learn how to automate your invoices with Holded.](https://www.holded.com/invoicing-software)[### Pricing Discover the Holded plan that adapts to your needs.](https://www.holded.com/pricing)\n\n[Or go back home \u2192](https://www.holded.com/)\n\n\u00a9 Holded SL. All rights reserved.\n\n[Linkedin![Image 2](https://storage.googleapis.com/landing-strapi-v4/assets/svg/vector-13.33.58-2LAvCX8Sfi4rkQ8znifr54.svg)](https://es.linkedin.com/company/holded)[Facebook![Image 3](https://storage.googleapis.com/landing-strapi-v4/assets/svg/icon-sNSaDppQs51XCog3pGRHNq.svg)](https://es-es.facebook.com/holdedapp/)[Twitter![Image 4](https://storage.googleapis.com/landing-strapi-v4/assets/svg/icon-2-ndYj3eUdfz5qc6UwA9dXSJ.svg)](https://twitter.com/holded_ES)\n\n \n\nWe use necessary cookies for the correct function of the website. Additionally, we use optional preference cookies to personalize your experience, statistical cookies to perform analysis, and marketing cookies to provide customized information and advertising. You can accept, reject or configure cookies according to your preferences. For more details[consult our website](https://www.holded.com/cookie-policy)\n\nPreferences\n\nReject Accept\n\n![Image 5: Company Logo](https://cdn.cookielaw.org/logos/80df487c-62ab-4978-b310-891309e09de5/3e805fe4-279a-49aa-8606-c7cb584bbc20/1dc5897a-ad1b-4ae5-88b5-c1a3c756b50b/Holded_H_Logo_R@2x.png)\n\nPrivacy Preference Center\n-------------------------\n\nWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.  \n[For more details consult our website](https://cookiepedia.co.uk/giving-consent-to-cookies)\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Essential Cookies\n\nAlways Active\n\nStrictly necessary cookies make our website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.\n\n#### Analytical Cookies\n\n Analytical Cookies\n\nAnalytical cookies allow us to analyse traffic sources so we can measure and improve the performance of our site. Analytical cookies enable us to see how visitors move around the website.\n\n#### Functional Cookies\n\n Functional Cookies\n\nFunctional cookies enable our website to remember information that changes the way the website behaves or looks; for example, your preferred language or the region that you are in.\n\n#### Marketing Cookies\n\n Marketing Cookies\n\nThese cookies may be set through our site by us or our advertising partners. They may be used to build a profile of your interests and show you relevant adverts on this, or other sites. They will also allow us to present content that we believe is more relevant to you. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising and personalised content.\n\n### Cookie List\n\n \n\nClear\n\n checkbox label label\n\nApply Cancel\n\nConsent Leg.Interest\n\n checkbox label label\n\n checkbox label label\n\n checkbox label label\n\nReject All Confirm My Choices\n\n[![Image 6: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "holded",
+        "app_name": "Holded",
+        "app_slug": "holded",
+        "pricing_url": "https://www.holded.com/pricing",
+        "source_url": "https://www.holded.com/pricing",
+        "all_pricing_urls": [
+          "https://www.holded.com/pricing"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "EUR",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page was not accessible, and no detailed pricing information could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T06:33:57.212165",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.holded.com/pricing",
+      "is_accessible": true,
+      "content": "Prices and plans that adapt to your needs\n===============\n\n \n\nStart now and save[50% discount for 3 months50% discount for 3 months \u2192](https://app.holded.com/signup?lang=en)\n\n06\n\nDAYS\n\n23\n\nHRS\n\n:\n\n59\n\nMIN\n\n:\n\n58\n\nSEC\n\nTalk to our sales team:[+34 930 474 586](tel:+34930474586)\n\n[Holded![Image 9](https://storage.googleapis.com/landing-strapi-v4/assets/svg/logo_holded_blanco-1AfqVPSBGM3BqAM3u5QBwH.svg)](https://www.holded.com/)\n\nFeatures\n\n*   [Invoicing Create invoices in seconds and schedule them with a single click.](https://www.holded.com/invoicing-software)\n*   [Accounting Save time by automating up to 95% of your accounting.](https://www.holded.com/accounting-software)\n*   [Treasury Connect your bank accounts safely and keep close track of your cashflow.](https://www.holded.com/treasury-software)\n*   [Projects Simple and efficient tools to tackle even the most complex of projects.](https://www.holded.com/project-management-software)\n*   [Inventory and manufacturing Monitor your inventory in real time and have full control over your stock.](https://www.holded.com/inventory-management)\n*   [Team Organize and empower your team with the best HR tools.](https://www.holded.com/hr-management-software)\n*   [CRM Control at a glance the evolution of your leads - from beginning to end.](https://www.holded.com/crm-software)\n*   [Integrations Expand the horizons of your Holded account with integrations.](https://www.holded.com/integrations)\n*   [ERP Everything you need to manage your business in one place.](https://www.holded.com/erp)\n*   [POS Connect your in-store sales to your cloud business, with Holded.](https://www.holded.com/pos-software)\n\nSmall business\n\n*   [Agencies PR, design, marketing, media, etc.](https://www.holded.com/agencies)\n*   [Internet & software SaaS and cloud-based services.](https://www.holded.com/internet-software)\n*   [Start-ups Fast-growing tech companies.](https://www.holded.com/startups)\n*   [Professional Services Lawyers, consultants, etc.](https://www.holded.com/professional-services)\n*   [Wholesale Buyers and wholesale distributors.](https://www.holded.com/wholesale)\n*   [Retail Stores, retail trade and shops.](https://www.holded.com/retail)\n*   [E-commerce Online stores.](https://www.holded.com/e-commerce)\n*   [Construction Infrastructures, labor, materials, etc.](https://www.holded.com/construction)\n*   [Hospitality Restaurants, hotels, catering, etc.](https://www.holded.com/hospitality)\n*   [Others Holded adapts to your business.](https://www.holded.com/other-companies)\n\n*   [Freelancers](https://www.holded.com/freelancers)\n\nPricing\n\n*   [Small companies 1-10 people](https://www.holded.com/pricing?category=small-companies)\n*   [Medium companies More than 10 people](https://www.holded.com/pricing?category=medium-companies)\n*   [Freelancers Independent proffesionals](https://www.holded.com/pricing?category=freelancers)\n*   [Accounting offices Get your customised plan](https://www.holded.com/pricing?category=accounting-offices)\n\nResources\n\n*   [Success stories Real stories from entrepreneurs like you.](https://www.holded.com/success-cases)\n*   [Academy Easy-to-follow guides on how to use Holded.](https://help.holded.com/en/)\n*   [Blog Tips and tricks to help you run your business.](https://www.holded.com/blog)\n*   [Webinars Learn how to use Holded with the help of our experts.](https://www.holded.com/webinars)\n\n[Log in](https://app.holded.com/login)[Book a demo](https://app.holded.com/demo?lang=en)[Start for free](https://app.holded.com/signup?lang=en)\n\n[Holded![Image 10](https://storage.googleapis.com/landing-strapi-v4/assets/svg/logo_holded_blanco-1AfqVPSBGM3BqAM3u5QBwH.svg)](https://www.holded.com/)\n\nOpen Menu\n\nPrices tailored to your needs\n=============================\n\nStart with free 14 days, continue with a 50% discounted plan for the first 3 months.\n\nSmall companies1-10\n\nMedium companies+10\n\nFreelancers1\n\nAccounting offices\n\n![Image 11](https://storage.googleapis.com/landing-strapi-v4/assets/svg/exclude-wrdzjW4wezf9BuC3LYrou4.svg)\n\nBasic\n\n14,50 \u20ac/month\n\n29,00 \u20acSave 43,50 \u20ac in 3 months\n\nManage your invoicing with customers and suppliers.\n\n2 users\n\nInvoices and quotes\n\nCreate invoices and sales or purchase tickets, proformas and more.\n\nAll your banks connected\n\nSynchronise your bank automatically to keep your payments and collections under control.\n\nAdvanced reporting\n\nReports on sales, purchases, profit and loss, VAT books, balance sheet, annual accounts, HR and much more.\n\nEmployee management\n\nUser roles\n\nCollections and bulk payments\n\nSEPA bank remittances.\n\nAccounting automations\n\nAutomatic creation of accounting entries and bank reconciliation rules.\n\nCustom fields\n\nAdd extra fields to your contacts and documents to customise the management.\n\nPersonalised client portal\n\nHighlight your brand on the digital portal shared with clients and suppliers.\n\nBusiness plan and Banking\n\n[Start now](https://app.holded.com/signup?lang=en)\n\n![Image 12](https://storage.googleapis.com/landing-strapi-v4/assets/svg/exclude-11gp1D4JHMXEyfg9BRBFDi.svg)\n\nStandard\n\n29,50 \u20ac/month\n\n59,00 \u20acSave 88,50 \u20ac in 3 months\n\nAutomatise the management of your invoicing and accounting.\n\n4 users\n\nInvoices and quotes\n\nCreate invoices and sales or purchase tickets, proformas and more.\n\nAll your banks connected\n\nKeep control of your transactions by centralising the management of banks and gateways.\n\nAdvanced reporting\n\nView all invoicing and accounting reports: P&L, VAT Books, Balance Sheet, Annual Accounts and more.\n\nEmployee management\n\nUser roles\n\nCollections and bulk payments\n\nSEPA bank remittances.\n\nAccounting automations\n\nAutomatic creation of accounting entries and bank reconciliation rules.\n\nCustom fields\n\nAdd extra fields to your contacts and documents to customise the management.\n\nPersonalised client portal\n\nHighlight your brand on the digital portal shared with clients and suppliers.\n\nBusiness plan and Banking\n\n[Start now](https://app.holded.com/signup?lang=en)\n\n![Image 13](https://storage.googleapis.com/landing-strapi-v4/assets/svg/shape-09-nYVizQ9YJiAs7Tn7X6H9SR.svg)\n\nAdvanced\n\nPopular\n\n49,50 \u20ac/month\n\n99,00 \u20acSave 148,50 \u20ac in 3 months\n\nProfessionalize the management of your finances and operations.\n\n7 users\n\nInvoices and quotes\n\nCreate invoices and sales or purchase tickets, proformas and more.\n\nAll your banks connected\n\nKeep control of your transactions by centralising the management of banks and gateways.\n\nAdvanced reporting\n\nView all invoicing and accounting reports: P&L, VAT Books, Balance Sheet, Annual Accounts and more.\n\nEmployee management\n\nPersonalised user roles\n\nCollections and bulk payments\n\nSEPA bank remittances.\n\nAccounting automations\n\nAutomatic creation of accounting entries and bank reconciliation rules.\n\nCustom fields\n\nAdd extra fields to your contacts and documents to customise the management.\n\nPersonalised client portal\n\nHighlight your brand on the digital portal shared with clients and suppliers.\n\nBusiness plan and Banking\n\n[Start now](https://app.holded.com/signup?lang=en)\n\nCompare all features\n\nAll plans include:\n------------------\n\nBanking and Cash flow\n\nConnect your banks and manage payments, liquidity and cash flow.\n\nBank reconciliation\n\nReconciles recurrent transactions such as receipts at a stroke.\n\nVAT and Personal Income Tax models\n\nFile your taxes from Holded with any plan.\n\nAnalitycs\n\nFull traceability of all operations made in Holded.\n\nProject management\n\nOrganise tasks, create goals and connect everything to expenses.\n\nTicketBAI\n\nAutomatically send your invoices and receipts to your tax authorities.\n\nE-commerce integrations\n\nConnect for free your most used apps to manage your ecommerce.\n\nChat support\n\nSupport from day one via chat.\n\nCustomise your plan with gems\n\n![Image 14](https://storage.googleapis.com/landing-strapi-v4/assets/svg/suporte-premium-f7zAc8LpV53NTig6Bzguo4.svg)50,00 \u20ac/month\n\nPremium Support\n\nReceive personalized attention and quickly resolve your questions.\n\n![Image 15](https://storage.googleapis.com/landing-strapi-v4/assets/svg/catalog-pZcs6hp1vWngLXDYA77LgD.svg)10,00 \u20ac/month\n\nCatalogue\n\nShare an online catalogue of your products.\n\n![Image 16](https://storage.googleapis.com/landing-strapi-v4/assets/svg/inventory-1RRpzzzgQy6HSDnyFmAqkN.svg)25,00 \u20ac/month\n\nInventory\n\nTrack your product cycle: orders, stock and warehousing.\n\n![Image 17](https://storage.googleapis.com/landing-strapi-v4/assets/svg/image-64-kwGyS3hNN51Cnr7yABqMUP.svg)25,00 \u20ac/month\n\nManufacturing\n\nCreate Production orders and Bills of Materials.\n\n![Image 18](https://storage.googleapis.com/landing-strapi-v4/assets/svg/recurring-invoices-gmRw4dYTpHuj6NNpHgtLW8.svg)25,00 \u20ac/store/month\n\nPOS\n\nConnect face-to-face sales with cloud-based management.\n\n![Image 19](https://storage.googleapis.com/landing-strapi-v4/assets/svg/sii-8msGvDAeYNjHmGY8mypVAj.svg)30,00 \u20ac/month\n\nSII\n\nConnect with the Tax Agency's SII to send invoices.\n\n![Image 20](https://storage.googleapis.com/landing-strapi-v4/assets/svg/team-pdVAA7SbEpbEtQCPHcmeTM.svg)1,50 \u20ac/employee/month\n\nTeam PRO\n\nOrganise your company's HR: payroll, contracts and more.\n\n[![Image 21](https://storage.googleapis.com/landing-strapi-v4/assets/svg/more-qds2Rwj5JFRNRJDB1q8kkE.svg) And many more Fully customise the ERP you need.](https://app.holded.com/signup?lang=en)\n\nBasic\n\n[Start now](https://app.holded.com/signup?lang=en)\n\nStandard\n\n[Start now](https://app.holded.com/signup?lang=en)\n\nAdvanced\n\n[Start now](https://app.holded.com/signup?lang=en)\n\nBilling\n\nIssued invoices and sales tickets\n\ne-invoice\n\nMore than 50 customized invoice templates\n\nBudgets\n\nProducts and services\n\nOnline invoice collection\n\nProfit and loss report\n\nMultiple currencies\n\nActive recurring sales invoices\n\nCustomer payment reminders\n\nPersonalised Client portal\n\nCreating and editing goals in Goals\n\nCreating scenarios\n\nScenario comparison\n\nCustomisable Goals graph\n\n\\*Functionality with additional cost, available in the 'Gems' section of the Holded Store.\n\n1.000/per year\n\n10\n\n\\*\\*\n\n\\*\n\n3.000/per year\n\n100\n\n\\*\\*\n\n\\*\n\n10.000/per year\n\n300\n\nBasic\n\n[Start now](https://app.holded.com/signup?lang=en)\n\nStandard\n\n[Start now](https://app.holded.com/signup?lang=en)\n\nAdvanced\n\n[Start now](https://app.holded.com/signup?lang=en)\n\nBasic\n\n[Start now](https://app.holded.com/signup?lang=en)\n\nStandard\n\n[Start now](https://app.holded.com/signup?lang=en)\n\nAdvanced\n\n[Start now](https://app.holded.com/signup?lang=en)\n\nBasic\n\n[Start now](https://app.holded.com/signup?lang=en)\n\nStandard\n\n[Start now](https://app.holded.com/signup?lang=en)\n\nAdvanced\n\n[Start now](https://app.holded.com/signup?lang=en)\n\nBilling\n\nIssued invoices and sales tickets\n\ne-invoice\n\nMore than 50 customized invoice templates\n\nBudgets\n\nProducts and services\n\nOnline invoice collection\n\nProfit and loss report\n\nMultiple currencies\n\nActive recurring sales invoices\n\nCustomer payment reminders\n\nPersonalised Client portal\n\nCreating and editing goals in Goals\n\nCreating scenarios\n\nScenario comparison\n\nCustomisable Goals graph\n\nTreasury\n\nConnection with banks in real time\n\nBank remittance management \\*\n\nCash Flow\n\nCash flow Pro\n\nAutomating goals in Cashflow\n\nCreating and editing goals in Cashflow\n\nCreating scenarios\n\nScenario comparison\n\nCustomisable Cashflow graph\n\nEditable initial balance for January\n\nEditable initial balance for any month\n\nImport goals into Cashflow\n\nDownload Cashflow data\n\nExpense control\n\nSupplier directory\n\nInvoices received\n\nExpense receipts\n\nExpenses scanner\n\nAutomatic extraction of invoices and tickets\n\nRecurring purchases\n\nPost payroll\n\nAnual expense readings included\n\nTaxes\n\nList of invoices issued and received\n\nVAT Modelos\n\nPersonal Income Tax Modelos\n\nSII access \\*\n\nCorporate Taxes\n\nAccounting\n\nAutomatic accounting entries\n\nVAT books\n\nAnalytical accounting\n\nManagement of fixed assets and depreciation\n\nAnnual accounts\n\nCustomizable Account Chart\n\nLedger\n\nAccounting journal\n\nBalance sheet\n\nReconciliation rules\n\nHR management\n\nEmployee directory\n\nAbsence control \\*\n\nTime control by geolocation \\*\n\nEmployee portal \\*\n\nOrganization chart \\*\n\nAccounting and import of payrolls\n\nEmployee documents \\*\n\nInventory management\n\nProducts with variants, lots, etc. \\*\n\nPOS Software \\*\n\nManagement of multiple warehouses \\*\n\nSales orders \\*\n\nPurchase orders \\*\n\nCustom order statuses \\*\n\nOnline catalog/B2B Portal \\*\n\nDelivery notes \\*\n\nManagement of multiple rates \\*\n\nCRM\n\nCustomer directory\n\nActivity scheduler\n\nSales funnel manager\n\nActivities calendar\n\nProject management\n\nTask management\n\nProject profitability control\n\nTeam workload management\n\nProject management\n\nViews: Kanban, Gantt, List, and Spreadsheet\n\nSystem\n\nChat support\n\nUser roles\n\nCustom fields\n\nOwn SMTP\n\nCustom roles\n\nLimit of contacts\n\n1.000/per year\n\n10\n\n5\n\n100\n\n303, 347, 349, 369, 390\n\n111, 130, 115, 123, 180, 190\n\n10\n\nUnlimited\n\n\\*Functionality with additional cost, available in the 'Gems' section of the Holded Store.\n\nShow more\n\nFooter\n\nGet started\n\n*   [Create a free account](https://app.holded.com/signup?lang=en)\n*   [Log in](https://app.holded.com/login?lang=en)\n*   [Pricing](https://www.holded.com/pricing)\n\nHolded's features\n\n*   [ERP](https://www.holded.com/erp)\n*   [Invoicing](https://www.holded.com/invoicing-software)\n*   [Accounting](https://www.holded.com/accounting-software)\n*   [CRM](https://www.holded.com/crm-software)\n*   [Projects](https://www.holded.com/project-management-software)\n*   [Team](https://www.holded.com/hr-management-software)\n*   [Inventory](https://www.holded.com/inventory-management)\n*   [Integrations](https://www.holded.com/integrations)\n*   [All the features](https://www.holded.com/features)\n\nAbout us\n\n*   [Get in touch](https://www.holded.com/contact)\n*   [Who we are](https://www.holded.com/about-us)\n*   [Success Stories](https://www.holded.com/success-cases)\n*   [Work with us](https://holded.recruitee.com/)\n*   [Solutions for developers](https://developers.holded.com/reference/api-key)\n*   [Whistleblowing Channel](https://www.visma.com/whistleblowing)\n\nResources\n\n*   [Blog](https://www.holded.com/blog)\n*   [YouTube](https://www.youtube.com/channel/UCboTKh0w0lkIGnznEVjATPg)\n*   [Academy](https://help.holded.com/en/)\n\nMight also be useful\n\n*   [Cookie policy](https://www.holded.com/cookie-policy)\n*   [Privacy policy](https://www.holded.com/privacy)\n*   [Terms and conditions](https://www.holded.com/tac)\n*   [Site map](https://www.holded.com/site-map)\n*   [Sentencia n\u00fam. 29/25](https://storage.googleapis.com/landing-strapi-v4/assets/pdf/ajkshfaklglkfg8365960264ghsdgkhllahhbflhiujrebfcalsuy475790205aftmyen(r)tm-wynFaZAzoTafiBKs9CSVTv.pdf)\n\nLanguage\n\nEnglish\n\n[Facebook![Image 22](https://storage.googleapis.com/landing-strapi-v4/assets/svg/icon-sNSaDppQs51XCog3pGRHNq.svg)](https://es-es.facebook.com/holdedapp/)[Instagram![Image 23](https://storage.googleapis.com/landing-strapi-v4/assets/svg/ig-nE95hphKqPRsQuccpP9tmb.svg)](https://www.instagram.com/holded.io)[Linkedin![Image 24](https://storage.googleapis.com/landing-strapi-v4/assets/svg/vector-13.33.58-2LAvCX8Sfi4rkQ8znifr54.svg)](https://es.linkedin.com/company/holded)[Twitter![Image 25](https://storage.googleapis.com/landing-strapi-v4/assets/svg/icon-2-ndYj3eUdfz5qc6UwA9dXSJ.svg)](https://twitter.com/holded_ES)[YouTube![Image 26](https://storage.googleapis.com/landing-strapi-v4/assets/svg/yt-jVP1muwK8vYJc1zRHTv737.svg)](https://www.youtube.com/channel/UCboTKh0w0lkIGnznEVjATPg)\n\n\u00a9 2025 Holded. All rights reserved.\n\n![Image 27](https://storage.googleapis.com/landing-strapi-v4/assets/png/visma-white-logo-rsFZgPKaCHGaHxSGAnKW7F.png)\n\n[Visma Group](https://www.visma.com/)[Visma in Spain](https://www.visma.es/)[Visma Careers](https://www.visma.com/careers)\n\nFooter\n\nGet started*   [Create a free account](https://app.holded.com/signup?lang=en)\n*   [Log in](https://app.holded.com/login?lang=en)\n*   [Pricing](https://www.holded.com/pricing)\n\nHolded's features*   [ERP](https://www.holded.com/erp)\n*   [Invoicing](https://www.holded.com/invoicing-software)\n*   [Accounting](https://www.holded.com/accounting-software)\n*   [CRM](https://www.holded.com/crm-software)\n*   [Projects](https://www.holded.com/project-management-software)\n*   [Team](https://www.holded.com/hr-management-software)\n*   [Inventory](https://www.holded.com/inventory-management)\n*   [Integrations](https://www.holded.com/integrations)\n*   [All the features](https://www.holded.com/features)\n\nAbout us*   [Get in touch](https://www.holded.com/contact)\n*   [Who we are](https://www.holded.com/about-us)\n*   [Success Stories](https://www.holded.com/success-cases)\n*   [Work with us](https://holded.recruitee.com/)\n*   [Solutions for developers](https://developers.holded.com/reference/api-key)\n*   [Whistleblowing Channel](https://www.visma.com/whistleblowing)\n\nResources*   [Blog](https://www.holded.com/blog)\n*   [YouTube](https://www.youtube.com/channel/UCboTKh0w0lkIGnznEVjATPg)\n*   [Academy](https://help.holded.com/en/)\n\nMight also be useful*   [Cookie policy](https://www.holded.com/cookie-policy)\n*   [Privacy policy](https://www.holded.com/privacy)\n*   [Terms and conditions](https://www.holded.com/tac)\n*   [Site map](https://www.holded.com/site-map)\n*   [Sentencia n\u00fam. 29/25](https://storage.googleapis.com/landing-strapi-v4/assets/pdf/ajkshfaklglkfg8365960264ghsdgkhllahhbflhiujrebfcalsuy475790205aftmyen(r)tm-wynFaZAzoTafiBKs9CSVTv.pdf)\n\nLanguage\n\nEnglish\n\n[Facebook![Image 28](https://storage.googleapis.com/landing-strapi-v4/assets/svg/icon-sNSaDppQs51XCog3pGRHNq.svg)](https://es-es.facebook.com/holdedapp/)[Instagram![Image 29](https://storage.googleapis.com/landing-strapi-v4/assets/svg/ig-nE95hphKqPRsQuccpP9tmb.svg)](https://www.instagram.com/holded.io)[Linkedin![Image 30](https://storage.googleapis.com/landing-strapi-v4/assets/svg/vector-13.33.58-2LAvCX8Sfi4rkQ8znifr54.svg)](https://es.linkedin.com/company/holded)[Twitter![Image 31](https://storage.googleapis.com/landing-strapi-v4/assets/svg/icon-2-ndYj3eUdfz5qc6UwA9dXSJ.svg)](https://twitter.com/holded_ES)[YouTube![Image 32](https://storage.googleapis.com/landing-strapi-v4/assets/svg/yt-jVP1muwK8vYJc1zRHTv737.svg)](https://www.youtube.com/channel/UCboTKh0w0lkIGnznEVjATPg)\n\n\u00a9 2025 Holded. All rights reserved.\n\n![Image 33](https://storage.googleapis.com/landing-strapi-v4/assets/png/visma-white-logo-rsFZgPKaCHGaHxSGAnKW7F.png)\n\n[Visma Group](https://www.visma.com/)[Visma in Spain](https://www.visma.es/)[Visma Careers](https://www.visma.com/careers)\n\nPrices and plans that adapt to your needs\n\n \n\nWe use necessary cookies for the correct function of the website. Additionally, we use optional preference cookies to personalize your experience, statistical cookies to perform analysis, and marketing cookies to provide customized information and advertising. You can accept, reject or configure cookies according to your preferences. For more details[consult our website](https://www.holded.com/cookie-policy)\n\nPreferences\n\nReject Accept\n\n![Image 34: Company Logo](https://cdn.cookielaw.org/logos/80df487c-62ab-4978-b310-891309e09de5/3e805fe4-279a-49aa-8606-c7cb584bbc20/1dc5897a-ad1b-4ae5-88b5-c1a3c756b50b/Holded_H_Logo_R@2x.png)\n\nPrivacy Preference Center\n-------------------------\n\nWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.  \n[For more details consult our website](https://cookiepedia.co.uk/giving-consent-to-cookies)\n\nAllow All\n\n### Manage Consent Preferences\n\n#### Essential Cookies\n\nAlways Active\n\nStrictly necessary cookies make our website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies.\n\n#### Analytical Cookies\n\n Analytical Cookies\n\nAnalytical cookies allow us to analyse traffic sources so we can measure and improve the performance of our site. Analytical cookies enable us to see how visitors move around the website.\n\n#### Functional Cookies\n\n Functional Cookies\n\nFunctional cookies enable our website to remember information that changes the way the website behaves or looks; for example, your preferred language or the region that you are in.\n\n#### Marketing Cookies\n\n Marketing Cookies\n\nThese cookies may be set through our site by us or our advertising partners. They may be used to build a profile of your interests and show you relevant adverts on this, or other sites. They will also allow us to present content that we believe is more relevant to you. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising and personalised content.\n\n### Cookie List\n\n \n\nClear\n\n checkbox label label\n\nApply Cancel\n\nConsent Leg.Interest\n\n checkbox label label\n\n checkbox label label\n\n checkbox label label\n\nReject All Confirm My Choices\n\n[![Image 35: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)\n\nHolded is an intuitive and affordable management software. Our different plans can adapt to the needs of most businesses. Start your free trial now!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "holded",
+        "app_name": "Holded",
+        "app_slug": "holded",
+        "pricing_url": "https://www.holded.com/pricing",
+        "source_url": "https://www.holded.com/pricing",
+        "all_pricing_urls": [
+          "https://www.holded.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "EUR",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Holded offers a 50% discount for the first 3 months on all plans.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic",
+            "tier_description": "Manage your invoicing with customers and suppliers.",
+            "monthly_price": 14.5,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Invoices and quotes",
+              "All your banks connected",
+              "Advanced reporting",
+              "Employee management",
+              "User roles",
+              "Collections and bulk payments",
+              "Accounting automations",
+              "Custom fields",
+              "Personalised client portal"
+            ],
+            "limits": {
+              "users": 2,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Standard",
+            "tier_description": "Automatise the management of your invoicing and accounting.",
+            "monthly_price": 29.5,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Invoices and quotes",
+              "All your banks connected",
+              "Advanced reporting",
+              "Employee management",
+              "User roles",
+              "Collections and bulk payments",
+              "Accounting automations",
+              "Custom fields",
+              "Personalised client portal"
+            ],
+            "limits": {
+              "users": 4,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Advanced",
+            "tier_description": "Professionalize the management of your finances and operations.",
+            "monthly_price": 49.5,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Invoices and quotes",
+              "All your banks connected",
+              "Advanced reporting",
+              "Employee management",
+              "Personalised user roles",
+              "Collections and bulk payments",
+              "Accounting automations",
+              "Custom fields",
+              "Personalised client portal"
+            ],
+            "limits": {
+              "users": 7,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "50% Discount for 3 Months",
+            "offer_description": "50% discount on all plans for the first 3 months.",
+            "discount_percentage": 50.0,
+            "offer_url": "https://app.holded.com/signup?lang=en",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": [
+          {
+            "fee_name": "Premium Support",
+            "fee_amount": 50.0,
+            "fee_description": "Receive personalized attention and quickly resolve your questions."
+          },
+          {
+            "fee_name": "Catalogue",
+            "fee_amount": 10.0,
+            "fee_description": "Share an online catalogue of your products."
+          },
+          {
+            "fee_name": "Inventory",
+            "fee_amount": 25.0,
+            "fee_description": "Track your product cycle: orders, stock and warehousing."
+          },
+          {
+            "fee_name": "Manufacturing",
+            "fee_amount": 25.0,
+            "fee_description": "Create Production orders and Bills of Materials."
+          },
+          {
+            "fee_name": "POS",
+            "fee_amount": 25.0,
+            "fee_description": "Connect face-to-face sales with cloud-based management."
+          },
+          {
+            "fee_name": "SII",
+            "fee_amount": 30.0,
+            "fee_description": "Connect with the Tax Agency's SII to send invoices."
+          },
+          {
+            "fee_name": "Team PRO",
+            "fee_amount": 1.5,
+            "fee_description": "Organise your company's HR: payroll, contracts and more."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T06:34:12.245659",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\holded\\20250415_063412"
+}

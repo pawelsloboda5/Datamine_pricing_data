@@ -1,0 +1,45 @@
+{
+  "app_id": "lendingpad",
+  "app_name": "LendingPad",
+  "app_slug": "lendingpad",
+  "pricing_url": null,
+  "source_url": "https://lendingpad.com",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.CUSTOM"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing details for LendingPad are not explicitly listed on the website. It appears that pricing is customized based on the user's needs and the edition selected.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:38:16.931832",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "aa947652-2b8d-4cbb-9d06-3ecd2eaf380e",
+    "name": "LendingPad",
+    "slug": "lendingpad",
+    "description": "LendingPad is a loan origination system to help streamline origination tasks, while strengthening communication and lowering the total cost of lending.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/03c5d4f783a4db1cf535c6782e60299c_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

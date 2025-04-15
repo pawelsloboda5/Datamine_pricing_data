@@ -1,0 +1,43 @@
+{
+  "app_id": "fastfield_mobile_forms",
+  "app_name": "FastField Mobile Forms",
+  "app_slug": "fastfield-mobile-forms",
+  "pricing_url": null,
+  "source_url": "https://www.fastfieldforms.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The provided content does not include any pricing information for FastField Mobile Forms.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:57:53.744120",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "78ab44e2-2fa1-4629-ab35-be7729c75148",
+    "name": "FastField Mobile Forms",
+    "slug": "fastfield",
+    "description": "FastField Mobile Forms is a flexible platform to efficiently capture custom form data using smartphones and tablets.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/7c442ca8198d7f30bce8efb874a4d69c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

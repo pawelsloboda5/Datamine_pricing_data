@@ -1,0 +1,46 @@
+{
+  "app_name": "Redtail CRM",
+  "app_slug": "redtailcrm",
+  "search_term": "Find the official pricing page URL for Redtail CRM (redtailcrm.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744712549.6589816,
+  "response_text": [
+    "The official pricing page for Redtail CRM is: [https://www.redtailtechnology.com/how-the-heck-much/](https://www.redtailtechnology.com/how-the-heck-much/) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.redtailtechnology.com/how-the-heck-much/",
+      "is_accessible": true,
+      "content": "404\n---\n\nWe are sorry, the page you requested cannot be found\n\nYou may want to check the following links:\n\n[_Return to home page_](https://corporate.redtailtechnology.com/)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "redtail_crm",
+        "app_name": "Redtail CRM",
+        "app_slug": "redtail-crm",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page was not accessible, and no pricing information could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T06:22:39.909262",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": true,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\redtailcrm\\20250415_062240"
+}

@@ -1,0 +1,134 @@
+{
+  "app_name": "Kit",
+  "app_slug": "kit",
+  "search_term": "Find the official pricing page URL for Kit (kit.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744687412.6909254,
+  "response_text": [
+    "The official pricing page for Kit is: [https://kit.com/pricing](https://kit.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Flexible Pricing Plans for Every Stage of Your Creator Business",
+      "url": "https://kit.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://kit.com/pricing",
+      "is_accessible": true,
+      "content": "Your next breakthrough happens in person: Craft + Commerce, June 11-14 in Boise. [View speakers](https://kit.com/conference)\n\nScalable plans for your growing business\n\n##### How many email subscribers do you have?\n\n0\n\n1,000\n\n500K+\n\nRecommended\n\n#### Creator\n\nAutomate your work\n\n$25/mo\n\n$290 billed yearly _(Save $58 per year)_\n\n* * *\n\n*   **Everything in Newsletter plan, plus:**\n\n14-day free trial. No card required. Cancel anytime.\n\nCompare plans and features\n--------------------------\n\n##### Newsletter\n\n$0per month/moNo cost. No catch.\n\n##### Creator\n\n$25per month/mo$290 billed yearly\n\n##### Creator Pro\n\n$50per month/mo$590 billed yearly\n\n##### Grow your audience\n\nSubscribers\n\nThe total number of subscribers you can manage in your account. Subscribers are only counted if they are unique and active.\n\nUp to 10,000\n\nCreate landing pages\n\nNo website? No problem. Create focused landing pages to capture emails, test ideas, or promote specific offers.\n\nUnlimited\n\nUnlimited\n\nUnlimited\n\nCreate email opt-in forms\n\nCreate unlimited email opt-in forms you can embed to your website as a modal, sticky bar, slide in, or inline embed.\n\nUnlimited\n\nUnlimited\n\nUnlimited\n\nCreate a newsletter feed & website\n\nCreate a mini website with your Creator Profile to host all your newsletter content, links, products, and more.\n\nLanding page and form templates\n\nWhether you're creating a landing page or a form, we have a library of beautiful customizable templates to help you get started.\n\nCustomizable domain\n\nCustomize your free Kit domain or connect your own custom domain so all your landing pages are branded.\n\nUnlimited traffic\n\nWe\u2019re here to help you grow your audience. So share your ideas with the world. Our servers can handle it.\n\nDeliver opt-in incentives\n\nOffer a freebie digital file to your audience that will be delivered automatically when they sign up.\n\nList growth reporting\n\nDetailed analytics of your audience growth. See what forms or pages people are signing up for, and track unsubscribes too.\n\nCreator Network\n\nAccess to a network of creators using Kit to increase your discoverability and grow your email list through organic recommendations.\n\nFree Recommendations\n\nCross-promote with other creators to grow your list through organic recommendations.\n\nSmart Recommendations\n\nAutomatically grow your subscriber list by being recommended to audiences from similar creators.\n\n\\-\n\nFacebook custom audiences\n\nDynamically sync subscribers in Kit to your Facebook custom audiences for stronger ad targeting.\n\n\\-\n\n\\-\n\nNewsletter referral system\n\nGet a free SparkLoop plan (worth $99/mo) to build a reward referral program to drive newsletter growth.\n\n\\-\n\n\\-\n\n##### Subscriber management\n\nSubscriber tagging\n\nTag subscribers by entry point, interest, actions, and any other way you want to organize subscribers on your email list.\n\nSubscriber segmentation\n\nSegment subscribers by grouping tags in the same category to personalize your communications.\n\nUnsubscribe page builder\n\nCreate topics of interests and customize your unsubscribe page to reduce subscriber churn.\n\nUsers\n\nThe total number of users you can have on your account. Perfect for adding your team, with their own login, to support your marketing efforts.\n\n1\n\n2\n\nUnlimited\n\nSubscriber engagement scoring\n\nGet your subscribers automatically scored based on engagement level and incorporate it into your subscriber segmentation.\n\n\\-\n\n\\-\n\n##### Send email campaigns\n\nSend email broadcasts\n\nSend or schedule one-time email campaigns or newsletters to your list.\n\nEmail template library\n\nUse our email templates as a starting point to easily customize your email so it fits your brand and content.\n\nImage library\n\nAccess to your own image library with photos you use often, Unsplash, and your own Instagram photos.\n\nCreate custom email templates\n\nCreate your very own custom email templates with HTML/CSS.\n\nA/B split testing\n\nA/B test your email subject lines to see how you can improve your email open rates.\n\nConditional email content\n\nUse Liquid to deeply personalize your content, showing different relevant content to different subscribers based on their tags.\n\nResend unopened campaigns\n\nOne-click to resend email campaigns to subscribers who have not yet opened the email to boost open rate and engagement.\n\nRemove Kit branding\n\nToggle off the Kit branding on landing pages, emails, and product pages.\n\n\\-\n\nEdit links in sent broadcasts\n\nFix any link errors even after you've sent your email.\n\n\\-\n\n\\-\n\nDeliverability reporting\n\nSee how your open and click rates trend over time across your whole list, or for a particular provider or segment.\n\n\\-\n\n\\-\n\nInsights dashboard\n\nGet actionable insights about your marketing and sales performance to drive more revenue for your business.\n\n\\-\n\n\\-\n\n##### Automate your work\n\nContent snippets\n\nHave content you reuse over and over in emails? Create content snippets you can automatically insert and save time.\n\nVisual automation template library\n\nPre-built automation email funnels to help you save time and get started with automating your marketing.\n\n\\-\n\nUnlimited\n\nUnlimited\n\nVisual automation builder\n\nBuild email funnels based on user behaviors to automatically manage subscribers and trigger emails with split paths and more.\n\nUnlimited\n\nUnlimited\n\nAPI documentation\n\nGet access to Kit's API to build your own integration to organize your email subscribers and connect with them.\n\nAutomated email sequences\n\nCreate and send a series of emails automatically, like a series of welcome emails or a series of your best content.\n\n1\n\n\\-\n\n100+ direct apps\n\nIntegrate your favorite tools to reduce complexity, manual tasks, and extend the functionality of Kit through the Kit App Store\n\n\\-\n\n##### Monetize your content\n\nSell digital products\n\nCreate customizable sales page and easy checkout flow to help you sell more products with a full suite of pricing methods.\n\nRun paid newsletters\n\nCharge subscribers access to a paid newsletter\u2014monthly, quarterly, or annually. Plus, you can have public newsletter page with gated posts to convert more subscribers.\n\nSell recurring subscriptions\n\nCharge for a recurring membership for coaching packages, sponsorships, community access, and more.\n\nSet up virtual tip jars\n\nGive your audience an easy way to say thanks. Accept support from your super fans, and get tips and donations for your work.\n\nLow transaction fees\n\nFor any digital products or subscription\u2014inclusive of credit card processing fees, so Kit only takes 0.6% of the total fees.\n\n3.5% + 30c\n\n3.5% + 30c\n\n3.5% + 30c\n\nPaid Recommendations\n\nGet paid to promote other creators or newsletters in your recommendations.\n\n\\-\n\nPaid Recommendations fees\n\nKit\u2019s fee for any earnings paid through Paid Recommendations.\n\n\\-\n\n23.5%\n\n23.5%\n\n##### Support\n\nCreator University\n\nOur in-house creator education team creates courses to support you in growing your audience and income. Your success is our success.\n\nProduct support\n\nWe offer different ranges of product support to make sure we help get your questions answered as quickly as possible.\n\n24/7 support\n\n24/7 support\n\n24/7 priority support\n\nFree migration from another platform\n\nLooking to switch over to Kit from another platform? We have an in-house team to rebuild your forms, templates, and automations.\n\n\\-\n\n##### Newsletter\n\n$0per month/moNo cost. No catch.\n\n##### Creator\n\n$25per month/mo$290 billed yearly\n\n##### Creator Pro\n\n$50per month/mo$590 billed yearly\n\nFAQs\n----\n\nAnswers to frequently asked questions.\n\nIs Kit built for people like me?\n\nKit is for creators who mean business.\n\nSuccess in our world isn\u2019t easily achieved, and Kit creators know what success really takes\u2014serious passion, commitment, and purpose. They know that being a successful creator is more than just building a profitable business; it\u2019s also about building a valuable one, too.\n\nNo matter what you create, sell, or build, if this resonates with you, then Kit is home to you.\n\nLet\u2019s build a profitable and valuable business together.\n\nWhich plan should I choose?\n\nWe have something for you no matter what you\u2019re focusing on in your creator business:\n\nOur Newsletter Plan is perfect if you\u2019re focused on building your audience. It gives you essential tools to build and engage an audience of up to 10,000 subscribers, for free.\n\nOur Creator Plan is perfect if you\u2019ve established a diverse audience and multiple product offerings. You can streamline your workflows and scale your business to save time and earn more.\n\nOur Creator Pro Plan is perfect if you want to maximize the efficiency and effectiveness of your established business. You\u2019ll have the tools to reinvest in you growth and analyze your performance, scaling your business even further.\n\nHow many emails can I send with Kit?\n\nThere are no sending limits on any of our plans at Kit. You can send as many emails as you want on any of our plans.\n\nWhat happens when my trial of the Creator or Creator Pro Plan ends?\n\nYour free trial is 14-days for the Creator and Creator Pro Plan\u2014no credit card required to start.\n\nOnce your trial is over, you\u2019ll need to add a credit card to continue using your Creator or Creator Pro Plan. You can add in your billing information before your trial is over so your account doesn\u2019t skip a beat.\n\nDon\u2019t need the Creator or Creator Pro Plan just yet? You can also continue with the Newsletter Plan.\n\nWhat happens when I outgrow my subscriber limit on my plan?\n\nVisualizing your goal is a key to your success. And we will never interrupt your growing business.\n\nWhen you go over your plan\u2019s limit, we\u2019ll automatically upgrade it to the next subscriber tier. Your account won\u2019t skip a beat. You\u2019ll continue gathering subscribers and sending emails the whole time.\n\nWhat happens if I clean my list and go under my current subscriber plan?\n\nAt this time, our team has to manually downgrade plans. If you plan to delete subscribers, please email [help@kit.com](mailto:help@kit.com) so we can adjust your subscription.\n\nIf I don\u2019t like Kit, can I request a refund?\n\nWe\u2019d hate to see you go, but we totally understand if Kit is not the right fit for you.\n\nWhether you\u2019re on a monthly or an annual plan, we can give you a refund as long as you\u2019re within the first 30 days of the date you signed up for your account. Our team will cancel your account and send that refund along immediately (but it will take 3-5 days to show up on your credit or debit card account).\n\nIf cost is the issue, don\u2019t let that hold you back. Our Newsletter Plan is always available for you for up to 10,000 subscribers\u2014for free.\n\nIs it hard to switch to Kit if I already have an email list somewhere else?\n\nMoving to a new email marketing platform can be daunting. That's why Kit offers a [free migration service](https://kit.com/migrations) for creators with over 5,000 subscribers on our paid plans. Our team handles everything from subscriber lists to automations, so you have a stress-free move.\n\n![Image 1](https://media.kit.com/images/slices/ali-abdal-end-cta-bg.jpg?q=55&blend-color=1e1e1e&blend-mode=normal&blend-alpha=95&sat=-20&fm=webp)\n\nThe best move you\u2019ll ever make\n------------------------------\n\nWith Kit's migration service, every element of your email marketing system is transferred seamlessly. We move your subscriber lists, tags, forms, landing pages, sequence emails, templates, and automations, so nothing you need is left behind.\n\n#### Want to see how it works?\n\n![Image 2: Our demo team](https://media.kit.com/images/slices/cta/demo-team-default.png?fm=webp&q=50)\n\nIntroduce yourself to your team at Kit. We\u2019ll give you a personalized tour of Kit based on your needs and walk through different strategies to help you grow your business.\n\nChoose from Kit\u2019s scalable pricing plans. Get powerful email tools, automations, and support at every stage of your creator business. Start free today!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "kit",
+        "app_name": "Kit",
+        "app_slug": "kit",
+        "pricing_url": "https://kit.com/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://kit.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Kit offers a free tier for up to 10,000 subscribers and scalable paid plans with additional features.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Newsletter",
+            "tier_description": "Basic plan for building an audience.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Manage up to 10,000 subscribers",
+              "Create unlimited landing pages and forms",
+              "Access to customizable templates",
+              "Unlimited traffic",
+              "Deliver opt-in incentives",
+              "List growth reporting",
+              "Access to Creator Network"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Creator",
+            "tier_description": "Plan for creators with diverse audiences and product offerings.",
+            "monthly_price": 25.0,
+            "annual_price": 290.0,
+            "annual_discount_percentage": 19.33,
+            "setup_fee": null,
+            "features": [
+              "Everything in Newsletter plan",
+              "Subscriber engagement scoring",
+              "Advanced email campaign features",
+              "Remove Kit branding",
+              "Visual automation builder",
+              "API access"
+            ],
+            "limits": {
+              "users": 2,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Creator Pro",
+            "tier_description": "Advanced plan for maximizing business efficiency and growth.",
+            "monthly_price": 50.0,
+            "annual_price": 590.0,
+            "annual_discount_percentage": 1.67,
+            "setup_fee": null,
+            "features": [
+              "Everything in Creator plan",
+              "Priority support",
+              "Advanced analytics and insights",
+              "Enhanced automation capabilities"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Transaction Fee",
+            "fee_amount": 3.5,
+            "fee_description": "Transaction fee for digital products or subscriptions, inclusive of credit card processing fees."
+          }
+        ],
+        "extraction_timestamp": "2025-04-14T23:23:53.708592",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\kit\\20250414_232354"
+}

@@ -1,0 +1,174 @@
+{
+  "app_id": "videoask",
+  "app_name": "VideoAsk",
+  "app_slug": "videoask",
+  "pricing_url": "https://www.videoask.com/pricing",
+  "source_url": "https://www.videoask.com/pricing",
+  "all_pricing_urls": [
+    "https://www.videoask.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Discounts are available for NGOs, Students, and Educators.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Start",
+      "tier_description": "All the essentials you need to get the conversation started.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "VideoAsk branded",
+        "Up to 3 steps per videoask",
+        "Invite your team - up to 3 users",
+        "All core features",
+        "Conditional Logic",
+        "Collect payments with Stripe",
+        "Zapier integration",
+        "Appointment scheduling",
+        "Voice-text transcription & captions"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Video or audio processing",
+            "value": "20 mins per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Grow",
+      "tier_description": "Make conversations adapt to everyone. Build custom workflows.",
+      "monthly_price": 24.0,
+      "annual_price": 288.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Partially Videoask branded",
+        "Unlimited steps per videoask",
+        "Invite your team - up to 5 users",
+        "Data export",
+        "Redirect to URL",
+        "Live Calls",
+        "Net Promoter Score",
+        "File Upload",
+        "Respondent tracking",
+        "Custom variables (hidden fields)",
+        "Video length control",
+        "Passcode-protected videoasks",
+        "APIs & Webhooks",
+        "Schedule a close date"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Video or audio processing",
+            "value": "1200 mins per year"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Brand",
+      "tier_description": "Put your brand front and center. Own the entire experience.",
+      "monthly_price": 40.0,
+      "annual_price": 480.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Add your own brand/s",
+        "Unlimited steps per videoask",
+        "Invite your team - up to 10 users",
+        "Domain white labeling",
+        "Priority support",
+        "AI Chatbot"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Video or audio processing",
+            "value": "2400 mins per year"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Video or audio processing",
+      "unit": "minutes",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 200.0,
+          "price": null
+        },
+        {
+          "min": 201.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Discounts for NGOs, Students, and Educators",
+      "offer_description": "Special discounts available for eligible groups.",
+      "discount_percentage": null,
+      "offer_url": "https://www.videoask.com/help/account-management/4406088152852-non-profit-educator-and-student-discounts-at-videoask",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:51:33.262236",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a8fa62b2-a89a-4a54-9272-5efaf55bbb02",
+    "name": "VideoAsk",
+    "slug": "videoask",
+    "description": "VideoAsk is a business tool to help your business have meaningful interactions using the proximity of video.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/25c8bb24dac145dfac5ac4f9c816bd10.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 2
+  }
+}

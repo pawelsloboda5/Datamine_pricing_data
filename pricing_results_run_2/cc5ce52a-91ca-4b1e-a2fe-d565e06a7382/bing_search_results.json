@@ -1,0 +1,24 @@
+{
+  "app_name": "TidyCal",
+  "app_slug": "tidycal",
+  "search_term": "Find the official pricing page URL for TidyCal (tidycal.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744707959.3118377,
+  "response_text": [
+    "The official pricing page for TidyCal is: [https://tidycal.com/pricing](https://tidycal.com/pricing)\u30105:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Calendar Software Pricing | TidyCal",
+      "url": "https://tidycal.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://tidycal.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\tidycal\\20250415_050600"
+}

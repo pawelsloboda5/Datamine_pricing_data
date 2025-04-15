@@ -1,0 +1,30 @@
+{
+  "app_name": "Insightly",
+  "app_slug": "insightly",
+  "search_term": "Find the official pricing page URL for Insightly (insightly.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744713464.1933696,
+  "response_text": [
+    "The official pricing page for Insightly can be found at: [https://www.insightly.com/pricing/](https://www.insightly.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Insightly CRM pricing plans | affordable CRM & marketing solutions",
+      "url": "https://www.insightly.com/pricing-plans/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.insightly.com/pricing-plans/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    },
+    {
+      "url": "https://www.insightly.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\insightly\\20250415_063745"
+}

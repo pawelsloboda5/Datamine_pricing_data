@@ -1,0 +1,139 @@
+{
+  "app_id": "batchdialer",
+  "app_name": "BatchDialer",
+  "app_slug": "batchdialer",
+  "pricing_url": null,
+  "source_url": "https://batchdialer.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes options for monthly and annual billing with discounts for upfront payments.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Entry-level plan with essential features.",
+      "monthly_price": 111.0,
+      "annual_price": 1332.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Predictive & Preview Dialer",
+        "3 Lines Per Agent",
+        "Call Recording & Routing",
+        "Real Estate Property Details",
+        "DNC & Litigator Scrub",
+        "Advanced Campaign Management",
+        "BatchLeads, Zapier & API Integrations",
+        "Agent Coaching, Whisper, Barge",
+        "Reporting and analytics",
+        "Basic Onboarding & Training"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Enhanced plan with additional features.",
+      "monthly_price": 239.0,
+      "annual_price": 2868.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Basic",
+        "60 Phone Numbers & Unlimited Replacements",
+        "5 Lines Per Agent",
+        "Phone Number Reputation Management & Auto Replacement",
+        "Live Floor Monitoring",
+        "Rapid Fire Dialing",
+        "Smart Local Presence",
+        "Personalized Onboarding & Training"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Lead Lists",
+      "unit": "per month",
+      "base_price": 49.0,
+      "tiers": [
+        {
+          "min": 2500.0,
+          "max": 2500.0,
+          "price": 49.0
+        },
+        {
+          "min": 5000.0,
+          "max": 5000.0,
+          "price": 79.0
+        },
+        {
+          "min": 10000.0,
+          "max": 10000.0,
+          "price": 119.0
+        }
+      ]
+    },
+    {
+      "metric_name": "AI Suite",
+      "unit": "per agent per month",
+      "base_price": 39.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:32:07.366500",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9e8653ed-768f-4ca1-8830-930a406b8def",
+    "name": "BatchDialer",
+    "slug": "batchdialer",
+    "description": "BatchDialer is a predictve dialing software for sales teams",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/5b7acab1bbdc6d59c99385363cafb0ec.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 4
+  }
+}

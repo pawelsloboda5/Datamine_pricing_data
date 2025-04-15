@@ -1,0 +1,408 @@
+{
+  "app_name": "Callingly",
+  "app_slug": "callingly",
+  "search_term": "Find the official pricing page URL for Callingly (callingly.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744687063.11401,
+  "response_text": [
+    "The official pricing page for Callingly can be found at this URL: [https://callingly.com/pricing/](https://callingly.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Callingly | Free Trial and Pricing Plans",
+      "url": "https://callingly.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://callingly.com/pricing",
+      "is_accessible": true,
+      "content": "Unlimited Plans\n---------------\n\nUnlimited minutes. Unlimited calls. You need it, you got it.\n\n#### Voice\n\nCall your hot leads within seconds\n\n$25\n---\n\nper user\n\nPER MONTH\n\n**Unlimited** USA Call Minutes  \n**Cheap** International Rates  \n**Unlimited** Leads  \n**$3** Local or Toll-Free Numbers  \nMinimum **2** Users\n\nNo credit card required.\n\n![Image 1](https://callingly.com/wp-content/uploads/2024/05/Pricing_Voice-185x200.png)\n\n#### Voice + SMS\n\nCall and message to double your results\n\n$35\n---\n\nper user\n\nPER MONTH\n\n**Unlimited** USA Call Minutes  \n**Unlimited** USA Texts  \n**Cheap** International Rates  \n**Unlimited** Leads  \n**$3** Local or Toll-Free Numbers  \nMinimum **2** Users\n\nNo credit card required.\n\n![Image 2](https://callingly.com/wp-content/uploads/2024/05/Pricing_VoiceSMS-185x200.png)\n\nMetered Plans\n-------------\n\nYour whole team on one plan, and share the minutes.\n\n#### Realty Team\n\n1,000 minutes and 1,000 texts for your whole team\n\n$250\n----\n\nPER MONTH\n\n**Unlimited** Users  \n1,000 USA/Canada Minutes  \n1,000 USA/Canada Texts  \n**Unlimited** Leads  \n**$3** Local or Toll-Free Numbers\n\n_Overage: $50 for 500 extra minutes, $50 for 500 extra sms_\n\n![Image 3](https://callingly.com/wp-content/uploads/2024/08/RealtyTeamPlan_Pricing-260x300.png)\n\n##### Annual Plan\n\nSave 20% when you buy annually. Start with the same free trial.\n\n$200/month\n\nFor Larger Teams\n----------------\n\nAgencies, resellers and large organizations.\n\n#### Agency\n\nFor agencies & resellers\n\nSame **$25 or $35** per User  \n**No Additional Fees**  \n**Client Management** Panel  \n**Custom** Domain\n\n![Image 4](https://callingly.com/wp-content/uploads/2024/05/Pricing_Agency-185x200.png)\n\n#### Enterprise\n\nFor large organizations\n\n**Custom** Integrations  \n**Custom** Terms of Service  \n**Priority** Phone Support  \nService Level Agreement  \nContact Us for Pricing  \nStarting at $2,000/m\n\n![Image 5](https://callingly.com/wp-content/uploads/2024/05/Pricing_Enterprise-3-394x200.png)\n\nFaster calls mean more sales\n----------------------------\n\nNo credit card required.\n\nTry Callingly lead response management software FREE for 14 days. View pricing for voice, voice + sms, and agency plans.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "callingly",
+        "app_name": "Callingly",
+        "app_slug": "callingly",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes both subscription and usage-based models, with options for agencies and enterprises.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Voice",
+            "tier_description": "Call your hot leads within seconds.",
+            "monthly_price": 25.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited USA Call Minutes",
+              "Cheap International Rates",
+              "Unlimited Leads",
+              "$3 Local or Toll-Free Numbers"
+            ],
+            "limits": {
+              "users": 2,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Call Minutes",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "Leads",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Voice + SMS",
+            "tier_description": "Call and message to double your results.",
+            "monthly_price": 35.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited USA Call Minutes",
+              "Unlimited USA Texts",
+              "Cheap International Rates",
+              "Unlimited Leads",
+              "$3 Local or Toll-Free Numbers"
+            ],
+            "limits": {
+              "users": 2,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Call Minutes",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "Texts",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "Leads",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Realty Team",
+            "tier_description": "1,000 minutes and 1,000 texts for your whole team.",
+            "monthly_price": 250.0,
+            "annual_price": 200.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Unlimited Users",
+              "1,000 USA/Canada Minutes",
+              "1,000 USA/Canada Texts",
+              "Unlimited Leads",
+              "$3 Local or Toll-Free Numbers"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Call Minutes",
+                  "value": 1000
+                },
+                {
+                  "name": "Texts",
+                  "value": 1000
+                },
+                {
+                  "name": "Leads",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Agency",
+            "tier_description": "For agencies & resellers.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "No Additional Fees",
+              "Client Management Panel",
+              "Custom Domain"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "For large organizations.",
+            "monthly_price": 2000.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Custom Integrations",
+              "Custom Terms of Service",
+              "Priority Phone Support",
+              "Service Level Agreement"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Minutes",
+            "unit": "per 500 minutes",
+            "base_price": 50.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Texts",
+            "unit": "per 500 texts",
+            "base_price": 50.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Local or Toll-Free Numbers",
+            "fee_amount": 3.0,
+            "fee_description": "Cost per number."
+          }
+        ],
+        "extraction_timestamp": "2025-04-14T23:17:52.401446",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://callingly.com/pricing/",
+      "is_accessible": true,
+      "content": "Unlimited Plans\n---------------\n\nUnlimited minutes. Unlimited calls. You need it, you got it.\n\n#### Voice\n\nCall your hot leads within seconds\n\n$25\n---\n\nper user\n\nPER MONTH\n\n**Unlimited** USA Call Minutes  \n**Cheap** International Rates  \n**Unlimited** Leads  \n**$3** Local or Toll-Free Numbers  \nMinimum **2** Users\n\nNo credit card required.\n\n![Image 1](https://callingly.com/wp-content/uploads/2024/05/Pricing_Voice-185x200.png)\n\n#### Voice + SMS\n\nCall and message to double your results\n\n$35\n---\n\nper user\n\nPER MONTH\n\n**Unlimited** USA Call Minutes  \n**Unlimited** USA Texts  \n**Cheap** International Rates  \n**Unlimited** Leads  \n**$3** Local or Toll-Free Numbers  \nMinimum **2** Users\n\nNo credit card required.\n\n![Image 2](https://callingly.com/wp-content/uploads/2024/05/Pricing_VoiceSMS-185x200.png)\n\nMetered Plans\n-------------\n\nYour whole team on one plan, and share the minutes.\n\n#### Realty Team\n\n1,000 minutes and 1,000 texts for your whole team\n\n$250\n----\n\nPER MONTH\n\n**Unlimited** Users  \n1,000 USA/Canada Minutes  \n1,000 USA/Canada Texts  \n**Unlimited** Leads  \n**$3** Local or Toll-Free Numbers\n\n_Overage: $50 for 500 extra minutes, $50 for 500 extra sms_\n\n![Image 3](https://callingly.com/wp-content/uploads/2024/08/RealtyTeamPlan_Pricing-260x300.png)\n\n##### Annual Plan\n\nSave 20% when you buy annually. Start with the same free trial.\n\n$200/month\n\nFor Larger Teams\n----------------\n\nAgencies, resellers and large organizations.\n\n#### Agency\n\nFor agencies & resellers\n\nSame **$25 or $35** per User  \n**No Additional Fees**  \n**Client Management** Panel  \n**Custom** Domain\n\n![Image 4](https://callingly.com/wp-content/uploads/2024/05/Pricing_Agency-185x200.png)\n\n#### Enterprise\n\nFor large organizations\n\n**Custom** Integrations  \n**Custom** Terms of Service  \n**Priority** Phone Support  \nService Level Agreement  \nContact Us for Pricing  \nStarting at $2,000/m\n\n![Image 5](https://callingly.com/wp-content/uploads/2024/05/Pricing_Enterprise-3-394x200.png)\n\nFaster calls mean more sales\n----------------------------\n\nNo credit card required.\n\nTry Callingly lead response management software FREE for 14 days. View pricing for voice, voice + sms, and agency plans.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "callingly",
+        "app_name": "Callingly",
+        "app_slug": "callingly",
+        "pricing_url": "https://callingly.com/pricing",
+        "source_url": "https://callingly.com/pricing",
+        "all_pricing_urls": [
+          "https://callingly.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes both subscription and usage-based options, with additional fees for overages and optional features.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Voice",
+            "tier_description": "Call your hot leads within seconds",
+            "monthly_price": 25.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited USA Call Minutes",
+              "Cheap International Rates",
+              "Unlimited Leads",
+              "$3 Local or Toll-Free Numbers"
+            ],
+            "limits": {
+              "users": 2,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Minimum Users",
+                  "value": 2
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Voice + SMS",
+            "tier_description": "Call and message to double your results",
+            "monthly_price": 35.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited USA Call Minutes",
+              "Unlimited USA Texts",
+              "Cheap International Rates",
+              "Unlimited Leads",
+              "$3 Local or Toll-Free Numbers"
+            ],
+            "limits": {
+              "users": 2,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Minimum Users",
+                  "value": 2
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Realty Team",
+            "tier_description": "1,000 minutes and 1,000 texts for your whole team",
+            "monthly_price": 250.0,
+            "annual_price": 200.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Unlimited Users",
+              "1,000 USA/Canada Minutes",
+              "1,000 USA/Canada Texts",
+              "Unlimited Leads",
+              "$3 Local or Toll-Free Numbers"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Overage Costs",
+                  "value": "$50 for 500 extra minutes or texts"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Agency",
+            "tier_description": "For agencies & resellers",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "$25 or $35 per User",
+              "No Additional Fees",
+              "Client Management Panel",
+              "Custom Domain"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "For large organizations",
+            "monthly_price": 2000.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Custom Integrations",
+              "Custom Terms of Service",
+              "Priority Phone Support",
+              "Service Level Agreement"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Minutes",
+            "unit": "per 500 minutes",
+            "base_price": 50.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Texts",
+            "unit": "per 500 texts",
+            "base_price": 50.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Local or Toll-Free Numbers",
+            "fee_amount": 3.0,
+            "fee_description": "Cost per number"
+          }
+        ],
+        "extraction_timestamp": "2025-04-14T23:18:11.850766",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\callingly\\20250414_231812"
+}

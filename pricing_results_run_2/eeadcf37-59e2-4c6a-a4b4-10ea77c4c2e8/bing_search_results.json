@@ -1,0 +1,121 @@
+{
+  "app_name": "SignWell",
+  "app_slug": "signwell",
+  "search_term": "Find the official pricing page URL for SignWell (signwell.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744715852.9092066,
+  "response_text": [
+    "The official pricing page for SignWell is: [https://www.signwell.com/pricing/](https://www.signwell.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "eSignature Software Pricing - SignWell, Formerly Docsketch",
+      "url": "https://www.signwell.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.signwell.com/pricing/",
+      "is_accessible": true,
+      "content": "[![Image 1: SignWell](https://www.signwell.com/assets/logo-90430c2510fa44f5ae745ebc6cadf8e402eca35d5a2ade8649ed05279d96037d.svg)](https://www.signwell.com/)\n\nTrusted by more than 61,000 businesses\n\n\\# of Senders Included\n\n\\# of Templates\n\n\\# of Docs/month\n\nReminders & Notifications\n\nTemplate Links\n\nBulk Send\n\nAdvanced Preferences\n\nCustom Branding\n\nData Validation\n\nRequest Attachments\n\nRedirect on Completion\n\nIn-Person Signing\n\nLarge Team Plans\n\nCustom Plans (High Volume)\n\nHigh Volume API\n\nDedicated Support\n\n1\n\n1\n\n3\n\n1 \u00a0(additional @ $10 each) 1 \u00a0(additional @ $12 each)\n\n5 per sender\n\n3 (additional @ $12 each) 3 (additional @ $15 each)\n\n\"I wish SignWell had existed sooner! We have tried several solutions over the years to collect fulfillment data from clients. With SignWell I was able to set up our template so that it's easy to fill out.\"\n\nCari Adamek - eFocus\n\n\"My business has relied on SignWell to close deals for years and it always delivers. It's an elegant and reliable e-signature tool that does exactly what I need it to. \"\n\nHarris Kenny - Intro CRM\n\n\"SignWell provides a simple, affordable, and professional-looking way for me to get contracts signed quickly. Plus, it's easier to use and more elegant than DocuSign. I love it.\"\n\nRose Lounsbury - Professional Speaker\n\nFrequently Asked Questions\n--------------------------\n\n### Will I be charged by the number of documents/envelopes?\n\nNo, all paid plans come with unlimited documents (signing requests). You can get as many documents signed as you need and there is no extra charge. Additionally, we don't charge by the number of people that sign your documents.\n\n### Are there yearly contracts? Is there a cancelation fee?\n\nNo contracts and no cancelation fees. You can pay monthly and cancel anytime. If you would like to pay yearly, there is a yearly discount of 20% that will be applied to your account.\n\n### Will I be billed after I create an account?\n\nNo, unless you upgrade, you won't be billed. When you create a SignWell account you're starting off with a free plan. To unlock additional features and users you can upgrade to the Pro plan at any point.\n\n### Are SignWell electronic signatures legally valid?\n\nSignWell is compliant with U.S. and international e-signature laws. Signed documents are archived and protected from further changes; SignWell [electronic signatures](https://www.signwell.com/electronic-signature/) are as legally valid as pen-and-paper documents.\n\n### Will my documents be secure and private?\n\nYes, all of your documents and files will be secure. You access SignWell through a secure SSL connection. Documents are never public and can only be viewed using unique encrypted links that are created inside of SignWell.\n\n### Will my recipients need to create an account to sign my documents?\n\nNo, recipients do not need to create an account to sign documents. Recipients can sign online from anywhere and on any desktop or mobile device.\n\n![Image 2](https://www.signwell.com/assets/homepage/need_help_img-0f67a9c3d78b67ce9d45f0c1abefe9d60ad0ce6d973e14fadfd4e9bfed3b26ea.png)\n\nNeed help setting up? We\u2019re here to help\n\nWe\u2019re available by email, phone, or over a Zoom call to support you whenever you need it.\n\nSigners receive reminder emails automatically (can be turned off if needed).\n\nTemplates are documents that you set up once to quickly reuse and send to different people.\n\nNo charge per document and no document limits. A single document (sometimes referred to as \"envelopes\") can contain multiple files, signers, and signing steps.\n\nNo charge per document. A single document (sometimes referred to as \"envelopes\") can contain multiple files, signers, and signing steps.\n\nBulk Sending is a way to send a document (or set of documents) to a large list of recipients.\n\nTemplate Links are links that can be shared to automate document signing. Each person that clicks on a Template Link gets their own separate copy of the document to sign.\n\nThe Light plan includes 1 user (Sender), with the option to add more for an additional cost per user. Document signers are always unlimited and free.\n\nThe Business plan includes 3 users (Senders), with the option to add more for an additional cost per user. Document signers are always unlimited and free.\n\nRequest Your Free SignWell Account\n----------------------------------\n\nSpeed up your sales documents with zero-setup electronic signatures and 40% faster turnaround time.\n\nSee pricing for electronic signature software SignWell. Sign up to speed up all of your sales documents.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "signwell",
+        "app_name": "SignWell",
+        "app_slug": "signwell",
+        "pricing_url": "https://www.signwell.com/pricing",
+        "source_url": "https://www.signwell.com/",
+        "all_pricing_urls": [
+          "https://www.signwell.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "SignWell offers unlimited documents and signers across all paid plans. Additional users can be added for a fee.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Light",
+            "tier_description": "Includes basic features for individual users.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "1 user (Sender)",
+              "Unlimited document signers",
+              "Unlimited documents",
+              "Reminders & Notifications",
+              "Template Links",
+              "Bulk Send"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Additional users",
+                  "value": "$10 each"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "Designed for small teams.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "3 users (Senders)",
+              "Unlimited document signers",
+              "Unlimited documents",
+              "Reminders & Notifications",
+              "Template Links",
+              "Bulk Send",
+              "Advanced Preferences",
+              "Custom Branding",
+              "Data Validation",
+              "Request Attachments",
+              "Redirect on Completion",
+              "In-Person Signing"
+            ],
+            "limits": {
+              "users": 3,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Additional users",
+                  "value": "$12 each"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:17:38.338982",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\signwell\\20250415_071738"
+}

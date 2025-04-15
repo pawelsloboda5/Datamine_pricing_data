@@ -1,0 +1,43 @@
+{
+  "app_id": "plumsail_documents",
+  "app_name": "Plumsail Documents",
+  "app_slug": "plumsail-documents",
+  "pricing_url": null,
+  "source_url": "https://plumsail.com/documents/pricing/.",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "Pricing information for Plumsail Documents was not accessible or publicly available.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:36:46.479041",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3a073b11-e7a0-4419-837d-7389fa121cba",
+    "name": "Plumsail Documents",
+    "slug": "plumsail-documents",
+    "description": "Generate documents from DOCX, XLSX, PPTX, HTML templates and populate fillable PDF forms. Automate your contracts, invoices, reports, tickets and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/b93d960ee083bf742b5d2ec93715c458.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Documents"
+    ],
+    "category_slugs": [
+      "documents"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 40,
+    "trigger_count": 0
+  }
+}

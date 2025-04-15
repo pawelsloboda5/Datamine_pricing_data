@@ -1,0 +1,189 @@
+{
+  "app_name": "MRPeasy",
+  "app_slug": "mrpeasy",
+  "search_term": "Find the official pricing page URL for MRPeasy (mrpeasy.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744726374.9835458,
+  "response_text": [
+    "The official pricing page for MRPeasy can be found at: [https://www.mrpeasy.com/pricing/](https://www.mrpeasy.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "MRPeasy Pricing | Affordable Manufacturing Software Plans | Free Trial",
+      "url": "https://www.mrpeasy.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.mrpeasy.com/pricing/",
+      "is_accessible": true,
+      "content": "Choose your MRPeasy edition. Try it for free.\n---------------------------------------------\n\n**How many users?**\n\n**Billed monthly** **Billed annually** (1 month free)\n\n### Starter\n\n$49\n\n/user/month\n\nUsers beyond 10 - $79/10 users\n\n[Get started](https://www.mrpeasy.com/sign-up/?pcg=1)\n\n*   [Main functions](https://www.mrpeasy.com/pricing/#functions-b-345-1)\n    *   Production Planning and Reporting\n    *   BOM Management\n    *   Drag and Drop Rescheduling\n    *   Lot Traceability\n    *   Reporting via Internet-Kiosk\n    *   Supply Chain Management (SCM)\n    *   Warehouse Management System (WMS)\n    *   Workforce Planning\n    *   Customer Relationship Management (CRM)\n    *   Standard Accounting\n    *   Multi-Language\n    *   Multi-Currency\n*   Integrations: QuickBooks Online, Xero, Shopify, Magento, BigCommerce, WooCommerce, Pipedrive, ShipStation, Zapier\n    \n\n### Professional\n\n$69\n\n/user/month\n\nUsers beyond 10 - $79/10 users\n\n[Get started](https://www.mrpeasy.com/sign-up/?pcg=2)\n\n*   [Main functions](https://www.mrpeasy.com/pricing/#functions-b-346-1)\n    *   Production Planning and Reporting\n    *   BOM Management\n    *   Drag and Drop Rescheduling\n    *   Lot Traceability\n    *   Reporting via Internet-Kiosk\n    *   Supply Chain Management (SCM)\n    *   Warehouse Management System (WMS)\n    *   Workforce Planning\n    *   Customer Relationship Management (CRM)\n    *   Standard Accounting\n    *   Multi-Language\n    *   Multi-Currency\n*   [Professional functions](https://www.mrpeasy.com/pricing/#functions-b-346-2)\n    *   B2B Customer Portal\n    *   Co-product BOM\n    *   Custom Fields\n    *   Disassembly BOM\n    *   Expiry Date\n    *   Product Configurator ( Matrix BOM / Product with Parameters )\n    *   Overlap and Special Sequence of Production Operations\n    *   Parallel Execution of Production Operations\n    *   Piece Payment\n    *   Quality Control\n    *   Serial Numbers\n    *   Subcontracting\n    *   Tiered Pricing\n*   Integrations\n    \n\nMost popular\n\n### Enterprise\n\n$99\n\n/user/month\n\nUsers beyond 10 - $79/10 users\n\n[Get started](https://www.mrpeasy.com/sign-up/?pcg=3)\n\n*   [Main functions](https://www.mrpeasy.com/pricing/#functions-b-341-1)\n    *   Production Planning and Reporting\n    *   BOM Management\n    *   Drag and Drop Rescheduling\n    *   Lot Traceability\n    *   Reporting via Internet-Kiosk\n    *   Supply Chain Management (SCM)\n    *   Warehouse Management System (WMS)\n    *   Workforce Planning\n    *   Customer Relationship Management (CRM)\n    *   Standard Accounting\n    *   Multi-Language\n    *   Multi-Currency\n*   [Professional functions](https://www.mrpeasy.com/pricing/#functions-b-341-2)\n    *   B2B Customer Portal\n    *   Co-product BOM\n    *   Custom Fields\n    *   Disassembly BOM\n    *   Expiry Date\n    *   Product Configurator ( Matrix BOM / Product with Parameters )\n    *   Overlap and Special Sequence of Production Operations\n    *   Parallel Execution of Production Operations\n    *   Piece Payment\n    *   Quality Control\n    *   Serial Numbers\n    *   Subcontracting\n    *   Tiered Pricing\n*   [Enterprise functions](https://www.mrpeasy.com/pricing/#functions-b-341-3)\n    *   Approval System\n    *   Barcode System: Printing and Scanning Barcodes\n    *   Backward Production Scheduling\n    *   Maintenance Management System (MMS)\n    *   Master Production Schedule (MPS)\n    *   Multiple Stocks\n    *   Multiple Production Sites\n    *   Packing\n    *   Return Merchandise Authorization (RMA)\n    *   Revision/Version Control System\n    *   Sales Management\n    *   Two-factor Authentication\n*   Integrations\n    \n\n### Unlimited\n\n$149\n\n/user/month  \nminimum 2 users\n\nUsers beyond 10 - $79/10 users\n\n[Get started](https://www.mrpeasy.com/sign-up/?pcg=4)\n\n*   [Main functions](https://www.mrpeasy.com/pricing/#functions-b-347-1)\n    *   Production Planning and Reporting\n    *   BOM Management\n    *   Drag and Drop Rescheduling\n    *   Lot Traceability\n    *   Reporting via Internet-Kiosk\n    *   Supply Chain Management (SCM)\n    *   Warehouse Management System (WMS)\n    *   Workforce Planning\n    *   Customer Relationship Management (CRM)\n    *   Standard Accounting\n    *   Multi-Language\n    *   Multi-Currency\n*   [Professional functions](https://www.mrpeasy.com/pricing/#functions-b-347-2)\n    *   B2B Customer Portal\n    *   Co-product BOM\n    *   Custom Fields\n    *   Disassembly BOM\n    *   Expiry Date\n    *   Product Configurator ( Matrix BOM / Product with Parameters )\n    *   Overlap and Special Sequence of Production Operations\n    *   Parallel Execution of Production Operations\n    *   Piece Payment\n    *   Quality Control\n    *   Serial Numbers\n    *   Subcontracting\n    *   Tiered Pricing\n*   [Enterprise functions](https://www.mrpeasy.com/pricing/#functions-b-347-3)\n    *   Approval System\n    *   Barcode System: Printing and Scanning Barcodes\n    *   Backward Production Scheduling\n    *   Maintenance Management System (MMS)\n    *   Master Production Schedule (MPS)\n    *   Multiple Stocks\n    *   Multiple Production Sites\n    *   Packing\n    *   Return Merchandise Authorization (RMA)\n    *   Revision/Version Control System\n    *   Sales Management\n    *   Two-factor Authentication\n*   Integrations\n    \n*   API, webhooks (for paid accounts)\n    \n\nLimits: [unlimited](https://www.mrpeasy.com/terms#limits)\n\n*   Users beyond 10 - $79/10 users\n    \n*   No module-based pricing\n    \n*   No contracts\n    \n*   No hidden fees\n    \n\n![Image 1](https://www.mrpeasy.com/wp-content/uploads/2018/03/gfx_laptop.svg)\n\nMRPeasy is free for 15 + 15 days\n--------------------------------\n\nTry MRPeasy free for up to 30 days.\n\n*   *   Free trial\n        \n    *   No obligation\n        \n    *   No credit card required\n        \n\nMRPeasy features by plan\n------------------------\n\n### Platform\n\n**Starter**\n\n**Professional**\n\n**Enterprise**\n\n**Unlimited**\n\nCloud-based\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nAccess via web browser\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nSupport ticket system\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nAI support assistant\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nAutomatic updates\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nModern user interface\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nWorks on any device (desktop, tablet, smartphone)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\niOS and Android apps\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nSelf-service\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nLight & dark theme\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nTiered pricing based on the number of users\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nCustom data fields\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nPDF-editor, e-mail editor, label editor\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nFile attachments, documents, icons\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\n### Production, material planning, and reporting\n\n**Starter**\n\n**Professional**\n\n**Enterprise**\n\n**Unlimited**\n\nManufacturing Order tracking from planning to completion\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nBill of materials (BOM), single and multi-level, phantom BOM\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nRouting\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nShop floor reporting (MES) user interfaces\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nMaterial requirements planning (MRP I)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nOperations scheduling (MRP II, finite capacity)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nProduction calendars and Gantt charts\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nDrag-and-drop rescheduling\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nAuto-assembly (kit BOM)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nOverlapping and diverging/converging production operations\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nParallelization of operations on several workstations\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nSubcontracted operations\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nExpiry date management\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nProduct configurator (Matrix BOM)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nCo-product BOM for scrap, by-products\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nDisassembly BOM\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nAuto-disassembly (unkitting)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nSerial number tracking of products and components\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nUnscheduled manufacturing orders\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nMaster production schedule (MPS) for long-term planning\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nRough cut capacity planning (RCCP, infinite capacity)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nBackward scheduling, Just-In-Time delivery\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nMultiple production sites\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nWorkstation maintenance management\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nRevision/version control\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nManufacturing Order approval\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nBarcoding and scanning\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\n### Inventory control\n\n**Starter**\n\n**Professional**\n\n**Enterprise**\n\n**Unlimited**\n\nStock Keeping Units (SKUs)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nStock visibility: on hand, available, and expected\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nLow inventory alerts\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nShipment planning and picking\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nInternal storage locations (bins, etc.)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nStock lot tracking\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nInventory adjustments and write-offs\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nLabel printing\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nSerial number tracking\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nExpiry date management\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nQuality hold and quality control\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nFree issue materials to subcontractors\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nBarcoding and scanning\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nReturned goods (RMA)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nMultiple stocks (warehouses)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nPacking\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\n### Sales and order management\n\n**Starter**\n\n**Professional**\n\n**Enterprise**\n\n**Unlimited**\n\nCustomer Order tracking from quotation to delivery\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nBackorders (partial completion, make to order, negative inventory)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nQuoting\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nInvoicing\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nShipping, partial deliveries\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nAutomatic cost & delivery time estimation\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nCommercial documents (Order confirmation, Waybill, etc.)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nCustomer contact management\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nKitting/bundles\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nCustomer and sales reports\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nB2B customer portal\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nDifferent pricelists, tiered pricing\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nDifferent pricelists, tiered pricing\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nReturn Merchandise Authorization (RMA)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nSales management\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\n### Procurement\n\n**Starter**\n\n**Professional**\n\n**Enterprise**\n\n**Unlimited**\n\nPurchase Order tracking from RFQ to delivery\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nShortage reports, time-phased material requirements\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nVendor pricelists and lead times (purchase terms)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nVendor-based unit of measurement conversions\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nPartial deliveries\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nPurchase invoices\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nMaterial forecasting\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nSubcontracting Purchase Orders with free issue of materials\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nPurchase Order approval\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nLong-term purchase planning in the MPS\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\n### Financials\n\n**Starter**\n\n**Professional**\n\n**Enterprise**\n\n**Unlimited**\n\nReal-time stock balance\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nStock movement reports\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nProduct costing (materials, overhead, labor)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nWork in process (WIP)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nLabor reports by worker\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nActual or FIFO inventory costing\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nCashflow forecast\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nSales reports\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nCost-profit reports\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nMulti-currency\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nCustomer credit limits\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nStandard accounting module\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nBalance sheet\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nGeneral ledger\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nProfit and loss statement\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nCash flow forecast\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nLock previous financial periods\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nFEFO inventory costing\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nPiece-payment to workers\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\n### Integrations\n\n**Starter**\n\n**Professional**\n\n**Enterprise**\n\n**Unlimited**\n\nGoogle Drive\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nMicrosoft OneDrive / SharePoint\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nDropbox\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nQuickBooks Online\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nXero\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nShopify\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nMagento\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nWooCommerce\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nBigCommerce\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nAmazon\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nPipedrive CRM\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nHubSpot\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nSalesforce\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nShipStation\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nWare2Go\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nZapier\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nCSV import-export\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nAPI (for paid accounts)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nEDI (via integration partners)\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\n### Security\n\n**Starter**\n\n**Professional**\n\n**Enterprise**\n\n**Unlimited**\n\nISO 27001 certified\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nAlways up-to-date\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nSecure servers and hot reserve\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nDDoS protection\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nSSL encryption\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nUser-specific access permissions\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nUser action history logs\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nLimit access by IP\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nDatabase backups\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nPersonal database\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nAllow/restrict Technical Support access\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nTwo-Factor Authentication\n\nStarter\n\nProfessional\n\nEnterprise\n\nUnlimited\n\nExplore MRPeasy pricing for our range of manufacturing software plans. Find a solution that fits your budget and meets your business needs",
+      "error": null,
+      "pricing_data": {
+        "app_id": "mrpeasy",
+        "app_name": "MRPeasy",
+        "app_slug": "mrpeasy",
+        "pricing_url": "https://www.mrpeasy.com/pricing/",
+        "source_url": "https://www.mrpeasy.com/pricing/",
+        "all_pricing_urls": [
+          "https://www.mrpeasy.com/pricing/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is based on a per-user model with additional charges for users beyond 10.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Starter",
+            "tier_description": "Basic features for small teams.",
+            "monthly_price": 49.0,
+            "annual_price": 588.0,
+            "annual_discount_percentage": 8.33,
+            "setup_fee": null,
+            "features": [
+              "Production Planning and Reporting",
+              "BOM Management",
+              "Drag and Drop Rescheduling",
+              "Lot Traceability",
+              "Reporting via Internet-Kiosk",
+              "Supply Chain Management (SCM)",
+              "Warehouse Management System (WMS)",
+              "Workforce Planning",
+              "Customer Relationship Management (CRM)",
+              "Standard Accounting",
+              "Multi-Language",
+              "Multi-Currency"
+            ],
+            "limits": {
+              "users": 10,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Additional Users",
+                  "value": "$79 per 10 users"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Professional",
+            "tier_description": "Includes advanced features for growing businesses.",
+            "monthly_price": 69.0,
+            "annual_price": 828.0,
+            "annual_discount_percentage": 8.33,
+            "setup_fee": null,
+            "features": [
+              "All Starter features",
+              "B2B Customer Portal",
+              "Co-product BOM",
+              "Custom Fields",
+              "Disassembly BOM",
+              "Expiry Date",
+              "Product Configurator",
+              "Overlap and Special Sequence of Production Operations",
+              "Parallel Execution of Production Operations",
+              "Piece Payment",
+              "Quality Control",
+              "Serial Numbers",
+              "Subcontracting",
+              "Tiered Pricing"
+            ],
+            "limits": {
+              "users": 10,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Additional Users",
+                  "value": "$79 per 10 users"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Comprehensive features for large enterprises.",
+            "monthly_price": 99.0,
+            "annual_price": 1188.0,
+            "annual_discount_percentage": 8.33,
+            "setup_fee": null,
+            "features": [
+              "All Professional features",
+              "Approval System",
+              "Barcode System",
+              "Backward Production Scheduling",
+              "Maintenance Management System",
+              "Master Production Schedule",
+              "Multiple Stocks",
+              "Multiple Production Sites",
+              "Packing",
+              "Return Merchandise Authorization",
+              "Revision/Version Control System",
+              "Sales Management",
+              "Two-factor Authentication"
+            ],
+            "limits": {
+              "users": 10,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Additional Users",
+                  "value": "$79 per 10 users"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Unlimited",
+            "tier_description": "Full access with no feature restrictions.",
+            "monthly_price": 149.0,
+            "annual_price": 1788.0,
+            "annual_discount_percentage": 8.33,
+            "setup_fee": null,
+            "features": [
+              "All Enterprise features",
+              "API, webhooks"
+            ],
+            "limits": {
+              "users": 2,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Additional Users",
+                  "value": "$79 per 10 users"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T10:13:08.772371",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\mrpeasy\\20250415_101309"
+}

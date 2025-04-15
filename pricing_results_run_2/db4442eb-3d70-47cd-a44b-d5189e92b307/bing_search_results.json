@@ -1,0 +1,51 @@
+{
+  "app_name": "Habitify",
+  "app_slug": "habitify",
+  "search_term": "Find the official pricing page URL for Habitify (habitify.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744705600.9385147,
+  "response_text": [
+    "The official pricing page for Habitify can be found at: https://habitify.me/pricing\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "habitify.com",
+      "url": "http://habitify.com/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://habitify.me/pricing\u30103:0\u2020source\u3011.",
+      "is_accessible": true,
+      "content": "![Image 1](https://cdn.prod.website-files.com/static/page-not-found.211a85e40c.svg)\n\nPage Not Found\n--------------\n\nThe page you are looking for doesn't exist or has been moved.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "habitify",
+        "app_name": "Habitify",
+        "app_slug": "habitify",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page for Habitify was not accessible, and no information could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T04:26:47.871641",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": true,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\habitify\\20250415_042648"
+}

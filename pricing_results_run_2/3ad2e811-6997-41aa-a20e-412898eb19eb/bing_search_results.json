@@ -1,0 +1,12 @@
+{
+  "app_name": "Quaderno",
+  "app_slug": "quaderno",
+  "search_term": "Find the official pricing page URL for Quaderno (quaderno.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744693447.203226,
+  "response_text": [
+    "I couldn't locate the official pricing page for Quaderno on their website. You might try exploring the site directly or providing additional details if available."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\quaderno\\20250415_010407"
+}

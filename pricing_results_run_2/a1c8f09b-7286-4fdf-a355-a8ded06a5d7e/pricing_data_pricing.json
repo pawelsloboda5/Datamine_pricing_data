@@ -1,0 +1,148 @@
+{
+  "app_id": "recurly",
+  "app_name": "Recurly",
+  "app_slug": "recurly",
+  "pricing_url": "https://recurly.com/pricing",
+  "source_url": "https://recurly.com/pricing",
+  "all_pricing_urls": [
+    "https://recurly.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 90,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Promotional pricing for new customers includes waived fees for the first three months.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "For startups and small businesses launching and growing their business.",
+      "monthly_price": 249.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Subscriber account management",
+        "Multi-subscription support",
+        "Automated and manual invoicing",
+        "Tax and compliance",
+        "Pricing models and add-ons",
+        "Coupons and gift cards",
+        "Intelligent retries",
+        "Dunning campaigns",
+        "Multi-gateway payment setup",
+        "Alternative payment methods",
+        "Dashboards & reports",
+        "Data imports & exports",
+        "Partner integrations",
+        "Customer support & success",
+        "Site management",
+        "APIs, DevOps & others",
+        "Security & compliance"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Payment Volume Fee Waiver",
+            "value": "$40,000/month for first 3 months"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Scaling & Enterprise",
+      "tier_description": "Pricing for established brands ready to scale and push the pace.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full access to the leading subscription management platform",
+        "Simple, transparent pricing that scales as you grow",
+        "No hidden monthly fees",
+        "No platform costs"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Total Payment Volume (TPV)",
+      "unit": "USD",
+      "base_price": 0.9,
+      "tiers": [
+        {
+          "min": 40000.0,
+          "max": "unlimited",
+          "price": 0.9
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Starter Package Promotion",
+      "offer_description": "No monthly platform fee and no payment volume fee for first $40,000 USD per month in first 3 months for new customers.",
+      "discount_percentage": null,
+      "offer_url": "https://recurly.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Merchant Bank Account Fees",
+      "fee_amount": null,
+      "fee_description": "Fees associated with merchant bank accounts."
+    },
+    {
+      "fee_name": "Payment Gateway Fees",
+      "fee_amount": null,
+      "fee_description": "Fees for payment gateway usage."
+    },
+    {
+      "fee_name": "Customer/Card Import Fees",
+      "fee_amount": null,
+      "fee_description": "Fees for importing existing cards/customers."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:08:03.765407",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a1c8f09b-7286-4fdf-a355-a8ded06a5d7e",
+    "name": "Recurly",
+    "slug": "recurly",
+    "description": "Recurly is a subscription management platform delivering a competitive advantage for leading brands worldwide. Trusted by Sling TV, BarkBox, Asana, and thousands more to drive recurring revenue.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/219951a210fbe582395deb3b28c90d85.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 4
+  }
+}

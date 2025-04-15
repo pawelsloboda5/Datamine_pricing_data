@@ -1,0 +1,48 @@
+{
+  "app_name": "PDF.co",
+  "app_slug": "pdfco",
+  "search_term": "Find the official pricing page URL for PDF.co (pdfco.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744706258.8696568,
+  "response_text": [
+    "The official pricing page for PDF.co is: [https://pdf.co/pricing](https://pdf.co/pricing)."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://pdf.co/pricing",
+      "is_accessible": true,
+      "content": "404 Not Found | PDF.co\n===============\n\n[![Image 1: PDF.co logo](https://pdf.co/_next/static/media/main_logo.78c6308a.svg)](https://pdf.co/)\n\nProducts\n\n[Integrations](https://pdf.co/integrations)[Tutorials](https://pdf.co/tutorials)[API Docs](https://developer.pdf.co/)[Pricing](https://app.pdf.co/subscriptions)\n\n[Login](https://app.pdf.co/login)[Sign Up](https://app.pdf.co/signup)\n\n![Image 2: 404](https://pdf.co/_next/static/media/404.77c0bba5.svg)\n\nPage Can't be Found\n===================\n\nSorry, the page you are looking for cannot be found.\n\n[Back to Home](https://pdf.co/)\n\n![Image 3: cross](https://pdf.co/_next/static/media/cross-image.d44b62af.svg)![Image 4: cross](https://pdf.co/_next/static/media/cross-image.d44b62af.svg)![Image 5: cross](https://pdf.co/_next/static/media/cross-image.d44b62af.svg)![Image 6: cross](https://pdf.co/_next/static/media/cross-image.d44b62af.svg)\n\n![Image 7: PDF.co logo](https://pdf.co/_next/static/media/main_logo.78c6308a.svg)\n\nSearch Here...\n\nProducts\n\nEXTRACT\n\n[AI-Powered Invoice Parsing](https://pdf.co/products/ai-invoice-parser)[PDF to Anything](https://pdf.co/products/pdf-extractor-api)[Parsing Documents](https://pdf.co/products/document-parser)[Document Classifier](https://pdf.co/products/pdf-classifier)\n\nCREATE/EDIT\n\n[Edit PDF](https://pdf.co/products/pdf-editor-api)[Fill PDF Forms](https://pdf.co/products/pdf-form-filler-api)[Merge PDF](https://pdf.co/products/pdf-merger-api)[Split PDF](https://pdf.co/products/pdf-splitter-api)[Create Fillable PDF Forms](https://pdf.co/products/create-fillable-pdf-api)[Search and Replace in PDF](https://pdf.co/products/pdf-search-api)[Add E-Signatures](https://pdf.co/products/e-signature-solution-add-signature-to-pdf)\n\nCONVERT\n\n[Anything to PDF](https://pdf.co/products/pdf-converter-api)[Spreadsheet Conversion](https://pdf.co/products/spreadsheet-api)[Converting Email to PDF](https://pdf.co/products/email-extractor-api)[Converting HTML to PDF](https://pdf.co/products/pdf-from-html-api)\n\nMANAGE\n\n[File Upload](https://pdf.co/products/file-uploader-api)[PDF Report Generation](https://pdf.co/products/generate-pdf-reports)[PDF Optimize](https://pdf.co/products/pdf-compressor-api)[Reading Barcodes](https://pdf.co/products/barcode-reader-api)[Generating Barcodes](https://pdf.co/products/barcode-generator-api)[Add or Remove PDF Security](https://pdf.co/products/pdf-password-security-api)[PDF Info Reader](https://pdf.co/products/pdf-info-reader-api)\n\n[Integrations](https://pdf.co/integrations)[Tutorials](https://pdf.co/tutorials)[API Docs](https://developer.pdf.co/)[Pricing](https://app.pdf.co/subscriptions)\n\n[Sign Up](https://app.pdf.co/signup)[Login](https://app.pdf.co/login)\n\nThis website uses cookies for functional and analytical purposes. By continuing, you agree to our cookie use. Please read our\u00a0[privacy policy](https://pdf.co/resources/legal/privacy)\u00a0for more information.\n\nI\u00a0Agree\n\nStart Your PDF Automation Journey with PDF.co:  \nSign Up and Get Your API Key Now\n\n[Get Started for Free](https://app.pdf.co/signup)\n\n[![Image 8: PDF.co logo](https://pdf.co/_next/static/media/main_logo_Light.8bb2c3cc.svg)](https://pdf.co/)[Get Started for Free](https://app.pdf.co/signup)\n\n[](https://www.youtube.com/@PDFco)[![Image 9: Twitter X](https://pdf.co/_next/static/media/twitter_x.b8a989bf.svg)](https://twitter.com/pdfdotco)[](https://www.linkedin.com/company/17906673/)\n\n[![Image 10: SOC 2 Badge](https://pdf.co/_next/static/media/soc2_badge.5f6569ba.svg)](https://pdf.co/resources/blog/pdf-co-achieves-soc-2-type-ii-compliance-under-artifex-software)[![Image 11: PDF Association Member](https://pdf.co/_next/static/media/PDF_assoc_member.fe56e6d8.svg)](https://www.pdfa.org/)\n\n### Resources\n\n[Blog](https://pdf.co/resources/blog)[Comparisons](https://pdf.co/resources/comparisons)[Solutions](https://pdf.co/resources/solutions)[Support](https://support.pdf.co/hc/en-us)[SOC 2](https://pdf.co/resources/blog/pdf-co-achieves-soc-2-type-ii-compliance-under-artifex-software)\n\n### Company\n\n[About Us](https://pdf.co/about)[Terms](https://pdf.co/resources/legal/terms)[Privacy](https://pdf.co/resources/legal/privacy)[Security](https://developer.pdf.co/security)\n\n\u00a9 Copyright 2016-2025\u00a0[Artifex Software Inc.](https://artifex.com/)\u00a0\u2014 All rights reserved\n\n   \n\n![Image 12](https://bat.bing.com/action/0?ti=4069547&tm=gtm002&Ver=2&mid=024a9d47-90af-4cd8-ae41-2d69403c7b86&bo=1&sid=e939b94019d411f09e8141b1edcac205&vid=e93ad2b019d411f0b7c6cd151ec6c702&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&tl=404%20Not%20Found%20%7C%20PDF.co&p=https%3A%2F%2Fpdf.co%2F404&r=&lt=1936&evt=pageLoad&sv=1&cdb=AQAQ&rn=731612)\n\nThe page you are looking for cannot be found. Explore PDF.co to find what you need.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "pdfco",
+        "app_name": "PDF.co",
+        "app_slug": "pdfco",
+        "pricing_url": "https://app.pdf.co/subscriptions",
+        "source_url": "https://pdf.co/404",
+        "all_pricing_urls": [
+          "https://app.pdf.co/subscriptions"
+        ],
+        "price_model_type": [],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page was not accessible, and detailed pricing information could not be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T04:37:53.108687",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\pdfco\\20250415_043753"
+}

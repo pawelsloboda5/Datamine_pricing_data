@@ -1,0 +1,159 @@
+{
+  "app_id": "google_docs",
+  "app_name": "Google Docs",
+  "app_slug": "google-docs",
+  "pricing_url": "https://workspace.google.com/pricing.html",
+  "source_url": "https://workspace.google.com/pricing.html",
+  "all_pricing_urls": [
+    "https://workspace.google.com/pricing.html"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Google Workspace offers various plans with different features and storage limits. Enterprise pricing is custom and requires contacting sales.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Business Starter",
+      "tier_description": "Basic plan for small businesses.",
+      "monthly_price": 8.4,
+      "annual_price": 84.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "30 GB pooled storage per user",
+        "Secure custom business email",
+        "Gemini AI assistant in Gmail",
+        "100 participant video meetings",
+        "Security and management controls",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 300,
+        "storage": "30GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Standard",
+      "tier_description": "Most popular plan with enhanced features.",
+      "monthly_price": 16.8,
+      "annual_price": 168.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "2 TB pooled storage per user",
+        "Secure custom business email",
+        "Gemini AI assistant in Gmail, Docs, Meet, and more",
+        "150 participant video meetings with recording",
+        "eSignature with Docs and PDFs",
+        "Appointment booking pages",
+        "Collaborative video creator and editor",
+        "Email layouts and mail merge",
+        "Security and management controls",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 300,
+        "storage": "2TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Plus",
+      "tier_description": "Advanced plan with additional storage and features.",
+      "monthly_price": 26.4,
+      "annual_price": 264.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "5 TB pooled storage per user",
+        "Secure custom business email with eDiscovery and retention",
+        "Gemini AI assistant in Gmail, Docs, Meet, and more",
+        "500 participant video meetings with recording and attendance tracking",
+        "eSignature with Docs and PDFs",
+        "Appointment booking pages",
+        "Collaborative video creator and editor",
+        "Email layouts and mail merge",
+        "Enhanced security and management controls",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 300,
+        "storage": "5TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 TB pooled storage per user with ability to request more",
+        "Secure custom business email with eDiscovery and retention",
+        "Gemini AI assistant in Gmail, Docs, Meet, and more",
+        "1000 participant video meetings with recording and live streaming",
+        "eSignature with Docs and PDFs",
+        "Appointment booking pages",
+        "Collaborative video creator and editor",
+        "Email layouts and mail merge",
+        "Advanced security, management, and compliance controls",
+        "Enhanced Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "5TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:42:37.397759",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9e67310a-a6bb-4dcc-8055-0cd8694d6994",
+    "name": "Google Docs",
+    "slug": "google-docs",
+    "description": "Google Docs is an online word processor that lets you create and format text documents. Collaboratively edit documents with other people in real time. We also support Google Sheets!",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ae42824b58d556d36b5e5b217377fc5e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Documents",
+      "Google"
+    ],
+    "category_slugs": [
+      "documents",
+      "google"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 1
+  }
+}

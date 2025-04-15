@@ -1,0 +1,186 @@
+{
+  "app_id": "crowdcast",
+  "app_name": "Crowdcast",
+  "app_slug": "crowdcast",
+  "pricing_url": "https://www.crowdcast.io/pricing",
+  "source_url": "https://www.crowdcast.io/pricing",
+  "all_pricing_urls": [
+    "https://www.crowdcast.io/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription tiers with additional usage-based fees for exceeding limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lite",
+      "tier_description": "For creators and small businesses looking to grow their audience",
+      "monthly_price": 49.0,
+      "annual_price": 411.6,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "Transaction fee: 5%",
+        "2 hour sessions",
+        "HD Live video with recording",
+        "Multi-session events",
+        "RTMP Mode - Broadcast from OBS, Wirecast, Ecamm Live & more",
+        "Email and chat support",
+        "Stripe Integration",
+        "Event and Session Analytics",
+        "Zapier Integration",
+        "Export Email Addresses, Chat, Data"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Live attendees",
+            "value": "100+"
+          },
+          {
+            "name": "Hours per month",
+            "value": 10
+          },
+          {
+            "name": "Host seats",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For professional creators and businesses to consistently host live video events",
+      "monthly_price": 89.0,
+      "annual_price": 748.8,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "All Lite features",
+        "4 hour sessions",
+        "Multistream to 1 location",
+        "Custom registration fields"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Live attendees",
+            "value": "250+"
+          },
+          {
+            "name": "Hours per month",
+            "value": 20
+          },
+          {
+            "name": "Host seats",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For startups and companies looking to engage their customers",
+      "monthly_price": 195.0,
+      "annual_price": 1638.0,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "All Pro features",
+        "6 hour sessions",
+        "Transaction fee: 2%",
+        "Multistream to 3 locations"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Live attendees",
+            "value": "1000+"
+          },
+          {
+            "name": "Hours per month",
+            "value": 40
+          },
+          {
+            "name": "Host seats",
+            "value": 4
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Extra live attendees",
+      "unit": "per attendee",
+      "base_price": 0.15,
+      "tiers": null
+    },
+    {
+      "metric_name": "Extra hours",
+      "unit": "per 5 hours",
+      "base_price": 20.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Additional host seats",
+      "unit": "per seat",
+      "base_price": 29.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Transaction fee",
+      "fee_amount": 5.0,
+      "fee_description": "Percentage fee for ticket transactions, plus Stripe's processing fee."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:18:18.541658",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e917c779-adb2-4d9c-be59-73a4e90e6d1f",
+    "name": "Crowdcast",
+    "slug": "crowdcast",
+    "description": "Crowdcast is a live video platform for hosting webinars, livestreams, workshops, interviews and online summits. Offering ticketing for paid live events, detailed analytics and integrations with CRM and marketing platforms.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ce046c83853a57268c9ba5f628174feb.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Webinars"
+    ],
+    "category_slugs": [
+      "webinars"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 4
+  }
+}

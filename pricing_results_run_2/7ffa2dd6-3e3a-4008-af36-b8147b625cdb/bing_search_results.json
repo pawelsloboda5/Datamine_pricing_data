@@ -1,0 +1,350 @@
+{
+  "app_name": "SOLAPI",
+  "app_slug": "solapi",
+  "search_term": "Find the official pricing page URL for SOLAPI (solapi.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744687631.0357673,
+  "response_text": [
+    "The official pricing page for SOLAPI is located at: [https://solapi.com/pricing](https://solapi.com/pricing)\u30103:2\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "\ud45c\uc900 \ub2e8\uac00 \uc548\ub0b4",
+      "url": "https://guide.solapi.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://guide.solapi.com/pricing",
+      "is_accessible": true,
+      "content": "\uc0c8\ub85c\uc6b4 \uac00\uc774\ub4dc\ub85c \uc774\ub3d9\ud558\uae30\nSOLAPI \uc720\uc800 \uac00\uc774\ub4dc\n/\n\uc11c\ube44\uc2a4 \uc774\uc6a9 \uac00\uc774\ub4dc\n/\n\uc694\uae08 \ubc0f \ucda9\uc804\n/\n\ud45c\uc900 \ub2e8\uac00 \uc548\ub0b4\n\ud45c\uc900 \ub2e8\uac00 \uc548\ub0b4\n\uc774 \ubb38\uc11c\ub294 https://solapi.com/pricing \ub85c \uc774\ub3d9\ub418\uc5c8\uc2b5\ub2c8\ub2e4.\n\uc6d4 \uae30\ubcf8\ub8cc \ubc0f API \uc0ac\uc6a9 \ube44\uc6a9\uc740 \ubb34\ub8cc\uc774\uba70 \ubc1c\uc1a1 \uac74\ub2f9 \ube44\uc6a9 \uccad\uad6c\ub429\ub2c8\ub2e4.\n(\ubcc4\ub3c4 \uad6c\ub3c5\ub8cc\uac00 \uc788\ub294 \uc0c1\ud488\uc740 \uc81c\uc678)\n\uc544\ub798\ub294 \uc194\ub77c\ud53c \uc6f9\ubc1c\uc1a1 \ubc0f API \uc9c1\uc811 \uc5f0\ub3d9 \uc2dc \uac74\ub2f9 \ucc28\uac10\ub418\ub294 \ubc1c\uc1a1 \ub2e8\uac00\uc785\ub2c8\ub2e4.\n\uba54\uc2dc\uc9c0 \uc885\ub958\n\t\n\ucc28\uac10 \ub2e8\uac00 (VAT \ubbf8\ud3ec\ud568)\n\t\n\ube44\uace0\n\n\n\uce74\uce74\uc624 \uc54c\ub9bc\ud1a1\n\t\n9\uc6d0\n\t\n\ud55c\uae00/\uc601\uc5b4 1,000\uc790\n\ud15c\ud50c\ub9bf \uae30\ubc18\n\ubc84\ud2bc 5\uac1c\n\n\n\uce74\uce74\uc624 \uce5c\uad6c\ud1a1 \n\t\n14\uc6d0\n\t\n\ud55c\uae00/\uc601\uc5b4 1,000\uc790\n\ubc84\ud2bc 5\uac1c\n\n\n\uce5c\uad6c\ud1a1 \uc774\ubbf8\uc9c0\n\t\n22\uc6d0\n\t\n\uc774\ubbf8\uc9c0 1\uc7a5 + \ud55c\uae00/\uc601\uc5b4 400\uc790\n\n\n\ubb38\uc790\uba54\uc2dc\uc9c0 (\ub2e8\ubb38 SMS)\n\t\n13\uc6d0\n\t\n90 \ubc14\uc774\ud2b8 (\ud55c\uae00 45\uc790, \uc601\uc5b4 90\uc790)\n\n\n\ubb38\uc790\uba54\uc2dc\uc9c0 (\uc7a5\ubb38 LMS)\n\t\n29\uc6d0\n\t\n2,000 \ubc14\uc774\ud2b8 (\ud55c\uae00 1,000\uc790, \uc601\uc5b4 2,000\uc790)\n\n\n\ubb38\uc790\uba54\uc2dc\uc9c0 (\uc0ac\uc9c4 MMS)\n\t\n70\uc6d0\n\t\n2,000 \ubc14\uc774\ud2b8 (\ud55c\uae00 1,000\uc790, \uc601\uc5b4 2,000\uc790)\n200KB JPG \uc774\ubbf8\uc9c0 1\uc7a5\n\n\nRCS \ud15c\ud50c\ub9bf\n\t\n9\uc6d0\n\t\n\ud55c\uae00/\uc601\uc5b4 90\uc790\n\n\nRCS SMS\n\t\n15\uc6d0\n\t\n\ud55c\uae00/\uc601\uc5b4 100\uc790\n\ubc84\ud2bc 1\uac1c\n\n\nRCS LMS\n\t\n32\uc6d0\n\t\n\ud55c\uae00/\uc601\uc5b4 1,300\uc790\n\ubc84\ud2bc 3\uac1c\n\n\nRCS MMS\n\t\n80\uc6d0\n\t\n\ud55c\uae00/\uc601\uc5b4 1,300\uc790\n\uce74\ub4dc\ubcc4 \ubc84\ud2bc 2\uac1c\n\n\n\ub124\uc774\ubc84\uc2a4\ub9c8\ud2b8\uc54c\ub9bc\n\t\n9\uc6d0\n\t\n\ud55c\uae00/\uc601\uc5b4 1,000\uc790\n \ubc84\ud2bc 5\uac1c\n\n\n\ud329\uc2a4 (1\uc7a5\ub2f9)\n\t\n100\uc6d0\n\t\nOCR \uae30\ub2a5 (\ubcc4\ub3c4 \ubb38\uc758)\n\ud329\uc2a4\uc218\uc2e0\ubc88\ud638 \uc6d4 1\ub9cc\uc6d0 (\ubcc4\ub3c4 \ubb38\uc758)\n\n\n\uc74c\uc131 \uba54\uc2dc\uc9c0 (1\ubd84\ub2f9)\n\t\n150\uc6d0\n\t\nTTS \uae30\ub2a5\n\n\n\ud574\uc678 \ubb38\uc790 (SMS)\n\t\n80\uc6d0 \ubd80\ud130\n\t\n\uc8fc\uc694 \uad6d\uac00 \ubbf8\uad6d, \uce90\ub098\ub2e4, \uc77c\ubcf8 80\uc6d0\ubd80\ud130 \uc2dc\uc791\n\ud574\uc678 \ubb38\uc790 \ub2e8\uac00 \ub354 \ubcf4\uae30\n\uc571\uc2a4\ud1a0\uc5b4\uc758 \uc571 \uc0ac\uc6a9 \uc2dc \ubcc4\ub3c4\uc758 \uc0ac\uc6a9 \uc694\uae08\uc774 \ucd94\uac00\ub429\ub2c8\ub2e4.\n\ud574\uc678 \uc2e0\uc6a9\uce74\ub4dc \uacb0\uc81c \uc2dc \ud64d\ucf69 \uc138\ubc95\uc5d0 \uc758\ud574 \ubd80\uac00\uc138\uac00 \uba74\uc81c\ub429\ub2c8\ub2e4.\n\uc0c8\ub85c\uc6b4 \uac00\uc774\ub4dc\ub85c \uc774\ub3d9\ud558\uae30\n\n\uc774 \ubb38\uc11c\ub294 https://solapi.com/pricing \ub85c \uc774\ub3d9\ub418\uc5c8\uc2b5\ub2c8\ub2e4.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "solapi",
+        "app_name": "SOLAPI",
+        "app_slug": "solapi",
+        "pricing_url": "https://solapi.com/pricing",
+        "source_url": "https://solapi.com/pricing",
+        "all_pricing_urls": [
+          "https://solapi.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "KRW",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is based on usage per message type, with detailed rates provided for each type.",
+        "pricing_tiers": null,
+        "usage_based_pricing": [
+          {
+            "metric_name": "\uce74\uce74\uc624 \uc54c\ub9bc\ud1a1",
+            "unit": "per message",
+            "base_price": 9.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "\uce74\uce74\uc624 \uce5c\uad6c\ud1a1",
+            "unit": "per message",
+            "base_price": 14.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "\uce5c\uad6c\ud1a1 \uc774\ubbf8\uc9c0",
+            "unit": "per message",
+            "base_price": 22.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "\ubb38\uc790\uba54\uc2dc\uc9c0 (\ub2e8\ubb38 SMS)",
+            "unit": "per message",
+            "base_price": 13.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "\ubb38\uc790\uba54\uc2dc\uc9c0 (\uc7a5\ubb38 LMS)",
+            "unit": "per message",
+            "base_price": 29.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "\ubb38\uc790\uba54\uc2dc\uc9c0 (\uc0ac\uc9c4 MMS)",
+            "unit": "per message",
+            "base_price": 70.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "RCS \ud15c\ud50c\ub9bf",
+            "unit": "per message",
+            "base_price": 9.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "RCS SMS",
+            "unit": "per message",
+            "base_price": 15.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "RCS LMS",
+            "unit": "per message",
+            "base_price": 32.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "RCS MMS",
+            "unit": "per message",
+            "base_price": 80.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "\ub124\uc774\ubc84\uc2a4\ub9c8\ud2b8\uc54c\ub9bc",
+            "unit": "per message",
+            "base_price": 9.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "\ud329\uc2a4 (1\uc7a5\ub2f9)",
+            "unit": "per page",
+            "base_price": 100.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "\uc74c\uc131 \uba54\uc2dc\uc9c0 (1\ubd84\ub2f9)",
+            "unit": "per minute",
+            "base_price": 150.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "\ud574\uc678 \ubb38\uc790 (SMS)",
+            "unit": "per message",
+            "base_price": 80.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "\ud329\uc2a4\uc218\uc2e0\ubc88\ud638 \uc6d4 \uc0ac\uc6a9\ub8cc",
+            "fee_amount": 10000.0,
+            "fee_description": "Monthly fee for fax receiving number"
+          },
+          {
+            "fee_name": "\uc571\uc2a4\ud1a0\uc5b4 \uc0ac\uc6a9 \uc694\uae08",
+            "fee_amount": null,
+            "fee_description": "Additional fees for using apps from the app store"
+          }
+        ],
+        "extraction_timestamp": "2025-04-14T23:27:24.013415",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://solapi.com/pricing",
+      "is_accessible": true,
+      "content": "\uac00\uaca9 \uc815\ucc45\n-----\n\n\ud83d\udca1\n\n\uc6d4 \uae30\ubcf8\ub8cc \ubc0f API \uc0ac\uc6a9 \ube44\uc6a9\uc740 \ubb34\ub8cc\uc774\uba70 \ubc1c\uc1a1 \uac74\ub2f9 \ube44\uc6a9 \uccad\uad6c\ub429\ub2c8\ub2e4.  \n(\ub300\ub7c9 \ud638\ucd9c \ubc0f \ubcc4\ub3c4 \uad6c\ub3c5\ub8cc\uac00 \uc788\ub294 \uc0c1\ud488\uc740 \ucd94\uac00 \ube44\uc6a9\uc774 \ubc1c\uc0dd\ud560 \uc218 \uc788\uc2b5\ub2c8\ub2e4.)\n\n\uba54\uc2dc\uc9c0 \ud0c0\uc785\ubcc4 \ud45c\uc900 \ub2e8\uac00\n-------------\n\n\uc544\ub798\ub294 \uc194\ub77c\ud53c \uc6f9\uc5d0\uc11c \uba54\uc2dc\uc9c0 \ubc1c\uc1a1 \uc2dc \ub610\ub294 API \uc9c1\uc811 \uc5f0\ub3d9 \ud6c4 \uba54\uc2dc\uc9c0 \ubc1c\uc1a1 \uc2dc \uba54\uc2dc\uc9c0 1\uac74\ub2f9 \ucc28\uac10\ub418\ub294 \ubc1c\uc1a1 \ub2e8\uac00\uc785\ub2c8\ub2e4.\n\n\uc6d4 \ubc1c\uc1a1\ub7c9 \uae30\uc900\uc73c\ub85c \ucd5c\ub300 57.69% \ud560\uc778\ub429\ub2c8\ub2e4. \uc544\ub798 \ubc1c\uc1a1 \uad6c\uac04\ubcc4 \ud560\uc778 \ub2e8\uac00\ud45c\ub97c \ud655\uc778\ud574 \uc8fc\uc138\uc694. \ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\ud83d\udc47\n\n[\ubc1c\uc1a1 \uad6c\uac04\ubcc4 \ud560\uc778 \ub2e8\uac00\ud45c \uce74\uce74\uc624\ud1a1 \uc54c\ub9bc\ud1a1 \uc6d4\uac04 \ubc1c\uc1a1\ub7c9(\uac74) \uc54c\ub9bc\ud1a1 \ub2e8\uac00(\uc6d0) \ud560\uc778\uc728(%) 1 ~ 9,999 13 0.00 10,000 ~ 99,999 10 23.08 100,000 ~ 499,999 8 38.46 500,000 ~ 999,999 7 46.15 1,000,000 ~ 1,999,999 6.5 50.00 2,000,000 ~ 2, ![Image 1](https://solapi-content.s3.ap-northeast-2.amazonaws.com/images/2023/10/favicon_60-1.png)\uc194\ub77c\ud53c \ube14\ub85c\uadf8 - \ubaa8\ub4e0 \uace0\uac1d\uc774 \ud1b5\ud558\ub294 \ub9c8\ucf00\ud305 \uba54\uc2dc\uc9c0, SOLAPISolight ![Image 2](https://solapi-content.s3.ap-northeast-2.amazonaws.com/images/2023/11/solapi_url_share-1.png)](https://solapi.com/tiered-pricing/)\n\n| \ucc44\ub110 | \ud0c0\uc785 | \ucc28\uac10 \ub2e8\uac00  \n(VAT\ubbf8\ud3ec\ud568) | \ube44\uace0 |\n| --- | --- | --- | --- |\n| \uce74\uce74\uc624\ud1a1 | \uc54c\ub9bc\ud1a1 | 13\uc6d0 | \ud55c\uae00/\uc601\uc5b4 1,000\uc790  \n\ud15c\ud50c\ub9bf \uae30\ubc18  \n\ubc84\ud2bc5\uac1c |\n|  | \uce5c\uad6c\ud1a1 | 19\uc6d0 | \ud55c\uae00/\uc601\uc5b4 1,000\uc790  \n\uad11\uace0 \ubc1c\uc1a1 \uac00\ub2a5  \n\ubc84\ud2bc5\uac1c |\n|  | \uce5c\uad6c\ud1a1 \uc774\ubbf8\uc9c0 | 29\uc6d0 | \uc774\ubbf8\uc9c0 1\uc7a5 + \ud55c\uae00/\uc601\uc5b4 400\uc790 |\n| \ubb38\uc790\uba54\uc2dc\uc9c0 | \ub2e8\ubb38 SMS | 18\uc6d0 | \uc644\uc131\ud615 \ud55c\uae00(EUC-KR) \uce90\ub9ad\ud130\uc14b  \n90 \ubc14\uc774\ud2b8 (\ud55c\uae00 45\uc790, \uc601\uc5b4 90\uc790) |\n|  | \uc7a5\ubb38 LMS | 45\uc6d0 | \uc644\uc131\ud615 \ud55c\uae00(EUC-KR) \uce90\ub9ad\ud130\uc14b  \n2,000 \ubc14\uc774\ud2b8 (\ud55c\uae00 1,000\uc790, \uc601\uc5b4 2,000\uc790) |\n|  | \uc0ac\uc9c4 MMS | 110\uc6d0 | 2,000 \ubc14\uc774\ud2b8 (\ud55c\uae00 1,000\uc790, \uc601\uc5b4 2,000\uc790) |\n| RCS | SMS | 18\uc6d0 | \ud55c\uae00/\uc601\uc5b4 100\uc790  \n\ubc84\ud2bc 1\uac1c |\n|  | LMS | 45\uc6d0 | \ud55c\uae00/\uc601\uc5b4 1,300\uc790  \n\ubc84\ud2bc 3\uac1c |\n|  | MMS | 110\uc6d0 | \ud55c\uae00/\uc601\uc5b4 1,300\uc790  \n\uce74\ub4dc\ubcc4 \ubc84\ud2bc 2\uac1c |\n|  | \ud14d\uc2a4\ud2b8 \ud15c\ud50c\ub9bf | 13\uc6d0 | \ud55c\uae00/\uc601\uc5b4 90\uc790 |\n|  | LMS \ud15c\ud50c\ub9bf | 45\uc6d0 | \uc81c\ubaa9 17\uc790, \ub0b4\uc6a9 1,300\uc790, \ubc84\ud2bc 2\uac1c |\n|  | \uc774\ubbf8\uc9c0 \ud15c\ud50c\ub9bf | 110\uc6d0 | \uc544\uc774\ud15c\uc0c1\uc138\ud615, \uc774\ubbf8\uc9c0\uac15\uc870\ud615, SNS\ud615 \ub4f1 |\n| \ub124\uc774\ubc84 | \uc2a4\ub9c8\ud2b8\uc54c\ub9bc | 13\uc6d0 | \ub124\uc774\ubc84\ud1a1\ud1a1 \uc54c\ub9bc \uc804\uc1a1  \n\ud55c\uae00/\uc601\uc5b4 1,000\uc790  \n\ubc84\ud2bc 5\uac1c |\n| \ud329\uc2a4 | \ud329\uc2a4 \ubc1c\uc1a1 (1\uc7a5\ub2f9) | 100\uc6d0 | OCR \uae30\ub2a5 (\ubcc4\ub3c4 \ubb38\uc758)  \n\ud329\uc2a4\uc218\uc2e0\ubc88\ud638 \uc6d4 1\ub9cc\uc6d0 (\ubcc4\ub3c4 \ubb38\uc758) |\n| \uc74c\uc131 | \uc74c\uc131\uba54\uc2dc\uc9c0 \ubc1c\uc1a1 (1\ubd84\ub2f9) | 150\uc6d0 | TTS \uae30\ub2a5 |\n| \ud574\uc678 \ubb38\uc790 | SMS | 90\uc6d0 \ubd80\ud130 | \uc77c\ubcf8 90\uc6d0\ubd80\ud130 \uc2dc\uc791  \n[\ud574\uc678 \ubb38\uc790 \ub2e8\uac00 \ub354 \ubcf4\uae30](https://solapi.com/guides/sms-intl-send/) |\n\n\ud83d\udca1\n\n\uc571\uc2a4\ud1a0\uc5b4\uc758 \uc571 \uc0ac\uc6a9 \uc2dc \ubcc4\ub3c4\uc758 \uc0ac\uc6a9 \uc694\uae08\uc774 \ucd94\uac00\ub429\ub2c8\ub2e4.  \n\ud574\uc678 \uc2e0\uc6a9\uce74\ub4dc \uacb0\uc81c \uc2dc \ud64d\ucf69 \uc138\ubc95\uc5d0 \uc758\ud574 \ubd80\uac00\uc138\uac00 \uba74\uc81c\ub429\ub2c8\ub2e4.\n\n\ud83d\udca1\n\n\ud1b5\uc2e0\uc0ac\uc758 \uac00\uaca9 \uc815\ucc45 \ubc0f \ub300\uc678\uc5ec\uac74 \ubcc0\ud654\uc5d0 \ub530\ub77c \uc81c\uacf5 \ub2e8\uac00\uac00 \ubcc0\uacbd\ub420 \uc218 \uc788\uc2b5\ub2c8\ub2e4.\n\nRate Limits\n-----------\n\nAPI \ud638\ucd9c\uc774 \uae09\uc99d\ud560 \uacbd\uc6b0 \uc2dc\uc2a4\ud15c\uc758 \uce58\uba85\uc801\uc778 \ubd80\ud558\uac00 \ubc1c\uc0dd\ud558\uace0 \ube44\uc6a9\uc774 \uae09\uc99d\ub418\ub294 \uc774\uc720\ub85c \ud638\ucd9c \ud68c\uc218\uc5d0 \uc81c\ud55c\uc744 \ub450\uace0 \uc788\uc2b5\ub2c8\ub2e4. \ud638\ucd9c \ud68c\uc218 \uc99d\uac00\ub97c \uc6d0\ud558\uc2dc\ub294 \uacbd\uc6b0 [\uc5ec\uae30](https://solapi.channel.io/?ref=solapi.com)\ub97c \ub20c\ub7ec \uc694\uccad \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4.\n\n| \ud50c\ub79c | API \uc885\ub958 | API \ud638\ucd9c \ud68c\uc218 | \uac00\uaca9(VAT\ubcc4\ub3c4) |\n| --- | --- | --- | --- |\n| \ubca0\uc774\uc9c1 | \ubc1c\uc1a1 API | 5\ucd08\ub2f9 100\ud68c | \ubb34\ub8cc \uc81c\uacf5 |\n|  | \ubaa8\ub4e0 \uc870\ud68c API | 5\ucd08\ub2f9 20\ud68c |  |\n| \ub77c\uc774\ud2b8 | \ubc1c\uc1a1 API | 5\ucd08\ub2f9 200\ud68c | \uc6d4 30,000\uc6d0 |\n|  | \ubaa8\ub4e0 \uc870\ud68c API | 5\ucd08\ub2f9 20\ud68c |  |\n| \ud504\ub9ac\ubbf8\uc5c4 | \ubc1c\uc1a1 API | 5\ucd08\ub2f9 700\ud68c | \uc6d4 110,000\uc6d0 |\n|  | \ubaa8\ub4e0 \uc870\ud68c API | 5\ucd08\ub2f9 20\ud68c |  |\n| \uc5d4\ud130\ud504\ub77c\uc774\uc988 | \ub300\ub7c9 \ud638\ucd9c\uc774 \ud544\uc694\ud55c \uacbd\uc6b0 | \ubcc4\ub3c4 \ubb38\uc758 |  |\n\nWebhooks\n--------\n\n\uc6f9\ud6c5 \uae30\ubcf8 \uc0dd\uc131 \uac00\ub2a5 \uac1c\uc218\ub294 2\uac1c\uc785\ub2c8\ub2e4. \uc99d\uac00\ub97c \uc6d0\ud558\uc2dc\ub294 \uacbd\uc6b0 [\uc5ec\uae30](https://solapi.channel.io/?ref=solapi.com)\ub97c \ub20c\ub7ec \uc694\uccad \ubd80\ud0c1\ub4dc\ub9bd\ub2c8\ub2e4.\n\n| \ud50c\ub79c | \uc0dd\uc131 \uac00\ub2a5 \uac1c\uc218 | \uac00\uaca9(VAT\ubcc4\ub3c4) |\n| --- | --- | --- |\n| \ubca0\uc774\uc9c1 | 2\uac1c | \ubb34\ub8cc \uc81c\uacf5 |\n| \ub77c\uc774\ud2b8 | 7\uac1c | \uc6d4 5,000\uc6d0 |\n| \ud504\ub9ac\ubbf8\uc5c4 | 15\uac1c | \uc6d4 10,000\uc6d0 |\n| \uc5d4\ud130\ud504\ub77c\uc774\uc988 | \ub300\ub7c9 | \ubcc4\ub3c4 \ubb38\uc758 |\n\n\uc218\uc775\uc250\uc5b4\n----\n\n\uad00\ub9ac\uc790 \uac80\uc218 \ud6c4 \ub9c8\uc774\uc0ac\uc774\ud2b8 \ub4f1\ub85d \ubc0f \uc571 \ubc30\ud3ec \uac00\ub2a5\ud569\ub2c8\ub2e4. \ub9c8\uc774\uc0ac\uc774\ud2b8 \ubc0f \uc571 \uc0dd\uc131 \ud6c4 \uad00\ub9ac\uc790\uc5d0\uac8c [\uad8c\ud55c \uc694\uccad](https://solapi.channel.io/?ref=solapi.com) \ubc14\ub78d\ub2c8\ub2e4.\n\n\ub4f1\ub85d \ubc0f \ubc30\ud3ec \ube44\uc6a9\uc740 \uc544\ub798\uc640 \uac19\uc2b5\ub2c8\ub2e4.\n\n| \uc11c\ube44\uc2a4\uba85 | \uac00\uaca9(VAT\ubcc4\ub3c4) |\n| --- | --- |\n| \ub9c8\uc774\uc0ac\uc774\ud2b8 \ub4f1\ub85d | \uc6d4 90,000\uc6d0 |\n| \uc571 \ubc30\ud3ec | \uc6d4 90,000\uc6d0 |",
+      "error": null,
+      "pricing_data": {
+        "app_id": "solapi",
+        "app_name": "SOLAPI",
+        "app_slug": "solapi",
+        "pricing_url": "https://solapi.com/tiered-pricing/",
+        "source_url": "https://solapi.com/tiered-pricing/",
+        "all_pricing_urls": [
+          "https://solapi.com/tiered-pricing/"
+        ],
+        "price_model_type": [
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "KRW",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes usage-based costs for message sending and subscription plans for API access.",
+        "pricing_tiers": [
+          {
+            "tier_name": "\ubca0\uc774\uc9c1",
+            "tier_description": "Basic plan for API usage.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "\ubc1c\uc1a1 API \ud638\ucd9c 5\ucd08\ub2f9 100\ud68c",
+              "\ubaa8\ub4e0 \uc870\ud68c API \ud638\ucd9c 5\ucd08\ub2f9 20\ud68c"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": 100,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "\ub77c\uc774\ud2b8",
+            "tier_description": "Light plan for increased API usage.",
+            "monthly_price": 30000.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "\ubc1c\uc1a1 API \ud638\ucd9c 5\ucd08\ub2f9 200\ud68c",
+              "\ubaa8\ub4e0 \uc870\ud68c API \ud638\ucd9c 5\ucd08\ub2f9 20\ud68c"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": 200,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "\ud504\ub9ac\ubbf8\uc5c4",
+            "tier_description": "Premium plan for high API usage.",
+            "monthly_price": 110000.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "\ubc1c\uc1a1 API \ud638\ucd9c 5\ucd08\ub2f9 700\ud68c",
+              "\ubaa8\ub4e0 \uc870\ud68c API \ud638\ucd9c 5\ucd08\ub2f9 20\ud68c"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": 700,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "\uc5d4\ud130\ud504\ub77c\uc774\uc988",
+            "tier_description": "Enterprise plan for bulk API calls.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "\ub300\ub7c9 \ud638\ucd9c\uc774 \ud544\uc694\ud55c \uacbd\uc6b0"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": "\ubcc4\ub3c4 \ubb38\uc758",
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "\uce74\uce74\uc624\ud1a1 \uc54c\ub9bc\ud1a1",
+            "unit": "per message",
+            "base_price": 13.0,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": 9999.0,
+                "price": 13.0
+              },
+              {
+                "min": 10000.0,
+                "max": 99999.0,
+                "price": 10.0
+              },
+              {
+                "min": 100000.0,
+                "max": 499999.0,
+                "price": 8.0
+              },
+              {
+                "min": 500000.0,
+                "max": 999999.0,
+                "price": 7.0
+              },
+              {
+                "min": 1000000.0,
+                "max": 1999999.0,
+                "price": 6.5
+              }
+            ]
+          },
+          {
+            "metric_name": "\ubb38\uc790\uba54\uc2dc\uc9c0 \ub2e8\ubb38 SMS",
+            "unit": "per message",
+            "base_price": 18.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "\ubb38\uc790\uba54\uc2dc\uc9c0 \uc7a5\ubb38 LMS",
+            "unit": "per message",
+            "base_price": 45.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "\ubb38\uc790\uba54\uc2dc\uc9c0 \uc0ac\uc9c4 MMS",
+            "unit": "per message",
+            "base_price": 110.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "\ud329\uc2a4 \ubc1c\uc1a1",
+            "unit": "per page",
+            "base_price": 100.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "\uc74c\uc131\uba54\uc2dc\uc9c0 \ubc1c\uc1a1",
+            "unit": "per minute",
+            "base_price": 150.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "\ud574\uc678 \ubb38\uc790 SMS",
+            "unit": "per message",
+            "base_price": 90.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "\ub9c8\uc774\uc0ac\uc774\ud2b8 \ub4f1\ub85d",
+            "fee_amount": 90000.0,
+            "fee_description": "Monthly fee for site registration."
+          },
+          {
+            "fee_name": "\uc571 \ubc30\ud3ec",
+            "fee_amount": 90000.0,
+            "fee_description": "Monthly fee for app deployment."
+          }
+        ],
+        "extraction_timestamp": "2025-04-14T23:27:45.077602",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\solapi\\20250414_232745"
+}

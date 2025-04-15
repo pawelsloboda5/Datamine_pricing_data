@@ -1,0 +1,128 @@
+{
+  "app_id": "brilliant_directories",
+  "app_name": "Brilliant Directories",
+  "app_slug": "brilliant-directories",
+  "pricing_url": "https://www.brilliantdirectories.com/online-directory-pricing",
+  "source_url": "https://www.brilliantdirectories.com/pricing",
+  "all_pricing_urls": [
+    "https://www.brilliantdirectories.com/online-directory-pricing",
+    "https://www.brilliantdirectories.com/brilliant-directories-enterprise-plan"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.ONE_TIME"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes options for monthly, yearly, and lifetime plans with varying features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Monthly Plan",
+      "tier_description": "Launch Your Membership Site Today",
+      "monthly_price": 145.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Premium Hosting",
+        "Friendly Email Support",
+        "100% Unbranded / White Labeled",
+        "Manage 100,000 Members",
+        "100 Instant Business Records",
+        "Over 1,000 Built-In Features",
+        "Easy Payment Processing",
+        "Unlimited Software Updates"
+      ],
+      "limits": {
+        "users": "100,000",
+        "storage": "10GB",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Yearly Plan",
+      "tier_description": "Save 45% \u2013 Averages $79 per month",
+      "monthly_price": null,
+      "annual_price": 950.0,
+      "annual_discount_percentage": 45.0,
+      "setup_fee": null,
+      "features": [
+        "Premium Hosting",
+        "Friendly Email Support",
+        "100% Unbranded / White Labeled",
+        "Manage 100,000 Members",
+        "100 Instant Business Records",
+        "Over 1,000 Built-In Features",
+        "Easy Payment Processing",
+        "Unlimited Software Updates"
+      ],
+      "limits": {
+        "users": "100,000",
+        "storage": "10GB",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Lifetime Deal Plan",
+      "tier_description": "Pay Once & Own It For Life",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 1450.0,
+      "features": [
+        "LIFETIME Hosting",
+        "LIFETIME Email Support",
+        "100% Unbranded / White Labeled",
+        "Manage 100,000 Members",
+        "1,000 Instant Business Records",
+        "Over 1,000 Built-In Features",
+        "Easy Payment Processing",
+        "Unlimited Software Updates"
+      ],
+      "limits": {
+        "users": "100,000",
+        "storage": "10GB",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:26:00.411793",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ce51e46f-eef8-4fd6-b3e3-daad7107b657",
+    "name": "Brilliant Directories",
+    "slug": "brilliant-directories",
+    "description": "Brilliant Directories is a platform to Create Membership & Directory Websites",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/966a10fcf5026c1112c172e15f6d8abc.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 13,
+    "trigger_count": 9
+  }
+}

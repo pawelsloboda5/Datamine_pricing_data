@@ -1,0 +1,124 @@
+{
+  "app_id": "flodesk",
+  "app_name": "Flodesk",
+  "app_slug": "flodesk",
+  "pricing_url": null,
+  "source_url": "https://flodesk.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Flodesk offers flat-rate pricing with unlimited usage for subscribers and features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free forever plan with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email",
+        "Email & Checkout"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Email Marketing",
+      "tier_description": "Flat-rate plan for email marketing.",
+      "monthly_price": 35.0,
+      "annual_price": 420.0,
+      "annual_discount_percentage": 8.33,
+      "setup_fee": null,
+      "features": [
+        "Unlimited emails",
+        "Custom layouts",
+        "Personalization fields",
+        "Workflow automations",
+        "Resend to unopens",
+        "Send time optimizer",
+        "Email scheduler",
+        "API access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "E-commerce",
+      "tier_description": "Flat-rate plan for e-commerce tools.",
+      "monthly_price": 24.0,
+      "annual_price": 288.0,
+      "annual_discount_percentage": 8.33,
+      "setup_fee": null,
+      "features": [
+        "Unlimited sales pages",
+        "Payment processing",
+        "Checkout flows",
+        "Upsells + bonus offers",
+        "Discount codes",
+        "Online payments",
+        "Instant deliveries"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Stripe Processing Fee",
+      "fee_amount": null,
+      "fee_description": "Standard Stripe processing fee applies for payment processing."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:57:08.811550",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1b5c9b5b-1edb-4344-bc1b-977aab10703b",
+    "name": "Flodesk",
+    "slug": "flodesk",
+    "description": "Beginners and experts use Flodesk to create stunning emails that grow their business. Meet the most intuitive way to send emails and build workflows that convert.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/89ce6d064f43238b011b5559a3ad6d4c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 2
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "app_id": "gravity_forms",
+  "app_name": "Gravity Forms",
+  "app_slug": "gravity-forms",
+  "pricing_url": "https://www.gravityforms.com/pricing/",
+  "source_url": "https://www.gravityforms.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.gravityforms.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Gravity Forms does not offer a free trial or free tier but provides extensive documentation and a demo for evaluation.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic License",
+      "tier_description": "Includes essential features for one site.",
+      "monthly_price": null,
+      "annual_price": 59.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 Site",
+        "Standard Support",
+        "HubSpot Add-On",
+        "Mailchimp Add-On",
+        "Active Campaign Add-On",
+        "Campaign Monitor Add-On"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro License",
+      "tier_description": "Includes advanced features for up to three sites.",
+      "monthly_price": null,
+      "annual_price": 159.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "3 Sites",
+        "Standard Support",
+        "Stripe Add-On",
+        "Dropbox Add-On",
+        "Square Add-On",
+        "Zapier Add-On",
+        "Trello Add-On",
+        "PayPal Add-On"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Elite License",
+      "tier_description": "Includes premium features for unlimited sites.",
+      "monthly_price": null,
+      "annual_price": 259.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Sites",
+        "Priority Support",
+        "WordPress Multisite",
+        "User Registration Add-On",
+        "Conversational Forms",
+        "Coupons Add-On",
+        "Partial Entries Add-On",
+        "Polls Add-On",
+        "Signature Add-On",
+        "Survey Add-On"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:23:11.446857",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "16e64d04-e8bd-4345-861d-422e21f9facc",
+    "name": "Gravity Forms",
+    "slug": "gravity-forms",
+    "description": "Gravity Forms is a premier WordPress plugin that makes it easy to create powerful forms on the fly.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/3d15efa7393283182b8539dbb4cfc720.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys",
+      "WordPress"
+    ],
+    "category_slugs": [
+      "forms",
+      "wordpress"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

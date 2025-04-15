@@ -1,0 +1,43 @@
+{
+  "app_id": "referral_rock",
+  "app_name": "Referral Rock",
+  "app_slug": "referral-rock",
+  "pricing_url": null,
+  "source_url": "https://referral-rock.com/pricing/",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The provided content does not contain any pricing information for Referral Rock.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:36:11.079992",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "0dbf1c5c-6f12-4fa5-9f14-83842ce67dee",
+    "name": "Referral Rock",
+    "slug": "referral-rock",
+    "description": "Referral Rock helps businesses to design, track and manage referral programs.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/eb0fb99f4cf744a66635708b0a23e40f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 4
+  }
+}

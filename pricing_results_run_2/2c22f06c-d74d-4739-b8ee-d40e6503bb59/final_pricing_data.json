@@ -1,0 +1,108 @@
+{
+  "app_id": "clay",
+  "app_name": "Clay",
+  "app_slug": "clay",
+  "pricing_url": "https://www.clay.com/pricing",
+  "source_url": "https://www.clay.com/pricing",
+  "all_pricing_urls": [
+    "https://www.clay.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Credits roll over up to 2x for monthly plans; annual plans provide all credits upfront.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": null,
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "100 credits/month",
+        "Unlimited users",
+        "Up to 100/search",
+        "Exporting",
+        "AI / Claygent",
+        "Rollover credits"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "credits",
+            "value": "100/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": null,
+      "monthly_price": 149.0,
+      "annual_price": null,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "2000 credits/month",
+        "Unlimited users",
+        "Enhanced search capabilities",
+        "Exporting",
+        "AI / Claygent",
+        "Rollover credits"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "credits",
+            "value": "2000/month"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:33:01.086912",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "2c22f06c-d74d-4739-b8ee-d40e6503bb59",
+    "name": "Clay",
+    "slug": "clay",
+    "description": "Clay is a simple spreadsheet interface, yet powerful automation platform that allows you to build internal tooling and automations to streamline your marketing, sales, and recruiting.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/4c637763114b939554ce93b81a779590_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Spreadsheets"
+    ],
+    "category_slugs": [
+      "spreadsheets"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 4,
+    "trigger_count": 0
+  }
+}

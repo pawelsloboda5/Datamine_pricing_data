@@ -1,0 +1,76 @@
+{
+  "app_id": "myRealPage",
+  "app_name": "myRealPage",
+  "app_slug": "myrealpage",
+  "pricing_url": null,
+  "source_url": "https://www.myrealpage.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes taxes and board fees for certain boards.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Single agent website, listings for WordPress or a broker website.",
+      "monthly_price": 59.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Simple Website Builder",
+        "MLS\u00ae Listings Search & IDX",
+        "Social Media + Print Media",
+        "Lead Capture Tools",
+        "Search Engine Optimization",
+        "Broker Suite"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Taxes and board fees",
+      "fee_amount": null,
+      "fee_description": "Applicable for certain boards."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:00:30.068109",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6330e4a9-ca16-4c87-b910-7f2de045befe",
+    "name": "myRealPage",
+    "slug": "myrealpage",
+    "description": "myRealPage offers website solutions for agents, teams & brokers seeking superior online marketing.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ec85e8a1b2461471676cf2c2f3b29bda.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

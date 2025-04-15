@@ -1,0 +1,19 @@
+{
+  "app_name": "Jotform Enterprise",
+  "app_slug": "jotform-enterprise",
+  "search_term": "Find the official pricing page URL for Jotform Enterprise (jotform-enterprise.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688680.1063766,
+  "response_text": [
+    "The official pricing page for Jotform Enterprise is: [https://www.jotform.com/enterprise/pricing/](https://www.jotform.com/enterprise/pricing/) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.jotform.com/enterprise/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\jotform-enterprise\\20250414_234455"
+}

@@ -1,0 +1,45 @@
+{
+  "app_id": "lassocrm",
+  "app_name": "LassoCRM",
+  "app_slug": "lassocrm",
+  "pricing_url": null,
+  "source_url": "https://www.lassocrm.com",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "custom"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "No specific pricing information is publicly available on the provided content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:35:28.641339",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5d81827a-56d5-4e7c-9a26-3e39155cd42d",
+    "name": "LassoCRM",
+    "slug": "lassocrm",
+    "description": "LassoCRM is a CRM that empowers home selling teams by taking the guess work out of reporting, sales and the marketing process.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/01e74e15cbdc21f0a1823d7b2e2c3c6c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "app_name": "LinkedIn",
+  "app_slug": "linkedin",
+  "search_term": "Find the official pricing page URL for LinkedIn (linkedin.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725005.7188678,
+  "response_text": [
+    "The official URL for LinkedIn's premium subscription and pricing page is: [https://premium.linkedin.com](https://premium.linkedin.com)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Advance Your Career or Small Business | LinkedIn Premium",
+      "url": "https://premium.linkedin.com/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://premium.linkedin.com/",
+      "is_accessible": true,
+      "content": "![Image 1: Image of two professionals collaborating](https://content.linkedin.com/content/dam/me/business/en-us/amp/premium/homepage/premium-homepage-page-hero-bg-dsk-v05.png/jcr:content/renditions/premium-homepage-page-hero-bg-alt-tab-port-v05.png)\n\nProducts personalized for you\n-----------------------------\n\nPremium products help you\n-------------------------\n\n1.  ### Showcase your credibility\n    \n    **Enhance your profile**\n    \n    Get personalized profile suggestions from our Premium writing assistant feature to stand out from other applicants or businesses.\u00b9\n    \n    \u00b9\u00a0Feature only available in select languages.\n    \n2.  ### Find & message the right people\n    \n    **Engage your profile viewers**\n    \n    See and connect with your profile viewers. Premium subscribers get 11x more profile views on average.\u00b2\n    \n    \u00b2\u00a0LinkedIn data (Feb. 2024).\n    \n3.  ### Gain exclusive insights\n    \n    **Access company insights**\n    \n    Land the customer or job you want with strategy, competitor, and hiring/headcount insights from 350K+ companies.\u00b3\n    \n    \u00b3\u00a0LinkedIn data (2024). Feature only in English.\n    \n\nHear from Premium subscribers\u00a0\n------------------------------\n\n1.  \u201cPremium afforded me a wealth of information, connections and insights, to enter a new stage of my professional career. With Premium\u2019s tips, my enhanced profile attracted attention from top CEOs and MDs, and InMail allowed me to reach out to new connections. Without LinkedIn Premium I wouldn\u2019t have been able to grow, innovate, progress, and enrich my life in so many ways.\u201d\n    \n    **Ben Forbes,** Senior Project Manager  \n    Premium Career subscriber\n    \n2.  \"Premium has been instrumental in the growth of my business. Features like InMail and Unlimited Browsing have led to meaningful partnerships and client engagements as well as helped me better understand and engage with my target audience. Through Premium, I have been able to position my business as a thought leader in the leadership development space.\"\n    \n    **Brittany N. Cole,** CEO  \n    Premium Business subscriber\n    \n3.  \u201cPremium has allowed me to increase my followers to 12,000, land 2 different jobs, make hundreds of connections, and discover tons of opportunities. The custom button feature is specifically a value add for me in spreading my company to a wider audience, reaching new customers, and building long-lasting partnerships.\u201d\n    \n    **Vugar Rustamli,** Project Consultant & Coach  \n    Premium Business subscriber\n    \n\nFrequently asked questions\n\nFAQs\n\n### **What is LinkedIn Premium?**\n\nLinkedIn Premium subscriptions offer enhanced features tailored for job seekers and small businesses looking for a smarter way to advance their career or grow their business. LinkedIn Premium products include [Premium Career](https://premium.linkedin.com/career-features), [Premium Business](https://premium.linkedin.com/business-features), and [Premium Company Page](https://premium.linkedin.com/company-page).\n\n### **What do LinkedIn Premium products do?**\n\nLinkedIn Premium products help [job seekers](https://premium.linkedin.com/career-features) and [small businesses](https://premium.linkedin.com/business-features) showcase credibility, find and message the right people, and gain an advantage with exclusive insights.\n\n### **What is the difference between LinkedIn basic (free) and Premium?**\n\nLinkedIn basic (free) helps users engage with their network. LinkedIn Premium products are tailored for [job seekers](https://premium.linkedin.com/career-features) or [small businesses](https://premium.linkedin.com/business-features) who need enhanced features (e.g., company or applicant insights, who's viewed your profile, profile or resume writing assistant) to expand their connections, and confidently find a job or grow their small business.\n\n### **How do I manage my Premium account?**  \n\nYou can access the My Premium page on the [LinkedIn desktop site or mobile app here](https://www.linkedin.com/help/linkedin/answer/a1355837/?src=direct%2Fnone&trk=premium-microsite-homepage-FAQ) to view all Premium features and manage your LinkedIn Premium subscription. On the My Premium page, you can view the status of your subscription, InMail Message credits, see Premium insights, and other Premium profile settings.\n\n### **Can I try LinkedIn Premium for free?**\n\n[Eligible LinkedIn members](https://www.linkedin.com/help/linkedin/answer/a1355837/?src=re-other&veh=statics.teams.cdn.office.net%7Cre-other&trk=premium-creators_creator-name-TBD)\u00a0can try LinkedIn Premium for free. If you're currently using, or have already used a free premium trial, you won't be eligible to try any other premium plan for free for at least the next 12 months. [Start your free trial today](https://www.linkedin.com/premium/switcher/?trk=pre_hub_b_upgrade&utype=job_marketing&src=direct%2Fnone).\n\n![Image 2](https://content.linkedin.com/content/dam/me/business/en-us/amp/premium/homepage/premium-homepage-page-hero-bg-alt-tab-port-v05.png/jcr:content/renditions/premium-homepage-footer-bg-dsk-v05.png)\n\nLinkedIn Premium subscriptions offer enhanced features tailored for job seekers and small businesses looking to advance their career or grow their business.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "linkedin",
+        "app_name": "LinkedIn",
+        "app_slug": "linkedin",
+        "pricing_url": "https://www.linkedin.com/premium/switcher",
+        "source_url": "https://www.linkedin.com/premium/switcher",
+        "all_pricing_urls": [
+          "https://www.linkedin.com/premium/switcher"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "LinkedIn Premium offers multiple subscription tiers tailored for job seekers and businesses, with a free trial available for eligible users.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Premium Career",
+            "tier_description": "Tailored for job seekers to enhance their profile and connect with potential employers.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Enhanced profile suggestions",
+              "See and connect with profile viewers",
+              "Exclusive company insights"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Premium Business",
+            "tier_description": "Designed for small businesses to grow their network and gain insights.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited browsing",
+              "InMail messaging",
+              "Custom button feature"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Premium Company Page",
+            "tier_description": "For companies to showcase their brand and engage with their audience.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Enhanced company insights",
+              "Competitor analysis",
+              "Hiring/headcount insights"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:50:12.877924",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://premium.linkedin.com",
+      "is_accessible": true,
+      "content": "![Image 1: Image of two professionals collaborating](https://content.linkedin.com/content/dam/me/business/en-us/amp/premium/homepage/premium-homepage-page-hero-bg-dsk-v05.png/jcr:content/renditions/premium-homepage-page-hero-bg-alt-tab-port-v05.png)\n\nProducts personalized for you\n-----------------------------\n\nPremium products help you\n-------------------------\n\n1.  ### Showcase your credibility\n    \n    **Enhance your profile**\n    \n    Get personalized profile suggestions from our Premium writing assistant feature to stand out from other applicants or businesses.\u00b9\n    \n    \u00b9\u00a0Feature only available in select languages.\n    \n2.  ### Find & message the right people\n    \n    **Engage your profile viewers**\n    \n    See and connect with your profile viewers. Premium subscribers get 11x more profile views on average.\u00b2\n    \n    \u00b2\u00a0LinkedIn data (Feb. 2024).\n    \n3.  ### Gain exclusive insights\n    \n    **Access company insights**\n    \n    Land the customer or job you want with strategy, competitor, and hiring/headcount insights from 350K+ companies.\u00b3\n    \n    \u00b3\u00a0LinkedIn data (2024). Feature only in English.\n    \n\nHear from Premium subscribers\u00a0\n------------------------------\n\n1.  \u201cPremium afforded me a wealth of information, connections and insights, to enter a new stage of my professional career. With Premium\u2019s tips, my enhanced profile attracted attention from top CEOs and MDs, and InMail allowed me to reach out to new connections. Without LinkedIn Premium I wouldn\u2019t have been able to grow, innovate, progress, and enrich my life in so many ways.\u201d\n    \n    **Ben Forbes,** Senior Project Manager  \n    Premium Career subscriber\n    \n2.  \"Premium has been instrumental in the growth of my business. Features like InMail and Unlimited Browsing have led to meaningful partnerships and client engagements as well as helped me better understand and engage with my target audience. Through Premium, I have been able to position my business as a thought leader in the leadership development space.\"\n    \n    **Brittany N. Cole,** CEO  \n    Premium Business subscriber\n    \n3.  \u201cPremium has allowed me to increase my followers to 12,000, land 2 different jobs, make hundreds of connections, and discover tons of opportunities. The custom button feature is specifically a value add for me in spreading my company to a wider audience, reaching new customers, and building long-lasting partnerships.\u201d\n    \n    **Vugar Rustamli,** Project Consultant & Coach  \n    Premium Business subscriber\n    \n\nFrequently asked questions\n\nFAQs\n\n### **What is LinkedIn Premium?**\n\nLinkedIn Premium subscriptions offer enhanced features tailored for job seekers and small businesses looking for a smarter way to advance their career or grow their business. LinkedIn Premium products include [Premium Career](https://premium.linkedin.com/career-features), [Premium Business](https://premium.linkedin.com/business-features), and [Premium Company Page](https://premium.linkedin.com/company-page).\n\n### **What do LinkedIn Premium products do?**\n\nLinkedIn Premium products help [job seekers](https://premium.linkedin.com/career-features) and [small businesses](https://premium.linkedin.com/business-features) showcase credibility, find and message the right people, and gain an advantage with exclusive insights.\n\n### **What is the difference between LinkedIn basic (free) and Premium?**\n\nLinkedIn basic (free) helps users engage with their network. LinkedIn Premium products are tailored for [job seekers](https://premium.linkedin.com/career-features) or [small businesses](https://premium.linkedin.com/business-features) who need enhanced features (e.g., company or applicant insights, who's viewed your profile, profile or resume writing assistant) to expand their connections, and confidently find a job or grow their small business.\n\n### **How do I manage my Premium account?**  \n\nYou can access the My Premium page on the [LinkedIn desktop site or mobile app here](https://www.linkedin.com/help/linkedin/answer/a1355837/?src=direct%2Fnone&trk=premium-microsite-homepage-FAQ) to view all Premium features and manage your LinkedIn Premium subscription. On the My Premium page, you can view the status of your subscription, InMail Message credits, see Premium insights, and other Premium profile settings.\n\n### **Can I try LinkedIn Premium for free?**\n\n[Eligible LinkedIn members](https://www.linkedin.com/help/linkedin/answer/a1355837/?src=re-other&veh=statics.teams.cdn.office.net%7Cre-other&trk=premium-creators_creator-name-TBD)\u00a0can try LinkedIn Premium for free. If you're currently using, or have already used a free premium trial, you won't be eligible to try any other premium plan for free for at least the next 12 months. [Start your free trial today](https://www.linkedin.com/premium/switcher/?trk=pre_hub_b_upgrade&utype=job_marketing&src=direct%2Fnone).\n\n![Image 2](https://content.linkedin.com/content/dam/me/business/en-us/amp/premium/homepage/premium-homepage-page-hero-bg-alt-tab-port-v05.png/jcr:content/renditions/premium-homepage-footer-bg-dsk-v05.png)\n\nLinkedIn Premium subscriptions offer enhanced features tailored for job seekers and small businesses looking to advance their career or grow their business.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "linkedin",
+        "app_name": "LinkedIn",
+        "app_slug": "linkedin",
+        "pricing_url": "https://www.linkedin.com/premium/switcher",
+        "source_url": "https://www.linkedin.com/premium/switcher",
+        "all_pricing_urls": [
+          "https://www.linkedin.com/premium/switcher"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "LinkedIn Premium offers multiple subscription tiers tailored for job seekers and businesses, with a free trial available for eligible users.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Premium Career",
+            "tier_description": "Tailored for job seekers to enhance their profile and connect with potential employers.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Enhanced profile suggestions",
+              "See and connect with profile viewers",
+              "Exclusive company insights"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Premium Business",
+            "tier_description": "Designed for small businesses to grow their network and gain insights.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited browsing",
+              "InMail messaging",
+              "Custom button feature"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Premium Company Page",
+            "tier_description": "For companies to showcase their brand and engage with their audience.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Enhanced company insights",
+              "Competitor analysis",
+              "Hiring/headcount insights"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:50:18.498070",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\linkedin\\20250415_095018"
+}

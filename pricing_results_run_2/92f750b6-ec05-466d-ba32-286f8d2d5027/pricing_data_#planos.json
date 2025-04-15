@@ -1,0 +1,48 @@
+{
+  "app_id": "clicksign",
+  "app_name": "Clicksign",
+  "app_slug": "clicksign",
+  "pricing_url": "https://www.clicksign.com/",
+  "source_url": "https://www.clicksign.com/#planos",
+  "all_pricing_urls": [
+    "https://www.clicksign.com/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "BRL",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The platform offers a free trial and a free tier, but specific pricing details for paid plans are not provided in the content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:40:13.022293",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "92f750b6-ec05-466d-ba32-286f8d2d5027",
+    "name": "Clicksign",
+    "slug": "clicksign",
+    "description": "Clicksign is an electronic document signing platform that meets the requirements of integrity, authenticity and non-repudiation of Brazilian legislation.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/15496a033d8b847593e09741d70269f9.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Proposal & Invoice Management"
+    ],
+    "category_slugs": [
+      "invoices"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 19,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "app_name": "Daylite",
+  "app_slug": "daylite",
+  "search_term": "Find the official pricing page URL for Daylite (daylite.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744689925.7444537,
+  "response_text": [
+    "I couldn't locate the official pricing page for Daylite software on its website (daylite.com). You might want to check directly on their site or request additional help."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\daylite\\20250415_000525"
+}

@@ -1,0 +1,123 @@
+{
+  "app_id": "goto_connect",
+  "app_name": "GoTo Connect",
+  "app_slug": "goto-connect",
+  "pricing_url": "https://www.goto.com/connect/pricing",
+  "source_url": "https://www.goto.com/connect/pricing",
+  "all_pricing_urls": [
+    "https://www.goto.com/connect/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Detailed feature comparison available on the pricing page.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Phone System",
+      "tier_description": "Smart business phone system with advanced telephony and messaging.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free calls to 50 countries",
+        "Unlimited auto attendants, dial plans, call routing and queues",
+        "Video meetings up to 250 participants",
+        "Teams chat, SMS and MMS",
+        "AI GoPilot, SSO, multi-site admin and device management",
+        "Mobile and desktop app",
+        "24/7 support with 99.999% reliability",
+        "MS Teams integration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Connect CX",
+      "tier_description": "Customer experience platform with CX tools and digital channels.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Phone System",
+        "Whatsapp, Facebook, Instagram, SMS campaigns, web chat and surveys",
+        "Shared inbox centralizing multi channel communications",
+        "Enhanced reporting and analytics",
+        "Attendant console",
+        "Advanced integrations with ServiceNow, Zendesk"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Contact Center",
+      "tier_description": "AI-powered contact center solution.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in CX",
+        "AI chat analysis, supervisor analytics, real time and historical reports",
+        "Agent dashboard and softphone",
+        "Skills assignment, tag and priority management",
+        "Call wrap up, auto queue callback and auto dialer",
+        "Monitor and coach agents, co-browsing, call dispositions",
+        "Intelligent call routing, ring strategy and custom ringback music"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:03:16.207466",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b4067966-e1ad-4d83-aac0-6bc66817d337",
+    "name": "GoTo Connect",
+    "slug": "go-to-connect",
+    "description": "GoTo Connect is a fully integrated business communications solution, with calls, meetings and messaging unified on one platform.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/136685379ba6a5b14c1f2a074caa5641.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Communication"
+    ],
+    "category_slugs": [
+      "communication"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 5
+  }
+}

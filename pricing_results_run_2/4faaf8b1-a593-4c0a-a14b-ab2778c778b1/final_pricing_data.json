@@ -1,0 +1,242 @@
+{
+  "app_id": "learndash",
+  "app_name": "LearnDash",
+  "app_slug": "learndash",
+  "pricing_url": "https://www.learndash.com/pricing-and-purchase/",
+  "source_url": "https://www.learndash.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.learndash.com/pricing-and-purchase/",
+    "https://www.learndash.com/learndash-cloud/#which-plan"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes options for both plugin and cloud-based solutions, with annual and monthly billing available.",
+  "pricing_tiers": [
+    {
+      "tier_name": "LearnDash LMS Plugin - 1 Site",
+      "tier_description": "Ready to install on WordPress. Create and sell dynamic courses.",
+      "monthly_price": null,
+      "annual_price": 199.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Drag & drop course builder",
+        "AI course outline and quiz builder",
+        "Easy assignment management",
+        "Team collaboration tools",
+        "Sell course subscriptions, memberships, bundles, and one-time purchases",
+        "Onboarding wizard",
+        "Shared course steps",
+        "Video progression",
+        "Focus Mode for learners",
+        "Course dashboard",
+        "PayPal and Stripe integration",
+        "Add-on marketplace"
+      ],
+      "limits": {
+        "users": "1 site",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "LearnDash LMS Plugin - 10 Sites",
+      "tier_description": "Ready to install on WordPress. Create and sell dynamic courses.",
+      "monthly_price": null,
+      "annual_price": 399.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Drag & drop course builder",
+        "AI course outline and quiz builder",
+        "Easy assignment management",
+        "Team collaboration tools",
+        "Sell course subscriptions, memberships, bundles, and one-time purchases",
+        "Onboarding wizard",
+        "Shared course steps",
+        "Video progression",
+        "Focus Mode for learners",
+        "Course dashboard",
+        "PayPal and Stripe integration",
+        "Add-on marketplace"
+      ],
+      "limits": {
+        "users": "10 sites",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "LearnDash LMS Plugin - Unlimited Sites",
+      "tier_description": "Ready to install on WordPress. Create and sell dynamic courses.",
+      "monthly_price": null,
+      "annual_price": 799.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Drag & drop course builder",
+        "AI course outline and quiz builder",
+        "Easy assignment management",
+        "Team collaboration tools",
+        "Sell course subscriptions, memberships, bundles, and one-time purchases",
+        "Onboarding wizard",
+        "Shared course steps",
+        "Video progression",
+        "Focus Mode for learners",
+        "Course dashboard",
+        "PayPal and Stripe integration",
+        "Add-on marketplace"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "LearnDash Cloud - Starter",
+      "tier_description": "Launch a hosted course website on WordPress.",
+      "monthly_price": 29.0,
+      "annual_price": 299.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "All the features of LearnDash LMS for WordPress",
+        "Unlimited courses",
+        "Stripe integration for easy payments",
+        "ProPanel analytics and reporting",
+        "Dozens of starter templates",
+        "Dedicated support",
+        "Automatic updates",
+        "Website hosting",
+        "WordPress CMS",
+        "LearnDash LMS",
+        "Customizable starter templates",
+        "Solid Security Pro ($99/year value)",
+        "Object Cache Pro ($950/year value)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "LearnDash Cloud - Growth",
+      "tier_description": "Launch a hosted course website on WordPress.",
+      "monthly_price": 49.0,
+      "annual_price": 499.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "All the features of LearnDash LMS for WordPress",
+        "Unlimited courses",
+        "Stripe integration for easy payments",
+        "ProPanel analytics and reporting",
+        "Dozens of starter templates",
+        "Dedicated support",
+        "Automatic updates",
+        "Website hosting",
+        "WordPress CMS",
+        "LearnDash LMS",
+        "Customizable starter templates",
+        "Solid Security Pro ($99/year value)",
+        "Object Cache Pro ($950/year value)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "LearnDash Cloud - Pro",
+      "tier_description": "Launch a hosted course website on WordPress.",
+      "monthly_price": 99.0,
+      "annual_price": 999.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "All the features of LearnDash LMS for WordPress",
+        "Unlimited courses",
+        "Stripe integration for easy payments",
+        "ProPanel analytics and reporting",
+        "Dozens of starter templates",
+        "Dedicated support",
+        "Automatic updates",
+        "Website hosting",
+        "WordPress CMS",
+        "LearnDash LMS",
+        "Customizable starter templates",
+        "Solid Security Pro ($99/year value)",
+        "Object Cache Pro ($950/year value)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Starter Plan Promotion",
+      "offer_description": "First 3 months at $15/month, then $29/month.",
+      "discount_percentage": 42.0,
+      "offer_url": "https://checkout.learndash.com/?add-to-cart=837040&coupon_code=3CLOUD415BF24&_ics=1732558629072&irclickid=~70QHEGEKOEDCDHAxwxEKBrsxACwxzskigahef7851ZYPLJEzqjg9",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:21:51.492499",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4faaf8b1-a593-4c0a-a14b-ab2778c778b1",
+    "name": "LearnDash",
+    "slug": "learndash",
+    "description": "LearnDash is a learning management system plugin built for WordPress.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/cb0c0814c88304ee717aecf4cd5d33cb.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses",
+      "WordPress"
+    ],
+    "category_slugs": [
+      "it-operations-education",
+      "wordpress"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 7
+  }
+}

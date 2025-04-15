@@ -1,0 +1,119 @@
+{
+  "app_id": "okta",
+  "app_name": "Okta",
+  "app_slug": "okta",
+  "pricing_url": "https://www.okta.com/pricing/",
+  "source_url": "https://www.okta.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.okta.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "All suites require an annual contract with a minimum of $1,500.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Starting your Identity journey? Put a strong foundation in place.",
+      "monthly_price": 6.0,
+      "annual_price": 72.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Universal Directory",
+        "Workflows (5 flows)",
+        "Single Sign-On",
+        "Multi-Factor Authentication"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Want to keep Identity at pace with business growth? Get more must-haves.",
+      "monthly_price": 17.0,
+      "annual_price": 204.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Starter",
+        "Workflows (50 flows)",
+        "Adaptive MFA",
+        "Lifecycle Management",
+        "Access Governance",
+        "Privileged Access"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Looking to scale? Add device access and AI-powered intelligence.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Essentials",
+        "Workflows (Unlimited flows)",
+        "Device Access",
+        "Identity Threat Protection with Okta AI",
+        "Identity Security Posture Management",
+        "Sandbox"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Need end-to-end security? Leverage real-time detection and response.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Professional",
+        "API Access Management",
+        "Access Gateway",
+        "Machine-to-Machine Tokens"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Annual Contract Minimum",
+      "fee_amount": 1500.0,
+      "fee_description": "Minimum annual contract required for all suites."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:59:14.120723",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "17533aee-ed0f-4b17-8c76-8d1236970cac",
+    "name": "Okta",
+    "slug": "okta",
+    "description": "Okta helps companies manage and secure user authentication into modern applications, and for developers to build identity controls into applications, website web services and into devices.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/624385542d6319d31c82fe195b5b62a9.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Security & Identity Tools"
+    ],
+    "category_slugs": [
+      "security-identity"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 6,
+    "trigger_count": 0
+  }
+}

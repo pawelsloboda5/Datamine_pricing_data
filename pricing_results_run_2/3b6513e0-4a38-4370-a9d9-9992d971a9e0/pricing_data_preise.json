@@ -1,0 +1,43 @@
+{
+  "app_id": "fastbill",
+  "app_name": "FastBill",
+  "app_slug": "fastbill",
+  "pricing_url": null,
+  "source_url": "https://www.fastbill.com/preise",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The provided content does not include specific pricing details for FastBill.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T10:13:44.889411",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "3b6513e0-4a38-4370-a9d9-9992d971a9e0",
+    "name": "fastbill",
+    "slug": "fastbill",
+    "description": "FastBill is a cloud app for German invoicing & accounting. Writing offers and invoices, paying your bills or preparing your tax return is easier than ever with FastBill.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/581b4f15f3e7d659670b357a0627591e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 3
+  }
+}

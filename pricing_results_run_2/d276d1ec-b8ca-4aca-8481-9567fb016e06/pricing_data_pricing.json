@@ -1,0 +1,106 @@
+{
+  "app_id": "nocrm_io",
+  "app_name": "noCRM.io",
+  "app_slug": "nocrm-io",
+  "pricing_url": "https://www.nocrm.io/pricing",
+  "source_url": "https://www.nocrm.io/pricing",
+  "all_pricing_urls": [
+    "https://www.nocrm.io/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 15,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Prices are VAT exclusive. EU customers without a valid VAT number and customers based in France will have a 20% VAT added.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Sales Essentials",
+      "tier_description": "Manage every step of your sales pipeline, from first contact to quoting and closing the deal.",
+      "monthly_price": 27.0,
+      "annual_price": 23.0,
+      "annual_discount_percentage": 14.81,
+      "setup_fee": null,
+      "features": [
+        "Effortless Lead Creation and Management",
+        "Advanced Pipeline Optimization",
+        "Sales Workflow Management",
+        "Professional Quotes & Invoicing",
+        "Track Performance Metrics",
+        "Advanced Integrations",
+        "Boost Outbound Activities",
+        "Improve Post-Sales Processes",
+        "Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": 2000,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Dream Team",
+      "tier_description": "Manage your team and empower them with seamless email and phone integrations to boost revenue.",
+      "monthly_price": 43.0,
+      "annual_price": 36.0,
+      "annual_discount_percentage": 16.28,
+      "setup_fee": null,
+      "features": [
+        "Everything in Sales Essentials",
+        "Team management",
+        "Advanced email management",
+        "WhatsApp integration",
+        "Advanced privacy & security settings",
+        "API and advanced integrations",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "custom quotas",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "VAT",
+      "fee_amount": 20.0,
+      "fee_description": "Applicable for EU customers without a valid VAT number and customers based in France."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:18:55.634005",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d276d1ec-b8ca-4aca-8481-9567fb016e06",
+    "name": "noCRM.io",
+    "slug": "nocrm-io",
+    "description": "noCRM.io helps you to track and close deals without wasting time filling out forms. Boost productivity and manage your sales cycle from end-to-end",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/5129d9a376274c895abdc4904ec38a72_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 16,
+    "trigger_count": 12
+  }
+}

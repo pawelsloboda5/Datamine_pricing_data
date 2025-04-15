@@ -1,0 +1,12 @@
+{
+  "app_name": "Chatter",
+  "app_slug": "chatter",
+  "search_term": "Find the official pricing page URL for Chatter (chatter.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725666.984384,
+  "response_text": [
+    "I couldn't locate a pricing page URL specifically for Chatter.com. If you need assistance with pricing details or further research, feel free to ask!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\chatter\\20250415_100107"
+}

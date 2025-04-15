@@ -1,0 +1,12 @@
+{
+  "app_name": "Wave",
+  "app_slug": "wave",
+  "search_term": "Find the official pricing page URL for Wave (wave.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725658.6104941,
+  "response_text": [
+    "I couldn't locate the specific pricing page for Wave on their website. You might need to navigate their site or contact their team for details. Let me know if you need further help!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\wave\\20250415_100058"
+}

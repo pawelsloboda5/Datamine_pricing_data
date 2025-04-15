@@ -1,0 +1,201 @@
+{
+  "app_id": "sendgrid",
+  "app_name": "SendGrid",
+  "app_slug": "sendgrid",
+  "pricing_url": "https://www.sendgrid.com/en-us/pricing",
+  "source_url": "https://www.sendgrid.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.sendgrid.com/en-us/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 60,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on email volume and features. Custom pricing is available for high-volume senders.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Trial",
+      "tier_description": "$0/mo for 60 days",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "SMTP and API",
+        "Comprehensive Client Libraries",
+        "Setup Guide",
+        "Interactive API Docs",
+        "Knowledge Center"
+      ],
+      "limits": {
+        "users": "1",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Emails per month",
+            "value": "3,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Essentials",
+      "tier_description": "starting at $19.95/mo",
+      "monthly_price": 19.95,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "SMTP and API",
+        "Comprehensive Client Libraries",
+        "Setup Guide",
+        "Interactive API Docs",
+        "Knowledge Center"
+      ],
+      "limits": {
+        "users": "1",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Emails per month",
+            "value": "50,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "starting at $89.95/mo",
+      "monthly_price": 89.95,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "SMTP and API",
+        "Comprehensive Client Libraries",
+        "Setup Guide",
+        "Interactive API Docs",
+        "Knowledge Center",
+        "Dedicated IPs included"
+      ],
+      "limits": {
+        "users": "1",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Emails per month",
+            "value": "100,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premier",
+      "tier_description": "custom pricing",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "SMTP and API",
+        "Comprehensive Client Libraries",
+        "Setup Guide",
+        "Interactive API Docs",
+        "Knowledge Center",
+        "Dedicated IPs included",
+        "Subuser management",
+        "Single sign-on (SSO)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Emails per month",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Email volume",
+      "unit": "emails",
+      "base_price": 0.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 3000.0,
+          "price": 0.0
+        },
+        {
+          "min": 3001.0,
+          "max": 50000.0,
+          "price": 19.95
+        },
+        {
+          "min": 50001.0,
+          "max": 100000.0,
+          "price": 89.95
+        },
+        {
+          "min": 100001.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Overage fees",
+      "fee_amount": null,
+      "fee_description": "Taxes and overages may apply for exceeding limits."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:49:35.122665",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0efa6b0f-ddc2-483a-82a2-bff7af7a0c5c",
+    "name": "SendGrid",
+    "slug": "sendgrid",
+    "description": "SendGrid's cloud-based email infrastructure relieves businesses of the cost and complexity of maintaining custom email systems",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/a37a5b5ab495b5531dd406d40baa8a5c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Transactional Email"
+    ],
+    "category_slugs": [
+      "transactional-email"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

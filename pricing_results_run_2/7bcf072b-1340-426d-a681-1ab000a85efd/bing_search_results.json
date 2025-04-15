@@ -1,0 +1,85 @@
+{
+  "app_name": "Pinboard",
+  "app_slug": "pinboard",
+  "search_term": "Find the official pricing page URL for Pinboard (pinboard.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744726007.9395247,
+  "response_text": [
+    "I couldn't locate the exact URL for Pinboard's official pricing page from the search. You might want to directly explore their site at [Pinboard](https://pinboard.in/) or their blog for updated details. Let me know if you'd like me to assist further!"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://pinboard.in/",
+      "is_accessible": true,
+      "content": "Welcome to Pinboard\u2014Social bookmarking for introverts!\n===============          \n\n [![Image 1](https://pinboard.in/blue-pin.png)](https://pinboard.in/recent)[Pinboard](https://pinboard.in/) [\ud83c\udf81](https://pinboard.in/gift)\n\n[recent](https://pinboard.in/recent/) \u2027 [popular](https://pinboard.in/popular/) \u2027 [tour](https://pinboard.in/tour/) \u2027 [howto](https://pinboard.in/howto/) \u00a0\u00a0\u00a0\u00a0 [log in](https://pinboard.in/)\n\n[english](https://pinboard.in/?lang=en)\n\n[fran\u00e7ais](https://pinboard.in/?lang=fr)\n\n[\u65e5\u672c\u8a9e](https://pinboard.in/?lang=jp)\n\n[deutsch](https://pinboard.in/?lang=de)\n\n[\u0440\u0443\u0441\u0441\u043a\u0438\u0439](https://pinboard.in/?lang=ru)\n\n[polski](https://pinboard.in/?lang=pl)\n\nWelcome to Pinboard!\n====================\n\nSocial Bookmarking for Introverts\n\nFounded in 2009, Pinboard is a fast, independently run, no-nonsense bookmarking site for people who value privacy and speed.\n\nThere are no ads and no trackers of any kind. Users pay a modest yearly fee.\n\n[Log in](https://pinboard.in/login/)[Sign up for $22 / year](https://pinboard.in/signup/)\n\n[have a gift link?](https://pinboard.in/gift/redeem/)\n\nPinboard lets you bookmark from any browser, connect up Twitter accounts (and favorites), and sync with popular services like Instapaper or Pocket.\n\nFor a few more bucks a year, Pinboard offers an archiving service which saves a copy of everything you bookmark, gives you full-text search, and automatically checks your account for dead links.\n\nTake a quick [tour](https://pinboard.in/tour/) of the site to see if it's right for you!\n\n[Time ==== \u201cA one-man operation can compete against million dollar corporations and thrive.\u201d](http://content.time.com/time/specials/packages/article/0,28804,2094921_2094923_2094924-2,00.html)[The Guardian ============ \u201cPinboard is a very effective service\u2026 Sometimes, you don't need glitz; you need plumbing.\u201d](http://www.guardian.co.uk/technology/blog/2011/dec/16/goodbye-delicious-hello-pinboard-bookmarking-guardian)\n\n[Wired ===== \u201cA clever bookmarking service that lets you organize links \\[\u2026\\] and even cache copies of entire web pages.\u201d](http://www.wired.com/magazine/2011/08/st_thompson_onlineads/)[The Economist ============= \u201cOne dude in his underpants somewhere who has five windows open to terminal servers.\u201d](http://www.economist.com/blogs/babbage/2011/04/price_fame)\n\n  \n\n\u00a9 Nine Fives Software. Problems or questions? Contact <[support@pinboard.in](mailto:support@pinboard.in)\\>.   \n\n* * *\n\n[TOS](https://pinboard.in/tos/) \u2027 [privacy](https://pinboard.in/privacy/) \u2027 [about](https://pinboard.in/about/) \u2027 [blog](http://blog.pinboard.in/) \u2027 [FAQ](https://pinboard.in/faq/) \u2027 [resources](https://pinboard.in/resources/) \u2027 [security](https://pinboard.in/security/)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "pinboard",
+        "app_name": "Pinboard",
+        "app_slug": "pinboard",
+        "pricing_url": "https://pinboard.in/signup/",
+        "source_url": "https://pinboard.in/",
+        "all_pricing_urls": [
+          "https://pinboard.in/signup/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pinboard offers a yearly subscription model with an optional archiving service for an additional fee.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Standard",
+            "tier_description": "Basic bookmarking service.",
+            "monthly_price": null,
+            "annual_price": 22.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Bookmark from any browser",
+              "Connect Twitter accounts",
+              "Sync with services like Instapaper or Pocket"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Archiving Service",
+            "tier_description": "Includes archiving, full-text search, and dead link checking.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Save copies of bookmarks",
+              "Full-text search",
+              "Dead link checking"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Archiving Service",
+            "fee_amount": null,
+            "fee_description": "Additional yearly fee for archiving service."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T10:06:53.105767",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\pinboard\\20250415_100654"
+}

@@ -1,0 +1,94 @@
+{
+  "app_name": "Pathwright",
+  "app_slug": "pathwright",
+  "search_term": "Find the official pricing page URL for Pathwright (pathwright.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725937.728155,
+  "response_text": [
+    "The official pricing page for Pathwright can be found at: [https://www.pathwright.com/pricing/](https://www.pathwright.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pathwright | Pricing for creative tools that grow with you",
+      "url": "https://www.pathwright.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.pathwright.com/pricing/",
+      "is_accessible": true,
+      "content": "[pathwright pathwright](https://www.pathwright.com/)\n\nFeatures\n\n[Pricing](https://www.pathwright.com/pricing)\n\nResources\n\n[Sign in](https://paths.pathwright.com/account/sign-in/)\n\n[Get started](https://paths.pathwright.com/sign-up?utm_source=Pathwright&utm_medium=promo-website&utm_campaign=)\n\nCreative tools that grow with you. Start for free and upgrade to a plan when you\u2019re ready to launch.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "pathwright",
+        "app_name": "Pathwright",
+        "app_slug": "pathwright",
+        "pricing_url": "https://www.pathwright.com/pricing",
+        "source_url": "https://www.pathwright.com/",
+        "all_pricing_urls": [
+          "https://www.pathwright.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page was accessible, but detailed tier information was not provided in the content.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T10:05:50.586453",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.pathwright.com/pricing",
+      "is_accessible": true,
+      "content": "[pathwright pathwright](https://www.pathwright.com/)\n\nFeatures\n\n[Pricing](https://www.pathwright.com/pricing)\n\nResources\n\n[Sign in](https://paths.pathwright.com/account/sign-in/)\n\n[Get started](https://paths.pathwright.com/sign-up?utm_source=Pathwright&utm_medium=promo-website&utm_campaign=)\n\nCreative tools that grow with you. Start for free and upgrade to a plan when you\u2019re ready to launch.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "pathwright",
+        "app_name": "Pathwright",
+        "app_slug": "pathwright",
+        "pricing_url": "https://www.pathwright.com/pricing",
+        "source_url": "https://www.pathwright.com/",
+        "all_pricing_urls": [
+          "https://www.pathwright.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The application offers a free tier and subscription-based plans for upgrades.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T10:06:00.956897",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\pathwright\\20250415_100601"
+}

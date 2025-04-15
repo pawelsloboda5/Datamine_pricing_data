@@ -1,0 +1,30 @@
+{
+  "app_name": "Act!",
+  "app_slug": "act-premium",
+  "search_term": "Find the official pricing page URL for Act! (act-premium.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744700196.436214,
+  "response_text": [
+    "The official pricing page for Act! software can be found at: [https://www.act.com/pricing](https://www.act.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Act! Premium and Portfolio Pricing",
+      "url": "https://www.act.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.act.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://www.act.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\act-premium\\20250415_025707"
+}

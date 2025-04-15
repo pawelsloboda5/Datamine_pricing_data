@@ -1,0 +1,47 @@
+{
+  "app_id": "client_dispute_manager",
+  "app_name": "Client Dispute Manager",
+  "app_slug": "client-dispute-manager",
+  "pricing_url": "https://clientdisputemanager.com/pricing",
+  "source_url": "https://clientdisputemanager.com/pricing",
+  "all_pricing_urls": [
+    "https://clientdisputemanager.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing details were not explicitly provided in the content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:08:23.369599",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "69128dba-a681-4f8e-a365-32540adce980",
+    "name": "Client Dispute Manager",
+    "slug": "client-dispute",
+    "description": "Client Dispute Manager is an online Credit Repair Business Software.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/2ce54732502a1200b936e1a62bfc5fb5.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 15
+  }
+}

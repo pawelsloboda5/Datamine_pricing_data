@@ -1,0 +1,57 @@
+{
+  "app_name": "Bigin by Zoho CRM",
+  "app_slug": "bigin",
+  "search_term": "Find the official pricing page URL for Bigin by Zoho CRM (bigin.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744711351.330425,
+  "response_text": [
+    "The official pricing page for Bigin by Zoho CRM is: [https://www.bigin.com/pricing](https://www.bigin.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Bigin Pricing and Editions | The Most Affordable CRM - Bigin by Zoho CRM",
+      "url": "https://www.bigin.com/pricing.html"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.bigin.com/pricing.html",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://www.bigin.com/pricing",
+      "is_accessible": true,
+      "content": "#### Cookie Settings\n\nThe options below allow you to manage your consent for the cookies that are set on this website. You can manage your preference anytime by visiting our [cookie policy](https://www.zoho.com/privacy/cookie-policy.html?src=cp-popup) or by clicking on the cookie icon at the bottom-left corner of the webpage.\n\n##### Strictly Necessary\n\nAlways Active\n\nThey are necessary for our website to function and cannot be switched off in our systems. They are essential in order to enable you to navigate around the website and use its features. If you remove or disable these cookies from your browser, we cannot guarantee that you will be able to use our websites.\n\n[Learn More](https://www.zoho.com/privacy/cookie-policy.html?src_tab=sn)\n\nThey allow us to remember the choices made by you (such as your user name, language or region) as well as other functionalities (such as controlling the cookie banner, redirection to a new page) in order to provide a more personalised online experience. These preferences are remembered (through the use of persistent cookies) so that you need not set them again the next time you visit the page.\n\nNote : The **live chat** widget will **not** work if the functionality/preference setting is disabled.\n\n[Learn More](https://www.zoho.com/privacy/cookie-policy.html?src_tab=fp)\n\nThey help us improve the way our websites work (e.g. by ensuring that users are finding what they are looking for easily). These collect aggregate information about visits, navigations in the websites so that we can make improvement and report our performance. Analytics cookies may also be used to test new pages or features to understand how users adopt them.\n\n[Learn More](https://www.zoho.com/privacy/cookie-policy.html?src_tab=an)\n\n##### Third-party company cookies\n\nWhen you visit some of our webpages that contain embedded content hosted on a third party platform such as YouTube videos, these third parties set cookies on your browser. We always opt for the most privacy friendly options provided by these parties, however these are not controlled by us. If you do not want these parties to set cookies on your browser on visiting our site, you should avoid visiting webpages that contain such embeds.\n\n[Learn More](https://www.zoho.com/privacy/cookie-policy.html?src_tab=tp)\n\nBigin - Page Not Found",
+      "error": null,
+      "pricing_data": {
+        "app_id": "bigin_by_zoho_crm",
+        "app_name": "Bigin by Zoho CRM",
+        "app_slug": "bigin-by-zoho-crm",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The provided content does not include pricing information for Bigin by Zoho CRM.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T06:02:58.008702",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\bigin\\20250415_060258"
+}

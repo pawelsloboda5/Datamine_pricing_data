@@ -1,0 +1,180 @@
+{
+  "app_id": "bigcommerce",
+  "app_name": "BigCommerce",
+  "app_slug": "bigcommerce",
+  "pricing_url": "https://www.bigcommerce.com/essentials/pricing/",
+  "source_url": "https://www.bigcommerce.com/essentials/pricing/",
+  "all_pricing_urls": [
+    "https://www.bigcommerce.com/essentials/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 15,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Prices are in US Dollars and exclude all forms of tax (US Sales, GST, VAT).",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "For individuals and small brands",
+      "monthly_price": 39.0,
+      "annual_price": 348.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Up to $50K online revenue",
+        "0% added payment fees",
+        "24/7 live phone & chat support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "online revenue",
+            "value": "$50K"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "For ambitious small businesses",
+      "monthly_price": 105.0,
+      "annual_price": 948.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Up to $180K online revenue",
+        "0% added payment fees",
+        "24/7 live phone & chat support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "online revenue",
+            "value": "$180K"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For fast-growing businesses",
+      "monthly_price": 399.0,
+      "annual_price": 3588.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Up to $400K+ online revenue",
+        "0% added payment fees",
+        "24/7 live phone & chat support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "online revenue",
+            "value": "$400K+"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For established businesses",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Best for $1M+ online revenue",
+        "0% added payment fees",
+        "24/7 live phone & chat support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "online revenue",
+            "value": "$1M+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "online revenue",
+      "unit": "per $200K",
+      "base_price": 150.0,
+      "tiers": [
+        {
+          "min": 400000.0,
+          "max": "unlimited",
+          "price": 150.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "60 days free",
+      "offer_description": "Get two months free on annual Pro or Plus plans.",
+      "discount_percentage": null,
+      "offer_url": "https://www.bigcommerce.com/essentials/2-month-trial-annual-promo/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Payment Processing Fee",
+      "fee_amount": null,
+      "fee_description": "The processing fee for debit and credit cards begins at 2.89% + $0.29 per transaction for all BigCommerce plans."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:07:50.150736",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "dbc569b2-2b40-4caa-b9bf-7e28ec2bc705",
+    "name": "BigCommerce",
+    "slug": "bigcommerce",
+    "description": "BigCommerce is an e-commerce platform that provides an all-encompassing solution for a business' online store. If you're trying to sell physical goods online, you'll want to check out Bigcommerce.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/b3c44e0b8a68d87d8bf98e467d05b044.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 10
+  }
+}

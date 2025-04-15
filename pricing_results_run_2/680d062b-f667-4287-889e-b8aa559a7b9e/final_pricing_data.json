@@ -1,0 +1,165 @@
+{
+  "app_id": "skedda",
+  "app_name": "Skedda",
+  "app_slug": "skedda",
+  "pricing_url": "https://www.skedda.com/pricing",
+  "source_url": "https://www.skedda.com/pricing",
+  "all_pricing_urls": [
+    "https://www.skedda.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of spaces managed, with additional features available as add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic plan with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited bookings",
+        "Basic integrations",
+        "Limited customization options"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Spaces",
+            "value": 25
+          },
+          {
+            "name": "Interactive Floor Plans",
+            "value": 3
+          },
+          {
+            "name": "Administrators",
+            "value": "$99/mo add-on"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Enhanced plan with additional features.",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced integrations",
+        "Custom branding",
+        "Enhanced analytics"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Spaces",
+            "value": 100
+          },
+          {
+            "name": "Interactive Floor Plans",
+            "value": 10
+          },
+          {
+            "name": "Administrators",
+            "value": "$99/mo add-on"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Comprehensive plan for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Dedicated account manager",
+        "Full customization",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Spaces",
+            "value": "unlimited"
+          },
+          {
+            "name": "Interactive Floor Plans",
+            "value": "unlimited"
+          },
+          {
+            "name": "Administrators",
+            "value": "$99/mo add-on"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Non-Profit Pricing",
+      "offer_description": "Special pricing for qualified not-for-profit organizations.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Administrator Add-On",
+      "fee_amount": 99.0,
+      "fee_description": "Monthly fee for additional administrator access."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:04:26.402446",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "680d062b-f667-4287-889e-b8aa559a7b9e",
+    "name": "Skedda",
+    "slug": "skedda",
+    "description": "The elegant booking app for scheduling the use of spaces at venues, offices, clinics, studios and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/cf8a95c1adafe3f01fb603689e3b2f71.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

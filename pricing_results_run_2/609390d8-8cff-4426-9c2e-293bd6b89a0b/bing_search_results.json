@@ -1,0 +1,12 @@
+{
+  "app_name": "Microsoft Excel",
+  "app_slug": "excel",
+  "search_term": "Find the official pricing page URL for Microsoft Excel (excel.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744721799.3640764,
+  "response_text": [
+    "I couldn\u2019t find the exact pricing page for Microsoft Excel on excel.com. You might need to check Microsoft's official site directly for pricing details."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\excel\\20250415_085639"
+}

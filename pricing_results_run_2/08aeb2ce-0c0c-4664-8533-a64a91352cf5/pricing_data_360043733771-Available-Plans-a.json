@@ -1,0 +1,48 @@
+{
+  "app_id": "streamyard",
+  "app_name": "StreamYard",
+  "app_slug": "streamyard",
+  "pricing_url": "https://streamyard.com/plan",
+  "source_url": "https://support.streamyard.com/hc/en-us/articles/360043733771-Available-Plans-and-Subscription-Info",
+  "all_pricing_urls": [
+    "https://streamyard.com/plan"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Detailed pricing information requires account creation and login.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:03:00.076223",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "08aeb2ce-0c0c-4664-8533-a64a91352cf5",
+    "name": "StreamYard",
+    "slug": "streamyard",
+    "description": "StreamYard is a professional live streaming, recording and webinar studio right within your browser. Create live and on demand webinars with StreamYard On-Air.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/6cd72382b1a3cbfd39461e70b3232dc2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Webinars"
+    ],
+    "category_slugs": [
+      "webinars"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

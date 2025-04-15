@@ -1,0 +1,225 @@
+{
+  "app_id": "salesrabbit",
+  "app_name": "SalesRabbit",
+  "app_slug": "salesrabbit",
+  "pricing_url": "https://salesrabbit.com/pricing/",
+  "source_url": "https://salesrabbit.com/pricing/",
+  "all_pricing_urls": [
+    "https://salesrabbit.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "SalesRabbit offers a free tier called 'SalesRabbit Lite' with limited features. Additional capabilities are available as add-ons for extra costs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "SalesRabbit Team",
+      "tier_description": "Best for small field sales teams.",
+      "monthly_price": null,
+      "annual_price": 195.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced Canvassing",
+        "Plan Routes",
+        "Rep Location Tracking",
+        "Digital Sales Tools",
+        "Built in Sketch Board",
+        "Amplify Analytics"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional seats",
+            "value": "$39/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "SalesRabbit Pro",
+      "tier_description": "Great for growing field sales teams.",
+      "monthly_price": null,
+      "annual_price": 245.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Map Overlays",
+        "Customer Locator",
+        "Lead File Attachments",
+        "Amplify Gamification",
+        "API & Integrations",
+        "Scheduler for Setters & Closers"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional seats",
+            "value": "$49/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "SalesRabbit Enterprise",
+      "tier_description": "Built for the largest field sales teams.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Amplify Coaching",
+        "Single Sign-On",
+        "Multiple Amplify Accounts",
+        "Custom SLA"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "RoofLink Pro",
+      "tier_description": "For roofing and home improvement.",
+      "monthly_price": 120.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Roof Measuring & Estimates",
+        "Full Inspection Capabilities",
+        "Product Library Management",
+        "Basic Canvassing",
+        "Weather Data",
+        "Quickbooks Financing Integration"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional seats",
+            "value": "$120/month"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "DataGrid AI",
+      "unit": "per user/month",
+      "base_price": 19.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 19.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Weather",
+      "unit": "per user/month",
+      "base_price": 19.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 19.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Digital Contracts",
+      "unit": "per user/month",
+      "base_price": 13.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 13.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Movers",
+      "unit": "per user/month",
+      "base_price": 13.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 13.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Learn",
+      "unit": "per user/month",
+      "base_price": 13.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 13.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Implementation Packages",
+      "fee_amount": null,
+      "fee_description": "Required for account setup and launch, with varying costs based on assistance level."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:24:31.942743",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b5d87858-27cf-489c-911c-d5e00ce4a9f7",
+    "name": "SalesRabbit",
+    "slug": "salesrabbit",
+    "description": "SalesRabbit is a sales enablement app that helps sales teams assign areas, track progress, and constantly get better at their craft.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/7a02365640c1bd33e24aab8d91fa84cb_4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 1
+  }
+}

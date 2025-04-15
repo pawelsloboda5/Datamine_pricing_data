@@ -1,0 +1,133 @@
+{
+  "app_id": "stripe",
+  "app_name": "Stripe",
+  "app_slug": "stripe",
+  "pricing_url": "https://stripe.com/pricing",
+  "source_url": "https://stripe.com/pricing",
+  "all_pricing_urls": [
+    "https://stripe.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Stripe offers detailed usage-based pricing for various services, including transaction fees and additional features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Pay-as-you-go pricing with no setup fees, monthly fees, or hidden fees.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to a complete payments platform",
+        "No setup fees",
+        "No monthly fees",
+        "No hidden fees"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Custom pricing for businesses with large payment volumes or unique business models.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "IC+ pricing",
+        "Volume discounts",
+        "Multi-product discounts",
+        "Country-specific rates"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Domestic card transactions",
+      "unit": "per transaction",
+      "base_price": 2.9,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.3
+        }
+      ]
+    },
+    {
+      "metric_name": "International card transactions",
+      "unit": "per transaction",
+      "base_price": 4.4,
+      "tiers": null
+    },
+    {
+      "metric_name": "ACH Direct Debit",
+      "unit": "per transaction",
+      "base_price": 0.8,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 5.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Instant payouts",
+      "unit": "volume",
+      "base_price": 1.5,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.5
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Dispute fee",
+      "fee_amount": 15.0,
+      "fee_description": "Fee per dispute received, returned if won."
+    },
+    {
+      "fee_name": "Custom domain",
+      "fee_amount": 10.0,
+      "fee_description": "Monthly fee for using a custom domain."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:39:56.732782",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5539d92f-56d6-4bc1-a74d-00e08499b05e",
+    "name": "Stripe",
+    "slug": "stripe",
+    "description": "Stripe is a developer-friendly way to accept payments online and in mobile apps. Stripe's suite of APIs powers commerce for thousands of companies of all sizes, processing billions of dollars for businesses each year.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/58576265fb574acf48e65da92b12d764.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 18,
+    "trigger_count": 14
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "app_id": "wordpress",
+  "app_name": "WordPress",
+  "app_slug": "wordpress",
+  "pricing_url": "https://wordpress.com/pricing/",
+  "source_url": "https://wordpress.com/pricing/",
+  "all_pricing_urls": [
+    "https://wordpress.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Detailed pricing information is not fully disclosed in the provided content.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for starting a website.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "6 GB storage",
+        "Unlimited pages, posts, users, and visitors",
+        "Free domain for one year",
+        "Ad-free browsing experience for visitors"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "6 GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Personal",
+      "tier_description": "Enhanced features for personal use.",
+      "monthly_price": 4.0,
+      "annual_price": 48.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "13 GB storage",
+        "All premium themes",
+        "Fast support from expert team",
+        "Premium stats"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "13 GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Advanced features for professionals.",
+      "monthly_price": 8.0,
+      "annual_price": 96.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "50 GB storage",
+        "Install plugins",
+        "Priority 24/7 support",
+        "Advanced stats"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "50 GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Comprehensive features for businesses.",
+      "monthly_price": 25.0,
+      "annual_price": 300.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited storage",
+        "Install plugins",
+        "SFTP/SSH access",
+        "Google Analytics integration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:25:51.367411",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "08fc501b-bb4c-4fcb-af06-76dc7cdbc297",
+    "name": "WordPress",
+    "slug": "wordpress",
+    "description": "WordPress is web software you can use to create a beautiful website or blog. Nearly 20% of the top 10 million websites and over 60 million people have chosen WordPress to power the place on the web they call \"home\".",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/082ad2b5fd42bbe2319312a8ccad248d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders",
+      "WordPress"
+    ],
+    "category_slugs": [
+      "cms",
+      "wordpress"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 5
+  }
+}

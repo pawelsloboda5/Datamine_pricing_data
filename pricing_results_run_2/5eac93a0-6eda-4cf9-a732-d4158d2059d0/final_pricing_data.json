@@ -1,0 +1,74 @@
+{
+  "app_id": "give_lively",
+  "app_name": "Give Lively",
+  "app_slug": "give-lively",
+  "pricing_url": "https://www.givelively.org/free",
+  "source_url": "https://www.givelively.org/",
+  "all_pricing_urls": [
+    "https://www.givelively.org/free"
+  ],
+  "price_model_type": [
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Give Lively offers its platform completely free for nonprofits, supported by philanthropic funding.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Access to all features and tools without any fees.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": 0.0,
+      "features": [
+        "Unlimited use of fundraising products",
+        "Recurring and offline donations",
+        "Anonymous and dedicated giving",
+        "Major payment methods accepted",
+        "Real-time donor data access",
+        "Customizable donation pages",
+        "End-to-end encryption and SSL",
+        "Live chat and email support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:48:51.530284",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5eac93a0-6eda-4cf9-a732-d4158d2059d0",
+    "name": "Give Lively",
+    "slug": "give-lively",
+    "description": "Give Lively built and supports a powerful and practical fundraising platform that is free for nonprofits and intuitively easy to use for donors.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/d68b2cddb51956ff72a7478c556eea08_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

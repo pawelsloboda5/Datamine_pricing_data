@@ -1,0 +1,48 @@
+{
+  "app_id": "rocketreach",
+  "app_name": "RocketReach",
+  "app_slug": "rocketreach",
+  "pricing_url": "https://rocketreach.co/pricing",
+  "source_url": "https://rocketreach.co/pricing",
+  "all_pricing_urls": [
+    "https://rocketreach.co/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing details were not explicitly listed in the provided content. Additional research may be required to extract specific tier details.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:15:40.938843",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "83f337f2-7e61-4d3f-a647-baa3363c2e15",
+    "name": "RocketReach",
+    "slug": "rocketreach",
+    "description": "RocketReach helps you find email, phone and social links for over 250 million professionals, across 6 million companies, worldwide.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/c5db1a3dfe89f101db1ee19cd6b1f2b2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email"
+    ],
+    "category_slugs": [
+      "email"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

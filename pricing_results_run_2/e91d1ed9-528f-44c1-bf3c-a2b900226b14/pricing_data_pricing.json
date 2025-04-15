@@ -1,0 +1,156 @@
+{
+  "app_id": "lawmatics",
+  "app_name": "Lawmatics",
+  "app_slug": "lawmatics",
+  "pricing_url": "https://www.lawmatics.com/demo-pricing/",
+  "source_url": "https://www.lawmatics.com/pricing",
+  "all_pricing_urls": [
+    "https://www.lawmatics.com/demo-essential/",
+    "https://www.lawmatics.com/demo-premium/",
+    "https://www.lawmatics.com/demo-enterprise/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are not directly listed; users are directed to contact sales or schedule a demo for specific pricing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essential",
+      "tier_description": "For firms striving to boost client capacity while operating at peak efficiency.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Client intake",
+        "Lead management",
+        "Calendaring",
+        "Custom forms",
+        "Task management",
+        "2,500 contacts",
+        "50 e-signatures",
+        "250 text messages"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "contacts",
+            "value": 2500
+          },
+          {
+            "name": "e-signatures",
+            "value": 50
+          },
+          {
+            "name": "text messages",
+            "value": 250
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "For firms targeting rapid growth, record high profitability, and market leadership.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Every feature in Essential",
+        "Unlimited automations",
+        "Email marketing campaigns",
+        "Advanced conflict checking",
+        "ROI tracking & analysis",
+        "Custom dashboards",
+        "Event management",
+        "10,000 contacts",
+        "Unlimited e-signatures",
+        "750 text messages"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "contacts",
+            "value": 10000
+          },
+          {
+            "name": "e-signatures",
+            "value": "unlimited"
+          },
+          {
+            "name": "text messages",
+            "value": 750
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Talk to us for a comprehensive solution that meets all your large-scale cross-functional needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom pricing",
+        "Full access to all features",
+        "Dedicated account manager"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Additional contacts",
+      "fee_amount": null,
+      "fee_description": "Additional contacts sold separately."
+    },
+    {
+      "fee_name": "Additional texts",
+      "fee_amount": null,
+      "fee_description": "Additional texts sold separately."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:54:53.541742",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "e91d1ed9-528f-44c1-bf3c-a2b900226b14",
+    "name": "Lawmatics",
+    "slug": "lawmatics",
+    "description": "Lawmatics is the #1 Intake and Marketing Automation platform for the modern Law Firm.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/f4ce6de9f773591ddffe30af2d2dd7e3_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 13,
+    "trigger_count": 7
+  }
+}

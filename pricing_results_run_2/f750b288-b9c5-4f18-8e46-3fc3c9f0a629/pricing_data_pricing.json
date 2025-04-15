@@ -1,0 +1,104 @@
+{
+  "app_id": "fieldpulse",
+  "app_name": "FieldPulse",
+  "app_slug": "fieldpulse",
+  "pricing_url": "https://www.fieldpulse.com/pricing",
+  "source_url": "https://www.fieldpulse.com/pricing",
+  "all_pricing_urls": [
+    "https://www.fieldpulse.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is provided upon request and is tailored to the number of technicians and specific business needs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essentials",
+      "tier_description": "The core essentials of field service management.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Customer Management",
+        "Scheduling & Dispatching",
+        "Work Order Management",
+        "Estimates & Invoices",
+        "Mobile App"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Everything in the Essentials package plus many advanced features for growing businesses.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Customer Management",
+        "Scheduling & Dispatching",
+        "Work Order Management",
+        "Estimates & Invoices",
+        "Mobile App",
+        "Workflow Automation",
+        "Project Management",
+        "Quickbooks Sync"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Everything in the Professional package plus Mult-location Management and Open API access.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Customer Management",
+        "Scheduling & Dispatching",
+        "Work Order Management",
+        "Estimates & Invoices",
+        "Mobile App",
+        "Workflow Automation",
+        "Project Management",
+        "Quickbooks Sync",
+        "Multi-location Management",
+        "Open API"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:50:02.377069",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f750b288-b9c5-4f18-8e46-3fc3c9f0a629",
+    "name": "FieldPulse",
+    "slug": "fieldpulse",
+    "description": "FieldPulse is service business and contractor software that serves as the hub for managing your business in the office and on the go.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/bed09c889f17582a2306a82da5f00333.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 4
+  }
+}

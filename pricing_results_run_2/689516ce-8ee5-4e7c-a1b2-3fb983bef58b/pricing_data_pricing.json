@@ -1,0 +1,173 @@
+{
+  "app_id": "wisepops",
+  "app_name": "Wisepops",
+  "app_slug": "wisepops",
+  "pricing_url": "https://wisepops.com/pricing",
+  "source_url": "https://wisepops.com/pricing",
+  "all_pricing_urls": [
+    "https://wisepops.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing varies based on pageviews and includes options for monthly and annual billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Popups & Notifications",
+      "tier_description": "Your all-in-one engagement platform to make the most of your traffic.",
+      "monthly_price": 49.0,
+      "annual_price": 41.0,
+      "annual_discount_percentage": 16.33,
+      "setup_fee": null,
+      "features": [
+        "Popups Bars, Embeds",
+        "Notifications",
+        "Advanced Analytics",
+        "AI Product Recommendations (Beta)",
+        "Help center and chatbot support",
+        "2 websites"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "websites",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Wisepops One",
+      "tier_description": "Access premium, tailored services and custom implementation.",
+      "monthly_price": 499.0,
+      "annual_price": 499.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Campaign Creation With Our Team",
+        "Dedicated Account Manager",
+        "Performance Reviews",
+        "Full Customization",
+        "Custom SLAs",
+        "Custom Integration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Essential",
+      "tier_description": "Everything you need to start converting your website visitors on a self-service mode.",
+      "monthly_price": 99.0,
+      "annual_price": 82.0,
+      "annual_discount_percentage": 17.17,
+      "setup_fee": null,
+      "features": [
+        "Popups Bars, Embeds",
+        "Feed Notifications",
+        "Web Push",
+        "Advanced Analytics",
+        "Help center and chatbot support",
+        "2 websites"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "websites",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Intelligence",
+      "tier_description": "Get 1:1 onboarding, strategic guidance, performance reviews, and advanced features that drive 2.5\u00d7 higher conversions versus Essentials.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Essential plus:",
+        "Dedicated Account Manager",
+        "Experimentation platform",
+        "AI Product Recommendations",
+        "Advanced Personalization"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "websites",
+            "value": "10"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Nonprofit Discount",
+      "offer_description": "30% off for nonprofits.",
+      "discount_percentage": 30.0,
+      "offer_url": "https://wisepops.com/contact-us",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Extra Website Fee",
+      "fee_amount": 10.0,
+      "fee_description": "Additional fee per website beyond the included limit."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:40:41.384912",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "689516ce-8ee5-4e7c-a1b2-3fb983bef58b",
+    "name": "Wisepops",
+    "slug": "wisepops",
+    "description": "Wisepops is an on-site marketing platform used to grow your email list and boost sales. It allows you to display a message to any segment of your visitors using popups, sign-up bars, exit-intent popups, and on-site messaging without any dev needed.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/b15dd3bbc995ce886b2c042927913124.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

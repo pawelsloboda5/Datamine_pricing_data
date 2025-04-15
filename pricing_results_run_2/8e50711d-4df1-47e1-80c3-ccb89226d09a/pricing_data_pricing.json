@@ -1,0 +1,201 @@
+{
+  "app_id": "freshbooks",
+  "app_name": "FreshBooks",
+  "app_slug": "freshbooks",
+  "pricing_url": "https://www.freshbooks.com/pricing",
+  "source_url": "https://www.freshbooks.com/pricing",
+  "all_pricing_urls": [
+    "https://www.freshbooks.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "FreshBooks offers promotional discounts and additional features as add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lite",
+      "tier_description": "Designed for freelancers and self-employed individuals.",
+      "monthly_price": 6.3,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Send invoices to 5 clients",
+        "Track expenses in real time",
+        "Create and send estimates",
+        "Get paid via credit cards and bank transfers (ACH)",
+        "Generate tax-time reports"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Billable Clients",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Most popular plan for small businesses.",
+      "monthly_price": 11.4,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Send invoices to 50 clients",
+        "Track expenses in real time",
+        "Create estimates, proposals, and client retainers",
+        "Get paid with credit cards and bank transfers (ACH)",
+        "Generate tax-time reports",
+        "Run financial and accounting reports",
+        "Capture receipts by photo",
+        "Give your accountant access"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Billable Clients",
+            "value": 50
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "For businesses with employees.",
+      "monthly_price": 19.5,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Send invoices to unlimited clients",
+        "Track expenses in real time",
+        "Create estimates, proposals, and client retainers",
+        "Get paid with credit cards and bank transfers (ACH)",
+        "Generate tax-time reports",
+        "Run financial and accounting reports",
+        "Capture bills and receipts by photo",
+        "Give your accountant access",
+        "Check project profitability",
+        "Customize your email templates"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Billable Clients",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Select",
+      "tier_description": "Custom plan for high-volume businesses.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Send invoices to unlimited clients",
+        "Track expenses in real time",
+        "Create estimates, proposals, and client retainers",
+        "Access to lower credit card transaction fees and capped bank transfer (ACH) fees",
+        "Generate tax-time reports",
+        "Run financial and accounting reports",
+        "Capture bills and receipts by photo",
+        "Give your accountant access",
+        "Check project profitability",
+        "Customize email templates and remove FreshBooks branding",
+        "Import your data via Easy Switch",
+        "Gain access to dedicated phone support",
+        "Add 2 Team Member accounts for no extra charge"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Billable Clients",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "70% Off for 4 Months",
+      "offer_description": "Special Tax-Time offer providing a 70% discount for the first 4 months.",
+      "discount_percentage": 70.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Team Members",
+      "fee_amount": 11.0,
+      "fee_description": "Additional cost per user per month."
+    },
+    {
+      "fee_name": "Advanced Payments",
+      "fee_amount": 20.0,
+      "fee_description": "Monthly fee for advanced payment features."
+    },
+    {
+      "fee_name": "FreshBooks Payroll",
+      "fee_amount": 40.0,
+      "fee_description": "Base monthly fee plus $6 per user per month."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:21:46.839364",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "8e50711d-4df1-47e1-80c3-ccb89226d09a",
+    "name": "FreshBooks",
+    "slug": "freshbooks",
+    "description": "FreshBooks is a cloud accounting software designed exclusively for self-employed professionals and their teams. Send invoices, track expenses, manage your time, and collaborate on projects.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/b1273a3795d2341291cbf556530afced.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 39,
+    "trigger_count": 16
+  }
+}

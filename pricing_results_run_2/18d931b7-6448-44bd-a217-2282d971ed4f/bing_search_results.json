@@ -1,0 +1,12 @@
+{
+  "app_name": "Pendo Feedback",
+  "app_slug": "pendo",
+  "search_term": "Find the official pricing page URL for Pendo Feedback (pendo.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744709977.7492049,
+  "response_text": [
+    "I couldn't find an official pricing page for Pendo Feedback on the Pendo website. You may wish to contact their sales team directly for more information."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\pendo\\20250415_053938"
+}

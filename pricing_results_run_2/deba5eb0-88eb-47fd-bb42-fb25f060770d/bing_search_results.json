@@ -1,0 +1,444 @@
+{
+  "app_name": "Krisp",
+  "app_slug": "krisp",
+  "search_term": "Find the official pricing page URL for Krisp (krisp.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744689072.690874,
+  "response_text": [
+    "The official pricing page for Krisp can be found at: [https://krisp.ai/pricing](https://krisp.ai/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Krisp Pricing Plans",
+      "url": "https://krisp.ai/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://krisp.ai/pricing",
+      "is_accessible": true,
+      "content": "#### Free\n\nFor Individuals to capture meetings & noise cancellation\n\nFree forever\n\n**$ 0 USD**\n\n**Key features**\n\n**Unlimited** Transcript & Audio Recording\n\n**60 min/day** Noise Cancellation\n\n**60 min/day** Accent Conversion\n\n**2/day** AI notes & Action Items\n\n**7 day** Meeting history\n\nEnglish only Transcript & Summaries\n\nBot-free Transcription and Recording with speaker identification\n\nBot-free\n\nIn-person meetings support (Soon)\n\nWorkspace-level 750 words\n\nCustom Vocabulary\n\nAgenda\n\n*   Centralized Meeting space\n*   Workspace level sharing\n*   Workspace-level custom vocabulary\n*   Workspace Contacts\n\nWorkspace\n\nSlack Integration\n\n5 uploads in Free plan\n\nFile Uploads & Transcribe\n\nMobile app (Soon)\n\nChrome Extension\n\n#### Pro\n\nUnlimited Meeting Assistance & Workspace Collaboration\n\nMonthly Yearly Save 50%\n\n**$ 8 6![Image 1](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_old_price.svg) USD/ per month**\n\nEverything in Free - \u00a0Unlimited\n\n*   Unlimited Transcript & Audio Recording\n*   Unlimited Noise Cancellation\n*   60 min/day Accent Conversion\n*   Unlimited AI Notes & Action Items\n*   Unlimited Meeting History\n\n**Plus**\n\nTranscript & Summaries in 19+ langs\n\nVideo Recording\n\nAsk Krisp - Co-pilot\n\nAll Action Items from your meetings in one place\n\nCentralized Action Items\n\nMore detailed AI summaries\n\nAI Outline\n\nRecord with bot\n\nBulk export any meeting file - Export, delete, pdf ...\n\nBulk Actions\n\n**Integrations**\n\nSlack, Zapier\n\n**Storage**\n\n3GB\n\n**User management & billing**\n\nCentralized user management\n\nCentralized billing\n\n#### Business\n\nAdmin Controls, Sales Features, Integrations and Priority support\n\nMonthly Yearly Save 50%\n\n**$ 15 0![Image 2](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_old_price.svg) USD/ per month**\n\nEverything in Pro - \u00a0Unlimited\n\n*   Unlimited Transcript & Audio Recording\n*   Unlimited Noise Cancellation\n*   Unlimited Accent Conversion\n*   Unlimited AI Notes & Action Items\n*   Unlimited Meeting History\n\n**Plus**\n\nSSO/SCIM\n\nSOC2 Report Access\n\nAdmin controls\n\nManager view\n\nCompany deal grouping\n\nUsage analytics\n\nDedicated Account Manager\n\n**Integrations with any CRM & ATS**\n\nHubspot, Salesforce, Affinity\n\n**Storage**\n\nbest for storing video recordings\n\n30GB\n\n#### For Call Centers\n\nPrice varies based on features and volume\n\n**Core Features**\n\nUnlimited AI Noise Cancellation Demo ![Image 3](blob:http://localhost/3dc1c7fc5cfbe48b7dc86bea88b1af32)\n\nAI Accent Conversion (Add-On) Demo ![Image 4](blob:http://localhost/3dc1c7fc5cfbe48b7dc86bea88b1af32)\n\nAI Live Interpreter (Add-On) Demo ![Image 5](blob:http://localhost/3dc1c7fc5cfbe48b7dc86bea88b1af32)\n\nAI Agent Copilot (Add-On)\n\nUnlimited Call Transcripts (optional)\n\nUnlimited Call Recordings (optional)\n\n**Support & Security**\n\n24/7 Premium Support\n\nDedicated customer success manager\n\nKrisp will ensure you have dedicated access to our top-notch Customer Success team to help with any questions they might encounter\n\nAssisted security reviews\n\nDedicated Krisp Account Manager provides customized reporting for your account and holds stand-ups with admins and other stakeholders.\n\n**Advanced Controls**\n\nAnalytics dashboard\n\nAggregates measurement of product usage, noise detection and cleansing, and user activity from a set of centralized dashboards.\n\nSSO & SCIM\n\nManage employee access with secure single sign-on and set up SCIM to automatically assign and un-assign users to seats.\n\nCentralized deployment & management\n\nControl the app experience and configurations for the entire team from one centralized dashboard\n\nEnterprise-scale App auto-update\n\nDevice-based authentication\n\nKrisp can be licensed per device for Enterprise customers, eliminating email authentication.\n\n#### SDK for Developers\n\nUsage-based pricing\n\n**Available Packages**\n\nServer-side Noise Cancellation SDK\n\nClient-side Noise Cancellation SDK\n\nClient-side Accent Conversion SDK\n\nCustomer Request Form\n---------------------\n\nPlease fill out the below form telling us more about your interest in Krisp SDKs. Once we've reviewed your information, we will contact you to discuss.\n\nYour name \\*\n\nWork email \\*\n\nTitle/role \\*\n\nCompany name \\*\n\nHow many employees work at your company? \\*\n\nCompany size\n\nIn a few sentences, please describe the use case for Krisp with your solution. \\*\n\nYour Message\n\nWhich of our SDKs are you interested in? \\*\n\nSelect SDK\n\nWhich platforms do you need to support? \\*\n\nSelect Platform\n\nWhat is your ideal timeline for integrating Krisp? \\*\n\nYour Message\n\n![Image 6: form success icon](blob:http://localhost/eb7bbc9e8000e53606e9b8bd744aa7c4) Something Went Wrong!\n\n![Image 7: form success icon](blob:http://localhost/eb7bbc9e8000e53606e9b8bd744aa7c4) Thanks for submitting the form! Our team will be in touch in 2-3 business days.\n\nBy contacting our team, you agree to the [Terms of Use](https://krisp.ai/terms-of-use/) and [Privacy Policy](https://krisp.ai/privacy-policy/).\n\nThis form is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.\n\n#### Compare plans and features\n\n**AI Meeting Assistant**\n\n**Transcription & Audio Recording**\n\n**Noise Cancellation**\n\n**Accent Conversion**\n\n**AI Summaries and Action Items**\n\n**Meeting History**\n\n**Upload meeting**\n\n**Transcript & Summaries in 19+ langs**\n\n**Video Recording**\n\n**Detailed AI Summaries**\n\n**Ask Krisp - Co-pilot**\n\n**Bulk Actions**\n\n**Record with bot**\n\n**Storage**\n\n**Storage**\n\n**Workspace & Collaboration**\n\n**Members**\n\n**Workspace Sharing**\n\n**Workspace level Custom Vocabulary**\n\n**Centralized Action Items**\n\n**Auto Agenda**\n\n**Meeting Tags**\n\n**Domain meeting filter**\n\n**Workspace Level Contact Management**\n\n**Commenting and Tagging**\n\n**Integrations**\n\n**Slack**\n\n**Zapier**\n\n**Hubspot**\n\n**Salesforce**\n\n**Admin Controls**\n\n**MFA**\n\n**Centralized Billing**\n\n**User management**\n\n**SSO & SCIMs**\n\n**SOC2 Report Access**\n\n**Manager View**\n\n**Custom Branding for Emails**\n\n**Domain Capture**\n\n**Disable Auto share for team**\n\n**Enforce the Recording mode**\n\n**Rule based recording exclusions**\n\n**Support**\n\n###### Free\n\n**Unlimited**\n\n**60 minutes daily**\n\n**60 minutes daily**\n\n**2 daily**\n\n**7 days**\n\n**5**\n\n**Unlimited**\n\n![Image 8: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 9: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 10: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 11: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n**24/7**\n\n###### Pro\n\n**Unlimited**\n\n**Unlimited**\n\n**60 minutes daily**\n\n**Unlimited**\n\n**Unlimited**\n\n**Unlimited**\n\n**Unlimited**\n\n![Image 12: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 13: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 14: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 15: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 16: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n**3GB**\n\n**Unlimited**\n\n![Image 17: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 18: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 19: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 20: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 21: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 22: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 23: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 24: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 25: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 26: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 27: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n**24/7**\n\n###### Business\n\n**Unlimited**\n\n**Unlimited**\n\n**Unlimited**\n\n**Unlimited**\n\n**Unlimited**\n\n**Unlimited**\n\n**Unlimited**\n\n![Image 28: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 29: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 30: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 31: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 32: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n**30GB**\n\n**Unlimited**\n\n![Image 33: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 34: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 35: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 36: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 37: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 38: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 39: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 40: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 41: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 42: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 43: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 44: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 45: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 46: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 47: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 48: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 49: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 50: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 51: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 52: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 53: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 54: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 55: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n**Priority**\n\n#### Deployed in world's leading enterprises\n\n![Image 56: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_concentrix.svg)\n\n![Image 57: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_teleperformance.svg)\n\n![Image 58: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_vxi.svg)\n\n![Image 59: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_startek.svg)\n\n![Image 60: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_ienergizer.svg)\n\n![Image 61: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_transparentbpo.png)\n\n![Image 62: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_supportzebra.svg)\n\n![Image 63: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_firstsource.svg)\n\n![Image 64: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_cognizant.png)\n\n![Image 65: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_officegurus.png)\n\n![Image 66: logo](blob:http://localhost/66cb14a6c25c2a07bb32e83191493820)\n\nFrequently Asked Questions\n--------------------------\n\n**What payment methods do you accept?**\n\nCurrently our accepted payment methods are Credit/debit cards such as Visa, Visa Debit, MasterCard, Discover, JCB, and American Express.\n\n**What currency will I be charged with?**\n\nCurrently our accepted payment currency is USD. You may pay via Card in your currency, but the price will depend on the exchange rate of your bank.\n\n**Can I change my plan later?**\n\nYou may change your plan whenever you want.  \nYou\u2019ll also be able to change your payment cycle (monthly/yearly) [as shown here](https://help.krisp.ai/hc/en-us/articles/360017656559-Change-the-subscription-plan-for-your-Krisp-account).\n\n**Do I need to change my plan if I want to add a member?**\n\nIn order to invite a team member you need to upgrade to Pro.\n\nHave more questions? [Visit our help center](https://help.krisp.ai/)\n\nFrequently Asked Questions\n--------------------------\n\n**Is there a minimum seat count for the Call Center plan?**\n\nYes, the Call Center plan typically requires a minimum commitment of 40 seats. If your team is smaller, you may want to explore our AI Meeting Assistant plans or reach out to us at [sales@krisp.ai](mailto:sales@krisp.ai) to discuss other options.\n\n**Can we add more seats to an existing team?**\n\nYes, you can add seats to your team at any time during your subscription cycle. The additional cost will be prorated based on your subscription renewal date.\n\n**What is the subscription cycle for the Call Center plan?**\n\nThe Call Center plan is billed annually at a fixed monthly rate.\n\n**How should we arrange teams if different users require different Krisp products?**\n\nTo accommodate different product needs, you should create separate teams for each feature set. They can be nested under one Organization for centralized management. For assistance in setting this up, contact us at [sales@krisp.ai](mailto:sales@krisp.ai).\n\n#### Organizations worldwide love Krisp\n\n![Image 67: Olivier Camino](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_olivier.png)\n\n**Olivier Camino**  \n**Global COO** at Foundever\n\n\u201cKrisp\u2019s technology supports our vision of leveraging AI to deliver better experiences for our clients\u2019 customers. Our group is committed to driving grounded innovation through partnerships that empower CX improvement, and Krisp is a valued partner on this roadmap.\u201d\n\n**Olivier Camino**  \n**Global COO** at Foundever\n\n![Image 68: Jared Pandolfi](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_jared.png)\n\n**Jared Pandolfi**  \n**Director of IT** at Trusted Tech Team\n\n\u201cKrisp has been instrumental in enhancing our communication clarity and productivity. Its AI-driven noise cancellation is a game-changer, enabling our team to remain focused and professional in every interaction.  \nOur partnership with Krisp has been smooth and highly rewarding, and the product consistently exceeds our expectations. Krisp has truly become an indispensable tool in our daily operations, and we look forward to continuing this collaboration.\u201d\n\n**Jared Pandolfi**  \n**Director of IT** at Trusted Tech Team\n\n![Image 69: Jordan Gluck](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_jordan.png)\n\n**Jordan Gluck**  \n**Vice President** at The Office Gurus\n\n\u201cKrisp has been a game-changer for The Office Gurus, transforming our Call Center operations. Its Noise Cancellation technology has eliminated noise complaints, significantly enhanced the customer experience, and driven exceptional CSAT scores.  \nKrisp's strong commitment to security has further solidified our trust in the platform. With Krisp, our agents consistently sound \"Guru Clear\" to our valued customers, making it an integral part of our success story.\u201d\n\n**Jordan Gluck**  \n**Vice President** at The Office Gurus\n\n![Image 70: Abhinandan Jain](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_jain.jpg)\n\n**Abhinandan Jain**  \n**Chief digital officer** at Startek\n\n\u201cOur partnership with Krisp enhances our ability to respond with empathy to the customer. By leveraging AI tools to support voice-based interactions, Startek delivers a superior experience.\u201d\n\n**Abhinandan Jain**  \n**Chief digital officer** at Startek\n\n![Image 71: Tom Moskal](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_tom.png)\n\n**Tom Moskal**  \n**Vice President of Global Client Services** at OP 360\n\n\u201cKrisp elevates the professionalism of our calls. Knowing that Krisp is there and understanding that their voice on the customer's end will be very clean makes our agents more confident. Our agents love having the product: it's easy to install, easy to use, and provides peace of mind.\u201d\n\n**Tom Moskal**  \n**Vice President of Global Client Services** at OP 360\n\n![Image 72: Travis Markel](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_travis.jpg)\n\n**Travis Markel**  \n**Chief Operating Officer** at arrivia\n\n\u201cKrisp creates wins for our customers, company, and team members. It enables higher-quality interactions, unlocks new opportunities for our agents, and drives real productivity gains. Arrivia benefits from delivering service that exceeds expectations while strengthening connections between our global team and the customers we serve. Our partnership with Krisp has truly elevated our ability to deliver exceptional value.\u201d\n\n**Travis Markel**  \n**Chief Operating Officer** at arrivia\n\n![Image 73: Go to previous slide](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_slider_prev.svg)\n\n![Image 74: Go to next slide](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_slider_next.svg)\n\n#### Trusted by the world\u2019s best professionals\n\n![Image 75: Karsten B.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_karsten.png)\n\n**Karsten B.**  \n**Executive Compensation Associate**\n\n\u201cKrisp works exceptionally well. Once set up, it is a pretty seamless experience and automatically detects whichever software I'm using. Nobody on the other line can ever hear the background noise from my end, and people have commented that it sounds like I'm \"in a library\" or a studio.\u201d\n\n**Karsten B.**  \n**Executive Compensation Associate**\n\n![Image 76: Jaslyn T.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_jaslyn.png)\n\n**Jaslyn T.**  \n**Client Services Manager**\n\n\u201cLife saver for WFH employees.  \nKrisp allows me to work from home where there are dogs barking, laundry running, and people going about their daily activities - yet their noise is blocked so I can appear professional and not be a distraction on video calls.\u201d\n\n**Jaslyn T.**  \n**Client Services Manager**\n\n![Image 77: Eric Z.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_eric.png)\n\n**Eric Z.**  \n**Principal Owner**\n\n\u201cAI noise cancellation works as advertised, even in the noisiest environments. Runs seamlessly in the background. Easy to toggle on/off and adjust settings from the taskbar corner on windows. The two-way noise cancellation is a huge benefit, eliminating the distracting background noises of your non-krisp-using coworkers.\u201d\n\n**Eric Z.**  \n**Principal Owner**\n\n![Image 78: Harvey Jones](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_harvey.png)\n\n**Harvey Jones**  \n**Head of Workplace Collaboration**\n\n\u201cAtlassian staff working at home have benefitted from the Krisp service since early in the pandemic. Since our Team Anywhere announcement, we have sought ways to make remote and hybrid working more effective, and Krisp's ability to screen background noise from calls and recordings has been invaluable to many staff.\u201d\n\n**Harvey Jones**  \n**Head of Workplace Collaboration**\n\n![Image 79: Chad E.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_chad.png)\n\n**Chad E.**  \n**Solutions Architect**\n\n\u201cWith a nice noise-canceling headset, you can remove those background noises coming from your side of the call for yourself, BUT, you still have to deal with the other sides of the calls, and Krisp lets you filter out those noises as well. No more Dog Barking in the background!\u201d\n\n**Chad E.**  \n**Solutions Architect**\n\n![Image 80: Isaac G.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_isaac.png)\n\n**Isaac G.**  \n**Agile transformation coach**\n\n\u201cKrisp mutes the noise I don't want going into my call and always allows me to be heard. I have crying kids in the background, noisy house stuff, noises from my computer and none of them ever get on the call. Bonus points for being able to mute the backgrounds of others on the call if their environment is noisy.\u201d\n\n**Isaac G.**  \n**Agile transformation coach**\n\n![Image 81: Karsten B.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_karsten.png)\n\n**Karsten B.**  \n**Executive Compensation Associate**\n\n\u201cKrisp works exceptionally well. Once set up, it is a pretty seamless experience and automatically detects whichever software I'm using. Nobody on the other line can ever hear the background noise from my end, and people have commented that it sounds like I'm \"in a library\" or a studio.\u201d\n\n**Karsten B.**  \n**Executive Compensation Associate**\n\n![Image 82: Jaslyn T.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_jaslyn.png)\n\n**Jaslyn T.**  \n**Client Services Manager**\n\n\u201cLife saver for WFH employees.  \nKrisp allows me to work from home where there are dogs barking, laundry running, and people going about their daily activities - yet their noise is blocked so I can appear professional and not be a distraction on video calls.\u201d\n\n**Jaslyn T.**  \n**Client Services Manager**\n\n![Image 83: Eric Z.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_eric.png)\n\n**Eric Z.**  \n**Principal Owner**\n\n\u201cAI noise cancellation works as advertised, even in the noisiest environments. Runs seamlessly in the background. Easy to toggle on/off and adjust settings from the taskbar corner on windows. The two-way noise cancellation is a huge benefit, eliminating the distracting background noises of your non-krisp-using coworkers.\u201d\n\n**Eric Z.**  \n**Principal Owner**\n\n![Image 84: Harvey Jones](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_harvey.png)\n\n**Harvey Jones**  \n**Head of Workplace Collaboration**\n\n\u201cAtlassian staff working at home have benefitted from the Krisp service since early in the pandemic. Since our Team Anywhere announcement, we have sought ways to make remote and hybrid working more effective, and Krisp's ability to screen background noise from calls and recordings has been invaluable to many staff.\u201d\n\n**Harvey Jones**  \n**Head of Workplace Collaboration**\n\n![Image 85: Chad E.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_chad.png)\n\n**Chad E.**  \n**Solutions Architect**\n\n\u201cWith a nice noise-canceling headset, you can remove those background noises coming from your side of the call for yourself, BUT, you still have to deal with the other sides of the calls, and Krisp lets you filter out those noises as well. No more Dog Barking in the background!\u201d\n\n**Chad E.**  \n**Solutions Architect**\n\n![Image 86: Isaac G.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_isaac.png)\n\n**Isaac G.**  \n**Agile transformation coach**\n\n\u201cKrisp mutes the noise I don't want going into my call and always allows me to be heard. I have crying kids in the background, noisy house stuff, noises from my computer and none of them ever get on the call. Bonus points for being able to mute the backgrounds of others on the call if their environment is noisy.\u201d\n\n**Isaac G.**  \n**Agile transformation coach**\n\n![Image 87: Go to previous slide](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_slider_prev.svg)\n\n![Image 88: Go to next slide](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_slider_next.svg)\n\n### Ready to get started?\n\nWith Krisp, you and your team will have more productive and engaging online meetings\u2014without all the distractions.\n\n![Image 89: Green check mark](blob:http://localhost/f85498d7c80413e296759cb29af7206e)For individuals and small teams ![Image 90: Green check mark](blob:http://localhost/f85498d7c80413e296759cb29af7206e)No credit card required\n\n![Image 91: Green check mark](blob:http://localhost/f85498d7c80413e296759cb29af7206e)For enterprise and call centers\n\nLooking for Krisp's pricing and plans information? Learn more about our different pricing plans from free personal accounts to teams and enterprises.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "krisp",
+        "app_name": "Krisp",
+        "app_slug": "krisp",
+        "pricing_url": "https://krisp.ai/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://krisp.ai/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes subscription tiers for individuals and businesses, usage-based pricing for SDKs, and quote-based pricing for call centers.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "For Individuals to capture meetings & noise cancellation",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited Transcript & Audio Recording",
+              "60 min/day Noise Cancellation",
+              "60 min/day Accent Conversion",
+              "2/day AI notes & Action Items",
+              "7 day Meeting history",
+              "English only Transcript & Summaries",
+              "Bot-free Transcription and Recording with speaker identification",
+              "Bot-free",
+              "In-person meetings support (Soon)",
+              "Workspace-level 750 words",
+              "Custom Vocabulary",
+              "Agenda",
+              "Centralized Meeting space",
+              "Workspace level sharing",
+              "Workspace-level custom vocabulary",
+              "Workspace Contacts",
+              "Workspace",
+              "Slack Integration",
+              "5 uploads in Free plan",
+              "File Uploads & Transcribe",
+              "Mobile app (Soon)",
+              "Chrome Extension"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Noise Cancellation",
+                  "value": "60 min/day"
+                },
+                {
+                  "name": "Accent Conversion",
+                  "value": "60 min/day"
+                },
+                {
+                  "name": "AI notes & Action Items",
+                  "value": "2/day"
+                },
+                {
+                  "name": "Meeting history",
+                  "value": "7 days"
+                },
+                {
+                  "name": "File Uploads",
+                  "value": "5 uploads"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Unlimited Meeting Assistance & Workspace Collaboration",
+            "monthly_price": 8.0,
+            "annual_price": 6.0,
+            "annual_discount_percentage": 50.0,
+            "setup_fee": null,
+            "features": [
+              "Everything in Free - Unlimited",
+              "Unlimited Transcript & Audio Recording",
+              "Unlimited Noise Cancellation",
+              "60 min/day Accent Conversion",
+              "Unlimited AI Notes & Action Items",
+              "Unlimited Meeting History",
+              "Transcript & Summaries in 19+ langs",
+              "Video Recording",
+              "Ask Krisp - Co-pilot",
+              "All Action Items from your meetings in one place",
+              "Centralized Action Items",
+              "More detailed AI summaries",
+              "AI Outline",
+              "Record with bot",
+              "Bulk export any meeting file - Export, delete, pdf ...",
+              "Bulk Actions",
+              "Integrations",
+              "Slack, Zapier",
+              "Storage",
+              "3GB",
+              "User management & billing",
+              "Centralized user management",
+              "Centralized billing"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "3GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Accent Conversion",
+                  "value": "60 min/day"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "Admin Controls, Sales Features, Integrations and Priority support",
+            "monthly_price": 15.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": 50.0,
+            "setup_fee": null,
+            "features": [
+              "Everything in Pro - Unlimited",
+              "Unlimited Transcript & Audio Recording",
+              "Unlimited Noise Cancellation",
+              "Unlimited Accent Conversion",
+              "Unlimited AI Notes & Action Items",
+              "Unlimited Meeting History",
+              "SSO/SCIM",
+              "SOC2 Report Access",
+              "Admin controls",
+              "Manager view",
+              "Company deal grouping",
+              "Usage analytics",
+              "Dedicated Account Manager",
+              "Integrations with any CRM & ATS",
+              "Hubspot, Salesforce, Affinity",
+              "Storage",
+              "best for storing video recordings",
+              "30GB"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "30GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": []
+            }
+          },
+          {
+            "tier_name": "Call Centers",
+            "tier_description": "Price varies based on features and volume",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited AI Noise Cancellation",
+              "AI Accent Conversion (Add-On)",
+              "AI Live Interpreter (Add-On)",
+              "AI Agent Copilot (Add-On)",
+              "Unlimited Call Transcripts (optional)",
+              "Unlimited Call Recordings (optional)",
+              "Support & Security",
+              "24/7 Premium Support",
+              "Dedicated customer success manager",
+              "Assisted security reviews",
+              "Dedicated Krisp Account Manager provides customized reporting for your account and holds stand-ups with admins and other stakeholders.",
+              "Advanced Controls",
+              "Analytics dashboard",
+              "Aggregates measurement of product usage, noise detection and cleansing, and user activity from a set of centralized dashboards.",
+              "SSO & SCIM",
+              "Manage employee access with secure single sign-on and set up SCIM to automatically assign and un-assign users to seats.",
+              "Centralized deployment & management",
+              "Control the app experience and configurations for the entire team from one centralized dashboard",
+              "Enterprise-scale App auto-update",
+              "Device-based authentication",
+              "Krisp can be licensed per device for Enterprise customers, eliminating email authentication."
+            ],
+            "limits": {
+              "users": "40 seats minimum",
+              "storage": "unlimited",
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": []
+            }
+          },
+          {
+            "tier_name": "SDK for Developers",
+            "tier_description": "Usage-based pricing",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Server-side Noise Cancellation SDK",
+              "Client-side Noise Cancellation SDK",
+              "Client-side Accent Conversion SDK"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": []
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "SDK Usage",
+            "unit": "per request",
+            "base_price": null,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": true
+        },
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:51:28.521640",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://krisp.ai/pricing/",
+      "is_accessible": true,
+      "content": "#### Free\n\nFor Individuals to capture meetings & noise cancellation\n\nFree forever\n\n**$ 0 USD**\n\n**Key features**\n\n**Unlimited** Transcript & Audio Recording\n\n**60 min/day** Noise Cancellation\n\n**60 min/day** Accent Conversion\n\n**2/day** AI notes & Action Items\n\n**7 day** Meeting history\n\nEnglish only Transcript & Summaries\n\nBot-free Transcription and Recording with speaker identification\n\nBot-free\n\nIn-person meetings support (Soon)\n\nWorkspace-level 750 words\n\nCustom Vocabulary\n\nAgenda\n\n*   Centralized Meeting space\n*   Workspace level sharing\n*   Workspace-level custom vocabulary\n*   Workspace Contacts\n\nWorkspace\n\nSlack Integration\n\n5 uploads in Free plan\n\nFile Uploads & Transcribe\n\nMobile app (Soon)\n\nChrome Extension\n\n#### Pro\n\nUnlimited Meeting Assistance & Workspace Collaboration\n\nMonthly Yearly Save 50%\n\n**$ 8 6![Image 1](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_old_price.svg) USD/ per month**\n\nEverything in Free - \u00a0Unlimited\n\n*   Unlimited Transcript & Audio Recording\n*   Unlimited Noise Cancellation\n*   60 min/day Accent Conversion\n*   Unlimited AI Notes & Action Items\n*   Unlimited Meeting History\n\n**Plus**\n\nTranscript & Summaries in 19+ langs\n\nVideo Recording\n\nAsk Krisp - Co-pilot\n\nAll Action Items from your meetings in one place\n\nCentralized Action Items\n\nMore detailed AI summaries\n\nAI Outline\n\nRecord with bot\n\nBulk export any meeting file - Export, delete, pdf ...\n\nBulk Actions\n\n**Integrations**\n\nSlack, Zapier\n\n**Storage**\n\n3GB\n\n**User management & billing**\n\nCentralized user management\n\nCentralized billing\n\n#### Business\n\nAdmin Controls, Sales Features, Integrations and Priority support\n\nMonthly Yearly Save 50%\n\n**$ 15 0![Image 2](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_old_price.svg) USD/ per month**\n\nEverything in Pro - \u00a0Unlimited\n\n*   Unlimited Transcript & Audio Recording\n*   Unlimited Noise Cancellation\n*   Unlimited Accent Conversion\n*   Unlimited AI Notes & Action Items\n*   Unlimited Meeting History\n\n**Plus**\n\nSSO/SCIM\n\nSOC2 Report Access\n\nAdmin controls\n\nManager view\n\nCompany deal grouping\n\nUsage analytics\n\nDedicated Account Manager\n\n**Integrations with any CRM & ATS**\n\nHubspot, Salesforce, Affinity\n\n**Storage**\n\nbest for storing video recordings\n\n30GB\n\n#### For Call Centers\n\nPrice varies based on features and volume\n\n**Core Features**\n\nUnlimited AI Noise Cancellation Demo ![Image 3](blob:http://localhost/3dc1c7fc5cfbe48b7dc86bea88b1af32)\n\nAI Accent Conversion (Add-On) Demo ![Image 4](blob:http://localhost/3dc1c7fc5cfbe48b7dc86bea88b1af32)\n\nAI Live Interpreter (Add-On) Demo ![Image 5](blob:http://localhost/3dc1c7fc5cfbe48b7dc86bea88b1af32)\n\nAI Agent Copilot (Add-On)\n\nUnlimited Call Transcripts (optional)\n\nUnlimited Call Recordings (optional)\n\n**Support & Security**\n\n24/7 Premium Support\n\nDedicated customer success manager\n\nKrisp will ensure you have dedicated access to our top-notch Customer Success team to help with any questions they might encounter\n\nAssisted security reviews\n\nDedicated Krisp Account Manager provides customized reporting for your account and holds stand-ups with admins and other stakeholders.\n\n**Advanced Controls**\n\nAnalytics dashboard\n\nAggregates measurement of product usage, noise detection and cleansing, and user activity from a set of centralized dashboards.\n\nSSO & SCIM\n\nManage employee access with secure single sign-on and set up SCIM to automatically assign and un-assign users to seats.\n\nCentralized deployment & management\n\nControl the app experience and configurations for the entire team from one centralized dashboard\n\nEnterprise-scale App auto-update\n\nDevice-based authentication\n\nKrisp can be licensed per device for Enterprise customers, eliminating email authentication.\n\n#### SDK for Developers\n\nUsage-based pricing\n\n**Available Packages**\n\nServer-side Noise Cancellation SDK\n\nClient-side Noise Cancellation SDK\n\nClient-side Accent Conversion SDK\n\nCustomer Request Form\n---------------------\n\nPlease fill out the below form telling us more about your interest in Krisp SDKs. Once we've reviewed your information, we will contact you to discuss.\n\nYour name \\*\n\nWork email \\*\n\nTitle/role \\*\n\nCompany name \\*\n\nHow many employees work at your company? \\*\n\nCompany size\n\nIn a few sentences, please describe the use case for Krisp with your solution. \\*\n\nYour Message\n\nWhich of our SDKs are you interested in? \\*\n\nSelect SDK\n\nWhich platforms do you need to support? \\*\n\nSelect Platform\n\nWhat is your ideal timeline for integrating Krisp? \\*\n\nYour Message\n\n![Image 6: form success icon](blob:http://localhost/eb7bbc9e8000e53606e9b8bd744aa7c4) Something Went Wrong!\n\n![Image 7: form success icon](blob:http://localhost/eb7bbc9e8000e53606e9b8bd744aa7c4) Thanks for submitting the form! Our team will be in touch in 2-3 business days.\n\nBy contacting our team, you agree to the [Terms of Use](https://krisp.ai/terms-of-use/) and [Privacy Policy](https://krisp.ai/privacy-policy/).\n\nThis form is protected by reCAPTCHA and the Google [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms) apply.\n\n#### Compare plans and features\n\n**AI Meeting Assistant**\n\n**Transcription & Audio Recording**\n\n**Noise Cancellation**\n\n**Accent Conversion**\n\n**AI Summaries and Action Items**\n\n**Meeting History**\n\n**Upload meeting**\n\n**Transcript & Summaries in 19+ langs**\n\n**Video Recording**\n\n**Detailed AI Summaries**\n\n**Ask Krisp - Co-pilot**\n\n**Bulk Actions**\n\n**Record with bot**\n\n**Storage**\n\n**Storage**\n\n**Workspace & Collaboration**\n\n**Members**\n\n**Workspace Sharing**\n\n**Workspace level Custom Vocabulary**\n\n**Centralized Action Items**\n\n**Auto Agenda**\n\n**Meeting Tags**\n\n**Domain meeting filter**\n\n**Workspace Level Contact Management**\n\n**Commenting and Tagging**\n\n**Integrations**\n\n**Slack**\n\n**Zapier**\n\n**Hubspot**\n\n**Salesforce**\n\n**Admin Controls**\n\n**MFA**\n\n**Centralized Billing**\n\n**User management**\n\n**SSO & SCIMs**\n\n**SOC2 Report Access**\n\n**Manager View**\n\n**Custom Branding for Emails**\n\n**Domain Capture**\n\n**Disable Auto share for team**\n\n**Enforce the Recording mode**\n\n**Rule based recording exclusions**\n\n**Support**\n\n###### Free\n\n**Unlimited**\n\n**60 minutes daily**\n\n**60 minutes daily**\n\n**2 daily**\n\n**7 days**\n\n**5**\n\n**Unlimited**\n\n![Image 8: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 9: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 10: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 11: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n**24/7**\n\n###### Pro\n\n**Unlimited**\n\n**Unlimited**\n\n**60 minutes daily**\n\n**Unlimited**\n\n**Unlimited**\n\n**Unlimited**\n\n**Unlimited**\n\n![Image 12: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 13: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 14: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 15: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 16: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n**3GB**\n\n**Unlimited**\n\n![Image 17: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 18: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 19: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 20: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 21: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 22: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 23: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 24: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 25: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 26: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 27: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n**24/7**\n\n###### Business\n\n**Unlimited**\n\n**Unlimited**\n\n**Unlimited**\n\n**Unlimited**\n\n**Unlimited**\n\n**Unlimited**\n\n**Unlimited**\n\n![Image 28: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 29: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 30: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 31: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 32: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n**30GB**\n\n**Unlimited**\n\n![Image 33: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 34: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 35: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 36: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 37: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 38: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 39: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 40: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 41: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 42: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 43: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 44: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 45: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 46: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 47: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 48: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 49: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 50: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 51: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 52: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 53: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 54: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n![Image 55: included](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_check_large.svg)\n\n**Priority**\n\n#### Deployed in world's leading enterprises\n\n![Image 56: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_concentrix.svg)\n\n![Image 57: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_teleperformance.svg)\n\n![Image 58: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_vxi.svg)\n\n![Image 59: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_startek.svg)\n\n![Image 60: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_ienergizer.svg)\n\n![Image 61: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_transparentbpo.png)\n\n![Image 62: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_supportzebra.svg)\n\n![Image 63: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_firstsource.svg)\n\n![Image 64: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_cognizant.png)\n\n![Image 65: logo](https://krisp.ai/wp-content/themes/krisp-v4/imgs/logo_officegurus.png)\n\n![Image 66: logo](blob:http://localhost/66cb14a6c25c2a07bb32e83191493820)\n\nFrequently Asked Questions\n--------------------------\n\n**What payment methods do you accept?**\n\nCurrently our accepted payment methods are Credit/debit cards such as Visa, Visa Debit, MasterCard, Discover, JCB, and American Express.\n\n**What currency will I be charged with?**\n\nCurrently our accepted payment currency is USD. You may pay via Card in your currency, but the price will depend on the exchange rate of your bank.\n\n**Can I change my plan later?**\n\nYou may change your plan whenever you want.  \nYou\u2019ll also be able to change your payment cycle (monthly/yearly) [as shown here](https://help.krisp.ai/hc/en-us/articles/360017656559-Change-the-subscription-plan-for-your-Krisp-account).\n\n**Do I need to change my plan if I want to add a member?**\n\nIn order to invite a team member you need to upgrade to Pro.\n\nHave more questions? [Visit our help center](https://help.krisp.ai/)\n\nFrequently Asked Questions\n--------------------------\n\n**Is there a minimum seat count for the Call Center plan?**\n\nYes, the Call Center plan typically requires a minimum commitment of 40 seats. If your team is smaller, you may want to explore our AI Meeting Assistant plans or reach out to us at [sales@krisp.ai](mailto:sales@krisp.ai) to discuss other options.\n\n**Can we add more seats to an existing team?**\n\nYes, you can add seats to your team at any time during your subscription cycle. The additional cost will be prorated based on your subscription renewal date.\n\n**What is the subscription cycle for the Call Center plan?**\n\nThe Call Center plan is billed annually at a fixed monthly rate.\n\n**How should we arrange teams if different users require different Krisp products?**\n\nTo accommodate different product needs, you should create separate teams for each feature set. They can be nested under one Organization for centralized management. For assistance in setting this up, contact us at [sales@krisp.ai](mailto:sales@krisp.ai).\n\n#### Organizations worldwide love Krisp\n\n![Image 67: Olivier Camino](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_olivier.png)\n\n**Olivier Camino**  \n**Global COO** at Foundever\n\n\u201cKrisp\u2019s technology supports our vision of leveraging AI to deliver better experiences for our clients\u2019 customers. Our group is committed to driving grounded innovation through partnerships that empower CX improvement, and Krisp is a valued partner on this roadmap.\u201d\n\n**Olivier Camino**  \n**Global COO** at Foundever\n\n![Image 68: Jared Pandolfi](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_jared.png)\n\n**Jared Pandolfi**  \n**Director of IT** at Trusted Tech Team\n\n\u201cKrisp has been instrumental in enhancing our communication clarity and productivity. Its AI-driven noise cancellation is a game-changer, enabling our team to remain focused and professional in every interaction.  \nOur partnership with Krisp has been smooth and highly rewarding, and the product consistently exceeds our expectations. Krisp has truly become an indispensable tool in our daily operations, and we look forward to continuing this collaboration.\u201d\n\n**Jared Pandolfi**  \n**Director of IT** at Trusted Tech Team\n\n![Image 69: Jordan Gluck](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_jordan.png)\n\n**Jordan Gluck**  \n**Vice President** at The Office Gurus\n\n\u201cKrisp has been a game-changer for The Office Gurus, transforming our Call Center operations. Its Noise Cancellation technology has eliminated noise complaints, significantly enhanced the customer experience, and driven exceptional CSAT scores.  \nKrisp's strong commitment to security has further solidified our trust in the platform. With Krisp, our agents consistently sound \"Guru Clear\" to our valued customers, making it an integral part of our success story.\u201d\n\n**Jordan Gluck**  \n**Vice President** at The Office Gurus\n\n![Image 70: Abhinandan Jain](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_jain.jpg)\n\n**Abhinandan Jain**  \n**Chief digital officer** at Startek\n\n\u201cOur partnership with Krisp enhances our ability to respond with empathy to the customer. By leveraging AI tools to support voice-based interactions, Startek delivers a superior experience.\u201d\n\n**Abhinandan Jain**  \n**Chief digital officer** at Startek\n\n![Image 71: Tom Moskal](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_tom.png)\n\n**Tom Moskal**  \n**Vice President of Global Client Services** at OP 360\n\n\u201cKrisp elevates the professionalism of our calls. Knowing that Krisp is there and understanding that their voice on the customer's end will be very clean makes our agents more confident. Our agents love having the product: it's easy to install, easy to use, and provides peace of mind.\u201d\n\n**Tom Moskal**  \n**Vice President of Global Client Services** at OP 360\n\n![Image 72: Travis Markel](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_travis.jpg)\n\n**Travis Markel**  \n**Chief Operating Officer** at arrivia\n\n\u201cKrisp creates wins for our customers, company, and team members. It enables higher-quality interactions, unlocks new opportunities for our agents, and drives real productivity gains. Arrivia benefits from delivering service that exceeds expectations while strengthening connections between our global team and the customers we serve. Our partnership with Krisp has truly elevated our ability to deliver exceptional value.\u201d\n\n**Travis Markel**  \n**Chief Operating Officer** at arrivia\n\n![Image 73: Go to previous slide](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_slider_prev.svg)\n\n![Image 74: Go to next slide](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_slider_next.svg)\n\n#### Trusted by the world\u2019s best professionals\n\n![Image 75: Karsten B.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_karsten.png)\n\n**Karsten B.**  \n**Executive Compensation Associate**\n\n\u201cKrisp works exceptionally well. Once set up, it is a pretty seamless experience and automatically detects whichever software I'm using. Nobody on the other line can ever hear the background noise from my end, and people have commented that it sounds like I'm \"in a library\" or a studio.\u201d\n\n**Karsten B.**  \n**Executive Compensation Associate**\n\n![Image 76: Jaslyn T.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_jaslyn.png)\n\n**Jaslyn T.**  \n**Client Services Manager**\n\n\u201cLife saver for WFH employees.  \nKrisp allows me to work from home where there are dogs barking, laundry running, and people going about their daily activities - yet their noise is blocked so I can appear professional and not be a distraction on video calls.\u201d\n\n**Jaslyn T.**  \n**Client Services Manager**\n\n![Image 77: Eric Z.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_eric.png)\n\n**Eric Z.**  \n**Principal Owner**\n\n\u201cAI noise cancellation works as advertised, even in the noisiest environments. Runs seamlessly in the background. Easy to toggle on/off and adjust settings from the taskbar corner on windows. The two-way noise cancellation is a huge benefit, eliminating the distracting background noises of your non-krisp-using coworkers.\u201d\n\n**Eric Z.**  \n**Principal Owner**\n\n![Image 78: Harvey Jones](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_harvey.png)\n\n**Harvey Jones**  \n**Head of Workplace Collaboration**\n\n\u201cAtlassian staff working at home have benefitted from the Krisp service since early in the pandemic. Since our Team Anywhere announcement, we have sought ways to make remote and hybrid working more effective, and Krisp's ability to screen background noise from calls and recordings has been invaluable to many staff.\u201d\n\n**Harvey Jones**  \n**Head of Workplace Collaboration**\n\n![Image 79: Chad E.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_chad.png)\n\n**Chad E.**  \n**Solutions Architect**\n\n\u201cWith a nice noise-canceling headset, you can remove those background noises coming from your side of the call for yourself, BUT, you still have to deal with the other sides of the calls, and Krisp lets you filter out those noises as well. No more Dog Barking in the background!\u201d\n\n**Chad E.**  \n**Solutions Architect**\n\n![Image 80: Isaac G.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_isaac.png)\n\n**Isaac G.**  \n**Agile transformation coach**\n\n\u201cKrisp mutes the noise I don't want going into my call and always allows me to be heard. I have crying kids in the background, noisy house stuff, noises from my computer and none of them ever get on the call. Bonus points for being able to mute the backgrounds of others on the call if their environment is noisy.\u201d\n\n**Isaac G.**  \n**Agile transformation coach**\n\n![Image 81: Karsten B.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_karsten.png)\n\n**Karsten B.**  \n**Executive Compensation Associate**\n\n\u201cKrisp works exceptionally well. Once set up, it is a pretty seamless experience and automatically detects whichever software I'm using. Nobody on the other line can ever hear the background noise from my end, and people have commented that it sounds like I'm \"in a library\" or a studio.\u201d\n\n**Karsten B.**  \n**Executive Compensation Associate**\n\n![Image 82: Jaslyn T.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_jaslyn.png)\n\n**Jaslyn T.**  \n**Client Services Manager**\n\n\u201cLife saver for WFH employees.  \nKrisp allows me to work from home where there are dogs barking, laundry running, and people going about their daily activities - yet their noise is blocked so I can appear professional and not be a distraction on video calls.\u201d\n\n**Jaslyn T.**  \n**Client Services Manager**\n\n![Image 83: Eric Z.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_eric.png)\n\n**Eric Z.**  \n**Principal Owner**\n\n\u201cAI noise cancellation works as advertised, even in the noisiest environments. Runs seamlessly in the background. Easy to toggle on/off and adjust settings from the taskbar corner on windows. The two-way noise cancellation is a huge benefit, eliminating the distracting background noises of your non-krisp-using coworkers.\u201d\n\n**Eric Z.**  \n**Principal Owner**\n\n![Image 84: Harvey Jones](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_harvey.png)\n\n**Harvey Jones**  \n**Head of Workplace Collaboration**\n\n\u201cAtlassian staff working at home have benefitted from the Krisp service since early in the pandemic. Since our Team Anywhere announcement, we have sought ways to make remote and hybrid working more effective, and Krisp's ability to screen background noise from calls and recordings has been invaluable to many staff.\u201d\n\n**Harvey Jones**  \n**Head of Workplace Collaboration**\n\n![Image 85: Chad E.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_chad.png)\n\n**Chad E.**  \n**Solutions Architect**\n\n\u201cWith a nice noise-canceling headset, you can remove those background noises coming from your side of the call for yourself, BUT, you still have to deal with the other sides of the calls, and Krisp lets you filter out those noises as well. No more Dog Barking in the background!\u201d\n\n**Chad E.**  \n**Solutions Architect**\n\n![Image 86: Isaac G.](https://krisp.ai/wp-content/themes/krisp-v4/imgs/img_isaac.png)\n\n**Isaac G.**  \n**Agile transformation coach**\n\n\u201cKrisp mutes the noise I don't want going into my call and always allows me to be heard. I have crying kids in the background, noisy house stuff, noises from my computer and none of them ever get on the call. Bonus points for being able to mute the backgrounds of others on the call if their environment is noisy.\u201d\n\n**Isaac G.**  \n**Agile transformation coach**\n\n![Image 87: Go to previous slide](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_slider_prev.svg)\n\n![Image 88: Go to next slide](https://krisp.ai/wp-content/themes/krisp-v4/imgs/icon_slider_next.svg)\n\n### Ready to get started?\n\nWith Krisp, you and your team will have more productive and engaging online meetings\u2014without all the distractions.\n\n![Image 89: Green check mark](blob:http://localhost/f85498d7c80413e296759cb29af7206e)For individuals and small teams ![Image 90: Green check mark](blob:http://localhost/f85498d7c80413e296759cb29af7206e)No credit card required\n\n![Image 91: Green check mark](blob:http://localhost/f85498d7c80413e296759cb29af7206e)For enterprise and call centers\n\nLooking for Krisp's pricing and plans information? Learn more about our different pricing plans from free personal accounts to teams and enterprises.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "krisp",
+        "app_name": "Krisp",
+        "app_slug": "krisp",
+        "pricing_url": "https://krisp.ai/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://krisp.ai/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes subscription plans for individuals and businesses, as well as usage-based pricing for SDKs and custom solutions for call centers.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "For Individuals to capture meetings & noise cancellation",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited Transcript & Audio Recording",
+              "60 min/day Noise Cancellation",
+              "60 min/day Accent Conversion",
+              "2/day AI notes & Action Items",
+              "7 day Meeting history",
+              "English only Transcript & Summaries",
+              "Bot-free Transcription and Recording with speaker identification",
+              "Workspace-level 750 words",
+              "Custom Vocabulary",
+              "Agenda",
+              "Centralized Meeting space",
+              "Workspace level sharing",
+              "Workspace-level custom vocabulary",
+              "Workspace Contacts",
+              "Slack Integration",
+              "5 uploads in Free plan",
+              "File Uploads & Transcribe",
+              "Mobile app (Soon)",
+              "Chrome Extension"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Unlimited Meeting Assistance & Workspace Collaboration",
+            "monthly_price": 8.0,
+            "annual_price": 6.0,
+            "annual_discount_percentage": 50.0,
+            "setup_fee": null,
+            "features": [
+              "Everything in Free - Unlimited",
+              "Unlimited Transcript & Audio Recording",
+              "Unlimited Noise Cancellation",
+              "60 min/day Accent Conversion",
+              "Unlimited AI Notes & Action Items",
+              "Unlimited Meeting History",
+              "Transcript & Summaries in 19+ langs",
+              "Video Recording",
+              "Ask Krisp - Co-pilot",
+              "All Action Items from your meetings in one place",
+              "Centralized Action Items",
+              "More detailed AI summaries",
+              "AI Outline",
+              "Record with bot",
+              "Bulk export any meeting file - Export, delete, pdf ...",
+              "Bulk Actions",
+              "Integrations: Slack, Zapier",
+              "Storage: 3GB",
+              "User management & billing",
+              "Centralized user management",
+              "Centralized billing"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "3GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "Admin Controls, Sales Features, Integrations and Priority support",
+            "monthly_price": 15.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": 50.0,
+            "setup_fee": null,
+            "features": [
+              "Everything in Pro - Unlimited",
+              "Unlimited Transcript & Audio Recording",
+              "Unlimited Noise Cancellation",
+              "Unlimited Accent Conversion",
+              "Unlimited AI Notes & Action Items",
+              "Unlimited Meeting History",
+              "SSO/SCIM",
+              "SOC2 Report Access",
+              "Admin controls",
+              "Manager view",
+              "Company deal grouping",
+              "Usage analytics",
+              "Dedicated Account Manager",
+              "Integrations with any CRM & ATS: Hubspot, Salesforce, Affinity",
+              "Storage: best for storing video recordings",
+              "30GB"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "30GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "SDK Usage",
+            "unit": "per usage",
+            "base_price": null,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": null,
+          "has_fine_tuning_pricing": null,
+          "has_training_pricing": null,
+          "ai_addon_available": null
+        },
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:51:46.977947",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\krisp\\20250414_235147"
+}

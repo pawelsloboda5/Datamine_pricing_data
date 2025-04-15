@@ -1,0 +1,19 @@
+{
+  "app_name": "Sage Accounting",
+  "app_slug": "sage-accounting",
+  "search_term": "Find the official pricing page URL for Sage Accounting (sage-accounting.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744687893.8540726,
+  "response_text": [
+    "Official pricing page URL for Sage Accounting: [https://www.sage.com/en-us/sage-business-cloud/accounting/pricing/](https://www.sage.com/en-us/sage-business-cloud/accounting/pricing/) "
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.sage.com/en-us/sage-business-cloud/accounting/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\sage-accounting\\20250414_233149"
+}

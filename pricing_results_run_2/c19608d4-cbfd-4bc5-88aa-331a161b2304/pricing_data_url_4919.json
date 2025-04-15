@@ -1,0 +1,122 @@
+{
+  "app_id": "qwilr",
+  "app_name": "Qwilr",
+  "app_slug": "qwilr",
+  "pricing_url": "https://qwilr.com/pricing",
+  "source_url": "https://qwilr.com/pricing/",
+  "all_pricing_urls": [
+    "https://qwilr.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes per-user monthly rates with discounts for annual billing. Enterprise plan requires a minimum of 10 users.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Business",
+      "tier_description": "Best for smaller teams or individuals who want to create professional proposals, capture e-signatures, collect payments, and use HubSpot.",
+      "monthly_price": 39.0,
+      "annual_price": 35.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Content editor",
+        "e-sign",
+        "QwilrPay",
+        "Pricing & quotes",
+        "Page analytics",
+        "HubSpot CRM",
+        "Notifications"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For larger teams using Salesforce who want to scale and automate their proposal process with CRM automations, security, and advanced analytics.",
+      "monthly_price": 59.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Account manager",
+        "Custom branding",
+        "Team permissions",
+        "Identity verification",
+        "Domain-restricted access",
+        "Template-level settings"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "QwilrPay Application Fee",
+      "unit": "per transaction",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": null,
+          "max": null,
+          "price": 0.09
+        },
+        {
+          "min": null,
+          "max": null,
+          "price": 0.05
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Payment Gateway Processing Fee",
+      "fee_amount": null,
+      "fee_description": "Fees set by Stripe for payment processing."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:00:53.592908",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c19608d4-cbfd-4bc5-88aa-331a161b2304",
+    "name": "Qwilr",
+    "slug": "qwilr",
+    "description": "Qwilr is reimagining the way you communicate with your clients. We help you make beautiful, intuitive sales and marketing documents that look impressive and integrate seamlessly with your business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/e133fbefa253ebc60455b54c4cd6937d_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Proposal & Invoice Management"
+    ],
+    "category_slugs": [
+      "invoices"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 3
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "app_id": "donorbox",
+  "app_name": "Donorbox",
+  "app_slug": "donorbox",
+  "pricing_url": "https://donorbox.org/pricing",
+  "source_url": "https://donorbox.org/pricing",
+  "all_pricing_urls": [
+    "https://donorbox.org/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Donorbox offers a free tier with additional features available in paid plans. Platform fees and processing fees apply to all plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Basic plan with essential features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Donation Forms",
+        "Fundraising Pages",
+        "Crowdfunding Pages",
+        "QuickDonate",
+        "Peer-to-Peer: Org"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional team members",
+            "value": "$6/mo per team member"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Enhanced plan with additional features.",
+      "monthly_price": 150.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Donation Forms",
+        "Fundraising Pages",
+        "Crowdfunding Pages",
+        "QuickDonate",
+        "Peer-to-Peer: Org",
+        "Memberships",
+        "AI Assistant"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional team members",
+            "value": "$6/mo per team member"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Custom plan for advanced needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Donation Forms",
+        "Fundraising Pages",
+        "Crowdfunding Pages",
+        "QuickDonate",
+        "Peer-to-Peer: Org",
+        "Memberships",
+        "AI Assistant",
+        "Recurring Donation Upsell",
+        "Account Manager",
+        "Priority Tech Support",
+        "Guided Onboarding"
+      ],
+      "limits": {
+        "users": 30,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional team members",
+            "value": "$6/mo per team member"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Zapier & API",
+      "unit": "per month",
+      "base_price": 17.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Tracking & Analytics",
+      "unit": "per month",
+      "base_price": 35.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Receipt Rebranding",
+      "fee_amount": 348.0,
+      "fee_description": "Annual fee for removing 'Powered by Donorbox' branding."
+    },
+    {
+      "fee_name": "Migration of recurring donors",
+      "fee_amount": 195.0,
+      "fee_description": "Flat fee for migrating recurring donors."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T10:18:02.806779",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "779ed0d1-0996-4e49-bcdf-dad6a6bd561e",
+    "name": "Donorbox",
+    "slug": "donorbox",
+    "description": "Donorbox is a powerful fundraising platform powering 50000+ organizations, it is simple to setup and attracts more recurring donors.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/3200410ea097cc3fe899f3716ebcbc6c_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fundraising"
+    ],
+    "category_slugs": [
+      "fundraising"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 5
+  }
+}

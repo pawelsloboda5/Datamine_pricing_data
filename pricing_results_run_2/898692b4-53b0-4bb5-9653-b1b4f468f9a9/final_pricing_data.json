@@ -1,0 +1,165 @@
+{
+  "app_id": "qonto",
+  "app_name": "Qonto",
+  "app_slug": "qonto",
+  "pricing_url": "https://qonto.com/en/pricing",
+  "source_url": "https://qonto.com/en/pricing",
+  "all_pricing_urls": [
+    "https://qonto.com/en/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes options for monthly and annual billing with discounts for annual payments. Additional fees apply for exceeding included transactions or for add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "A business account with essential invoicing capabilities for easy everyday financial management.",
+      "monthly_price": 11.0,
+      "annual_price": 108.0,
+      "annual_discount_percentage": 18.18,
+      "setup_fee": null,
+      "features": [
+        "Core banking features",
+        "1 x One Card Mastercard",
+        "30 transfers or direct debits/month",
+        "1 account",
+        "Access to financing offers",
+        "Core invoice management",
+        "Client invoice creation",
+        "Supplier invoice centralization & payment",
+        "External account syncing",
+        "14,000+ partner integrations",
+        "Accountant access & bookkeeping tools",
+        "Continuous support",
+        "7-day-a-week customer service"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": 30,
+        "api_calls": null,
+        "integrations": "14,000+",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Smart",
+      "tier_description": "An advanced business account with performance dashboards, integrated invoicing and bookkeeping.",
+      "monthly_price": 23.0,
+      "annual_price": 228.0,
+      "annual_discount_percentage": 17.39,
+      "setup_fee": null,
+      "features": [
+        "Enhanced banking features",
+        "1 x One Card Mastercard",
+        "60 transfers or direct debits/month",
+        "1 account & 1 sub-account",
+        "Access to financing offers",
+        "Core invoicing & bookkeeping",
+        "Client invoice creation",
+        "Supplier invoice centralization & payment",
+        "External account syncing",
+        "14,000+ partner integrations",
+        "Accountant access & bookkeeping tools",
+        "Continuous support",
+        "7-day-a-week customer service"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": 60,
+        "api_calls": null,
+        "integrations": "14,000+",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "For high-volume solopreneurs who need priority support, with extra accounts and dedicated IBANs.",
+      "monthly_price": 45.0,
+      "annual_price": 468.0,
+      "annual_discount_percentage": 13.33,
+      "setup_fee": null,
+      "features": [
+        "Premium banking features",
+        "1 x One Card Mastercard",
+        "100 transfers or direct debits/month",
+        "1 account & 4 sub-accounts",
+        "Access to financing offers",
+        "Core invoicing & bookkeeping",
+        "Client invoice creation",
+        "Supplier invoice centralization & payment",
+        "External account syncing",
+        "14,000+ partner integrations",
+        "Accountant access & bookkeeping tools",
+        "Priority support",
+        "Priority 7-day-a-week customer service"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": 100,
+        "api_calls": null,
+        "integrations": "14,000+",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Accounts Receivable Add-on Discount",
+      "offer_description": "Accounts Receivable add-on at \u20ac29/month for one year. Offer ends 30/06/2025.",
+      "discount_percentage": null,
+      "offer_url": "https://legal.qonto.com/#special-offer-ar-q2-2025-en",
+      "valid_until": "2025-06-30"
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Capital Increase Fee",
+      "fee_amount": 150.0,
+      "fee_description": "Capital increase of less than \u20ac1.2 million with a maximum of 15 shareholders and with the funds coming exclusively from French bank accounts."
+    },
+    {
+      "fee_name": "Capital Increase Fee (International)",
+      "fee_amount": 250.0,
+      "fee_description": "Capital increase of less than \u20ac1.2 million with a maximum of 15 shareholders and with the funds coming, in whole or in part, from bank accounts outside of France."
+    },
+    {
+      "fee_name": "Capital Increase Fee (Large)",
+      "fee_amount": 300.0,
+      "fee_description": "Capital increase of between \u20ac1.2 million and \u20ac5 million, and/or with between 15 and 30 shareholders, and/or with the funds coming, in whole or in part, from bank accounts outside of France."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:36:50.594754",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "898692b4-53b0-4bb5-9653-b1b4f468f9a9",
+    "name": "Qonto",
+    "slug": "qonto",
+    "description": "Qonto is bank built to make finances easier for businesses.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/380376a09e741a1ddc197dae14db4d5b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 8
+  }
+}

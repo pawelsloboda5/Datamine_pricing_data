@@ -1,0 +1,91 @@
+{
+  "app_id": "mindmanager",
+  "app_name": "MindManager",
+  "app_slug": "mindmanager",
+  "pricing_url": "https://www.mindmanager.com/en/pricing/",
+  "source_url": "https://www.mindmanager.com/en/pricing/",
+  "all_pricing_urls": [
+    "https://www.mindmanager.com/en/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.ONE_TIME",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "All prices are per user and include VAT. Discounts are available for annual subscriptions.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essentials",
+      "tier_description": "The web version of MindManager for individual projects and productivity.",
+      "monthly_price": null,
+      "annual_price": 99.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Web access",
+        "Basic project planning"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "The complete MindManager experience for individuals and small teams.",
+      "monthly_price": null,
+      "annual_price": 129.0,
+      "annual_discount_percentage": 28.0,
+      "setup_fee": null,
+      "features": [
+        "Enhanced Gantt capabilities",
+        "Collaboration tools",
+        "Full suite of features"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Special benefits for teams, enterprises, governments, nonprofits, and educational institutions.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Complete IT administration capabilities",
+        "Volume license discounts",
+        "Premium support"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:25:45.995532",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d04c8fd7-4135-4572-bfc1-ce8f608c94df",
+    "name": "MindManager",
+    "slug": "mindmanager-enterprise",
+    "description": "MindManager is productivity software for visualizing and managing complex information, such as detailed project plans. MindManager mind maps, flow charts, Gantt charts, and other diagrams help users more accurately define and validate project schedules, dependencies, workflows and resources.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/3dc6378fe299600ac5f3964eb28983f0.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Documents"
+    ],
+    "category_slugs": [
+      "documents"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "app_id": "invision_community",
+  "app_name": "Invision Community",
+  "app_slug": "invision-community",
+  "pricing_url": "https://invisioncommunity.com/buy",
+  "source_url": "https://invisioncommunity.com/buy",
+  "all_pricing_urls": [
+    "https://invisioncommunity.com/buy"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes multiple tiers with varying features and storage limits. Enterprise pricing is custom and requires contact with the sales team.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Creator",
+      "tier_description": "Develop your community further with our commerce and page building tools.",
+      "monthly_price": 99.0,
+      "annual_price": 1068.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Powerful response editor",
+        "Event management",
+        "Image and video uploads",
+        "Digital file sharing",
+        "Social groups",
+        "Live chat for webinars",
+        "User blogs",
+        "Subscription access",
+        "Digital marketplace",
+        "Dynamic pages",
+        "Integration with over 3,000 apps",
+        "Ranks and badges",
+        "Social login",
+        "Reporting metrics",
+        "500 GB storage",
+        "Unlimited moderators and administrators",
+        "Custom domain",
+        "Spam protection",
+        "Instant notifications",
+        "Community-based voting",
+        "Data migration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "500 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Creator Pro",
+      "tier_description": "Take it to the next level with more powerful additions.",
+      "monthly_price": 169.0,
+      "annual_price": 1788.0,
+      "annual_discount_percentage": 11.83,
+      "setup_fee": null,
+      "features": [
+        "All from Creator",
+        "Advanced dynamic pages",
+        "REST API access",
+        "Real-time member activity",
+        "Real-time typing indicators",
+        "Advanced live chat",
+        "Learning management",
+        "1,750 GB storage",
+        "EU or US data hosting",
+        "Premium app connections",
+        "Topic summaries",
+        "Custom SSO development"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "1,750 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Expand as your community thrives.",
+      "monthly_price": 259.0,
+      "annual_price": 2748.0,
+      "annual_discount_percentage": 11.57,
+      "setup_fee": null,
+      "features": [
+        "All from Creator Pro",
+        "Real-time trending topics",
+        "Live chat metrics",
+        "Video auto-encoding",
+        "Advanced learning features",
+        "3,000 GB storage",
+        "Expert identification",
+        "Staging site (extra cost)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "3,000 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Intelligent insights to help guide your busy community management team.",
+      "monthly_price": 619.0,
+      "annual_price": 6588.0,
+      "annual_discount_percentage": 11.57,
+      "setup_fee": null,
+      "features": [
+        "All from Team",
+        "Advanced reporting metrics",
+        "Historical trends",
+        "6,500 GB storage",
+        "AI image moderation",
+        "AI object tagging",
+        "Collaboration with Invision Community team",
+        "Advanced spam filtering",
+        "Moderator topic assignment",
+        "Discounted custom SSO and data conversion"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "6,500 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "We are your community partner with enterprise-level training and support.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All from Business",
+        "Unlimited storage",
+        "Strategic collaboration",
+        "Moderation support",
+        "Dedicated Slack channel",
+        "Custom theme design",
+        "Platform integration",
+        "Legal compliance",
+        "Account manager",
+        "Early access to features",
+        "Custom application development",
+        "Managed support email",
+        "Monthly site upgrades"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:08:19.247468",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "05e4d05c-26a8-4788-bc99-c7ff4fa141fb",
+    "name": "Invision Community",
+    "slug": "invision-community",
+    "description": "Invision Community is an independent community platform.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/bcb656f7ccfd8c509e10437b7eddc0b2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders"
+    ],
+    "category_slugs": [
+      "cms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 25,
+    "trigger_count": 24
+  }
+}

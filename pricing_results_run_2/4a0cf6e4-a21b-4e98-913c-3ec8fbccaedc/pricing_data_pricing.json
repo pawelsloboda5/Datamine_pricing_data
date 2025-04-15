@@ -1,0 +1,43 @@
+{
+  "app_id": "salestrekker",
+  "app_name": "Salestrekker",
+  "app_slug": "salestrekker",
+  "pricing_url": null,
+  "source_url": "https://salestrekker.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was inaccessible due to an access denial error.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:37:36.414627",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "4a0cf6e4-a21b-4e98-913c-3ec8fbccaedc",
+    "name": "Salestrekker",
+    "slug": "salestrekker",
+    "description": "Salestrekker is CRM software for finance professionals.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/9ae1764dd24dcc423cf7ee24d38d4668.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 10
+  }
+}

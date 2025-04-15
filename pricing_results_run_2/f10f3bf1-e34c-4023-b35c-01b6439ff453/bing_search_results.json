@@ -1,0 +1,19 @@
+{
+  "app_name": "MaintainX",
+  "app_slug": "maintainx",
+  "search_term": "Find the official pricing page URL for MaintainX (maintainx.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744693541.9151907,
+  "response_text": [
+    "The official pricing page for MaintainX is [https://www.getmaintainx.com/pricing/](https://www.getmaintainx.com/pricing/).  "
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.getmaintainx.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\maintainx\\20250415_010557"
+}

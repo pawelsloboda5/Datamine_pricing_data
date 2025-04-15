@@ -1,0 +1,24 @@
+{
+  "app_name": "Copper",
+  "app_slug": "copper",
+  "search_term": "Find the official pricing page URL for Copper (copper.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744710566.664439,
+  "response_text": [
+    "The official pricing page for Copper is [https://www.copper.com/pricing](https://www.copper.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Copper",
+      "url": "https://www.copper.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.copper.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\copper\\20250415_054942"
+}

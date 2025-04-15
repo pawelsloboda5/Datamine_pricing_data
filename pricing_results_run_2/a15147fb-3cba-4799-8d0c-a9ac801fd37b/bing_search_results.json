@@ -1,0 +1,12 @@
+{
+  "app_name": "SolarWinds Service Desk",
+  "app_slug": "samanage",
+  "search_term": "Find the official pricing page URL for SolarWinds Service Desk (samanage.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744721412.1945024,
+  "response_text": [
+    "I couldn't locate the official pricing page for SolarWinds Service Desk (samanage.com) during my search. You may visit SolarWinds' main site to explore their pricing or contact their support team for detailed information. Let me know if you need further assistance!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\samanage\\20250415_085012"
+}

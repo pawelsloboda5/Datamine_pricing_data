@@ -1,0 +1,12 @@
+{
+  "app_name": "Bark",
+  "app_slug": "bark",
+  "search_term": "Find the official pricing page URL for Bark (bark.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744708469.444737,
+  "response_text": [
+    "I couldn't locate the exact pricing page for Bark on their official website (bark.com). You might have to log in to the platform to access specific pricing details. Let me know if you'd like further assistance!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\bark\\20250415_051429"
+}

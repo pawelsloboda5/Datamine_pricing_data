@@ -1,0 +1,45 @@
+{
+  "app_id": "tave",
+  "app_name": "Tave",
+  "app_slug": "tave",
+  "pricing_url": "https://hello.tave.com/plans-and-pricing#",
+  "source_url": "https://hello.tave.com/plans-and-pricing",
+  "all_pricing_urls": [
+    "https://hello.tave.com/plans-and-pricing#"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not accessible, and no detailed pricing information could be extracted.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:46:10.626961",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "b2304558-2275-4397-8d7d-4a8739ee3d74",
+    "name": "Tave",
+    "slug": "tave",
+    "description": "T\u00e1ve is a studio management tool designed to organize and automate creative businesses.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/34d4dce4e212007bfa5c28613857eee5.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 3
+  }
+}

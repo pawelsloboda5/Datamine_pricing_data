@@ -1,0 +1,45 @@
+{
+  "app_id": "thrivecart",
+  "app_name": "ThriveCart",
+  "app_slug": "thrivecart",
+  "pricing_url": null,
+  "source_url": "https://thrivecart.com/pricing/",
+  "all_pricing_urls": [
+    "https://thrivecart.com/"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "No pricing information was accessible from the provided content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:13:11.718646",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "4b69b822-244b-4bf4-83bc-4c471814a004",
+    "name": "ThriveCart",
+    "slug": "thrivecart",
+    "description": "ThriveCart is the no. 1 cart software that grows your income from existing traffic.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/a091a0452483c1dd27c78693e2517685.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 17
+  }
+}

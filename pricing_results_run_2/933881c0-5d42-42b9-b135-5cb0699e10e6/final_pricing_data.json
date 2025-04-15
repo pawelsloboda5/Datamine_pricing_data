@@ -1,0 +1,171 @@
+{
+  "app_id": "telegram",
+  "app_name": "Telegram",
+  "app_slug": "telegram",
+  "pricing_url": "https://telegram.org/faq_premium",
+  "source_url": "https://core.telegram.org/api/premium",
+  "all_pricing_urls": [
+    "https://telegram.org/faq_premium",
+    "https://core.telegram.org/api/premium"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Telegram Premium offers additional features and raised limits for a subscription fee.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Premium",
+      "tier_description": "Unlocks additional exclusive client-side and API-side features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Stories-related features",
+        "Double limits",
+        "Business features",
+        "Last seen visibility",
+        "Message privacy controls",
+        "Increased upload size",
+        "Faster downloads",
+        "Custom wallpapers",
+        "Custom profile colors",
+        "Voice-to-text transcription",
+        "Real-time chat translation",
+        "No ads",
+        "Unique reactions",
+        "Premium stickers",
+        "Animated emojis",
+        "Advanced chat management",
+        "Profile badge",
+        "Animated profile pictures",
+        "Custom app icons",
+        "Infinite reactions",
+        "Emoji status",
+        "Saved tags",
+        "Message effects",
+        "Channel boosts",
+        "Forum topic icons"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Channels limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Saved GIFs limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Stickers faved limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Dialog filters limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Dialog filters chats limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Dialogs pinned limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Dialogs folder pinned limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Channels public limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Caption length limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "About length limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Chatlist invites limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Chatlists joined limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Story expiring limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Story caption length limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Stories sent weekly limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Stories sent monthly limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Stories suggested reactions limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Recommended channels limit premium",
+            "value": "increased"
+          },
+          {
+            "name": "Saved dialogs pinned limit premium",
+            "value": "increased"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:36:43.399788",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "933881c0-5d42-42b9-b135-5cb0699e10e6",
+    "name": "Telegram",
+    "slug": "telegram",
+    "description": "Telegram is a cloud-based instant messaging and voice over IP service developed by Telegram Messenger LLP.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/279dfee5aebe5a046e4544a04c777988_10.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS",
+      "Team Chat"
+    ],
+    "category_slugs": [
+      "phone",
+      "team-chat"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

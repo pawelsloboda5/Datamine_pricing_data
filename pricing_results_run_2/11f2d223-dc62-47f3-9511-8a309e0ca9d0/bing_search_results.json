@@ -1,0 +1,19 @@
+{
+  "app_name": "Burst SMS",
+  "app_slug": "burst-sms",
+  "search_term": "Find the official pricing page URL for Burst SMS (burst-sms.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744690432.9850206,
+  "response_text": [
+    "The official pricing page for Burst SMS can be found here: [https://www.burst-sms.com/pricing](https://www.burst-sms.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.burst-sms.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\burst-sms\\20250415_001353"
+}

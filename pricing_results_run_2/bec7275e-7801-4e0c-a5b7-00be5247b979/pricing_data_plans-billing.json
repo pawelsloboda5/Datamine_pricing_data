@@ -1,0 +1,48 @@
+{
+  "app_id": "cognito_forms",
+  "app_name": "Cognito Forms",
+  "app_slug": "cognito-forms",
+  "pricing_url": "https://www.cognitoforms.com/pricing",
+  "source_url": "https://www.cognitoforms.com/support/151/account-organizations/plans-billing",
+  "all_pricing_urls": [
+    "https://www.cognitoforms.com/pricing",
+    "https://www.cognitoforms.com/support/151/account-organizations/plans-billing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Users can upgrade or downgrade their subscription at any time. Prorated credits are applied for downgrades.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T10:00:48.871589",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "bec7275e-7801-4e0c-a5b7-00be5247b979",
+    "name": "Cognito Forms",
+    "slug": "cognito-forms",
+    "description": "Cognito Forms is an easy-to-use form builder that allows users to quickly build a form, include it on their website, and start capturing entries without having to do any development.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/8cb5117df433463e59ca368732335ea2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 2
+  }
+}

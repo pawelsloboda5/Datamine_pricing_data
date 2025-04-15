@@ -1,0 +1,143 @@
+{
+  "app_id": "mailchimp",
+  "app_name": "Mailchimp",
+  "app_slug": "mailchimp",
+  "pricing_url": "https://mailchimp.com/pricing/marketing/",
+  "source_url": "https://mailchimp.com/pricing/marketing/",
+  "all_pricing_urls": [
+    "https://mailchimp.com/pricing/marketing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Mailchimp offers a free tier and promotional discounts for larger contact lists.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic plan with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email marketing",
+        "Basic templates",
+        "Audience management"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Includes additional features for growing businesses.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email marketing",
+        "Custom templates",
+        "Audience segmentation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Advanced features for scaling businesses.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email marketing",
+        "Advanced templates",
+        "Marketing automation",
+        "Analytics"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Full suite of features for large enterprises.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email marketing",
+        "Premium templates",
+        "Advanced analytics",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Standard Plan Discount",
+      "offer_description": "Save 15% on the Standard plan for businesses with 10,000+ contacts.",
+      "discount_percentage": 15.0,
+      "offer_url": "https://mailchimp.com/pricing/marketing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:01:26.115091",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1db199f1-6e48-47c6-a4e6-2a2c2b7a1b1c",
+    "name": "Mailchimp",
+    "slug": "mailchimp",
+    "description": "Share your ideas with Mailchimp email newsletters\u2014then use its landing page and form builders to grow your lists and take marketing further with drip and transactional emails.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d4a87a6bccbd4490512fb02638086f9b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 21,
+    "trigger_count": 9
+  }
+}

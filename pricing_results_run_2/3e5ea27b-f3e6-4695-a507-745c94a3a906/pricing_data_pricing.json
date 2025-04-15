@@ -1,0 +1,361 @@
+{
+  "app_id": "systeme_io",
+  "app_name": "Systeme.io",
+  "app_slug": "systeme-io",
+  "pricing_url": "https://systeme.io/pricing",
+  "source_url": "https://systeme.io/pricing",
+  "all_pricing_urls": [
+    "https://systeme.io/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Systeme.io offers a free tier with no credit card required and multiple subscription tiers with increasing features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free forever plan with basic features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited emailing",
+        "Unlimited file storage space",
+        "Unlimited students",
+        "No transaction fees",
+        "Affiliate programs",
+        "Online support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 2000
+          },
+          {
+            "name": "Emails sent",
+            "value": "unlimited"
+          },
+          {
+            "name": "Sales funnels",
+            "value": 3
+          },
+          {
+            "name": "Sales funnel steps",
+            "value": 15
+          },
+          {
+            "name": "Blogs",
+            "value": 1
+          },
+          {
+            "name": "Blog posts",
+            "value": "unlimited"
+          },
+          {
+            "name": "Courses",
+            "value": 1
+          },
+          {
+            "name": "Students",
+            "value": "unlimited"
+          },
+          {
+            "name": "Communities",
+            "value": 1
+          },
+          {
+            "name": "Community members",
+            "value": "unlimited"
+          },
+          {
+            "name": "File storage space",
+            "value": "unlimited"
+          },
+          {
+            "name": "Automation rules",
+            "value": 1
+          },
+          {
+            "name": "Workflows",
+            "value": 1
+          },
+          {
+            "name": "Custom domains",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Startup",
+      "tier_description": "Startup plan with additional features.",
+      "monthly_price": 27.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features in Free plan",
+        "Increased limits"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 5000
+          },
+          {
+            "name": "Emails sent",
+            "value": "unlimited"
+          },
+          {
+            "name": "Sales funnels",
+            "value": 10
+          },
+          {
+            "name": "Sales funnel steps",
+            "value": 50
+          },
+          {
+            "name": "Blogs",
+            "value": 5
+          },
+          {
+            "name": "Blog posts",
+            "value": "unlimited"
+          },
+          {
+            "name": "Courses",
+            "value": 5
+          },
+          {
+            "name": "Students",
+            "value": "unlimited"
+          },
+          {
+            "name": "Communities",
+            "value": 5
+          },
+          {
+            "name": "Community members",
+            "value": "unlimited"
+          },
+          {
+            "name": "File storage space",
+            "value": "unlimited"
+          },
+          {
+            "name": "Automation rules",
+            "value": 10
+          },
+          {
+            "name": "Workflows",
+            "value": 5
+          },
+          {
+            "name": "Custom domains",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Webinar",
+      "tier_description": "Webinar plan with advanced features.",
+      "monthly_price": 47.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features in Startup plan",
+        "Webinar capabilities"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 10000
+          },
+          {
+            "name": "Emails sent",
+            "value": "unlimited"
+          },
+          {
+            "name": "Sales funnels",
+            "value": 50
+          },
+          {
+            "name": "Sales funnel steps",
+            "value": 300
+          },
+          {
+            "name": "Blogs",
+            "value": 20
+          },
+          {
+            "name": "Blog posts",
+            "value": "unlimited"
+          },
+          {
+            "name": "Courses",
+            "value": 20
+          },
+          {
+            "name": "Students",
+            "value": "unlimited"
+          },
+          {
+            "name": "Communities",
+            "value": 20
+          },
+          {
+            "name": "Community members",
+            "value": "unlimited"
+          },
+          {
+            "name": "File storage space",
+            "value": "unlimited"
+          },
+          {
+            "name": "Automation rules",
+            "value": 100
+          },
+          {
+            "name": "Workflows",
+            "value": 20
+          },
+          {
+            "name": "Custom domains",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Unlimited",
+      "tier_description": "Unlimited plan with all features and no limits.",
+      "monthly_price": 97.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features in Webinar plan",
+        "No limits on usage"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": "unlimited"
+          },
+          {
+            "name": "Emails sent",
+            "value": "unlimited"
+          },
+          {
+            "name": "Sales funnels",
+            "value": "unlimited"
+          },
+          {
+            "name": "Sales funnel steps",
+            "value": "unlimited"
+          },
+          {
+            "name": "Blogs",
+            "value": "unlimited"
+          },
+          {
+            "name": "Blog posts",
+            "value": "unlimited"
+          },
+          {
+            "name": "Courses",
+            "value": "unlimited"
+          },
+          {
+            "name": "Students",
+            "value": "unlimited"
+          },
+          {
+            "name": "Communities",
+            "value": "unlimited"
+          },
+          {
+            "name": "Community members",
+            "value": "unlimited"
+          },
+          {
+            "name": "File storage space",
+            "value": "unlimited"
+          },
+          {
+            "name": "Automation rules",
+            "value": "unlimited"
+          },
+          {
+            "name": "Workflows",
+            "value": "unlimited"
+          },
+          {
+            "name": "Custom domains",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:15:51.186444",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3e5ea27b-f3e6-4695-a507-745c94a3a906",
+    "name": "systeme.io",
+    "slug": "systemeio",
+    "description": "Systeme.io allows you to build sales funnels, send emails and automate your entire business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/0ff969b7bfb8bb9c6ffa754a4aaecd2d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 4
+  }
+}

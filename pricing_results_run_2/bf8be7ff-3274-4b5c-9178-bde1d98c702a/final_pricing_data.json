@@ -1,0 +1,118 @@
+{
+  "app_id": "proposify",
+  "app_name": "Proposify",
+  "app_slug": "proposify",
+  "pricing_url": "https://www.proposify.com/pricing",
+  "source_url": "https://www.proposify.com/pricing",
+  "all_pricing_urls": [
+    "https://www.proposify.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user and varies based on billing frequency (monthly or annually).",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Kick-start your sales",
+      "monthly_price": 29.0,
+      "annual_price": 19.0,
+      "annual_discount_percentage": 34.48,
+      "setup_fee": null,
+      "features": [
+        "Up to 2 users",
+        "Content library",
+        "E-signatures & payments",
+        "Activity and metrics"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Collaborate as a team",
+      "monthly_price": 49.0,
+      "annual_price": 41.0,
+      "annual_discount_percentage": 16.33,
+      "setup_fee": null,
+      "features": [
+        "Everything in Basic",
+        "Integrations",
+        "Custom URL",
+        "Custom fields & variables",
+        "Auto reminders"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Scale your sales",
+      "monthly_price": 65.0,
+      "annual_price": 65.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Team",
+        "User roles and permissions",
+        "Approval workflows",
+        "Salesforce integration",
+        "Single Sign-On (SSO)",
+        "Multiple workspaces",
+        "API access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:50:23.546729",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bf8be7ff-3274-4b5c-9178-bde1d98c702a",
+    "name": "Proposify",
+    "slug": "proposify",
+    "description": "Do more! Proposify let's you connect with thousands of the most popular apps, so you can automate your work and have more time for what matters most\u2014no code required.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/88075fb758bd39f94fbed1a820fce640.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Proposal & Invoice Management"
+    ],
+    "category_slugs": [
+      "invoices"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 8
+  }
+}

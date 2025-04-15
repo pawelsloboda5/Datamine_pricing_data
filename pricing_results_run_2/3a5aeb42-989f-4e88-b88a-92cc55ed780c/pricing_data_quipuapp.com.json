@@ -1,0 +1,48 @@
+{
+  "app_id": "quipu",
+  "app_name": "Quipu",
+  "app_slug": "quipu",
+  "pricing_url": "http://quipuapp.com/es/plan-de-precios",
+  "source_url": "http://quipuapp.com",
+  "all_pricing_urls": [
+    "http://quipuapp.com/es/plan-de-precios"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 15,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The application offers a free trial for 15 days without requiring a credit card.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:46:05.160873",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3a5aeb42-989f-4e88-b88a-92cc55ed780c",
+    "name": "Quipu",
+    "slug": "quipuapp",
+    "description": "Quipu is an accounting app that makes accounting for small businesses and freelancers easier, automated and paperless.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/d23a3e3742b30414005089086308474b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

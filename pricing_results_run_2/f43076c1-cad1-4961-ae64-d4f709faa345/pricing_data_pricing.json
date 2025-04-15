@@ -1,0 +1,261 @@
+{
+  "app_id": "respond_io",
+  "app_name": "Respond.io",
+  "app_slug": "respond-io",
+  "pricing_url": "https://respond.io/pricing",
+  "source_url": "https://respond.io/pricing",
+  "all_pricing_urls": [
+    "https://respond.io/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on subscription tiers with additional usage-based fees for Monthly Active Contacts and WhatsApp API usage.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Manage conversations across all channels collaboratively and achieve your business goals.",
+      "monthly_price": 79.0,
+      "annual_price": 948.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Team & Custom Inboxes",
+        "Mobile App",
+        "AI Prompts & AI Assist",
+        "Broadcast",
+        "Broadcast Analytics",
+        "Workflow",
+        "Hubspot Integration",
+        "Salesforce Integration",
+        "Meta & TikTok Ads",
+        "Meta Product Catalog",
+        "Growth Widgets",
+        "Developer API",
+        "Zapier & Make",
+        "Webhook Events",
+        "HTTP Requests Step",
+        "24-Hour Chat Support",
+        "Real Time Dashboard",
+        "Basic Reports",
+        "Data Export",
+        "Two-Factor Authentication (2FA)"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional Users",
+            "value": "$12/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Track marketing campaign engagement and maximize conversions with automation and AI.",
+      "monthly_price": 159.0,
+      "annual_price": 1908.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Team & Custom Inboxes",
+        "Mobile App",
+        "AI Prompts & AI Assist",
+        "Broadcast",
+        "Broadcast Analytics",
+        "Workflow",
+        "AI Agent",
+        "Hubspot Integration",
+        "Salesforce Integration",
+        "Meta & TikTok Ads",
+        "Meta Product Catalog",
+        "Growth Widgets",
+        "Developer API",
+        "Zapier & Make",
+        "Webhook Events",
+        "HTTP Requests Step",
+        "24-Hour Chat Support",
+        "Real Time Dashboard",
+        "Basic Reports",
+        "Advanced Reports",
+        "Data Export",
+        "Two-Factor Authentication (2FA)",
+        "Mask Phone Number & Email address"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly Active Contacts",
+            "value": "Starts at 1,000"
+          },
+          {
+            "name": "Additional Users",
+            "value": "$20/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Scale with advanced integrations, multiple workspaces and enhanced security.",
+      "monthly_price": 279.0,
+      "annual_price": 3348.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Team & Custom Inboxes",
+        "Mobile App",
+        "AI Prompts & AI Assist",
+        "Broadcast",
+        "Broadcast Analytics",
+        "Workflow",
+        "AI Agent",
+        "Hubspot Integration",
+        "Salesforce Integration",
+        "Meta & TikTok Ads",
+        "Meta Product Catalog",
+        "Growth Widgets",
+        "Developer API",
+        "Zapier & Make",
+        "Webhook Events",
+        "HTTP Requests Step",
+        "24-Hour Chat Support",
+        "Real Time Dashboard",
+        "Basic Reports",
+        "Advanced Reports",
+        "Data Export",
+        "Two-Factor Authentication (2FA)",
+        "Mask Phone Number & Email address",
+        "Single Sign-On (SSO)"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly Active Contacts",
+            "value": "Starts at 1,000"
+          },
+          {
+            "name": "Additional Users",
+            "value": "$24/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Tailored solutions for large teams: Double down on what works with unlimited users, more workspaces and higher API rate limits.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Team & Custom Inboxes",
+        "Mobile App",
+        "AI Prompts & AI Assist",
+        "Broadcast",
+        "Broadcast Analytics",
+        "Workflow",
+        "AI Agent",
+        "Hubspot Integration",
+        "Salesforce Integration",
+        "Meta & TikTok Ads",
+        "Meta Product Catalog",
+        "Growth Widgets",
+        "Developer API",
+        "Zapier & Make",
+        "Webhook Events",
+        "HTTP Requests Step",
+        "24-Hour Chat Support",
+        "Real Time Dashboard",
+        "Basic Reports",
+        "Advanced Reports",
+        "Data Export",
+        "Two-Factor Authentication (2FA)",
+        "Mask Phone Number & Email address",
+        "Single Sign-On (SSO)",
+        "Multiple Workspaces"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly Active Contacts",
+            "value": "Custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Monthly Active Contacts",
+      "unit": "per contact",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "WhatsApp Business Platform (API)",
+      "unit": "per conversation",
+      "base_price": 0.006,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "WhatsApp API Usage",
+      "fee_amount": null,
+      "fee_description": "Fees vary by country and are charged by Meta."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:29:58.235435",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f43076c1-cad1-4961-ae64-d4f709faa345",
+    "name": "respond.io",
+    "slug": "respondio",
+    "description": "respond.io unifies customer communication across instant messaging, web chat, and email for organizations that market, sell, and support.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/da71028bd770e7f56f7446d57531aa67.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 26,
+    "trigger_count": 9
+  }
+}

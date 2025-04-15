@@ -1,0 +1,206 @@
+{
+  "app_id": "aisle_planner",
+  "app_name": "Aisle Planner",
+  "app_slug": "aisle-planner",
+  "pricing_url": "https://aisleplanner.com/pricing",
+  "source_url": "https://aisleplanner.com/pricing",
+  "all_pricing_urls": [
+    "https://aisleplanner.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the maximum number of active projects and includes unlimited users.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Up to 15 Projects",
+      "monthly_price": 44.99,
+      "annual_price": 485.88,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Lead Management",
+        "Scheduling Assistant",
+        "Email Integration",
+        "Automated Email Responses",
+        "Brochures",
+        "Questionnaires",
+        "Proposals & Interactive Quotes",
+        "Contacts & E-Signatures",
+        "Invoicing & Online Payments",
+        "Documents & Email Templates",
+        "Master Calendar",
+        "Internal Team Communications",
+        "Internal Team Task Assignment",
+        "Internal Project Management",
+        "Document Storage & Sharing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projects",
+            "value": 15
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "16 - 25 Projects",
+      "monthly_price": 65.99,
+      "annual_price": 712.68,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Lead Management",
+        "Scheduling Assistant",
+        "Email Integration",
+        "Automated Email Responses",
+        "Brochures",
+        "Questionnaires",
+        "Proposals & Interactive Quotes",
+        "Contacts & E-Signatures",
+        "Invoicing & Online Payments",
+        "Documents & Email Templates",
+        "Master Calendar",
+        "Internal Team Communications",
+        "Internal Team Task Assignment",
+        "Internal Project Management",
+        "Document Storage & Sharing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projects",
+            "value": "16-25"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "26 - 50 Projects",
+      "monthly_price": 99.99,
+      "annual_price": 1079.88,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Lead Management",
+        "Scheduling Assistant",
+        "Email Integration",
+        "Automated Email Responses",
+        "Brochures",
+        "Questionnaires",
+        "Proposals & Interactive Quotes",
+        "Contacts & E-Signatures",
+        "Invoicing & Online Payments",
+        "Documents & Email Templates",
+        "Master Calendar",
+        "Internal Team Communications",
+        "Internal Team Task Assignment",
+        "Internal Project Management",
+        "Document Storage & Sharing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projects",
+            "value": "26-50"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "51 - 100 Projects",
+      "monthly_price": 209.99,
+      "annual_price": 2267.88,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Lead Management",
+        "Scheduling Assistant",
+        "Email Integration",
+        "Automated Email Responses",
+        "Brochures",
+        "Questionnaires",
+        "Proposals & Interactive Quotes",
+        "Contacts & E-Signatures",
+        "Invoicing & Online Payments",
+        "Documents & Email Templates",
+        "Master Calendar",
+        "Internal Team Communications",
+        "Internal Team Task Assignment",
+        "Internal Project Management",
+        "Document Storage & Sharing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projects",
+            "value": "51-100"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Sales Tax",
+      "fee_amount": null,
+      "fee_description": "Applicable sales tax may apply."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:53:35.142609",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f72cfc0d-5140-40cf-a836-d117cfa33b6e",
+    "name": "Aisle Planner",
+    "slug": "aisle-planner",
+    "description": "Aisle Planner started with the idea that there was a better way to plan weddings - that wedding professionals could have all of the wedding planning and client management tools they need, all in one reliable place. With everything from lead management and booking tools to checklists, day-of timelines and a guest manager, Aisle Planner has what wedding industry pros need to book clients quickly and manage the million and one details that come with the job.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/184e1a32af797eca3f0baca80f72a08b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 2
+  }
+}

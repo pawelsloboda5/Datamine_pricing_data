@@ -1,0 +1,47 @@
+{
+  "app_id": "toodledo",
+  "app_name": "Toodledo",
+  "app_slug": "toodledo",
+  "pricing_url": "https://www.toodledo.com/pricing.html",
+  "source_url": "https://www.toodledo.com/pricing.html",
+  "all_pricing_urls": [
+    "https://www.toodledo.com/pricing.html"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page returned a 404 error, so detailed pricing information could not be retrieved.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:23:22.095949",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "878af9fc-ef39-4b7c-9c3f-b446b7191c47",
+    "name": "Toodledo",
+    "slug": "toodledo",
+    "description": "Toodledo is one of the most popular online productivity tools available today. Use it to organize your life into list and notes.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/f98bb2d31ced88dc5d095ac74d379444.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "todo-lists"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 6
+  }
+}

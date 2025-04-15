@@ -1,0 +1,118 @@
+{
+  "app_name": "Remember The Milk",
+  "app_slug": "remember-the-milk",
+  "search_term": "Find the official pricing page URL for Remember The Milk (remember-the-milk.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744701321.3755622,
+  "response_text": [
+    "The official pricing page for Remember The Milk is: [https://www.rememberthemilk.com/upgrade/](https://www.rememberthemilk.com/upgrade/)\u30105:2\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Remember The Milk - Upgrade to a Pro account",
+      "url": "https://www.rememberthemilk.com/upgrade/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.rememberthemilk.com/upgrade/",
+      "is_accessible": true,
+      "content": "Get more done with Pro!\n-----------------------\n\nBreak it down with subtasks\n---------------------------\n\nSubtasks break your tasks down into smaller, more manageable pieces.\n\nUnlimited sharing\n-----------------\n\nNeed a little help? Share your lists with others to get things done faster.\n\nPick up the milk tomorrow\n\nCall Bob at 5pm Thursday\n\nBook flights to New York\n\nColor your tags\n---------------\n\nMake your lists both organized and colorful by choosing your tag colors.\n\nAdvanced sorting\n----------------\n\nWhy not add a little order? Sort and group your tasks however you like.\n\nAttach files to your tasks\n--------------------------\n\nConnect to Dropbox or Google Drive to attach related files to any task.\n\nGet reminded\n------------\n\nNever forget a task with reminders on your mobile device.\n\nPick up the milk.\n\nOn your watch\n-------------\n\nAdd and review your tasks with ease. Available now for Apple Watch.\n\nGet inspired with themes\n------------------------\n\nChoose from over 100 beautiful themes to make the app your own.\n\nConnect with IFTTT and Zapier\n-----------------------------\n\nConnect your Remember The Milk tasks with hundreds of other services.\n\nSync with Microsoft Outlook\n---------------------------\n\nKeep your tasks seamlessly in sync with Microsoft Outlook.\n\nAutomate with MilkScript\n------------------------\n\nWrite your own code to automate certain actions in Remember The Milk.\n\nWork offline in the web app\n---------------------------\n\nNo internet connection? No problem! Keep working wherever you are.\n\nUnlimited storage\n-----------------\n\nKeep track of all your hard work with unlimited storage of completed tasks.\n\nVIP treatment\n-------------\n\nBe heard\n--------\n\nGet double votes when you vote on product ideas in our [forums](https://www.rememberthemilk.com/forums/).\n\nEarly access\n------------\n\nBe the first to try new features with membership in our [tester program](https://www.rememberthemilk.com/services/tester/)\n\nPriority support\n----------------\n\nQuestions? Problems? Get help fast with priority support [via email](https://www.rememberthemilk.com/help/contact/).\n\nThanks! -Bob\n\nMake Bob happy\n--------------\n\nThank you for supporting us and keeping Bob supplied with bananas!\n\n> Someone at work complimented me as a guy who \"looks like he's really got his stuff together\" and \"never stressing about deadlines\". To them I said my secret was a Remember The Milk Pro account.\n\n| Compare plans | Basic | Pro |\n| --- | --- | --- |\n| Web, desktop, and mobile apps |  |  |\n| Seamless sync between your computers and devices |  |  |\n| Integration with Gmail, Google Calendar, and Evernote |  |  |\n| Add tasks with email, Alexa, Siri, and Twitter |  |  |\n| Give tasks to others |  |  |\n| Reminders via email, text, IM, and Twitter |  |  |\n| Reminders via mobile apps (Android, iOS, BlackBerry 10) |  |  |\n| Share lists | With up to 2 others | Unlimited |\n| Advanced sharing permissions |  |  |\n| Subtasks |  |  |\n| Advanced sorting and grouping |  |  |\n| Choose from 100+ beautiful themes (web & desktop apps) |  |  |\n| Customizable tag colors |  |  |\n| Attachments with Dropbox and Google Drive |  |  |\n| Work offline in the web app |  |  |\n| Badges and widgets for the mobile apps |  |  |\n| Create shortcuts with the Shortcuts app (iOS) |  |  |\n| Apple Watch app |  |  |\n| Sync with Microsoft Outlook |  |  |\n| Automate tasks with MilkScript |  |  |\n| Integration with IFTTT |  |  |\n| Integration with Zapier |  |  |\n| Early access tester program |  |  |\n| Priority support |  |  |\n| Archive of completed tasks | Last 7 days | Unlimited |\n\nReady to get more done?\n-----------------------\n\n[Upgrade Now](https://www.rememberthemilk.com/account/order/)\n\n### Only $49.99 per year\n\nGive the gift of organization!\n\nAll prices on the site are quoted in US dollars.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "remember_the_milk",
+        "app_name": "Remember The Milk",
+        "app_slug": "remember-the-milk",
+        "pricing_url": "https://www.rememberthemilk.com/account/order/",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://www.rememberthemilk.com/account/order/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is based on annual subscription for the Pro tier.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic",
+            "tier_description": "Free tier with limited features.",
+            "monthly_price": null,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Web, desktop, and mobile apps",
+              "Seamless sync between your computers and devices",
+              "Integration with Gmail, Google Calendar, and Evernote",
+              "Add tasks with email, Alexa, Siri, and Twitter",
+              "Give tasks to others",
+              "Reminders via email, text, IM, and Twitter",
+              "Share lists with up to 2 others",
+              "Archive of completed tasks for last 7 days"
+            ],
+            "limits": {
+              "users": null,
+              "storage": "Last 7 days",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Paid tier with advanced features.",
+            "monthly_price": null,
+            "annual_price": 49.99,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited sharing",
+              "Advanced sharing permissions",
+              "Subtasks",
+              "Advanced sorting and grouping",
+              "Choose from 100+ beautiful themes",
+              "Customizable tag colors",
+              "Attachments with Dropbox and Google Drive",
+              "Work offline in the web app",
+              "Badges and widgets for the mobile apps",
+              "Create shortcuts with the Shortcuts app",
+              "Apple Watch app",
+              "Sync with Microsoft Outlook",
+              "Automate tasks with MilkScript",
+              "Integration with IFTTT",
+              "Integration with Zapier",
+              "Early access tester program",
+              "Priority support",
+              "Unlimited archive of completed tasks"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:15:28.973142",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\remember-the-milk\\20250415_031529"
+}

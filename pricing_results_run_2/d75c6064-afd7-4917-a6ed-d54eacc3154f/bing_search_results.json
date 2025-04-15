@@ -1,0 +1,24 @@
+{
+  "app_name": "Smartsheet",
+  "app_slug": "smartsheet",
+  "search_term": "Find the official pricing page URL for Smartsheet (smartsheet.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744705221.593796,
+  "response_text": [
+    "The official pricing page for Smartsheet can be found at: [https://www.smartsheet.com/pricing](https://www.smartsheet.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Smartsheet Pricing",
+      "url": "https://www.smartsheet.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.smartsheet.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\smartsheet\\20250415_042037"
+}

@@ -1,0 +1,43 @@
+{
+  "app_id": "waiverforever",
+  "app_name": "WaiverForever",
+  "app_slug": "waiverforever",
+  "pricing_url": null,
+  "source_url": "https://www.waiverforever.com",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The provided content does not include specific pricing details for WaiverForever.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:13:34.176674",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "1183ca9d-af33-4b2e-8ffc-0927e09b2f41",
+    "name": "WaiverForever",
+    "slug": "waiverforever",
+    "description": "WaiverForever is the ultimate digital waiver and business management solution, perfect for businesses of all sizes across all industries.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ee70f6764a0908edbff0173ae86d3b8f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Documents"
+    ],
+    "category_slugs": [
+      "documents"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 4
+  }
+}

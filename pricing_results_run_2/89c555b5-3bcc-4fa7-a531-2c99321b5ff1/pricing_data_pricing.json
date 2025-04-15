@@ -1,0 +1,251 @@
+{
+  "app_id": "simplybook_me",
+  "app_name": "SimplyBook.me",
+  "app_slug": "simplybook-me",
+  "pricing_url": "https://simplybook.me/en/pricing",
+  "source_url": "https://simplybook.me/en/pricing",
+  "all_pricing_urls": [
+    "https://simplybook.me/en/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 17% discount compared to monthly billing. Additional bookings and SMS credits are available for purchase.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic free tier with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "50 bookings per month",
+        "1 custom feature",
+        "1 provider",
+        "Booking website",
+        "Booking widget",
+        "Admin app",
+        "Payments, deposits & tips",
+        "Directory listing",
+        "Coupons & gift cards",
+        "HIPAA compliance",
+        "White label (page footer)",
+        "SAML/SSO",
+        "QuickBooks, FreshBooks, Xero integrations"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": 50,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Custom Features",
+            "value": 1
+          },
+          {
+            "name": "Providers",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Entry-level paid tier.",
+      "monthly_price": 9.9,
+      "annual_price": 8.25,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "100 bookings per month",
+        "3 custom features",
+        "5 providers",
+        "Booking website",
+        "Booking widget",
+        "Admin app",
+        "Payments, deposits & tips",
+        "Directory listing",
+        "Coupons & gift cards",
+        "HIPAA compliance",
+        "White label (page footer)",
+        "SAML/SSO",
+        "QuickBooks, FreshBooks, Xero integrations"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": 100,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Custom Features",
+            "value": 3
+          },
+          {
+            "name": "Providers",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Mid-tier plan with additional features.",
+      "monthly_price": 29.9,
+      "annual_price": 24.9,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "500 bookings per month",
+        "8 custom features",
+        "15 providers",
+        "Booking website",
+        "Booking widget",
+        "Admin app",
+        "Payments, deposits & tips",
+        "Directory listing",
+        "Coupons & gift cards",
+        "HIPAA compliance",
+        "White label (page footer)",
+        "SAML/SSO",
+        "QuickBooks, FreshBooks, Xero integrations"
+      ],
+      "limits": {
+        "users": 15,
+        "storage": null,
+        "operations": 500,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Custom Features",
+            "value": 8
+          },
+          {
+            "name": "Providers",
+            "value": 15
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Top-tier plan with maximum features.",
+      "monthly_price": 59.9,
+      "annual_price": 49.9,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "2000 bookings per month",
+        "Unlimited custom features",
+        "30 providers",
+        "Booking website",
+        "Booking widget",
+        "Admin app",
+        "Payments, deposits & tips",
+        "Directory listing",
+        "Coupons & gift cards",
+        "HIPAA compliance",
+        "White label (page footer)",
+        "SAML/SSO",
+        "QuickBooks, FreshBooks, Xero integrations"
+      ],
+      "limits": {
+        "users": 30,
+        "storage": null,
+        "operations": 2000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Custom Features",
+            "value": "unlimited"
+          },
+          {
+            "name": "Providers",
+            "value": 30
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Bookings",
+      "unit": "per booking",
+      "base_price": 14.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 200.0,
+          "price": 14.0
+        }
+      ]
+    },
+    {
+      "metric_name": "SMS Credits",
+      "unit": "per credit",
+      "base_price": 5.0,
+      "tiers": [
+        {
+          "min": 50.0,
+          "max": 50.0,
+          "price": 5.0
+        },
+        {
+          "min": 100.0,
+          "max": 100.0,
+          "price": 7.0
+        },
+        {
+          "min": 500.0,
+          "max": 500.0,
+          "price": 35.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Full Setup Assistance",
+      "fee_amount": 499.0,
+      "fee_description": "Includes system setup, design enhancement, training, and two months of premium subscription."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:57:07.440158",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "89c555b5-3bcc-4fa7-a531-2c99321b5ff1",
+    "name": "SimplyBook.me",
+    "slug": "simplybook",
+    "description": "SimplyBook.me is online appointment and scheduling software, that allows to accept bookings 24/7 and offers variety of flexible features.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/943bde599533468a82e32ed87e0d79bf.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 5
+  }
+}

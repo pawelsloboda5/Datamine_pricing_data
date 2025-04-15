@@ -1,0 +1,154 @@
+{
+  "app_id": "trainual",
+  "app_name": "Trainual",
+  "app_slug": "trainual",
+  "pricing_url": "https://trainual.com/pricing",
+  "source_url": "https://trainual.com/pricing",
+  "all_pricing_urls": [
+    "https://trainual.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes optional add-ons and a quote-based tier for larger organizations.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Small",
+      "tier_description": "For businesses with 1-25 employees.",
+      "monthly_price": null,
+      "annual_price": 2988.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Group onboarding"
+      ],
+      "limits": {
+        "users": "1-25",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Medium",
+      "tier_description": "For businesses with 26-50 employees.",
+      "monthly_price": 349.0,
+      "annual_price": 3348.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Customized implementation"
+      ],
+      "limits": {
+        "users": "26-50",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "For businesses with 51-100 employees.",
+      "monthly_price": 499.0,
+      "annual_price": 5028.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Customized implementation"
+      ],
+      "limits": {
+        "users": "51-100",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "For businesses with 101-10,000+ employees.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Customized implementation"
+      ],
+      "limits": {
+        "users": "101-10,000+",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Nonprofit Discount",
+      "offer_description": "50% discount for qualified nonprofit organizations.",
+      "discount_percentage": 50.0,
+      "offer_url": "https://trainual.com/non-profit-application",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Premium Courses",
+      "fee_amount": 104.0,
+      "fee_description": "Access to 350+ pre-built courses for compliance and training."
+    },
+    {
+      "fee_name": "Unlimited E-signatures",
+      "fee_amount": 29.0,
+      "fee_description": "Collect legally-binding e-signatures from employees."
+    },
+    {
+      "fee_name": "Custom Domain",
+      "fee_amount": 14.0,
+      "fee_description": "Custom account domain for branding and professionalism."
+    },
+    {
+      "fee_name": "Trainual+",
+      "fee_amount": 49.0,
+      "fee_description": "Includes premium features like training paths, hosted videos, and more."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:09:13.741335",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0e72391a-6688-437c-b028-ca499cfbf855",
+    "name": "Trainual",
+    "slug": "trainual",
+    "description": "Trainual is a simple tool for building the how-to guide for your business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/da1a49d78986116dc93d89b5aaa8b62f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Productivity"
+    ],
+    "category_slugs": [
+      "productivity"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 4
+  }
+}

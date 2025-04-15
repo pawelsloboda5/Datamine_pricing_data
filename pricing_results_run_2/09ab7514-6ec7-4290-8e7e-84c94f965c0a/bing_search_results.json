@@ -1,0 +1,24 @@
+{
+  "app_name": "TestGorilla",
+  "app_slug": "testgorilla",
+  "search_term": "Find the official pricing page URL for TestGorilla (testgorilla.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725238.294768,
+  "response_text": [
+    "Here is the official TestGorilla pricing page URL: [https://www.testgorilla.com/pricing/](https://www.testgorilla.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Sign up for free - TestGorilla",
+      "url": "https://www.testgorilla.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.testgorilla.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\testgorilla\\20250415_095413"
+}

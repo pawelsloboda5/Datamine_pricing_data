@@ -1,0 +1,43 @@
+{
+  "app_id": "clearstream",
+  "app_name": "Clearstream",
+  "app_slug": "clearstream",
+  "pricing_url": null,
+  "source_url": "https://www.clearstream.com/clearstream-en/prices-and-fees/clearstream-banking-fee-schedule",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page for Clearstream could not be accessed or found.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T02:53:56.468482",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "ece9b9b0-3f97-449d-8c9d-30f1d6cc46cf",
+    "name": "Clearstream",
+    "slug": "clearstream",
+    "description": "Clearstream is a two-way SMS communication tool for churches and non-profits.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/2eeaceb301d6f152b3d7e19da59e3841.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Communication"
+    ],
+    "category_slugs": [
+      "communication"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 5,
+    "trigger_count": 0
+  }
+}

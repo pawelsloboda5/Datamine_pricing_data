@@ -1,0 +1,47 @@
+{
+  "app_id": "magento",
+  "app_name": "Magento",
+  "app_slug": "magento",
+  "pricing_url": "https://magento.com/products/magento/pricing.html",
+  "source_url": "https://magento.com",
+  "all_pricing_urls": [
+    "https://magento.com/products/magento/pricing.html"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are not publicly disclosed and require consultation.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:17:27.652254",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "91636415-647c-4c7c-b4bf-7f53685a7977",
+    "name": "Magento",
+    "slug": "magento",
+    "description": "Magento is the premier open source e-commerce app used by millions of customers each and every day.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/a6a5f122a12ab5e87161f859c33ea103.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 3
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "app_id": "mallabe_images",
+  "app_name": "mallabe Images",
+  "app_slug": "mallabe-images",
+  "pricing_url": "https://www.mallabe.com/pricing",
+  "source_url": "https://www.mallabe.com/pricing",
+  "all_pricing_urls": [
+    "https://www.mallabe.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Usage-based pricing applies for requests exceeding the tier limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Prototyping your business idea.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Resize Image",
+        "Compress Image",
+        "Crop Image",
+        "Flip Image",
+        "Rotate Image",
+        "Blur Image",
+        "Greyscale Image",
+        "Join Multiple Images",
+        "Get Image Metadata",
+        "Zapier Integration",
+        "Make Integration (Integromat)",
+        "n8n Integration"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Requests per month",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Scale your business.",
+      "monthly_price": 10.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Resize Image",
+        "Compress Image",
+        "Crop Image",
+        "Flip Image",
+        "Rotate Image",
+        "Blur Image",
+        "Greyscale Image",
+        "Join Multiple Images",
+        "Get Image Metadata",
+        "Zapier Integration",
+        "Make Integration (Integromat)",
+        "n8n Integration"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Requests per month",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Build your business.",
+      "monthly_price": 14.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Resize Image",
+        "Compress Image",
+        "Crop Image",
+        "Flip Image",
+        "Rotate Image",
+        "Blur Image",
+        "Greyscale Image",
+        "Join Multiple Images",
+        "Get Image Metadata",
+        "Zapier Integration",
+        "Make Integration (Integromat)",
+        "n8n Integration"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Requests per month",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Grow big.",
+      "monthly_price": 16.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Resize Image",
+        "Compress Image",
+        "Crop Image",
+        "Flip Image",
+        "Rotate Image",
+        "Blur Image",
+        "Greyscale Image",
+        "Join Multiple Images",
+        "Get Image Metadata",
+        "Zapier Integration",
+        "Make Integration (Integromat)",
+        "n8n Integration"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Requests per month",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Supporting your business.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Resize Image",
+        "Compress Image",
+        "Crop Image",
+        "Flip Image",
+        "Rotate Image",
+        "Blur Image",
+        "Greyscale Image",
+        "Join Multiple Images",
+        "Get Image Metadata",
+        "Zapier Integration",
+        "Make Integration (Integromat)",
+        "n8n Integration",
+        "Prioritized Support",
+        "Integration Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Requests per month",
+            "value": "Custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Requests",
+      "unit": "per request",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 101.0,
+          "max": 500.0,
+          "price": 0.03
+        },
+        {
+          "min": 501.0,
+          "max": 3000.0,
+          "price": 0.02
+        },
+        {
+          "min": 3001.0,
+          "max": "unlimited",
+          "price": 0.01
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:47:13.384909",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "993dfe6d-c23b-4303-a62c-307f2db0fb33",
+    "name": "mallabe Images",
+    "slug": "mallabe",
+    "description": "mallabe is an automation toolchain that allows you to process images and resize them on the fly.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/0dcd7b2cc3a177ef7426a02ec99f8613.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Images & Design"
+    ],
+    "category_slugs": [
+      "images"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 9,
+    "trigger_count": 0
+  }
+}

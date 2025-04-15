@@ -1,0 +1,45 @@
+{
+  "app_id": "kiwify",
+  "app_name": "Kiwify",
+  "app_slug": "kiwify",
+  "pricing_url": "https://kiwify.com/#pricing",
+  "source_url": "https://kiwify.com/pricing",
+  "all_pricing_urls": [
+    "https://kiwify.com/#pricing"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page for Kiwify was not accessible, and no pricing information could be extracted.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:14:07.818989",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "784ed34b-25a9-49cc-bd59-e591d537b18d",
+    "name": "Kiwify",
+    "slug": "kiwify",
+    "description": "Kiwify is a tool to sell and host your online course.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/6f5300ca7d81b564f15b586b6e0b9e42.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 4
+  }
+}

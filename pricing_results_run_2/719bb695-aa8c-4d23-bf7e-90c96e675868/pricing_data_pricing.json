@@ -1,0 +1,125 @@
+{
+  "app_id": "groove_cm",
+  "app_name": "Groove.cm",
+  "app_slug": "groove-cm",
+  "pricing_url": "https://groove.cm/one-year-free",
+  "source_url": "https://groove.cm/pricing",
+  "all_pricing_urls": [
+    "https://groove.cm/one-year-free",
+    "https://groove.cm/one-year-one-dollar"
+  ],
+  "price_model_type": [
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.ONE_TIME"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Groove.cm offers a free tier for one year and a promotional one-time payment tier for $1.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free access for one full year.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Pages",
+        "Unlimited Funnels",
+        "Unlimited Affiliate",
+        "Unlimited Video",
+        "Unlimited Blog",
+        "Unlimited Proof",
+        "Unlimited Member",
+        "Unlimited Store",
+        "Unlimited Webinar"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium+ Enterprise",
+      "tier_description": "One-time payment for one year.",
+      "monthly_price": null,
+      "annual_price": 1.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Pages",
+        "Unlimited Funnels",
+        "Unlimited Affiliate",
+        "Unlimited Video",
+        "Unlimited Blog",
+        "Unlimited Proof",
+        "Unlimited Member",
+        "Unlimited Store",
+        "Unlimited Webinar",
+        "Send 15,000 emails per month"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "emails_per_month",
+            "value": 15000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Unlock Your Free Year",
+      "offer_description": "Limited time offer for free access for one year.",
+      "discount_percentage": null,
+      "offer_url": "https://groove.cm/one-year-free",
+      "valid_until": null
+    },
+    {
+      "offer_name": "One-Time Payment for $1",
+      "offer_description": "One-time payment for one year of Premium+ Enterprise access.",
+      "discount_percentage": null,
+      "offer_url": "https://groove.cm/one-year-one-dollar",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:00:16.883433",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "719bb695-aa8c-4d23-bf7e-90c96e675868",
+    "name": "Groove.cm",
+    "slug": "groove-cm",
+    "description": "Boost productivity with Zapier's Groove.cm integration. Automate GrooveMail and GrooveSell tasks, streamline data sync, and save time.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/1af2a696661358ee7810639563675eba_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 8
+  }
+}

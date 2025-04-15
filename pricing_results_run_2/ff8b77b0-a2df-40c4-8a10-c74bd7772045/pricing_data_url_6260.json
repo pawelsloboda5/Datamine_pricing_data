@@ -1,0 +1,155 @@
+{
+  "app_id": "eventbrite",
+  "app_name": "Eventbrite",
+  "app_slug": "eventbrite",
+  "pricing_url": "https://www.eventbrite.com/help/en-us/articles/755615/",
+  "source_url": "https://www.eventbrite.com/organizer/pricing/",
+  "all_pricing_urls": [
+    "https://www.eventbrite.com/help/en-us/articles/755615/",
+    "https://www.eventbrite.com/l/email-marketing/",
+    "https://www.eventbrite.com/l/npo/"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Eventbrite charges fees per ticket sold for paid events, with no fees for free events. Additional subscription options are available for enhanced marketing capabilities.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Events",
+      "tier_description": "No fees for free events.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Event publishing",
+        "Visibility on Eventbrite\u2019s marketplace",
+        "Basic marketing tools",
+        "Secure payment processing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Paid Events",
+      "tier_description": "Fees apply for paid tickets.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Event publishing",
+        "Visibility on Eventbrite\u2019s marketplace",
+        "Advanced marketing tools",
+        "Secure payment processing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Eventbrite Pro",
+      "tier_description": "Subscription add-on for enhanced email marketing capabilities.",
+      "monthly_price": 15.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 10,000 emails daily",
+        "Advanced marketing tools"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Ticketing Fees",
+      "unit": "per ticket",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 3.7
+        }
+      ]
+    },
+    {
+      "metric_name": "Payment Processing Fees",
+      "unit": "per order",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 2.9
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Nonprofit Discount",
+      "offer_description": "Discounted Ticketing Fees and 50% off Pro plans for qualifying nonprofits.",
+      "discount_percentage": 50.0,
+      "offer_url": "https://www.eventbrite.com/l/npo/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Eventbrite Ads",
+      "fee_amount": null,
+      "fee_description": "Ad spend for advertising tools not included."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:46:31.037104",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ff8b77b0-a2df-40c4-8a10-c74bd7772045",
+    "name": "Eventbrite",
+    "slug": "eventbrite",
+    "description": "Eventbrite is an event management tool that makes it simple to create, manage, promote, and sell out your event.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/54c3ff835973c144dd5069c8ba3a5b0d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 4
+  }
+}

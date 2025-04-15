@@ -1,0 +1,263 @@
+{
+  "app_id": "smith_ai",
+  "app_name": "Smith.ai",
+  "app_slug": "smith-ai",
+  "pricing_url": "https://smith.ai/pricing",
+  "source_url": "https://smith.ai/pricing",
+  "all_pricing_urls": [
+    "https://smith.ai/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Smith.ai offers a 14-day money-back guarantee for new clients and a 10% discount for annual subscriptions.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "For solopreneurs or small teams, where every lead matters.",
+      "monthly_price": 292.5,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "30 calls included",
+        "1 free transfer destination"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 30,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Overage cost per call",
+            "value": 11
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "For growing teams, where advanced systems are needed.",
+      "monthly_price": 787.5,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "90 calls included",
+        "2 free transfer destinations"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 90,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Overage cost per call",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For mature organizations that are ready to scale efficiently.",
+      "monthly_price": 2025.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "300 calls included",
+        "10 free transfer destinations"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 300,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Overage cost per call",
+            "value": 8
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for high-volume needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom transfer destinations"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": "custom",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Custom pricing",
+            "value": "adjusted based on needs"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional CRM integrations",
+      "unit": "per call",
+      "base_price": 0.5,
+      "tiers": null
+    },
+    {
+      "metric_name": "Book appointments",
+      "unit": "per call",
+      "base_price": 1.5,
+      "tiers": null
+    },
+    {
+      "metric_name": "SMS/Slack notifications",
+      "unit": "per call",
+      "base_price": 0.5,
+      "tiers": null
+    },
+    {
+      "metric_name": "Microsoft Teams notifications",
+      "unit": "per call",
+      "base_price": 0.5,
+      "tiers": null
+    },
+    {
+      "metric_name": "Text & email follow-up",
+      "unit": "per call",
+      "base_price": 0.5,
+      "tiers": null
+    },
+    {
+      "metric_name": "Conflict checks",
+      "unit": "per call",
+      "base_price": 0.5,
+      "tiers": null
+    },
+    {
+      "metric_name": "Call recording & transcription",
+      "unit": "per call",
+      "base_price": 0.25,
+      "tiers": null
+    },
+    {
+      "metric_name": "Dedicated Spanish line",
+      "unit": "per call",
+      "base_price": 1.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Accept collect calls",
+      "unit": "per call",
+      "base_price": 0.5,
+      "tiers": null
+    },
+    {
+      "metric_name": "Accept payments",
+      "unit": "per call",
+      "base_price": 1.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Third-party intake",
+      "unit": "per call",
+      "base_price": 1.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Complex call routing",
+      "unit": "per call",
+      "base_price": 1.5,
+      "tiers": null
+    },
+    {
+      "metric_name": "Custom calendaring",
+      "unit": "per call",
+      "base_price": 1.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Extended intake",
+      "unit": "per call",
+      "base_price": 1.5,
+      "tiers": null
+    },
+    {
+      "metric_name": "Custom extended intake",
+      "unit": "per call",
+      "base_price": 0.25,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Subscription Discount",
+      "offer_description": "10% discount for subscribing for 12 months.",
+      "discount_percentage": 10.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Business caller ID for outbound",
+      "fee_amount": 10.0,
+      "fee_description": "Monthly cost for outbound calls showing your business phone number."
+    },
+    {
+      "fee_name": "Additional transfer destinations",
+      "fee_amount": 15.0,
+      "fee_description": "Monthly cost for each additional transfer destination."
+    },
+    {
+      "fee_name": "Inbound call tracking numbers",
+      "fee_amount": 5.0,
+      "fee_description": "Monthly cost for each additional tracking number."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:26:08.243288",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "da81e795-b281-4195-94f2-1eb8f47e2bdf",
+    "name": "Smith.ai",
+    "slug": "smithai-zapier-app-da100556",
+    "description": "Smith.ai is a call answering & intake service for small & solo businesses. Our live, North America-based virtual receptionists capture & qualify leads, book new clients, and build better relationships with your existing clients.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/2804bbe71bc9cd513655de93036bba68.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

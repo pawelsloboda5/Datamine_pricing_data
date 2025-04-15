@@ -1,0 +1,159 @@
+{
+  "app_id": "appsheet",
+  "app_name": "AppSheet",
+  "app_slug": "appsheet",
+  "pricing_url": "https://www.appsheet.com/pricing",
+  "source_url": "https://about.appsheet.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.appsheet.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "AppSheet offers a free tier for testing with up to 10 users and provides discounts for educational and non-profit organizations.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Basic application and automation features.",
+      "monthly_price": 5.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic application and automation features",
+        "Connect to spreadsheets and cloud file storage providers",
+        "AppSheet database"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "AppSheet databases",
+            "value": 5
+          },
+          {
+            "name": "Rows per database",
+            "value": 2500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Core",
+      "tier_description": "Advanced application and automation features.",
+      "monthly_price": 10.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced application and automation features",
+        "Connect to spreadsheets and file storage providers",
+        "Application security controls",
+        "Email customer support",
+        "AppSheet database"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "AppSheet databases",
+            "value": 10
+          },
+          {
+            "name": "Rows per database",
+            "value": 2500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise Plus",
+      "tier_description": "Advanced features for enterprise use.",
+      "monthly_price": 20.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced application and automation features",
+        "Connect to spreadsheets, cloud file storage, cloud databases, APIs, SaaS services, and enterprise data services",
+        "Enhanced application security, team management, and governance controls",
+        "Machine learning modeling",
+        "Priority customer support",
+        "AppSheet database"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "AppSheet databases",
+            "value": 200
+          },
+          {
+            "name": "Rows per database",
+            "value": 200000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Public apps",
+      "unit": "per app",
+      "base_price": 50.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Non-profit discount",
+      "offer_description": "Discounts for educational and non-profit organizations with verification of tax-exempt status.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:57:50.577746",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "952cca22-a4aa-480f-b0b6-f10d8bf63557",
+    "name": "AppSheet",
+    "slug": "appsheet",
+    "description": "AppSheet is a no-code app development platform that lets you build desktop & mobile apps for your business from spreadsheet data.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/7ea07c41abdab3e2e7c76b4742a0c419.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "App Builder"
+    ],
+    "category_slugs": [
+      "app-builder"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 4,
+    "trigger_count": 0
+  }
+}

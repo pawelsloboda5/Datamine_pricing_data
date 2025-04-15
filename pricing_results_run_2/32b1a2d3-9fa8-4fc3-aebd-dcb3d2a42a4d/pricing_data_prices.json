@@ -1,0 +1,144 @@
+{
+  "app_id": "sendpulse",
+  "app_name": "SendPulse",
+  "app_slug": "sendpulse",
+  "pricing_url": "https://sendpulse.com/prices",
+  "source_url": "https://sendpulse.com/prices",
+  "all_pricing_urls": [
+    "https://sendpulse.com/prices"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details include subscription plans and usage-based options.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for small-scale use.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email campaigns",
+        "Push notifications",
+        "Basic analytics"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 10000,
+        "api_calls": 1000,
+        "integrations": 5,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Advanced features for growing businesses.",
+      "monthly_price": 10.0,
+      "annual_price": 100.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Advanced analytics",
+        "Custom domains",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 50000,
+        "api_calls": 5000,
+        "integrations": 10,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Full features for large-scale operations.",
+      "monthly_price": 50.0,
+      "annual_price": 500.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Dedicated account manager",
+        "Advanced integrations",
+        "Unlimited operations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "API Calls",
+      "unit": "per call",
+      "base_price": 0.01,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 1000.0,
+          "price": 0.01
+        },
+        {
+          "min": 1001.0,
+          "max": 10000.0,
+          "price": 0.008
+        },
+        {
+          "min": 10001.0,
+          "max": "unlimited",
+          "price": 0.005
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Save 16.67% when billed annually.",
+      "discount_percentage": 16.67,
+      "offer_url": "https://sendpulse.com/prices",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:00:11.288022",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "32b1a2d3-9fa8-4fc3-aebd-dcb3d2a42a4d",
+    "name": "SendPulse",
+    "slug": "sendpulse",
+    "description": "SendPulse is an Integrated messaging platform providing user communication on all devices with Emails, SMS, Web Push, SMTP and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/10541fd81f996da9beb328b7b4db270e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 2
+  }
+}

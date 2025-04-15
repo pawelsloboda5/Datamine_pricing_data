@@ -1,0 +1,106 @@
+{
+  "app_id": "customers_ai",
+  "app_name": "Customers.ai",
+  "app_slug": "customers-ai",
+  "pricing_url": null,
+  "source_url": "https://customers.ai/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a base subscription fee plus additional fees for identified visitor services.",
+  "pricing_tiers": [
+    {
+      "tier_name": "For Advertisers",
+      "tier_description": "Designed for advertisers to restore website visitor retargeting and conversion signals.",
+      "monthly_price": 199.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Enriched and targetable contact data for both known profiles and unknown anonymous visitors",
+        "Encrypted audiences sent to Google Ads, Meta Ads Custom Audiences and Meta Conversions API",
+        "Fully restore signal loss due to Meta Pixel cookie deprecation"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "For Email Marketers",
+      "tier_description": "Focused on email marketers to enhance email flows and contact tracking.",
+      "monthly_price": 199.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Contact data and on-site behavior tracking of identified visitors",
+        "Fully restore returning contact signal loss due to third-party cookie deprecation",
+        "Native or API integration with ESPs, CRMs and direct mail solutions",
+        "Consumer or business contact enrichment",
+        "Advanced audience segmentation",
+        "Persistent customer journey tracking",
+        "Suite of email deliverability optimization tools"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "For Advertisers & Email Marketers",
+      "tier_description": "Combines features for advertisers and email marketers.",
+      "monthly_price": 399.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Contact data and on-site behavior tracking of identified visitors",
+        "Fully restore signal loss due to Meta Pixel and third-party cookie deprecation",
+        "Encrypted audiences sent to Google Ads, Meta Ads and Meta Conversions API",
+        "Native or API integration with ESPs, CRMs and direct mail solutions",
+        "Consumer or business contact enrichment",
+        "Advanced audience segmentation",
+        "Persistent customer journey tracking",
+        "Suite of email deliverability optimization tools"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Identified Visitor Fees",
+      "unit": "per visitor",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:47:50.205103",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0fb0957b-bed7-4c12-b55c-658bde6163a3",
+    "name": "Customers.ai",
+    "slug": "customersai",
+    "description": "Customers.ai is a lead-generating and outbound automation platform. Find who your customers are and contact them.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/f38c8d88cd4c6b4ed4b957bac9369caf.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 2
+  }
+}

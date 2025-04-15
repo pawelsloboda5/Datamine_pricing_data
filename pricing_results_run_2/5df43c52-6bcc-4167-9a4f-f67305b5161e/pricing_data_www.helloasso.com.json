@@ -1,0 +1,69 @@
+{
+  "app_id": "helloasso",
+  "app_name": "HelloAsso",
+  "app_slug": "helloasso",
+  "pricing_url": "https://info.helloasso.com/modele-economique",
+  "source_url": "https://www.helloasso.com",
+  "all_pricing_urls": [
+    "https://info.helloasso.com/modele-economique"
+  ],
+  "price_model_type": [
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "HelloAsso operates on a free model funded by voluntary contributions from users.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "HelloAsso provides its services for free, funded by voluntary contributions.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Online payment processing",
+        "Project management tools",
+        "Personalized support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:20:22.513227",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5df43c52-6bcc-4167-9a4f-f67305b5161e",
+    "name": "HelloAsso",
+    "slug": "helloasso",
+    "description": "HelloAsso is a web platform that lets French non-profit organisations manage their campaigns and collect funds. It offers various tools to manage memberships, fundraisings, crowdfundings, e-shops, events & ticketing, all free of charge.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/46962ca0579455fd8417035804e3f097.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

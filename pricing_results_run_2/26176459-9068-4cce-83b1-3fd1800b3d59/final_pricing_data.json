@@ -1,0 +1,43 @@
+{
+  "app_id": "pushcut",
+  "app_name": "Pushcut",
+  "app_slug": "pushcut",
+  "pricing_url": null,
+  "source_url": "https://www.pushcut.io/pricing.",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page for Pushcut was not accessible, and no specific pricing information was found in the provided content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:38:48.580549",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "26176459-9068-4cce-83b1-3fd1800b3d59",
+    "name": "Pushcut",
+    "slug": "pushcut",
+    "description": "Pushcut is an app for iOS that lets you create smart notifications to kick off shortcuts, URLs, and online automations.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/f142d928eaa27a51e051d916ac33c549.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Notifications"
+    ],
+    "category_slugs": [
+      "notifications"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 6,
+    "trigger_count": 0
+  }
+}

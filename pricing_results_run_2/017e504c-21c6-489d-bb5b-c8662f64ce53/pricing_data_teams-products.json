@@ -1,0 +1,117 @@
+{
+  "app_id": "microsoft_teams",
+  "app_name": "Microsoft Teams",
+  "app_slug": "microsoft-teams",
+  "pricing_url": "https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options?activetab=pivot:primaryr1",
+  "source_url": "https://www.microsoft.com/en-us/microsoft-teams/teams-products",
+  "all_pricing_urls": [
+    "https://www.microsoft.com/en-us/microsoft-teams/compare-microsoft-teams-options?activetab=pivot:primaryr1"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details include various tiers and add-ons for different business needs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Microsoft Teams Essentials",
+      "tier_description": "Affordable, simple way to reach customers by video, chat, and phone.",
+      "monthly_price": 4.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited group meetings for up to 30 hours",
+        "Host up to 300 participants per meeting",
+        "10 GB of cloud storage per user"
+      ],
+      "limits": {
+        "users": 300,
+        "storage": "10GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Microsoft 365 Business Basic",
+      "tier_description": "Get Teams, plus Microsoft 365 web apps.",
+      "monthly_price": 6.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Use the latest versions of Word, Excel, PowerPoint, OneNote, and Outlook on the web",
+        "Connect people to content and processes through SharePoint",
+        "1 TB of cloud storage per user"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "1TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Microsoft Teams for Enterprise",
+      "tier_description": "Professional meeting solution for enterprises.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited group meetings for up to 30 hours",
+        "10GB of OneDrive cloud storage per user",
+        "Anytime phone and web support",
+        "Unlimited chat with coworkers and customers",
+        "File sharing, tasks, and polling",
+        "Data encryption for meetings, chat, calls, and files"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:36:01.309511",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "017e504c-21c6-489d-bb5b-c8662f64ce53",
+    "name": "Microsoft Teams",
+    "slug": "microsoft-teams",
+    "description": "Microsoft Teams is the hub for teamwork in Office 365 that integrates all the people, content, and tools your team needs to be more engaged and effective.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/22d6681f64c79dd71a34066afe1c54e2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Microsoft",
+      "Team Chat"
+    ],
+    "category_slugs": [
+      "microsoft",
+      "team-chat"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 6
+  }
+}

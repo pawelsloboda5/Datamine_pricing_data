@@ -1,0 +1,24 @@
+{
+  "app_name": "eWebinar",
+  "app_slug": "ewebinar",
+  "search_term": "Find the official pricing page URL for eWebinar (ewebinar.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744695214.4679384,
+  "response_text": [
+    "The official pricing page URL for eWebinar is [https://ewebinar.com/pricing](https://ewebinar.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "eWebinar Pricing | Base Subscriptions & Subscription Add-Ons",
+      "url": "https://ewebinar.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://ewebinar.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\ewebinar\\20250415_013350"
+}

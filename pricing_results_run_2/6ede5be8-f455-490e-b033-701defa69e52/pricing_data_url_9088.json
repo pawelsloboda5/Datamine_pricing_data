@@ -1,0 +1,155 @@
+{
+  "app_id": "bookfunnel",
+  "app_name": "BookFunnel",
+  "app_slug": "bookfunnel",
+  "pricing_url": "https://bookfunnel.com/pricing/",
+  "source_url": "https://bookfunnel.com/pricing/",
+  "all_pricing_urls": [
+    "https://bookfunnel.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "BookFunnel offers subscription-based pricing with annual and monthly options, including additional fees for integrations and audiobook delivery.",
+  "pricing_tiers": [
+    {
+      "tier_name": "First-Time Author",
+      "tier_description": "The perfect plan for beginners",
+      "monthly_price": null,
+      "annual_price": 20.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 Pen Name",
+        "500 Downloads/Month",
+        "Unlimited Books Stored",
+        "Group Promos",
+        "Author Swaps"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": 500,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Mid-List Author",
+      "tier_description": "The features you need",
+      "monthly_price": 10.0,
+      "annual_price": 100.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "1 Author, up to 2 Pen Names",
+        "5000 Downloads/Month",
+        "Unlimited Books Stored",
+        "Group Promos",
+        "Author Swaps",
+        "Add Audiobooks",
+        "Direct Sales Delivery",
+        "Crowdsourcing Delivery",
+        "Collect Reader Email Addresses",
+        "Watermarked Files",
+        "Secure ARC Delivery"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": 5000,
+        "api_calls": null,
+        "integrations": 2,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Bestseller",
+      "tier_description": "Unlimited books & downloads",
+      "monthly_price": 25.0,
+      "annual_price": 250.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "1 Author, up to 3 Pen Names",
+        "Unlimited Downloads",
+        "Unlimited Books Stored",
+        "Group Promos",
+        "Author Swaps",
+        "Add Audiobooks",
+        "Integrate With 3 Mailing Lists",
+        "Direct Sales Delivery",
+        "Crowdsourcing Delivery",
+        "Collect Reader Email Addresses",
+        "Watermarked Files",
+        "Secure ARC Delivery",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": 3,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Delivered Hours of Audio",
+      "unit": "per month",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 5000.0,
+          "price": 15.0
+        },
+        {
+          "min": 5001.0,
+          "max": "unlimited",
+          "price": 25.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Direct Integration",
+      "fee_amount": 50.0,
+      "fee_description": "Integrate with up to two mailing list services for Mid-List Author plan."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:40:27.997023",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6ede5be8-f455-490e-b033-701defa69e52",
+    "name": "BookFunnel",
+    "slug": "bookfunnel",
+    "description": "BookFunnel is an ebook and audiobook delivery service for authors and publishers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/066093f405e7fedbe0cd0b0972f3626c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Content & Files"
+    ],
+    "category_slugs": [
+      "content-files"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

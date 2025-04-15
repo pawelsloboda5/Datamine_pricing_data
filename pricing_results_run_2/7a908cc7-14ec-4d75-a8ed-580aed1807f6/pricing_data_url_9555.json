@@ -1,0 +1,181 @@
+{
+  "app_id": "freshsales_suite",
+  "app_name": "Freshsales Suite",
+  "app_slug": "freshsales-suite",
+  "pricing_url": "https://www.freshworks.com/crm/suite/pricing/",
+  "source_url": "https://www.freshworks.com/crm/pricing/",
+  "all_pricing_urls": [
+    "https://www.freshworks.com/crm/suite/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 21,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier for up to 3 users and additional AI agent session packs available for purchase.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Designed for small teams of up to 3 users.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Kanban views",
+        "Email templates",
+        "Built-in phone",
+        "Live chat"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Tailored for startups and SMBs seeking efficient pipeline management.",
+      "monthly_price": 9.0,
+      "annual_price": 108.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Kanban View",
+        "Contact Lifecycle Stages",
+        "Built-in Chat, Email, & Phone",
+        "Email Templates",
+        "Custom Fields",
+        "Basic Workflows",
+        "Contextual Collaboration with Slack",
+        "Product Catalog",
+        "Curated Reports",
+        "Freshworks Marketplace",
+        "1 CPQ license",
+        "Mobile App",
+        "24x5 Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Ideal for growing & mid-sized businesses requiring advanced capabilities.",
+      "monthly_price": 39.0,
+      "annual_price": 468.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Contact Scoring by Freddy AI",
+        "Custom Sales Activities",
+        "Advanced custom fields",
+        "Auto-assignment Rules",
+        "Territory Management",
+        "Sales Sequences",
+        "Sales Emails by Freddy AI",
+        "Rephrase, Expand, and Enhance text by Freddy AI",
+        "Bring Your Own Carrier (B.Y.O.C)",
+        "Multiple Sales Pipelines",
+        "Account Hierarchy",
+        "Deal Insights by Freddy AI",
+        "Advanced Workflows",
+        "Custom Reports"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Designed for mid to large-sized businesses needing advanced customization.",
+      "monthly_price": 59.0,
+      "annual_price": 708.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Field-level Permissions",
+        "Custom Modules",
+        "Forecasting Insights by Freddy AI",
+        "Workflows for Custom Modules",
+        "Sandbox",
+        "Audit Logs"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "AI agent sessions",
+      "unit": "per 1000 sessions",
+      "base_price": 100.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Configure, Price, Quote",
+      "fee_amount": 19.0,
+      "fee_description": "Per user per month for generating branded documents like invoices and quotes."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:23:24.581755",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7a908cc7-14ec-4d75-a8ed-580aed1807f6",
+    "name": "Freshsales Suite",
+    "slug": "freshsales-suite",
+    "description": "Freshsales Suite is an online, cloud-based CRM with integrated phone and email, user behavior tracking, lead scoring and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/412bd81963accc5ed79adacab8453430.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 20,
+    "trigger_count": 6
+  }
+}

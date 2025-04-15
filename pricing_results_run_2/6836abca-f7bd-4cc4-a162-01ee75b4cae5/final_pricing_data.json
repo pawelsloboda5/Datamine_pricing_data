@@ -1,0 +1,45 @@
+{
+  "app_id": "crmble",
+  "app_name": "Crmble",
+  "app_slug": "crmble",
+  "pricing_url": "https://www.crmble.com/pricing/",
+  "source_url": "https://www.crmble.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.crmble.com/pricing/"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page was not accessible, and no information could be extracted.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:40:36.652778",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "6836abca-f7bd-4cc4-a162-01ee75b4cae5",
+    "name": "Crmble",
+    "slug": "crmble",
+    "description": "Feed your Trello Crmble Cards on your boards!",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/94692c6c6ad67d89f5bfbb125d3b45a5.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

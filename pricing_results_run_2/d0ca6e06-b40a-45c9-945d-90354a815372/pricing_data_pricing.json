@@ -1,0 +1,97 @@
+{
+  "app_id": "talkadot",
+  "app_name": "Talkadot",
+  "app_slug": "talkadot",
+  "pricing_url": null,
+  "source_url": "https://www.talkadot.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing is emphasized for all paid tiers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lite",
+      "tier_description": "For speaking hobbyists",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited audience feedback",
+        "1 bonus giveaway (Talkadot code)",
+        "Up to 50 audience email addresses collected"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For speaking professionals",
+      "monthly_price": 49.0,
+      "annual_price": 588.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "25 simultaneous bonus giveaways (Talkadot code)",
+        "2,500 audience email addresses collected / year",
+        "2,500 post event followup emails sent on your behalf / year",
+        "2 custom question per code",
+        "Customize or remove rating questions",
+        "Zapier and Speakerflow Integration",
+        "AI Summaries with key learning outcomes of your talks"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Elite",
+      "tier_description": "For serious speaking professionals and those with small teams",
+      "monthly_price": 99.0,
+      "annual_price": 1188.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 hour private onboarding",
+        "500 simultaneous bonus giveaways (Talkadot code)",
+        "50,000 leads and audience email addresses collected / year",
+        "50,000 post event followup emails sent on your behalf / year",
+        "10 custom questions per code",
+        "5 additional user logins to manage your account",
+        "Shareable Speaker Profile"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:29:14.525594",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d0ca6e06-b40a-45c9-945d-90354a815372",
+    "name": "Talkadot",
+    "slug": "talkadot",
+    "description": "Talkadot is the only speaking tool you need to collect testimonials, capture leads and referrals, and generate booking opportunities.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/2a89e6db8e05b42b8671af302d2d6007.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

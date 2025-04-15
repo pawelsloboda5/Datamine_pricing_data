@@ -1,0 +1,12 @@
+{
+  "app_name": "Captivate",
+  "app_slug": "captivate",
+  "search_term": "Find the official pricing page URL for Captivate (captivate.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744703180.206065,
+  "response_text": [
+    "I couldn't locate the pricing page for Captivate on the official website. Let me know if you'd like me to guide you in manually exploring their site."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\captivate\\20250415_034620"
+}

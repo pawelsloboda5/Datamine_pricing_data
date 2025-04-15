@@ -1,0 +1,122 @@
+{
+  "app_id": "getaccept",
+  "app_name": "GetAccept",
+  "app_slug": "getaccept",
+  "pricing_url": "https://www.getaccept.com/pricing",
+  "source_url": "https://www.getaccept.com/pricing",
+  "all_pricing_urls": [
+    "https://www.getaccept.com/pricing",
+    "https://www.getaccept.com/fr/tarifs",
+    "https://www.getaccept.com/sv/priser"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is structured per user per month with additional features and integrations available as add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "E-sign",
+      "tier_description": "For smaller sales teams looking for an e-signature solution to streamline document workflows.",
+      "monthly_price": 25.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited electronic signatures",
+        "In-app editor (text and images)",
+        "Simple branding options",
+        "Engagement video",
+        "Automated reminders",
+        "Chat functionality",
+        "Templates & content library"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "The complete Digital Sales Room experience for teams ready to streamline their process from opportunity to closed deal.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in eSign plus:",
+        "Advanced branding options",
+        "Custom in-app color schemes + backgrounds",
+        "Advanced tracking & insights",
+        "Granular buyer engagement analytics, room level insights and sales dashboards",
+        "Full in-app editing experience",
+        "Teams",
+        "Pricing table & product library",
+        "HubSpot, Pipedrive, Upsales & LimeGo integrations",
+        "Advanced stakeholder engagement"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "Add-on only",
+        "custom_limits": [
+          {
+            "name": "Products in library",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "The best solution for larger sales teams looking to scale and streamline complex sales processes.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Professional, plus:",
+        "Contract management",
+        "CPQ",
+        "Unlimited product library",
+        "Single sign-on (SSO)",
+        "Salesforce, Microsoft Dynamics, SuperOffice, LimeCRM Integrations",
+        "HR & payment integrations",
+        "Entities",
+        "API read access"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:58:23.661959",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "42e779d1-3a55-4837-9cc7-670d3eb12e8f",
+    "name": "GetAccept",
+    "slug": "getaccept",
+    "description": "GetAccept is a cloud solution where you design, send, track and promote your proposals to win and get more deals signed digitally.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/93ee5cc151ec49a1e0d5b2de5d53cadb.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Signatures"
+    ],
+    "category_slugs": [
+      "signatures"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 6
+  }
+}

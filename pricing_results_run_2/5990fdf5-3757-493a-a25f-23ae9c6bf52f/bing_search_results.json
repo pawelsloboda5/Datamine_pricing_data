@@ -1,0 +1,30 @@
+{
+  "app_name": "ServiceNow",
+  "app_slug": "servicenow",
+  "search_term": "Find the official pricing page URL for ServiceNow (servicenow.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744720945.4921083,
+  "response_text": [
+    "The official pricing page URL for ServiceNow is: [https://www.servicenow.com/pricing.html](https://www.servicenow.com/pricing.html)\u30103:1\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - ServiceNow",
+      "url": "https://www.servicenow.com/lpgp/pricing.html"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.servicenow.com/lpgp/pricing.html",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://www.servicenow.com/pricing.html",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\servicenow\\20250415_084256"
+}

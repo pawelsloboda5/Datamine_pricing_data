@@ -1,0 +1,47 @@
+{
+  "app_id": "wrike",
+  "app_name": "Wrike",
+  "app_slug": "wrike",
+  "pricing_url": "https://www.wrike.com/price/",
+  "source_url": "https://www.wrike.com/pricing/\u30103:0\u2020source\u3011.",
+  "all_pricing_urls": [
+    "https://www.wrike.com/price/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Detailed pricing information was not accessible from the provided content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:55:52.256776",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1829d80d-2923-4c1d-a619-4d7e838eb699",
+    "name": "Wrike",
+    "slug": "wrike",
+    "description": "Wrike is a flexible project management and collaboration platform that enables you to organize your projects, tasks, plans and discussions. It helps you sync your team\u2019s efforts and track your work progress in real time.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/0e0b83eb6d754ef1c2c39c882282f69b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 1
+  }
+}

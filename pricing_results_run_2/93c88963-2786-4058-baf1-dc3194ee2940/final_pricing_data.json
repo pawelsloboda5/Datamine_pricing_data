@@ -1,0 +1,193 @@
+{
+  "app_id": "showcase_idx",
+  "app_name": "Showcase IDX",
+  "app_slug": "showcase-idx",
+  "pricing_url": "https://support.showcaseidx.com/hc/en-us/articles/360058309352-Plans-Pricing-Comparing-Essentials-vs-Premium",
+  "source_url": "https://showcaseidx.com/pricing/",
+  "all_pricing_urls": [
+    "https://support.showcaseidx.com/hc/en-us/articles/360058309352-Plans-Pricing-Comparing-Essentials-vs-Premium"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 10,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a discount equivalent to two free months. Additional fees may apply for MLS data access.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Beautiful MLS search and consumer tools for your website.",
+      "monthly_price": 84.95,
+      "annual_price": 849.5,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": 0.0,
+      "features": [
+        "Live MLS Search & Listings During Trial",
+        "Phone Support",
+        "Email & Live Chat Support",
+        "Mortgage Calculator",
+        "Left Side Map Display",
+        "15-Minute MLS Updates",
+        "SEO Optimization Tools",
+        "Mobile Device-Optimized Responsive Design",
+        "Lead Capture & Routing",
+        "Collaborative Search Groups For Leads",
+        "Walkscore",
+        "Bikescore",
+        "Customizable Colors, Fonts & Design",
+        "Search Multiple MLSs in One Search",
+        "Fast Page Load Speeds",
+        "HTTPS & SSL Compliant",
+        "Search Engine Indexable Embeddable Search Results",
+        "Search Engine Indexable Listing Pages",
+        "Integrated CRM Tools",
+        "Hosted on Google Cloud Platform",
+        "Agent Recommended Search Email Subscriptions",
+        "Facebook & Google Lead Sign Up",
+        "Advanced Polygon Map Search",
+        "Finger-Touch Mobile Polygon Map Search",
+        "Use My Current Location Mobile Search",
+        "Zapier \u2013 Connect Lead Data to 1000+ Apps",
+        "Automated Listing Squeeze Landing Pages",
+        "Google Analytics Lead Events Conversion Tracking"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Additional Users",
+            "value": "$4/mo/user for 3-10 users, $3/mo/user for 11-50 users, $2.50/mo/user for 51-100 users, $2.25/mo/user for 100-200 users, $2/mo/user for 200+ users"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Advanced tools and integrations to do more with your website.",
+      "monthly_price": 119.95,
+      "annual_price": 1195.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": 0.0,
+      "features": [
+        "All features in Essentials",
+        "Lead Data Real-Time CRM Integrations",
+        "Lead Activity Real-Time CRM Integrations",
+        "Feature Agent Listings At Top of Results",
+        "Feature Office Listings At Top of Results",
+        "Advanced Round Robin Lead Routing",
+        "Listing Page Demographics \u2013 Population Insight",
+        "Listing Page Demographics \u2013 Population By Age Group",
+        "Listing Page Demographics \u2013 Education Level",
+        "Listing Page Demographics \u2013 Household Insight",
+        "Listing Page Demographics \u2013 Marital Status",
+        "Listing Page Demographics \u2013 Homes with Children",
+        "Listing Page Demographics \u2013 Employment Insight",
+        "Listing Page Demographics \u2013 Cost of Living",
+        "Listing Page Demographics \u2013 Registration Locks",
+        "Listing Page Demographics \u2013 Commute Insight",
+        "Google XML Sitemaps",
+        "Search Results Registration Locks",
+        "Registration Form Customization",
+        "Enhanced Pagination on Default Search Page",
+        "8 Additional Map Styles",
+        "Full Google Analytics Listing Page Tracking",
+        "Auto-Deduplication of Listings (Overlapping MLS)"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Additional Users",
+            "value": "$4/mo/user for 6-10 users, $3/mo/user for 11-50 users, $2.50/mo/user for 51-100 users, $2.25/mo/user for 100-200 users, $2/mo/user for 200+ users"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional Users",
+      "unit": "per user",
+      "base_price": 4.0,
+      "tiers": [
+        {
+          "min": 3.0,
+          "max": 10.0,
+          "price": 4.0
+        },
+        {
+          "min": 11.0,
+          "max": 50.0,
+          "price": 3.0
+        },
+        {
+          "min": 51.0,
+          "max": 100.0,
+          "price": 2.5
+        },
+        {
+          "min": 101.0,
+          "max": 200.0,
+          "price": 2.25
+        },
+        {
+          "min": 201.0,
+          "max": "unlimited",
+          "price": 2.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Get 12 months for the price of 10 months.",
+      "discount_percentage": 20.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "MLS Data Access Fees",
+      "fee_amount": 33.0,
+      "fee_description": "Pass-through fees for MLS data access, varying by MLS."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:54:06.376743",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "93c88963-2786-4058-baf1-dc3194ee2940",
+    "name": "Showcase IDX",
+    "slug": "showcase-idx",
+    "description": "Showcase IDX is a real estate search plugin for WordPress, optimized for lead generation.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/e57e4cbfe27bffbba9803c6b6b516530_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

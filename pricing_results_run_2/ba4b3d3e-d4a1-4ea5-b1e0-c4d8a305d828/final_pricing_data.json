@@ -1,0 +1,76 @@
+{
+  "app_id": "b1g1",
+  "app_name": "B1G1",
+  "app_slug": "b1g1",
+  "pricing_url": null,
+  "source_url": "https://b1g1.com/join-us",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing for larger businesses is customized based on team size and needs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Tiny Business",
+      "tier_description": "For businesses with annual revenue less than $150K.",
+      "monthly_price": 30.0,
+      "annual_price": 365.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to B1G1 branding for marketing",
+        "Unrestricted access to B1G1 resources",
+        "Creation of an 'Impact Page'",
+        "Membership in the B1G1 community",
+        "Unique business listing on B1G1 site",
+        "Access to B1G1 events and conferences"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Small, Medium, and Enterprise",
+      "tier_description": "For businesses with annual revenue greater than $150K.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Customized membership based on team size and needs"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:31:19.110837",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ba4b3d3e-d4a1-4ea5-b1e0-c4d8a305d828",
+    "name": "B1G1",
+    "slug": "b1g1",
+    "description": "Embed giving into the heart of your business model and activities through B1G1\u2019s giving platform",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c4ace4f9817a7f5c7962ed6c3d48cb6a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fundraising"
+    ],
+    "category_slugs": [
+      "fundraising"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "app_id": "thryv",
+  "app_name": "Thryv",
+  "app_slug": "thryv",
+  "pricing_url": "https://www.thryv.com/pricing/",
+  "source_url": "https://www.thryv.com/pricing-spring-2024/",
+  "all_pricing_urls": [
+    "https://www.thryv.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Special pricing available for teams of 10 employees or more.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": null,
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Centralized Inbox (3 channels)",
+        "TeamChat (30-day viewable chat history)",
+        "Phone & Video Calls (60 minutes)",
+        "WebChat (Free chat tool for your website)",
+        "Support (Email & online community only)"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": null,
+      "monthly_price": 20.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Centralized Inbox (6 channels)",
+        "TeamChat (12-month retention)",
+        "Phone & Video Calls (300 minutes)",
+        "WebChat (Free chat tool for your website)",
+        "Support (Phone, email, chat and online community)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": null,
+      "monthly_price": 30.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Centralized Inbox (Unlimited channels)",
+        "TeamChat (Unlimited retention)",
+        "Phone & Video Calls (600 minutes)",
+        "WebChat (Free chat tool for your website)",
+        "Support (Phone, email, chat and online community)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus (Business Center)",
+      "tier_description": null,
+      "monthly_price": 244.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 250.0,
+      "features": [
+        "CRM",
+        "Calendar & Appointments",
+        "Secure Client Portal",
+        "Estimates & Invoices",
+        "Payment Processing",
+        "Local Online Listings",
+        "Social Media Management",
+        "20 GB File Storage",
+        "Email & SMS Marketing Messages (Up to 5,000 messages)"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "20 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional (Business Center)",
+      "tier_description": null,
+      "monthly_price": 410.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 250.0,
+      "features": [
+        "CRM",
+        "Calendar & Appointments",
+        "Secure Client Portal",
+        "Estimates & Invoices",
+        "Payment Processing",
+        "Local Online Listings",
+        "Social Media Management (AI-powered social caption generator)",
+        "50 GB File Storage",
+        "Professional Website (Up to 15 pages)",
+        "Email & SMS Marketing Messages (Up to 10,000 messages)"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "50 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Unlimited (Business Center)",
+      "tier_description": null,
+      "monthly_price": 571.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 250.0,
+      "features": [
+        "CRM",
+        "Calendar & Appointments",
+        "Secure Client Portal",
+        "Estimates & Invoices",
+        "Payment Processing",
+        "Local Online Listings",
+        "Social Media Management (Thryv-Generated social content)",
+        "Unlimited File Storage",
+        "Professional Website (Up to 15 pages)",
+        "Email & SMS Marketing Messages (Unlimited)"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional Phone Minutes",
+      "unit": "per 100 minutes",
+      "base_price": 5.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Onboarding Fee",
+      "fee_amount": 250.0,
+      "fee_description": "One-time onboarding fee for all package levels."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:54:12.549093",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "af745a41-a011-46f7-bcb3-24a733c505e6",
+    "name": "Thryv",
+    "slug": "thryv",
+    "description": "Thryv is an all-in-one management software built for small business. It integrates essential business functions like payments, marketing, and CRM.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/9b2a8d8c44f0ee70ac5fd48f14ad7358.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 3
+  }
+}

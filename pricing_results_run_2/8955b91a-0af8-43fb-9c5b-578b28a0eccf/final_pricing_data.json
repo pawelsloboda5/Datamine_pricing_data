@@ -1,0 +1,134 @@
+{
+  "app_id": "order_desk",
+  "app_name": "Order Desk",
+  "app_slug": "order-desk",
+  "pricing_url": "https://www.orderdesk.com/pricing",
+  "source_url": "https://www.orderdesk.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.orderdesk.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Order Desk charges a monthly subscription fee and a per-order fee based on usage. Historical orders older than a month are not charged.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": null,
+      "monthly_price": 20.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Connect up to 3 integrations",
+        "One user"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 3,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": null,
+      "monthly_price": 60.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited integrations",
+        "Unlimited users"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": null,
+      "monthly_price": 125.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Pro Stores",
+        "Manage other Order Desk stores under the same subscription at no additional monthly cost",
+        "Unlimited integrations",
+        "Unlimited users"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "orders",
+      "unit": "per order",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": null,
+          "price": 0.25
+        },
+        {
+          "min": 0.0,
+          "max": null,
+          "price": 0.1
+        },
+        {
+          "min": 0.0,
+          "max": null,
+          "price": 0.05
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:37:17.526846",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "8955b91a-0af8-43fb-9c5b-578b28a0eccf",
+    "name": "Order Desk",
+    "slug": "order-desk",
+    "description": "Order Desk's order management software allows you to customize your order management workflow.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/ff1ea609f85e831cb3996e2b87fd3c7a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 1
+  }
+}

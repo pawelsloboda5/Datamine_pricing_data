@@ -1,0 +1,112 @@
+{
+  "app_id": "dux-soup",
+  "app_name": "Dux-Soup",
+  "app_slug": "dux-soup",
+  "pricing_url": "https://www.dux-soup.com/pricing/plans",
+  "source_url": "https://www.dux-soup.com/pricing",
+  "all_pricing_urls": [
+    "https://www.dux-soup.com/pricing/plans",
+    "https://www.dux-soup.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers a 20% discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pro Dux",
+      "tier_description": "Automate your outreach with LinkedIn connection invitations and messages.",
+      "monthly_price": 14.99,
+      "annual_price": 135.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Automate LinkedIn connection invitations",
+        "Send personalized messages",
+        "Export LinkedIn data to CSV"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Turbo Dux",
+      "tier_description": "Scale your lead generation with multi-touch LinkedIn drip campaigns.",
+      "monthly_price": 55.0,
+      "annual_price": 495.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Multi-touch LinkedIn drip campaigns",
+        "Sales pipeline management dashboard",
+        "Connect to 3rd party systems"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Cloud Dux",
+      "tier_description": "Fully automated LinkedIn drip campaigns in the cloud.",
+      "monthly_price": 99.0,
+      "annual_price": 890.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Fully automated drip campaigns",
+        "24/7 operation on cloud infrastructure",
+        "Advanced LinkedIn automation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:38:22.350468",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fd42561c-a395-4516-b0e8-28da7af5e7a9",
+    "name": "Dux-Soup",
+    "slug": "dux-soup",
+    "description": "Dux-Soup is LinkedIn automation software to find leads and engage with prospects.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/279aee24a431238cd36f71fefc46a9c1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 3
+  }
+}

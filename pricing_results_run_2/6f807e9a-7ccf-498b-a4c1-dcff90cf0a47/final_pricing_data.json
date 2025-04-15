@@ -1,0 +1,43 @@
+{
+  "app_id": "spotler_mail_plus",
+  "app_name": "Spotler Mail+",
+  "app_slug": "spotler-mail-plus",
+  "pricing_url": null,
+  "source_url": "https://spotler.com/en-de/pricing/mailplus",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "No specific pricing information was found in the provided content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:27:50.401025",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6f807e9a-7ccf-498b-a4c1-dcff90cf0a47",
+    "name": "Spotler Mail+",
+    "slug": "spotler",
+    "description": "Spotler Mail+ develops and delivers software for professional email marketing automation.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/fa0bdba2ce8745cd9a83f6abdd695529_4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

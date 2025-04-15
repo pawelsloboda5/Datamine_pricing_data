@@ -1,0 +1,135 @@
+{
+  "app_id": "snovio",
+  "app_name": "Snov.io",
+  "app_slug": "snovio",
+  "pricing_url": null,
+  "source_url": "https://snov.io/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Credits can be distributed between Email Finder and Email Verifier features. Numbers shown represent how many searches or verifications can be done if all credits are spent on that particular feature.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Entry-level plan for small-scale usage.",
+      "monthly_price": 69.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email Finder",
+        "Email Verifier",
+        "Drip Campaigns",
+        "LinkedIn Automation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": "50"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced plan for medium-scale usage.",
+      "monthly_price": 149.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email Finder",
+        "Email Verifier",
+        "Drip Campaigns",
+        "LinkedIn Automation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": "1000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Comprehensive plan for large-scale usage.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email Finder",
+        "Email Verifier",
+        "Drip Campaigns",
+        "LinkedIn Automation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "LinkedIn Automation",
+      "unit": "per account slot",
+      "base_price": 69.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:44:08.078784",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "65cc0a77-f523-4f1e-8b00-b76871aa9a30",
+    "name": "Snov.io",
+    "slug": "snovio",
+    "description": "Snov.io is an easy and powerful CRM. Find leads, manage your database, and send converting automated emails.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/f2f06f729349391e3a64cde0f73d06c2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 5
+  }
+}

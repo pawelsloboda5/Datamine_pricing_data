@@ -1,0 +1,12 @@
+{
+  "app_name": "Rentman",
+  "app_slug": "rentman",
+  "search_term": "Find the official pricing page URL for Rentman (rentman.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744698453.0352776,
+  "response_text": [
+    "I couldn't find the official pricing page for Rentman on their website. You might need to check their main site or contact their support directly for specific pricing details. Let me know if you need assistance with anything else!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\rentman\\20250415_022733"
+}

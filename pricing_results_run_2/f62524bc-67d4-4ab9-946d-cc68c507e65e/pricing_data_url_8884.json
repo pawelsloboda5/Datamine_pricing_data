@@ -1,0 +1,230 @@
+{
+  "app_id": "avaza",
+  "app_name": "Avaza",
+  "app_slug": "avaza",
+  "pricing_url": "https://www.avaza.com/pricing/",
+  "source_url": "https://www.avaza.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.avaza.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Additional fees apply for extra users and storage.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free plan with basic features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Project Collaborators",
+        "1 User with Timesheet / Expense Access",
+        "1 User with Admin/Finance Access",
+        "1 User with Resource Schedule Access",
+        "5 Team Members with Chat Access",
+        "Unlimited External Contacts with Chat Access",
+        "5 Active Projects Unlimited Archived Projects",
+        "10 Customers",
+        "5 Invoices & Bills per Month",
+        "100 MB Storage",
+        "Email & Chat Support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "100 MB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Startup",
+      "tier_description": "Startup plan for small teams.",
+      "monthly_price": 11.95,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Project Collaborators",
+        "2 Users with Timesheet / Expense Access",
+        "1 User with Admin/Finance Access",
+        "1 User with Resource Scheduling Access",
+        "5 Team Members with Chat Access",
+        "Unlimited External Contacts with Chat Access",
+        "20 Active Projects Unlimited Archived Projects",
+        "Unlimited Customers",
+        "50 Invoices & Bills per Month",
+        "10 GB Storage",
+        "Priority Email & Chat Support"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "10 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional Timesheet/Expense Users",
+            "value": "$7 each /mo"
+          },
+          {
+            "name": "Additional Admin/Finance Users",
+            "value": "$7 each /mo"
+          },
+          {
+            "name": "Additional Resource Scheduling Users",
+            "value": "$7 each /mo"
+          },
+          {
+            "name": "Additional Team Members with Chat Access",
+            "value": "$2 each /mo"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Basic plan for growing teams.",
+      "monthly_price": 23.95,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Project Collaborators",
+        "5 Users with Timesheet / Expense Access",
+        "2 Users with Admin/Finance Access",
+        "1 User with Resource Scheduling Access",
+        "5 Team Members with Chat Access",
+        "Unlimited External Contacts with Chat Access",
+        "50 Active Projects Unlimited Archived Projects",
+        "Unlimited Customers",
+        "100 Invoices & Bills per Month",
+        "20 GB Storage",
+        "Priority Email & Chat Support"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "20 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional Timesheet/Expense Users",
+            "value": "$7 each /mo"
+          },
+          {
+            "name": "Additional Admin/Finance Users",
+            "value": "$7 each /mo"
+          },
+          {
+            "name": "Additional Resource Scheduling Users",
+            "value": "$7 each /mo"
+          },
+          {
+            "name": "Additional Team Members with Chat Access",
+            "value": "$2 each /mo"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Business plan for larger teams.",
+      "monthly_price": 47.95,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Project Collaborators",
+        "10 Users with Timesheet / Expense Access",
+        "5 Users with Admin/Finance Access",
+        "1 User with Resource Scheduling Access",
+        "5 Team Members with Chat Access",
+        "Unlimited External Contacts with Chat Access",
+        "Unlimited Active Projects Unlimited Archived Projects",
+        "Unlimited Customers",
+        "Unlimited Invoices & Bills per Month",
+        "30 GB Storage",
+        "Priority Email & Chat Support"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "30 GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional Timesheet/Expense Users",
+            "value": "$7 each /mo"
+          },
+          {
+            "name": "Additional Admin/Finance Users",
+            "value": "$7 each /mo"
+          },
+          {
+            "name": "Additional Resource Scheduling Users",
+            "value": "$7 each /mo"
+          },
+          {
+            "name": "Additional Team Members with Chat Access",
+            "value": "$2 each /mo"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional Storage",
+      "unit": "per GB",
+      "base_price": 0.5,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "VAT",
+      "fee_amount": null,
+      "fee_description": "Added for customers in the UK and Isle of Man"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:41:22.849013",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f62524bc-67d4-4ab9-946d-cc68c507e65e",
+    "name": "Avaza",
+    "slug": "avaza",
+    "description": "Avaza is a versatile software for client-focused businesses. It offers project management, timesheets, expenses, quotes, and invoicing.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ddf2a3537f633c631000321933202d80.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Time Tracking Software"
+    ],
+    "category_slugs": [
+      "time-tracking"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 5
+  }
+}

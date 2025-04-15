@@ -1,0 +1,151 @@
+{
+  "app_id": "telzio",
+  "app_name": "Telzio",
+  "app_slug": "telzio",
+  "pricing_url": "https://telzio.com/pricing",
+  "source_url": "https://telzio.com/pricing",
+  "all_pricing_urls": [
+    "https://telzio.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Telzio offers scalable pricing based on usage, with no per-user fees.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Small Business",
+      "tier_description": "Plans starting at $50/month for 1,000 minutes and one local number.",
+      "monthly_price": 50.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited users",
+        "Flexible month-to-month plans",
+        "Unlimited technical & account support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Minutes",
+            "value": "1,000"
+          },
+          {
+            "name": "Additional Numbers",
+            "value": "$1 per number"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom pricing based on volume.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Volume discounts",
+        "International packages",
+        "Users & channels included",
+        "Implementation team"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Minutes",
+      "unit": "per minute",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.15
+        }
+      ]
+    },
+    {
+      "metric_name": "Text Messages",
+      "unit": "per message",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.13
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Nonprofit Discount",
+      "offer_description": "20% discount for qualifying nonprofits.",
+      "discount_percentage": 20.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Custom Caller ID",
+      "fee_amount": 15.0,
+      "fee_description": "One-time setup fee to register caller ID."
+    },
+    {
+      "fee_name": "911 Emergency Calling",
+      "fee_amount": 1.0,
+      "fee_description": "Monthly fee per phone number."
+    },
+    {
+      "fee_name": "411 Directory Service",
+      "fee_amount": 5.0,
+      "fee_description": "Monthly fee per phone number."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:04:35.208599",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f34c1cbe-5c69-477e-a35a-40b52110ea99",
+    "name": "Telzio",
+    "slug": "telzio",
+    "description": "Telzio provides companies with high-quality, feature-rich phone systems, and integrates teams under a seamless, cloud platform.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/8ced02ed0b5d5169d5a44283f06f67f2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 6
+  }
+}

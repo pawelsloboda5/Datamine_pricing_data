@@ -1,0 +1,118 @@
+{
+  "app_id": "agencybloc",
+  "app_name": "AgencyBloc",
+  "app_slug": "agencybloc",
+  "pricing_url": "https://www.agencybloc.com/pricing/",
+  "source_url": "https://www.agencybloc.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.agencybloc.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing for AMS+, Commissions+, and Quote+ solutions is based on volume of transactions or groups quoted, and requires customized pricing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "AMS+ Grow",
+      "tier_description": "Basic features for AMS+",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic automated servicing workflows",
+        "Basic click-to-text leads",
+        "Basic automated lead workflows",
+        "Basic text messaging"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "AMS+ Accelerate",
+      "tier_description": "Premium features for AMS+",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Premium automated servicing workflows",
+        "Premium click-to-text leads",
+        "Premium automated lead workflows",
+        "Premium text messaging"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "AMS+ Elevate",
+      "tier_description": "Premium features for AMS+",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Premium automated servicing workflows",
+        "Premium click-to-text leads",
+        "Premium automated lead workflows",
+        "Premium text messaging"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Volume of transactions",
+      "unit": null,
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Volume of groups quoted",
+      "unit": null,
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Insurance Agency Websites",
+      "fee_amount": 149.0,
+      "fee_description": "Monthly fee for website services"
+    },
+    {
+      "fee_name": "Insurance Agency Websites Setup Fee",
+      "fee_amount": 500.0,
+      "fee_description": "One-time setup fee for website services"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:55:37.458610",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a006cdaa-745d-4a47-b6c1-899da06d75ca",
+    "name": "AgencyBloc",
+    "slug": "agencybloc",
+    "description": "AgencyBloc is an agency management system for L&H insurance agencies that includes CRM, commissions processing, sales, and automation tools.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/b0a7c187080e59fc388f757076185bc4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 7
+  }
+}

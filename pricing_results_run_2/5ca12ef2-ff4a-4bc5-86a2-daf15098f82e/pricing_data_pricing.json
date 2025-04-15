@@ -1,0 +1,43 @@
+{
+  "app_id": "paystack",
+  "app_name": "Paystack",
+  "app_slug": "paystack",
+  "pricing_url": null,
+  "source_url": "https://paystack.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not accessible due to a security verification requirement.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:40:53.025320",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "5ca12ef2-ff4a-4bc5-86a2-daf15098f82e",
+    "name": "Paystack",
+    "slug": "paystack",
+    "description": "Paystack helps African merchants accept one-time and recurring payments online with a modern, safe, and secure payment gateway.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/e36dd1e2f18466c6cfa56349f9d5f82e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 20,
+    "trigger_count": 11
+  }
+}

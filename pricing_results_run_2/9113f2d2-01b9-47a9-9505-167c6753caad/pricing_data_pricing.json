@@ -1,0 +1,137 @@
+{
+  "app_id": "flock",
+  "app_name": "Flock",
+  "app_slug": "flock",
+  "pricing_url": "https://www.flock.com/pricing",
+  "source_url": "https://www.flock.com/pricing",
+  "all_pricing_urls": [
+    "https://www.flock.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing structure includes a free tier, a subscription-based Pro plan, and a quote-based Enterprise plan.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "For teams with 1-20 members",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited 1-1 & Group messages",
+        "10,000 Searchable messages",
+        "10 Public channels",
+        "5 GB total per team",
+        "Single team admin",
+        "1-1 Video calls"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": "5GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Ideal for teams with 20-100 members",
+      "monthly_price": 6.0,
+      "annual_price": 4.5,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited 1-1 & Group messages",
+        "Unlimited Searchable messages",
+        "Unlimited Private & Public channels",
+        "10 GB per team member",
+        "Multiple team admins",
+        "Group Video calls",
+        "Screen Sharing",
+        "24/7 Priority Support"
+      ],
+      "limits": {
+        "users": 100,
+        "storage": "10GB per user",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For organizations with 100+ members",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Organizational mapping",
+        "Custom on-boarding",
+        "Integration with internal LMS, HRMS and other systems",
+        "Unlimited 1-1 & Group messages",
+        "Unlimited Searchable messages",
+        "Unlimited Private & Public channels",
+        "20 GB per team member",
+        "Active Directory Sync",
+        "Multiple team admins",
+        "Group Video calls",
+        "Screen Sharing",
+        "Single Sign-On",
+        "24/7 Dedicated Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "20GB per user",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Guest charges after 90 days",
+      "fee_amount": null,
+      "fee_description": "Guests are free for 90 days from the date of invitation. After 90 days, they are charged at the same rate as regular team members."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:18:05.118076",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9113f2d2-01b9-47a9-9505-167c6753caad",
+    "name": "Flock",
+    "slug": "flock",
+    "description": "Flock is a communication app for teams that speeds up and simplifies your work life. It lets you connect with your team, get on video calls, manage projects with to-dos, polls and reminders. All of this and more over an interface that's polished-to-perfection!",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/2b28e97447637d4e24cb591254387ef7_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Chat"
+    ],
+    "category_slugs": [
+      "team-chat"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

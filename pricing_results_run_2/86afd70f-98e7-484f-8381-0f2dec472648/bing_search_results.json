@@ -1,0 +1,193 @@
+{
+  "app_name": "Textedly",
+  "app_slug": "textedly",
+  "search_term": "Find the official pricing page URL for Textedly (textedly.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744718669.8089733,
+  "response_text": [
+    "The official pricing page for Textedly can be found here: [https://www.textedly.com/sms-marketing-prices](https://www.textedly.com/sms-marketing-prices)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "SMS Marketing Prices: Easy, Low Cost SMS Marketing Plans - Textedly",
+      "url": "https://www.textedly.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.textedly.com/pricing",
+      "is_accessible": true,
+      "content": "We value your privacy\n\nThis website uses cookies, pixels, and other trackers on this website for purposes detailed in our [Privacy Policy](https://www.textedly.com/privacy-policy/), some of which involve the collection of personal data by third party providers in order to render services to us. By using this website, you agree to such uses. You can opt out of the sale of your personal information by clicking on the \"Reject All\" button.\n\nWe use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.\n\nThe cookies that are categorized as \"Necessary\" are stored on your browser as they are essential for enabling the basic functionalities of the site. ...\n\n*   Cookie\n    \n    \\_\\_hssrc\n    \n*   Duration\n    \n    session\n    \n*   Description\n    \n    This cookie is set by Hubspot whenever it changes the session cookie. The \\_\\_hssrc cookie set to 1 indicates that the user has restarted the browser, and if the cookie does not exist, it is assumed to be a new session.\n    \n\n*   Cookie\n    \n    \\_\\_hssc\n    \n*   Duration\n    \n    1 hour\n    \n*   Description\n    \n    HubSpot sets this cookie to keep track of sessions and to determine if HubSpot should increment the session number and timestamps in the \\_\\_hstc cookie.\n    \n\n*   Cookie\n    \n    \\_\\_cf\\_bm\n    \n*   Duration\n    \n    1 hour\n    \n*   Description\n    \n    This cookie, set by Cloudflare, is used to support Cloudflare Bot Management.\n    \n\n*   Cookie\n    \n    intercom-id-\\*\n    \n*   Duration\n    \n    8 months 26 days 1 hour\n    \n*   Description\n    \n    Intercom sets this cookie that allows visitors to see any conversations they've had on Intercom websites.\n    \n\n*   Cookie\n    \n    intercom-session-\\*\n    \n*   Duration\n    \n    7 days\n    \n*   Description\n    \n    Intercom sets this cookie that allows visitors to see any conversations they've had on Intercom websites.\n    \n\n*   Cookie\n    \n    intercom-device-id-\\*\n    \n*   Duration\n    \n    8 months 26 days 1 hour\n    \n*   Description\n    \n    Intercom sets this cookie that allows visitors to see any conversations they've had on Intercom websites.\n    \n\n*   Cookie\n    \n    \\_\\_stripe\\_mid\n    \n*   Duration\n    \n    1 year\n    \n*   Description\n    \n    Stripe sets this cookie to process payments.\n    \n\n*   Cookie\n    \n    \\_\\_stripe\\_sid\n    \n*   Duration\n    \n    1 hour\n    \n*   Description\n    \n    Stripe sets this cookie to process payments.\n    \n\n*   Cookie\n    \n    \\_\\_cfruid\n    \n*   Duration\n    \n    session\n    \n*   Description\n    \n    Cloudflare sets this cookie to identify trusted web traffic.\n    \n\n*   Cookie\n    \n    \\_GRECAPTCHA\n    \n*   Duration\n    \n    6 months\n    \n*   Description\n    \n    Google Recaptcha service sets this cookie to identify bots to protect the website against malicious spam attacks.\n    \n\n*   Cookie\n    \n    zapidentity\n    \n*   Duration\n    \n    1 year\n    \n*   Description\n    \n    Zapier sets this cookie to display user preferences in embedded Zap catalogs.\n    \n\n*   Cookie\n    \n    lidc\n    \n*   Duration\n    \n    1 day\n    \n*   Description\n    \n    LinkedIn sets the lidc cookie to facilitate data center selection.\n    \n\n*   Cookie\n    \n    \\_gcl\\_au\n    \n*   Duration\n    \n    3 months\n    \n*   Description\n    \n    Google Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services.\n    \n\n*   Cookie\n    \n    \\_ga\n    \n*   Duration\n    \n    1 year 1 month 4 days\n    \n*   Description\n    \n    Google Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors.\n    \n\n*   Cookie\n    \n    \\_gid\n    \n*   Duration\n    \n    1 day\n    \n*   Description\n    \n    Google Analytics sets this cookie to store information on how visitors use a website while also creating an analytics report of the website's performance. Some of the collected data includes the number of visitors, their source, and the pages they visit anonymously.\n    \n\n*   Cookie\n    \n    \\_ga\\_\\*\n    \n*   Duration\n    \n    1 year 1 month 4 days\n    \n*   Description\n    \n    Google Analytics sets this cookie to store and count page views.\n    \n\n*   Cookie\n    \n    \\_fbp\n    \n*   Duration\n    \n    3 months\n    \n*   Description\n    \n    Facebook sets this cookie to display advertisements when either on Facebook or on a digital platform powered by Facebook advertising after visiting the website.\n    \n\n*   Cookie\n    \n    \\_\\_hstc\n    \n*   Duration\n    \n    6 months\n    \n*   Description\n    \n    Hubspot set this main cookie for tracking visitors. It contains the domain, initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session).\n    \n\n*   Cookie\n    \n    hubspotutk\n    \n*   Duration\n    \n    6 months\n    \n*   Description\n    \n    HubSpot sets this cookie to keep track of the visitors to the website. This cookie is passed to HubSpot on form submission and used when deduplicating contacts.\n    \n\n*   Cookie\n    \n    visitor\\_id\n    \n*   Duration\n    \n    1 year 1 month 4 days\n    \n*   Description\n    \n    Set by Pardot, this cookie is used for visitors. The cookie contains a unique ID and identifier for the account which is derived from the Pardot tracking code placed on the site.\n    \n\n*   Cookie\n    \n    \\_omappvp\n    \n*   Duration\n    \n    1 year 1 month 4 days\n    \n*   Description\n    \n    The \\_omappvp cookie is set to distinguish new and returning users and is used in conjunction with \\_omappvs cookie.\n    \n\n*   Cookie\n    \n    \\_omappvs\n    \n*   Duration\n    \n    20 minutes\n    \n*   Description\n    \n    The \\_omappvs cookie, used in conjunction with the \\_omappvp cookies, is used to determine if the visitor has visited the website before, or if it is a new visitor.\n    \n\n*   Cookie\n    \n    \\_gat\n    \n*   Duration\n    \n    1 minute\n    \n*   Description\n    \n    Google Universal Analytics sets this cookie to restrain request rate and thus limit data collection on high-traffic sites.\n    \n\n*   Cookie\n    \n    \\_uetsid\n    \n*   Duration\n    \n    1 day\n    \n*   Description\n    \n    Bing Ads sets this cookie to engage with a user that has previously visited the website.\n    \n\n*   Cookie\n    \n    \\_uetvid\n    \n*   Duration\n    \n    1 year 24 days\n    \n*   Description\n    \n    Bing Ads sets this cookie to engage with a user that has previously visited the website.\n    \n\n*   Cookie\n    \n    MUID\n    \n*   Duration\n    \n    1 year 24 days\n    \n*   Description\n    \n    Bing sets this cookie to recognise unique web browsers visiting Microsoft sites. This cookie is used for advertising, site analytics, and other operations.\n    \n\n*   Cookie\n    \n    YSC\n    \n*   Duration\n    \n    session\n    \n*   Description\n    \n    Youtube sets this cookie to track the views of embedded videos on Youtube pages.\n    \n\n*   Cookie\n    \n    VISITOR\\_INFO1\\_LIVE\n    \n*   Duration\n    \n    6 months\n    \n*   Description\n    \n    YouTube sets this cookie to measure bandwidth, determining whether the user gets the new or old player interface.\n    \n\n*   Cookie\n    \n    VISITOR\\_PRIVACY\\_METADATA\n    \n*   Duration\n    \n    6 months\n    \n*   Description\n    \n    YouTube sets this cookie to store the user's cookie consent state for the current domain.\n    \n\n*   Cookie\n    \n    yt-remote-device-id\n    \n*   Duration\n    \n    never\n    \n*   Description\n    \n    YouTube sets this cookie to store the user's video preferences using embedded YouTube videos.\n    \n\n*   Cookie\n    \n    yt-remote-connected-devices\n    \n*   Duration\n    \n    never\n    \n*   Description\n    \n    YouTube sets this cookie to store the user's video preferences using embedded YouTube videos.\n    \n\n*   Cookie\n    \n    yt.innertube::requests\n    \n*   Duration\n    \n    never\n    \n*   Description\n    \n    YouTube sets this cookie to register a unique ID to store data on what videos from YouTube the user has seen.\n    \n\n*   Cookie\n    \n    yt.innertube::nextId\n    \n*   Duration\n    \n    never\n    \n*   Description\n    \n    YouTube sets this cookie to register a unique ID to store data on what videos from YouTube the user has seen.\n    \n\n*   Cookie\n    \n    fr\n    \n*   Duration\n    \n    3 months\n    \n*   Description\n    \n    Facebook sets this cookie to show relevant advertisements by tracking user behaviour across the web, on sites with Facebook pixel or Facebook social plugin.\n    \n\n*   Cookie\n    \n    iact\\_VENEDGE\n    \n*   Duration\n    \n    session\n    \n*   Description\n    \n    Description is currently not available.\n    \n\n*   Cookie\n    \n    TEXTEDLY\\_v2\\_lang\n    \n*   Duration\n    \n    10 months 25 days 1 hour\n    \n*   Description\n    \n    Description is currently not available.\n    \n\n*   Cookie\n    \n    \\_cfuvid\n    \n*   Duration\n    \n    session\n    \n*   Description\n    \n    Description is currently not available.\n    \n\n*   Cookie\n    \n    gtm\\_id\n    \n*   Duration\n    \n    1 year\n    \n*   Description\n    \n    No description available.\n    \n\n*   Cookie\n    \n    ssohint\n    \n*   Duration\n    \n    session\n    \n*   Description\n    \n    Description is currently not available.\n    \n\n*   Cookie\n    \n    currentAccountId\n    \n*   Duration\n    \n    past\n    \n*   Description\n    \n    Description is currently not available.\n    \n\n*   Cookie\n    \n    m\n    \n*   Duration\n    \n    1 year 1 month 4 days\n    \n*   Description\n    \n    No description available.\n    \n\n*   Cookie\n    \n    recent\\_write\n    \n*   Duration\n    \n    Less than a minute\n    \n*   Description\n    \n    Description is currently not available.\n    \n\n[![Image 1](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65bbdffd6912d7c007104da2_logo.png)](https://www.textedly.com/)\n\nPricing for SMS Marketing Built to Scale  \n\n-------------------------------------------\n\nSimple, Low Cost Plans for Everyone\n\nNot looking to be locked into a long-term contract? No problem. SMS pricing is made simple with Textedly\u2019s month-to-month plans.\n\nHow much is SMS marketing pricing?  \n\n-------------------------------------\n\nTextedly\u2019s SMS marketing pricing offers multiple plans to provide you with the options that work best for your business or organization. Learn more about our [text message marketing](https://www.textedly.com/pricing#) plans.\n\nGet started for\n\nFree\n\n**50 text messages**\n\n[Start Free](https://application.textedly.com/create-account/?subscription_plan=free)![Image 2](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca2eebff66b3e5cfada990_icon-pricing-t.png)\n\nTo take advantage of everything [**Textedly**](https://www.textedly.com/create-account/?subscription_plan=free) has to offer, move up to a paid plan.\n\nBasic\n\n$26\n\n/month  \nbilled annually\n\n500 600 text messages/month\n\n[Select Plan](https://application.textedly.com/create-account/?subscription_plan=plan_NTbXWFhXtGbdCL)\n\n![Image 3](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\n1 custom Keyword\n\n![Image 4](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/66019c604ce432627b1fd95d_info-circle.svg)\n\n![Image 5](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nFree incoming messages\n\n![Image 6](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nUnlimited contacts\n\n![Image 7](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nPicture messaging\n\n![Image 8](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\n1 Toll-free phone number\n\n![Image 9](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\n1 10DLC phone number\n\n![Image 10](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\n1 User seat\n\n![Image 11](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nLive chat support Mon-Sun\n\n![Image 12](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca65a6230f852fdc287b10_close-icon.svg)\n\nText-to-Pay Payments\n\n![Image 13](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca65a6230f852fdc287b10_close-icon.svg)\n\nGoogle Business Reviews\n\n![Image 14](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca65a6230f852fdc287b10_close-icon.svg)\n\nPremium Support\n\nBronze\n\n$38\n\n/month  \nbilled annually\n\n1,000 1,200 text messages/month\n\n[Select Plan](https://application.textedly.com/create-account/?subscription_plan=plan_NTbXiZWwO6K6tK)\n\n![Image 15](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\n1 custom Keyword\n\n![Image 16](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/66019c604ce432627b1fd95d_info-circle.svg)\n\n![Image 17](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nFree incoming messages\n\n![Image 18](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nUnlimited contacts\n\n![Image 19](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nPicture messaging\n\n![Image 20](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\n1 Toll-free phone number\n\n![Image 21](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\n1 10DLC phone number\n\n![Image 22](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\n1 User seat\n\n![Image 23](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nLive chat support Mon-Sun\n\n![Image 24](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca65a6230f852fdc287b10_close-icon.svg)\n\nText-to-Pay Payments\n\n![Image 25](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca65a6230f852fdc287b10_close-icon.svg)\n\nGoogle Business Reviews\n\n![Image 26](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca65a6230f852fdc287b10_close-icon.svg)\n\nPremium Support\n\nPlus\n\n$69\n\n/month  \nbilled annually\n\n2,000 2,400 text messages/month\n\n[Select Plan](https://application.textedly.com/create-account/?subscription_plan=plan_NTbXejEoRfmved)\n\n![Image 27](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\n2 custom Keyword\n\n![Image 28](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/66019c604ce432627b1fd95d_info-circle.svg)\n\n![Image 29](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nFree incoming messages\n\n![Image 30](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nUnlimited contacts\n\n![Image 31](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nPicture messaging\n\n![Image 32](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\n1 Toll-free phone number\n\n![Image 33](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\n1 10DLC phone number\n\n![Image 34](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\n1 User seat\n\n![Image 35](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nLive chat support Mon-Sun\n\n![Image 36](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nText-to-Pay Payments\n\n![Image 37](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nGoogle Business Reviews\n\n![Image 38](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65ca382471561d93bc44fbe2_check-ic.png)\n\nPremium Support\n\nMost Popular\n\n![Image 39](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb35401da9b11f29b60506_arrow-left-white.svg)\n\n![Image 40](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb3540a20b5cba502b0ccc_arrow-right-white.svg)\n\nNeed something bigger? Give us a call for a custom plan.\n\n\u201c_Textedly has something magical  \nfigured out. We were set-up in 15  \nminutes and immediately started  \nto get new customers joining our  \nmobile marketing club._\u201d  \n\u200d  \nJohn Bravo  \n**Store Director**\n\n![Image 41](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb4c4f5d6e1ddd89187fde_jersey-logo.png)\n\n![Image 42](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb4c4eda0dc63f0ab6ec1f_icon-red-phone.png)\n\n![Image 43](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb4c4e4c3c69ea70f7dca5_icon-green-money.png)\n\nCancel anytime.  \nNo long-term contracts.\n\nFrequently Asked Questions  \n\n-----------------------------\n\nMonthly text messages and keywords determine the price. Pay month-by-month or annually for 20% more texts per month.\n\nThere are no setup fees.\n\nEvery new Textedly customer gets a free 14-day trial with 50 text messages and one custom keyword.\n\nWith Textedly\u2019s affiliate program, you and anyone who signs up via your referral get 5,000 free text messages to your accounts.\n\nIncoming messages are completely free.\n\nNo. Pay month-to-month or annually. Accounts with annual payments get 20% more texts per month.\n\nYou can purchase extra texts and keywords at any time\u2014$25 for an additional 500 texts and $5 per additional keyword. Also Benjamin Franklin once famously said there were only two things certain in life: death and taxes. Each account, you will need to pay the monthly Telecom surcharge of $8 a month.\n\nThere\u2019s no limits on the number of Teammates you can have. Add as many as you want. They are $10 per month per to add a Teammate to your account.\n\nEach Textedly account includes a free Toll-Free phone number and a free 10DLC phone number.\n\nTextedly\u2019s platform lets you send SMS texts with up to 455 characters and MMS messages with up to 1,600 characters.\n\nSENDING MILLIONS OF TEXT MESSAGES FOR WORLD-CLASS ORGANIZATIONS\n\n[![Image 44](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb4f58ab7304e73399179f_logo-chickfila-g.png)](https://www.chick-fil-a.com/)\n\n[![Image 45](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb4f58859cb3dd1545fb87_logo_bayer_grey.png)](https://www.bayer.com/en/)\n\n[![Image 46](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb4f5870d723cd73433cb6_logo-godaddy-g.png)](https://www.godaddy.com/)\n\n[![Image 47](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb4f58314faef28f721c35_logo-ups-g.png)](https://www.ups.com/)\n\n[![Image 48](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb4f58def2eaff66b89c02_logo-amhealth-g.png)](https://www.heart.org/)\n\n[![Image 49](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb4f58149553efdd8e3551_logo-thomson-g.png)](https://www.thomsonreuters.com/en.html)\n\nSetting up Textedly is easy  \n\n------------------------------\n\n[Sign up](https://application.textedly.com/create-account/?subscription_plan=free) for a free trial today.\n\n![Image 50](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb523cf2b1ffbb48762ea0_trial-1.png)\n\n**1\\.** Try Textedly  \nfree for 14 days.\n\n![Image 51](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb523c1f7273ba22cabda7_trial-2.png)\n\n**2\\.** Love Textedly?  \nAdd your payment info.\n\n![Image 52](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb523c90c702418d1dad79_trial-3.png)\n\n**3\\.** Keep sending and receiving SMS.\n\n![Image 53](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb544b3ae8efd023949105_trial-4.png)\n\n**Free Trial**\n\nTry us for free for 14 days, no credit card required.\n\n![Image 54](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb544ce867189cc0b9bfe2_trial-5.png)\n\n**Easy Fees**\n\nPay your monthly or annual plan cost online, and for additional messages you may need.\n\n![Image 55](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb544b9b0245a04f233257_trial-6.png)\n\n**Month-to-Month Plans**\n\nWe offer plans by the month for those looking for utmost flexibility.\n\n![Image 56](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb544b3bfa349e249bc74b_trial-7.png)\n\n**Free Incoming Messages**\n\nYou never pay for incoming messages you receive.\n\n![Image 57](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb544b0b5f3ee179423a56_trial-8.png)\n\n**Affiliate Program**\n\nIf you refer someone to Textedly, you both receive, 5,000 free messages.\n\n![Image 58](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb544c4cf2b420fdf29e65_trial-9.png)\n\n**Customer Support**\n\nReceive free customer support from the best Team in the industry.\n\nPayment is Always Secure\n------------------------\n\nTextedly accepts all major credit cards.\n\n![Image 59](https://cdn.prod.website-files.com/65ba24129df733a18dfde106/65cb568051d9da2bd8ed44fb_cc-cards.png)\n\nLearn more about our text message marketing plans\n-------------------------------------------------\n\nTry text marketing today\n------------------------\n\nGet started with Textedly. You'll be set up in minutes.\n\n[start texting free](https://application.textedly.com/create-account/?subscription_plan=free)\n\nNo credit card required.\n\nTextedly offers the most affordable SMS marketing pricing for growing organizations and businesses. Learn how much sms marketing costs and the plans available to you.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "textedly",
+        "app_name": "Textedly",
+        "app_slug": "textedly",
+        "pricing_url": "https://www.textedly.com/pricing",
+        "source_url": "https://www.textedly.com/pricing",
+        "all_pricing_urls": [
+          "https://www.textedly.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Textedly offers a free tier and multiple subscription plans with additional usage-based pricing for extra messages and keywords.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Free tier with limited features.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "50 text messages"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 50,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Basic",
+            "tier_description": "Basic plan for small businesses.",
+            "monthly_price": 26.0,
+            "annual_price": 312.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "500-600 text messages/month",
+              "1 custom Keyword",
+              "Free incoming messages",
+              "Unlimited contacts",
+              "Picture messaging",
+              "1 Toll-free phone number",
+              "1 10DLC phone number",
+              "1 User seat",
+              "Live chat support Mon-Sun"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": "500-600",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Bronze",
+            "tier_description": "Bronze plan for medium usage.",
+            "monthly_price": 38.0,
+            "annual_price": 456.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "1,000-1,200 text messages/month",
+              "1 custom Keyword",
+              "Free incoming messages",
+              "Unlimited contacts",
+              "Picture messaging",
+              "1 Toll-free phone number",
+              "1 10DLC phone number",
+              "1 User seat",
+              "Live chat support Mon-Sun"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": "1,000-1,200",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Plus",
+            "tier_description": "Plus plan for higher usage.",
+            "monthly_price": 69.0,
+            "annual_price": 828.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "2,000-2,400 text messages/month",
+              "2 custom Keywords",
+              "Free incoming messages",
+              "Unlimited contacts",
+              "Picture messaging",
+              "1 Toll-free phone number",
+              "1 10DLC phone number",
+              "1 User seat",
+              "Live chat support Mon-Sun",
+              "Text-to-Pay Payments",
+              "Google Business Reviews",
+              "Premium Support"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": "2,000-2,400",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Additional Text Messages",
+            "unit": "per 500 texts",
+            "base_price": 25.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Additional Keywords",
+            "unit": "per keyword",
+            "base_price": 5.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Affiliate Program",
+            "offer_description": "Refer someone to Textedly and both receive 5,000 free messages.",
+            "discount_percentage": null,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": [
+          {
+            "fee_name": "Telecom Surcharge",
+            "fee_amount": 8.0,
+            "fee_description": "Monthly surcharge for telecom services."
+          },
+          {
+            "fee_name": "Teammate Addition",
+            "fee_amount": 10.0,
+            "fee_description": "Monthly fee per additional teammate."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T08:04:52.101910",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\textedly\\20250415_080452"
+}

@@ -1,0 +1,100 @@
+{
+  "app_id": "actionstep",
+  "app_name": "Actionstep",
+  "app_slug": "actionstep",
+  "pricing_url": "https://www.actionstep.com/pricing/",
+  "source_url": "https://www.actionstep.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.actionstep.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user and includes implementation fees. Specific pricing details are not publicly disclosed and require contacting sales.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Practice Management",
+      "tier_description": "An adaptable practice management platform for midsize law firms.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Matter & Case Management",
+        "Client Intake & Form Management",
+        "Document Management, Assembly, & Storage",
+        "Client Relationship Management",
+        "Client Portal",
+        "Custom Business Reporting",
+        "Marketing & Business Development",
+        "Client Communication",
+        "Advanced Calendaring",
+        "Task and Process Management",
+        "Data Management",
+        "Workflow Automation",
+        "Core Accounting Tools",
+        "Financial Reporting",
+        "Microsoft Office Connection",
+        "Access to Powerful Integrations",
+        "Enterprise-Level Security",
+        "Access to Support Team & Resources"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Legal Accounting",
+      "tier_description": "A comprehensive accounting suite for midsize law firms.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Multi-Currency General Ledger",
+        "Banking Transactions & Reconciliation",
+        "Profit & Loss Statements",
+        "Expense and Disbursement Management",
+        "Accounts Payable & Receivable",
+        "Financial Reporting",
+        "Cashflow Management",
+        "Budgeting",
+        "Forecasting",
+        "Revenue Recognition",
+        "Payments"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:34:26.058769",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "01e6ac5e-85ee-46cc-b2be-5261b9d31391",
+    "name": "Actionstep",
+    "slug": "actionstep",
+    "description": "Actionstep is a Legal Practice Management Solution for Law firms.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/2767ea5817ce33271bbace3d3454c560.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 25,
+    "trigger_count": 6
+  }
+}

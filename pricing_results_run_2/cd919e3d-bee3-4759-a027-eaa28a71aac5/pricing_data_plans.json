@@ -1,0 +1,137 @@
+{
+  "app_id": "google_drive",
+  "app_name": "Google Drive",
+  "app_slug": "google-drive",
+  "pricing_url": "https://one.google.com/about/about/plans",
+  "source_url": "https://one.google.com/about/plans",
+  "all_pricing_urls": [
+    "https://one.google.com/about/about/plans"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and multiple subscription options with varying storage and features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "15 GB of storage included with all Google accounts.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "15 GB of storage"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "15 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "100 GB of storage for Photos, Drive & Gmail.",
+      "monthly_price": 1.99,
+      "annual_price": 23.88,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "100 GB of storage for Photos, Drive & Gmail",
+        "Share storage with up to 5 others"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "100 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "2 TB of storage for Photos, Drive & Gmail.",
+      "monthly_price": 9.99,
+      "annual_price": 119.88,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "2 TB of storage for Photos, Drive & Gmail",
+        "Unlimited Magic Editor saves in Google Photos",
+        "10% back in the Google Store",
+        "Google Workspace premium features",
+        "Share storage with up to 5 others"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "2 TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "AI Premium",
+      "tier_description": "2 TB of storage with advanced AI features.",
+      "monthly_price": 19.99,
+      "annual_price": 239.88,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "2 TB of storage for Photos, Drive & Gmail",
+        "Gemini Advanced",
+        "Gemini in Gmail, Docs, and more",
+        "NotebookLM Plus",
+        "All other benefits in the Premium plan",
+        "Share storage with up to 5 others"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "2 TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:57:43.029909",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "cd919e3d-bee3-4759-a027-eaa28a71aac5",
+    "name": "Google Drive",
+    "slug": "google-drive",
+    "description": "Google Drive is Google's file sync app that lets you store all of your files online alongside your Google Docs documents, and keep them synced with all of your devices.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/a5b8a9920e9dae8a73711590e7090d3d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "File Management & Storage",
+      "Google"
+    ],
+    "category_slugs": [
+      "files",
+      "google"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 18,
+    "trigger_count": 3
+  }
+}

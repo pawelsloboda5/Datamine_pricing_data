@@ -1,0 +1,253 @@
+{
+  "app_id": "copy_ai",
+  "app_name": "Copy.ai",
+  "app_slug": "copy-ai",
+  "pricing_url": "https://www.copy.ai/prices",
+  "source_url": "https://www.copy.ai/pricing",
+  "all_pricing_urls": [
+    "https://www.copy.ai/prices",
+    "https://www.copy.ai/prices-old"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Copy.ai offers a variety of subscription plans tailored to individual and enterprise needs, with additional features and credits for higher tiers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For individuals getting started with AI powered solutions",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 Seat",
+        "2,000 Words in Chat",
+        "ChatGPT 3.5 & Claude 3",
+        "Copy.ai Brand Voice",
+        "Copy.ai Infobase"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Words in Chat",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "For individuals starting to drive real business value with AI",
+      "monthly_price": 49.0,
+      "annual_price": 432.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "1 Seat",
+        "Unlimited Words in Chat",
+        "Unlimited Chat Projects",
+        "Access to all latest LLMs",
+        "Private Community Access"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Chat Projects",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "For streamlining GTM process",
+      "monthly_price": 249.0,
+      "annual_price": 2232.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Up to 5 Seats",
+        "2k Workflow Credits / Mo.",
+        "15+ Marketing Workflows",
+        "15+ Sales Workflows",
+        "Workflow Builder Access"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": 2000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Workflow Credits",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "For businesses harnessing AI for exponential growth",
+      "monthly_price": 1000.0,
+      "annual_price": 12000.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "75 Seats",
+        "Unlimited Words in Chat",
+        "20K Workflow Credits/Mo"
+      ],
+      "limits": {
+        "users": 75,
+        "storage": null,
+        "operations": 20000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Workflow Credits",
+            "value": 20000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Expansion",
+      "tier_description": "For enterprises expanding their AI Automations",
+      "monthly_price": 2000.0,
+      "annual_price": 24000.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "150 Seats",
+        "Unlimited Words in Chat",
+        "45K Workflow Credits/Mo"
+      ],
+      "limits": {
+        "users": 150,
+        "storage": null,
+        "operations": 45000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Workflow Credits",
+            "value": 45000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "For organizations ready to deploy Generative AI at scale",
+      "monthly_price": 3000.0,
+      "annual_price": 36000.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "200 Seats",
+        "Unlimited Words in Chat",
+        "75K Workflow Credits/Mo"
+      ],
+      "limits": {
+        "users": 200,
+        "storage": null,
+        "operations": 75000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Workflow Credits",
+            "value": 75000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For orgs ready to power their GTM with AI",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Guided Jumpstart Implementation",
+        "API Access & Bulk Workflow Runs",
+        "20+ Tech Integrations & API Access",
+        "Unlimited Customizable Workflows",
+        "Designated Account & Support Team",
+        "Enterprise Grade Security Protocols"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Workflow Credits",
+      "unit": "per credit",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": false
+  },
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:52:47.278715",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "076c4466-2049-44aa-8d0a-4cb79e186520",
+    "name": "Copy.ai",
+    "slug": "copyai",
+    "description": "100x productivity without sacrificing an ounce of quality in your brand\u2019s voice, style, and authority.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/5ce33015b0f6244dbf2b67886440c6a6.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools"
+    ],
+    "category_slugs": [
+      "ai-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

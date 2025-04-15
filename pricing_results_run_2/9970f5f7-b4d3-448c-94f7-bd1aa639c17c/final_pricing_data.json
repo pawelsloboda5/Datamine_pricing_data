@@ -1,0 +1,129 @@
+{
+  "app_id": "pipedrive",
+  "app_name": "Pipedrive",
+  "app_slug": "pipedrive",
+  "pricing_url": "https://www.pipedrive.com/en/pricing",
+  "source_url": "https://www.pipedrive.com/en/pricing",
+  "all_pricing_urls": [
+    "https://www.pipedrive.com/en/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Prices are per seat per month, billed annually. VAT is excluded.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essential",
+      "tier_description": "Get organized and set up simple sales processes quickly.",
+      "monthly_price": null,
+      "annual_price": 14.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Lead, calendar and pipeline management",
+        "Seamless data import and 400+ integrations",
+        "Create activity, deal and contact reports with AI",
+        "Personalized onboarding"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Never miss the next step with easy-to-use email and automations.",
+      "monthly_price": null,
+      "annual_price": 39.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full email sync with templates, open and click tracking and group emailing",
+        "Automations builder, including email sequences",
+        "Meeting, email and video call scheduling",
+        "Live chat support"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Optimize performance with more customizations and reporting.",
+      "monthly_price": null,
+      "annual_price": 49.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "AI-powered Sales Assistant and emailing tools",
+        "Contract and proposal management with e-signatures",
+        "Streamlined lead routing and team management",
+        "Revenue forecasts and custom field reporting",
+        "Extra data entry and data quality settings"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Power",
+      "tier_description": "Empower larger teams with flexible collaboration and support.",
+      "monthly_price": null,
+      "annual_price": 64.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Project planning, tracking and delivery",
+        "Increased control of account permissions and visibilities",
+        "24/7 live chat support",
+        "Phone support"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Experience Pipedrive without limits and have ultimate peace of mind.",
+      "monthly_price": null,
+      "annual_price": 99.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Enhanced security preferences",
+        "Unlimited reports and customizations",
+        "Maximize the number of automations and email syncs per seat"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "VAT",
+      "fee_amount": null,
+      "fee_description": "VAT will be billed to EU customers in line with the applicable rates of their member state unless a valid VAT number is provided."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:28:37.573800",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9970f5f7-b4d3-448c-94f7-bd1aa639c17c",
+    "name": "Pipedrive",
+    "slug": "pipedrive",
+    "description": "Pipedrive is sales pipeline and CRM software for deal makers. Get super-organized. Close deals in less time. iOS and Android apps let you take your pipeline with you anywhere.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d657ba4f3441a30ced367a4aa7cacacb.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 44,
+    "trigger_count": 14
+  }
+}

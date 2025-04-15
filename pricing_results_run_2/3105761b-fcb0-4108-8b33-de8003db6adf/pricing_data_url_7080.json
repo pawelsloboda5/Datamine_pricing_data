@@ -1,0 +1,203 @@
+{
+  "app_id": "productboard",
+  "app_name": "Productboard",
+  "app_slug": "productboard",
+  "pricing_url": "https://www.productboard.com/pricing/",
+  "source_url": "https://www.productboard.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.productboard.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and various subscription plans with annual and monthly billing options. Enterprise pricing is quote-based.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Get started building better products",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "50 feedback notes",
+        "1 Teamspace",
+        "1 Objective",
+        "1 Product Portal",
+        "20+ additional integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Feedback notes",
+            "value": 50
+          },
+          {
+            "name": "Teamspaces",
+            "value": 1
+          },
+          {
+            "name": "Objectives",
+            "value": 1
+          },
+          {
+            "name": "Product Portals",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Prioritize what your customers need and make what matters",
+      "monthly_price": 25.0,
+      "annual_price": 228.0,
+      "annual_discount_percentage": 24.0,
+      "setup_fee": null,
+      "features": [
+        "250 feedback notes",
+        "2 Insights automations",
+        "Portal moderation",
+        "Feedback loop closing",
+        "Release planning",
+        "Usage reporting",
+        "Email support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Feedback notes",
+            "value": 250
+          },
+          {
+            "name": "Insights automations",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Align teams to drive real business outcomes",
+      "monthly_price": 75.0,
+      "annual_price": 708.0,
+      "annual_discount_percentage": 21.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited feedback notes",
+        "3 Teamspaces",
+        "10 Objectives",
+        "10 Insights automations",
+        "Manual customer segments",
+        "Customizable feature statuses, color scales, and data fields",
+        "Trended reporting",
+        "Prioritized email support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Teamspaces",
+            "value": 3
+          },
+          {
+            "name": "Objectives",
+            "value": 10
+          },
+          {
+            "name": "Insights automations",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For organizations to securely and scalably uplevel their entire product management processes",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Teamspaces",
+        "Unlimited Objectives",
+        "Strategic planning",
+        "3+ Product Portals",
+        "SAML SSO & Google SSO",
+        "Salesforce integration",
+        "Efficiency & allocation reporting and audit logs",
+        "SCIM provisioning & granular permissions",
+        "Live onboarding & customer success support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Teamspaces",
+            "value": "unlimited"
+          },
+          {
+            "name": "Objectives",
+            "value": "unlimited"
+          },
+          {
+            "name": "Product Portals",
+            "value": "3+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:35:24.088638",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3105761b-fcb0-4108-8b33-de8003db6adf",
+    "name": "Productboard",
+    "slug": "productboard",
+    "description": "Productboard is beautiful, simple, and powerful product management. Product leaders can easily centralize user and market research, capture and organize feature ideas, prioritize against clear strategic objectives and keep everyone on the same page thanks to delightful, interactive roadmaps.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/270b400648bbda23a11fd7e46b91b2fa.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Product Management"
+    ],
+    "category_slugs": [
+      "product-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 1
+  }
+}

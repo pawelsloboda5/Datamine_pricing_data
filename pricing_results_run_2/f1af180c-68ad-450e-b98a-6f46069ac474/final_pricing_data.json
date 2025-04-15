@@ -1,0 +1,143 @@
+{
+  "app_id": "surveymonkey",
+  "app_name": "SurveyMonkey",
+  "app_slug": "surveymonkey",
+  "pricing_url": "https://www.surveymonkey.com/pricing/",
+  "source_url": "https://www.surveymonkey.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.surveymonkey.com/pricing/teams/",
+    "https://www.surveymonkey.com/pricing/individual/",
+    "https://www.surveymonkey.com/pricing/enterprise/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "SurveyMonkey offers multiple plans tailored for individual users, teams, and enterprises. Pricing details for each plan are accessible via specific URLs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Individual Plans",
+      "tier_description": "Plans for single users.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Survey creation and sharing",
+        "Response analysis",
+        "Custom branding",
+        "Data exports",
+        "Advanced survey logic"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Responses per year",
+            "value": "50,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Team Plans",
+      "tier_description": "Plans for teams with collaboration features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Team collaboration",
+        "Shared asset library",
+        "Contributor seats",
+        "Team management",
+        "Integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Responses per year",
+            "value": "100,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plans for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Enhanced governance and security",
+        "Dedicated customer success manager",
+        "Advanced integrations",
+        "HIPAA compliance",
+        "Unlimited API access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Responses per year",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Responses over limit",
+      "unit": "per response",
+      "base_price": 0.15,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:34:21.475316",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f1af180c-68ad-450e-b98a-6f46069ac474",
+    "name": "SurveyMonkey",
+    "slug": "surveymonkey",
+    "description": "SurveyMonkey is the easiest way to create surveys and get answers. SurveyMonkey lets you whip up a survey quickly and get targeted answers from the audience you want to ask.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/68a4237fdc1dda16ef3c85a6a61c755b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 1
+  }
+}

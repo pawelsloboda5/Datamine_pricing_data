@@ -1,0 +1,159 @@
+{
+  "app_id": "xperiencify",
+  "app_name": "Xperiencify",
+  "app_slug": "xperiencify",
+  "pricing_url": "https://www.xperiencify.com/pricing/",
+  "source_url": "https://www.xperiencify.com/pricing",
+  "all_pricing_urls": [
+    "https://www.xperiencify.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.ONE_TIME",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The Lifetime plan is a one-time payment option available for a limited time after signup.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Growth",
+      "tier_description": "For growing course creators",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Sites",
+        "Unlimited Funnels",
+        "Unlimited Courses"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Published Courses",
+            "value": 10
+          },
+          {
+            "name": "Active Monthly Students",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Established course creators",
+      "monthly_price": 199.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Sites",
+        "Unlimited Funnels",
+        "Unlimited Courses"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Published Courses",
+            "value": 20
+          },
+          {
+            "name": "Active Monthly Students",
+            "value": 5000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Lifetime",
+      "tier_description": "Nothing more to pay",
+      "monthly_price": null,
+      "annual_price": 999.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Sites",
+        "Unlimited Funnels",
+        "Unlimited Courses"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Published Courses",
+            "value": 10
+          },
+          {
+            "name": "Active Monthly Students",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Need More?",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom solutions"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:29:10.534353",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "75865a0e-b157-4836-9af1-24c892602374",
+    "name": "Xperiencify",
+    "slug": "xperiencify",
+    "description": "Xperiencify is an online course platform that builds 8 psychological triggers into your course.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/095115e0c5d632df57d42fff44f44305.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 3
+  }
+}

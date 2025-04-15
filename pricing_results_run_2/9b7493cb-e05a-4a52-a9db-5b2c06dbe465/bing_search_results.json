@@ -1,0 +1,12 @@
+{
+  "app_name": "AITable.ai",
+  "app_slug": "aitableai",
+  "search_term": "Find the official pricing page URL for AITable.ai (aitableai.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744722859.335274,
+  "response_text": [
+    "I couldn't locate a specific pricing page for AITable.ai. Please verify directly at their official website."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\aitableai\\20250415_091419"
+}

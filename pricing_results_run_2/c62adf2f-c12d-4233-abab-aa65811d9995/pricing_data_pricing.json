@@ -1,0 +1,145 @@
+{
+  "app_id": "shortcut",
+  "app_name": "Shortcut",
+  "app_slug": "shortcut",
+  "pricing_url": "https://shortcut.com/pricing",
+  "source_url": "https://shortcut.com/pricing",
+  "all_pricing_urls": [
+    "https://shortcut.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers up to 25% discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Plan",
+      "tier_description": "Best for teams getting started",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Plan work with Kanban views",
+        "See progress on a Roadmap",
+        "Get quick insights with Reports",
+        "Plan sprints using Iterations",
+        "Create Docs and connect them to your work",
+        "GitHub, Gitlab, Bitbucket, Slack & Figma integrations"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "5G",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team Plan",
+      "tier_description": "Best for small teams",
+      "monthly_price": 10.0,
+      "annual_price": 8.5,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Track work with a suite of Reports",
+        "Organize work by Teams or squads",
+        "Customize multiple Workflows",
+        "Manage repetitive tasks with Automations",
+        "Access all integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "250G",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Plan",
+      "tier_description": "Best for fast-growing teams",
+      "monthly_price": 16.0,
+      "annual_price": 12.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited everything",
+        "Connect work to company strategy",
+        "Track plans with an expanded Roadmap",
+        "Get insights with advanced Reports",
+        "Advanced Custom Fields",
+        "Multiple Workspaces for sandboxing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "250G",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise Plan",
+      "tier_description": "For mature software companies",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Predictable pricing with volume discounts",
+        "Premier support SLAs",
+        "SSO and SCIM",
+        "Custom Terms",
+        "Dedicated Slack channel",
+        "Onboarding Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "250G",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:04:56.136057",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c62adf2f-c12d-4233-abab-aa65811d9995",
+    "name": "Shortcut",
+    "slug": "shortcut",
+    "description": "Shortcut helps modern software teams work collaboratively and ship quickly. Plan, build, and measure success with Shortcut.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/7c6e27f3b8c72f14e80cad3b9997f225.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

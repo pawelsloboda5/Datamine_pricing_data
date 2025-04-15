@@ -1,0 +1,30 @@
+{
+  "app_name": "Mailshake",
+  "app_slug": "mailshake",
+  "search_term": "Find the official pricing page URL for Mailshake (mailshake.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744703691.821301,
+  "response_text": [
+    "The official pricing page for Mailshake can be found at: [https://mailshake.com/pricing](https://mailshake.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing & Plans - Mailshake",
+      "url": "https://mailshake.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://mailshake.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://mailshake.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\mailshake\\20250415_035522"
+}

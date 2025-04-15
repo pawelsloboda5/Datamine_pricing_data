@@ -1,0 +1,128 @@
+{
+  "app_id": "cobot",
+  "app_name": "Cobot",
+  "app_slug": "cobot",
+  "pricing_url": "https://www.cobot.me/sign-up",
+  "source_url": "https://www.cobot.me/en/pricing",
+  "all_pricing_urls": [
+    "https://www.cobot.me/sign-up",
+    "https://www.cobot.me/features"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Cobot offers transparent pricing based on paid memberships only, with discounts for annual payments and multiple locations.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Custom",
+      "tier_description": "Tailored pricing based on the number of paid memberships.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 8.33,
+      "setup_fee": null,
+      "features": [
+        "Free white-label",
+        "Free member portal",
+        "Self-service subscription management",
+        "Free add-ons and integrations",
+        "Unlimited free chat support",
+        "Member directory",
+        "Free Drop-ins and Day Pass users",
+        "Free API access",
+        "Comprehensive events feature",
+        "Free Member Help Desk",
+        "Detailed Business and Usage Analytics",
+        "Full GDPR compliance",
+        "No minimum contract",
+        "Free meeting room display",
+        "Automated billing and invoicing",
+        "Multi-location management",
+        "Room and resource booking tools"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "visitors",
+            "value": "unlimited"
+          },
+          {
+            "name": "day pass users",
+            "value": "unlimited"
+          },
+          {
+            "name": "event attendees",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Discount",
+      "offer_description": "Get the 12th month free when paying annually.",
+      "discount_percentage": 8.33,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Multiple Locations Discount",
+      "offer_description": "15% discount for second location, 20% for third or more.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Non-Profit Discount",
+      "offer_description": "25% discount for non-profit spaces.",
+      "discount_percentage": 25.0,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Low Income Economies Discount",
+      "offer_description": "Special pricing for coworking spaces in low and lower middle income economies.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:34:12.194779",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "562524a5-b1a3-42ed-888d-6fa0f1f9d6f3",
+    "name": "Cobot",
+    "slug": "cobot",
+    "description": "Cobot is a management software for coworking spaces and shared offices. Cobot helps you with billing, invoicing, bookings and member management so that you have more time for your coworkers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/86cb845a278867968abbf2dff7c40e75.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 9
+  }
+}

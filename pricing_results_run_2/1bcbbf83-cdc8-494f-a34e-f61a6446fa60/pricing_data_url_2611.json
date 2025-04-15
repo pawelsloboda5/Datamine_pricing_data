@@ -1,0 +1,108 @@
+{
+  "app_id": "tawk.to",
+  "app_name": "tawk.to",
+  "app_slug": "tawk-to",
+  "pricing_url": "https://www.tawk.to/pricing/",
+  "source_url": "https://www.tawk.to/pricing/",
+  "all_pricing_urls": [
+    "https://www.tawk.to/pricing/",
+    "https://www.tawk.to/why-free/"
+  ],
+  "price_model_type": [
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "tawk.to offers a completely free tier with unlimited usage. Revenue is generated through optional add-ons and services.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Forever Free",
+      "tier_description": "Full suite of features available for free.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Live Chat Software",
+        "Email Ticketing System",
+        "Hosted Knowledge Base",
+        "CRM",
+        "Chat Pages",
+        "Unlimited Agents",
+        "Unlimited History",
+        "Detailed Reporting",
+        "Secure Encryption",
+        "Automated Translation (beta)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Add-ons",
+      "tier_description": "Optional paid features such as branding removal and AI Assist.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Remove 'Powered by tawk.to' branding",
+        "AI Assist",
+        "Hired Agent services"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Hired Agent Services",
+      "unit": "per hour",
+      "base_price": 1.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:29:52.847474",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1bcbbf83-cdc8-494f-a34e-f61a6446fa60",
+    "name": "tawk.to",
+    "slug": "tawk-to",
+    "description": "tawk.to is a free live chat app that lets you monitor and chat with visitors on your website or from a free customizable page.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/fbdbee19139d02b2c71422b8f4ef6b55_10.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

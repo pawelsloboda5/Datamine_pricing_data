@@ -1,0 +1,171 @@
+{
+  "app_id": "hotjar",
+  "app_name": "Hotjar",
+  "app_slug": "hotjar",
+  "pricing_url": "https://www.hotjar.com/pricing",
+  "source_url": "https://www.hotjar.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.hotjar.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes multiple tiers with varying features and session limits. Enterprise and Pro plans require contacting sales for pricing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "A simple way to get started",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 20k monthly sessions",
+        "Session Replay and unlimited heatmaps",
+        "1 month of data access",
+        "Standard filters",
+        "Integrations for Google Analytics, etc.",
+        "Dashboards"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Monthly sessions",
+            "value": 20000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Optimize experiences to boost engagement and conversion",
+      "monthly_price": 49.0,
+      "annual_price": 588.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Free",
+        "Starting from 7k monthly sessions",
+        "Funnels",
+        "13 months of data access",
+        "Frustration score and advanced filtering",
+        "Impact Quantification",
+        "More than 15 integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Monthly sessions",
+            "value": "7k+"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Surface optimizations faster and prioritize by revenue impact",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Growth",
+        "Starting from 1m monthly sessions",
+        "Journey Analysis",
+        "Zone-based heatmaps",
+        "Impact Evaluation",
+        "More than 115 integrations",
+        "Precision filtering, retroactive"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Monthly sessions",
+            "value": "1m+"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Scale optimization insights across the entire enterprise",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Pro",
+        "Starting from 1m monthly sessions",
+        "Digital Experience Monitoring",
+        "Error & Speed Analysis",
+        "Real-time error Alerts & Dashboards",
+        "Session Replay with network detail",
+        "Data feeds",
+        "Unlimited projects within the same business entity",
+        "3 months Session Replay retention"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Monthly sessions",
+            "value": "1m+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:00:24.253055",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4dfaa4e5-02c5-4166-a087-0b5cedc40dd4",
+    "name": "Hotjar",
+    "slug": "hotjar",
+    "description": "Traditional web analytics tools help you analyze traffic data. But numbers alone can\u2019t tell you what users really do on your site \u2014 Hotjar will.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/517f022479163259d192181405b3cddc.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Analytics"
+    ],
+    "category_slugs": [
+      "analytics"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

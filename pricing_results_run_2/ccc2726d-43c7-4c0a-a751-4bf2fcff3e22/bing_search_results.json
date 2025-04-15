@@ -1,0 +1,19 @@
+{
+  "app_name": "Zoho Campaigns",
+  "app_slug": "zoho-campaigns",
+  "search_term": "Find the official pricing page URL for Zoho Campaigns (zoho-campaigns.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744711238.284503,
+  "response_text": [
+    "The official pricing page URL for Zoho Campaigns is: https://www.zoho.com/campaigns/pricing.html  "
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.zoho.com/campaigns/pricing.html",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\zoho-campaigns\\20250415_060053"
+}

@@ -1,0 +1,122 @@
+{
+  "app_id": "17hats",
+  "app_name": "17hats",
+  "app_slug": "17hats",
+  "pricing_url": "https://www.17hats.com/pricing",
+  "source_url": "https://www.17hats.com/pricing",
+  "all_pricing_urls": [
+    "https://www.17hats.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing includes promotional offers for first-time buyers and discounts for annual and bi-annual plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "All-Inclusive Plan",
+      "tier_description": "Provides nearly everything needed to organize and automate your business.",
+      "monthly_price": 60.0,
+      "annual_price": 600.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited contacts",
+        "Unlimited projects",
+        "Professional invoices",
+        "Quotes and contracts",
+        "Automated questionnaires",
+        "Document templates",
+        "Recurring billing",
+        "Custom branding options",
+        "Mobile app",
+        "To-do management",
+        "Calendar integration",
+        "Client portal",
+        "Online scheduling"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Bank Connect",
+            "value": "$5/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Yearly Plan (Promotional Offer)",
+      "tier_description": "Discounted yearly plan for first-time buyers.",
+      "monthly_price": null,
+      "annual_price": 300.0,
+      "annual_discount_percentage": 50.0,
+      "setup_fee": null,
+      "features": [
+        "Same features as All-Inclusive Plan"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Bi-Yearly Plan (Promotional Offer)",
+      "tier_description": "Discounted bi-yearly plan for first-time buyers.",
+      "monthly_price": null,
+      "annual_price": 400.0,
+      "annual_discount_percentage": 50.0,
+      "setup_fee": null,
+      "features": [
+        "Same features as All-Inclusive Plan"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Sweet Escape Sale",
+      "offer_description": "Discount for Honeybook members switching to 17hats.",
+      "discount_percentage": null,
+      "offer_url": "http://sale.17hats.com/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Bank Connect",
+      "fee_amount": 5.0,
+      "fee_description": "Automatically imports expenses into 17hats."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:15:54.799362",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5c800534-efb8-42a3-b61e-4e80909c8dcc",
+    "name": "17hats",
+    "slug": "17hats",
+    "description": "17hats is a premiere business platform that provides you with a suite of business solutions to help organize, systemize, and grow your business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c45c7386602eaa55988b9e7713e48b34.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 1
+  }
+}

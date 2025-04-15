@@ -1,0 +1,114 @@
+{
+  "app_id": "textline",
+  "app_name": "Textline",
+  "app_slug": "textline",
+  "pricing_url": "https://www.textline.com/pricing",
+  "source_url": "https://www.textline.com/plan-comparison",
+  "all_pricing_urls": [
+    "https://www.textline.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per agent with a minimum of 3 agents required. Additional messaging costs and industry fees apply.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Limited",
+      "tier_description": null,
+      "monthly_price": 20.0,
+      "annual_price": 192.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": null,
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": null,
+      "monthly_price": 30.0,
+      "annual_price": 288.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": null,
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": null,
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan tailored to business needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": null,
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Messaging Cost",
+      "fee_amount": null,
+      "fee_description": "Additional cost for messaging usage."
+    },
+    {
+      "fee_name": "Industry Fees",
+      "fee_amount": null,
+      "fee_description": "Fees related to industry-specific requirements."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:28:23.150962",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e8752160-ea76-4775-b6bd-93baafca628c",
+    "name": "Textline",
+    "slug": "textline",
+    "description": "Textline is a text messaging platform for your business. Share one or more phone numbers for receiving, managing, & responding to messages.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/c232f346f107865d5dd4fa50bafa88d6.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 8,
+    "trigger_count": 0
+  }
+}

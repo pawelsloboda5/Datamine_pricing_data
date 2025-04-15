@@ -1,0 +1,89 @@
+{
+  "app_id": "buy_me_a_coffee",
+  "app_name": "Buy Me a Coffee",
+  "app_slug": "buy-me-a-coffee",
+  "pricing_url": null,
+  "source_url": "https://help.buymeacoffee.com",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Buy Me a Coffee offers a free tier for basic usage and subscription options for additional features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for creators to receive support.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Receive one-time support",
+        "Basic analytics",
+        "Customizable page"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Membership",
+      "tier_description": "Advanced features for creators to offer memberships.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Membership subscriptions",
+        "Advanced analytics",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:51:49.436750",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "8566127f-05b8-4eeb-9a3b-5d3eba00b17d",
+    "name": "Buy Me a Coffee",
+    "slug": "buy-me-a-coffee",
+    "description": "A free, fast, and beautiful way to fund your creativity. It only takes a minute to start your page and has all the features to build your creative business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/e9306ad830b3e8a5ec597e80f4342bfa.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders"
+    ],
+    "category_slugs": [
+      "cms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

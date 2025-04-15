@@ -1,0 +1,50 @@
+{
+  "app_name": "kvCORE",
+  "app_slug": "kvcore",
+  "search_term": "Find the official pricing page URL for kvCORE (kvcore.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744705935.022566,
+  "response_text": [
+    "I couldn't locate an official pricing page for kvCORE on their website. You may need to visit their [homepage](https://www.kvcore.com) directly for further assistance with pricing inquiries."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.kvcore.com",
+      "is_accessible": true,
+      "content": "kvCORE Platform Login\n===============\n\n![Image 1](https://s3.amazonaws.com/kunversion-platform/kv-logo-white.png) \n\n \n\nDashboard Login\n\nLogin\n\n[Having Trouble Logging In?](https://insiderealestate.com/new-users)\n\n[Forgot password?](https://kvcore.com/password/reset)\n\nDon't have kvCORE yet? [Learn More Today](https://insiderealestate.com/kvcore)\n\n2025 \u00a9 INSIDERE, LLC",
+      "error": null,
+      "pricing_data": {
+        "app_id": "kvcore",
+        "app_name": "kvCORE",
+        "app_slug": "kvcore",
+        "pricing_url": null,
+        "source_url": "https://kvcore.com",
+        "all_pricing_urls": [
+          "https://insiderealestate.com/kvcore"
+        ],
+        "price_model_type": [
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing details are not publicly available and likely require direct inquiry.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T04:32:21.331705",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\kvcore\\20250415_043221"
+}

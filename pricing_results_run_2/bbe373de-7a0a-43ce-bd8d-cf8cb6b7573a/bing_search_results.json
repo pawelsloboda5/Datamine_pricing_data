@@ -1,0 +1,116 @@
+{
+  "app_name": "Sansan",
+  "app_slug": "sansan",
+  "search_term": "Find the official pricing page URL for Sansan (sansan.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744720164.8246052,
+  "response_text": [
+    "The official pricing page URL for Sansan is: [https://www.sansan.com/global/pricing.html](https://www.sansan.com/global/pricing.html)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing -Sansan- | Sansan Global",
+      "url": "https://www.sansan.com/en/price/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.sansan.com/en/price/",
+      "is_accessible": true,
+      "content": "*   [Home](https://www.sansan.com/en/)\n*   Pricing\n\nWe put together an optimal plan  \nto suit your specific needs.\n\n*   ##### Initial costs\n    \n    This covers digitization of cards that you already have.  \n    Entering these in lets you immediately visualize all past card  \n    and contact information and immediately start capitalizing  \n    on the valuable insights you'll uncover.\n    \n*   ##### Operating costs\n    \n    This covers introducing and operating the Sansan system.  \n    We benefit from our accumulated experience with 10,000+ companies,  \n    so we can support your ongoing usage and success.\n    \n\n*   ##### License fee  \n    (monthly)\n    \n    We offer a range of licences to suit your  \n    company\u2019s size and how you plan to use Sansan.\n    \n*   ##### Options  \n    (monthly)\n    \n    Add features and services that will specifically  \n    help you get the most out of Sansan.\n    \n*   ##### Sansan Scanner Set  \n    (monthly)\n    \n    Use the dedicated scanner for fast and easy digitization of cards.  \n    Sansan Scanner Set come together with tablet devices.  \n    \\*The minimum contracted number of devices required is the number of floors and/or locations in your office.\n    \n\nIntroducing Sansan in your company\n----------------------------------\n\nThese are the steps from your first  \ninquiry to starting use of Sansan.\n\n![Image 1: STEP01](https://www.sansan.com/assets/images/price_sec02_img01@2x.png)\n\n##### Get in touch\n\nFor starters, contact us. Fill out the form below. Tell us your requests, questions, or concerns.  \n[Contact us here \\>](https://www.sansan.com/en/contact/)\n\n![Image 2: STEP02](https://www.sansan.com/assets/images/price_sec02_img02@2x.png)\n\n##### Consultation\n\nWe'll listen to and assess your requests and needs and explain features and plans that will benefit you.  \nFeel free to contact us to request a quote.\n\n![Image 3: STEP03](https://www.sansan.com/assets/images/price_sec02_img03@2x.png)\n\n##### From proposal to contract\n\nWe'll propose the best plan to address your needs and usage.  \nOnce you're satisfied with this plan, we'll move to the contract.\n\n![Image 4: STEP04](https://www.sansan.com/assets/images/price_sec02_img04@2x.png)\n\n##### Contract and implementation\n\nYou can get up and running with Sansan in as little as 1 business day after signing a contract.  \nOur dedicated reps will accompany you through the implementation process.\n\nCustomer Success Plan\n---------------------\n\n### Comprehensive post-introduction support\n\nImplementing Sansan can be a lot of work for those who are advancing it in the company.  \nStartup use can include establishing a schedule, raising internal awareness, scanning in  \npreviously acquired business cards, and user training.  \nWe'll assign you a dedicated representative to make sure your implementation of Sansan  \nis smooth and successful.\n\n![Image 5: \u30ad\u30c3\u30af\u30aa\u30d5\u30df\u30fc\u30c6\u30a3\u30f3\u30b0](https://www.sansan.com/assets/images/price_sec03_img01@2x.jpg)\n\n##### Kickoff meeting\n\nMeet with your dedicated representative to develop an implementation plan.\n\n##### User training  \n(in person & online)\n\nSansan trainers speak directly with your users on how to use the system.\n\n![Image 6: \u62c5\u5f53\u30b5\u30dd\u30fc\u30c8\uff08CS\u306e\u5e38\u6642\u30b5\u30dd\u30fc\u30c8\uff09](https://www.sansan.com/assets/images/price_sec03_img03@2x.jpg)\n\n##### Customer success support\n\nWe'll develop a success plan to realize your vision, follow this through your implementation, and check on how usage is progressing. We work with you to guide you to seamless and successful use of Sansan.\n\n![Image 7: \u652f\u63f4\u30b3\u30f3\u30c6\u30f3\u30c4 Sansan Academy](https://www.sansan.com/assets/images/price_sec03_img04@2x.jpg)\n\n##### Sansan Academy  \nsupport materials\n\nOur Customer Success team has compiled videos and guides on implementing and using Sansan. Use these a part of your own internal operation guidelines.\n\nFAQ\n---\n\n*   ### Q. Specifically how much does it cost?\n    \n    Every company is different, so we put together an appropriate plan and price after thoroughly listening to your needs and concerns. This is necessary to make sure your implementation is a successful one.\n    \n*   ### Q. How long is the contract term?\n    \n    The standard term for Sansan is 1 year.\n    \n*   ### Q. Is there any support after installation?\n    \n    Absolutely. Our Customer Success team provides optimal service tailored to each customer's needs. We also offer a wide range of support materials for customer companies, including an exclusive online community for users, a website on using Sansan, and an extensive help site.\n\nSansan is a cloud-based solution to digitally transform your sales. Sansan centralizes business card, contact data and sales history, as users build a unique, shareable database that uncovers sales opportunities and reduces costs.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "sansan",
+        "app_name": "Sansan",
+        "app_slug": "sansan",
+        "pricing_url": "https://www.sansan.com/en/pricing",
+        "source_url": "https://www.sansan.com/en/pricing",
+        "all_pricing_urls": [
+          "https://www.sansan.com/en/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Sansan provides customized pricing based on company needs and usage. Pricing details are not publicly disclosed.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Initial costs",
+            "fee_amount": null,
+            "fee_description": "Covers digitization of existing business cards."
+          },
+          {
+            "fee_name": "Operating costs",
+            "fee_amount": null,
+            "fee_description": "Covers introduction and operation of the Sansan system."
+          },
+          {
+            "fee_name": "License fee",
+            "fee_amount": null,
+            "fee_description": "Monthly fee for licenses tailored to company size and usage."
+          },
+          {
+            "fee_name": "Options",
+            "fee_amount": null,
+            "fee_description": "Monthly fee for additional features and services."
+          },
+          {
+            "fee_name": "Sansan Scanner Set",
+            "fee_amount": null,
+            "fee_description": "Monthly fee for scanner and tablet devices, with a minimum requirement based on office locations."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T08:29:37.852277",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.sansan.com/global/pricing.html",
+      "is_accessible": true,
+      "content": "No webpage was found for the web address: **https://www.sansan.com/global/pricing.html**\n\nHTTP ERROR 404\n\nNo webpage was found for the web address: **https://www.sansan.com/global/pricing.html**",
+      "error": null,
+      "pricing_data": {
+        "app_id": "sansan",
+        "app_name": "Sansan",
+        "app_slug": "sansan",
+        "pricing_url": "https://www.sansan.com/global/pricing.html",
+        "source_url": "https://www.sansan.com/global/pricing.html",
+        "all_pricing_urls": [
+          "https://www.sansan.com/global/pricing.html"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page returned a 404 error, indicating that detailed pricing information is not publicly accessible.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T08:29:48.519844",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\sansan\\20250415_082948"
+}

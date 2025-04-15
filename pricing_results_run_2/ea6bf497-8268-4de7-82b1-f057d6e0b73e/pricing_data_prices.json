@@ -1,0 +1,107 @@
+{
+  "app_id": "webinarfuel",
+  "app_name": "WebinarFuel",
+  "app_slug": "webinarfuel",
+  "pricing_url": null,
+  "source_url": "https://www.webinarfuel.com/prices",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer discounts compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pro Plan",
+      "tier_description": null,
+      "monthly_price": 197.0,
+      "annual_price": 167.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Add 10 Users with Permissions",
+        "30 Webinar Videos",
+        "10 Webinars",
+        "1,000 Email Credits",
+        "50 SMS Credits",
+        "Unlimited Notifications",
+        "Unlimited Contacts",
+        "Email Stats Displayed",
+        "2 Hosted Webinar Videos"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "FuelSuite Pro",
+      "tier_description": "Includes WebinarFuel Pro and ChallengeFuel Pro.",
+      "monthly_price": 394.0,
+      "annual_price": 297.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Create & Launch Automated Challenges",
+        "Stream Events To Facebook Groups",
+        "VIP Gating To Sell VIP Session Access",
+        "Sell VIP In APP Access",
+        "Track & Split Test VIP Offers",
+        "Easy Notifications",
+        "5 Hosted Videos",
+        "All WebinarFuel Pro Features Available For Challenges"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Save 15% on annual billing.",
+      "discount_percentage": 15.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:47:17.339782",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ea6bf497-8268-4de7-82b1-f057d6e0b73e",
+    "name": "WebinarFuel",
+    "slug": "webinarfuel",
+    "description": "WebinarFuel is an automated webinar platform for sales, education, training, and presentations.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/7071401fe74e5ca87dafb1f0c42c0a7a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Webinars"
+    ],
+    "category_slugs": [
+      "webinars"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 11
+  }
+}

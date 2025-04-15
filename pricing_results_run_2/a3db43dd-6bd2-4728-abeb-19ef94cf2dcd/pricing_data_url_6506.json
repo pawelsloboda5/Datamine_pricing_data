@@ -1,0 +1,182 @@
+{
+  "app_id": "tapfiliate",
+  "app_name": "Tapfiliate",
+  "app_slug": "tapfiliate",
+  "pricing_url": "https://tapfiliate.com/pricing/",
+  "source_url": "https://tapfiliate.com/pricing/",
+  "all_pricing_urls": [
+    "https://tapfiliate.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a discount of up to 17%.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essential",
+      "tier_description": "Basic plan with essential features.",
+      "monthly_price": 89.0,
+      "annual_price": 890.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited affiliate programs",
+        "30+ pre-built integrations",
+        "Real-time reporting",
+        "Email/live chat support",
+        "1 team member"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "30+ pre-built integrations",
+        "custom_limits": [
+          {
+            "name": "Clicks per month",
+            "value": 20000
+          },
+          {
+            "name": "Conversions per month",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Recommended plan with additional features.",
+      "monthly_price": 149.0,
+      "annual_price": 1490.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Essential",
+        "Custom domain",
+        "Multi-Level Marketing",
+        "Bonus system",
+        "Priority queue",
+        "5 team members"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "30+ pre-built integrations",
+        "custom_limits": [
+          {
+            "name": "Clicks per month",
+            "value": 100000
+          },
+          {
+            "name": "Conversions per month",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for large-scale needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Pro",
+        "Unlimited tracking requests",
+        "Full white label",
+        "Single Sign On (SSO)",
+        "Dedicated personal manager",
+        "Unlimited team members"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": "unlimited",
+        "integrations": "30+ pre-built integrations",
+        "custom_limits": [
+          {
+            "name": "Clicks per month",
+            "value": "unlimited"
+          },
+          {
+            "name": "Conversions per month",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Clicks",
+      "unit": "per 1,000",
+      "base_price": 1.5,
+      "tiers": [
+        {
+          "min": 20001.0,
+          "max": 100000.0,
+          "price": 1.5
+        },
+        {
+          "min": 100001.0,
+          "max": "unlimited",
+          "price": 1.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Conversions",
+      "unit": "per 1,000",
+      "base_price": 15.0,
+      "tiers": [
+        {
+          "min": 2001.0,
+          "max": 10000.0,
+          "price": 15.0
+        },
+        {
+          "min": 10001.0,
+          "max": "unlimited",
+          "price": 10.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:32:09.870113",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a3db43dd-6bd2-4728-abeb-19ef94cf2dcd",
+    "name": "Tapfiliate",
+    "slug": "tapfiliate",
+    "description": "Tapfiliate is cloud based affiliate tracking software. It enables you to create, track and optimize your own affiliate programs.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/91ea0168bebc54f21077e09b39f32c5a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 17,
+    "trigger_count": 7
+  }
+}

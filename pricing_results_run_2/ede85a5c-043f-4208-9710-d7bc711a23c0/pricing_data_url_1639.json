@@ -1,0 +1,234 @@
+{
+  "app_id": "apitemplate_io",
+  "app_name": "APITemplate.io",
+  "app_slug": "apitemplate-io",
+  "pricing_url": "https://apitemplate.io/pricing/",
+  "source_url": "https://apitemplate.io/pricing/",
+  "all_pricing_urls": [
+    "https://apitemplate.io/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer up to 20% savings compared to monthly billing. Enterprise plans support pay-as-you-go for additional usage.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic free tier for evaluation.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "50 images, PDFs /month",
+        "3 Templates",
+        "REST API Integration",
+        "Zapier Integration",
+        "Integromat Integration",
+        "Direct URL",
+        "N8n Integration",
+        "Airtable Integration",
+        "Image Template Editor",
+        "Stock Images (Unsplash, Pexels)",
+        "100+ Fonts",
+        "PDF Template Editor",
+        "Visual Editor/WYSIWYG Editor",
+        "HTML Editor"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "images_pdfs_per_month",
+            "value": 50
+          },
+          {
+            "name": "templates",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Starter plan for small-scale usage.",
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1500 images, PDFs /month",
+        "15 Templates",
+        "CDN Storage",
+        "REST API Integration",
+        "Zapier Integration",
+        "Integromat Integration",
+        "Direct URL",
+        "N8n Integration",
+        "Airtable Integration",
+        "Image Template Editor",
+        "Stock Images (Unsplash, Pexels)",
+        "300+ Fonts",
+        "PDF Template Editor",
+        "Visual Editor/WYSIWYG Editor",
+        "HTML Editor",
+        "Data Processing Agreement",
+        "Email Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "CDN Storage",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "images_pdfs_per_month",
+            "value": 1500
+          },
+          {
+            "name": "templates",
+            "value": 15
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Standard plan for medium-scale usage.",
+      "monthly_price": 69.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "9000 images, PDFs /month",
+        "150 Templates",
+        "CDN Storage",
+        "REST API Integration",
+        "Zapier Integration",
+        "Integromat Integration",
+        "Direct URL",
+        "N8n Integration",
+        "Airtable Integration",
+        "Create and Manage Teams",
+        "Image Template Editor",
+        "Stock Images (Unsplash, Pexels)",
+        "1000+ Fonts",
+        "PDF Template Editor",
+        "Visual Editor/WYSIWYG Editor",
+        "HTML Editor",
+        "Data Processing Agreement",
+        "Email Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "CDN Storage",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "images_pdfs_per_month",
+            "value": 9000
+          },
+          {
+            "name": "templates",
+            "value": 150
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Enterprise plan for large-scale usage.",
+      "monthly_price": 139.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "20,000 images, PDFs/month",
+        "Unlimited Templates",
+        "CDN Storage",
+        "REST API Integration",
+        "Zapier Integration",
+        "Integromat Integration",
+        "Direct URL",
+        "N8n Integration",
+        "Airtable Integration",
+        "Create and Manage Teams",
+        "Bring Your Own Storage",
+        "Directly upload to AWS S3",
+        "Image Template Editor",
+        "Stock Images (Unsplash, Pexels)",
+        "1000+ Fonts",
+        "PDF Template Editor",
+        "Visual Editor/WYSIWYG Editor",
+        "HTML Editor",
+        "Data Processing Agreement",
+        "Priority Email Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "CDN Storage",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "images_pdfs_per_month",
+            "value": 20000
+          },
+          {
+            "name": "templates",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "additional_usage",
+      "unit": "per unit",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:25:27.180302",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ede85a5c-043f-4208-9710-d7bc711a23c0",
+    "name": "APITemplate.io",
+    "slug": "apitemplateio",
+    "description": "APITemplate.io is a document automation tool that simplifies the PDF and image generation using reusable templates and an intuitive editor.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/f7541896e1f6e3742d7d70ac22a6d721.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Images & Design"
+    ],
+    "category_slugs": [
+      "images"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 6,
+    "trigger_count": 0
+  }
+}

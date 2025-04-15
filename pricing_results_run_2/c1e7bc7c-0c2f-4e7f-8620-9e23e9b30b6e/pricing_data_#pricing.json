@@ -1,0 +1,43 @@
+{
+  "app_id": "adafruit_io",
+  "app_name": "Adafruit IO",
+  "app_slug": "adafruit-io",
+  "pricing_url": null,
+  "source_url": "https://adafruit.com/adafruit-io/#pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The provided content does not include specific pricing information for Adafruit IO.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:09:16.306797",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c1e7bc7c-0c2f-4e7f-8620-9e23e9b30b6e",
+    "name": "Adafruit IO",
+    "slug": "adafruit-io",
+    "description": "Adafruit IO is a cloud service used primarily for storing and retrieving data but does much more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/49c38e3f75247b407cd3ad1cf28b0b6c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Devices"
+    ],
+    "category_slugs": [
+      "devices"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "app_id": "disputefox",
+  "app_name": "DisputeFox",
+  "app_slug": "disputefox",
+  "pricing_url": "https://www.disputefox.com/pricing",
+  "source_url": "https://www.disputefox.com/pricing",
+  "all_pricing_urls": [
+    "https://www.disputefox.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Yearly plans offer discounts and are non-refundable. Additional users and client slots can be added for extra fees.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starting",
+      "tier_description": "Keeping Costs Down",
+      "monthly_price": 129.0,
+      "annual_price": 1299.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Up to 100 Clients",
+        "Clients Always See YOUR Logo",
+        "Client & Affiliate Portals",
+        "Credit Analysis Reports",
+        "Monthly Progress Reports",
+        "Integrated Billing (no extra charges)",
+        "Unlimited Affiliates",
+        "Pre-Built AutoFox Workflows",
+        "Appointment Booking",
+        "Print & Mail Service",
+        "Zapier Integration",
+        "50+ Graphic Designed Emails",
+        "Unlimited Custom Web Forms",
+        "Factual & Freeze Letter Builder",
+        "Metro2 Letter Builder",
+        "Mobile App with Your Branding",
+        "10 Free SMS to Try Out (trial only)",
+        "Integrate Your Twilio SMS Number",
+        "Additional Users $59/mo",
+        "White Label Client Portal"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Clients",
+            "value": 100
+          },
+          {
+            "name": "Leads",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growing",
+      "tier_description": "Now We\u2019re Cooking",
+      "monthly_price": 379.0,
+      "annual_price": 3999.0,
+      "annual_discount_percentage": 12.0,
+      "setup_fee": null,
+      "features": [
+        "Up to 1000 Clients",
+        "Clients Always See YOUR Logo",
+        "Client & Affiliate Portals",
+        "Credit Analysis Reports",
+        "Monthly Progress Reports",
+        "Integrated Billing (no extra charges)",
+        "Unlimited Affiliates",
+        "Pre-Built AutoFox Workflows",
+        "Appointment Booking",
+        "Print & Mail Service",
+        "Zapier Integration",
+        "50+ Graphic Designed Emails",
+        "Unlimited Custom Web Forms",
+        "Factual & Freeze Letter Builder",
+        "Metro2 Letter Builder",
+        "Mobile App with Your Branding",
+        "10 Free SMS to Try Out (trial only)",
+        "Integrate Your Twilio SMS Number",
+        "Additional Users $49/mo",
+        "White Label Client Portal"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Clients",
+            "value": 1000
+          },
+          {
+            "name": "Leads",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Scaling",
+      "tier_description": "All The Goodies",
+      "monthly_price": 499.0,
+      "annual_price": 4999.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Up to 2000 Clients",
+        "Clients Always See YOUR Logo",
+        "Client & Affiliate Portals",
+        "Credit Analysis Reports",
+        "Monthly Progress Reports",
+        "Integrated Billing (no extra charges)",
+        "Unlimited Affiliates",
+        "Pre-Built AutoFox Workflows",
+        "Appointment Booking",
+        "Print & Mail Service",
+        "Zapier Integration",
+        "50+ Graphic Designed Emails",
+        "Unlimited Custom Web Forms",
+        "Factual & Freeze Letter Builder",
+        "Metro2 Letter Builder",
+        "Mobile App with Your Branding",
+        "10 Free SMS to Try Out (trial only)",
+        "Integrate Your Twilio SMS Number",
+        "Additional Users $45/mo",
+        "White Label Client Portal"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Clients",
+            "value": 2000
+          },
+          {
+            "name": "Leads",
+            "value": 20000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Faxed Page",
+      "unit": "per page",
+      "base_price": 0.05,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Additional User",
+      "fee_amount": 59.0,
+      "fee_description": "Monthly fee for each additional user in the Starting plan."
+    },
+    {
+      "fee_name": "Additional User",
+      "fee_amount": 49.0,
+      "fee_description": "Monthly fee for each additional user in the Growing plan."
+    },
+    {
+      "fee_name": "Additional User",
+      "fee_amount": 45.0,
+      "fee_description": "Monthly fee for each additional user in the Scaling plan."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:13:03.503298",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f88def01-e3e2-4edf-a3bf-f61b777bac3f",
+    "name": "DisputeFox",
+    "slug": "disputefox",
+    "description": "DisputeFox was designed from the ground up to be the World's Most Advanced All-in-One Credit Dispute Software.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/d4d21a373dc5d46f22cab0d8e53d5588.PNG?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 15
+  }
+}

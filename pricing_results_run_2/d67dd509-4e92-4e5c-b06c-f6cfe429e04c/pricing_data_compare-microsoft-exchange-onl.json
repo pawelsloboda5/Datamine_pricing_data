@@ -1,0 +1,118 @@
+{
+  "app_id": "microsoft_exchange",
+  "app_name": "Microsoft Exchange",
+  "app_slug": "microsoft-exchange",
+  "pricing_url": "https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans",
+  "source_url": "https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans",
+  "all_pricing_urls": [
+    "https://www.microsoft.com/en-us/microsoft-365/exchange/compare-microsoft-exchange-online-plans"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on annual subscriptions with auto-renewal.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Exchange Online (Plan 1)",
+      "tier_description": "Basic plan for Exchange Online.",
+      "monthly_price": 4.0,
+      "annual_price": 48.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "50 GB mailbox and messages up to 150 MB",
+        "Outlook on the web provides a premium browser-based experience",
+        "Focused Inbox makes it easy to track email that matters most",
+        "Automatically move old messages to an In-Place Archive"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "50GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Exchange Online (Plan 2)",
+      "tier_description": "Enhanced plan for Exchange Online.",
+      "monthly_price": 8.0,
+      "annual_price": 96.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Exchange Online (Plan 1)",
+        "100 GB mailbox and messages up to 150 MB",
+        "Built-in data loss prevention (DLP)",
+        "Cloud Voicemail services with call answering, dial-in UI, and automated attendant"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Microsoft 365 Business Standard",
+      "tier_description": "Includes Exchange Online and additional Microsoft 365 services.",
+      "monthly_price": 12.5,
+      "annual_price": 150.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Exchange Online (Plan 1)",
+        "Desktop versions of Word, Excel, PowerPoint, and Outlook",
+        "Webinars with attendee registration and reporting",
+        "Collaborative workspaces to co-create using Microsoft Loop",
+        "Video editing and design tools with Clipchamp",
+        "Desktop, web, and mobile apps and secure cloud services"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:58:55.948476",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d67dd509-4e92-4e5c-b06c-f6cfe429e04c",
+    "name": "Microsoft Exchange",
+    "slug": "microsoft-exchange",
+    "description": "Microsoft Exchange Server is a mail server and calendaring server developed by Microsoft.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/09717af1fbd8a62b7240efc8ab6a9667.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email",
+      "Microsoft"
+    ],
+    "category_slugs": [
+      "email",
+      "microsoft"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 4
+  }
+}

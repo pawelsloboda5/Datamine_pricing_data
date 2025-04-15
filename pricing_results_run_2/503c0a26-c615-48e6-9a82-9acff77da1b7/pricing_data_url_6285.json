@@ -1,0 +1,162 @@
+{
+  "app_id": "scoro",
+  "app_name": "Scoro",
+  "app_slug": "scoro",
+  "pricing_url": "https://www.scoro.com/pricing/",
+  "source_url": "https://www.scoro.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.scoro.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user per month with a minimum of 5 users.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Core",
+      "tier_description": "Consolidate data and manage the entire project life cycle from a single place.",
+      "monthly_price": 18.9,
+      "annual_price": null,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Projects",
+        "Calendars",
+        "Task list & task board",
+        "Gantt chart & dependencies",
+        "Contacts & customers",
+        "Quotes",
+        "Bills, invoices & receipts",
+        "Dashboards",
+        "Default labor cost",
+        "Detailed work reports"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Standardize work, automate flows, and improve cost management for better profitability insights.",
+      "monthly_price": 29.9,
+      "annual_price": null,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Core",
+        "Project budgets & templates",
+        "Quoted vs Actual table",
+        "Retainer management",
+        "Recurring tasks",
+        "Billable time",
+        "Role-based labor cost",
+        "Time off",
+        "Multiple currencies",
+        "Triggers & actions",
+        "Detailed financial reports"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Performance",
+      "tier_description": "Plan resources and forecast capacity to optimize utilization and maximize profitability.",
+      "monthly_price": 47.9,
+      "annual_price": null,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Growth",
+        "Planner",
+        "Timesheet",
+        "Task matrix",
+        "Price lists",
+        "Cost and profit forecast",
+        "Revenue recognition & forecast",
+        "Sales pipeline & report",
+        "Team performance report",
+        "Individual time allocation",
+        "Supplier management"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Maintain profitability at scale with granular process control and advanced customization options.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Performance",
+        "Company budgets & forecasts",
+        "Time locking",
+        "Approval flows",
+        "WIP report",
+        "Multi-account reporting",
+        "Periodization of invoice lines",
+        "Single sign-on",
+        "User provisioning",
+        "FTP integration"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:59:25.781186",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "503c0a26-c615-48e6-9a82-9acff77da1b7",
+    "name": "Scoro",
+    "slug": "scoro",
+    "description": "Scoro is a comprehensive work management software \u2013 an all-in-one solution to track your time, manage projects and bill for your work",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d144e3cc67545dd28d8863cb8f9d47ec.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 32,
+    "trigger_count": 21
+  }
+}

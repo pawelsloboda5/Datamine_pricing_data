@@ -1,0 +1,200 @@
+{
+  "app_id": "salesmate",
+  "app_name": "Salesmate",
+  "app_slug": "salesmate",
+  "pricing_url": "https://www.salesmate.io/pricing/",
+  "source_url": "https://www.salesmate.io/pricing/",
+  "all_pricing_urls": [
+    "https://www.salesmate.io/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 15,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes per-user monthly rates with annual billing discounts.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Designed for startups and SMBs needing effective pipeline management across channels.",
+      "monthly_price": 23.0,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Contact, Company management",
+        "Activity management and Calendar sync",
+        "Deal Pipeline management",
+        "Full email sync with Templates and Tracking",
+        "Meeting Scheduler",
+        "Standard Dashboard and Reports",
+        "Web forms",
+        "Custom fields"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Sales and Marketing Automation (Smart Flows)",
+            "value": "20K Credits / User / Month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Perfect for growing and mid-sized businesses looking for enhanced capabilities.",
+      "monthly_price": 39.0,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Sequences",
+        "Quotes management",
+        "Product management",
+        "Ticket management",
+        "Team Inbox",
+        "Team management",
+        "Custom Dashboard and Reports with Goals",
+        "Field-based permissions",
+        "Formula fields",
+        "Sandy AI"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Sales and Marketing Automation (Smart Flows)",
+            "value": "30K Credits / User / Month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "All-in-one features to align your sales, marketing, and support teams for seamless growth.",
+      "monthly_price": 63.0,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Deal credit split",
+        "Custom Duplicate management rules",
+        "Service Level Agreements",
+        "Advanced Goal management",
+        "Calculated Fields",
+        "Power Dialer",
+        "Voicemail Drop",
+        "SSO"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Sales and Marketing Automation (Smart Flows)",
+            "value": "40K Credits / User / Month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Customizable solutions with enterprise-grade tools and support for scaling at the highest level.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 1999.0,
+      "features": [
+        "Audit logs",
+        "Dedicated onboarding consultation",
+        "Custom validation rules",
+        "Dedicated Account Manager",
+        "IP restriction",
+        "Quarterly business review",
+        "Dedicated IP (1 dedicated IP included in the plan)",
+        "24 X 7 support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Calling and Texting credits",
+      "unit": "per call/text",
+      "base_price": 1.1,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Billing Discount",
+      "offer_description": "Save up to 20% with annual billing.",
+      "discount_percentage": 20.0,
+      "offer_url": "https://www.salesmate.io/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Enterprise Onboarding Package",
+      "fee_amount": 1999.0,
+      "fee_description": "One-time setup fee for Enterprise tier."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:11:56.743390",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6dcc4ca5-5ad7-465a-99ac-688afb2e09d7",
+    "name": "Salesmate",
+    "slug": "salesmate",
+    "description": "Salesmate is an All-in-one Sales Management, Automation, and Acceleration Software for Teams of All Sizes & Shapes.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/030da36d7d5b50090a16a61635c6f270.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 37,
+    "trigger_count": 16
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "app_name": "ConvertFlow",
+  "app_slug": "convertflow",
+  "search_term": "Find the official pricing page URL for ConvertFlow (convertflow.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744698858.386715,
+  "response_text": [
+    "The official pricing page for ConvertFlow is available at: [https://www.convertflow.com/pricing](https://www.convertflow.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "ConvertFlow Pricing | Grow With The Right Plan",
+      "url": "https://www.convertflow.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.convertflow.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\convertflow\\20250415_023433"
+}

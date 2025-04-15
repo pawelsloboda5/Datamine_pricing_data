@@ -1,0 +1,181 @@
+{
+  "app_id": "easypractice",
+  "app_name": "EasyPractice",
+  "app_slug": "easypractice",
+  "pricing_url": "https://easypractice.net/pricing/",
+  "source_url": "https://easypractice.net/pricing/",
+  "all_pricing_urls": [
+    "https://easypractice.net/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier with limited features and additional costs for specific apps.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free tier with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free SMS reminders",
+        "Create up to 2 clients"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Clients",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Unlimited",
+      "tier_description": "Unlimited access with extended features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 500 client appointments",
+        "Online Booking",
+        "Event administration",
+        "Easy client invoicing",
+        "Statistics page",
+        "Integration with Google Calendar",
+        "E-mail notifications",
+        "Secure journal system",
+        "Receive online payments",
+        "Free SMS reminders"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Client Appointments",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom-made booking platform tailored to company needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom solutions tailored to company needs"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Employees",
+      "unit": "per employee per month",
+      "base_price": 9.99,
+      "tiers": null
+    },
+    {
+      "metric_name": "Online courses",
+      "unit": "per month",
+      "base_price": 19.99,
+      "tiers": null
+    },
+    {
+      "metric_name": "Other Payers",
+      "unit": "per month",
+      "base_price": 8.99,
+      "tiers": null
+    },
+    {
+      "metric_name": "Payment Rates",
+      "unit": "per month",
+      "base_price": 9.99,
+      "tiers": null
+    },
+    {
+      "metric_name": "Resource Management",
+      "unit": "per month",
+      "base_price": 7.99,
+      "tiers": null
+    },
+    {
+      "metric_name": "Secure Messages",
+      "unit": "per month",
+      "base_price": 10.99,
+      "tiers": null
+    },
+    {
+      "metric_name": "Surveys",
+      "unit": "per month",
+      "base_price": 9.99,
+      "tiers": null
+    },
+    {
+      "metric_name": "Tenants",
+      "unit": "per month",
+      "base_price": 9.99,
+      "tiers": null
+    },
+    {
+      "metric_name": "Waiting Lists",
+      "unit": "per month",
+      "base_price": 9.99,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "EasyPay",
+      "fee_amount": null,
+      "fee_description": "2.9% + AUD 0.22, 2.9% + EU 0.22, 2.9% + GBP 0.22, 3.4% + USD 0.50 per transaction"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:47:56.597855",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a27942cd-bc20-4e1c-9e3b-b391ab92c775",
+    "name": "EasyPractice",
+    "slug": "easypractice",
+    "description": "EasyPractice is a platform for therapists and clinicians which handles your calendar, SMS reminders, online booking, journals, invoicing, payments and so much more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/80372c0e26c55066611a6eab95a5fb8b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 4
+  }
+}

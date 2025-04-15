@@ -1,0 +1,126 @@
+{
+  "app_id": "safetyculture",
+  "app_name": "SafetyCulture",
+  "app_slug": "safetyculture",
+  "pricing_url": "https://safetyculture.com/pricing",
+  "source_url": "https://safetyculture.com/pricing/",
+  "all_pricing_urls": [
+    "https://safetyculture.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier, a premium tier with advanced features, and a customizable enterprise tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Everything you need to get started",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Up to 10 free seats",
+        "5 active templates, unlimited inspections",
+        "Analytics",
+        "Training",
+        "Tasks & issue reporting",
+        "Up to 3 years of data & evidence history"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Improve safety, quality, and operations with advanced tools for growing teams",
+      "monthly_price": 24.0,
+      "annual_price": 24.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited paid seats",
+        "Unlimited active inspections templates",
+        "Advanced analytics",
+        "Advanced training",
+        "Permissions & access management",
+        "Out-of-the-box & custom integrations",
+        "Advanced security, including SSO & SCIM",
+        "Unlimited data & evidence history"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Pricing & services tailored to maximize impact across large organizations",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom pricing and services",
+        "Add Lite seats to any paid plan"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Lite seat",
+      "fee_amount": 5.0,
+      "fee_description": "For occasional users who only require limited access to collaborate & contribute"
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:41:33.177351",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "8b66c04c-9c84-46ef-bc4e-8f83e58f74e2",
+    "name": "SafetyCulture",
+    "slug": "safetyculture",
+    "description": "SafetyCulture (formerly iAuditor) is a business platform to conduct inspections, capture issues, manage tasks, communicate clearly and train working teams.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/6115589459edfea80f7a02ba03a1daae.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Product Management"
+    ],
+    "category_slugs": [
+      "product-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 4
+  }
+}

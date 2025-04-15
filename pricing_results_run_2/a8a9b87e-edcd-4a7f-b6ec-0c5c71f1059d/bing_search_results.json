@@ -1,0 +1,19 @@
+{
+  "app_name": "tl;dv",
+  "app_slug": "tldv",
+  "search_term": "Find the official pricing page URL for tl;dv (tldv.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744705718.1672115,
+  "response_text": [
+    "The official pricing page for tl;dv can be found at https://www.tldv.com/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.tldv.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\tldv\\20250415_042843"
+}

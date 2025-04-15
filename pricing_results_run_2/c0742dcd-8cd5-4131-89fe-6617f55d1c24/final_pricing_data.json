@@ -1,0 +1,155 @@
+{
+  "app_id": "salesflare",
+  "app_name": "Salesflare",
+  "app_slug": "salesflare",
+  "pricing_url": "https://salesflare.com/pricing",
+  "source_url": "https://salesflare.com/pricing",
+  "all_pricing_urls": [
+    "https://salesflare.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user and includes a free trial. Additional email finding credits can be purchased.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Growth",
+      "tier_description": "Basic plan with essential CRM features.",
+      "monthly_price": 35.0,
+      "annual_price": 29.0,
+      "annual_discount_percentage": 17.14,
+      "setup_fee": null,
+      "features": [
+        "Automate CRM data input",
+        "Track emails, links, and website visits",
+        "LinkedIn sidebar, email sidebar, and mobile app",
+        "Send personalized email campaigns",
+        "25 email finding credits"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Email finding credits",
+            "value": 25
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced plan with additional features.",
+      "monthly_price": 55.0,
+      "annual_price": 49.0,
+      "annual_discount_percentage": 10.91,
+      "setup_fee": null,
+      "features": [
+        "All Growth plan features",
+        "Send workflows of multiple emails",
+        "Set user permissions",
+        "Create custom dashboards",
+        "500 email finding credits"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Email finding credits",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Comprehensive plan for larger teams.",
+      "monthly_price": 115.0,
+      "annual_price": 99.0,
+      "annual_discount_percentage": 13.91,
+      "setup_fee": null,
+      "features": [
+        "All Pro plan features",
+        "Full setup and tailor-made training",
+        "Data migration done for you",
+        "Dedicated account manager",
+        "Unlimited email finding credits"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Email finding credits",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Email finding credits",
+      "unit": "per credit",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 1500.0,
+          "price": 39.0
+        },
+        {
+          "min": 1501.0,
+          "max": 5000.0,
+          "price": 79.0
+        },
+        {
+          "min": 5001.0,
+          "max": 15000.0,
+          "price": 159.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T02:50:25.706105",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c0742dcd-8cd5-4131-89fe-6617f55d1c24",
+    "name": "Salesflare",
+    "slug": "salesflare",
+    "description": "Salesflare is an intelligent sales CRM for small and medium-sized businesses selling B2B.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/29cb0fba27f61ba4c352d05eb10bc127.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 22,
+    "trigger_count": 5
+  }
+}

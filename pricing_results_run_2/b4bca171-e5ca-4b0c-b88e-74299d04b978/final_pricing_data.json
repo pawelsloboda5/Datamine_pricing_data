@@ -1,0 +1,155 @@
+{
+  "app_id": "kixie",
+  "app_name": "Kixie",
+  "app_slug": "kixie",
+  "pricing_url": "https://www.kixie.com/pricing/",
+  "source_url": "https://www.kixie.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.kixie.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are structured into tiers with additional usage-based costs for certain features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Integrated",
+      "tier_description": "Basic features for business phone service.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Business phone service",
+        "Bi-directional CRM integration",
+        "Text messaging",
+        "Click-to-call / Click-to-text",
+        "Team SMS",
+        "Rule based routing",
+        "IVR auto-attendant",
+        "Ring groups",
+        "Call recording",
+        "Live call board",
+        "Sales leaderboard",
+        "Reporting dashboard",
+        "Missed call alerts",
+        "New lead creation",
+        "Onboarding resources",
+        "Call disposition logging",
+        "Mobile app (iOS/Android)",
+        "Email support"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Advanced features including integrations and automation.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Integrated features",
+        "Automated lead caller",
+        "Inbound call queues",
+        "SMS templates",
+        "Live call coaching",
+        "Voicemail drop",
+        "Developer API",
+        "Zapier integration",
+        "Slack integration",
+        "Desk phones"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Outbound PowerDialer",
+      "tier_description": "Enhanced dialing capabilities for outbound calls.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Professional features",
+        "Single-line PowerDialer",
+        "Multi-line PowerDialer",
+        "Powerlist & session management"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Ultimate Revenue",
+      "tier_description": "Comprehensive features for revenue optimization.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "PowerDialer features",
+        "AI Human Voice Detection",
+        "Conversation Intelligence",
+        "ConnectionBoost\u2122",
+        "CRM-synced call transcriptions",
+        "AI-powered sentiment analysis",
+        "Key phrase detection & reporting",
+        "Do Not Call List Compliance",
+        "Unlimited solutions engineering",
+        "Custom integrations",
+        "Custom workflows"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Text Messages",
+      "unit": "per message",
+      "base_price": 0.011,
+      "tiers": null
+    },
+    {
+      "metric_name": "Additional Phone Numbers",
+      "unit": "per number per month",
+      "base_price": 5.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Unlimited Minutes",
+      "fee_amount": 30.0,
+      "fee_description": "Unlimited minutes for US/Canada users per user."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:14:30.328945",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b4bca171-e5ca-4b0c-b88e-74299d04b978",
+    "name": "Kixie",
+    "slug": "kixie",
+    "description": "Seamless Integrated Voice Powerful voice and software tools for sales and customer service teams.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/db388522e15cd9e63f2b06ea8db7a372.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 8,
+    "trigger_count": 0
+  }
+}

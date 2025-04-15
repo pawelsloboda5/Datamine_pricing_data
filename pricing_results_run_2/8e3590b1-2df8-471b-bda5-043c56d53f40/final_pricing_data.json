@@ -1,0 +1,145 @@
+{
+  "app_id": "transcribe_app",
+  "app_name": "Transcribe",
+  "app_slug": "transcribe",
+  "pricing_url": null,
+  "source_url": "https://transcribe.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Unused transcription hours roll over to the next month. Corporate discounts available for bulk purchases.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Great for getting started.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "30 minutes of transcription time",
+        "Basic transcription features"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "2 weeks",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Suitable for those who process audio recordings on a regular basis.",
+      "monthly_price": null,
+      "annual_price": 99.99,
+      "annual_discount_percentage": 45.0,
+      "setup_fee": null,
+      "features": [
+        "5 hours of file transcriptions monthly",
+        "All export formats (PDF, DOCX, SRT, JPG)",
+        "500 files of audio content storage",
+        "Web browser transcription editor",
+        "Synchronization",
+        "Priority support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "500 files",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Transcription Hours",
+            "value": "5 hours/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Suitable for those who process audio recordings in a team.",
+      "monthly_price": null,
+      "annual_price": 399.99,
+      "annual_discount_percentage": 45.0,
+      "setup_fee": null,
+      "features": [
+        "30 hours of transcription time each month",
+        "1,000 files of audio content storage",
+        "Powerful collaboration features",
+        "Team audios available anytime and on any device"
+      ],
+      "limits": {
+        "users": "5 teams",
+        "storage": "1,000 files",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Transcription Hours",
+            "value": "30 hours/month"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Transcription Time",
+      "unit": "per hour",
+      "base_price": 5.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 10.0,
+          "price": 30.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Corporate Discounts",
+      "offer_description": "Discounts for more than 100 hours of transcription time.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:21:29.277246",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "8e3590b1-2df8-471b-bda5-043c56d53f40",
+    "name": "Transcribe",
+    "slug": "transcribecom",
+    "description": "Transcribe is a one-stop solution for transcribing audio files in any language",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/508c05f8848dc3e3359796d95474c9e0.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools"
+    ],
+    "category_slugs": [
+      "ai-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "app_id": "robly",
+  "app_name": "Robly",
+  "app_slug": "robly",
+  "pricing_url": "https://support.robly.com/how-much-does-robly-cost/",
+  "source_url": "https://support.robly.com/category/pricing/",
+  "all_pricing_urls": [
+    "https://support.robly.com/how-much-does-robly-cost/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Robly offers a 15% discount for annual payments and for non-profits.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [
+    {
+      "metric_name": "active contacts",
+      "unit": "per contact",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Yearly Contract Buyout",
+      "offer_description": "Robly provides free service for the remaining time of a yearly contract with another provider.",
+      "discount_percentage": null,
+      "offer_url": "https://support.robly.com/yearly-contract-buyout-how-it-works/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:44:17.734756",
+  "schema_validated": true,
+  "confidence_score": 70,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "db818ffd-7c87-44e1-80a7-a21d2c5d912e",
+    "name": "Robly",
+    "slug": "robly",
+    "description": "Robly is an email marketing solution designed for beginners and experts alike.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/07c6aecd086e1d61c841e669e0787fe2_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 2
+  }
+}

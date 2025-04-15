@@ -1,0 +1,170 @@
+{
+  "app_name": "WebinarJam / EverWebinar",
+  "app_slug": "webinarjam",
+  "search_term": "Find the official pricing page URL for WebinarJam / EverWebinar (webinarjam.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744707261.2773156,
+  "response_text": [
+    "The official pricing page for WebinarJam/EverWebinar can be found at [https://home.webinarjam.com/pricing](https://home.webinarjam.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "WebinarJam Plans and Pricing",
+      "url": "https://home.webinarjam.com/checkout?r_done=1"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://home.webinarjam.com/pricing",
+      "is_accessible": true,
+      "content": "#### **How many people can join my webinar?\u200b**\n\nDepending on your subscription level your webinars can host a maximum of 100, 500, 2000, or 5000 attendees per webinar.\n\nIf you\u2019ve signed up for our Basic or Professional Subscription levels and see your registrants list is growing and you\u2019d like to expand up to the next subscription level, please reach out to our Billing Team via the [**Help Center.**](https://support.webinarjam.com/support/home)\n\n#### **How long can my webinars be?\u200b**\n\nDepending on your subscription level your webinars can be either 1, \u00a02, 3 or 4 hours in length maximum. If you need to run longer webinars we suggest setting up a second session that is scheduled to begin 30 minutes after the first webinar. This allows our system to process your replay and gives your attendees time for a quick break.\n\n#### **I want to talk to a live person on the phone. How do I set up a call?\u200b**\n\n\u200bWe do not currently offer phone support. However, we do offer Live Chat support Monday through Friday! \u00a0Our dedicated support team is committed to providing thorough investigations and answers to any questions you may have while using our platform.\n\nIf you are looking to get starting and are interested in viewing a demo of the platform, you can register [**here!**](https://event.webinarjam.com/channel/demonstrations)\n\n#### **Can I host multiple webinars simultaneously within the same account?\u200b**\n\n\u200bWhile WebinarJam does allow for separate webinars to be scheduled to run simultaneously, this behavior is not advised nor supported.\n\nOur support desk advises that users ensure any webinars are scheduled at least 15-30 minutes apart, especially when utilizing YouTube Live as the webinar provider. This will ensure that all encoding is finished, and the replay recording is fully functional.\n\nPlease be advised, this information is offered as a best practice to ensure the highest quality broadcast for your professional webinar.\n\n#### **Does WebinarJam include built-in templates for Registration pages?\u200b**\n\nYes! WebinarJam has a point-and-click Page Builder with professionally designed templates.\n\nYou can select your favorite template from our library then customize the colors, edit text, upload images, display your logo, upload a video, etc.\n\nIf you\u2019re unsure which design will work best, WebinarJam's system allows you to \u201csplit-test\u201d two different designs and track which one brings more registrants into your event.\n\n#### **What equipment do I need to run my webinar?\u200b**\n\nBasic requirements include a webcam and microphone, a reliable internet connection with a low \u2018ping\u2019, and a dedicated internet connection.\n\nFor a standard computer setup our recommended setup includes:\n\n*   A modern quad-core processor running at 2.3 Ghz, or equivalent\n*   A hardwired ethernet connection\n*   8 GB of system RAM\n*   At least 5 mbps internet upstream under load\n*   An upload speed that experiences less than 135 ms latency under load\n*   We would also suggest checking out our Equipment and Connectivity page for more information: [**https://support.webinarjam.com/support/solutions/articles/153000168616-equipment-and-connectivity**](https://support.webinarjam.com/support/solutions/articles/153000168616-equipment-and-connectivity)\n\n#### **Can I do automated, hybrid or evergreen webinars with this service?\u200b\u200b**\n\nThe answer to your question is both yes and no. You can absolutely do hybrid webinars as that\u2019s one of WebinarJam\u2019s many snazzy features. This means you can play a prerecorded video during your live webinar. Hybrid webinars are a great option if you want to have the simplicity of pre-recording your training, then having a live Question and Answer session after.\n\nAs far as evergreen (continuous scheduled replay) webinars go, you would need to have EverWebinar. WebinarJam is our live webinar service and is not designed to host evergreen events. EverWebinar is our automated webinar service that can run as many automated webinars as your heart desires. Simply host your webinar live in WebinarJam, then take your webinar recording and convert it into an automated webinar in EverWebinar. You can also bring in a polished video and host it on an external host, such as Amazon S3, Vimeo Standard, etc and use it for your EverWebinar event.\n\n#### **What is the difference between WebinarJam and EverWebinar?\u200b**\n\nWe get it, both WebinarJam and EverWebinar are packed with so many amazing and similar features, that it\u2019s hard to tell the difference. But can we tell you a secret? We did that on purpose. WebinarJam is designed to be for live webinars. Once you have a high converting live webinar, you can then take the recording and convert it into an automated webinar in EverWebinar. You don't even have to log in and start an EverWebinar, as they're completely automated.\n\nEverWebinar simulates the live experience and looks the exact same to your viewers so they have no idea it\u2019s running on autopilot (and that you\u2019re chilling on the beach sippin\u2019 margaritas).\n\n#### **Does WebinarJam provide white labeling options?\u200b**\n\nWe brand our SAAS technology so we do not offer white labeling at this time.\n\nWe understand this is your webinar on our technology, therefore our logo image is designed to be unobtrusive to your viewers, while verifying the use of our software platform.\n\n#### **Is WebinarJam GDPR compliant?**\n\nWebinarJam/EverWebinar have always made security and privacy among its highest priorities.\n\nWe're committed not only to provide tools to facilitate your compliance with the GDPR, but to educate you on your responsibilities as a business owner.\n\nAs the GDPR's scope is broad, and the potential penalties for noncompliance are large, we've ensured that our tools are available to all levels of our customer subscriptions at no additional cost.\n\nBelow, you can read some of the key GDPR principles and terms, and how they apply to your use of WebinarJam/EverWebinar:\n\n[**https://home.webinarjam.com/gdprpolicy**](https://home.webinarjam.com/gdprpolicy)\n\n#### **Is WebinarJam HIPAA compliant?**\n\nWebinarJam is HIPAA compliant at no additional cost. Rest assured that your private information will always be protected! \u00a0If you require additional information, feel free to reach out to our legal team at: [**legal@genesisdigital.co**](mailto:legal@genesisdigital.co)\n\n#### **What translations are offered in WebinarJam?**\n\nBonjour se\u00f1or, noi avem molti languages in WebinarJam (translation: Hi Sir, we have many languages in WebinarJam \u2014 using French, Spanish, Romanian and Italian respectively). In fact, WebinarJam can be completely translated, including all buttons and attendee instructions, to the following languages:\n\n*   Arabic\n*   Brazilian\n*   Bulgarian\n*   Chinese\n*   Czech\n*   Danish\n*   Dutch\n*   English\n*   Finnish\n*   French\n*   German\n*   Greek\n*   Hungarian\n*   Italian\n*   Japanese\n*   Latvian\n*   Lithuanian\n*   Norwegian\n*   Polish\n*   Portuguese\n*   Romanian\n*   Russian\n*   Slovak\n*   Slovenian\n*   Spanish\n*   Swedish\n*   Turkish\n*   Ukrainian\n*   Vietnamese\n\nAdditionally, our system does not currently support Right-to-Left writing.\n\nDo you speak any language other than English that isn't on the list?\n\nIf you want to give us a hand in translating additional languages, just let us know!\n\nWe would HIGHLY appreciate it, and it will make the WebinarJam experience far better to our members and your webinar attendees.\n\n#### **Does WebinarJam integrate with other software?**\n\nWebinarJam integrates with Kartra, AWeber, ActiveCampaign, Keap, iContact, GetResponse, MailChimp, Ontraport, ConvertKit, Drip, Maropost, Constant Contact, Twilio, and Zapier (which contains 750+ integrated apps). You can also integrate with any bulk SMTP provider.\n\nThere are also a handful of other SAAS companies that integrate with us, such as ClickFunnels and LeadPages.\n\n#### **What If there\u2019s a Tech Issue, do you have a \u201cPanic Button\u201d to instantly help me?\u200b**\n\nSometimes tech issues happen... now you have an escape plan! Introducing the life-saving Panic Button!\n\nIf you detect that something is not quite running the way it should, simply click the button! The system will immediately boot up a brand new live room and automatically transfer all presenters and attendees into it. Within 10 to 15 seconds, everybody will be ready to resume the broadcast where you left it.\n\n#### **Is the Real-Time Chat Feature included at no additional cost?\u200b**\n\nYES! Real-Time Chat is included with any WebinarJam account. It is already integrated into your system and can be further configured from your account dashboard.\n\n#### **Can I install WebinarJam on my website? And can I have a live webinar session on my website?**\n\nYou can embed the WebinarJam registration button on your website (which we highly recommend you do), including Wordpress and Membership sites.\n\nHowever, while you can add WebinarJam registration to any site you want (well, that you have access to), you cannot install the actual WebinarJam live stream to your website.\n\nOne workaround is if your recording is going to YouTube, you can embed the YouTube video on your own page. Please note that this will not include chat and other unique aspects of the WebinarJam interface.\n\n#### **Can I add presenters or moderators?\u200b**\n\nYES! Bring people from the audience to the stage. You may give anyone in your audience presenter rights \u00a0or simply allow them to participate in the live session: speak, share their screen, run a powerpoint presentation and more. And, once they are done, simply switch their role back to attendee-only mode.\n\n#### **What is a One-Click Registration Hotlink?\u200b**\n\nThe One-Click Registration Hotlink is an advanced (and super convenient) way to allow people who are already on your autoresponder mailing list to click one link to get quickly registered for your webinar.\n\n#### **What forms of payment do you accept?\u200b**\n\nVisa, MasterCard, and American Express.\n\n#### **Can I charge for a webinar?**\n\n#### **Can the viewer tell if EverWebinar is live or recorded?**\n\nIs it LIVE or is it EverWebinar? Our simulated events look just like LIVE WebinarJam webinars from landing page to Live Room. It is impossible for anyone, even the creators of EverWebinar to tell if it is a live webinar.\n\n#### **Can I use EverWebinar without WebinarJam?**\n\nYou sure can (although we\u2019re not sure why you\u2019d want to...WebinarJam is the bee\u2019s knees and works amazingly well with EverWebinar).\n\nWhile WebinarJam owners can enjoy the convenience of being able to quickly import their WebinarJam sessions into EverWebinar, EverWebinar is designed to convert almost any video into an automated webinar.\n\nSo the Webinar you created on another software program, the slideshow presentation you videotaped, whatever it is... if you have it on YouTube, Vimeo, S3 or a handful of other hosting sites, you can convert that video into an automated webinar, and EverWebinar will allow you to add chat, offers, polls, and more.\n\n#### **How can I cancel my subscription or update my credit card?\u200b**\n\nIf you want to cancel your subscription (not sure why you\u2019d want to) or update a credit card, please [submit a ticket](https://home.webinarjam.com/contact) and choose Basic Account Information (billing, changes, refunds). \u00a0Be sure to include the product, order number, and your full name and email address, as well as all the information you have that may help us meet your needs faster!\n\n#### **Can I blend screen sharing, web camera, and pre-recorded videos into a single webinar?\u200b**\n\nYES! When broadcasting, you can share the desktop of your computer, a single app on your computer, playback multiple videos, or use our Slides in the Cloud feature to run a slideshow presentation. You can also share the signal from your WebCam solo, or while SIMULTANEOUSLY sharing your screen or presentation (commonly known as Picture-in-Picture). There are simple controls in the User Interface that let you switch between display modes.\n\n#### **Can I use WebinarJam for small meetings effectively?\u200b**\n\nYES! With up to SIX presenters sharing the screen at the same time, conducting pre-scheduled meetings is fast and easy. For \"Meetings-on-the-fly\", you can use ExpressJam and be broadcasting in less than 30 seconds. Plus, if your meeting has more than 6 participants, they can listen in and see the meeting, and add contribution via WebinarJam Chat. Plus, with Attendee Spotlight, you can bring non-presenters into the on-air meeting with the click of a mouse.\n\n#### **Can I get my \u201cOwn Room\u201d that\u2019s always on anytime I want?\u200b**\n\nYes you can! If you or your company conduct recurring live sessions, you will love our Always-On room feature! \u00a0First of all, the URL is branded with your company name, plus the link never changes, so it's easy to remember and pass around.\n\nMoreover, we reserve the room and keep it open 24/7 for you to log in at any moment's notice. Nothing to configure, nothing to prepare. Just log into your branded room, click the \"Go Live\" button, and you're on air!\n\n#### **Compared to most other webinar services, your prices are low. What enables you to consistently offer this service at such a reasonable cost?**\n\nThat\u2019s a GREAT question! Plus, thanks for noticing how EXPENSIVE our competitors actually are. Our perspective is pretty simple - the most expensive cost of a Webinar Broadcast is the VIDEO BANDWIDTH that's used to send your signal around the world. And just a few years ago, our current price would have NOT been possible. But, as the Bandwidth industry evolved, so did Bandwidth prices. Where Video Bandwidth was once a premium commodity, it's now priced closer to a Utility. Our prices reflect that evolution. Everything we do is at the highest level possible. We use great, powerful auto-scaling server technology, enterprise class email sending, and work with technology that's on the cutting edge of performance, while taking into consideration that it needs to work flawlessly for a vast group of Webinar-Givers. No, we don't cut corners. We maximize value.\n\n#### **Can I use my WebinarJam session in EverWebinar?**\n\nYES! \u00a0You ran a super successful WebinarJam session, and now you\u2019re ready to import it into EverWebinar. Simply select your WebinarJam session and we will magically do all the work for you inside EverWebinar. \u00a0It\u2019s that FAST!\n\n#### **Can I easily create automated marketing and webinar campaigns?**\n\nYes! Fully automate your marketing funnels: Easily create automated marketing webinar campaigns with the click of a button. Owners of WebinarJam can easily import a webinar from your past live webinars with 1 click. Or you can build a custom webinar in minutes.\n\n#### **What external video sources can I use with EverWebinar?**\n\nHave a webinar or video that wasn\u2019t shot on the WebinarJam platform? No biggie. We accept files from Youtube, Vimeo Standard (and any higher plans), Amazon S3, and a few other miscellaneous hosting sites. Using one of the above, you can convert your video into an automated webinar.\n\n#### **How do I make pre-recorded webinars feel live without WebinarJam?**\n\nIt\u2019s shockingly simple (and pretty fun to do). Just add built-in social triggers and interactions such as chat and polls, as well as offers to your automated webinar. Also, set up a schedule so attendees have to register for your event just like they would for a live webinar. By creating a simulated experience to appear like a live webinar, you will increase engagement and increase conversions.\n\n#### **How can I make an EverWebinar really be a live webinar?**\n\nThis is why you have a control panel login to your EverWebinars. With that control panel open in a browser, you will be notified of any live chats in your running EverWebinars. That way you can chat live with any attendees. This makes your webinars defacto live!\n\n#### **Will WebinarJam and EverWebinar send text messages and emails for me?**\n\nEmail & SMS Reminders: Send before & after the promotion emails. You can schedule as many emails as you want to have your registrants see the replay, You can even segment emails by those who did not show or did show but left early. SMS Text and Phone call reminders are easy to set up too.\n\n#### **Can I use my own landing pages or from another software provider?**\n\nYES! Use your own landing pages with our easy to add Register buttons you can Copy/Paste onto your own website.\n\nThe world's most powerful webinar software",
+      "error": null,
+      "pricing_data": {
+        "app_id": "webinarjam_everwebinar",
+        "app_name": "WebinarJam / EverWebinar",
+        "app_slug": "webinarjam-everwebinar",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing details are inferred from subscription levels and features.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic",
+            "tier_description": "Entry-level subscription for smaller webinars.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Host webinars with up to 100 attendees",
+              "Webinars up to 1 hour long"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Attendees per webinar",
+                  "value": 100
+                },
+                {
+                  "name": "Webinar duration",
+                  "value": "1 hour"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Professional",
+            "tier_description": "Advanced subscription for medium-sized webinars.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Host webinars with up to 500 attendees",
+              "Webinars up to 2 hours long"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Attendees per webinar",
+                  "value": 500
+                },
+                {
+                  "name": "Webinar duration",
+                  "value": "2 hours"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Premium subscription for large-scale webinars.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Host webinars with up to 2000 attendees",
+              "Webinars up to 3 hours long"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Attendees per webinar",
+                  "value": 2000
+                },
+                {
+                  "name": "Webinar duration",
+                  "value": "3 hours"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Ultimate",
+            "tier_description": "Top-tier subscription for the largest webinars.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Host webinars with up to 5000 attendees",
+              "Webinars up to 4 hours long"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Attendees per webinar",
+                  "value": 5000
+                },
+                {
+                  "name": "Webinar duration",
+                  "value": "4 hours"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T04:54:35.180082",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\webinarjam\\20250415_045435"
+}

@@ -1,0 +1,12 @@
+{
+  "app_name": "zcal",
+  "app_slug": "zcal",
+  "search_term": "Find the official pricing page URL for zcal (zcal.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744690535.827234,
+  "response_text": [
+    "I could not find a direct link to an official pricing page for zcal on zcal.com. It seems the website might not currently provide this information publicly. Let me know if you'd like help with anything else!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\zcal\\20250415_001536"
+}

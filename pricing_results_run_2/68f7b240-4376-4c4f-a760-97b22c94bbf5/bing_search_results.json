@@ -1,0 +1,190 @@
+{
+  "app_name": "Manychat",
+  "app_slug": "manychat",
+  "search_term": "Find the official pricing page URL for Manychat (manychat.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725482.9163816,
+  "response_text": [
+    "The official Manychat pricing page URL is:\n\n[https://manychat.com/pricing](https://manychat.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing Info from Free to Pro | Manychat",
+      "url": "https://manychat.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://manychat.com/pricing",
+      "is_accessible": true,
+      "content": "En\nPt\n\u2193\nChoose a Manychat plan that\u2019s right for you\nFree\nGet started with access to Manychat basic features to engage up to 1,000 contacts FREE OF CHARGE:\n$0 / mo\nGet started\n\u00a0\n\nNo credit card, or charge card, required!\n\nPro\nGrow your business with access to\u00a0all advanced Pro features, starting at\u00a0a\u00a0cost\u00a0of:\n$15 / mo\nBecome pro\n\n*scales with number of contacts\n\nElite\nCustomize your Manychat experience to meet (and exceed) your ambitious business goals.\nCustom\nLet's chat\n\n*customized to fit your needs\n\nChannel Access:\nInstagram Direct Messages\nFacebook Messenger\nTikTok (Beta)\nChannel Access:\nInstagram Direct Messages\nFacebook Messenger\nWhatsApp\nSMS & Email\nTikTok (Beta)\nChannel Access:\nInstagram Direct Messages\nFacebook Messenger\nWhatsApp\nSMS & Email\nTikTok (Beta)\nKey features:\nAutomate conversations. Unlimited custom flows to engage up to 1,000 contacts\u00a0\u00a0\u00a0\nAcquire new customers. Access basic Growth Tools to drive leads to your automation\nSegment your contacts. 10 customer Tags\nEverything in Free, plus:\nEngage unlimited contacts. Scaled pricing based on contacts\nExpand customer reach. Unlimited Growth Tools and Keywords\nBuild advanced campaigns. Unlimited Tags, Custom Fields, & advanced Segments\nOptimize performance. Manychat Analytics & Insights tools\nSave time. Integrations with tools you already use\nMake it your own. No Manychat branding\nEmail support, anytime\nEverything in Pro, plus:\nDedicated onboarding for you and your team from our experts to get you up and running successfully\nStrategic recommendations from your dedicated CSM\nPriority support for technical questions\nGuided experience to help you meet your business goals\nAccess to expert crafted automations\nSmarter automations.\u00a0Better conversations\n\nBrand new AI features are now available in Pro and Elite plans. Manychat AI presents:\n\nIntention Recognition\n\nBy automatically recognizing intent of a message, it offers relevant and more accurate responses as compared to using Keywords.\n\nAI Step\n\nAI Steps in automations are scripted sets of AI-driven questions and responses for common cases like qualifying leads or sharing offers.\n\nText Improver\n\nImprove Copy on any message you\u2019ve written across your automations by letting Manychat AI offer text improvements.\n\nFlow Builder Assistant\n\nReceive comprehensive, unlimited assistance in creating powerful, automations for your needs.\n\nCalculate the Cost and Billing of Your Monthly Plan\nPro plans are billed monthly according to the size of your contact list\nHow many contacts do you expect to engage?\nmax\n=\n$0\nFree\n$15\nPro\n500\n50k\n200k\n500k\n1m\n2m\nView all Pro pricing tiers\nCompare Plans\nand Pricing Info\nStart for Free\nNo credit card required!\nGet Pro\nStarts at $15/mo.\nGet Elite\nFeatures\nBuild custom chatbot flows\u00a0\u00a0\u00a0\tUnlimited\tUnlimited\tUnlimited\nSegment your contacts with customer Tags\u00a0\u00a0\u00a0\t10 Tags\tUnlimited\tUnlimited\nRun automated drip Sequences\t2 Sequences\tUnlimited\tUnlimited\nTeam member seats for collaboration\u00a0\u00a0\u00a0\t1 Team Member\t3 Team Members\tUnlimited\nCreate custom Keyword triggers\t3 Keywords\tUnlimited\tUnlimited\nCreate Non-Keyword triggers\t4 Triggers\tUnlimited\tUnlimited\nLive Chat for Messenger, Instagram DM, and SMS\u00a0\u00a0\u00a0\t\t\t\nAccess quick campaign template by industry\t\t\t\nOne tap contact data collection\u00a0\u00a0\u00a0\t\t\t\nOptimize efficiency with A/B testing\t\t\t\nManychat branding on Email, SMS, and website widgets\t\u201cPowered by Manychat\u201d\tNo Branding\tNo Branding\nFull Comparison table\nQuestions or Manychat plan information and pricing info\nWhat does Manychat AI include?\nWho is Manychat AI for?\nHow much does Manychat AI cost?\nHow do I upgrade to the next tier of Pro?\nAre there additional charges for WhatsApp?\nHow Does Email and SMS Pricing Work?\nCan I cancel my payment plan options at any time?\nWhat payment forms do you accept?\nWhat is your refund policy for billing?\nTry Manychat for free\n\nTransform more conversations into sales, leads, and\u00a0conversions today\n\nGET STARTED\nGET STARTED\nGET STARTED\nMANYCHAT\nAbout\nCareers\nPrivacy & Security\nAGENCIES\nHire an Agency\nJoin the Affiliate Program\nPRODUCT\nMessenger\nInstagram\nManychat AI\nSMS Marketing\nIntegrations\nFor eCommerce\nChangelog\nPricing\nRESOURCES\nStatus Page\nHelp Center\nCommunity\nVideo Course\nHow To\nBlog\nPrivacy Settings\n\u00a92025, MANYCHAT, INC.\nPRIVACY POLICY\nTERMS OF SERVICE\n\nCompare Manychat Free and Pro versions, get pricing info, and find the right plan for you. Build a Messenger Marketing funnel that grows your business.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "manychat",
+        "app_name": "Manychat",
+        "app_slug": "manychat",
+        "pricing_url": "https://manychat.com/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://manychat.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pro plan pricing scales with the number of contacts.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Access to Manychat basic features to engage up to 1,000 contacts.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Automate conversations with unlimited custom flows.",
+              "Access basic Growth Tools.",
+              "Segment contacts with 10 customer Tags."
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Contacts",
+                  "value": 1000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Access to all advanced Pro features.",
+            "monthly_price": 15.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Engage unlimited contacts.",
+              "Unlimited Growth Tools and Keywords.",
+              "Unlimited Tags, Custom Fields, & advanced Segments.",
+              "Manychat Analytics & Insights tools.",
+              "No Manychat branding.",
+              "Email support anytime."
+            ],
+            "limits": {
+              "users": 3,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Contacts",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Elite",
+            "tier_description": "Customized plan for ambitious business goals.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Dedicated onboarding.",
+              "Strategic recommendations.",
+              "Priority support.",
+              "Guided experience.",
+              "Access to expert crafted automations."
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Contacts",
+                  "value": "custom"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Contacts",
+            "unit": "per contact",
+            "base_price": 15.0,
+            "tiers": [
+              {
+                "min": 500.0,
+                "max": 50000.0,
+                "price": 15.0
+              },
+              {
+                "min": 50001.0,
+                "max": 200000.0,
+                "price": null
+              },
+              {
+                "min": 200001.0,
+                "max": 500000.0,
+                "price": null
+              },
+              {
+                "min": 500001.0,
+                "max": 1000000.0,
+                "price": null
+              },
+              {
+                "min": 1000001.0,
+                "max": 2000000.0,
+                "price": null
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": true
+        },
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "WhatsApp",
+            "fee_amount": null,
+            "fee_description": "Additional charges for WhatsApp usage."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T09:58:17.578032",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\manychat\\20250415_095817"
+}

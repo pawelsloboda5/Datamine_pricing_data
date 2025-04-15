@@ -1,0 +1,125 @@
+{
+  "app_name": "Coassemble",
+  "app_slug": "coassemble",
+  "search_term": "Find the official pricing page URL for Coassemble (coassemble.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744722995.848885,
+  "response_text": [
+    "The official pricing page for Coassemble can be found here: [https://coassemble.com/pricing](https://coassemble.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Coassemble",
+      "url": "https://coassemble.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://coassemble.com/pricing",
+      "is_accessible": true,
+      "content": "[](https://coassemble.com/)\n\n*   [Pricing](https://coassemble.com/pricing)\n\nPlans & pricing\n\nFree\n\nFor everyone$0forever\n\n[Get started](https://coassemble.com/build)\n\n* * *\n\nFree features you\u2019ll love\n\n*   Unlimited courses\n*   Unlimited AI create options\n\nSolo\n\nL&D, HR, Consultants, Course Sellers and Educators$10per month (billed yearly at $120)\n\nBilled monthly Billed yearly Save 50%\n\n[Upgrade](https://coassemble.com/signin)\n\n* * *\n\nAll Free features, and\n\n*   Remove all Coassemble branding\n*   Payment links (3% application fee + [Stripe transaction fees](https://stripe.com/pricing))\n\nTeam\n\nHR, operations and customer service teams$15per month (billed yearly at $180)\n\nBilled monthly Billed yearly Save 50%\n\n[Upgrade](https://coassemble.com/signin)\n\n* * *\n\nAll Solo features, and\n\n*   3 Creators\n*   Payment links (2% application fee + [Stripe transaction fees](https://stripe.com/pricing))\n*   Course folders\n*   Individual insights\n\nBusiness\n\nHR, Product, CS and Marketing teams with mid sized business$25per month (billed yearly at $300)\n\nBilled monthly Billed yearly Save 50%\n\n[Upgrade](https://coassemble.com/signin)\n\n* * *\n\nAll Team features, and\n\n*   10 Creators\n*   Payment links (1% application fee + [Stripe transaction fees](https://stripe.com/pricing))\n*   SCORM Reports\n*   Multi-domain SCORM hosting\n*   Custom logos on courses\n*   Headless\n*   Collections\n\nTransform your training with AI\n-------------------------------\n\n*   Convert your documents to interactive courses\n*   Generate a course about your topic\n*   Have a quiz generated for your course\n*   Match images with your content\n\n[Create course](https://coassemble.com/build)\n\n![Image 1: A Coassemble course and examples of documents you could convert them from](https://cdn.builder.io/api/v1/image/assets%2Fae2bcbb14955497d87d43464ee6b86ed%2Fac07a0e00344430084735a8493cc3c2e?width=3200&height=1600&format=webp&quality=90)\n\nThings you might be wondering\n\n![Image 2: Transform your training with AI](https://cdn.builder.io/api/v1/image/assets%2Fae2bcbb14955497d87d43464ee6b86ed%2F2ff29f295bfb475ca4fdc6df80e78a79?width=3200&height=1600&format=webp&quality=90) 4,000,000+ Happy learners \u2764\ufe0f\n\n7,000+ Companies trusted us so far \ud83e\udd1d\n\nEngage your team, customers, partners, students, anybody who needs to learn something.\n\n4.7 Rating\n\nStart creating today!\n\n*   Create unlimited courses\n*   Give unlimited access\n*   Share anywehre\n*   Make learners happy\n*   Be proud\n\nEnter some text...\n\nThe best online course creation tool with plans that suit you and your teams needs, including free, business and enterprise plans.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "coassemble",
+        "app_name": "Coassemble",
+        "app_slug": "coassemble",
+        "pricing_url": "https://coassemble.com/pricing",
+        "source_url": "https://coassemble.com/",
+        "all_pricing_urls": [
+          "https://coassemble.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Annual billing offers a 50% discount compared to monthly billing.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "For everyone",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited courses",
+              "Unlimited AI create options"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Solo",
+            "tier_description": "L&D, HR, Consultants, Course Sellers and Educators",
+            "monthly_price": 10.0,
+            "annual_price": 120.0,
+            "annual_discount_percentage": 50.0,
+            "setup_fee": null,
+            "features": [
+              "All Free features",
+              "Remove all Coassemble branding",
+              "Payment links (3% application fee + Stripe transaction fees)"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Team",
+            "tier_description": "HR, operations and customer service teams",
+            "monthly_price": 15.0,
+            "annual_price": 180.0,
+            "annual_discount_percentage": 50.0,
+            "setup_fee": null,
+            "features": [
+              "All Solo features",
+              "3 Creators",
+              "Payment links (2% application fee + Stripe transaction fees)",
+              "Course folders",
+              "Individual insights"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "HR, Product, CS and Marketing teams with mid sized business",
+            "monthly_price": 25.0,
+            "annual_price": 300.0,
+            "annual_discount_percentage": 50.0,
+            "setup_fee": null,
+            "features": [
+              "All Team features",
+              "10 Creators",
+              "Payment links (1% application fee + Stripe transaction fees)",
+              "SCORM Reports",
+              "Multi-domain SCORM hosting",
+              "Custom logos on courses",
+              "Headless",
+              "Collections"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Application Fee for Payment Links",
+            "fee_amount": null,
+            "fee_description": "3% for Solo, 2% for Team, 1% for Business tiers."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T09:16:54.975996",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\coassemble\\20250415_091655"
+}

@@ -1,0 +1,187 @@
+{
+  "app_id": "certifier",
+  "app_name": "Certifier",
+  "app_slug": "certifier",
+  "pricing_url": "https://certifier.io/pricing",
+  "source_url": "https://certifier.io/pricing",
+  "all_pricing_urls": [
+    "https://certifier.io/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 15% discount compared to monthly billing. Additional features and customizations are available as add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Begin your credentialing journey with a reliable solution and essential tools.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Templates library",
+        "Certificate & badge editor",
+        "Mass issuing & delivery",
+        "PDF certificate export",
+        "Social media sharing",
+        "LinkedIn credentials",
+        "Verifiable certificates/badges",
+        "API & Integrations"
+      ],
+      "limits": {
+        "users": "1",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "For small companies looking for professional branded experience & data insights.",
+      "monthly_price": 129.0,
+      "annual_price": 110.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Every Starter feature",
+        "Branded emails",
+        "Scheduled issuing",
+        "Expirable credentials",
+        "Advanced analytics",
+        "QR codes verification",
+        "Custom email sender",
+        "Premium branding (Add-on)",
+        "Verified status (Add-on)"
+      ],
+      "limits": {
+        "users": "3",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "For medium and large enterprises requiring advanced customization & tailored approach.",
+      "monthly_price": 399.0,
+      "annual_price": 339.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Every Professional feature",
+        "7 custom users with roles",
+        "Custom fonts",
+        "Premium branding",
+        "Custom domain",
+        "Credentials Portal",
+        "Verified issuer status",
+        "Dedicated account manager",
+        "Premium customer support",
+        "Multiple workspaces (Add-on)"
+      ],
+      "limits": {
+        "users": "7",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan tailored to organizational needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom credential limit",
+        "Custom integrations",
+        "Custom SLAs, Terms & DPA",
+        "Custom users and workspaces",
+        "API & integrations support",
+        "Advanced automations",
+        "Tailored implementation plan",
+        "Custom whitelabeling",
+        "1:1 Dedicated Account Manager"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Discount",
+      "offer_description": "15% discount for annual billing.",
+      "discount_percentage": 15.0,
+      "offer_url": "https://certifier.io/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Premium branding",
+      "fee_amount": 49.0,
+      "fee_description": "Add-on for branded recipient view."
+    },
+    {
+      "fee_name": "Custom domain",
+      "fee_amount": 99.0,
+      "fee_description": "Add-on for custom domain."
+    },
+    {
+      "fee_name": "Premium support package",
+      "fee_amount": 49.0,
+      "fee_description": "Add-on for premium support."
+    },
+    {
+      "fee_name": "Premium onboarding package",
+      "fee_amount": 499.0,
+      "fee_description": "Add-on for premium onboarding."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:26:32.660348",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5ced98b1-040b-4777-9338-8088cf526b4f",
+    "name": "Certifier",
+    "slug": "certifier",
+    "description": "Certifier is a professional certificate-making tool that enables you to issue, manage, and track certificates and badges.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ceda131e2512a668f6cd343f7f039e58.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

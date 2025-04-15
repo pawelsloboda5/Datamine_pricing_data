@@ -1,0 +1,55 @@
+{
+  "app_id": "whatconverts",
+  "app_name": "WhatConverts",
+  "app_slug": "whatconverts",
+  "pricing_url": "https://www.whatconverts.com/pricing",
+  "source_url": "https://www.whatconverts.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.whatconverts.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are calculated based on monthly leads and specific features required.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Monthly leads generated",
+      "unit": "per lead",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:28:09.475009",
+  "schema_validated": true,
+  "confidence_score": 70,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "23c37cfd-7df3-4df6-ae84-4ee3f4a3aab3",
+    "name": "WhatConverts",
+    "slug": "whatconverts",
+    "description": "WhatConverts tracks what marketing channels generate conversions from phone calls, web forms, chat, and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ca8763a76b92c013b3348e2e949ffe06.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 1
+  }
+}

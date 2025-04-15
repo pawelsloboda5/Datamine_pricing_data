@@ -1,0 +1,43 @@
+{
+  "app_id": "splash",
+  "app_name": "Splash",
+  "app_slug": "splash",
+  "pricing_url": null,
+  "source_url": "https://splashthat.com/platform-pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "No pricing information was found in the provided content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:04:30.216678",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "f54f857b-5867-454a-aceb-93aba3dd69a9",
+    "name": "Splash",
+    "slug": "splash",
+    "description": "Splash is an event marketing automation platform that empowers brands to efficiently scale event programs, reach and connect with target audiences in-person, and connect event-driven engagement to business results.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/f0c44d3b463f99d8248e6f42ca51b916.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 4
+  }
+}

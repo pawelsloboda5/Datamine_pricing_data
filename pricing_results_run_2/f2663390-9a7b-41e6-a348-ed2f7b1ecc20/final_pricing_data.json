@@ -1,0 +1,163 @@
+{
+  "app_id": "humanitix",
+  "app_name": "Humanitix",
+  "app_slug": "humanitix",
+  "pricing_url": "https://humanitix.com/pricing",
+  "source_url": "https://humanitix.com/us/pricing",
+  "all_pricing_urls": [
+    "https://humanitix.com/pricing"
+  ],
+  "price_model_type": [
+    "usage_based",
+    "free_tier",
+    "custom"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Humanitix offers a free tier for free events and usage-based pricing for paid tickets.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Events",
+      "tier_description": "For events with no ticket fees.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to all features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "For paid tickets.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to all features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Charities & Schools",
+      "tier_description": "Discounted pricing for charities and schools.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to all features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Custom pricing for large-scale events.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to all features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Paid Ticket Fees",
+      "unit": "per ticket",
+      "base_price": 0.99,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 2.1
+        }
+      ]
+    },
+    {
+      "metric_name": "Payment Processing",
+      "unit": "per transaction",
+      "base_price": 0.3,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 2.9
+        }
+      ]
+    },
+    {
+      "metric_name": "Charities & Schools Paid Ticket Fees",
+      "unit": "per ticket",
+      "base_price": 0.99,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 1.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:29:07.209670",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f2663390-9a7b-41e6-a348-ed2f7b1ecc20",
+    "name": "Humanitix",
+    "slug": "humanitix",
+    "description": "Humanitix is a not-for-profit ticketing platform, in which all booking fees are donated to a charity of the event organiser's choice.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d8b0fe7a2e2d67085efcd11f4697d7d2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 4
+  }
+}

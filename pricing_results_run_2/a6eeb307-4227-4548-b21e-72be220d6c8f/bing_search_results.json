@@ -1,0 +1,24 @@
+{
+  "app_name": "Benchmark Email",
+  "app_slug": "benchmark-email",
+  "search_term": "Find the official pricing page URL for Benchmark Email (benchmark-email.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744716917.848168,
+  "response_text": [
+    "The official pricing page URL for Benchmark Email can be found here: [https://www.benchmarkemail.com/pricing](https://www.benchmarkemail.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "benchmark-email.com - Login",
+      "url": "https://benchmark-email.com/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.benchmarkemail.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\benchmark-email\\20250415_073534"
+}

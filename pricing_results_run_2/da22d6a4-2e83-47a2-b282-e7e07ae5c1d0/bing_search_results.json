@@ -1,0 +1,24 @@
+{
+  "app_name": "Demio",
+  "app_slug": "demio",
+  "search_term": "Find the official pricing page URL for Demio (demio.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744726557.6899147,
+  "response_text": [
+    "The official URL for the Demio pricing page is: [https://www.demio.com/pricing](https://www.demio.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | Demio",
+      "url": "https://www.demio.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.demio.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\demio\\20250415_101613"
+}

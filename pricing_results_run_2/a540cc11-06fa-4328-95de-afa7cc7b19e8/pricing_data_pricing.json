@@ -1,0 +1,137 @@
+{
+  "app_id": "quickbase",
+  "app_name": "Quickbase",
+  "app_slug": "quickbase",
+  "pricing_url": "https://www.quickbase.com/pricing",
+  "source_url": "https://www.quickbase.com/pricing",
+  "all_pricing_urls": [
+    "https://www.quickbase.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription-based and usage-based options. Enhanced services are available at additional costs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Trial",
+      "tier_description": "Free trial for 30 days.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All business features"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Make teamwork faster, easier & more secure.",
+      "monthly_price": 35.0,
+      "annual_price": 420.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Personalized dashboards & 13+ report types",
+        "Communication & file management integrations",
+        "Workflow automation",
+        "User & data security controls",
+        "Data encryption",
+        "Audit logs",
+        "Team Enhanced Services"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Connect people and tools effortlessly.",
+      "monthly_price": 55.0,
+      "annual_price": 660.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Team features",
+        "Single sign-on & SCIM provisioning",
+        "Point solution & workflow enhancement channels",
+        "External collaboration tools",
+        "Gantt charts",
+        "Sandbox",
+        "FDA & HIPAA compliance",
+        "Business Enhanced Services"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Optimize operations across your entire organization.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Team & Business features",
+        "Advanced performance tools",
+        "Advanced data encryption",
+        "On-prem connectivity & data warehouse integrations",
+        "Advanced security controls",
+        "Governance APIs",
+        "AI-powered sensitive data scanning",
+        "Enterprise Enhanced Services"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Users",
+      "unit": "per user",
+      "base_price": 35.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Reads",
+      "unit": "per read",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Enhanced Services",
+      "fee_amount": null,
+      "fee_description": "Recurring Enhanced Services available at additional costs."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:04:54.038040",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a540cc11-06fa-4328-95de-afa7cc7b19e8",
+    "name": "Quickbase",
+    "slug": "quickbase",
+    "description": "Quickbase makes it easy to create custom applications and workflows to streamline processes, with IT visibility and control.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/1306b737007a5f0cf96df424803ab967.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Databases"
+    ],
+    "category_slugs": [
+      "databases"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 6,
+    "trigger_count": 0
+  }
+}

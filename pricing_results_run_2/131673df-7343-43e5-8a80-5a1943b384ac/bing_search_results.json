@@ -1,0 +1,46 @@
+{
+  "app_name": "Roam Research",
+  "app_slug": "roam-research",
+  "search_term": "Find the official pricing page URL for Roam Research (roam-research.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725221.388156,
+  "response_text": [
+    "The official pricing page for Roam Research is: [https://roamresearch.com/#/app/help/page/3w6r67Kba](https://roamresearch.com/#/app/help/page/3w6r67Kba) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://roamresearch.com/#/app/help/page/3w6r67Kba",
+      "is_accessible": true,
+      "content": "Roam Research \u2013 A note taking tool for networked thought.\n===============\n\nAs easy to use as a word document or bulleted list, and as powerful for finding, collecting, and connecting related ideas as a graph database. Collaborate with others in real time, or store all your data locally.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "roam_research",
+        "app_name": "Roam Research",
+        "app_slug": "roam-research",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": null,
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:53:44.704792",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\roam-research\\20250415_095344"
+}

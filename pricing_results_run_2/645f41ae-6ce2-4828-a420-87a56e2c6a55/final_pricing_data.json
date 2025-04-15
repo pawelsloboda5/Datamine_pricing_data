@@ -1,0 +1,80 @@
+{
+  "app_id": "memberspace",
+  "app_name": "MemberSpace",
+  "app_slug": "memberspace",
+  "pricing_url": "https://www.memberspace.com/pricing",
+  "source_url": "https://www.memberspace.com/pricing",
+  "all_pricing_urls": [
+    "https://www.memberspace.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free trial period and a fee per sale.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Trial",
+      "tier_description": "Free for two weeks.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free trial for two weeks"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Pay Per Sale",
+      "tier_description": "Only pay a small fee when you make a sale.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Fee per sale"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "sales",
+      "unit": "per sale",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:02:31.538262",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "645f41ae-6ce2-4828-a420-87a56e2c6a55",
+    "name": "MemberSpace",
+    "slug": "memberspace",
+    "description": "MemberSpace allows you to turn any part of your website into members-only with just a few clicks.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/72118491e754a863994067d9ccf63b2e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 3
+  }
+}

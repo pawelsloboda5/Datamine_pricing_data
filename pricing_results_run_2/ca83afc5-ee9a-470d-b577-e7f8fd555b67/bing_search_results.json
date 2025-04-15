@@ -1,0 +1,324 @@
+{
+  "app_name": "Slack",
+  "app_slug": "slack",
+  "search_term": "Find the official pricing page URL for Slack (slack.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688790.8297894,
+  "response_text": [
+    "The official pricing page URL for Slack is: [https://slack.com/pricing](https://slack.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | Slack",
+      "url": "https://slack.com/intl/en-gb/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://slack.com/pricing",
+      "is_accessible": true,
+      "content": "### Free\n\nThe quickest and easiest way to try Slack\n\n### $0 USD/mofree forever\n\n90 days of message history\n\nEvery message sent in Slack is saved for 90 days and fully searchable. Upgrade to a paid plan to access the previous 12 months of messages, files, and additional data retention settings.\n\n10 app integrations\n\nApp integrations are installed apps you can access from within Slack (like Google Drive or Office 365).\n\n1:1 audio and video meetings\n\nWork in real time with one person through audio and video meetings (including screen sharing) using Slack huddles.\n\n1:1 messages with people outside your organization\n\nSecurely work alongside people outside of your company through one-on-one direct messages using Slack Connect.\n\n1 workspace\n\nLike a virtual office, a workspace is where work happens in Slack. All your channels, direct messages and tools live in your workspace.\n\nUnlimited workflows\n\nCollaborate on lists and documents\n\nUser provisioning and deprovisioning\n\nSAML-based single sign-on\n\nData exports for all messages\n\nSupport for data loss prevention, e-discovery and offline backup providers\n\nHIPAA-compliant message and file collaboration\n\nBuilt-in employee directory\n\nBest value\n\n### Pro\n\nMore power for small teams who want better collaboration\n\n50% off for 3 months\\*\n\n### $8.75$4.38 USD/mo$7.25 USD per user / month, when paying annually\n\nper user / month, when paying monthly\n\nUnlimited message history\n\nEvery message, file and conversation shared in Slack is saved and fully searchable, so you can find what you need and get teammates up to speed faster.\n\nUnlimited app integrations\n\nApp integrations are installed apps you can access from within Slack (like Google Drive or Office 365).\n\nGroup audio and video meetings\n\nWork together in real time with up to 50 people through audio and video meetings (including screen sharing) using Slack huddles.\n\nGroup messages with people outside your organization\n\nSecurely work alongside people outside of your company using Slack Connect. Includes one-on-one direct messages, group messages, and dedicated channels with up to 250 organizations.\n\n1 workspace\n\nLike a virtual office, a workspace is where work happens in Slack. All your channels, direct messages and tools live in your workspace.\n\nUnlimited workflows\n\nAutomate routine tasks and processes right in Slack, no code needed. Workflows can be as simple or as complex as you\u2019d like, and can even be connected to other apps and tools you use to get work done.\n\nCollaborate on lists and documents\n\nCurate content including text, files, images, videos and more using Slack canvas. Manage projects and tasks using Slack lists.\n\nUser provisioning and deprovisioning\n\nSAML-based single sign-on\n\nData exports for all messages\n\nSupport for data loss prevention, e-discovery and offline backup providers\n\nHIPAA-compliant message and file collaboration\n\nBuilt-in employee directory\n\n### Business+\n\nScale your business, increase productivity, and keep your teams connected\n\n### $15 USD/mo$12.50 USD per user / month, when paying annually\n\nper user / month, when paying monthly\n\nUnlimited message history\n\nEvery message, file and conversation shared in Slack is saved and fully searchable, so you can find what you need and get teammates up to speed faster.\n\nUnlimited app integrations\n\nApp integrations are installed apps you can access from within Slack (like Google Drive or Office 365).\n\nGroup audio and video meetings\n\nWork together in real time with up to 50 people through audio and video meetings (including screen sharing) using Slack huddles.\n\nGroup messages with people outside your organization\n\nSecurely work alongside people outside of your company using Slack Connect. Includes one-on-one direct messages, group messages, and dedicated channels with up to 250 organizations.\n\n1 workspace\n\nLike a virtual office, a workspace is where work happens in Slack. All your channels, direct messages and tools live in your workspace.\n\nUnlimited workflows\n\nAutomate routine tasks and processes right in Slack, no code needed. Workflows can be as simple or as complex as you\u2019d like, and can even be connected to other apps and tools you use to get work done.\n\nCollaborate on lists and documents\n\nCurate content including text, files, images, videos and more using Slack canvas. Manage projects and tasks using Slack lists.\n\nUser provisioning and deprovisioning\n\nSlack supports member provisioning with the System for Cross-domain Identity Management (SCIM) standard. To use provisioning, you\u2019ll need to use a connector app alongside a supported identity provider.\n\nSAML-based single sign-on\n\nSAML-based single sign-on (SSO) gives access to Slack through an identity provider (IDP) of your choice. Some of the providers we work with are OneLogin, Ping, Microsoft Azure and Okta. Enterprise plans allows up to 12 SSO configurations.\n\nData exports for all messages\n\nSelf-serve data export tools permit exporting content from all channels and conversations. This includes private channels, direct messages, and all conversations that a single user is part of, as needed and permitted by law.\n\nSupport for data loss prevention, e-discovery and offline backup providers\n\nHIPAA-compliant message and file collaboration\n\nBuilt-in employee directory\n\n### Enterprise Grid\n\nMaximize performance and productivity at every level of your enterprise\n\n### Contact sales for pricing\n\nUnlimited message history\n\nEvery message, file and conversation shared in Slack is saved and fully searchable, so you can find what you need and get teammates up to speed faster.\n\nUnlimited app integrations\n\nApp integrations are installed apps you can access from within Slack (like Google Drive or Office 365).\n\nGroup audio and video meetings\n\nWork together in real time with up to 50 people through audio and video meetings (including screen sharing) using Slack huddles.\n\nGroup messages with people outside your organization\n\nSecurely work alongside people outside of your company using Slack Connect. Includes one-on-one direct messages, group messages, and dedicated channels with up to 250 organizations.\n\nUnlimited workspaces\n\nLike a virtual office, a workspace is where work happens in Slack. All your channels, direct messages and tools live in your workspace. Enterprise-level plans allow you to customize Slack to your business with unlimited workspaces.\n\nUnlimited workflows\n\nAutomate routine tasks and processes right in Slack, no code needed. Workflows can be as simple or as complex as you\u2019d like, and can even be connected to other apps and tools you use to get work done.\n\nCollaborate on lists and documents, including custom templates\n\nCurate content including text, files, images, videos and more using Slack canvas. Manage projects and tasks using Slack lists.\n\nUser provisioning and deprovisioning\n\nSlack supports member provisioning with the System for Cross-domain Identity Management (SCIM) standard. To use provisioning, you\u2019ll need to use a connector app alongside a supported identity provider.\n\nSupports multiple SAML configurations\n\nSAML-based single sign-on (SSO) gives access to Slack through an identity provider (IDP) of your choice. Some of the providers we work with are OneLogin, Ping, Microsoft Azure and Okta. Enterprise plans allows up to 12 SSO configurations.\n\nData exports for all messages\n\nSelf-serve data export tools permit exporting content from all channels and conversations. This includes private channels, direct messages, and all conversations that a single user is part of, as needed and permitted by law.\n\nSupport for data loss prevention, e-discovery and offline backup providers\n\nOur Discovery API allows Enterprise-level plans to use approved third-party apps to export or act on messages and files from Slack.\n\nHIPAA-compliant message and file collaboration\n\nSlack can be configured to support protected health information (PHI) within uploaded files and message content.\n\nBuilt-in employee directory\n\nFind the right person to help move work forward. Search for people and keywords within the directory, review team members\u2019 profiles, and get all the context you need to reach out.\n\nCompare all plans\n-----------------\n\n|  | \n**Free**[Get Started](https://slack.com/get-started#/create?p=free&entry_point=pricing_page&)\n\n\n\n | \n\n**Pro**\n\n\n\n | \n\n**Business+**\n\n\n\n | \n\n**Enterprise Grid**[Talk to sales](https://slack.com/contact-sales?from_pricing=1&campaign=7013y000002UvizAAC)\n\n\n\n |\n| --- | --- | --- | --- | --- |\n| **Productivity and collaboration** |  |  |  |  |\n| Message and file historyThe more you use Slack, the more useful it becomes. With all of your organization\u2019s messages available in search, you can find context from past decisions or get new team members up to speed faster.\n\n | 90-day access |  |  |  |\n| Slack huddlesTake a break from typing and start a live audio conversation (with video, screen sharing, a message thread, and fun reactions/effects) in a channel or direct message. Brainstorm, make decisions or just catch up\u2013all at the flip of a switch.\n\n | 1:1 only |  |  |  |\n| Audio and video clipsUse audio and video to bring your work to life. Record a quick idea with an audio clip, or share your screen in a video clip, all without leaving Slack. Coworkers can respond whenever they\u2019d like.\n\n |  |  |  |  |\n| Work with external peopleCollaborate seamlessly across organizational boundaries with Slack Connect. Separate organizations can work together from within their own Slack workspaces.\n\n | 1:1 only |  |  |  |\n| Slack canvasesGet your whole team on the same page with canvases, the collaborative surface for organizing your most important documentation for a channel, direct message or project. Create action item checklists, channel FAQs, onboarding guides and more. You can even embed workflows right into a canvas!\n\n | Channels and DMs only |  |  |  |\n| Slack listsLists bring work management to where teams are already collaborating. You can visualize and organize tasks from your conversations so you can track cross-functional projects, requests, approvals, and more.\n\n |  |  |  |  |\n| TemplatesReady-to-use templates with powerful automation built in. Grid plan includes the ability to publish custom templates for your company.\n\n |  | User-created | User-created | Admin-created |\n| Customizable sectionsKeep your projects, teams, and priorities straight, by organizing your channels and conversations into custom, collapsible sections in your sidebar.\n\n |  |  |  |  |\n| Slack AtlasFind the right person to help move work forward. Search for people and keywords within the directory, review team members' profiles, and get all the context you need to reach out.\n\n |  |  | Add-on |  |\n| Slack AISlack AI is a simple, intuitive AI experience embedded in your flow of work in Slack.\n\n |  | Add-on | Add-on | Add-on includes enterprise search |\n| **Automation tools** |  |  |  |  |\n| Integrations with other appsChoose from over 2,600 apps in the Slack Marketplace to support whatever work you do \u2014 from Salesforce, Jira, Google Drive, ChatGPT, and more.\n\n | 10 |  |  |  |\n| Workflow BuilderAutomate routine tasks and processes right in Slack, no code needed. Workflows can be as simple or as complex as you\u2019d like, and can even be connected to other apps and tools you use to get work done.\n\n |  |  |  |  |\n| Custom workflow stepsCustom workflow steps allow you to bring systems and business logic unique to your organization into a workflow. They are built by developers using Slack APIs.\n\n |  |  |  |  |\n| Deploy apps to Slack infrastructureDevelopers can deploy custom functions to Slack's secure, managed infrastructure at no additional cost.\n\n |  |  |  |  |\n| **Security** |  |  |  |  |\n| Data encryption at rest and in transitBy default, Slack encrypts data at rest and in transit as part of our foundational security controls.\n\n |  |  |  |  |\n| Two-factor authenticationAdd an additional layer of security to your account so you never have to worry about your password being compromised.\n\n |  |  |  |  |\n| OAuth with GoogleUsing Google for Open Authorization makes it possible for your team members to securely sign in to Slack using their Google accounts. That\u2019s one less password to remember.\n\n |  |  |  |  |\n| SAML-based single sign-on (SSO)Sign in to Slack through an IDP of your choice for additional security and convenience. Choose from up to 12 SSO configurations, including OneLogin, Ping, Microsoft Azure and Okta.\n\n |  |  |  | Supports Multi-SAML |\n| Slack Enterprise Key ManagementSlack EKM enhances the ability of organizations to share sensitive conversations and files while meeting security requirements. Use your own encryption keys and view detailed activity logs in Amazon\u2019s AWS KMS.\n\n |  |  |  | Add-on |\n| Integration with Enterprise Mobility Management (EMM)Take control of how your data is used on mobile devices with EMM. Some EMM providers we work with include VMWare AirWatch, Ivanti MobileIron and Blackberry UEM.\n\n |  |  |  |  |\n| Audit logsAudit logs provide a record of changes and usage on Enterprise Grid. You can view audit logs right in Slack, export them as a CSV, and use the Audit Logs API to create custom monitoring tools.\n\n |  |  |  |  |\n| Identity provider (IDP) groupsSync the groups you've created in your IDP to workspaces and channels within your Enterprise Grid organization. If your IDP does not support syncing groups, you can use our SCIM API to do it manually.\n\n |  |  |  |  |\n| **Compliance** |  |  |  |  |\n| Custom retention policies for messages and filesChoose how long to retain files and messages, as well as whether to keep previous versions of messages that have since been edited or deleted.\n\n |  |  |  |  |\n| Data exports for all messagesWorkspace owners and admins can export data from all channels and conversations, including private channels and direct messages, as needed and permitted by law.\n\n |  |  |  |  |\n| Support for HIPAA complianceSlack can be configured to support protected health information (PHI) within uploaded files and message content.\n\n |  |  |  |  |\n| Data residencyFor teams distributed across the globe, choose the region where certain types of data at rest will be stored.\n\n |  |  |  |  |\n| Native data loss prevention (DLP) for Slack ConnectData loss prevention in Slack Connect scans messages and files sent by members of your organization to reduce the risk of sharing confidential, malicious or personally identifiable content with external orgs.\n\n |  |  |  |  |\n| Information barriersCreate information barriers between IDP groups to prevent specific members from sending DMs or starting huddles with each other, avoiding conflicts of interest and safeguarding sensitive information.\n\n |  |  |  |  |\n| Legal holdsIn an Enterprise Grid organization, you can place a legal hold on specific members to preserve their messages and files in Slack. This means that messages and files sent by all members in a conversation will be saved regardless of retention settings or if members edit or delete any content.\n\n |  |  |  |  |\n| **Administration** |  |  |  |  |\n| WorkspacesLike a virtual office, a workspace is where work happens in Slack. All your channels, direct messages and tools live in a workspace.\n\n | 1 | 1 | 1 | Unlimited |\n| Manage channel posting permissionsAdjust who\u2019s allowed to post to channels or use mentions that notify all channel members. This helps keep large channels, like those used for announcements, distraction-free.\n\n | Limited to #general channel onlyEveryone in a workspace is a member of the #general channel, making it a great place to share announcements.\n\n | Limited to #general channel onlyEveryone in a workspace is a member of the #general channel, making it a great place to share announcements.\n\n | Unlimited number of channels | Unlimited number of channels |\n| Custom user groupsMake it easier to send notifications and communicate with entire teams, departments, or groups.\n\n |  |  |  |  |\n| User management with SCIM provisioningSlack supports member provisioning with the System for Cross-domain Identity Management (SCIM) standard. To set up provisioning, you\u2019ll need to use a connector app alongside a supported identity provider.\n\n |  |  |  | Supports guests |\n| Support for integrations with Data Loss Prevention (DLP), e-discovery, and offline backup providersUse approved third-party apps to act on messages and files from Slack using our Discovery API.\n\n |  |  |  |  |\n| Domain claimingIf your company owns or operates under multiple web domains, Slack can help you claim them.\n\n |  |  |  |  |\n| Custom terms of serviceOrg owners and admins can outline the rules to join and use their Slack org.\n\n |  |  |  |  |\n| Granular rolesAssign system roles to individual members, IDP groups, or assign members to multiple system roles. Granular controls allow you to choose whether members can manage administrative tasks for all or only specific workspaces in your Enterprise Grid organization.\n\n |  |  |  |  |\n| Admin analytics APIRetrieve analytics data for a given date, presented as a compressed JSON file.\n\n |  |  |  |  |\n| Admin analytics dashboardThe Slack analytics dashboard grants you insight into how your organization uses Slack. Easily find and sort information to understand more about the messages, channels, and members in your workspace or Enterprise Grid organization.\n\n |  |  |  |  |\n| Message activity analyticsWith message activity, owners, admins, and members with permission can see how many people have interacted with a given message in Slack. You can use message activity to measure the impact of announcements and internal communications campaigns for your organization.\n\n |  |  |  |  |\n| **Support** |  |  |  |  |\n| Access to customer supportWe\u2019re here to help you get the most out of Slack, with support for your team every step of the way.\n\n | Standard support | 24/7 support | 24/7 support with four-hour first response time | 24/7 priority support with four-hour first response time |\n\nSimplify your workday with Slack AI.\n------------------------------------\n\n*   Find answers faster with AI-powered search.\n    \n*   Catch up by instantly summarizing conversations and huddles.\n    \n*   Save time and stay in the know with daily recaps.\n    \n*   Generate workflows with simple prompts.\n    \n\nStart with **Slack Pro** and add Slack AI in checkout.\n\n**Now available on all paid plans to purchase in English, Spanish and Japanese.**  \nAdditional languages coming soon.\n\nLeading the way in enterprise security\n--------------------------------------\n\n*   Data encryption in transit and at rest\n    \n*   Comprehensive compliance and assurance programs\n    \n*   Audit logs, data loss prevention, single sign-on and much more\n    \n\n[Learn more about security](https://slack.com/security?from_pricing=1)\n\nGovSlack meets public sector compliance needs\n---------------------------------------------\n\nGovSlack has all the features of the Slack Enterprise Grid with additional security, so government agencies and their external partners can work together seamlessly.\n\n[Learn more about GovSlack](https://slack.com/solutions/govslack?from_pricing=1)\n\nFrequently asked questions\n--------------------------\n\nYou can try the Slack Pro plan free for 30 days.\n\nDuring your trial, you'll have full access to all features included in the Pro plan and can invite as many team members as you like\u2014at no cost. You can cancel anytime within the 30-day period. If you choose to continue with a paid plan after the trial, your billing will be based on the number of active users in your workspace.\n\n[Visit our Help Center](https://slack.com/help/articles/202878523-Try-a-paid-Slack-plan-for-free#what-to-expect) for more details.\n\nSlack AI is available to purchase as an add-on for all paid plans. Here\u2019s how to buy Slack AI:\n\n*   If you haven\u2019t signed up for Slack, [create a workspace](https://slack.com/get-started?entry_point=pricing_page#/createnew%22) to get started. You can [upgrade your workspace](https://my.slack.com/pricing) and purchase the Slack AI add-on at the same time. To do so, select a paid plan and then click **With Slack AI**.\n*   If you\u2019re on the Pro or Business+ plan, sign in to your account and [click **Get Slack AI** on the Pricing page](https://my.slack.com/pricing).\n\n*   If you haven\u2019t signed up for Slack, download the app on mobile to create a workspace. Then log into desktop to [upgrade your workspace](https://my.slack.com/pricing) and purchase the Slack AI add-on at the same time. To do so, select a paid plan and then click **With Slack AI**.\n*   If you\u2019re on the Pro or Business+ plan, sign in to your account on desktop and [click **Get Slack AI** on the Pricing page](https://my.slack.com/pricing).\n\nOn Enterprise Grid? Reach out to your Slack account executive or [contact our Sales team](http://slack.com/features/ai/get-access).\n\n[Slack AI](https://slack.com/help/articles/25076892548883-Introducing--Slack-AI) uses the discussions and information already in Slack to power a secure experience tailored to you and your organization:\n\n*   Summarize long conversations\n*   Find answers to questions\n*   Get a daily recap of less important channels\n\nSlack AI runs on Slack\u2019s trusted infrastructure, and upholds the [security practices and compliance standards](https://slack.com/security) that customers expect from Slack itself. Slack does not share customer data with large language model (LLM) providers and does not use customer data to train LLMs. [Visit our Help Center for more details](https://slack.com/help/articles/25076892548883-Introducing--Slack-AI#faqs).\n\nOur large language models are hosted directly within Slack\u2019s AWS virtual private cloud, ensuring your data remains in-house.\n\nYou can use a credit card to pay for any plan. If you choose to pay annually, you may be eligible to be invoiced and pay by ACH or wire transfer. [Visit our Help Center](https://slack.com/help/articles/360002038947-Supported-payment-methods#pay-by-invoice) for more details, or contact us to start the process.\n\nIf you choose to pay by credit card, you\u2019ll see the first credit card charge from Slack on the day you purchase a paid plan. Here are some other times you\u2019ll see charges:\n\n*   On your monthly renewal date if you pay monthly.\n*   On your annual renewal date if you pay annually.\n*   On the last day of the month if you pay annually and there\u2019s an outstanding balance for adding new members.\n\nYou can change billing cycles or switch to invoicing at any time. Learn more about managing billing details [here](https://slack.com/help/articles/218915087-Manage-your-Slack-plan-and-billing-details#change-your-billing-cycle).\n\nAt Slack, we believe you should only be billed for what you use. Members who take an action in Slack at any time within a 28-day period will be considered active for billing purposes. If someone you\u2019ve already paid for becomes inactive, we\u2019ll add a prorated credit to your account for the unused time.\n\nYou\u2019ll be charged a prorated amount for new team members for the remainder of the current billing period.\n\nAs an example, suppose your team is on the Pro plan, which costs $8.75 USD per active user per month (when billed monthly). You add a new member 10 days into your billing period with 20 days remaining in the month. The per-day cost for each user is $8.75 divided by 30, so we\u2019ll make a one-time charge of $5.83 ($8.75 divided by 30 days times 20 days) to the credit card on file.\n\nFor a detailed overview of our billing model and how your subscription term affects when you will be billed, [visit the Help Center](https://slack.com/help/articles/218915077-Slacks-Fair-Billing-Policy).\n\nGet more information on [billing at Slack](https://get.slack.help/hc/en-us/articles/201723133-billing-faq).\n\nGet more information  \non [billing at Slack](https://get.slack.help/hc/en-us/articles/201723133-billing-faq).\n\nFind the Slack plan that best fits your company. Plans include messaging, search, calls, storage, collaboration with outside organizations and more.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "slack",
+        "app_name": "Slack",
+        "app_slug": "slack",
+        "pricing_url": "https://slack.com/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://slack.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Slack offers prorated billing for new members and credits for inactive members.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "The quickest and easiest way to try Slack",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "90 days of message history",
+              "10 app integrations",
+              "1:1 audio and video meetings",
+              "1:1 messages with people outside your organization",
+              "1 workspace",
+              "Unlimited workflows"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "90 days of message history",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": 10,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "More power for small teams who want better collaboration",
+            "monthly_price": 8.75,
+            "annual_price": 7.25,
+            "annual_discount_percentage": 17.14,
+            "setup_fee": null,
+            "features": [
+              "Unlimited message history",
+              "Unlimited app integrations",
+              "Group audio and video meetings",
+              "Group messages with people outside your organization",
+              "1 workspace",
+              "Unlimited workflows"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Business+",
+            "tier_description": "Scale your business, increase productivity, and keep your teams connected",
+            "monthly_price": 15.0,
+            "annual_price": 12.5,
+            "annual_discount_percentage": 16.67,
+            "setup_fee": null,
+            "features": [
+              "Unlimited message history",
+              "Unlimited app integrations",
+              "Group audio and video meetings",
+              "Group messages with people outside your organization",
+              "1 workspace",
+              "Unlimited workflows"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise Grid",
+            "tier_description": "Maximize performance and productivity at every level of your enterprise",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited message history",
+              "Unlimited app integrations",
+              "Group audio and video meetings",
+              "Group messages with people outside your organization",
+              "Unlimited workspaces",
+              "Unlimited workflows"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": true
+        },
+        "promotional_offers": [
+          {
+            "offer_name": "Pro Plan Discount",
+            "offer_description": "50% off for 3 months",
+            "discount_percentage": 50.0,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:46:38.956560",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://slack.com/intl/en-gb/pricing",
+      "is_accessible": true,
+      "content": "### Free\n\nThe quickest and easiest way to try Slack\n\n### $US0/mthFree forever\n\n90 days of message history\n\nEvery message sent in Slack is saved for 90 days and fully searchable. Upgrade to a paid subscription to access the previous 12 months of messages, files and additional data retention settings.\n\nTen app integrations\n\nApp integrations are installed apps that you can access from within Slack (such as Google Drive or Office 365).\n\n1:1 audio and video meetings\n\nWork in real time with one person through audio and video meetings (including screen sharing) using Slack huddles.\n\n1:1 messages with people outside your organisation\n\nSecurely work alongside people outside of your company through one-on-one direct messages using Slack Connect.\n\nOne workspace\n\nLike a virtual office, a workspace is where work happens in Slack. All your channels, direct messages and tools live in your workspace.\n\nUnlimited workflows\n\nCollaborate on lists and documents\n\nUser provisioning and deprovisioning\n\nSAML-based single sign-on\n\nData exports for all messages\n\nSupport for data loss prevention, e-discovery and offline backup providers\n\nHIPAA-compliant message and file collaboration\n\nBuilt-in employee directory\n\nBest value\n\n### Pro\n\nMore power for small teams who want better collaboration\n\n50% off for three months\\*\n\n### $8.75$US4.38/mo$US7.25 per user/month, when paying annually\n\nper user/month, when paying monthly\n\nUnlimited message history\n\nEvery message, file and conversation shared in Slack is saved and fully searchable, so you can find what you need and get teammates up to speed faster.\n\nUnlimited app integrations\n\nApp integrations are installed apps that you can access from within Slack (such as Google Drive or Office 365).\n\nGroup audio and video meetings\n\nWork together in real time with up to 50 people through audio and video meetings (including screen sharing) using Slack huddles.\n\nGroup messages with people outside your organisation\n\nSecurely work alongside people outside of your company using Slack Connect. Includes one-on-one direct messages, group messages and dedicated channels with up to 250 organisations.\n\nOne workspace\n\nLike a virtual office, a workspace is where work happens in Slack. All your channels, direct messages and tools live in your workspace.\n\nUnlimited workflows\n\nAutomate routine tasks and processes right in Slack, no code needed. Workflows can be as simple or as complex as you like, and can even be connected to other apps and tools you use to get work done.\n\nCollaborate on lists and documents\n\nCurate content including text, files, images, videos and more using Slack canvas. Manage projects and tasks using Slack lists.\n\nUser provisioning and deprovisioning\n\nSAML-based single sign-on\n\nData exports for all messages\n\nSupport for data loss prevention, e-discovery and offline backup providers\n\nHIPAA-compliant message and file collaboration\n\nBuilt-in employee directory\n\n### Business+\n\nScale your business, increase productivity and keep your teams connected\n\n### $US15/mo$US12.50 per user/month, when paying annually\n\nper user/month, when paying monthly\n\nUnlimited message history\n\nEvery message, file and conversation shared in Slack is saved and fully searchable, so you can find what you need and get teammates up to speed faster.\n\nUnlimited app integrations\n\nApp integrations are installed apps that you can access from within Slack (such as Google Drive or Office 365).\n\nGroup audio and video meetings\n\nWork together in real time with up to 50 people through audio and video meetings (including screen sharing) using Slack huddles.\n\nGroup messages with people outside your organisation\n\nSecurely work alongside people outside of your company using Slack Connect. Includes one-on-one direct messages, group messages and dedicated channels with up to 250 organisations.\n\nOne workspace\n\nLike a virtual office, a workspace is where work happens in Slack. All your channels, direct messages and tools live in your workspace.\n\nUnlimited workflows\n\nAutomate routine tasks and processes right in Slack, no code needed. Workflows can be as simple or as complex as you like, and can even be connected to other apps and tools you use to get work done.\n\nCollaborate on lists and documents\n\nCurate content including text, files, images, videos and more using Slack canvas. Manage projects and tasks using Slack lists.\n\nUser provisioning and deprovisioning\n\nSlack supports member provisioning with the System for Cross-domain Identity Management (SCIM) standard. To use provisioning, you\u2019ll need to use a connector app alongside a supported identity provider.\n\nSAML-based single sign-on\n\nSAML-based single sign-on (SSO) gives access to Slack through an identity provider (IDP) of your choice. Some of the providers that we work with are OneLogin, Ping, Microsoft Azure and Okta. Enterprise subscriptions allow up to 12 SSO configurations.\n\nData exports for all messages\n\nSelf-service data export tools permit exporting content from all channels and conversations. This includes private channels, direct messages and all conversations that a single user is part of, as needed and permitted by law.\n\nSupport for data loss prevention, e-discovery and offline backup providers\n\nHIPAA-compliant message and file collaboration\n\nBuilt-in employee directory\n\n### Enterprise Grid\n\nMaximise performance and productivity at every level of your enterprise\n\n### Contact sales for pricing\n\nUnlimited message history\n\nEvery message, file and conversation shared in Slack is saved and fully searchable, so you can find what you need and get teammates up to speed faster.\n\nUnlimited app integrations\n\nApp integrations are installed apps that you can access from within Slack (such as Google Drive or Office 365).\n\nGroup audio and video meetings\n\nWork together in real time with up to 50 people through audio and video meetings (including screen sharing) using Slack huddles.\n\nGroup messages with people outside your organisation\n\nSecurely work alongside people outside of your company using Slack Connect. Includes one-on-one direct messages, group messages and dedicated channels with up to 250 organisations.\n\nUnlimited workspaces\n\nLike a virtual office, a workspace is where work happens in Slack. All your channels, direct messages and tools live in your workspace. Enterprise-level subscriptions allow you to customise Slack to your business with unlimited workspaces.\n\nUnlimited workflows\n\nAutomate routine tasks and processes right in Slack, no code needed. Workflows can be as simple or as complex as you like, and can even be connected to other apps and tools you use to get work done.\n\nCollaborate on lists and documents, including custom templates\n\nCurate content including text, files, images, videos and more using Slack canvas. Manage projects and tasks using Slack lists.\n\nUser provisioning and deprovisioning\n\nSlack supports member provisioning with the System for Cross-domain Identity Management (SCIM) standard. To use provisioning, you\u2019ll need to use a connector app alongside a supported identity provider.\n\nSupports multiple SAML configurations\n\nSAML-based single sign-on (SSO) gives access to Slack through an identity provider (IDP) of your choice. Some of the providers that we work with are OneLogin, Ping, Microsoft Azure and Okta. Enterprise subscriptions allow up to 12 SSO configurations.\n\nData exports for all messages\n\nSelf-service data export tools permit exporting content from all channels and conversations. This includes private channels, direct messages and all conversations that a single user is part of, as needed and permitted by law.\n\nSupport for data loss prevention, e-discovery and offline backup providers\n\nOur Discovery API allows Enterprise-level subscriptions to use approved third-party apps to export or act on messages and files from Slack.\n\nHIPAA-compliant message and file collaboration\n\nSlack can be configured to support protected health information (PHI) within uploaded files and message content.\n\nBuilt-in employee directory\n\nFind the right person to help move work forwards. Search for people and keywords within the directory, review team members\u2019 profiles and find all the context that you need to get in touch.\n\nCompare all subscriptions\n-------------------------\n\n|  | \n**Free**[Get started](https://slack.com/intl/en-gb/get-started#/create?p=free&entry_point=pricing_page&geocode=en-gb)\n\n\n\n | \n\n**Pro**\n\n\n\n | \n\n**Business+**\n\n\n\n | \n\n**Enterprise Grid**[Talk to sales](https://slack.com/intl/en-gb/contact-sales?geocode=en-gb&from_pricing=1&campaign=7013y000002UvizAAC)\n\n\n\n |\n| --- | --- | --- | --- | --- |\n| **Productivity and collaboration** |  |  |  |  |\n| Message and file historyThe more you use Slack, the more useful it becomes. With all of your organisation\u2019s messages available in search, you can find context from past decisions or get new team members up to speed faster.\n\n | 90-day access |  |  |  |\n| Slack huddlesTake a break from typing and start a live audio conversation (with video, screen sharing, a message thread and fun reactions/effects) in a channel or direct message. Brainstorm, make decisions or just catch up \u2013 all at the flip of a switch.\n\n | 1:1 only |  |  |  |\n| Audio and video clipsUse audio and video to bring your work to life. Record a quick idea with an audio clip, or share your screen in a video clip, all without leaving Slack. Colleagues can respond whenever they like.\n\n |  |  |  |  |\n| Work with external peopleCollaborate seamlessly across organisational boundaries with Slack Connect. Separate organisations can work together from within their own Slack workspaces.\n\n | 1:1 only |  |  |  |\n| Slack canvasesGet your whole team on the same page with canvases; the collaborative surface for organising your most important documentation for a channel, direct message or project. Create action item checklists, channel FAQ, onboarding guides and more. You can even embed workflows directly into a canvas!\n\n | Channels and DMs only |  |  |  |\n| Slack listsLists bring work management to where teams are already collaborating. You can visualise and organise tasks from your conversations so you can track cross-functional projects, requests, approvals, and more.\n\n |  |  |  |  |\n| TemplatesReady-to-use templates with powerful automation built in. Grid subscription includes the ability to publish custom templates for your company.\n\n |  | User-created | User-created | Admin-created |\n| Customisable sectionsKeep your projects, teams and priorities straight by organising your channels and conversations into custom, collapsible sections in your sidebar.\n\n |  |  |  |  |\n| Slack AtlasFind the right person to help move work forwards. Search for people and keywords within the directory, review team members\u2019 profiles and find all the context that you need to get in touch.\n\n |  |  | Add-on |  |\n| Slack AISlack AI is a simple, intuitive AI experience embedded in your flow of work in Slack.\n\n |  | Add-on | Add-on | Add-on includes enterprise search |\n| **Automation tools** |  |  |  |  |\n| Integrations with other appsChoose from over 2,600 apps in the Slack Marketplace to support whatever work you do \u2013 from Salesforce, Jira, Google Drive, ChatGPT and more.\n\n | 10 |  |  |  |\n| Workflow BuilderAutomate routine tasks and processes right in Slack, no code needed. Workflows can be as simple or as complex as you like, and can even be connected to other apps and tools you use to get work done.\n\n |  |  |  |  |\n| Custom workflow stepsCustom workflow steps allow you to add systems and business logic unique to your organisation into a workflow. They are built by developers using Slack APIs.\n\n |  |  |  |  |\n| Deploy apps to Slack infrastructureDevelopers can deploy custom functions to Slack's secure, managed infrastructure at no additional cost.\n\n |  |  |  |  |\n| **Security** |  |  |  |  |\n| Data encryption at rest and in transitBy default, Slack encrypts data at rest and in transit as part of our foundational security controls.\n\n |  |  |  |  |\n| Two-factor authenticationAdd an additional layer of security to your account so that you never have to worry about your password being compromised.\n\n |  |  |  |  |\n| OAuth with GoogleUsing Google for Open Authorisation makes it possible for your team members to securely sign in to Slack using their Google accounts. That\u2019s one less password to remember.\n\n |  |  |  |  |\n| SAML-based single sign-on (SSO)Sign in to Slack through an IDP of your choice for additional security and convenience. Choose from up to 12 SSO configurations, including OneLogin, Ping, Microsoft Azure and Okta.\n\n |  |  |  | Supports multi-SAML |\n| Slack Enterprise Key ManagementSlack EKM enhances the ability of organisations to share sensitive conversations and files while meeting security requirements. Use your own encryption keys and view detailed activity logs in Amazon\u2019s AWS KMS.\n\n |  |  |  | Add-on |\n| Integration with enterprise mobility management (EMM)Take control of how your data is used on mobile devices with EMM. Some EMM providers that we work with include VMware AirWatch, Ivanti MobileIron and Blackberry UEM.\n\n |  |  |  |  |\n| Audit logsAudit logs provide a record of changes and usage on Enterprise Grid. You can view audit logs right in Slack, export them as a CSV and use the Audit Logs API to create custom monitoring tools.\n\n |  |  |  |  |\n| Identity provider (IDP) groupsSync the groups you've created in your IDP to workspaces and channels within your Enterprise Grid organisation. If your IDP does not support syncing groups, you can use our SCIM API to do it manually.\n\n |  |  |  |  |\n| **Compliance** |  |  |  |  |\n| Custom retention policies for messages and filesChoose how long to retain files and messages, as well as whether to keep previous versions of messages that have since been edited or deleted.\n\n |  |  |  |  |\n| Data exports for all messagesWorkspace owners and admins can export data from all channels and conversations, including private channels and direct messages, as needed and permitted by law.\n\n |  |  |  |  |\n| Support for HIPAA complianceSlack can be configured to support protected health information (PHI) within uploaded files and message content.\n\n |  |  |  |  |\n| Data residencyFor teams distributed across the globe, choose the region where certain types of data at rest will be stored.\n\n |  |  |  |  |\n| Native data loss prevention (DLP) for Slack ConnectData loss prevention in Slack Connect scans messages and files sent by members of your organisation to reduce the risk of sharing confidential, malicious or personally identifiable content with external orgs.\n\n |  |  |  |  |\n| Information barriersCreate information barriers between IDP groups to prevent specific members from sending DMs or starting huddles with each other, avoiding conflicts of interest and safeguarding sensitive information.\n\n |  |  |  |  |\n| Legal holdsIn an Enterprise Grid organisation, you can place a legal hold on specific members to preserve their messages and files in Slack. This means that messages and files sent by all members in a conversation will be saved regardless of retention settings or if members edit or delete any content.\n\n |  |  |  |  |\n| **Administration** |  |  |  |  |\n| WorkspacesLike a virtual office, a workspace is where work happens in Slack. All your channels, direct messages and tools live in a workspace.\n\n | 1 | 1 | 1 | Unlimited |\n| Manage channel posting permissionsAdjust who\u2019s allowed to post to channels or use mentions that notify all channel members. This helps to keep large channels, such as those used for announcements, distraction-free.\n\n | Limited to #general channel onlyEveryone in a workspace is a member of the #general channel, making it a great place to share announcements.\n\n | Limited to #general channel onlyEveryone in a workspace is a member of the #general channel, making it a great place to share announcements.\n\n | Unlimited number of channels | Unlimited number of channels |\n| Custom user groupsMake it easier to send notifications and communicate with entire teams, departments or groups.\n\n |  |  |  |  |\n| User management with SCIM provisioningSlack supports member provisioning with the System for Cross-domain Identity Management (SCIM) standard. To set up provisioning, you\u2019ll need to use a connector app alongside a supported identity provider.\n\n |  |  |  | Supports guests |\n| Support for integrations with data loss prevention (DLP), e-discovery and offline backup providersUse approved third-party apps to act on messages and files from Slack using our Discovery API.\n\n |  |  |  |  |\n| Domain claimingIf your company owns or operates under multiple web domains, Slack can help you to claim them.\n\n |  |  |  |  |\n| Customised terms of serviceOrg owners and admins can outline the rules to join and use their Slack org.\n\n |  |  |  |  |\n| Granular rolesAssign system roles to individual members, IDP groups, or assign members to multiple system roles. Granular controls allow you to choose whether members can manage administrative tasks for all or only specific workspaces in your Enterprise Grid organisation.\n\n |  |  |  |  |\n| Admin analytics APIRetrieve analytics data for a given date, presented as a compressed JSON file.\n\n |  |  |  |  |\n| Admin analytics dashboardThe Slack analytics dashboard grants you insight into how your organisation uses Slack. Easily find and sort information to understand more about the messages, channels and members in your workspace or Enterprise Grid organisation.\n\n |  |  |  |  |\n| Message activity analyticsWith message activity, owners, admins and members with permission can see how many people have interacted with a given message in Slack. You can use message activity to measure the impact of announcements and internal communications campaigns for your organisation.\n\n |  |  |  |  |\n| **Support** |  |  |  |  |\n| Access to customer supportWe\u2019re here to help you get the most out of Slack, with support for your team every step of the way.\n\n | Standard support | 24/7 support | 24/7 support with four-hour first response time | 24/7 priority support with four-hour first response time |\n\nSimplify your workday with Slack AI.\n------------------------------------\n\n*   Find answers faster with AI-powered search.\n    \n*   Catch up by instantly summarising conversations and huddles.\n    \n*   Save time and stay in the know with daily Recaps.\n    \n*   Generate workflows with simple prompts.\n    \n\nStart with **Slack Pro** and add Slack AI at checkout.\n\n**Now available on all paid subscriptions to purchase in English, Spanish and Japanese.**  \nAdditional languages coming soon.\n\nLeading the way in enterprise security\n--------------------------------------\n\n*   Data encryption in transit and at rest\n    \n*   Comprehensive compliance and assurance programmes\n    \n*   Audit logs, data loss prevention, single sign-on and much more\n    \n\n[Learn more about security](https://slack.com/intl/en-gb/security?geocode=en-gb&from_pricing=1)\n\nFrequently asked questions\n--------------------------\n\nYou can try the Slack Pro subscription for free for 30 days.\n\nDuring your trial, you\u2019ll have full access to all features included in the Pro subscription and can invite as many team members as you like \u2013 at no cost. You can cancel at any time within the 30-day period. If you choose to continue with a paid subscription after the trial, your billing will be based on the number of active users in your workspace.\n\n[Visit our Help Centre](https://slack.com/help/articles/202878523-Try-a-paid-Slack-plan-for-free#what-to-expect) for more details.\n\nSlack AI is available to purchase as an add-on for all paid subscriptions. Here\u2019s how to buy Slack AI:\n\n*   If you haven\u2019t signed up for Slack, [create a workspace](https://slack.com/get-started?entry_point=pricing_page#/createnew%22) to get started. You can [upgrade your workspace](https://my.slack.com/pricing) and purchase the Slack AI add-on at the same time. To do so, select a paid subscription and then click on **With Slack AI**.\n*   If you\u2019re on the Pro or Business+ subscription, sign in to your account and [click on **Get Slack AI** on the Pricing page](https://my.slack.com/pricing).\n\n*   If you haven\u2019t signed up for Slack, download the app on mobile to create a workspace. Then log in to desktop to [upgrade your workspace](https://my.slack.com/pricing) and purchase the Slack AI add-on at the same time. To do so, select a paid subscription and then click on **With Slack AI**.\n*   If you\u2019re on the Pro or Business+ subscription, sign in to your account on desktop and [click **Get Slack AI** on the Pricing page](https://my.slack.com/pricing).\n\nOn Enterprise Grid? Get in touch with your Slack account executive or [contact our Sales team](http://slack.com/features/ai/get-access).\n\n[Slack AI](https://slack.com/help/articles/25076892548883-Introducing--Slack-AI) uses the discussions and information that are already in Slack to power a secure experience tailored to you and your organisation:\n\n*   Summarise long conversations\n*   Find answers to questions\n*   Get a daily recap of less important channels\n\nSlack AI runs on Slack\u2019s trusted infrastructure, and upholds the [security practices and compliance standards](https://slack.com/security) that customers expect from Slack itself. Slack does not share customer data with large language model (LLM) providers and does not use customer data to train LLMs. [Visit our Help Centre for more details](https://slack.com/help/articles/25076892548883-Introducing--Slack-AI#faqs).\n\nOur large language models are hosted directly within Slack\u2019s AWS virtual private cloud, ensuring that your data remains in-house.\n\nYou can use a credit card to pay for any subscription. If you choose to pay annually, you may be eligible to be invoiced and pay by ACH or bank transfer. [Visit our Help Centre](https://slack.com/help/articles/360002038947-Supported-payment-methods#pay-by-invoice) for more details, or contact us to start the process.\n\nIf you choose to pay by credit card, you\u2019ll see the first credit card charge from Slack on the day that you purchase a paid subscription. Here are some other times when you\u2019ll see charges:\n\n*   On your monthly renewal date if you pay monthly.\n*   On your annual renewal date if you pay annually.\n*   On the last day of the month if you pay annually and there\u2019s an outstanding balance for adding new members.\n\nYou can change billing cycles or switch to invoicing at any time. Learn more about managing billing details [here](https://slack.com/help/articles/218915087-Manage-your-Slack-plan-and-billing-details#change-your-billing-cycle).\n\nAt Slack, we believe that you should only be billed for what you use. Members who take an action in Slack at any time within a 28-day period will be considered active for billing purposes. If someone that you\u2019ve already paid for becomes inactive, we\u2019ll add a prorated credit to your account for the unused time.\n\nYou\u2019ll be charged a prorated amount for new team members for the remainder of the current billing period.\n\nAs an example, suppose your team is on the Pro subscription, which costs $8.75 USD per active user per month (when billed monthly). You add a new member ten days into your billing period, with 20 days remaining in the month. The per-day cost for each user is $8.75 USD divided by 30, so we\u2019ll make a one-time charge of $5.83 USD ($8.75 USD divided by 30 days times 20 days) to the credit card on file.\n\nFor a detailed overview of our billing model and how your subscription term affects when you will be billed, [visit the Help Centre](https://slack.com/help/articles/218915077-Slacks-Fair-Billing-Policy).\n\nGet more information on [billing at Slack](https://get.slack.help/hc/en-gb/articles/201723133-billing-faq).\n\nGet more information  \non [billing at Slack](https://get.slack.help/hc/en-gb/articles/201723133-billing-faq).\n\nFind the Slack subscription that best fits your company. Subscriptions include messaging, search, calls, storage, collaboration with outside organisations and more.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "slack",
+        "app_name": "Slack",
+        "app_slug": "slack",
+        "pricing_url": "https://slack.com/pricing",
+        "source_url": "https://slack.com/pricing",
+        "all_pricing_urls": [
+          "https://slack.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Slack offers prorated billing for new members and credits for inactive members.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "The quickest and easiest way to try Slack",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "90 days of message history",
+              "Ten app integrations",
+              "1:1 audio and video meetings",
+              "1:1 messages with people outside your organisation",
+              "One workspace",
+              "Unlimited workflows"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "90 days of message history",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": 10,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "More power for small teams who want better collaboration",
+            "monthly_price": 8.75,
+            "annual_price": 7.25,
+            "annual_discount_percentage": 17.14,
+            "setup_fee": null,
+            "features": [
+              "Unlimited message history",
+              "Unlimited app integrations",
+              "Group audio and video meetings",
+              "Group messages with people outside your organisation",
+              "One workspace",
+              "Unlimited workflows"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Business+",
+            "tier_description": "Scale your business, increase productivity and keep your teams connected",
+            "monthly_price": 15.0,
+            "annual_price": 12.5,
+            "annual_discount_percentage": 16.67,
+            "setup_fee": null,
+            "features": [
+              "Unlimited message history",
+              "Unlimited app integrations",
+              "Group audio and video meetings",
+              "Group messages with people outside your organisation",
+              "One workspace",
+              "Unlimited workflows"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise Grid",
+            "tier_description": "Maximise performance and productivity at every level of your enterprise",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited message history",
+              "Unlimited app integrations",
+              "Group audio and video meetings",
+              "Group messages with people outside your organisation",
+              "Unlimited workspaces",
+              "Unlimited workflows"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": true
+        },
+        "promotional_offers": [
+          {
+            "offer_name": "Pro Tier Discount",
+            "offer_description": "50% off for three months",
+            "discount_percentage": 50.0,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:46:47.776282",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\slack\\20250414_234648"
+}

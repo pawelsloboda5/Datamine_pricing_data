@@ -1,0 +1,217 @@
+{
+  "app_id": "mailparser",
+  "app_name": "Mailparser",
+  "app_slug": "mailparser",
+  "pricing_url": "https://mailparser.io/pricing/",
+  "source_url": "https://mailparser.io/pricing",
+  "all_pricing_urls": [
+    "https://mailparser.io/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of emails processed monthly or annually. Enterprise plans are customizable.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Basic plan for small-scale usage.",
+      "monthly_price": 29.95,
+      "annual_price": 249.5,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "250 Emails Per Month",
+        "20 Inboxes",
+        "Detect Duplicate Emails",
+        "Auto Retry Failed Webhooks",
+        "Modify Data Points"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Emails Per Month",
+            "value": 250
+          },
+          {
+            "name": "Inboxes",
+            "value": 20
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Enhanced plan for moderate usage.",
+      "monthly_price": 39.95,
+      "annual_price": 339.5,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "500 Emails Per Month",
+        "30 Inboxes",
+        "5 Team Members",
+        "Multi-Factor Authentication",
+        "Detect Duplicate Emails",
+        "Auto Retry Failed Webhooks",
+        "Modify Data Points"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Emails Per Month",
+            "value": 500
+          },
+          {
+            "name": "Inboxes",
+            "value": 30
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Popular plan for businesses.",
+      "monthly_price": 99.95,
+      "annual_price": 839.5,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "2,000 Emails Per Month",
+        "50 Inboxes",
+        "50 Team Members",
+        "Multi-Factor Authentication",
+        "Detect Duplicate Emails",
+        "Auto Retry Failed Webhooks",
+        "Modify Data Points"
+      ],
+      "limits": {
+        "users": 50,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Emails Per Month",
+            "value": 2000
+          },
+          {
+            "name": "Inboxes",
+            "value": 50
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Advanced plan for high-volume usage.",
+      "monthly_price": 299.95,
+      "annual_price": 2499.5,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "10,000 Emails Per Month",
+        "Unlimited Inboxes",
+        "Unlimited Team Members",
+        "Multi-Factor Authentication",
+        "Detect Duplicate Emails",
+        "Auto Retry Failed Webhooks",
+        "Modify Data Points"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Emails Per Month",
+            "value": 10000
+          },
+          {
+            "name": "Inboxes",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Customizable plan for large-scale needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom Parsing Credits",
+        "Unlimited Inboxes",
+        "Unlimited Team Members",
+        "Multi-Factor Authentication",
+        "Detect Duplicate Emails",
+        "Auto Retry Failed Webhooks",
+        "Modify Data Points"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Parsing Credits",
+            "value": "custom"
+          },
+          {
+            "name": "Inboxes",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:13:00.316420",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d043dd8d-48cc-4037-b521-ced27639a3a9",
+    "name": "Mailparser",
+    "slug": "mailparser",
+    "description": "Send emails to Mailparser, get structured data in return. Leads, Contact Forms, eCommerce, Shipping Notes, Attachments, Customer Info & more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/41c4b56d695fedc68d91755c7f166c7b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email"
+    ],
+    "category_slugs": [
+      "email"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

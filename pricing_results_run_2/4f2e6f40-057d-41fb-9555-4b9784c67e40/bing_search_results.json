@@ -1,0 +1,12 @@
+{
+  "app_name": "BrokerEngine",
+  "app_slug": "brokerengine",
+  "search_term": "Find the official pricing page URL for BrokerEngine (brokerengine.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744697057.8241465,
+  "response_text": [
+    "I could not locate the pricing page on the BrokerEngine website. Please check directly on brokerengine.com!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\brokerengine\\20250415_020418"
+}

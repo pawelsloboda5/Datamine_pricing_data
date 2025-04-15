@@ -1,0 +1,43 @@
+{
+  "app_id": "enormail",
+  "app_name": "Enormail",
+  "app_slug": "enormail",
+  "pricing_url": null,
+  "source_url": "https://enormail.com",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "No pricing information was found in the provided content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:58:51.582858",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "7b4f0159-87e9-4352-b856-0f63afccc61e",
+    "name": "Enormail",
+    "slug": "enormail",
+    "description": "Enormail is an email marketing tool that makes it a breeze to grow your list and send automated campaigns.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/38c972091888f8a4f3ecf20483974f91.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 4,
+    "trigger_count": 0
+  }
+}

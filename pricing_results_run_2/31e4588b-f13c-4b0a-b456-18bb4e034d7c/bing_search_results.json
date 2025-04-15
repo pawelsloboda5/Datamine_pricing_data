@@ -1,0 +1,12 @@
+{
+  "app_name": "PassKit Membership",
+  "app_slug": "passkit-membership",
+  "search_term": "Find the official pricing page URL for PassKit Membership (passkit-membership.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744698998.1135702,
+  "response_text": [
+    "I couldn't locate a pricing page for \"PassKit Membership\" on their official site. Consider checking their homepage or contacting them directly for details."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\passkit-membership\\20250415_023638"
+}

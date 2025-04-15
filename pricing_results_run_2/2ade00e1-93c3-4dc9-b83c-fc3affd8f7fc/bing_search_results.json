@@ -1,0 +1,24 @@
+{
+  "app_name": "Zenoti",
+  "app_slug": "zenoti",
+  "search_term": "Find the official pricing page URL for Zenoti (zenoti.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744693325.1632059,
+  "response_text": [
+    "The official pricing page for Zenoti is: https://www.zenoti.com/pricing\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Discover Zenoti Pricing: The All-in-One Solution for Growth",
+      "url": "https://www.zenoti.com/discover-zenoti-pricing-aw"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.zenoti.com/pricing\u30103:0\u2020source\u3011.",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\zenoti\\20250415_010220"
+}

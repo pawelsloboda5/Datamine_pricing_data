@@ -1,0 +1,76 @@
+{
+  "app_id": "pinboard",
+  "app_name": "Pinboard",
+  "app_slug": "pinboard",
+  "pricing_url": "https://pinboard.in/signup/",
+  "source_url": "https://pinboard.in/",
+  "all_pricing_urls": [
+    "https://pinboard.in/signup/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pinboard offers a yearly subscription model with an optional archiving service for an additional fee.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Basic bookmarking service.",
+      "monthly_price": null,
+      "annual_price": 22.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Bookmark from any browser",
+        "Connect Twitter accounts and favorites",
+        "Sync with services like Instapaper or Pocket"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Archiving Service",
+      "tier_description": "Includes archiving, full-text search, and dead link checking.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Save copies of bookmarks",
+        "Full-text search",
+        "Dead link checking"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T10:06:59.543463",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7bcf072b-1340-426d-a681-1ab000a85efd",
+    "name": "Pinboard",
+    "slug": "pinboard",
+    "description": "Pinboard is a fast, no-nonsense bookmarking site. No ads, no fluff.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/be6a90cd5893eae9a9c63fc96c63c1d4_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Bookmark Managers"
+    ],
+    "category_slugs": [
+      "bookmarks"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

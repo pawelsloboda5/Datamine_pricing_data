@@ -1,0 +1,178 @@
+{
+  "app_id": "clientify",
+  "app_name": "Clientify",
+  "app_slug": "clientify",
+  "pricing_url": "https://clientify.com/pricing",
+  "source_url": "https://clientify.com/precios/",
+  "all_pricing_urls": [
+    "https://clientify.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes various tiers with additional features and limits. Taxes are applied based on the country.",
+  "pricing_tiers": [
+    {
+      "tier_name": "SOLO + INBOX",
+      "tier_description": "For entrepreneurs needing a single user.",
+      "monthly_price": 39.0,
+      "annual_price": 468.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1,000 CRM contacts",
+        "1 user",
+        "WhatsApp Cloud API integration",
+        "Unlimited WhatsApp campaigns"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "CRM contacts",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "START + INBOX",
+      "tier_description": "For growing businesses looking to automate.",
+      "monthly_price": 59.0,
+      "annual_price": 708.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2,500 CRM contacts",
+        "3 users",
+        "WhatsApp Cloud API integration",
+        "Unlimited WhatsApp campaigns"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "CRM contacts",
+            "value": 2500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "GROWTH + INBOX",
+      "tier_description": "Ideal for businesses using social media and campaign metrics.",
+      "monthly_price": 79.0,
+      "annual_price": 948.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5,000 CRM contacts",
+        "5 users",
+        "WhatsApp Cloud API integration",
+        "Unlimited WhatsApp campaigns"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "CRM contacts",
+            "value": 5000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "ENTERPRISE + INBOX",
+      "tier_description": "For scaling businesses.",
+      "monthly_price": 99.0,
+      "annual_price": 1188.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10,000 CRM contacts",
+        "10 users",
+        "WhatsApp Cloud API integration",
+        "Unlimited WhatsApp campaigns"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "CRM contacts",
+            "value": 10000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Kit Digital Completo",
+      "offer_description": "Enterprise plan with one year of free support for Spanish businesses.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Chatbot for WhatsApp, Messenger, Instagram",
+      "fee_amount": 180.0,
+      "fee_description": "Annual fee for chatbot functionality."
+    },
+    {
+      "fee_name": "A/B Testing for Email Campaigns",
+      "fee_amount": 90.0,
+      "fee_description": "Annual fee for A/B testing tools."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:06:22.314109",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7a506060-6950-4fcf-81b9-b9c9fd67679e",
+    "name": "Clientify",
+    "slug": "clientify",
+    "description": "Clientify is a marketing and sales automation platform to easily grow your business. It includes all the marketing tools, in just one place",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/9500ed0f01a60bfa672661ff90075aa0.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)",
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "crm",
+      "marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 4
+  }
+}

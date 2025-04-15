@@ -1,0 +1,144 @@
+{
+  "app_id": "manageengine_servicedesk_plus_cloud",
+  "app_name": "ManageEngine ServiceDesk Plus Cloud",
+  "app_slug": "manageengine-servicedesk-plus-cloud",
+  "pricing_url": "https://www.manageengine.com/products/service-desk/cloud/pricing.html",
+  "source_url": "https://www.manageengine.com/products/service-desk/pricing.html",
+  "all_pricing_urls": [
+    "https://www.manageengine.com/products/service-desk/cloud/pricing.html"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of technicians and nodes managed. Free tier available for up to 5 technicians in the Standard edition.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "IT help desk",
+      "monthly_price": 13.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Incident management",
+        "Self-service portal"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Technicians",
+            "value": "5"
+          },
+          {
+            "name": "Nodes",
+            "value": "250"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "IT help desk + asset",
+      "monthly_price": 27.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Incident management",
+        "IT asset management"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Technicians",
+            "value": "5"
+          },
+          {
+            "name": "Nodes",
+            "value": "500"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "IT help desk + asset + change + projects",
+      "monthly_price": 67.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Incident management",
+        "IT asset management",
+        "Change management",
+        "Project management"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Technicians",
+            "value": "5"
+          },
+          {
+            "name": "Nodes",
+            "value": "500"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Live chat",
+      "fee_amount": 65.0,
+      "fee_description": "Per technician per year"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:34:47.934411",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c5fec4c6-cee2-4cb9-9267-fc381df8b737",
+    "name": "ManageEngine ServiceDesk Plus Cloud",
+    "slug": "manageengine-servicedesk-cloud",
+    "description": "ManageEngine ServiceDesk Plus is a ITIL\u00ae compliant comprehensive help desk software with integrated asset and project management capabilities.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/8f06f7c52d8fbca9a2206143e3f6f54a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Productivity"
+    ],
+    "category_slugs": [
+      "productivity"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 3
+  }
+}

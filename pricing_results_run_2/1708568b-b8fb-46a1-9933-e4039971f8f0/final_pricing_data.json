@@ -1,0 +1,43 @@
+{
+  "app_id": "salla",
+  "app_name": "Salla",
+  "app_slug": "salla",
+  "pricing_url": null,
+  "source_url": "https://salla.com/en/pricing/",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not accessible due to a security verification step.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:32:29.986699",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "1708568b-b8fb-46a1-9933-e4039971f8f0",
+    "name": "Salla",
+    "slug": "salla",
+    "description": "Salla is an e-commerce platform in Saudi Arabia that enables merchants to effortlessly establish, operate, and manage their online stores with minimal complexities.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/13ead8d64ed0c46f8ba7aec773839922.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 4
+  }
+}

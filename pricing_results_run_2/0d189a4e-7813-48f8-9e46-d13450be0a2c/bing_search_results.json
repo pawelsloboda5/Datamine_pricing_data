@@ -1,0 +1,153 @@
+{
+  "app_name": "Cloudinary",
+  "app_slug": "cloudinary",
+  "search_term": "Find the official pricing page URL for Cloudinary (cloudinary.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744693719.1175413,
+  "response_text": [
+    "The official pricing page for Cloudinary is: [https://cloudinary.com/pricing](https://cloudinary.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Cloudinary - Pricing and Plans",
+      "url": "https://cloudinary.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://cloudinary.com/pricing",
+      "is_accessible": true,
+      "content": "Cloudinary - Pricing and Plans\n===============\n                                                                            \n\n[](https://cloudinary.com/)\n\n*   [Platform](https://cloudinary.com/pricing#)\n    \n    *   ![Image 1: Platform Overview Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)![Image 2: Platform Overview Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)\n        \n        [Platform OverviewCreate, personalize, and transcode video & images at massive scale](https://cloudinary.com/platform)\n    \n    *   Products\n        \n    *   ![Image 3: Image Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)![Image 4: Image Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)\n        \n        [ImageAutomated customization and optimized delivery of image](https://cloudinary.com/products/image)\n    *   ![Image 5: Video Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)![Image 6: Video Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)\n        \n        [VideoScale high-performing video faster with AI-powered automation](https://cloudinary.com/products/video)\n    *   ![Image 7: Assets Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)![Image 8: Assets Icon](blob:http://localhost/c525cde5d6e047473e635512a3b182d5)\n        \n        [AssetsAI-powered Digital Asset Management](https://cloudinary.com/products/digital_asset_management)\n    \n    BETA\n    \n    *   ![Image 9: MediaFlows Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)![Image 10: MediaFlows Icon](blob:http://localhost/c525cde5d6e047473e635512a3b182d5)\n        \n        [MediaFlowsLow-code workflow automation for image and video](https://cloudinary.com/products/mediaflows)\n    *   ![Image 11: Cloudinary 3D Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)![Image 12: Cloudinary 3D Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)\n        \n        [Cloudinary 3D3D models transformed into stunning creatives](https://cloudinary.com/products/3d)\n    *   ![Image 13: FinalTouch BETA Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)![Image 14: FinalTouch BETA Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)\n        \n        [FinalTouch BETACreate quality product photos with Gen-AI](https://final-tou.ch/)\n    \n    Explore\n    \n    *   [Cloudinary AIGenerative AI and Machine Learning to speed creativity](https://cloudinary.com/products/cloudinary_ai)\n    *   [DemosA collection of Cloudinary features, APIs, and tutorials](https://cloudinary.com/demos)\n    *   [IntegrationsConnect Cloudinary to your tech stack](https://cloudinary.com/integrations)\n    \n*   [Solutions](https://cloudinary.com/pricing#)\n    \n    BY USE CASE\n    \n    *   [Composable Architecture](https://cloudinary.com/solutions/composable-architecture)\n    *   [DAM for Video](https://cloudinary.com/products/digital_asset_management/dam-video)\n    *   [Headless DAM](https://cloudinary.com/solutions/headless)\n    *   [Performance Optimization](https://cloudinary.com/solutions/performance_optimization)\n    *   [UGC](https://cloudinary.com/solutions/user-generated-content)\n    *   [Video as a Service](https://cloudinary.com/solutions/video-as-a-service)\n    \n    BY FUNCTION\n    \n    *   [E-commerce](https://cloudinary.com/solutions/e-commerce-teams)\n    *   [CX Professionals](https://cloudinary.com/solutions/cx-professionals)\n    *   [Developers](https://cloudinary.com/developers)\n    *   [IT Teams](https://cloudinary.com/solutions/it-teams)\n    *   [Marketers](https://cloudinary.com/solutions/marketing-teams)\n    *   [Product and Engineering](https://cloudinary.com/solutions/product-and-engineering-teams)\n    \n    BY INDUSTRY\n    \n    *   [Media & Entertainment](https://cloudinary.com/solutions/industries/media_entertainment)\n    *   [Nonprofits](https://cloudinary.com/solutions/industries/cloudinary-for-nonprofits)\n    *   [Retail](https://cloudinary.com/solutions/retail)\n    *   [Travel & Hospitality](https://cloudinary.com/solutions/industries/travel_hospitality)\n    \n*   [Developers](https://cloudinary.com/pricing#)\n    \n    *   ![Image 15: Developer Overview Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)![Image 16: Developer Overview Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)\n        \n        [Developer OverviewCreate, personalize, and transcode video & images in minutes](https://cloudinary.com/developers)\n    \n    *   ![Image 17: Image API Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)![Image 18: Image API Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)\n        \n        [Image APIAdd optimized images to your website or app in minutes](https://cloudinary.com/image-api)\n    *   ![Image 19: Video API Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)![Image 20: Video API Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)\n        \n        [Video APIAdd video to your website or app in minutes](https://cloudinary.com/video_api)\n    *   ![Image 21: Integrations Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)![Image 22: Integrations Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)\n        \n        [Integrations](https://cloudinary.com/integrations)\n    *   ![Image 23: Documentation Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)![Image 24: Documentation Icon](blob:http://localhost/aa5c6062cf49228aef891e100429f606)\n        \n        [Documentation](https://cloudinary.com/documentation)\n    \n    Get Started\n    \n    *   [Developer Onboarding](https://cloudinary.com/documentation/dev_kickstart)\n    *   [SDK Quick Starts](https://cloudinary.com/documentation/sdk_quickstarts)\n    *   [Video Player API](https://cloudinary.com/documentation/video_player_api_reference)\n    *   [Video Tutorial Library](https://cloudinary.com/documentation/tutorial_screencasts)\n    \n    Manage Your Assets\n    \n    *   [Upload](https://cloudinary.com/documentation/upload_images)\n    *   [Transform & Customize](https://cloudinary.com/documentation/transformations_intro)\n    *   [Manage & Analyze](https://cloudinary.com/documentation/asset_management)\n    *   [Optimize & Deliver](https://cloudinary.com/documentation/image_delivery_options)\n    *   [AI in Action](https://cloudinary.com/documentation/ai_in_action)\n    \n*   [Resources](https://cloudinary.com/pricing#)\n    \n    Learn\n    \n    *   [Blog](https://cloudinary.com/blog/)\n    *   [Demos](https://cloudinary.com/demos)\n    *   [Documentation](https://cloudinary.com/documentation)\n    *   [Education & Training](https://training.cloudinary.com/)\n    *   [Glossary](https://cloudinary.com/glossary)\n    *   [Podcasts](https://cloudinary.com/podcasts)\n    *   [Resource Library](https://cloudinary.com/resources)\n    *   [Tools](https://cloudinary.com/tools)\n    \n    Support\n    \n    *   [Knowledge Base](https://support.cloudinary.com/)\n    *   [Technical Support](https://support.cloudinary.com/)\n    \n    SERVICES\n    \n    *   [Professional Services](https://cloudinary.com/professional-services)\n    *   [Education Services](https://cloudinary.com/education-services)\n    \n    Tech Articles\n    \n    *   [AI](https://cloudinary.com/guides/ai/cropping-images-using-ai)\n    *   [Automatic Image Cropping](https://cloudinary.com/guides/automatic-image-cropping/auto-image-crop-use-cases-features-and-best-practices)\n    *   [Image Formats](https://cloudinary.com/guides/image-formats/automatically-change-format-to-jpg)\n    *   [Bulk Image Resize](https://cloudinary.com/guides/bulk-image-resize/bulk-image-resize-in-css-javascript-python-java-node-js-and-other-languages)\n    *   [Digital Asset Management](https://cloudinary.com/guides/digital-asset-management/what-is-digital-asset-management)\n    *   [E-Commerce Platform](https://cloudinary.com/guides/e-commerce-platform/select-the-right-e-commerce-platform-for-your-needs)\n    *   [Front-End Development](https://cloudinary.com/guides/front-end-development/front-end-development-the-complete-guide)\n    *   [Image Effects](https://cloudinary.com/guides/image-effects/how-to-create-a-progress-bar-for-asset-uploads)\n    \n    *   [Marketing Videos](https://cloudinary.com/guides/marketing-videos/12-types-of-marketing-videos-and-10-ways-to-make-them-great)\n    *   [Responsive Images](https://cloudinary.com/guides/responsive-images/4-techniques-for-creating-responsive-images-with-bootstrap)\n    *   [Video Accessibility](https://cloudinary.com/products/video/accessibility)\n    *   [Video Effects](https://cloudinary.com/guides/video-effects/simplify-mobile-video-optimization)\n    *   [Video Formats](https://cloudinary.com/guides/video-formats/top-six-web-video-formats-of-2023)\n    *   [Web Performance](https://cloudinary.com/guides/web-performance/web-performance-what-is-it-trends-and-insights-for-2024)\n    *   [WordPress Plugin](https://cloudinary.com/guides/wordpress-plugin/optimize-video-for-wordpress-a-guide-for-seamless-performance)\n    \n*   [About Us](https://cloudinary.com/pricing#)\n    \n    *   [About Us](https://cloudinary.com/about)\n    *   [Careers](https://cloudinary.com/careers)\n    *   [Customers](https://cloudinary.com/customers)\n    *   [Events](https://cloudinary.com/events)\n    *   [Newsroom](https://cloudinary.com/newsroom)\n    *   [Labs](https://cloudinary.com/labs)\n    \n    Partners\n    \n    *   [Become a PartnerEngaging visual experiences with advance features](https://cloudinary.com/partners)\n    *   [Find a Solution PartnerEngaging visual experiences with advance features](https://cloudinary.com/solution-partners)\n    \n*   [Pricing](https://cloudinary.com/pricing)\n\n*   [Contact](https://cloudinary.com/contact)\n*   [Support](https://support.cloudinary.com/)\n*   [Documentation](https://cloudinary.com/documentation)\n*   [Login](https://cloudinary.com/users/login)\n\n[sign up for free](https://cloudinary.com/users/register_free)\n\n### Cloudinary Image and Video Platform offers AI-powered APIs to automate image and video management, transformation and optimized delivery at scale\n\n*   [Image and Video APIs](https://cloudinary.com/pricing#pricing-content-1)\n*   [Digital Asset Management](https://cloudinary.com/pricing#pricing-content-2)\n\nYearly\n\n \n\nMonthly\n\n#### Free\n\nStart exploring Image and Video APIs today.\n\n[Sign Up Free](https://cloudinary.com/users/register_free)\n\n[Features Include](https://cloudinary.com/pricing#collapseOne)\n\n*   Upload widget, API, and search\n*   Remote fetch, auto-backup, and revision tracking\n*   Image and video transformations\n*   Video transcoding and adaptive streaming\n*   High performance delivery through a CDN\n*   Support \u2014 forums, tickets, and email\n*   Access to free add-ons\n\n$0\n\nFree forever  \n\nNo credit card required\n\nNo cc required\n\n$0 $0\n\nFree forever  \n\nNo credit card required\n\nNo cc required\n\n3 Users / 1 Account  \n25 monthly credits\n\n#### **Features**\n\n*   Upload widget, API, and search\n*   Remote fetch, auto-backup, and revision tracking\n*   Image and video transformations\n*   Video transcoding and adaptive streaming\n*   High performance delivery through a CDN\n*   Support \u2014 forums, tickets, and email\n*   Access to free add-ons\n\n#### Plus MOST POPULAR\n\nExtend your team\u2019s digital media capabilities for websites & apps.\n\n[Get Started](https://cloudinary.com/users/register_free?plan=plus)\n\n[Features Include](https://cloudinary.com/pricing#collapseTwo)\n\n*   Backup to your own S3 bucket\n*   Auto-tagging based search\n*   Access to free and paid add-ons\n*   Expedited support\n*   Allowlist/Blocklist asset access\n*   Video Bandwidth Boost 2:1\n*   Role-based multi-user administration\n\nMonthly\n\n \n\nYearly\n\n$99\n\nPer month\n\n$89\n\nPer month\n\n3 Users / 2 Accounts  \n225 monthly credits\n\n#### **Features** (incl Free features)\n\n*   Backup to your own S3 bucket\n*   Auto-tagging based search\n*   Access to free and paid add-ons\n*   Expedited support\n*   Allowlist/Blocklist asset access\n*   Video Bandwidth Boost 2:1\n*   Role-based multi-user administration\n\n#### Advanced\n\nEngaging visual experiences with advanced features.\n\n[Get Started](https://cloudinary.com/users/register_free?plan=advanced)\n\n[Features Include](https://cloudinary.com/pricing#collapseThree)\n\n*   Custom domain (CNAME) support\n*   Optional HTTPS SSL Certificate\n*   Authentication Options\n\nMonthly\n\n \n\nYearly\n\n$249\n\nPer month\n\n$224\n\nPer month\n\n5 Users / 3 Accounts  \n600 monthly credits\n\n#### **Features** (incl Plus features)\n\n*   Custom domain (CNAME) support\n*   Optional HTTPS SSL Certificate\n*   Authentication Options\n\n#### Custom\n\nFor organizations requiring digital media at scale.\n\n[Contact Us](https://cloudinary.com/contact?plan=enterprise)\n\n[Features Include](https://cloudinary.com/pricing#collapseFour)\n\n*   Backup to your own S3 bucket\n*   Auto-tagging based search\n*   Access to free and paid add-ons\n*   Expedited support\n*   Allowlist/Blocklist asset access\n*   Video Bandwidth Boost 2:1\n*   Role-based multi-user administration\n\nIncludes enhanced  \nfeatures, security, support,  \nand services.\n\n#### **Features**\n\n*   Security and compliance review\n*   Multi-CDN and enterprise grade infrastructure\n*   Enterprise SLAs and support\n*   Designated customer success manager\n*   Custom contracts and invoicing\n*   User management (SSO, provisioning API)\n\n[Compare plans and FAQ \u2192](https://cloudinary.com/pricing/compare-plans)\n\n[Interested in support offerings?](https://cloudinary.com/pricing/customer-success)\n\n[Interested in Professional Services?](https://cloudinary.com/professional-services)\n\n[Are you a nonprofit?](https://cloudinary.com/solutions/industries/cloudinary-for-nonprofits)\n\nYearly\n\n \n\nMonthly\n\n#### Enterprise\n\nFull featured rich media DAM.\n\n[CONTACT US](https://cloudinary.com/contact)\n\n[Features Include](https://cloudinary.com/pricing#collapseSix)\n\n*     \n    **Streamline Content Operations.** Empower teams to launch dynamic visual experiences in a fraction of the time\n*     \n    **Faster Innovation.** Adopt cutting-edge technology with the flexibility for today and tomorrow\n*     \n    **Full-team Collaboration.** Unify customer experience teams on one platform to reduce complexity\n*     \n    **One-File Approach.** Leveraging a \u201cone file, many variations\u2019 approach means no duplicates, no clutter, and reduced storage cost\n*     \n    **Collaboration is Key.** Add value for all team members with access via an intuitive UI, widget library, REST API or SDK\n*     \n    **Powered by Artificial Intelligence.** Content-aware algorithms and object detection for faster, smarter work\n\nCustom\n\nCustom Custom\n\nWork directly with our expert team to  \ncraft a plan to meet your exact needs\n\n#### **Features**\n\n*   **Streamline Content Operations.**  \n    Empower teams to launch dynamic visual experiences in a fraction of the time\n*   **Faster Innovation.**  \n    Adopt cutting-edge technology with the flexibility for today and tomorrow\n*   **Full-team Collaboration.**  \n    Unify customer experience teams on one platform to reduce complexity\n*   **One-File Approach.**  \n    Leveraging a \u201cone file, many variations\u2019 approach means no duplicates, no clutter, and reduced storage cost\n*   **Collaboration is Key.**  \n    Add value for all team members with access via an intuitive UI, widget library, REST API or SDK\n*   **Powered by Artificial Intelligence.**  \n    Content-aware algorithms and object detection for faster, smarter work\n\n#### Free\n\nStart exploring Cloudinary Assets DAM today.\n\n[Sign Up Free](https://cloudinary.com/users/register_free?product=dam)\n\n[Features Include](https://cloudinary.com/pricing#collapseFive)\n\n*     \n    **Easy Setup.** Setup, tune, and populate your catalog quickly using step-by-step video tutorials\n*     \n    **Auto Tagging.** AI-powered automatic keywording adds value to every asset\n*     \n    **Video Support.** Not just for imagery, out-of-the-box support for all video files\n*     \n    **Asset Variations.** Access a large library of presets to transform, size, crop, and color your files for any project need\n\n$0\n\nFree  \n\nNo credit card required\n\nNo cc required\n\n$0 $0\n\nFree  \n\nNo credit card required\n\nNo cc required\n\n3 Users / 1 Account  \n25 Gigabytes (GB) of Storage\n\n#### **Features**\n\n*   **Easy Setup.**  \n    Setup, tune, and populate your catalog quickly using step-by-step video tutorials\n*   **Auto Tagging.**  \n    AI-powered automatic keywording adds value to every asset\n*   **Video Support.**  \n    Not just for imagery, out-of-the-box support for all video files\n*   **Asset Variations.**  \n    Access a large library of presets to transform, size, crop, and color your files for any project need\n\n[Interested in support offerings?](https://cloudinary.com/pricing/customer-success)\n\n[](https://cloudinary.com/)\n\n**Products**\n\n*   [Platform](https://cloudinary.com/platform)\n*   [Image](https://cloudinary.com/products/image)\n*   [Video](https://cloudinary.com/products/video)\n*   [DAM](https://cloudinary.com/products/digital_asset_management)\n*   [Demos](https://cloudinary.com/demos)\n*   [Pricing](https://cloudinary.com/pricing)\n*   [FAQ](https://cloudinary.com/faq)\n\n**Solutions**\n\n*   [E-commerce](https://cloudinary.com/solutions/ecommerce)\n*   [Retail](https://cloudinary.com/solutions/retail)\n*   [Media & Entertainment](https://cloudinary.com/solutions/industries/media_entertainment)\n*   [Travel & Hospitality](https://cloudinary.com/solutions/industries/travel_hospitality)\n*   [Non-Profits](https://cloudinary.com/solutions/industries/cloudinary-for-nonprofits)\n*   [Our Customers](https://cloudinary.com/customers)\n*   [Resource Library](https://cloudinary.com/resources)\n\n**Developers**\n\n*   [Image API](https://cloudinary.com/image-api)\n*   [Video API](https://cloudinary.com/video_api)\n*   [Getting Started](https://cloudinary.com/developers)\n*   [Documentation](https://cloudinary.com/documentation)\n*   [SDKs](https://cloudinary.com/documentation/cloudinary_sdks)\n*   [Add-Ons](https://cloudinary.com/addons)\n*   [Podcasts](https://cloudinary.com/podcasts)\n\n**Company**\n\n*   [About Us](https://cloudinary.com/about)\n*   [Customers](https://cloudinary.com/customers)\n*   [Partners](https://cloudinary.com/partners)\n*   [Events](https://cloudinary.com/events)\n*   [Careers](https://cloudinary.com/careers)\n*   [Newsroom](https://cloudinary.com/newsroom)\n*   [Blog](https://cloudinary.com/blog/)\n*   [Trust](https://cloudinary.com/trust)\n\n**Contact Us**\n\n*   [Technical Support](https://support.cloudinary.com/hc/en-us)\n*   [Contact Sales](https://cloudinary.com/contact)\n*   [Education & Training](https://training.cloudinary.com/)\n\n*   [](https://twitter.com/cloudinary)\n*   [](https://www.linkedin.com/company/cloudinary/)\n*   [](https://www.facebook.com/Cloudinary)\n*   [](https://www.instagram.com/cloudinarylife)\n*   [](https://www.youtube.com/@Cloudinary)\n\n*   ![Image 25: Institute of Quality & Control](https://cloudinary-res.cloudinary.com/image/upload/b_rgb:0C163B,c_scale,f_auto,q_auto,w_76,dpr_auto/v1563215041/website/seals/L_ISO_27001_2013_E.png)\n*   ![Image 26: GDPR](https://cloudinary-res.cloudinary.com/image/upload/b_rgb:0C163B,c_scale,f_auto,q_auto,w_76,dpr_auto/v1563215041/website/seals/GDPR.png)\n*   ![Image 27: SOC](https://cloudinary-res.cloudinary.com/image/upload/b_rgb:0C163B,c_scale,f_auto,q_auto,w_76,dpr_auto/v1563215041/website/seals/21972-312_SOC_NonCPA.png)\n\n*   [Terms of Use](https://cloudinary.com/tou)\n*   [Privacy Policy](https://cloudinary.com/privacy)\n*   [DMCA Notice](https://cloudinary.com/dmca)\n\n\u00a9 2025 Cloudinary. All rights reserved.\n\n    \n\n  \n\nThis website uses cookies to ensure you get the best browsing experience. Accepting our cookie policy below enables us to tailor your website experience. Without these cookies, the site may not function as intended. To get more information about these cookies and the processing of your personal data, please check our Privacy Policy.\n\nAccept\n\n![Image 28: Company Logo](https://cdn.cookielaw.org/logos/static/ot_company_logo.png)\n\nPrivacy Preference Center\n-------------------------\n\n*   ### Your Privacy\n    \n*   ### Performance Cookies\n    \n*   ### Functional Cookies\n    \n*   ### Targeting Cookies\n    \n*   ### Strictly Necessary Cookies\n    \n\n#### Your Privacy\n\nWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.  \n[More information](https://cookiepedia.co.uk/giving-consent-to-cookies)\n\n#### Performance Cookies\n\nAlways Active\n\nThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.\n\n#### Functional Cookies\n\nAlways Active\n\nThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.\n\n#### Targeting Cookies\n\nAlways Active\n\nThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.\n\n#### Strictly Necessary Cookies\n\nAlways Active\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.\n\n### Cookie List\n\nConsent Leg.Interest\n\n checkbox label label\n\n checkbox label label\n\n checkbox label label\n\nClear\n\n checkbox label label\n\nApply Cancel\n\nConfirm My Choices\n\nReject All Allow All\n\n[![Image 29: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)\n\n ![Image 30](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%26800%26600%264%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=e62f6053-f671-48df-82fb-e05390e06261&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7d26c1c2-6de3-4b77-b3ac-eca652556695&tw_document_href=https%3A%2F%2Fcloudinary.com%2Fpricing&tw_iframe_status=0&txn_id=o2m55&type=javascript&version=2.3.31)![Image 31](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%26800%26600%264%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=e62f6053-f671-48df-82fb-e05390e06261&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=7d26c1c2-6de3-4b77-b3ac-eca652556695&tw_document_href=https%3A%2F%2Fcloudinary.com%2Fpricing&tw_iframe_status=0&txn_id=o2m55&type=javascript&version=2.3.31)\n\nSelect a plan that best suits your needs. A Free plan with generous usage limits is available without any time limit. Activate now!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "cloudinary",
+        "app_name": "Cloudinary",
+        "app_slug": "cloudinary",
+        "pricing_url": "https://cloudinary.com/pricing",
+        "source_url": "https://cloudinary.com/pricing",
+        "all_pricing_urls": [
+          "https://cloudinary.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Cloudinary offers a free tier with limited usage and subscription plans with increasing features and limits.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Start exploring Image and Video APIs today.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Upload widget, API, and search",
+              "Remote fetch, auto-backup, and revision tracking",
+              "Image and video transformations",
+              "Video transcoding and adaptive streaming",
+              "High performance delivery through a CDN",
+              "Support \u2014 forums, tickets, and email",
+              "Access to free add-ons"
+            ],
+            "limits": {
+              "users": 3,
+              "storage": "25GB",
+              "operations": null,
+              "api_calls": "25 monthly credits",
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Plus",
+            "tier_description": "Extend your team\u2019s digital media capabilities for websites & apps.",
+            "monthly_price": 99.0,
+            "annual_price": 89.0,
+            "annual_discount_percentage": 10.1,
+            "setup_fee": null,
+            "features": [
+              "Backup to your own S3 bucket",
+              "Auto-tagging based search",
+              "Access to free and paid add-ons",
+              "Expedited support",
+              "Allowlist/Blocklist asset access",
+              "Video Bandwidth Boost 2:1",
+              "Role-based multi-user administration"
+            ],
+            "limits": {
+              "users": 3,
+              "storage": null,
+              "operations": null,
+              "api_calls": "225 monthly credits",
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Advanced",
+            "tier_description": "Engaging visual experiences with advanced features.",
+            "monthly_price": 249.0,
+            "annual_price": 224.0,
+            "annual_discount_percentage": 10.04,
+            "setup_fee": null,
+            "features": [
+              "Custom domain (CNAME) support",
+              "Optional HTTPS SSL Certificate",
+              "Authentication Options"
+            ],
+            "limits": {
+              "users": 5,
+              "storage": null,
+              "operations": null,
+              "api_calls": "600 monthly credits",
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Custom",
+            "tier_description": "For organizations requiring digital media at scale.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Security and compliance review",
+              "Multi-CDN and enterprise grade infrastructure",
+              "Enterprise SLAs and support",
+              "Designated customer success manager",
+              "Custom contracts and invoicing",
+              "User management (SSO, provisioning API)"
+            ],
+            "limits": {
+              "users": "custom",
+              "storage": "custom",
+              "operations": "custom",
+              "api_calls": "custom",
+              "integrations": "custom",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T01:08:57.484305",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\cloudinary\\20250415_010857"
+}

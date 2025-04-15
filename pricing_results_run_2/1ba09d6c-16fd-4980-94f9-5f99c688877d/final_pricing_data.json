@@ -1,0 +1,48 @@
+{
+  "app_id": "pathwright",
+  "app_name": "Pathwright",
+  "app_slug": "pathwright",
+  "pricing_url": "https://www.pathwright.com/pricing",
+  "source_url": "https://www.pathwright.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.pathwright.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was identified but specific tier details were not extracted.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T10:06:04.249602",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "1ba09d6c-16fd-4980-94f9-5f99c688877d",
+    "name": "Pathwright",
+    "slug": "pathwright",
+    "description": "Design step-by-step learning paths for anyone. With Pathwright you can create learning paths that guide students, employees, or anyone in the world to a new level of skill.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/55e61dd8b3ee1db08b567165d05b08b1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 9
+  }
+}

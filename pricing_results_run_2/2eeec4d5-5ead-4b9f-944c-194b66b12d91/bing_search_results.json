@@ -1,0 +1,129 @@
+{
+  "app_name": "Flickr",
+  "app_slug": "flickr",
+  "search_term": "Find the official pricing page URL for Flickr (flickr.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725976.9929767,
+  "response_text": [
+    "The official pricing page URL for Flickr is: [https://www.flickr.com/account/upgrade/pro](https://www.flickr.com/account/upgrade/pro).\u30103:0\u2020source\u3011"
+  ],
+  "citations": [
+    {
+      "title": "Upgrade everything you do with Flickr | Flickr",
+      "url": "https://www.flickr.com/account/upgrade/pro"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.flickr.com/account/upgrade/pro",
+      "is_accessible": true,
+      "content": "### Advanced stats on your photos and videos\n\nGain an understanding of how people are discovering your Flickr Photos. See which of your photos are trending now, and which have performed the best over the life of your Flickr Pro account.\n\n![Image 1](https://combo.staticflickr.com/ap/build/images/pro/flickrpro-nextjs-stats-images/bg_en-us.jpg) ![Image 2](https://combo.staticflickr.com/ap/build/images/pro/flickrpro-nextjs-stats-images/img_en-us.png)\n\n![Image 3](https://combo.staticflickr.com/ap/build/images/pro/flickrpro-featured.jpg)\n\nFEATURED PRO\n\nNASA HQ PHOTO\n\n### Ad-free browsing on Flickr for you and your visitors\n\nEnjoy a fully ad-free experience across all of Flickr. Visitors to your account will never see an ad on your photostream, albums, profile, or any of your photos. [Learn more](https://flickrhelp.com/hc/en-us/articles/4404057954068-Ad-free-Browsing-and-Ad-free-Sharing-of-Photos).\n\n### Unlimited uploads and worry-free photo backup\n\nUpload as many photos as you can take, always at true full resolution. With Auto-Uploadr, quickly and easily back up your entire photo collection from your phone, computer, hard drives, Dropbox, Adobe Lightroom, and more.\n\n![Image 4](https://combo.staticflickr.com/ap/build/images/pro/flickrpro-premium_en-us.jpg)\n\n### Premier product support.\n\nWhy wait in line for help? Flickr Pros receive top-priority assistance from our world-class support heroes, so you can resolve your questions and get back to your photography.\n\n![Image 5](https://combo.staticflickr.com/ap/build/images/pro/flickrpro-privacy_en-us.jpg)\n\n### Detailed privacy settings for every photo.\n\nGot albums you want to share with friends, family, or no-one at all? Flickr Pros get complete control over privacy settings for all their photos (free accounts are limited to 1,000 uploads, only 50 of which can be private).\n\n![Image 6](https://combo.staticflickr.com/ap/build/images/pro/flickrpro-safe-space-mobile.jpg)\n\n### A safe space for every kind of photography.\n\nFlickr is home to every kind of photography, including those that might be considered \u201crisque\u201d or be banned on other platforms. Flickr Pro lets you share these interests with other dedicated artists without fear.\n\n![Image 7](https://combo.staticflickr.com/ap/build/images/pro/flickrpro-but-wait.jpg)\n\n### But wait, there\u2019s more!\n\nGive your content the Pro treatment with 6k photo display options, 10-minute video uploads, and sales links to wherever you host your photo business (we recommend SmugMug\u2014see our 50% off perk below).\n\n### Annual and 2 Year Pro subscription perks\n\n### SmugMug\n\nWith unlimited photo storage and website customization, SmugMug is perfect for every photographer. Take 50% off the first year for new subscriptions.\n\n### Blurb\n\nGet $35 dollars off your Photo Book purchase up to 4 times a year. Valid for orders of $70 or more.\n\n### Adobe\n\nFlickr Pro members receive a complimentary 3-month subscription of Adobe Creative Cloud Photography plan\n\n### Priime\n\nGet 20% off Priime\u2019s Lightroom presets bundle, with 13 presents based on film aesthetics, and more than 100 total variations.\n\n### FAQ\n\n### What is Flickr Pro?\n\nFlickr Pro is a paid membership that gives you an enhanced experience across Flickr and includes powerful tools for managing your photos.\n\n### Can I promote my business?\n\nIf you are a Flickr Pro member, you can use Flickr to promote your photography business, your products, your photography classes, etc. You can link directly to a shopping cart, checkout page, or pricing pages on other sites, and you can list prices for your images in your Flickr photo descriptions. Learn more about [commercial activity on Flickr.](https://www.flickr.com/help/guidelines)\n\n### More questions?\n\nPlease visit the [Flickr Help Center](https://www.flickr.com/help) for more information or to connect with an agent.\n\n### Where can I view or change my subscription?\n\nYou can check your subscription status and change your Flickr Pro membership at any time in [Account Settings.](https://www.flickr.com/account) Your new subscription will take effect once your current subscription ends.\n\n### What if I want to cancel my subscription?\n\nYou can cancel your Flickr Pro subscription at any time. Your Flickr Pro benefits will remain active for the rest of your billing cycle. Refunds and credits aren\u2019t issued for partial billing periods. Learn more about [billing and cancellations here.](https://www.flickr.com/help)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "flickr",
+        "app_name": "Flickr",
+        "app_slug": "flickr",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Flickr Pro offers enhanced features and tools for managing photos, including unlimited uploads, ad-free browsing, and advanced stats.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Basic access with limited features.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Limited to 1,000 uploads",
+              "Only 50 private uploads allowed"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "limited to 1,000 uploads",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Enhanced experience with powerful tools for managing photos.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited uploads",
+              "Ad-free browsing",
+              "Advanced stats",
+              "Premier product support",
+              "Detailed privacy settings",
+              "6k photo display options",
+              "10-minute video uploads",
+              "Sales links for photo business"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "SmugMug Discount",
+            "offer_description": "50% off the first year for new subscriptions.",
+            "discount_percentage": 50.0,
+            "offer_url": null,
+            "valid_until": null
+          },
+          {
+            "offer_name": "Blurb Discount",
+            "offer_description": "$35 off Photo Book purchase up to 4 times a year for orders of $70 or more.",
+            "discount_percentage": null,
+            "offer_url": null,
+            "valid_until": null
+          },
+          {
+            "offer_name": "Adobe Creative Cloud",
+            "offer_description": "Complimentary 3-month subscription of Adobe Creative Cloud Photography plan.",
+            "discount_percentage": null,
+            "offer_url": null,
+            "valid_until": null
+          },
+          {
+            "offer_name": "Priime Discount",
+            "offer_description": "20% off Priime\u2019s Lightroom presets bundle.",
+            "discount_percentage": 20.0,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T10:06:30.436602",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\flickr\\20250415_100630"
+}

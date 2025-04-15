@@ -1,0 +1,24 @@
+{
+  "app_name": "SureCart",
+  "app_slug": "surecart",
+  "search_term": "Find the official pricing page URL for SureCart (surecart.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744702904.762041,
+  "response_text": [
+    "Here is the official pricing page URL for SureCart: [https://surecart.com/pricing/](https://surecart.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Start selling online with SureCart!",
+      "url": "https://surecart.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://surecart.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\surecart\\20250415_034200"
+}

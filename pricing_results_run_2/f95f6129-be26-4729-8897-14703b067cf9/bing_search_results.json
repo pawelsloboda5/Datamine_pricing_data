@@ -1,0 +1,46 @@
+{
+  "app_name": "Any.do Workspace",
+  "app_slug": "anydo-workspace",
+  "search_term": "Find the official pricing page URL for Any.do Workspace (anydo-workspace.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744723878.5623868,
+  "response_text": [
+    "Here is the link to the official pricing page for Any.do Workspace: [https://www.anydo.com/pricing](https://www.anydo.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.anydo.com/pricing",
+      "is_accessible": true,
+      "content": "UH OH! You're lost.\n-------------------\n\nThe page you are looking for does not exist.How you got here is a mystery. But you can click the button below to go back to the homepage.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "anydo_workspace",
+        "app_name": "Any.do Workspace",
+        "app_slug": "anydo-workspace",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page was not accessible, and no details could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:31:28.331946",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": true,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\anydo-workspace\\20250415_093128"
+}

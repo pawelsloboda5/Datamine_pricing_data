@@ -1,0 +1,257 @@
+{
+  "app_id": "mailersend",
+  "app_name": "MailerSend",
+  "app_slug": "mailersend",
+  "pricing_url": "https://www.mailersend.com/pricing",
+  "source_url": "https://www.mailersend.com/pricing",
+  "all_pricing_urls": [
+    "https://www.mailersend.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier, subscription plans, and usage-based charges for additional emails and SMS.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Hobby",
+      "tier_description": "Free plan for basic usage.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email API and SMTP relay",
+        "Drag & Drop email builder",
+        "24 hours data retention"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": 1000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "emails",
+            "value": 3000
+          },
+          {
+            "name": "templates",
+            "value": 3
+          },
+          {
+            "name": "domains",
+            "value": 1
+          },
+          {
+            "name": "webhooks",
+            "value": 1
+          },
+          {
+            "name": "API tokens",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "For growing businesses.",
+      "monthly_price": 28.0,
+      "annual_price": 336.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "50 sender identities",
+        "Inbound routing",
+        "SMS API"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": 100000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "emails",
+            "value": 50000
+          },
+          {
+            "name": "SMS",
+            "value": 100
+          },
+          {
+            "name": "email verification credits",
+            "value": 100
+          },
+          {
+            "name": "domains",
+            "value": 10
+          },
+          {
+            "name": "webhooks",
+            "value": 50
+          },
+          {
+            "name": "API tokens",
+            "value": 50
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "For advanced needs.",
+      "monthly_price": 88.0,
+      "annual_price": 1056.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited templates",
+        "High throughput API"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": 500000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "emails",
+            "value": 50000
+          },
+          {
+            "name": "SMS",
+            "value": 150
+          },
+          {
+            "name": "email verification credits",
+            "value": 400
+          },
+          {
+            "name": "domains",
+            "value": 1000
+          },
+          {
+            "name": "webhooks",
+            "value": "unlimited"
+          },
+          {
+            "name": "API tokens",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom solutions for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited domains",
+        "Dedicated IP"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": 500000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "emails",
+            "value": "unlimited"
+          },
+          {
+            "name": "SMS",
+            "value": "unlimited"
+          },
+          {
+            "name": "email verification credits",
+            "value": "unlimited"
+          },
+          {
+            "name": "domains",
+            "value": "unlimited"
+          },
+          {
+            "name": "webhooks",
+            "value": "unlimited"
+          },
+          {
+            "name": "API tokens",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "emails",
+      "unit": "per 1000 emails",
+      "base_price": 1.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "SMS",
+      "unit": "per 100 SMS",
+      "base_price": 1.4,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Email verification",
+      "fee_amount": 0.01,
+      "fee_description": "Per credit for email verification."
+    },
+    {
+      "fee_name": "Domain spaces",
+      "fee_amount": 4.0,
+      "fee_description": "Per additional domain space."
+    },
+    {
+      "fee_name": "Phone numbers",
+      "fee_amount": 2.0,
+      "fee_description": "Per phone number."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:26:44.633220",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bb09da7c-b335-4f29-a0b4-fc3251b7a379",
+    "name": "MailerSend",
+    "slug": "mailersend",
+    "description": "MailerSend is a powerful transactional email system built for developers but designed so non-tech teams can contribute without coding.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/dfc2f02f871f2862c9d78991cbbae8ae_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Transactional Email"
+    ],
+    "category_slugs": [
+      "transactional-email"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 10
+  }
+}

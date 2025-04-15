@@ -1,0 +1,175 @@
+{
+  "app_name": "Memberstack",
+  "app_slug": "memberstack",
+  "search_term": "Find the official pricing page URL for Memberstack (memberstack.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744713539.4472768,
+  "response_text": [
+    "The official pricing page URL for Memberstack is: [https://www.memberstack.com/pricing](https://www.memberstack.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Memberstack Pricing | Unlimited Free Trial",
+      "url": "https://www.memberstack.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.memberstack.com/pricing",
+      "is_accessible": true,
+      "content": "Apply a **Welcome Discount** for **50% off** your first month\n\nSave $100k on Engineering for $29/mo  \n\n---------------------------------------\n\n100\n\n+\n\n![Image 1: 1. Use the sliders to describe your business\n](https://cdn.prod.website-files.com/5bbfaf3252489b4c484ba9b9/64bfd778aeaccb53bcc98438_1.%20Use%20the%20sliders%20to%20describe%20your%20business.%20(3).png)\n\n![Image 2: 2. And we'll help you find the most affordable plan](https://cdn.prod.website-files.com/5bbfaf3252489b4c484ba9b9/64bfd78d363259218ea307e8_2.%20And%20we%27ll%20help%20you%20find%20the%20most%20affordable%20plan.%20(3).png)\n\n$0\n\n+\n\n0\n\nEstablished\n\n$249with code **2025EST**\n\n$499/mo\n\n$499/mo\n\nRECOMMENDED\n\nZERO\u00a0transaction fees\n\n10,000\\+ Members\n\n**$49/mo** per additional **20,000** members.\n\nSocial Logins\n\nStripe Payments\n\nCustom SSO\n\nBranded Emails\n\n[Everything Else](https://www.memberstack.com/features)\n\n[Get Started](https://app.memberstack.com/signup?established)\n\nBusiness\n\n$49with code **2025BUS**\n\n$99/mo\n\nRECOMMENDED\n\n**0.9%**\u00a0transaction fee\n\n10,000\\+ Members\n\n**$49/mo** per additional **20,000** members.\n\nSocial Login\n\nStripe Payments\n\nCustom SSO\n\nBranded Emails\n\n[Everything Else](https://www.memberstack.com/features)\n\n[Get Started](https://app.memberstack.com/signup?business)\n\nNo credit card required\n\nProfessional\n\n$24 with code **2025PRO**\n\n$49/mo\n\nRECOMMENDED\n\n**2%** transaction fee\n\n5,000 Members\n\nSocial Logins\n\nStripe Payments\n\nCustom SSO\n\nBranded Emails\n\n[Everything Else](https://www.memberstack.com/features)\n\n[Get Started](https://app.memberstack.com/signup?professional)\n\nNo credit card required\n\nBasic\n\n$14 with code **2025BASIC**\n\n$29/mo\n\nRECOMMENDED\n\nRECOMMENDED\n\n**4%** transaction fee\n\n1,000 Members\n\nSocial Logins\n\nStripe Payments\n\nCustom SSO\n\nBranded Emails\n\n[Everything Else](https://www.memberstack.com/features)\n\n[Get Started](https://app.memberstack.com/signup?basic)\n\nNo credit card required\n\nApply a **Welcome Discount** for **50% off** your first month\n\n200 Member Plan\n\n$99/mo\n\n**ZERO** transaction fee\n\n[Learn More](https://docs.memberstack.com/hc/en-us/articles/13707369368987#agencies)\n\nYoung Professionals\n\n$0/mo\n\n**4%** transaction fee\n\n[Learn More](https://docs.memberstack.com/hc/en-us/articles/13707369368987#young-professionals)\n\n30-Day Money Back Guarantee\n---------------------------\n\nIf you're not 100% satisfied we will refund 100% your last payment. Which doesn't happen often.\n\nAbout Memberstack\n\nWho is Memberstack for?\n\nCompanies building with [Stripe](https://www.memberstack.com/features/stripe-integration), [Webflow](https://www.memberstack.com/with/react), and/or [React](https://www.memberstack.com/with/webflow).  \n\u200d  \nCompanies like American Airlines, Slack, Entreprenuer.com, and Smart Passive Income use Memberstack to serve millions of members every single day.  \n\u200d  \nAnd top Webflow agencies like [Relume](https://www.memberstack.com/showcase/how-we-built-relume-library), Finsweet, Flowbase, Refokus, Whiteboard, and Brandweld use Memberstack to build beautiful client projects with user [auth](https://www.memberstack.com/features#authentication), [gated content](https://www.memberstack.com/features/gate-content), and [Stripe payments](https://www.memberstack.com/features/stripe-integration). It\u2019s free until you\u2019re ready to go live.\n\nWhat is Memberstack &\u00a0what are the main features?\n\nDoes Memberstack have an API?\n\nCan I\u00a0talk to someone about my product or idea?\n\nYes, of course! Please post in our [Community](https://www.memberstack.com/slack) \u2014 we'd love to hear what you're working on and how we can help.\n\nBilling &\u00a0Pricing\n\nDoes Memberstack have a free trial?\n\nYes, absolutely! All of Memberstack's features are **free to try (no credit card)** on a test site for an **unlimited amount of time**. This means that you can take the time you need to set up Memberstack fully in test mode, and only pay when your website is ready to accept real members.\n\nHow do the member limits work?\n\nWe count the total number of [Live](https://docs.memberstack.com/hc/en-us/articles/7595262385819-Managing-Test-Mode-and-Live-Mode) members. This includes all free and paying members. And excludes any test mode members.\n\nYou will receive an email when you are 90% of the way to your current member limit.  \n\u200d  \nWhen you reach 100% on the [Basic and Professional plans](https://memberstack.webflow.io/pricing) we will automatically upgrade your account to the next tier. If you are on the Business or Established plans we will automatically increase your member limit by 20,000 to avoid interruptions.\n\nWhat are transaction fees and when do they apply?\n\nWe define a **transaction** as whenever a member pays to sign up on your website through Memberstack. A **transaction fee** is a service fee based on a given percentage of each transaction.\n\nIf you only have free members, then the transaction fees _do not_ apply to you. If you do require your members to pay during signup, then Memberstack charges a flat transaction fee based on your plan.\n\nPlease note that Memberstack's transaction fees do not include the fees that Stripe charges.\n\nHow do I receive the money from the sales on my Website?\n\nMemberstack uses [Stripe](https://stripe.com/) to process payments securely on our users' websites and for payouts. Money you earn on your website is directly and securely transferred to your bank account via Stripe.\n\nDoes Memberstack offer any discounts for non-profits?\n\nAs a mission-driven organization, we're happy to support non-profits with a 50% discount for 12 months \u2014 please fill out this form with details on your non-profit to activate it: [www.memberstack.com/nonprofit](https://www.memberstack.com/nonprofit).\n\nDoes Memberstack offer any discounts for students and young professionals?\n\nWe believe in empowering young professionals as they work their way through school or embark on their careers.\n\n**If you are between the ages of 18 and 22, you can receive a 100% discount on our services.  \n**  \nPlease upload proof of age as part of your application.\n\nApply now through our [Young Professionals Discount Application Form](https://www.memberstack.com/student).\n\nDoes Memberstack offer any discounts for startups?\n\nAs a startup, we know how hard it can be to make purchasing decisions - especially when the cost is a % of your revenue. This is why **we offer a special discount for those that have attended a startup program like Y Combinator, 500 Startups, or Launch and raised less than $1 million in funding.**\n\nApply now through our [Startup Discount Application Form](https://www.memberstack.com/startups).\n\nDoes Memberstack have a refund policy?\n\n**Yes\u2026** If you have paid for a yearly or a monthly plan in the last 30-days you are entitled to a prorated refund. If you\u2019re not happy with Memberstack, let us know and we will make things right! If you\u2019re still not happy.**  \nPS\u2026** You must request a refund with-in 45-days of upgrading to be eligible.**PPS\u2026** Please contact us if you have any concerns. We\u2019ll do everything in our power to make things right!\n\nData &\u00a0Security\n\nDoes Memberstack have a privacy policy &\u00a0security policy?\n\nAre my members' emails and passwords secured by Memberstack?\n\nYes. Data stored in Memberstack about your members is secured using industry best practices \u2014 this includes member emails, passwords and metadata. We force [HTTPS](https://www.cloudflare.com/learning/ssl/what-is-https/) so that data between your website and our servers is **always encrypted**. Data stored in our database is also encrypted at rest. We also take regular automated backups in order to stay safe.\n\nWe are an official Stripe Partner to process payments \u2014 so **we do not have access to and do not store any financial information**.\n\nDoes Memberstack access or store any of my members' financial information?\n\nMemberstack uses [Stripe](https://www.memberstack.com/features/stripe-integration) to process payments \u2014 we are an Official Stripe Partner. **We do not have access to and do not store any financial information about our customer's members.**\n\nCan I\u00a0use Memberstack to gate highly sensitive information?\n\nMost Memberstack features gate content on the front-end - meaning, a determined person with the right knowledge will be able to get around our content gating. This applies to pages/elements that you build in Webflow, and then gate using Memberstack.\n\nHowever, **there are various ways to keep information secure, like:  \n\u200d**  \n**1\\. Hosted Content:**\u00a0Using our hosted content feature, you can keep text-based content (including links &\u00a0HTML) stored inside of Memberstack, and it is not served to the user unless they have been authenticated.  \n**2\\. Member JSON\u00a0&\u00a0Metadata:**\u00a0This member-specific information is added by the member and lives inside Memberstack. The only person who should be able to access it is the owner of the account, and the account admin.\n\nSecurity is a tricky and nuanced topic - if you're unsure if Memberstack's security is a good fit for your use case, [please send a message in our Slack channel](https://www.memberstack.com/slack) to get advice and recommendations from the community, our team, and our experts.\n\nIs Memberstack GDPR\u00a0compliant?\n\n**Yes** \u2014 We are committed to helping our customers and users understand and, where applicable, comply with the General Data Protection Regulation (GDPR).\n\nIn addition to strengthening and standardizing user data privacy across jurisdictions, GDPR introduce additional obligations on all organizations that handle personal data.\n\n[On this page, we explain how Memberstack complies with GDPR.](https://docs.memberstack.com/hc/en-us/articles/16351989319067-GDPR-Compliance-Overview?_gl=1*1jmgyor*_ga*MTI1MTg0Mjk0LjE3MjU5MDI3MzI.*_ga_M18GBY4NJ0*MTczMDM3ODczMC4xNC4xLjE3MzAzODMxNTMuNjAuMC4w)\n\nCan I upload and store content in Memberstack for my members to access?\n\nOther\n\nWhat if I'd like to email your team with a question, idea, or feedback?\n\n**You can email us at support \\[at\\] memberstack \\[dot\\] com.** Please note that for support queries relating to using Memberstack, we recommend posting on our [community](https://docs.memberstack.com/hc/en-us/community/posts). Paying customers can also reaching us through a chat widget in the application.\n\nSlack\n\n### Still have questions? Ask away in our 5,500+ member Slack community! \ud83d\ude4c\n\nJoin the Memberstack community Slack and ask away!\u00a0Expect a prompt reply from a team member, a Memberstack expert, or a fellow community member.\n\n[Join our Slack](https://www.memberstack.com/slack)\n\n100% free trial \u2014 try out all features for an unlimited time. Only pay when you're ready to launch and accept members on your website. Pricing plans starting at $25 and onwards.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "memberstack",
+        "app_name": "Memberstack",
+        "app_slug": "memberstack",
+        "pricing_url": "https://www.memberstack.com/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://www.memberstack.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes a free tier and discounts for specific groups like non-profits and young professionals.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic",
+            "tier_description": null,
+            "monthly_price": 29.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Social Logins",
+              "Stripe Payments",
+              "Custom SSO",
+              "Branded Emails"
+            ],
+            "limits": {
+              "users": 1000,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Professional",
+            "tier_description": null,
+            "monthly_price": 49.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Social Logins",
+              "Stripe Payments",
+              "Custom SSO",
+              "Branded Emails"
+            ],
+            "limits": {
+              "users": 5000,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": null,
+            "monthly_price": 99.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Social Logins",
+              "Stripe Payments",
+              "Custom SSO",
+              "Branded Emails"
+            ],
+            "limits": {
+              "users": "10,000+",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Established",
+            "tier_description": null,
+            "monthly_price": 499.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Social Logins",
+              "Stripe Payments",
+              "Custom SSO",
+              "Branded Emails"
+            ],
+            "limits": {
+              "users": "10,000+",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Additional Members",
+            "unit": "per 20,000 members",
+            "base_price": 49.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Welcome Discount",
+            "offer_description": "50% off your first month",
+            "discount_percentage": 50.0,
+            "offer_url": null,
+            "valid_until": null
+          },
+          {
+            "offer_name": "Non-Profit Discount",
+            "offer_description": "50% discount for 12 months for non-profits",
+            "discount_percentage": 50.0,
+            "offer_url": "https://www.memberstack.com/nonprofit",
+            "valid_until": null
+          },
+          {
+            "offer_name": "Young Professionals Discount",
+            "offer_description": "100% discount for ages 18-22",
+            "discount_percentage": 100.0,
+            "offer_url": "https://www.memberstack.com/student",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T06:39:12.396807",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\memberstack\\20250415_063912"
+}

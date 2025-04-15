@@ -1,0 +1,153 @@
+{
+  "app_name": "Mercury",
+  "app_slug": "mercury",
+  "search_term": "Find the official pricing page URL for Mercury (mercury.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744692947.6418607,
+  "response_text": [
+    "The official pricing page for Mercury can be found at: [https://mercury.com/pricing](https://mercury.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Explore Pricing - Mercury",
+      "url": "https://mercury.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://mercury.com/pricing",
+      "is_accessible": true,
+      "content": "*   [Pricing](https://mercury.com/pricing)\n\nTransparent pricing\n-------------------\n\nPowerful business banking with no annual fees, and upgraded financial workflows as you scale.\n\n$0/ Month\n\nPowerful business banking and finance essentials.\n\n[Open Account](https://app.mercury.com/signup)\n\nBusiness banking\n----------------\n\n*   FDIC-insured bank accounts[1](https://mercury.com/pricing#footnote-fdic-business)\n    \n*   Online ACH, wires,[2](https://mercury.com/pricing#footnote-international-transaction-fees) & checks\n    \n*   Corporate debit & credit cards[2](https://mercury.com/pricing#footnote-international-transaction-fees)\n    \n*   Up to 4.46% yield[3](https://mercury.com/pricing#footnote-treasury-default) ($500K minimum balance)\n    \n\nBill pay\n--------\n\n*   Unlimited bill payments\n    \n\nInvoicing\n---------\n\n*   Unlimited invoice generation\n    \n\nReimbursements\n--------------\n\n*   Reimburse up to 5 users/month\n    \n\nClosing the books\n-----------------\n\n*   Xero\n    \n*   QuickBooks\n    \n\nMercury Plus\n------------\n\n$35/ Month\n\nEverything Mercury offers, with more reimbursements and invoicing power.\n\n[Get Started](https://app.mercury.com/settings/plan-and-billing?upgradeToPlan=Plus)\n\nBusiness banking\n----------------\n\n*   FDIC-insured bank accounts[1](https://mercury.com/pricing#footnote-fdic-business)\n    \n*   Online ACH, wires,[2](https://mercury.com/pricing#footnote-international-transaction-fees) & checks\n    \n*   Corporate debit & credit cards[2](https://mercury.com/pricing#footnote-international-transaction-fees)\n    \n*   Up to 4.46% yield[3](https://mercury.com/pricing#footnote-treasury-default) ($500K minimum balance)\n    \n\nBill pay\n--------\n\n*   Unlimited bill payments\n    \n\nInvoicing\n---------\n\n*   Unlimited invoice generation\n    \n*   Recurring invoicing\n    \n*   Branded invoices\n    \n*   ACH debit\n    \n    \\+ $1/ACH debit transaction\n    \n\nReimbursements\n--------------\n\n*   Reimburse up to 20 users/month\n    \n    \\+ $5/additional active user\n    \n\nClosing the books\n-----------------\n\n*   Xero\n    \n*   QuickBooks\n    \n\nMercury Pro\n-----------\n\n$350/ Month\n\nEverything Mercury Plus offers,\u2028with advanced workflows and dedicated support.\n\n[Get Started](https://app.mercury.com/settings/plan-and-billing?upgradeToPlan=Pro)\n\nBusiness banking\n----------------\n\n*   FDIC-insured bank accounts[1](https://mercury.com/pricing#footnote-fdic-business)\n    \n*   Online ACH, wires,[2](https://mercury.com/pricing#footnote-international-transaction-fees) & checks\n    \n*   Corporate debit & credit cards[2](https://mercury.com/pricing#footnote-international-transaction-fees)\n    \n*   Up to 4.46% yield[3](https://mercury.com/pricing#footnote-treasury-default) ($500K minimum balance)\n    \n\nBill pay\n--------\n\n*   Unlimited bill payments\n    \n\nInvoicing\n---------\n\n*   Unlimited invoice generation\n    \n*   Recurring invoicing\n    \n*   Branded invoices\n    \n*   ACH debit\n    \n    \\+ $0/ACH debit transaction\n    \n\nReimbursements\n--------------\n\n*   Reimburse up to 250 users/month\n    \n    \\+ $5/additional active user\n    \n\nClosing the books\n-----------------\n\n*   Xero\n    \n*   QuickBooks\n    \n*   NetSuite\n    \n\nTap into expertise\n------------------\n\n*   Relationship manager\n    \n    Also guaranteed at $10M+ balance\n    \n\n[Compare All Features](https://mercury.com/pricing#compare-our-plans)\n\nCustom solutions for enterprise\n-------------------------------\n\nGet in touch with our team for\u2028custom pricing and plan options.\n\nCompare our plans\n-----------------\n\n| Plan Type | Plan Type |\n| --- | --- |\n|  | Mercury | Mercury Plus | Mercury Pro |\n| --- | --- | --- | --- |\n| Banking |\n| No monthly or overdraft fees, or minimum balances |  |  |  |\n| [Business checking and savings](https://mercury.com/bank-accounts) |  |  |  |\n| [Mercury Treasury](https://mercury.com/treasury)[3](https://mercury.com/pricing#footnote-treasury-default)With $500K cumulative account balance\n | Earn up to 4.46%[3](https://mercury.com/pricing#footnote-treasury-default) | Earn up to 4.46%[3](https://mercury.com/pricing#footnote-treasury-default) | Earn up to 4.46%[3](https://mercury.com/pricing#footnote-treasury-default) |\n| Up to $5M in FDIC insurance[1](https://mercury.com/pricing#footnote-fdic-business)Through our partner banks and their sweep networks\n\n |  |  |  |\n| Free domestic and USD international wires |  |  |  |\n| 1% currency exchange fee for non-USD international wires |  |  |  |\n| Partner perks and rewards |  |  |  |\n| Payments API |  |  |  |\n| Team management including bookkeeper access |  |  |  |\n| Third-party integrationsWith Stripe, Slack, and more\n\n |  |  |  |\n| Cards |\n| Virtual and physical debit cards[4](https://mercury.com/pricing#footnote-debit-card-default) |  |  |  |\n| [Corporate credit cards](https://mercury.com/credit)1.5% cashback[5](https://mercury.com/pricing#footnote-cashback-default) / $25K balance minimum\n\n |  |  |  |\n| Custom spend limits and merchant-locked cards |  |  |  |\n| Duplicate subscription detection |  |  |  |\n| Security |\n| Automated fraud monitoring |  |  |  |\n| SOC 2 compliance |  |  |  |\n| Robust encryption |  |  |  |\n| PCI-certified to protect credit card info |  |  |  |\n| Multi-factor authentication |  |  |  |\n| [Accounting Automations](https://mercury.com/accounting-automations) |\n| Bank feed import | QuickBooks Online, Xero, and NetSuite | QuickBooks Online, Xero, and NetSuite | QuickBooks Online, Xero, and NetSuite |\n| Enriched accounting integrations | QuickBooks Online and Xero | QuickBooks Online and Xero | QuickBooks Online, Xero, and NetSuite |\n| [Invoicing](https://mercury.com/invoicing) |\n| Unlimited invoice generation |  |  |  |\n| Recurring invoicing |  |  |  |\n| Branded invoices |  |  |  |\n| ACH debit payments |  | $1/ACH debit transaction | $0/ACH debit transaction |\n| [Bill Pay](https://mercury.com/bill-pay) |\n| Unlimited bill payments |  |  |  |\n| Approval rules |  |  |  |\n| Email bill forwarding |  |  |  |\n| Automated bill scanning |  |  |  |\n| Duplicate bill detection |  |  |  |\n| Split bills with multiple GL codes |  |  |  |\n| [Reimbursements](https://mercury.com/expense-management) |\n| Reimbursements | 5 active users | 20 active users\\+ $5/additional active user\n\n | 250 active users\\+ $5/additional active user\n\n |\n| Multi-currency and mileage reimbursements |  |  |  |\n| Auto-populated expenses from receipts |  |  |  |\n| Customer support |\n| Email or contact support via your Mercury dashboard |  |  |  |\n| Dedicated relationship managerAlso guaranteed at $10M+ balance\n\n |  |  |  |\n\nPricing FAQ\n-----------\n\nDisclaimers and footnotes\n-------------------------\n\nMercury is a fintech company, [not an FDIC-insured bank](https://mercury.com/how-mercury-works). Banking services provided by [Choice Financial Group](https://co-mercury-prod.s3.amazonaws.com/legal/Choice+-+Mercury+Deposit+Program+Disclosure+Statement+-+12_21_22.pdf), [Column N.A.](https://co-mercury-prod.s3.amazonaws.com/legal/Column+Sweep+Program+Agreement+-+Mercury.pdf), and\u00a0[Evolve Bank & Trust](https://co-mercury-prod.s3.amazonaws.com/legal/Evolve+-+Deposit+Program+Custodial+Agreement+-+12_21_22.pdf), Members FDIC. Deposit insurance covers the failure of an insured bank.\n\n2.  Mercury is a fintech company, not an FDIC-insured bank. Checking and savings accounts are offered by our bank partners [Choice Financial Group](https://co-mercury-prod.s3.amazonaws.com/legal/Choice+-+Mercury+Deposit+Program+Disclosure+Statement+-+05_01_24.pdf), [Column N.A.](https://column.com/legal/sweep-program-network-banks), and [Evolve Bank & Trust](https://co-mercury-prod.s3.amazonaws.com/legal/Evolve+-+Deposit+Program+Custodial+Agreement+-+12_21_22.pdf); Members FDIC. Deposit insurance covers the failure of an insured bank. Checking and savings account deposits may be held by sweep network banks. Certain conditions must be satisfied for pass-through insurance to apply. Learn more [here](https://mercury.com/blog/understanding-bank-sweep-network).\n    \n3.  Non-USD international wires are subject to a flat 1% currency exchange fee. Non-USD transactions made with business debit cards and IO credit cards are also subject to an international transaction fee.\n    \n4.  Mercury Treasury, by Mercury Advisory, LLC, an SEC-registered investment adviser, seeks to earn net returns up to 4.46% annually on your idle cash. Net yield numbers as of 04/14/2025, and assumes total Mercury deposits of $20M+.\n    \n    Treasury accounts are advised by Mercury Advisory LLC, an SEC-registered investment adviser (\u201cMercury Advisory\u201d), and are custodied by [Apex Clearing Corporation](https://apexfintechsolutions.com/legal/disclosures/), a registered broker dealer and member FINRA / SIPC. Treasury accounts are not FDIC insured. For additional information about advisory services provided by Mercury Advisory, please refer to its [ADV Wrap Fee Brochure](https://adviserinfo.sec.gov/firm/summary/308960).\n    \n    The performance discussed herein is historic and reflects an investment for a limited period of time. It should not be assumed that future investors would experience returns, if any, comparable to those illustrated herein. Past performance is not indicative of future returns. Investment results will fluctuate. Returns are not guaranteed. All investments are subject to the risk of loss, including the loss of principal. No representation is being made that an investment account has, will, or is likely to achieve profits or losses equal to the profits or losses shown. Actual returns will vary greatly and depend on personal and market conditions. Before investing, consider your financial goals and the costs of using the program.\n    \n    Furthermore, the information set forth has been obtained from sources that the Firm believes to be reliable; however, these sources cannot be guaranteed as to their accuracy or completeness. The information contained herein is not, and should not be construed as, an offer to sell or the solicitation of an offer to buy any securities. The information has been prepared solely for the purpose of determining your level of interest in Mercury Treasury and to provide general background information on such algorithmic investment program.\n    \n    This information contains certain \u201cforward-looking statements,\u201d which may be identified by the use of such words as \u201cbelieve,\u201d \u201cexpect,\u201d \u201canticipate,\u201d \u201cshould,\u201d \u201cplanned,\u201d \u201cestimated,\u201d \u201cpotential\u201d and other similar terms.\n    \n    Examples of forward-looking statements include, but are not limited to, estimates with respect to financial condition, results of operations, and success or lack of success of the depicted investment strategy. All are subject to various factors, including, but not limited to general and local economic conditions, changing levels of competition within certain industries and markets, changes in interest rates, changes in legislation or regulation, and other economic, competitive, governmental, regulatory and technological factors affecting operations that could cause actual results to differ materially from projected results.\n    \n    Targeted returns (e.g., forward-looking statements of performance up to a stated return) reflects the returns that the Firm is seeking to achieve over a particular period of time. Projected returns reflect the Firm\u2019s performance estimate \u2013 i.e., the returns that the Firm believes can be achieved using the advertised investment services. Target returns are presented to inform clients or potential clients about the Firm\u2019s risk tolerances when managing the Mercury Treasury strategy and to provide information useful to a client or potential client when assessing how the Firm\u2019s strategy fits within the investor\u2019s overall portfolio. Target returns are not guarantees or promises of future return.\n    \n    Mercury Treasury is not insured by the FDIC. Mercury Treasury are not deposits or other obligations of Choice Financial Group, Column N.A., or Evolve Bank & Trust, and are not guaranteed by Choice Financial Group, Column N.A., or Evolve Bank & Trust. Mercury Treasury products are subject to investment risks, including possible loss of the principal invested.\n    \n5.  The Mercury Debit Cards are issued by Choice Financial Group, Column N.A., and Evolve Bank & Trust, Members FDIC, pursuant to licenses from Mastercard.\n    \n6.  The IO Card is issued by Patriot Bank, Member FDIC, pursuant to a license from Mastercard. Cashback is automatically credited to your linked checking account when your monthly repayment is processed. If you make an early payment (full or partial), you\u2019ll receive cashback proportional to the amount paid. Your Mercury accounts must be open and in good standing to receive cashback. Cashback rewards may be forfeited if your account is closed or pending closure based on a violation of any applicable terms. Mercury may modify or terminate the cashback program at any time, and any promotional offers or other changes will be communicated by email or on our website. If you have questions about your cashback, please contact Mercury at\u00a0[help@mercury.com](mailto:help@mercury.com).\n    \n7.  The Mercury Debit Cards are issued by Choice Financial Group, Column N.A., and Evolve Bank & Trust, Members FDIC, pursuant to licenses from Mastercard. The IO Card is issued by Patriot Bank, Member FDIC, pursuant to a license from Mastercard.\n    \n8.  Mercury is a financial technology company, [not a bank](https://mercury.com/how-mercury-works). Banking services provided by Choice Financial Group; Member FDIC.\n\nOur pricing works with your business, whether you\u2019re bootstrapped or venture-backed. Think about something other than fees.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "mercury",
+        "app_name": "Mercury",
+        "app_slug": "mercury",
+        "pricing_url": "https://mercury.com/pricing",
+        "source_url": "https://mercury.com/pricing",
+        "all_pricing_urls": [
+          "https://mercury.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Mercury offers a free tier and two paid tiers with additional features and limits.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Mercury",
+            "tier_description": "Powerful business banking and finance essentials.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "FDIC-insured bank accounts",
+              "Online ACH, wires, & checks",
+              "Corporate debit & credit cards",
+              "Up to 4.46% yield ($500K minimum balance)",
+              "Unlimited bill payments",
+              "Unlimited invoice generation",
+              "Reimburse up to 5 users/month",
+              "Integration with Xero and QuickBooks"
+            ],
+            "limits": {
+              "users": 5,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Mercury Plus",
+            "tier_description": "Everything Mercury offers, with more reimbursements and invoicing power.",
+            "monthly_price": 35.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "FDIC-insured bank accounts",
+              "Online ACH, wires, & checks",
+              "Corporate debit & credit cards",
+              "Up to 4.46% yield ($500K minimum balance)",
+              "Unlimited bill payments",
+              "Unlimited invoice generation",
+              "Recurring invoicing",
+              "Branded invoices",
+              "ACH debit (+ $1/ACH debit transaction)",
+              "Reimburse up to 20 users/month (+ $5/additional active user)",
+              "Integration with Xero and QuickBooks"
+            ],
+            "limits": {
+              "users": 20,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Mercury Pro",
+            "tier_description": "Everything Mercury Plus offers, with advanced workflows and dedicated support.",
+            "monthly_price": 350.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "FDIC-insured bank accounts",
+              "Online ACH, wires, & checks",
+              "Corporate debit & credit cards",
+              "Up to 4.46% yield ($500K minimum balance)",
+              "Unlimited bill payments",
+              "Unlimited invoice generation",
+              "Recurring invoicing",
+              "Branded invoices",
+              "ACH debit (+ $0/ACH debit transaction)",
+              "Reimburse up to 250 users/month (+ $5/additional active user)",
+              "Integration with Xero, QuickBooks, and NetSuite",
+              "Dedicated relationship manager"
+            ],
+            "limits": {
+              "users": 250,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "ACH debit transaction fee",
+            "fee_amount": 1.0,
+            "fee_description": "Applicable for Mercury Plus tier."
+          },
+          {
+            "fee_name": "Additional active user fee",
+            "fee_amount": 5.0,
+            "fee_description": "Applicable for Mercury Plus and Mercury Pro tiers."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T00:56:04.525066",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\mercury\\20250415_005605"
+}

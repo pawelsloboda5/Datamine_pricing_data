@@ -1,0 +1,235 @@
+{
+  "app_id": "slicktext",
+  "app_name": "SlickText",
+  "app_slug": "slicktext",
+  "pricing_url": "https://www.slicktext.com/pricing",
+  "source_url": "https://www.slicktext.com/pricing",
+  "all_pricing_urls": [
+    "https://www.slicktext.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer two free months of message credits and allow flexibility in credit usage over the year.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free tier with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "No credit card required"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "500 credits per month.",
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free incoming texts",
+        "Unlimited contacts",
+        "Rollover credits",
+        "Live phone, chat, and email support",
+        "One premium sending number"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "1,000 credits per month.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free incoming texts",
+        "Unlimited contacts",
+        "Rollover credits",
+        "Live phone, chat, and email support",
+        "One premium sending number"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "2,000 credits per month.",
+      "monthly_price": 79.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free incoming texts",
+        "Unlimited contacts",
+        "Rollover credits",
+        "Live phone, chat, and email support",
+        "One premium sending number"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "3,500 credits per month.",
+      "monthly_price": 129.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free incoming texts",
+        "Unlimited contacts",
+        "Rollover credits",
+        "Live phone, chat, and email support",
+        "One premium sending number",
+        "1 on 1 onboarding"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": 3500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "5,000 credits per month.",
+      "monthly_price": 169.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free incoming texts",
+        "Unlimited contacts",
+        "Rollover credits",
+        "Live phone, chat, and email support",
+        "One premium sending number",
+        "1 on 1 onboarding"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": 5000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom solutions for large-scale needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom-built solutions",
+        "Dedicated Customer Success Manager"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Short code or local number provisioning",
+      "fee_amount": null,
+      "fee_description": "Extra fee for provisioning short codes or local numbers."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:13:20.240625",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4fd034e1-7696-4851-9aa4-cad82a41667c",
+    "name": "SlickText",
+    "slug": "slicktext",
+    "description": "SlickText provides businesses and organizations with SMS marketing and mass text messaging solutions.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/8ab936eee5779eb978902938789c276a_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 8,
+    "trigger_count": 0
+  }
+}

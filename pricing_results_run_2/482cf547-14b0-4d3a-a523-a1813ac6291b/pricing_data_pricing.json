@@ -1,0 +1,47 @@
+{
+  "app_id": "bizzabo",
+  "app_name": "Bizzabo",
+  "app_slug": "bizzabo",
+  "pricing_url": "https://www.bizzabo.com/pricing",
+  "source_url": "https://www.bizzabo.com/pricing",
+  "all_pricing_urls": [
+    "https://www.bizzabo.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing details for Bizzabo are not explicitly listed on the website and are likely available upon request.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:05:40.625314",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "482cf547-14b0-4d3a-a523-a1813ac6291b",
+    "name": "Bizzabo",
+    "slug": "bizzabo",
+    "description": "Bizzabo is an event success platform that helps organizers create successful events by empowering them to build amazing websites, sell tickets, grow communities, go mobile and maximize their events experiences and results.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/6666039967e61a726e9cd0578791c04f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 4
+  }
+}

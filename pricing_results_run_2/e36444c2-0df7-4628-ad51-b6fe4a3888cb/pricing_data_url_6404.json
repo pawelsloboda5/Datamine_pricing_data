@@ -1,0 +1,182 @@
+{
+  "app_id": "esignatures",
+  "app_name": "eSignatures",
+  "app_slug": "esignatures",
+  "pricing_url": "https://esignatures.com/pricing",
+  "source_url": "https://esignatures.com/pricing/",
+  "all_pricing_urls": [
+    "https://esignatures.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Credits purchased never expire, and all features are included without limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pay-as-you-go",
+      "tier_description": "Usage-based pricing per contract.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited templates",
+        "Unlimited users",
+        "API integration",
+        "Google Drive auto upload",
+        "Zapier, Make integration",
+        "Contract links (forms)",
+        "Signer attachments",
+        "Embedded signing",
+        "Custom branding",
+        "SMS contracts",
+        "Bulk send",
+        "WordPress signing",
+        "Multi factor signer identification",
+        "Custom contract expiry period",
+        "Email reminders, notifications",
+        "Amending sent contracts",
+        "Template collaboration",
+        "User permissions",
+        "Audit trail",
+        "Custom data center location",
+        "24 supported languages",
+        "eIDAS, GDPR compliant",
+        "ESIGN, UETA compliant",
+        "ISO 27001 certified",
+        "HIPAA compliant"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Subscription-based pricing for enterprise clients.",
+      "monthly_price": 4999.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "24/7 support with SLA",
+        "Dedicated account manager",
+        "Zoom meetings"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Contracts",
+      "unit": "per contract",
+      "base_price": 0.49,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 100.0,
+          "price": 0.49
+        },
+        {
+          "min": 101.0,
+          "max": 200.0,
+          "price": 0.49
+        },
+        {
+          "min": 201.0,
+          "max": 1100.0,
+          "price": 0.47
+        },
+        {
+          "min": 1101.0,
+          "max": 2200.0,
+          "price": 0.45
+        },
+        {
+          "min": 2201.0,
+          "max": 4700.0,
+          "price": 0.43
+        },
+        {
+          "min": 4701.0,
+          "max": 12000.0,
+          "price": 0.41
+        },
+        {
+          "min": 12001.0,
+          "max": 31000.0,
+          "price": 0.33
+        },
+        {
+          "min": 31001.0,
+          "max": 82000.0,
+          "price": 0.24
+        },
+        {
+          "min": 82001.0,
+          "max": 260000.0,
+          "price": 0.2
+        },
+        {
+          "min": 260001.0,
+          "max": 610000.0,
+          "price": 0.16
+        },
+        {
+          "min": 610001.0,
+          "max": "unlimited",
+          "price": 0.16
+        }
+      ]
+    },
+    {
+      "metric_name": "SMS",
+      "unit": "per SMS",
+      "base_price": 0.04,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:43:51.483780",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e36444c2-0df7-4628-ad51-b6fe4a3888cb",
+    "name": "eSignatures",
+    "slug": "esignatures",
+    "description": "ESignatures.io is a tool used for signing mobile friendly contracts over the web.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/6c1b1ebafd0ffebf297cbad7786fd9f6.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Signatures"
+    ],
+    "category_slugs": [
+      "signatures"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 4
+  }
+}

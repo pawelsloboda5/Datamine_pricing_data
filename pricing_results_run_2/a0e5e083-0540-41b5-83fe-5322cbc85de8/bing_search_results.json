@@ -1,0 +1,57 @@
+{
+  "app_name": "FreedomSoft",
+  "app_slug": "freedomsoft",
+  "search_term": "Find the official pricing page URL for FreedomSoft (freedomsoft.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744726148.801844,
+  "response_text": [
+    "The official pricing page for FreedomSoft is:\n\n[https://www.freedomsoft.com/pricing](https://www.freedomsoft.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - FreedomSoft",
+      "url": "https://freedomsoft.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://freedomsoft.com/pricing/",
+      "is_accessible": true,
+      "content": "Why have I been blocked?\n------------------------\n\nThis website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nWhat can I do to resolve this?\n------------------------------\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "freedomsoft",
+        "app_name": "FreedomSoft",
+        "app_slug": "freedomsoft",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "Unable to access the pricing page due to security restrictions.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T10:09:12.154720",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": true,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.freedomsoft.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\freedomsoft\\20250415_100927"
+}

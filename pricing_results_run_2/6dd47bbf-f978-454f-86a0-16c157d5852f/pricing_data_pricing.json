@@ -1,0 +1,47 @@
+{
+  "app_id": "dext",
+  "app_name": "Dext",
+  "app_slug": "dext",
+  "pricing_url": "https://www.dext.com/en/partner/pricing",
+  "source_url": "https://www.dext.com/practice/prepare/pricing",
+  "all_pricing_urls": [
+    "https://www.dext.com/en/partner/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing details are not explicitly listed on the accessible pages.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:58:19.672043",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "6dd47bbf-f978-454f-86a0-16c157d5852f",
+    "name": "Dext",
+    "slug": "dext",
+    "description": "Dext makes accountants and the businesses you look after more productive and profitable through better data and insights.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d2587b7121bdce656ad6e6cdf0964c05.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 2
+  }
+}

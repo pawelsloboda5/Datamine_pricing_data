@@ -1,0 +1,165 @@
+{
+  "app_id": "posthog",
+  "app_name": "PostHog",
+  "app_slug": "posthog",
+  "pricing_url": "https://posthog.com/pricing",
+  "source_url": "https://posthog.com/pricing",
+  "all_pricing_urls": [
+    "https://posthog.com/pricing"
+  ],
+  "price_model_type": [
+    "free_tier",
+    "usage_based",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "PostHog offers a generous free tier with usage-based pricing for additional usage. Enterprise features are available starting at $2,000/month.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Generous free tier with no credit card required.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1M events for analytics",
+        "5K session replay recordings",
+        "1M feature flag requests",
+        "100K error tracking exceptions",
+        "250 survey responses",
+        "1M data warehouse rows"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "1 year data retention",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projects",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Usage-Based",
+      "tier_description": "Pay for usage beyond the free tier limits.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Set billing limits per product",
+        "Email support for usage over $2,000/month"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "7 years data retention",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projects",
+            "value": 6
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Advanced features and dedicated support.",
+      "monthly_price": 2000.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "SAML SSO",
+        "Custom MSA",
+        "Dedicated support",
+        "Training & onboarding",
+        "Advanced permissions",
+        "Audit logs"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "7 years data retention",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Anonymous events",
+      "unit": "per event",
+      "base_price": 5e-05,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 1000000.0,
+          "price": 0.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Identified events",
+      "unit": "per event",
+      "base_price": 0.000248,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 1000000.0,
+          "price": 0.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Group analytics",
+      "unit": "per event",
+      "base_price": 7.1e-05,
+      "tiers": null
+    },
+    {
+      "metric_name": "Data pipelines",
+      "unit": "per event",
+      "base_price": 6.2e-05,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:56:54.414524",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "53362403-2af9-4707-9608-459996c99838",
+    "name": "PostHog",
+    "slug": "posthog",
+    "description": "PostHog is the single platform for building successful products. Open-source product analytics, web analytics, session replay, feature flags, surveys, and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/d5f03149294b4830495f3e3a481bd7ca_6.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Analytics"
+    ],
+    "category_slugs": [
+      "analytics"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

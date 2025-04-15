@@ -1,0 +1,47 @@
+{
+  "app_id": "exercise_com",
+  "app_name": "Exercise.com",
+  "app_slug": "exercise-com",
+  "pricing_url": "https://www.exercise.com/platform/pricing/",
+  "source_url": "https://www.exercise.com/platform/pricing/",
+  "all_pricing_urls": [
+    "https://www.exercise.com/platform/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on custom quotes tailored to the needs of the fitness business.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:42:12.057568",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "16918eef-de2f-4c7c-ae49-6a831f324b89",
+    "name": "Exercise.com",
+    "slug": "exercisecom",
+    "description": "Exercise.com is a platform offering tools to help fitness trainers connect with clients online.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/4d16eceba7df8f8a2ecce082fc74b489.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fitness"
+    ],
+    "category_slugs": [
+      "fitness"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 16,
+    "trigger_count": 22
+  }
+}

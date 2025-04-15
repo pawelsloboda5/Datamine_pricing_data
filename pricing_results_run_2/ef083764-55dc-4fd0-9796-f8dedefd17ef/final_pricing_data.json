@@ -1,0 +1,184 @@
+{
+  "app_id": "pandadoc",
+  "app_name": "PandaDoc",
+  "app_slug": "pandadoc",
+  "pricing_url": "https://www.pandadoc.com/pricing/",
+  "source_url": "https://www.pandadoc.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.pandadoc.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes per-seat and per-document options. Enterprise tier requires custom pricing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Personal",
+      "tier_description": "For basic e-signature needs",
+      "monthly_price": 10.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Five agreements per month with secure e-sign",
+        "Drag-and-drop editor for media rich documents"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Documents sent",
+            "value": "5 docs per month"
+          },
+          {
+            "name": "eSignatures",
+            "value": "5 eSignatures per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "For quickly creating and signing forms and agreements",
+      "monthly_price": 19.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited document uploads and e\u2011Signatures",
+        "Real\u2011time tracking and notifications",
+        "24/7 email and chat support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Documents sent",
+            "value": "unlimited"
+          },
+          {
+            "name": "eSignatures",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For sales proposals and integrated agreement workflows",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom quotes and sales agreements",
+        "CRM integrations",
+        "Custom branding and content library",
+        "Deal rooms",
+        "Approval workflows",
+        "Web forms",
+        "Bulk send"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Documents sent",
+            "value": "unlimited"
+          },
+          {
+            "name": "eSignatures",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For end-to-end document workflows and advanced automations",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "CPQ (configure, price, quote)",
+        "Workflow automation",
+        "Smart content",
+        "Single sign\u2011on (SSO)",
+        "Team workspaces",
+        "Notary",
+        "API"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Documents sent",
+            "value": "unlimited"
+          },
+          {
+            "name": "eSignatures",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Documents",
+      "unit": "per document",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:33:47.010152",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ef083764-55dc-4fd0-9796-f8dedefd17ef",
+    "name": "PandaDoc",
+    "slug": "pandadoc",
+    "description": "PandaDoc is an all-in-one software that streamlines your sales workflows. Create, send, track, and eSign client-facing documents designed to win more business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/fb10395b10c929d98939f011872096ad.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Documents"
+    ],
+    "category_slugs": [
+      "documents"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 3
+  }
+}

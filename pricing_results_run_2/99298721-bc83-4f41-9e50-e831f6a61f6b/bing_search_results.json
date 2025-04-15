@@ -1,0 +1,12 @@
+{
+  "app_name": "Thoughtly",
+  "app_slug": "thoughtly",
+  "search_term": "Find the official pricing page URL for Thoughtly (thoughtly.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744724614.1697383,
+  "response_text": [
+    "I could not locate an official pricing page URL for Thoughtly on their website or documentation. Let me know if you'd like further assistance."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\thoughtly\\20250415_094335"
+}

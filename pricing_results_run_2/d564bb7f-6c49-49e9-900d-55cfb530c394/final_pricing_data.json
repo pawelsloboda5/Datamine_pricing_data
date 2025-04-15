@@ -1,0 +1,91 @@
+{
+  "app_id": "pdf4me",
+  "app_name": "PDF4me",
+  "app_slug": "pdf4me",
+  "pricing_url": "https://pdf4me.com/pricing/",
+  "source_url": "https://pdf4me.com/help/subscription/",
+  "all_pricing_urls": [
+    "https://pdf4me.com/pricing/",
+    "https://pdf4me.com/help/subscription/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "OCR is a premium feature available only in the Pro plan.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Entry-level plan with limited features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic PDF editing",
+        "Limited conversions"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced plan with premium features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced PDF editing",
+        "OCR capabilities",
+        "Unlimited conversions"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:16:23.502053",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d564bb7f-6c49-49e9-900d-55cfb530c394",
+    "name": "PDF4me",
+    "slug": "pdf4me",
+    "description": "PDF4me is a tool for pdf conversion, splitting, merging, make them PDF/A compliant, protect documents etc.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/7bb6e45c39d8b917cd50c122b17f0edf.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Documents"
+    ],
+    "category_slugs": [
+      "documents"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 74,
+    "trigger_count": 0
+  }
+}

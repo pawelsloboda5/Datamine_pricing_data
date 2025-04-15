@@ -1,0 +1,163 @@
+{
+  "app_id": "freedcamp",
+  "app_name": "Freedcamp",
+  "app_slug": "freedcamp",
+  "pricing_url": "https://freedcamp.com/pricing",
+  "source_url": "https://freedcamp.com/pricing",
+  "all_pricing_urls": [
+    "https://freedcamp.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Freedcamp offers a free tier with unlimited projects, tasks, storage, and users. Paid plans include additional features and support levels.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free, forever with all essential features included.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Projects",
+        "Unlimited Tasks",
+        "Unlimited Storage",
+        "Unlimited Users",
+        "Core Applications"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "File Size Limit",
+            "value": "10MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": null,
+      "monthly_price": 1.49,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email-In",
+        "Google Drive Integration",
+        "Dropbox Integration",
+        "OneDrive Integration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "File Size Limit",
+            "value": "25MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": null,
+      "monthly_price": 7.49,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Overview",
+        "Issue Tracker",
+        "Wiki",
+        "Invoices+",
+        "CRM",
+        "Project Copy",
+        "Reports"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "File Size Limit",
+            "value": "100MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": null,
+      "monthly_price": 16.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "White Label",
+        "Lightning Fast Support",
+        "Daily Data Snapshots",
+        "Private Cloud",
+        "2FA",
+        "SSO with SAML"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "File Size Limit",
+            "value": "250MB"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:22:50.892336",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7e75ad7f-a971-4cca-bb66-894271424c17",
+    "name": "Freedcamp",
+    "slug": "freedcamp",
+    "description": "Freedcamp is a project management tool equipt with all the tools you need to work with your team and organize any project.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/e1d103359cdcd72039e46e82f576d40e_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 3
+  }
+}

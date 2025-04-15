@@ -1,0 +1,54 @@
+{
+  "app_id": "chargify",
+  "app_name": "Chargify",
+  "app_slug": "chargify",
+  "pricing_url": null,
+  "source_url": "https://www.chargify.com/",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "custom"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The platform offers flexible pricing models including subscription, usage-based, and custom pricing tailored to specific customer needs.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [
+    {
+      "metric_name": "usage",
+      "unit": "varies",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T02:34:08.506250",
+  "schema_validated": true,
+  "confidence_score": 70,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "77a85524-75d3-4feb-9fee-61d5f295d055",
+    "name": "Chargify",
+    "slug": "chargify",
+    "description": "Chargify is a Recurring Billing and Subscription Management tool platform that's designed to remove billing bottlenecks and give teams the speed and flexibility to grow faster.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/bf8d8c95a138c3d3cb7c2d307b976583.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 13,
+    "trigger_count": 4
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "app_id": "stannp",
+  "app_name": "Stannp",
+  "app_slug": "stannp",
+  "pricing_url": "https://www.stannp.com/us/pricing",
+  "source_url": "https://www.stannp.com/us/pricing",
+  "all_pricing_urls": [
+    "https://www.stannp.com/us/pricing",
+    "https://www.stannp.com/us/direct-mail-pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and various subscription plans with additional usage-based add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For new users or one-off campaigns.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Basic access to platform"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "50,000 contacts",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Integrate with the platform.",
+      "monthly_price": 12.0,
+      "annual_price": 9.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "API access",
+        "Basic analytics"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "50,000 contacts",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Automate direct mail.",
+      "monthly_price": 48.0,
+      "annual_price": 36.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Advanced analytics",
+        "Automation tools"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "50,000 contacts",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "For omni-channel communications at scale.",
+      "monthly_price": 315.0,
+      "annual_price": 236.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Omni-channel tools",
+        "Priority support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "50,000 contacts",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plans for large volumes.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom integrations",
+        "Dedicated support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "250,000 contacts",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Contact storage",
+      "unit": "per month",
+      "base_price": 15.0,
+      "tiers": [
+        {
+          "min": 25000.0,
+          "max": 50000.0,
+          "price": 20.0
+        },
+        {
+          "min": 50000.0,
+          "max": 100000.0,
+          "price": 35.0
+        }
+      ]
+    },
+    {
+      "metric_name": "API rate limit",
+      "unit": "per minute",
+      "base_price": 75.0,
+      "tiers": [
+        {
+          "min": 2000.0,
+          "max": "unlimited",
+          "price": 75.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Virtual printer add-ons",
+      "fee_amount": 2.5,
+      "fee_description": "Additional letters per month."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:32:30.890975",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3ca9e4d1-3061-48f0-88c1-2ee1979ab1c0",
+    "name": "Stannp",
+    "slug": "stannp",
+    "description": "Stannp is a service for posting real, physical direct mail such as postcards or letters to recipients' mail boxes, anywhere in the world.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/a0ea5d8862a4a8de94aa314abc08a859.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 7,
+    "trigger_count": 0
+  }
+}

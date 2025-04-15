@@ -1,0 +1,93 @@
+{
+  "app_id": "convertri",
+  "app_name": "Convertri",
+  "app_slug": "convertri",
+  "pricing_url": null,
+  "source_url": "https://www.convertri.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Convertri offers three subscription plans tailored to different user needs, with a 14-day free trial available for all plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Convert",
+      "tier_description": "Designed for users starting out, focusing on building landing pages and collecting leads.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Landing page creation",
+        "Lead collection"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "Ideal for users looking to build funnels, make sales, create membership sites, and websites.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Funnel building",
+        "Sales tools",
+        "Membership site creation",
+        "Website building"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Maximize",
+      "tier_description": "For users working with clients, offering full access to all features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full feature access"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Traffic",
+      "unit": "per 250k impressions",
+      "base_price": 30.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:42:29.486974",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "840dad5f-b64a-4293-8931-c96181181878",
+    "name": "Convertri",
+    "slug": "convertri",
+    "description": "Convertri is a complete sales funnel and website builder, focused on building the fastest pages you\u2019ve ever seen.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/ec33cf0903da69b331a4fa5bf5cd6e63.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders"
+    ],
+    "category_slugs": [
+      "cms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 7
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "app_id": "ez_texting",
+  "app_name": "EZ Texting",
+  "app_slug": "ez-texting",
+  "pricing_url": "https://www.eztexting.com/pricing",
+  "source_url": "https://www.eztexting.com/pricing",
+  "all_pricing_urls": [
+    "https://www.eztexting.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes both subscription plans and usage-based overage charges. Annual plans offer up to 20% savings.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Launch",
+      "tier_description": "Recommended for up to 500 contacts.",
+      "monthly_price": 25.0,
+      "annual_price": 20.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Local Textable Number",
+        "500 monthly credits",
+        "6k yearly credits",
+        "Bundled Credit Discounts Available at Checkout",
+        "Overage Credits: $0.04",
+        "Subject to Telecom Fee",
+        "Set-up time: within 1 business day"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Monthly Credits",
+            "value": 500
+          },
+          {
+            "name": "Yearly Credits",
+            "value": 6000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Boost",
+      "tier_description": "Recommended for 500-2,000 contacts.",
+      "monthly_price": 75.0,
+      "annual_price": 60.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Local High-Volume Number",
+        "500 monthly credits",
+        "6k yearly credits",
+        "Bundled Credit Discounts Available at Checkout",
+        "Overage Credits: $0.035",
+        "Waived Telecom Fee",
+        "Set-up time: within 1 business day"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Monthly Credits",
+            "value": 500
+          },
+          {
+            "name": "Yearly Credits",
+            "value": 6000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "Recommended for 2,000-50,000 contacts.",
+      "monthly_price": 125.0,
+      "annual_price": 100.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Local High-Volume, High-Speed Number",
+        "500 monthly credits",
+        "6k yearly credits",
+        "Bundled Credit Discounts Available at Checkout",
+        "Overage Credits: $0.03",
+        "Waived Telecom Fee",
+        "Onboarding Specialist",
+        "Set-up time: within 1 business day"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Monthly Credits",
+            "value": 500
+          },
+          {
+            "name": "Yearly Credits",
+            "value": 6000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Recommended for 50,000+ contacts.",
+      "monthly_price": 3000.0,
+      "annual_price": 3000.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Dedicated Short Code",
+        "200k monthly credits",
+        "Bundled Credit Discounts Available",
+        "Overage Credits: $0.01",
+        "Onboarding Specialist",
+        "Set-up time: 4 to 12 weeks"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Monthly Credits",
+            "value": 200000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Overage Credits",
+      "unit": "per credit",
+      "base_price": 0.04,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 0.04
+        }
+      ]
+    },
+    {
+      "metric_name": "Overage Credits (Boost)",
+      "unit": "per credit",
+      "base_price": 0.035,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 0.035
+        }
+      ]
+    },
+    {
+      "metric_name": "Overage Credits (Scale)",
+      "unit": "per credit",
+      "base_price": 0.03,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 0.03
+        }
+      ]
+    },
+    {
+      "metric_name": "Overage Credits (Enterprise)",
+      "unit": "per credit",
+      "base_price": 0.01,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 0.01
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Save up to 20% on annual plans.",
+      "discount_percentage": 20.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Telecom Fee",
+      "fee_amount": null,
+      "fee_description": "Applicable to certain plans."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:51:02.932833",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "33ea8c92-4eb6-4ff9-af0a-362e44c42045",
+    "name": "EZ Texting",
+    "slug": "ez-texting",
+    "description": "EZ Texting is a text marketing platform to send and receive SMS & MMS via web and mobile apps. Use it for group texts or 1:1 messages.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/d4cfa661b79baf655866cfc63cf7c83b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 1
+  }
+}

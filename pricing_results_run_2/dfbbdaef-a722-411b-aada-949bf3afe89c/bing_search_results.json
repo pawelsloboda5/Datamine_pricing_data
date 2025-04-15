@@ -1,0 +1,19 @@
+{
+  "app_name": "Perfex CRM",
+  "app_slug": "perfex-crm",
+  "search_term": "Find the official pricing page URL for Perfex CRM (perfex-crm.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744718376.0611515,
+  "response_text": [
+    "I found the specific URL for the pricing page of Perfex CRM on their official site: [https://perfex-crm.com/pricing](https://perfex-crm.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://perfex-crm.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\perfex-crm\\20250415_075936"
+}

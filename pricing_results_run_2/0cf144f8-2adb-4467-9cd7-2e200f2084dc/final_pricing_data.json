@@ -1,0 +1,211 @@
+{
+  "app_id": "doppler",
+  "app_name": "Doppler",
+  "app_slug": "doppler",
+  "pricing_url": "https://www.doppler.com/pricing",
+  "source_url": "https://www.doppler.com/pricing",
+  "all_pricing_urls": [
+    "https://www.doppler.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Doppler offers a free tier for up to 3 users and a 14-day free trial for the Team plan. Enterprise pricing is custom and includes tailored features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Developer",
+      "tier_description": "Secure your solo projects & focus on what matters - building.",
+      "monthly_price": 8.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Integrations",
+        "Doppler CLI for local development",
+        "Service tokens",
+        "Email alerts and recurring reminders",
+        "3 days of activity logs",
+        "Secrets referencing",
+        "Secret value types",
+        "API and webhooks access",
+        "Webhook logs",
+        "Config syncs (5)"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Config syncs",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Unlock team productivity & protect shared secrets.",
+      "monthly_price": 21.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Change Requests",
+        "SAML SSO",
+        "Identity Based Authentication",
+        "Role-Based Access Controls",
+        "Integration Access Scoping",
+        "90 Days of activity logs",
+        "Automatic secret rotation",
+        "Service accounts",
+        "Config inheritance",
+        "Trusted IPs",
+        "Priority support",
+        "99.95% SLO",
+        "Config syncs (100)",
+        "Add-on enterprise features"
+      ],
+      "limits": {
+        "users": 500,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Config syncs",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Tailored to your compliance and regulatory needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Change Request Policies",
+        "Custom permissions & roles",
+        "User groups",
+        "Enterprise SCIM",
+        "Fully manage in Terraform",
+        "On-Prem secret rotation",
+        "Enterprise Key Management (EKM)",
+        "Dynamic secrets",
+        "SIEM Log Forwarding",
+        "Unlimited config syncs",
+        "Custom activity log retention",
+        "Custom rate limits",
+        "Enterprise support",
+        "Custom contract & invoicing",
+        "Dedicated account manager",
+        "Coming soon: Analytics dashboard"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Config syncs",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional seats for Developer plan",
+      "unit": "per user",
+      "base_price": 8.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Additional seats for Team plan",
+      "unit": "per user",
+      "base_price": 21.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Open Source Discount",
+      "offer_description": "Discounted rates for open source projects.",
+      "discount_percentage": null,
+      "offer_url": "mailto:support@doppler.com",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Education Discount",
+      "offer_description": "Discounted rates for educational institutions.",
+      "discount_percentage": null,
+      "offer_url": "mailto:support@doppler.com",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Non-Profit Discount",
+      "offer_description": "Discounted rates for non-profit organizations.",
+      "discount_percentage": null,
+      "offer_url": "mailto:support@doppler.com",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Custom roles",
+      "fee_amount": 9.0,
+      "fee_description": "Additional $9/seat per month for custom roles."
+    },
+    {
+      "fee_name": "User groups",
+      "fee_amount": 9.0,
+      "fee_description": "Additional $9/seat per month for user groups."
+    },
+    {
+      "fee_name": "Integration syncs",
+      "fee_amount": 9.0,
+      "fee_description": "Additional $9/seat per month to increase sync limit from 100 to 500."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:37:26.721621",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0cf144f8-2adb-4467-9cd7-2e200f2084dc",
+    "name": "Doppler",
+    "slug": "doppler",
+    "description": "Doppler is an email marketing tool that allows you to reach your clients in a simple, fast and effective way.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/b048c39c706af7f4f82d26926b9fc80c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 4,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "app_id": "practicepanther",
+  "app_name": "PracticePanther Legal Software",
+  "app_slug": "practicepanther-legal-software",
+  "pricing_url": "https://www.practicepanther.com/legal-software-pricing/",
+  "source_url": "https://www.practicepanther.com/legal-software-pricing/",
+  "all_pricing_urls": [
+    "https://www.practicepanther.com/legal-software-pricing/"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page was not accessible, and no specific pricing details could be extracted.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:54:36.332478",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "58ac6250-6065-4549-8785-bc04c7fdb064",
+    "name": "PracticePanther Legal Software",
+    "slug": "practicepanther-legal-software",
+    "description": "PracticePanther is a practice management software used by numerous legal practitioners worldwide to automate their firms.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/865864f58d40ad6e99b407c03d1506c6.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 17,
+    "trigger_count": 15
+  }
+}

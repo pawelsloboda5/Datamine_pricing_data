@@ -1,0 +1,107 @@
+{
+  "app_id": "envoy_for_visitors",
+  "app_name": "Envoy for Visitors",
+  "app_slug": "envoy-for-visitors",
+  "pricing_url": null,
+  "source_url": "https://envoy.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per location and billed annually or monthly, with a free tier available.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "For small workplaces with basic visitor needs",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited visitors",
+        "Host notifications"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "For companies who want to give their visitors a great first impression",
+      "monthly_price": 131.0,
+      "annual_price": 109.0,
+      "annual_discount_percentage": 16.79,
+      "setup_fee": null,
+      "features": [
+        "Everything in Basic",
+        "Badge printing",
+        "Legal documents"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "For companies who want to give their visitors a great first impression",
+      "monthly_price": 395.0,
+      "annual_price": 329.0,
+      "annual_discount_percentage": 16.71,
+      "setup_fee": null,
+      "features": [
+        "Everything in Standard",
+        "Customized branding",
+        "Visitor photos",
+        "Visitor analytics",
+        "SSO and directory integrations"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For workplaces with complex security, safety, and compliance needs",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Premium",
+        "Block list and ID scanning",
+        "Guest Wi-Fi integrations",
+        "Access control integrations",
+        "Auto-scheduled email reports of visitor data"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:57:27.650664",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f2d99124-41c6-47bb-9965-8c5489670730",
+    "name": "Envoy for Visitors",
+    "slug": "envoy",
+    "description": "Envoy for Visitors is a fully customizable iPad app that replaces your visitor sign-in book. We provide seamless visitor management, from pre-registration and host notifications, to NDA signing and secure cloud-based data storage.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/1130a1b78d6080bed182138450b8d9e4_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

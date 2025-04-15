@@ -1,0 +1,167 @@
+{
+  "app_id": "repcard",
+  "app_name": "RepCard",
+  "app_slug": "repcard",
+  "pricing_url": "https://www.repcard.com/pricing",
+  "source_url": "https://www.repcard.com/pricing",
+  "all_pricing_urls": [
+    "https://www.repcard.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 20% discount compared to monthly pricing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for individual users.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 Personal RepCard & QR code",
+        "Infinitely Share & Scan your RepCard",
+        "Limitless Contact Management Tool",
+        "30 Smart Notifications",
+        "Up to 3 Personal Reviews",
+        "Up to 3 Personal Referrals",
+        "RepCard Branding",
+        "Send up to 10 Videos or CTA's"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Advanced features for individual users.",
+      "monthly_price": 15.0,
+      "annual_price": 12.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Custom Digital Cards",
+        "Unlimited Smart Notifications",
+        "Unlimited Personal 5-Star Reviews",
+        "Unlimited Profile Videos",
+        "Advanced Customization Options",
+        "Referral Generator",
+        "Custom SMS Campaigns (3\u00a2/text)",
+        "Automated Email Campaigns",
+        "Hassle-Free Contacts Import/Export",
+        "External Calendar Sync",
+        "Seamless Integrations: Zapier, Facebook Pixel, HubSpot, Salesforce"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Enhanced features for teams.",
+      "monthly_price": 25.0,
+      "annual_price": 19.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Custom Digital Cards",
+        "Get Unlimited Smart Notifications",
+        "Unlimited Reviews",
+        "Unlimited Videos and CTA Buttons",
+        "Referral Generator",
+        "Automated Campaigns (additional. .03 per SMS message)",
+        "Integrations: Zapier, Google Reviews, HubSpot, Salesforce",
+        "Import/Export Contacts",
+        "Calendar Tool"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Comprehensive features for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Canvassing Maps",
+        "Homeowner Data (Credit Score, Owner/Renter, etc.)",
+        "Setter/Closer Calendars (Round-Robin, Direct Assign & Dispatcher)",
+        "Gamification (Indv. Rep or Team Battles, Custom Competitions & Prizes)",
+        "Leaderboards & Stats",
+        "Team & Individual Chat",
+        "View User Locations",
+        "Create your own Training Library",
+        "Kanban Board CRM",
+        "Powerful Recruiting Pipeline",
+        "Company Review Generator: Google Business, Facebook, BBB, Zillow, & more"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS Campaigns",
+      "unit": "per text",
+      "base_price": 0.03,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:05:39.388092",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c2767117-bc50-4ca6-b310-e6249a4e5de3",
+    "name": "RepCard",
+    "slug": "repcard",
+    "description": "RepCard is a sales tool used to facilitate automated follow up with leads that will drive reviews and referrals back to the sales person.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/4abbebd3a38fe9c5e1f95e06a1b99f5f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 5
+  }
+}

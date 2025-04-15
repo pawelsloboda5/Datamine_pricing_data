@@ -1,0 +1,120 @@
+{
+  "app_id": "wootric_by_inmoment",
+  "app_name": "Wootric by InMoment",
+  "app_slug": "wootric-by-inmoment",
+  "pricing_url": "https://www.wootric.com/request-demo/",
+  "source_url": "https://www.wootric.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.wootric.com/request-demo/"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are not explicitly listed; users are directed to contact for quotes.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Professional",
+      "tier_description": "Act on one journey point for your business",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "One journey point",
+        "Track a single metric: NPS, CSAT, or CES",
+        "Multiple delivery channels: Web app, Mobile app, Email, Link, Intercom Messenger",
+        "Auto-categorize feedback themes",
+        "Trigger surveys via Intercom, Zendesk, Freshdesk, and Mixpanel",
+        "Up to five seats",
+        "Self-service support"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "Zapier, Slack, Intercom, Zendesk, Freshdesk, Mixpanel, Segment",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Solutions for multiple CX journey points",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Three journey points",
+        "Multiple delivery channels: Web app, Mobile app, Email, Link, Intercom Messenger, SMS",
+        "Auto-categorize feedback themes",
+        "Trigger surveys from any integration partner",
+        "Up to 10 seats",
+        "Premium support",
+        "Advanced survey targeting"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "Salesforce, Zapier, Slack, Intercom, Zendesk, Freshdesk, Mixpanel, Segment, Hubspot, ServiceNow, Microsoft, Heap",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Voice of the Customer",
+      "tier_description": "Get every world-class feature included in our Growth plan PLUS additional advanced analytics and reporting features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "CXInsight\u2122",
+        "Text and sentiment analytics",
+        "Import and analyze feedback from any source",
+        "Custom dashboards and reporting"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "All integrations available in Growth plus additional custom integrations",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:46:43.671768",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c12ff49e-6171-4be9-a110-cb5200ba9124",
+    "name": "Wootric by InMoment",
+    "slug": "wootric",
+    "description": "Wootric by InMoment collects and manages customer feedback using proven CX metrics (Net Promoter Score\u00ae (NPS), CSAT, and Customer Effort Score (CES). Survey in-app, via mobile, email & SMS, track ongoing results, follow up with customers, and quickly surface insights in an easy-to-use dashboard.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ab003f812414d90376cab9c1a94e09bf.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

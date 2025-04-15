@@ -1,0 +1,103 @@
+{
+  "app_id": "webinaris",
+  "app_name": "Webinaris",
+  "app_slug": "webinaris",
+  "pricing_url": null,
+  "source_url": "https://www.webinaris.com/preise/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Prices are exclusive of VAT.",
+  "pricing_tiers": [
+    {
+      "tier_name": "FLATRATE",
+      "tier_description": "Comprehensive all-in-one plan.",
+      "monthly_price": 149.0,
+      "annual_price": 1188.0,
+      "annual_discount_percentage": 33.56,
+      "setup_fee": null,
+      "features": [
+        "All necessary features",
+        "10 webinar funnels with unlimited sessions",
+        "No hidden costs or forced upgrades"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Webinar Funnels",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "FLATRATE + VIP PAKET",
+      "tier_description": "All-in-one plan with 1:1 support and ongoing assistance.",
+      "monthly_price": 299.0,
+      "annual_price": 2388.0,
+      "annual_discount_percentage": 33.44,
+      "setup_fee": null,
+      "features": [
+        "All features from FLATRATE",
+        "Unlimited webinar funnels with unlimited sessions",
+        "Prioritized support and personal contact",
+        "1:1 onboarding and process optimization",
+        "Conversion optimization consulting",
+        "Emails sent from your address",
+        "Custom branding on your domain",
+        "Agency solution for template and project import/export"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Webinar Funnels",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:30:42.389073",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "34eb2ef7-3722-4ad2-ba63-063c9e1f16c1",
+    "name": "Webinaris",
+    "slug": "webinaris",
+    "description": "Webinaris is an all-in-one Webinar platform for hosting live and automated webinars with a marketing focus.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/2d4869d82614f8000681e42e89710d6a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Webinars"
+    ],
+    "category_slugs": [
+      "webinars"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 5
+  }
+}

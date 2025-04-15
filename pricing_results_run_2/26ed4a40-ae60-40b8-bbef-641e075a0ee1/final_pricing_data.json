@@ -1,0 +1,209 @@
+{
+  "app_id": "jira_service_management",
+  "app_name": "Jira Service Management",
+  "app_slug": "jira-service-management",
+  "pricing_url": "https://www.atlassian.com/software/jira/service-management/pricing",
+  "source_url": "https://www.atlassian.com/software/jira/service-management/pricing",
+  "all_pricing_urls": [
+    "https://www.atlassian.com/software/jira/service-management/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing varies based on the number of agents and includes options for free, subscription, and enterprise tiers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free forever for 3 agents",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Templates for ITSM, Customer Service, HR, and more",
+        "Multi-channel support, including customer portal, email, and chat",
+        "Work intake through customizable forms, workflows, and queues",
+        "Embedded knowledge base",
+        "Alerts, on-call schedules, and incident template",
+        "Support from Atlassian Community"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "2GB",
+        "operations": 500,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Email notifications",
+            "value": "100 emails per day"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Everything you need to get started",
+      "monthly_price": 19.04,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom-branded help center",
+        "Unlimited email notifications",
+        "Audit logs and multi-region data residency",
+        "Up to 20,000 agents and unlimited customers",
+        "9/5 regional support"
+      ],
+      "limits": {
+        "users": 20000,
+        "storage": "250GB",
+        "operations": 5000,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Scale your service management",
+      "monthly_price": 47.82,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Rovo Agents, Search and Chat, for AI-powered service and operations",
+        "Virtual service agent",
+        "Asset and configuration management",
+        "Incident and problem management",
+        "Change management",
+        "Deployment gating with CI/CD tools",
+        "Advanced alert integrations and incident investigation",
+        "Real-time incident monitoring",
+        "24/7 support for critical issues",
+        "99.9% uptime SLA"
+      ],
+      "limits": {
+        "users": 20000,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Virtual service agent",
+            "value": "1,000 assisted conversations per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Advanced analytics, scale, and security for enterprises",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Cross-product insights with Atlassian Analytics and Data Lake",
+        "Advanced admin controls and security",
+        "Enterprise-grade identity and access management",
+        "Unlimited automations",
+        "Multiple sites (up to 150)",
+        "24/7 support for all issues",
+        "99.95% uptime SLA"
+      ],
+      "limits": {
+        "users": 20000,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Sites",
+            "value": "150"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Virtual service agent",
+      "unit": "per conversation",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 1000.0,
+          "price": null
+        },
+        {
+          "min": 1001.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    },
+    {
+      "metric_name": "Assets objects",
+      "unit": "per object",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 50000.0,
+          "price": null
+        },
+        {
+          "min": 50001.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": true,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:48:20.776934",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "26ed4a40-ae60-40b8-bbef-641e075a0ee1",
+    "name": "Jira Service Management",
+    "slug": "jira-service-management",
+    "description": "Jira Service Management is help desk software that enables support agents to receive, track, manage and resolve requests from help seekers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/07d11aa2eaa1dd2b35baa0c7ebe269bc.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 1
+  }
+}

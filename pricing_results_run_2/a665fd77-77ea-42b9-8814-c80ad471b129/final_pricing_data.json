@@ -1,0 +1,56 @@
+{
+  "app_id": "inflow_inventory",
+  "app_name": "inFlow Inventory",
+  "app_slug": "inflow-inventory",
+  "pricing_url": "https://www.inflowinventory.com/software-pricing",
+  "source_url": "https://www.inflowinventory.com/software/pricing",
+  "all_pricing_urls": [
+    "https://www.inflowinventory.com/software-pricing",
+    "https://www.inflowinventory.com/software-pricing-inflow-manufacturing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not directly accessible, and detailed pricing information could not be extracted.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Spring Sale",
+      "offer_description": "Use code SPRING25 to get a free onboarding package (worth 499 USD) with any plan",
+      "discount_percentage": null,
+      "offer_url": "https://www.inflowinventory.com/software-pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:34:58.293278",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "a665fd77-77ea-42b9-8814-c80ad471b129",
+    "name": "inFlow Inventory",
+    "slug": "inflow-inventory",
+    "description": "Get an unfair advantage with inFlow Inventory management software. A complete system to run your small business used by 1000's.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/df222572a3ac8468c7e116df78628c5c_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 6
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "app_id": "wildapricot",
+  "app_name": "WildApricot",
+  "app_slug": "wildapricot",
+  "pricing_url": "https://www.wildapricot.com/pricing",
+  "source_url": "https://www.wildapricot.com/pricing",
+  "all_pricing_urls": [
+    "https://www.wildapricot.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of contacts managed. Discounts are available for annual and biennial billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "100 Contacts",
+      "tier_description": "Plan for managing up to 100 contacts.",
+      "monthly_price": 63.0,
+      "annual_price": 56.7,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "All WildApricot features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "250 Contacts",
+      "tier_description": "Plan for managing up to 250 contacts.",
+      "monthly_price": 78.0,
+      "annual_price": 70.2,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "All WildApricot features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 250
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "500 Contacts",
+      "tier_description": "Plan for managing up to 500 contacts.",
+      "monthly_price": 147.0,
+      "annual_price": 132.3,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "All WildApricot features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "2000 Contacts",
+      "tier_description": "Plan for managing up to 2000 contacts.",
+      "monthly_price": 252.0,
+      "annual_price": 226.8,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "All WildApricot features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "5000 Contacts",
+      "tier_description": "Plan for managing up to 5000 contacts.",
+      "monthly_price": 462.0,
+      "annual_price": 415.8,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "All WildApricot features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 5000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "15000 Contacts",
+      "tier_description": "Plan for managing up to 15000 contacts.",
+      "monthly_price": 556.0,
+      "annual_price": 500.4,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "All WildApricot features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 15000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "50000 Contacts",
+      "tier_description": "Plan for managing up to 50000 contacts.",
+      "monthly_price": 945.0,
+      "annual_price": 850.5,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "All WildApricot features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 50000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Third-party payment provider fees",
+      "fee_amount": null,
+      "fee_description": "Fees may apply if using a third-party payment provider."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:34:09.837139",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "2d968afb-b77a-4e25-b4bf-bee23edd7547",
+    "name": "WildApricot",
+    "slug": "wildapricot",
+    "description": "WildApricot is a cloud software that elevates the missions of emerging associations, nonprofits, clubs and chapters in an all-in-one member management solution.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/2f77af04ee74df69118a946cb497449b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Contact Management"
+    ],
+    "category_slugs": [
+      "contacts"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 20
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "app_id": "swipe_pages",
+  "app_name": "Swipe Pages",
+  "app_slug": "swipe-pages",
+  "pricing_url": "https://swipepages.com/pricing/",
+  "source_url": "https://swipepages.com/pricing",
+  "all_pricing_urls": [
+    "https://swipepages.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer discounts up to 40%. Additional charges apply for exceeding traffic limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Startup",
+      "tier_description": null,
+      "monthly_price": 29.0,
+      "annual_price": 348.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited AMP Conversions",
+        "1 Custom Domain",
+        "20,000 Traffic",
+        "Unlimited Landing Pages",
+        "Unlimited Funnels",
+        "Conversion Optimized Templates",
+        "Smart Pages",
+        "AI Assistant",
+        "Custom Fonts",
+        "Version History",
+        "Server Side A/B Testing",
+        "Dynamic Text Replacement",
+        "Analytics & Conversion Tracking",
+        "Zapier Integration",
+        "Direct Integrations",
+        "Lead Notifications",
+        "Lead Magnet Delivery",
+        "Multi-step Forms",
+        "Hosting with SSL & CDN",
+        "Unsplash Images",
+        "Ecommerce - Stripe Checkouts",
+        "Full Chat & Email Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Traffic",
+            "value": "20,000"
+          },
+          {
+            "name": "Custom Domains",
+            "value": "1"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Marketer",
+      "tier_description": "Most Popular",
+      "monthly_price": 69.0,
+      "annual_price": 828.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited AMP Conversions",
+        "5 Custom Domains",
+        "50,000 Traffic",
+        "Unlimited Landing Pages",
+        "Unlimited Funnels",
+        "Conversion Optimized Templates",
+        "Smart Pages",
+        "AI Assistant",
+        "Custom Fonts",
+        "Version History",
+        "Server Side A/B Testing",
+        "Dynamic Text Replacement",
+        "Analytics & Conversion Tracking",
+        "Zapier Integration",
+        "Direct Integrations",
+        "Lead Notifications",
+        "Lead Magnet Delivery",
+        "Multi-step Forms",
+        "Hosting with SSL & CDN",
+        "Unsplash Images",
+        "Ecommerce - Stripe Checkouts",
+        "Full Chat & Email Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Traffic",
+            "value": "50,000"
+          },
+          {
+            "name": "Custom Domains",
+            "value": "5"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Agency",
+      "tier_description": null,
+      "monthly_price": 149.0,
+      "annual_price": 1788.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited AMP Conversions",
+        "Unlimited Custom Domains",
+        "500,000 Traffic",
+        "Unlimited Landing Pages",
+        "Unlimited Funnels",
+        "Conversion Optimized Templates",
+        "Smart Pages",
+        "AI Assistant",
+        "Custom Fonts",
+        "Version History",
+        "Server Side A/B Testing",
+        "Dynamic Text Replacement",
+        "Analytics & Conversion Tracking",
+        "Zapier Integration",
+        "Direct Integrations",
+        "Lead Notifications",
+        "Lead Magnet Delivery",
+        "Multi-step Forms",
+        "Hosting with SSL & CDN",
+        "Unsplash Images",
+        "Ecommerce - Stripe Checkouts",
+        "Full Chat & Email Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Traffic",
+            "value": "500,000"
+          },
+          {
+            "name": "Custom Domains",
+            "value": "Unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Traffic",
+      "unit": "per 5000 visits",
+      "base_price": 5.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Save up to 40% on annual plans.",
+      "discount_percentage": 40.0,
+      "offer_url": "https://swipepages.com/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Traffic Overages",
+      "fee_amount": 5.0,
+      "fee_description": "Charged for every additional 5000 visits beyond the traffic cap."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:02:36.616277",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "56b63b33-663a-41e9-aedd-463bc242b3fb",
+    "name": "Swipe Pages",
+    "slug": "swipe-pages",
+    "description": "Swipe Pages helps you create & publish landing pages without code.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/f203f15d09e45691cdc918501c122fff_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

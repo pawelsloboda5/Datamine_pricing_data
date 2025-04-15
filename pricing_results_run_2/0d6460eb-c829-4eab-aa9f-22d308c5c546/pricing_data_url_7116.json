@@ -1,0 +1,147 @@
+{
+  "app_id": "clicksend_sms",
+  "app_name": "ClickSend SMS",
+  "app_slug": "clicksend-sms",
+  "pricing_url": "https://www.clicksend.com/en/pricing/",
+  "source_url": "https://www.clicksend.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.clicksend.com/en/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is pay-as-you-go with discounts for higher usage volumes. Additional carrier fees may apply.",
+  "pricing_tiers": null,
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS",
+      "unit": "per text",
+      "base_price": 0.0084,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 4999.0,
+          "price": 0.0235
+        },
+        {
+          "min": 5000.0,
+          "max": 49999.0,
+          "price": 0.0169
+        },
+        {
+          "min": 50000.0,
+          "max": 149999.0,
+          "price": 0.0114
+        },
+        {
+          "min": 150000.0,
+          "max": 249999.0,
+          "price": 0.0084
+        },
+        {
+          "min": 250000.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    },
+    {
+      "metric_name": "MMS",
+      "unit": "per MMS",
+      "base_price": 0.0333,
+      "tiers": null
+    },
+    {
+      "metric_name": "Voice",
+      "unit": "per call",
+      "base_price": 0.0129,
+      "tiers": null
+    },
+    {
+      "metric_name": "Email",
+      "unit": "per email",
+      "base_price": 0.0063,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 24999.0,
+          "price": 0.0063
+        },
+        {
+          "min": 25000.0,
+          "max": 199999.0,
+          "price": 0.005
+        },
+        {
+          "min": 200000.0,
+          "max": 4999999.0,
+          "price": 0.0038
+        },
+        {
+          "min": 5000000.0,
+          "max": 9999999.0,
+          "price": 0.0025
+        },
+        {
+          "min": 10000000.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    },
+    {
+      "metric_name": "Fax",
+      "unit": "per page",
+      "base_price": 0.0302,
+      "tiers": null
+    },
+    {
+      "metric_name": "Post",
+      "unit": "per letter",
+      "base_price": 0.85,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Dedicated Number for MMS",
+      "fee_amount": 3.14,
+      "fee_description": "Monthly fee for a dedicated MMS number"
+    },
+    {
+      "fee_name": "Dedicated Number for Fax",
+      "fee_amount": 3.77,
+      "fee_description": "Monthly fee for a dedicated Fax number"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:19:21.390683",
+  "schema_validated": true,
+  "confidence_score": 70,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0d6460eb-c829-4eab-aa9f-22d308c5c546",
+    "name": "ClickSend SMS",
+    "slug": "clicksend",
+    "description": "ClickSend is a cloud-based service that lets you send and receive SMS, Email, Voice, Fax and Letters worldwide.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/dd5f4022fda4a5caed8ae27548b27566_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 19,
+    "trigger_count": 0
+  }
+}

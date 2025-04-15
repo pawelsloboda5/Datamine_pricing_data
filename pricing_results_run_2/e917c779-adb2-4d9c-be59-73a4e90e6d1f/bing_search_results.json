@@ -1,0 +1,189 @@
+{
+  "app_name": "Crowdcast",
+  "app_slug": "crowdcast",
+  "search_term": "Find the official pricing page URL for Crowdcast (crowdcast.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744708673.1990108,
+  "response_text": [
+    "The official Crowdcast pricing page is available at https://www.crowdcast.io/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.crowdcast.io/pricing",
+      "is_accessible": true,
+      "content": "Pricing\n===============\n\n[](https://www.crowdcast.io/)\n\n[Product](https://www.crowdcast.io/product)[Customers](https://www.crowdcast.io/customers)[Discover](https://www.crowdcast.io/discover)Learn\n\n[What's new](https://www.crowdcast.io/updates)[Office hours](https://crowdcast.io/@crowdcast)[Docs](https://docs.crowdcast.io/)[Blog](https://crowdcast.io/blog)[Company](https://www.crowdcast.io/about)[Community](https://crowdcast.link/v2-community)\n\n[Pricing](https://www.crowdcast.io/pricing)\n\n[Book Demo](https://crowdcast.link/schedule)[Sign In](https://www.crowdcast.io/sign-in)[Sign Up](https://www.crowdcast.io/sign-up)\n\nSimple Pricing\n--------------\n\nMonthlyAnnualSAVE 30%\n\nlite\n----\n\nFor creators and small businesses looking to grow their audience\n\n$49\n\n/mo\n\nLive attendees\n\n100+\n\nLive attendees are users who show up live during the event. You can have unlimited users register for your event, you only pay for those who show up live. You\u2019ll be charged 15\u00a2 per extra live attendee after your plan's attendee limit. Need a custom plan? Schedule a demo below.\n\nHours per month\n\n10\n\nStream for up to 10 hours per month. Add extra hours as needed if you use up all the hours in a month \u2014\u00a0$20 per extra 5 hrs.\n\nHost seats\n\n1\n\nTeammates added to your channel are able to manage and produce your events. Add more seats for $29/seat.\n\n[Select plan](https://crowdcast.io/sign-up?sign_up_for_trial=true)\n\nAll base features included\n\n*   Transaction fee: 5%\n    \n    Charge a ticket price for your events. Choose a fixed price or sliding. Create coupons to give discounts. For every ticket sold there is a 5% transaction fee plus Stripe's [processing fee](https://stripe.com/us/pricing) of 2.9% + 30\u00a2.\n    \n*   2 hour sessions\n    \n    Stream up to 2 hours in a session. You can add unlimited number of sessions to an event.\n    \n*   HD Live video with recording\n    \n    Your event has the option to be recorded and the recording will be available instantly for replay and download.\n    \n*   Multi-session events\n    \n    Create events that have multiple sessions at different times. This is great for creating live courses or online summits. [Click here](https://www.crowdcast.io/courses) to learn more about live courses on crowdcast.\n    \n*   RTMP Mode - Broadcast from OBS, Wirecast, Ecamm Live & more\n    \n    RTMP Mode lets you send HD video from OBS, Wirecast, Ecamm Live and more to your crowdcast.\n    \n*   Email and chat support\n    \n    Our general support hours are Monday to Friday, 9am to 5pm (PST, or UTC-8). We will do our best to respond within 24 hours although our actual response times may vary and take longer for more advanced or technical inquiries.\n    \n*   Stripe Integration\n    \n    Connect Stripe to your account to accept payment for paid events and in-event contributions.\n    \n*   Event and Session Analytics\n    \n    See detailed conversion rates, referral info, performance metrics and engagement metrics about your crowdcast.\n    \n*   Zapier Integration\n    \n    Connect to over 1,500 apps and CRM systems through Zapier. [Click here](https://zapier.com/zapbook/) to a list of all the apps we support.\n    \n*   Export Email Addresses, Chat, Data\n    \n    Export all emails, chat messages and data from attendees into a CSV.\n    \n\npro\n---\n\nFor professional creators and businesses to consistently host live video events\n\n$89\n\n/mo\n\nLive attendees\n\n250+\n\nLive attendees are users who show up live during the event. You can have unlimited users register for your event, you only pay for those who show up live. You\u2019ll be charged 15\u00a2 per extra live attendee after your plan's attendee limit. Need a custom plan? Schedule a demo below.\n\nHours per month\n\n20\n\nStream for up to 20 hours per month. Add extra hours as needed if you use up all the hours in a month \u2014\u00a0$20 per extra 5 hrs.\n\nHost seats\n\n2\n\nTeammates added to your channel are able to manage and produce your events. Add more seats for $29/seat.\n\n[Select plan](https://crowdcast.io/sign-up?sign_up_for_trial=true)\n\nAll Lite features plus\n\n*   4 hour sessions\n    \n    Stream up to 4 hours in a session. You can add multiple sessions to an event.\n    \n*   Multistream to 1 location\n    \n    [Multistream](https://www.crowdcast.io/multistreams) your crowdcast stage to 3rd party sites like Facebook, Youtube, Twitch & more.\n    \n*   Custom registration fields\n    \n    Add custom inputs to the registration form to collect additional data like phone numbers, URLs, multiple choice questions, dates, and more.\n    \n\nbusiness\n--------\n\nFor startups and companies looking to engage their customers\n\n$195\n\n/mo\n\nLive attendees\n\n1000+\n\nLive attendees are users who show up live during the event. You can have unlimited users register for your event, you only pay for those who show up live. You\u2019ll be charged 15\u00a2 per extra live attendee after your plan's attendee limit. Need a custom plan? Schedule a demo below.\n\nHours per month\n\n40\n\nStream for up to 40 hours per month. Add extra hours as needed if you use up all the hours in a month \u2014\u00a0$20 per extra 5 hrs.\n\nHost seats\n\n4\n\nTeammates added to your channel are able to manage and produce your events. Add more seats for $29/seat.\n\n[Select plan](https://crowdcast.io/sign-up?sign_up_for_trial=true)\n\nAll Pro features plus\n\n*   6 hour sessions\n    \n    Stream up to 6 hours in a session. You can add multiple sessions to an event.\n    \n*   Transaction fee: 2%\n    \n    Charge a ticket price for your events. Choose a fixed price or sliding. Create coupons to give discounts. For every ticket sold there is a 2% transaction fee plus Stripe's [processing fee](https://stripe.com/us/pricing) of 2.9% + 30\u00a2.\n    \n*   Multistream to 3 locations\n    \n    [Multistream](https://www.crowdcast.io/multistreams) your crowdcast stage to 3rd party sites like Facebook, Youtube, Twitch & more.\n    \n\nFree trial\n\nGo live for free\n----------------\n\nStart a free trial with 10 live attendees & 60 minute sessions with all business features included\n\nStart 2 week free trial\n\nTalk to a human\n\nGet a live demo\n---------------\n\nGet 1-1 demo or join a live group Q&A\n\n[Request a demo](https://crowdcast.link/schedule)\n\nHire an Expert\n--------------\n\nHire a verified Crowdcast Expert to help with a range of tasks from real-time technical support to helping produce, market, and facilitate your online event or conference.\n\n[Meet the experts](https://www.notion.so/2408a4b2132644b39fe6f85b9dbb6e59?v=73305636fe514890a6f73c3737f4edb7)\n\nFrequently asked questions\n--------------------------\n\nWhat is included in the free trial?\n\nDuring the 14 day free trial, you\u2019ll have access to all features and integrations. Live sessions are limited to 60 minutes and 10 live attendees.\n\nWhat is considered a \"live attendee\"?\n\nIt's the number of people who show up live. If you have 60 registered users and 25 show up live during the webinar, then you have 25 live attendees. In that case you should be fine on the Lite plan.\n\nWhat happens when more people attend live than you expected?\n\nYou can have unlimited registrants for your event. You only pay for those who show up live. You\u2019ll be charged .15\u00a2 per extra live attendee after reaching your plan\u2019s attendee limit. [Learn more about overage charges here.](https://docs.crowdcast.io/en/articles/7248212-overages-explained)\n\nCan I change plans easily?\n\nYes, you can upgrade, downgrade, pause, or cancel your plan at any time\\*. Click here to [learn more](https://docs.crowdcast.io/en/articles/7248075-upgrading-or-downgrading-your-plan). _\\*terms may apply_\n\nWhat people are saying\n----------------------\n\nWe use Crowdcast for brand building and community events. I host a Q&A call for our community each month. We also host our virtual conferences on it. Crowdcast is a HUGE time saver. I never build landing pages for events anymore. I never have to upload recordings and send out links anymore. I love the fact that I can always say, \"Yes, the event will be recorded. Just return to the exact same URL and it'll be waiting for you.\"\u00a0The other benefit is that my audience loves interacting with me on Crowdcast--so there's a relationship-building aspect too.\u00a0The quality of experience that you can create with Crowdcast is something I find\u00a0really\u00a0hard to duplicate elsewhere.\n\n![Image 4: Tara McMullin's testimonial profile photo](https://www.crowdcast.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F043asqj4%2Fproduction%2Fc1f8434d93a8b9e205c62f4100320de08414b9a2-3000x3000.png&w=256&q=75)\n\nTara McMullin\n\nFounder of What Works\n\nWe tried everything. With free platforms, you're beholden to their standards and practices so if you get kicked off the site you no longer have a show. Crowdcast is easy, interactive, and dependable. Plus, Crowdcast gives us a higher quality relationship with our audience, compared to YouTube or Facebook. With other services we would immediately get harassed by trolls who could access our shows. We don't have to worry about that anymore. And we love that our audience can listen on the mobile app during their commute.\n\n![Image 5: Rod Morrow's testimonial profile photo](https://www.crowdcast.io/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2F043asqj4%2Fproduction%2F93903e9bec25ba8358d525bbf681c3d0d8c5f412-2860x3000.png&w=256&q=75)\n\nRod Morrow\n\nThe Black Guy Who Tips\n\nSee what others are saying\n\nMade with \ud83d\udc97 in GermanyIndonesia\n\nFollow us on [X](https://x.com/CrowdcastHQ), [Instagram](https://www.instagram.com/crowdcast.io/?hl=en), & [LinkedIn](https://www.linkedin.com/company/crowdcast-io)\n\nPRODUCT\n\n[Features](https://www.crowdcast.io/product)[Customers](https://www.crowdcast.io/customers)[Discover](https://www.crowdcast.io/discover)[Pricing](https://www.crowdcast.io/pricing)[Hire an expert](https://dub.sh/crowdcast-experts)\n\nLEARN\n\n[Blog](https://crowdcast.io/blog)[Office Hours](https://www.crowdcast.io/@crowdcast)[Support](http://docs.crowdcast.io/)[What's new](https://www.crowdcast.io/updates)\n\nCOMPANY\n\n[About](https://www.crowdcast.io/about)[Careers](https://dub.sh/join-crowdcast)[Partners](https://www.crowdcast.io/partners)\n\n* * *\n\n[Terms of Service](https://www.crowdcast.io/terms-of-service)\u00b7\n\n[Privacy Policy](https://www.crowdcast.io/privacy-policy)\u00b7\n\n[Community Guidelines](https://www.crowdcast.io/community-guidelines)\u00b7\n\n[System Status](https://status.crowdcast.io/)\n\nWhere the world gathers \u2014 Reach, engage, and grow your community with online events.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "crowdcast",
+        "app_name": "Crowdcast",
+        "app_slug": "crowdcast",
+        "pricing_url": "https://www.crowdcast.io/pricing",
+        "source_url": "https://www.crowdcast.io/pricing",
+        "all_pricing_urls": [
+          "https://www.crowdcast.io/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes subscription tiers with additional usage-based fees for exceeding limits.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Lite",
+            "tier_description": "For creators and small businesses looking to grow their audience",
+            "monthly_price": 49.0,
+            "annual_price": 411.6,
+            "annual_discount_percentage": 30.0,
+            "setup_fee": null,
+            "features": [
+              "Transaction fee: 5%",
+              "2 hour sessions",
+              "HD Live video with recording",
+              "Multi-session events",
+              "RTMP Mode - Broadcast from OBS, Wirecast, Ecamm Live & more",
+              "Email and chat support",
+              "Stripe Integration",
+              "Event and Session Analytics",
+              "Zapier Integration",
+              "Export Email Addresses, Chat, Data"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Live attendees",
+                  "value": "100+"
+                },
+                {
+                  "name": "Hours per month",
+                  "value": 10
+                },
+                {
+                  "name": "Host seats",
+                  "value": 1
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "For professional creators and businesses to consistently host live video events",
+            "monthly_price": 89.0,
+            "annual_price": 748.8,
+            "annual_discount_percentage": 30.0,
+            "setup_fee": null,
+            "features": [
+              "All Lite features",
+              "4 hour sessions",
+              "Multistream to 1 location",
+              "Custom registration fields"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Live attendees",
+                  "value": "250+"
+                },
+                {
+                  "name": "Hours per month",
+                  "value": 20
+                },
+                {
+                  "name": "Host seats",
+                  "value": 2
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "For startups and companies looking to engage their customers",
+            "monthly_price": 195.0,
+            "annual_price": 1638.0,
+            "annual_discount_percentage": 30.0,
+            "setup_fee": null,
+            "features": [
+              "All Pro features",
+              "6 hour sessions",
+              "Transaction fee: 2%",
+              "Multistream to 3 locations"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Live attendees",
+                  "value": "1000+"
+                },
+                {
+                  "name": "Hours per month",
+                  "value": 40
+                },
+                {
+                  "name": "Host seats",
+                  "value": 4
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Extra live attendees",
+            "unit": "per attendee",
+            "base_price": 0.15,
+            "tiers": null
+          },
+          {
+            "metric_name": "Extra hours",
+            "unit": "per 5 hours",
+            "base_price": 20.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Additional host seats",
+            "unit": "per seat",
+            "base_price": 29.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Transaction fee",
+            "fee_amount": null,
+            "fee_description": "5% for Lite and 2% for Business tiers, plus Stripe's processing fee of 2.9% + 30\u00a2."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T05:18:10.422280",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\crowdcast\\20250415_051810"
+}

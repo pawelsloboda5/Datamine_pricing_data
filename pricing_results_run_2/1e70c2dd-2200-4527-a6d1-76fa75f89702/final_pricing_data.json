@@ -1,0 +1,178 @@
+{
+  "app_id": "magicplan",
+  "app_name": "magicplan",
+  "app_slug": "magicplan",
+  "pricing_url": "https://www.magicplan.app/pricing",
+  "source_url": "https://magicplan.app/pricing",
+  "all_pricing_urls": [
+    "https://www.magicplan.app/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on project count and contract duration, with additional features available as add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "24 Month Contract",
+      "tier_description": "Best price option for long-term commitment.",
+      "monthly_price": 25.0,
+      "annual_price": 300.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Instant floor plans on any device",
+        "Complete job documentation",
+        "Edit sketches in real-time",
+        "ESX & FML files available in seconds",
+        "Unlimited users in your workspace",
+        "Unlimited cloud storage",
+        "Onboarding & support",
+        "Automatic project top-ups"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projects per month",
+            "value": "customizable"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "12 Month Contract",
+      "tier_description": "Most popular option for medium-term commitment.",
+      "monthly_price": 30.0,
+      "annual_price": 360.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Instant floor plans on any device",
+        "Complete job documentation",
+        "Edit sketches in real-time",
+        "ESX & FML files available in seconds",
+        "Unlimited users in your workspace",
+        "Unlimited cloud storage",
+        "Onboarding & support",
+        "Automatic project top-ups"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projects per month",
+            "value": "customizable"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Month-to-Month",
+      "tier_description": "Most flexible option for short-term commitment.",
+      "monthly_price": 40.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Instant floor plans on any device",
+        "Complete job documentation",
+        "Edit sketches in real-time",
+        "ESX & FML files available in seconds",
+        "Unlimited users in your workspace",
+        "Unlimited cloud storage",
+        "Onboarding & support",
+        "Automatic project top-ups"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projects per month",
+            "value": "customizable"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro Estimator",
+      "tier_description": "Add-on for detailed estimates.",
+      "monthly_price": 149.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Instant takeoff & material calculations",
+        "Scope of work",
+        "Customizable price lists & templates",
+        "Built-in Craftsman Book Price Books"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Projects",
+      "unit": "per project",
+      "base_price": 40.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 40.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:56:07.656851",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1e70c2dd-2200-4527-a6d1-76fa75f89702",
+    "name": "magicplan",
+    "slug": "magicplan",
+    "description": "magicplan lets you instantly create and share floor plans, field reports, and estimates with one easy-to-use application.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/aafbad8043092e3a2819097112f3204c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Images & Design"
+    ],
+    "category_slugs": [
+      "images"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 1
+  }
+}

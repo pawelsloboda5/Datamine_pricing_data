@@ -1,0 +1,281 @@
+{
+  "app_id": "messagemedia_sms",
+  "app_name": "MessageMedia SMS",
+  "app_slug": "messagemedia-sms",
+  "pricing_url": "https://messagemedia.com/us/pricing/",
+  "source_url": "https://messagemedia.com/us/pricing/",
+  "all_pricing_urls": [
+    "https://messagemedia.com/us/pricing/",
+    "https://messagemedia.com/au/pricing/",
+    "https://messagemedia.com/uk/pricing/",
+    "https://messagemedia.com/nz/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes monthly subscription plans with included SMS credits and additional usage-based pricing for extra SMS credits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basics",
+      "tier_description": "Get up-and-running ASAP, with all your messaging must-haves.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "1,000 included SMS/mo",
+        "1 user",
+        "Two-way conversation inbox",
+        "Send bulk SMS campaigns",
+        "5000+ integrations"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "5000+",
+        "custom_limits": [
+          {
+            "name": "SMS credits",
+            "value": "1,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Conversations",
+      "tier_description": "Everything that\u2019s in Basics, plus great extras, like multichannel conversations.",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "3,000 included SMS/mo",
+        "5 users",
+        "30 Automation workflows",
+        "Track engagement",
+        "Two-way conversation inbox",
+        "Access to the mobile application"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "5000+",
+        "custom_limits": [
+          {
+            "name": "SMS credits",
+            "value": "3,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Like Conversations, but lets you create an even better customer experience.",
+      "monthly_price": 249.0,
+      "annual_price": null,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "10,000 SMS /mo",
+        "Unlimited users",
+        "Unlimited automations",
+        "Unlimited Mobile landing pages",
+        "Customer success onboarding",
+        "Access to the mobile application"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "5000+",
+        "custom_limits": [
+          {
+            "name": "SMS credits",
+            "value": "10,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro Plus",
+      "tier_description": "Get the works. Connect with loads more customers, more often.",
+      "monthly_price": 450.0,
+      "annual_price": null,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "20,000 SMS /mo",
+        "Unlimited users",
+        "Unlimited automations",
+        "Unlimited Mobile landing pages",
+        "Customer success onboarding",
+        "Access to the mobile application"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "5000+",
+        "custom_limits": [
+          {
+            "name": "SMS credits",
+            "value": "20,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Got a bigger customer base and require high volume messaging?",
+      "monthly_price": 799.0,
+      "annual_price": null,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "40,000 SMS /mo",
+        "Unlimited users",
+        "Unlimited automations",
+        "Unlimited Mobile landing pages",
+        "Customer success onboarding",
+        "Access to the mobile application"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "5000+",
+        "custom_limits": [
+          {
+            "name": "SMS credits",
+            "value": "40,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Looking to send more than 40,000 SMS a month?",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Customised pricing tailored to your business needs",
+        "Expert account support to advise on SMS best practices",
+        "Integrate with your existing business software"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "5000+",
+        "custom_limits": [
+          {
+            "name": "SMS credits",
+            "value": "custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS credits",
+      "unit": "per SMS",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 1000.0,
+          "price": 0.049
+        },
+        {
+          "min": 1001.0,
+          "max": 3000.0,
+          "price": 0.033
+        },
+        {
+          "min": 3001.0,
+          "max": 10000.0,
+          "price": 0.0249
+        },
+        {
+          "min": 10001.0,
+          "max": 20000.0,
+          "price": 0.0225
+        },
+        {
+          "min": 20001.0,
+          "max": 40000.0,
+          "price": 0.0199
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Free Trial",
+      "offer_description": "Give us a go for 14 days. Plus, grab 25 free credits.",
+      "discount_percentage": null,
+      "offer_url": "https://app.sinch.com/register",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Dedicated Shortcodes",
+      "fee_amount": null,
+      "fee_description": "Available on request."
+    },
+    {
+      "fee_name": "Sales Tax",
+      "fee_amount": null,
+      "fee_description": "Prices quoted exclude tax."
+    },
+    {
+      "fee_name": "Carrier Fees",
+      "fee_amount": null,
+      "fee_description": "Additional carrier fees may apply."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:47:22.539240",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4ca92966-89a4-4ff1-93cc-d7ea4d2c0911",
+    "name": "MessageMedia SMS",
+    "slug": "messagemedia",
+    "description": "MessageMedia SMS is a leading provider of SMS for business. Our reliable service includes reporting, 24/7 support, and competitive pricing.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/f99e391ae362e91e722f50a989d1cad1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

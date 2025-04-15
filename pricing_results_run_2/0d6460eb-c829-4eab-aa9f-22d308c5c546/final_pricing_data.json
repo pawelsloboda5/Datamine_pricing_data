@@ -1,0 +1,84 @@
+{
+  "app_id": "clicksend_sms",
+  "app_name": "ClickSend SMS",
+  "app_slug": "clicksend-sms",
+  "pricing_url": "https://www.clicksend.com/us/pricing/",
+  "source_url": "https://www.clicksend.com/us/pricing/us/",
+  "all_pricing_urls": [
+    "https://www.clicksend.com/us/pricing/"
+  ],
+  "price_model_type": [
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on usage and varies by volume and service type.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS",
+      "unit": "per message",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "MMS",
+      "unit": "per message",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Voice",
+      "unit": "per call",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Email",
+      "unit": "per email",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Fax",
+      "unit": "per fax",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Post",
+      "unit": "per item",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:19:13.692910",
+  "schema_validated": true,
+  "confidence_score": 70,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0d6460eb-c829-4eab-aa9f-22d308c5c546",
+    "name": "ClickSend SMS",
+    "slug": "clicksend",
+    "description": "ClickSend is a cloud-based service that lets you send and receive SMS, Email, Voice, Fax and Letters worldwide.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/dd5f4022fda4a5caed8ae27548b27566_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 19,
+    "trigger_count": 0
+  }
+}

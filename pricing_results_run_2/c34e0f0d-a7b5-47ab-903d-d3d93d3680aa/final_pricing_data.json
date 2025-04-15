@@ -1,0 +1,163 @@
+{
+  "app_id": "salesviewer",
+  "app_name": "SalesViewer",
+  "app_slug": "salesviewer",
+  "pricing_url": "https://www.salesviewer.com/en/pricing/",
+  "source_url": "https://www.salesviewer.com/pricing",
+  "all_pricing_urls": [
+    "https://www.salesviewer.com/en/pricing/",
+    "https://www.salesviewer.com/de/preise/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on monthly subscriptions with annual discounts available. Plans scale with business growth.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pro",
+      "tier_description": "Essential features for small teams and businesses.",
+      "monthly_price": 79.0,
+      "annual_price": 758.4,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Company ID",
+        "Behavior analytics",
+        "Smart categories",
+        "Instant notifications",
+        "Interest spotlight",
+        "Campaigns & keywords",
+        "iOS & Android app",
+        "Export & full data access",
+        "Drag and drop integrations",
+        "Unlimited users",
+        "Individual support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "company detections",
+            "value": 50
+          },
+          {
+            "name": "websites",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "All premium features to supercharge your sales.",
+      "monthly_price": 269.0,
+      "annual_price": 2584.8,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All Pro features",
+        "Video (session recording)",
+        "Filters & automations",
+        "Custom reports",
+        "Scoring",
+        "Offline campaigns",
+        "Google Ads integration",
+        "Standalone integrations",
+        "API",
+        "Premium support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "company detections",
+            "value": 250
+          },
+          {
+            "name": "websites",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Individual",
+      "tier_description": "Extended support and individual services for enterprise customers.",
+      "monthly_price": 499.0,
+      "annual_price": 4780.8,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All Pro + Premium features",
+        "Event tracking",
+        "Google Ads premium integration",
+        "Enterprise support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "company detections",
+            "value": 750
+          },
+          {
+            "name": "websites",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "qualified lead",
+      "unit": "per lead",
+      "base_price": 0.51,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:57:05.145326",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c34e0f0d-a7b5-47ab-903d-d3d93d3680aa",
+    "name": "SalesViewer",
+    "slug": "salesviewer",
+    "description": "SalesViewer is a tool to identify your anonymous website visitors and redefines the way you think about new business development.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/7a1b545a6855b027807d0f9e0814668a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 4
+  }
+}

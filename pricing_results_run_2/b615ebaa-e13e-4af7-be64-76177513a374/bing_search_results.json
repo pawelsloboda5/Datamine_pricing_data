@@ -1,0 +1,12 @@
+{
+  "app_name": "Google Tasks",
+  "app_slug": "google-tasks",
+  "search_term": "Find the official pricing page URL for Google Tasks (google-tasks.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744721892.2932577,
+  "response_text": [
+    "It appears I couldn't locate a dedicated pricing page for Google Tasks on its official site. Let me know if you'd like further details."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\google-tasks\\20250415_085812"
+}

@@ -1,0 +1,168 @@
+{
+  "app_id": "sender",
+  "app_name": "Sender",
+  "app_slug": "sender",
+  "pricing_url": "https://www.sender.net/pricing/",
+  "source_url": "https://www.sender.net/pricing",
+  "all_pricing_urls": [
+    "https://www.sender.net/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and various subscription plans with optional usage-based SMS credits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Forever",
+      "tier_description": "For businesses who are just starting out",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 2,500 subscribers",
+        "Up to 15,000 emails/month",
+        "Contains Sender branding",
+        "Email newsletters",
+        "Email automation",
+        "Signup forms & popups",
+        "Access to all email & popup templates"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Essential email tools for growing online business",
+      "monthly_price": 7.0,
+      "annual_price": 84.0,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "Up to 12,000 emails/month",
+        "SMS messaging",
+        "No Sender branding",
+        "Multi-user access"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Advanced omnichannel features & premium support",
+      "monthly_price": 14.0,
+      "annual_price": 168.0,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "Up to 24,000 emails/month",
+        "Free SMS",
+        "Animated countdown timers",
+        "Advanced automation",
+        "Priority support",
+        "Dedicated IPs available"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large organisations and businesses",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited emails",
+        "Dedicated success manager",
+        "Advanced user permissions",
+        "Service level agreement",
+        "Activity logs for auditing",
+        "SSO (SAML v2)",
+        "Phone support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS credits",
+      "unit": "per SMS",
+      "base_price": 0.015,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Easter Offer",
+      "offer_description": "Get 30% off Any Annual Plan.",
+      "discount_percentage": 30.0,
+      "offer_url": "https://auth.sender.net/register?scope=scope&client_id=21&response_type=code&redirect_uri=https%3A%2F%2Fapp.sender.net%2F&comet_token_override=1595254205252436325910638888381124588587478624006",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Yearly Subscription Discount",
+      "offer_description": "Save 40% on Sender subscriptions.",
+      "discount_percentage": 40.0,
+      "offer_url": "https://auth.sender.net/register?scope=scope&client_id=21&response_type=code&redirect_uri=https%3A%2F%2Fapp.sender.net%2F&comet_token_override=1595254205252436325910638888381124588587478624006",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:24:00.083608",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a2f8de11-3f20-4019-a0a8-875825900d9b",
+    "name": "Sender",
+    "slug": "sender",
+    "description": "Capture leads and turn them into loyal customers through Sender, the easy and affordable email & SMS platform.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/c45a9ae9df127c2daf4f27fcca1a0ecf.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 6
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "app_id": "less_annoying_crm",
+  "app_name": "Less Annoying CRM",
+  "app_slug": "less-annoying-crm",
+  "pricing_url": "https://www.lessannoyingcrm.com/pricing",
+  "source_url": "https://www.lessannoyingcrm.com/pricing",
+  "all_pricing_urls": [
+    "https://www.lessannoyingcrm.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is straightforward with a single tier and no hidden fees.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Single pricing tier for all users.",
+      "monthly_price": 15.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited contacts and companies",
+        "Unlimited pipelines",
+        "Email logging",
+        "User permissions",
+        "Unlimited custom fields",
+        "25GB of file storage per user",
+        "Task management",
+        "Mobile access",
+        "All features & free upgrades"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "25GB per user",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:25:51.074761",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "15c72a59-6390-45f8-a912-f460b30ea353",
+    "name": "Less Annoying CRM",
+    "slug": "less-annoying-crm",
+    "description": "Less Annoying CRM is a small business CRM with easy-to-use features at an affordable price. Manage all leads, notes, and tasks in one place.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/74658f0e84ecd3d7d76ee5bd1e1bbb64.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 12,
+    "trigger_count": 3
+  }
+}

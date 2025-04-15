@@ -1,0 +1,45 @@
+{
+  "app_id": "google_analytics_4",
+  "app_name": "Google Analytics 4",
+  "app_slug": "google-analytics-4",
+  "pricing_url": null,
+  "source_url": "https://marketingplatform.google.com/about/pricing/analytics/",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page for Google Analytics 4 was not accessible, and no detailed pricing information could be extracted.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:37:34.525693",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "0717b6e5-76ca-4fc0-a559-0be274fcff01",
+    "name": "Google Analytics 4",
+    "slug": "google-analytics-4",
+    "description": "Google Analytics 4 is a powerful web analytics platform that provides businesses with deep insights into user behavior and website performance.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/c80587fe5392efce019e5d081f656274.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Analytics",
+      "Google"
+    ],
+    "category_slugs": [
+      "analytics",
+      "google"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 6,
+    "trigger_count": 0
+  }
+}

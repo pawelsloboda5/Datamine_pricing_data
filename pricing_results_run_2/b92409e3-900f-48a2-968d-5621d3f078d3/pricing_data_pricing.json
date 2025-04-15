@@ -1,0 +1,115 @@
+{
+  "app_id": "passion_io",
+  "app_name": "Passion.io",
+  "app_slug": "passion-io",
+  "pricing_url": null,
+  "source_url": "https://passion.io/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details include subscription models and potential for custom quotes.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Launch",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Your own app",
+        "Products & communities",
+        "Chat & DM\u2019s",
+        "Standard integrations",
+        "Tracking",
+        "In-app payments"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Your own app",
+        "Products & communities",
+        "Chat & DM\u2019s",
+        "Standard integrations",
+        "Tracking",
+        "In-app payments"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Expand",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Your own app",
+        "Products & communities",
+        "Chat & DM\u2019s",
+        "Standard integrations",
+        "Tracking",
+        "In-app payments"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Your own app",
+        "Products & communities",
+        "Chat & DM\u2019s",
+        "Standard integrations",
+        "Tracking",
+        "In-app payments"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:22:19.366897",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b92409e3-900f-48a2-968d-5621d3f078d3",
+    "name": "Passion.io",
+    "slug": "passion-io",
+    "description": "Passion.io is a platform that turns your content or skills into your own mobile apps that sell.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/395eb1fb06875b50524530d92a3db12e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "App Builder"
+    ],
+    "category_slugs": [
+      "app-builder"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 6
+  }
+}

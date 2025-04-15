@@ -1,0 +1,171 @@
+{
+  "app_id": "mailerlite",
+  "app_name": "MailerLite",
+  "app_slug": "mailerlite",
+  "pricing_url": "https://www.mailerlite.com/pricing",
+  "source_url": "https://www.mailerlite.com/pricing",
+  "all_pricing_urls": [
+    "https://www.mailerlite.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of subscribers and includes a free tier for up to 1,000 subscribers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For up to 1,000 subscribers",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "12,000 monthly emails",
+        "1 user seat",
+        "24/7 Email & chat support for up to 30 days",
+        "Drag & drop editor",
+        "Email automation builder",
+        "Websites",
+        "10 landing pages",
+        "Comparative reporting",
+        "Signup forms & pop-ups"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "12,000 monthly emails",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Landing pages",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growing Business",
+      "tier_description": "For up to 500 subscribers",
+      "monthly_price": 9.0,
+      "annual_price": 108.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited monthly emails",
+        "3 user seats",
+        "24/7 Email support",
+        "Sell digital products",
+        "Unlimited templates",
+        "Dynamic emails",
+        "Campaign auto-resend",
+        "Multivariate testing",
+        "Unlimited websites & blogs",
+        "Unlimited landing pages",
+        "Unsubscribe page builder"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "For up to 500 subscribers",
+      "monthly_price": 18.0,
+      "annual_price": 216.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited monthly emails",
+        "Unlimited user seats",
+        "24/7 Live chat & email support",
+        "Smart sending",
+        "Facebook integration",
+        "Custom HTML editor",
+        "Promotion pop-ups",
+        "Enhanced automations",
+        "Preference center",
+        "AI writing assistant",
+        "Partner discounts"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Businesses with over 100K subscribers",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited user seats",
+        "24/7 Live chat & email support",
+        "Dedicated success manager",
+        "Dedicated IP & deliverability consultation",
+        "Onboarding consultation and training",
+        "Account audit and performance improvements"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Billing Discount",
+      "offer_description": "Save 10% by paying yearly",
+      "discount_percentage": 10.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:10:54.485082",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "98f29e74-7e23-4068-854c-76c3a00427ee",
+    "name": "MailerLite",
+    "slug": "mailerlite",
+    "description": "MailerLite\u2019s super-fast email marketing platform helps you grow your business online using innovative email designs, automations, email segmentation and intuitive no-code tools to create websites, landing pages, and signup forms.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/20c1ffbb1909e6010b46b1c43f9f280b_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 12
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "app_name": "Urlooker",
+  "app_slug": "urlooker",
+  "search_term": "Find the official pricing page URL for Urlooker (urlooker.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744703423.2991164,
+  "response_text": [
+    "The official URL for the pricing page of Urlooker is: [https://urlooker.com/pricing](https://urlooker.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Urlooker",
+      "url": "https://urlooker.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://urlooker.com/pricing",
+      "is_accessible": true,
+      "content": "### Standard\n\n$9 Per Month\n\n* * *\n\n*   **10** Pages to Track\n*   **4** Checks per Day (for each Page)\n\nWill save you **6.5** hours of manual work per month\n\n[Sign Up](https://urlooker.com/auth/signup)\n\n### Premium\n\n$20 Per Month\n\n* * *\n\n*   **25** Pages to Track\n*   **24** Checks per Day (for each Page)\n\nWill save you **100** hours of manual work per month\n\n[Sign Up](https://urlooker.com/auth/signup)\n\n### Professional\n\n$50 Per Month\n\n* * *\n\n*   **100** Pages to Track\n*   **48** Checks per Day (for each Page)\n*   Checks every 30 minutes\n\nWill save you **800** hours of manual work per month\n\n[Sign Up](https://urlooker.com/auth/signup)\n\n##### Can I Try It For Free?\n\nYes, after signing up you will get a Free plan which allows you to monitor up to 2 pages, once per day.\n\n##### What is Page?\n\nPage is a single URL which you want to monitor; each page may also include page area and keywords filters.\n\n##### What is Checks per Day?\n\nIt is the limit of how frequently we'll check the selected page for changes.\n\n##### Can I Select a Specific Time Period to Monitor?\n\nSure, you can either select a period (for example from 8:00 AM to 6:00 PM) or exact time of checks (i.e., check on 10:30 AM and 2:00 PM).\n\n##### What Will Happen if I Change Plan?\n\nIf you downgrade your plan, you'll stay on your current plan until the end of billing period. If you upgrade your plan, you'll be upgraded immediately, with proration of unused days on current period.\n\n##### Can I Monitor More Than 100 Pages?\n\nContact us at [support@urlooker.com](mailto:support@urlooker.com) or using live chat to discuss it.\n\nOur pricing for Free, Standard and Premium plans.\nTry our Free plan - monitor any 2 pages every day free of charge!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "urlooker",
+        "app_name": "Urlooker",
+        "app_slug": "urlooker",
+        "pricing_url": "https://urlooker.com/pricing",
+        "source_url": "https://urlooker.com/pricing",
+        "all_pricing_urls": [
+          "https://urlooker.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The Free plan allows monitoring of up to 2 pages daily without charge.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Free plan for basic monitoring.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Monitor up to 2 pages",
+              "1 check per day"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Pages to Track",
+                  "value": 2
+                },
+                {
+                  "name": "Checks per Day",
+                  "value": 1
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Standard",
+            "tier_description": "Standard plan for moderate monitoring needs.",
+            "monthly_price": 9.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Monitor up to 10 pages",
+              "4 checks per day"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Pages to Track",
+                  "value": 10
+                },
+                {
+                  "name": "Checks per Day",
+                  "value": 4
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Premium",
+            "tier_description": "Premium plan for extensive monitoring.",
+            "monthly_price": 20.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Monitor up to 25 pages",
+              "24 checks per day"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Pages to Track",
+                  "value": 25
+                },
+                {
+                  "name": "Checks per Day",
+                  "value": 24
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Professional",
+            "tier_description": "Professional plan for intensive monitoring.",
+            "monthly_price": 50.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Monitor up to 100 pages",
+              "48 checks per day",
+              "Checks every 30 minutes"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Pages to Track",
+                  "value": 100
+                },
+                {
+                  "name": "Checks per Day",
+                  "value": 48
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:50:44.132156",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\urlooker\\20250415_035044"
+}

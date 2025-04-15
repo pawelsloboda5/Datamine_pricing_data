@@ -1,0 +1,43 @@
+{
+  "app_id": "circle",
+  "app_name": "Circle",
+  "app_slug": "circle",
+  "pricing_url": null,
+  "source_url": "https://www.circle.com/en/wallets\u30103:2\u2020source\u3011.",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The provided content does not include specific pricing details for Circle's products or services.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:16:31.379880",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "bff16d27-d739-4553-ba7c-dd09b3f8e185",
+    "name": "Circle",
+    "slug": "circle",
+    "description": "A modern community platform for creators.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d545fe7a4a2bfc59f2d919c584cbe9db.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 24,
+    "trigger_count": 19
+  }
+}

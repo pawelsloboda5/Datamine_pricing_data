@@ -1,0 +1,48 @@
+{
+  "app_id": "upnify",
+  "app_name": "Upnify",
+  "app_slug": "upnify",
+  "pricing_url": "https://upnify.com/pricing-en.html",
+  "source_url": "https://upnify.com/en/crm/pricing.html",
+  "all_pricing_urls": [
+    "https://upnify.com/pricing-en.html",
+    "https://upnify.com/en/crm/pricing.html#"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was accessible but detailed tier information was not provided.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:59:30.952927",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a0b56195-0a4a-4405-bf30-e195a8bf9a35",
+    "name": "Upnify",
+    "slug": "upnify",
+    "description": "Upnify is a CRM platform designed for sales teams that provides email templates, sales reports, automated lead assignment, and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/739d4286087c2279f0d0979f9057068c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 3
+  }
+}

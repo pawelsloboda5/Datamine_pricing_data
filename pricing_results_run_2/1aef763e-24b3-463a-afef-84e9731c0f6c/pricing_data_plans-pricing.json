@@ -1,0 +1,48 @@
+{
+  "app_id": "egnyte",
+  "app_name": "Egnyte",
+  "app_slug": "egnyte",
+  "pricing_url": "https://www.egnyte.com/pricing",
+  "source_url": "https://www.egnyte.com/plans-pricing",
+  "all_pricing_urls": [
+    "https://www.egnyte.com/pricing",
+    "https://www.egnyte.com/plans-pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page returned a 404 error, so detailed pricing information could not be retrieved.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:24:58.420135",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1aef763e-24b3-463a-afef-84e9731c0f6c",
+    "name": "Egnyte",
+    "slug": "egnyte",
+    "description": "Egnyte enables users to easily and securely share files on-premises and in the cloud. Egnyte\u2019s award-winning platform integrates with any cloud, storage, device and business application to enable customers to optimize their collaboration environments through secure access, centralized control and unified visibility.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/da3325591dd6988c6f25cb32b0e48af0.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "File Management & Storage"
+    ],
+    "category_slugs": [
+      "files"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 1
+  }
+}

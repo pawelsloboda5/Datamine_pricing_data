@@ -1,0 +1,139 @@
+{
+  "app_id": "missive",
+  "app_name": "Missive",
+  "app_slug": "missive",
+  "pricing_url": "https://missiveapp.com/pricing",
+  "source_url": "https://missiveapp.com/pricing",
+  "all_pricing_urls": [
+    "https://missiveapp.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers a 20% discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "For teams with simple needs",
+      "monthly_price": 14.0,
+      "annual_price": 168.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Email, SMS, social accounts",
+        "Team spaces and inboxes",
+        "Conversations and tasks",
+        "SOC 2 Type II compliance"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Productive",
+      "tier_description": "For teams with workflow needs",
+      "monthly_price": 24.0,
+      "annual_price": 288.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Starter",
+        "Integrations with external tools",
+        "Rules & automations",
+        "Basic analytics & reporting",
+        "API access"
+      ],
+      "limits": {
+        "users": 50,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For teams with advanced needs",
+      "monthly_price": 36.0,
+      "annual_price": 432.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Productive",
+        "SAML and SSO",
+        "IP restriction",
+        "Advanced analytics & reporting",
+        "Personalized team onboarding"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Billing Discount",
+      "offer_description": "20% off for annual billing compared to monthly billing.",
+      "discount_percentage": 20.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Additional Shared Accounts",
+      "fee_amount": null,
+      "fee_description": "Additional shared accounts can be purchased beyond the included limits."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:38:49.248884",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6ccc5607-0cf0-43cc-9c6e-34357e80cc85",
+    "name": "Missive",
+    "slug": "missive",
+    "description": "Email, group chat and tasks for productive teams. One app for all your internal and external communication.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/6bc8ebbd135435719c8ecefdc6e150fa.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 4
+  }
+}

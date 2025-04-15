@@ -1,0 +1,205 @@
+{
+  "app_id": "sendowl",
+  "app_name": "SendOwl",
+  "app_slug": "sendowl",
+  "pricing_url": "https://www.sendowl.com/pricing",
+  "source_url": "https://www.sendowl.com/pricing",
+  "all_pricing_urls": [
+    "https://www.sendowl.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing tiers are automatically upgraded based on usage exceeding thresholds.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "For small businesses just getting started",
+      "monthly_price": 39.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "PDF Stamping",
+        "Upsells",
+        "Cart abandonment",
+        "Affiliate programs",
+        "Customization",
+        "Self hosting",
+        "API access",
+        "Email marketing integrations",
+        "Membership plugins"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "10GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Orders per year",
+            "value": 5000
+          },
+          {
+            "name": "Sales per year",
+            "value": "$10,000"
+          },
+          {
+            "name": "Products",
+            "value": 20
+          },
+          {
+            "name": "Max file size",
+            "value": "5GB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "For growing businesses with more customers",
+      "monthly_price": 87.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "PDF Stamping",
+        "Upsells",
+        "Cart abandonment",
+        "Affiliate programs",
+        "Customization",
+        "Self hosting",
+        "API access",
+        "Email marketing integrations",
+        "Membership plugins"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "50GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Orders per year",
+            "value": 25000
+          },
+          {
+            "name": "Sales per year",
+            "value": "$36,000"
+          },
+          {
+            "name": "Products",
+            "value": 100
+          },
+          {
+            "name": "Max file size",
+            "value": "10GB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For established businesses with larger volumes",
+      "monthly_price": 159.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "PDF Stamping",
+        "Upsells",
+        "Cart abandonment",
+        "Affiliate programs",
+        "Customization",
+        "Self hosting",
+        "API access",
+        "Email marketing integrations",
+        "Membership plugins"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Orders per year",
+            "value": 50000
+          },
+          {
+            "name": "Sales per year",
+            "value": "$100,000"
+          },
+          {
+            "name": "Products",
+            "value": "unlimited"
+          },
+          {
+            "name": "Max file size",
+            "value": "15GB"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Bandwidth",
+      "unit": "per GB",
+      "base_price": 2.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Product update emails / Order imports",
+      "unit": "per 1,000",
+      "base_price": 5.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Bandwidth overage",
+      "fee_amount": 2.0,
+      "fee_description": "All plans come with 10GB/month included"
+    },
+    {
+      "fee_name": "Product update emails / Order imports",
+      "fee_amount": 5.0,
+      "fee_description": "Fee per 1,000 updates or imports"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:42:18.306692",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ecf7ddd8-05e2-4c57-946e-39e4c50c9934",
+    "name": "SendOwl",
+    "slug": "sendowl",
+    "description": "SendOwl's mission is to increase digital product sales globally. Sell your digital products how and where you want.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/0eddc64fcdcbc8e7d7d1bbae16dcee30.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

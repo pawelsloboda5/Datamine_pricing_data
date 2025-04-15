@@ -1,0 +1,99 @@
+{
+  "app_id": "discord",
+  "app_name": "Discord",
+  "app_slug": "discord",
+  "pricing_url": "https://discord.com/nitro",
+  "source_url": "https://discord.com/nitro",
+  "all_pricing_urls": [
+    "https://discord.com/nitro"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing varies by country and plan. Specific prices are available in the app.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Nitro Basic",
+      "tier_description": "Includes a selection of the most-loved Nitro perks.",
+      "monthly_price": 4.99,
+      "annual_price": 49.99,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Custom emoji anywhere and make them animated",
+        "Custom stickers anywhere plus 300+ Nitro exclusives",
+        "Bigger file sharing (20MB)",
+        "HD streaming"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Nitro",
+      "tier_description": "Unlocks access to all available Nitro perks.",
+      "monthly_price": 9.99,
+      "annual_price": 99.99,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Custom emoji anywhere and make them animated",
+        "Custom stickers anywhere plus 300+ Nitro exclusives",
+        "Bigger file sharing (100MB)",
+        "HD streaming up to 4K and 60fps",
+        "2 Free Boosts + 30% off extra Boosts",
+        "Animated avatar, profile banner, and custom tag",
+        "Custom server profiles",
+        "Nitro badge on your profile",
+        "Custom video backgrounds",
+        "Join up to 200 servers",
+        "Longer messages up to 4,000 characters"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:21:28.321654",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3351e796-5928-4610-9acf-e9d95838f2b5",
+    "name": "Discord",
+    "slug": "discord",
+    "description": "Discord is an all-in-one voice and text chat for gamers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ca03beabe94d8f97ba6fbf75cbb695c4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Chat"
+    ],
+    "category_slugs": [
+      "team-chat"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 6
+  }
+}

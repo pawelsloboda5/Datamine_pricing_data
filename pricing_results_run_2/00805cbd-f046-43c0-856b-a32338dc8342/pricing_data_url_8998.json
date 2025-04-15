@@ -1,0 +1,221 @@
+{
+  "app_id": "ixact_contact_crm",
+  "app_name": "IXACT Contact CRM",
+  "app_slug": "ixact-contact-crm",
+  "pricing_url": "https://ixactcontact.com/pricing/",
+  "source_url": "https://www.ixactcontact.com/pricing/",
+  "all_pricing_urls": [
+    "https://ixactcontact.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes optional add-ons and usage-based components.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Team Leader",
+      "tier_description": "For team leaders in real estate.",
+      "monthly_price": 55.0,
+      "annual_price": 561.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Detailed Contact Profiles",
+        "Automated Lead Capture",
+        "Email Marketing",
+        "Agent Websites"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team Members",
+      "tier_description": "For team members in real estate.",
+      "monthly_price": 34.0,
+      "annual_price": 346.8,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Detailed Contact Profiles",
+        "Automated Lead Capture",
+        "Email Marketing",
+        "Agent Websites"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "IXACT Recruiter - Individual and Team Leader",
+      "tier_description": "For recruiting agents.",
+      "monthly_price": 99.0,
+      "annual_price": 1009.8,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Advanced Contact Management",
+        "Email Marketing",
+        "Monthly e-Newsletter"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "IXACT Recruiter - Team Members",
+      "tier_description": "For team members in recruiting.",
+      "monthly_price": 45.0,
+      "annual_price": 459.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Advanced Contact Management",
+        "Email Marketing",
+        "Monthly e-Newsletter"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Mass Emails",
+      "unit": "emails",
+      "base_price": 0.0,
+      "tiers": [
+        {
+          "min": 2501.0,
+          "max": 3500.0,
+          "price": 10.0
+        },
+        {
+          "min": 3501.0,
+          "max": 6000.0,
+          "price": 20.0
+        },
+        {
+          "min": 6001.0,
+          "max": 11000.0,
+          "price": 30.0
+        },
+        {
+          "min": 11001.0,
+          "max": 26000.0,
+          "price": 50.0
+        },
+        {
+          "min": 26001.0,
+          "max": 51000.0,
+          "price": 100.0
+        },
+        {
+          "min": 51001.0,
+          "max": "unlimited",
+          "price": 150.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Text Marketing",
+      "unit": "credits",
+      "base_price": 0.0,
+      "tiers": [
+        {
+          "min": 101.0,
+          "max": 600.0,
+          "price": 15.0
+        },
+        {
+          "min": 601.0,
+          "max": 1600.0,
+          "price": 25.0
+        },
+        {
+          "min": 1601.0,
+          "max": 4100.0,
+          "price": 55.0
+        },
+        {
+          "min": 4101.0,
+          "max": 10100.0,
+          "price": 100.0
+        },
+        {
+          "min": 10101.0,
+          "max": "unlimited",
+          "price": 175.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "IDX Broker Core",
+      "fee_amount": 50.0,
+      "fee_description": "Optional add-on for agent websites."
+    },
+    {
+      "fee_name": "Website Domain Registration",
+      "fee_amount": 24.0,
+      "fee_description": "Annual fee for domain registration."
+    },
+    {
+      "fee_name": "IDX Setup Fee",
+      "fee_amount": 69.0,
+      "fee_description": "One-time setup fee for IDX integration."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:07:27.817139",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "00805cbd-f046-43c0-856b-a32338dc8342",
+    "name": "IXACT Contact CRM",
+    "slug": "ixact-contact-crm",
+    "description": "IXACT Contact is a real estate CRM that helps agents stay organized and build relationships with clients, prospects and referral sources.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/49d68022a3d502890340eefc492ba94f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

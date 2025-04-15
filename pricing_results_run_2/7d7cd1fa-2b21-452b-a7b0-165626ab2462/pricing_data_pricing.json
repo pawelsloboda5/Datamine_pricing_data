@@ -1,0 +1,114 @@
+{
+  "app_id": "firetext",
+  "app_name": "FireText",
+  "app_slug": "firetext",
+  "pricing_url": "https://www.firetext.co.uk/pricing",
+  "source_url": "https://www.firetext.co.uk/pricing",
+  "all_pricing_urls": [
+    "https://www.firetext.co.uk/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "GBP",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Prices are excluding VAT. Credits do not expire but require account activity within 12 months.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pay-As-You-Go",
+      "tier_description": "Purchase credits for SMS messages.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 credit = 1 SMS fragment to 1 UK recipient",
+        "Credits do not expire"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": "500 credits for \u00a325"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "UK Reply Number",
+      "tier_description": "Subscription for a dedicated UK reply number.",
+      "monthly_price": 9.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Send and receive messages directly into FireText",
+        "Set up keywords for inbound texts"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Keyword on 82228",
+      "tier_description": "Subscription for a keyword on the 82228 shortcode.",
+      "monthly_price": 19.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advertise your keyword for campaigns",
+        "Set up automatic responses"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS credits",
+      "unit": "per credit",
+      "base_price": 0.05,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 500.0,
+          "price": 0.05
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:48:49.045257",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7d7cd1fa-2b21-452b-a7b0-165626ab2462",
+    "name": "FireText",
+    "slug": "firetext",
+    "description": "FireText makes effective SMS marketing easy indeed - whether you're brand new to text message marketing or a seasoned hand.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/aef0ef4b2c75ab3d187f1dbfc5711fc3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

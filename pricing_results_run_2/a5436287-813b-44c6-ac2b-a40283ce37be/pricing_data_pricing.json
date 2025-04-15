@@ -1,0 +1,117 @@
+{
+  "app_id": "vitally",
+  "app_name": "Vitally",
+  "app_slug": "vitally",
+  "pricing_url": "https://www.vitally.io/pricing",
+  "source_url": "https://vitally.io/pricing",
+  "all_pricing_urls": [
+    "https://www.vitally.io/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is available upon request for all tiers. All plans include the same set of core features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Tech-Touch",
+      "tier_description": "Designed for scaling with one-to-many & PLG Customer Success.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Automations",
+        "Unlimited Observer Seats",
+        "Single Sign-on",
+        "Full Integration Library",
+        "Unlimited Docs"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Hybrid-Touch",
+      "tier_description": "Designed for scaling with any model of Customer Success.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Automations",
+        "Unlimited Observer Seats",
+        "Single Sign-on",
+        "Full Integration Library",
+        "Unlimited Docs"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "High-Touch",
+      "tier_description": "Designed for scaling with one-to-one Customer Success.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Automations",
+        "Unlimited Observer Seats",
+        "Single Sign-on",
+        "Full Integration Library",
+        "Unlimited Docs"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:30:18.740939",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a5436287-813b-44c6-ac2b-a40283ce37be",
+    "name": "Vitally",
+    "slug": "vitally",
+    "description": "Vitally is a customer success platform for high-growth B2B SaaS teams.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/185f038e1213085ae10ec5ad31a66389.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 24,
+    "trigger_count": 19
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "app_id": "liondesk",
+  "app_name": "LionDesk",
+  "app_slug": "liondesk",
+  "pricing_url": "https://www.liondesk.com/pricing",
+  "source_url": "https://www.liondesk.com/pricing",
+  "all_pricing_urls": [
+    "https://www.liondesk.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing details for LionDesk were not explicitly mentioned in the provided content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:44:20.664349",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6cd332e7-1772-4a71-9803-80464e553ce9",
+    "name": "LionDesk",
+    "slug": "liondesk-crm",
+    "description": "LionDesk is the hub for Sales Professionals to help manage clients, transactions, automate marketing and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/2b64f8810fd63410426ceee1f5fa3277_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 6,
+    "trigger_count": 0
+  }
+}

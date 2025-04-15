@@ -1,0 +1,205 @@
+{
+  "app_id": "metricool",
+  "app_name": "Metricool",
+  "app_slug": "metricool",
+  "pricing_url": "https://metricool.com/pricing",
+  "source_url": "https://metricool.com/pricing/",
+  "all_pricing_urls": [
+    "https://metricool.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and multiple subscription options with annual and monthly payment plans. VAT is calculated separately.",
+  "pricing_tiers": [
+    {
+      "tier_name": "FREE",
+      "tier_description": "Free plan with basic features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Management of all your brand\u2019s social media accounts (excluding LinkedIn and Twitter).",
+        "Planning up to 50 pieces of content per month.",
+        "Analysis of 5 competitor profiles.",
+        "Access to analytics with 3 months of historical data.",
+        "Utilize the AI Social Media Assistant."
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Content Planning",
+            "value": 50
+          },
+          {
+            "name": "Competitor Analysis",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "STARTER",
+      "tier_description": "Starter plan with extended features.",
+      "monthly_price": 18.0,
+      "annual_price": 14.0,
+      "annual_discount_percentage": 22.22,
+      "setup_fee": null,
+      "features": [
+        "Management of all your brands\u2019 social media accounts (excluding Twitter).",
+        "Schedule unlimited pieces of content per month.",
+        "LinkedIn connection.",
+        "Access to Twitter/X add-on.",
+        "Analysis of 100 competitor profiles.",
+        "Downloadable reports, in PDF and PPT.",
+        "Multiple links-in-bio, with SmartLinks.",
+        "Utilize the AI Social Media Assistant.",
+        "Access to analytics with unlimited historical data.",
+        "Google Drive Integration.",
+        "Canva Integration."
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Competitor Analysis",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "ADVANCED",
+      "tier_description": "Advanced plan with premium features.",
+      "monthly_price": 49.0,
+      "annual_price": 39.0,
+      "annual_discount_percentage": 20.41,
+      "setup_fee": null,
+      "features": [
+        "Management of all your brands\u2019 social media accounts (excluding Twitter).",
+        "Access to Twitter/X add-on.",
+        "Schedule unlimited pieces of content per month.",
+        "Team and client access.",
+        "Role management.",
+        "Post approval system.",
+        "Customizable templates for reports.",
+        "Connection to Looker Studio.",
+        "Zapier integration.",
+        "Adjust instructions available in the AI assistant."
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Competitor Analysis",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "CUSTOM",
+      "tier_description": "Custom plan for large-scale needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Management of all your brands\u2019 social media accounts (excluding Twitter).",
+        "Access to Twitter/X add-on.",
+        "Custom number of brands.",
+        "Customized publication limit.",
+        "Integration capabilities."
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Brands",
+            "value": "Custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Twitter/X Add-on",
+      "unit": "per connected account",
+      "base_price": 5.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Hashtag tracker",
+      "unit": "per day",
+      "base_price": 25.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "VAT",
+      "fee_amount": null,
+      "fee_description": "Applicable VAT calculated before signing."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:55:59.142292",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "482d64fb-8e28-4d38-8c45-ddab2e4dcafe",
+    "name": "Metricool",
+    "slug": "metricool",
+    "description": "Metricool is an all-in-one social media platform for analyzing, managing, and growing your socials.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/71ec3c16b12a6f4f22d0e7669d53cca0.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Social Media Marketing"
+    ],
+    "category_slugs": [
+      "social-marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 7
+  }
+}

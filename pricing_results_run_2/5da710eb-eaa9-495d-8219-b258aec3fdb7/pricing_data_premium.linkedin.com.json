@@ -1,0 +1,79 @@
+{
+  "app_id": "linkedin",
+  "app_name": "LinkedIn",
+  "app_slug": "linkedin",
+  "pricing_url": "https://www.linkedin.com/premium/switcher/",
+  "source_url": "https://premium.linkedin.com",
+  "all_pricing_urls": [
+    "https://www.linkedin.com/premium/switcher/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "LinkedIn Premium offers a free trial for eligible users, with restrictions on reusing the trial within 12 months.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Premium Career",
+      "tier_description": "Tailored for job seekers to enhance their profile and connect with opportunities.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Profile writing assistant",
+        "See profile viewers",
+        "Exclusive company insights"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Premium Business",
+      "tier_description": "Designed for small businesses to grow their network and gain insights.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited browsing",
+        "InMail messaging",
+        "Custom button feature"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:50:28.968935",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5da710eb-eaa9-495d-8219-b258aec3fdb7",
+    "name": "LinkedIn",
+    "slug": "linkedin",
+    "description": "LinkedIn is the world's largest social network for professionals. Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/82e76b99c17c252653cee811b4e46123_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Microsoft",
+      "Social Media Accounts"
+    ],
+    "category_slugs": [
+      "microsoft",
+      "social"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "app_name": "Apify",
+  "app_slug": "apify",
+  "search_term": "Find the official pricing page URL for Apify (apify.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688331.6698337,
+  "response_text": [
+    "The official pricing page for Apify can be found at: [https://apify.com/pricing](https://apify.com/pricing)."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://apify.com/pricing",
+      "is_accessible": true,
+      "content": "How pricing works\n-----------------\n\n![Image 1: Pricing](https://apify.com/img/pricing/instagram-pricing-mobile.svg)\n\nBe flexible with  \nadd-ons\n--------------------------\n\nAdd-on\n\n$5 / run\n\n### Concurrent runs\n\nAllows multiple instances of an Actor to run simultaneously, enabling faster task processing and efficient resource use.\n\n[Add to plan](https://console.apify.com/billing#/subscription?openSubscriptionWizard=true)\n\nAdd-on\n\n$2 / GB\n\n### Actor RAM\n\nThe amount of memory allocated to an Actor during its execution. It impacts the Actors capacity to handle data and perform tasks efficiently.\n\n[Add to plan](https://console.apify.com/billing#/subscription?openSubscriptionWizard=true)\n\nAdd-on\n\nfrom $0.6 / IP\n\n### Datacenter proxy\n\nFast, cost-effective non-residential IPs from data centers, ideal for scraping less-protected websites and automation tasks.\n\n[Add to plan](https://console.apify.com/billing#/subscription?openSubscriptionWizard=true)\n\nAdd-on\n\n$100\n\n### Priority support\n\nOffers faster response times and dedicated help, ensuring quick issue resolution and enhanced assistance for users' needs.\n\n[Add to plan](https://console.apify.com/billing#/subscription?openSubscriptionWizard=true)\n\nAdd-on\n\n$150 / hour\n\n### Personal training\n\nPersonal training support or guidance to help users effectively utilise the platform, optimise Actors, and achieve specific goals.\n\n[Add to plan](https://console.apify.com/billing#/subscription?openSubscriptionWizard=true)\n\n### 2x leads\n\nto drive business\n\n![Image 2](https://apify.com/img/logo/groupon-colored.svg)\n\n### 17M+ customer\n\nqueries resolved\n\n![Image 3](https://apify.com/img/logo/intercom-black.svg)\n\n### 800+ retailers\n\nmonitored across the EU for compliance\n\n![Image 4](https://apify.com/img/logo/eu-commission-colored.svg)\n\n|  | Free\n[Start for free](https://console.apify.com/) | Starter\n\n[Choose plan](https://console.apify.com/billing#/subscription?planId=STARTER&billingInterval=MONTHLY&openSubscriptionWizard=true) | Scale\n\n[Choose plan](https://console.apify.com/billing#/subscription?planId=SCALE&billingInterval=MONTHLY&openSubscriptionWizard=true) | Business\n\n[Choose plan](https://console.apify.com/billing#/subscription?planId=BUSINESS&billingInterval=MONTHLY&openSubscriptionWizard=true) | Enterprise\n\n[Talk to us](https://apify.com/contact-sales) |\n| --- | --- | --- | --- | --- | --- |\n| Prepaid usage\n\nto spend in Apify Store or on platform usage\n\n | $5\n\n | \n\n$39\n\n\\+ pay as you go\n\n\n\n | \n\n$199\n\n\\+ pay as you go\n\n\n\n | \n\n$999\n\n\\+ pay as you go\n\n\n\n | Unlimited\n\n |\n| Actor runs\n\n |  |\n| \n\nCompute units (CU)\n\n1 GB of RAM / hour\n\n | **$0.4** / CU\n\n | **$0.4** / CU\n\n | **$0.3** / CU\n\n | **$0.25** / CU\n\n | Custom\n\n |\n| \n\nActor RAM\n\n\n\n | **8 GB**\n\n | **32 GB**\n\n | **128 GB**\n\n | **256 GB**\n\n | Custom\n\n |\n| \n\nMax concurrent runs\n\n\n\n | **25**\n\n | **32**\n\n | **128**\n\n | **256**\n\n | Custom\n\n |\n| \n\nRented Actors\n\n\n\n | \n\n**Limited**\n\n\n\n | Deducted from **prepaid usage**\n\n | Deducted from **prepaid usage**\n\n | Deducted from **prepaid usage**\n\n | Custom\n\n |\n| Proxy\n\n |  |\n| \n\nResidential proxies\n\n\n\n | **$8** / GB\n\n | **$8** / GB\n\n | **$7.5** / GB\n\n | **$7** / GB\n\n | Custom\n\n |\n| \n\nDatacenter proxies\n\n\n\n | **5 IPs** included\n\n | \n\n**30 IPs** included\n\nthen **$1** / IP\n\n\n\n | \n\n**200 IPs** included\n\nthen **$0.8** / IP\n\n\n\n | \n\n**500 IPs** included\n\nthen **$0.6** / IP\n\n\n\n | Custom\n\n |\n| \n\nSERPs proxy\n\n\n\n | **$2.5** / 1,000 SERPs\n\n | **$2.5** / 1,000 SERPs\n\n | **$2** / 1,000 SERPs\n\n | **$1.7** / 1,000 SERPs\n\n | Custom\n\n |\n| Other\n\n |  |\n| \n\nPersonal tech training\n\n\n\n | \\-\n\n | **$150** / hour\n\n | \n\n**1 hour** /\n\nquarter\n\n\n\n | \n\n**1 hour** /\n\nmonth\n\n\n\n | Custom\n\n |\n| Support level\n\n | \n\nCommunity support\n\n\n\n | \n\nChat\n\n\n\n | \n\nPriority chat\n\n\n\n | \n\nAccount manager\n\n\n\n | Custom\n\n |\n| \n\nSingle sign-on (SSO)\n\n\n\n | \\-\n\n | \\-\n\n | \\-\n\n | \\-\n\n |  |\n| Storage\n\n |  |\n| Dataset\n\n |  |\n| \n\nTimed storage\n\n1,000 GB-hours\n\n | **$1.00**\n\n | **$1.00**\n\n | **$0.90**\n\n | **$0.80**\n\n | Custom\n\n |\n| 1,000 reads\n\n | **$0.0004**\n\n | **$0.0004**\n\n | **$0.00036**\n\n | **$0.00032**\n\n | Custom\n\n |\n| 1,000 writes\n\n | **$0.005**\n\n | **$0.005**\n\n | **$0.0045**\n\n | **$0.004**\n\n | Custom\n\n |\n| Key-value store\n\n |  |\n| \n\nTimed storage\n\n1,000 GB-hours\n\n | **$1.00**\n\n | **$1.00**\n\n | **$0.90**\n\n | **$0.80**\n\n | Custom\n\n |\n| 1,000 reads\n\n | **$0.005**\n\n | **$0.005**\n\n | **$0.0045**\n\n | **$0.004**\n\n | Custom\n\n |\n| 1,000 writes\n\n | **$0.05**\n\n | **$0.05**\n\n | **$0.045**\n\n | **$0.04**\n\n | Custom\n\n |\n| 1,000 lists\n\n | **$0.05**\n\n | **$0.05**\n\n | **$0.045**\n\n | **$0.04**\n\n | Custom\n\n |\n| Request queue\n\n |  |\n| \n\nTimed storage\n\n1,000 GB-hours\n\n | **$4.00**\n\n | **$4.00**\n\n | **$3.60**\n\n | **$3.20**\n\n | Custom\n\n |\n| 1,000 reads\n\n | **$0.004**\n\n | **$0.004**\n\n | **$0.0036**\n\n | **$0.0032**\n\n | Custom\n\n |\n| 1,000 writes\n\n | **$0.02**\n\n | **$0.02**\n\n | **$0.018**\n\n | **$0.016**\n\n | Custom\n\n |\n| Data transfer\n\n |  |\n| \n\nExternal / GB\n\n\n\n | **$0.20**\n\n | **$0.20**\n\n | **$0.19**\n\n | **$0.18**\n\n | Custom\n\n |\n| \n\nInternal / GB\n\n\n\n | **$0.05**\n\n | **$0.05**\n\n | **$0.045**\n\n | **$0.04**\n\n | Custom\n\n |\n\nThe Apify platform has a number of services that are charged based on usages, such as Actors, proxies, data transfer, and storage. See [pricing](https://apify.com/pricing) for the full list of platform services.\n\nEach subscription plan comes with a certain amount of prepaid platform usage that is used to pay for services. If your platform usage in a given billing cycle exceeds this prepaid amount, the excess usage will be added to your next invoice, and you'll get a notification. If you're on the free plan, your access to Apify's services will be blocked until the beginning of the next monthly cycle.\n\n**Note that unused usage credits are not rolled over to the next billing cycle, and they expire at the end of the billing cycle.**\n\nAbsolutely! We offer a [free plan](https://apify.com/pricing) that lets you use most of the features of the Apify platform, but with certain limits. No credit card is required. The free plan includes Apify Proxy, which is limited to use within the platform and does not extend to external clients.\n\nIf you'd like a free demo of Apify's custom solutions, please [contact us](https://apify.com/contact-sales/demo).\n\nIf you're unsure which plan is right for you, just pick the lowest-priced plan that has all the features you need. If you exceed the prepaid platform usage, you'll get a notification, and the excess usage will be added to the next invoice (see below for details).\n\nYou can upgrade to a higher plan at any time in your [Billing](https://console.apify.com/billing) settings, and you'll only pay for the price difference.\n\nThe Actors in Apify Store are either free or have to be rented for a monthly fee specific to each Actor. Running Actors will consume the platform usage credits included in your plan. Excess usage will be charged to your next invoice.\n\nThe exact platform usage depends on the specific Actor, the type of job it performs, how often it runs, and for how long. The easiest way to find out the platform usage of an Actor is to perform a test run. You can then review your platform usage in your [Billing](https://console.apify.com/billing) settings and figure out the best subscription plan for your needs.\n\nIf you need advice, please [contact us](https://apify.com/contact-sales).\n\nYou can upgrade, downgrade, or cancel your plan at any time in your [Billing](https://console.apify.com/billing) settings.\n\nWhen you upgrade, your payment will be prorated, so you will only pay for the difference between the old and the new price, taking into account how much of the billing cycle has already passed.\n\nWhen you downgrade, there's no proration except for the unused platform usage that's rolled over to the new plan.\n\nIf you decide to cancel, your subscription will last until the end of the current billing cycle. It won't be renewed after that. Note that you might still be charged for excess platform usage.\n\nThe cost of an Actor run depends on the compute unit consumption, storage, proxies used, and data transfer. You can check your daily [usage chart](https://console.apify.com/billing) on the Apify platform.\n\nIf you're a paying user, you can continue using the platform and will be charged for overage until you reach the usage limit configured in the billing. If you're on the free plan, you'll be blocked until the next billing cycle.\n\nIf you don't consume all your prepaid usage, it disappears at the end of the billing cycle. Go to our [pricing](https://apify.com/pricing) page to learn more about the prepaid usage of all Apify's subscription plans.\n\nThe cost of Actor runs depends on the resources used - proxies, data transfers, or runs with a higher memory/CPU. It also depends on the number of retries when a request fails.\n\nIf you're on one of Apify's paid plans, you can continue using the platform after reaching the limit by paying the rest as overage. That means you don't have to change your pricing plan to exceed the usage limit of your current plan.\n\nApify offers discounts on its paid plans to both academic institutions and nonprofit organizations. Students are eligible for 30% off Starter and Scale plans, while nonprofits can get a personalized discount. Learn more at [Apify for universities](https://apify.com/resources/universities) and [Apify for nonprofits](https://apify.com/resources/nonprofits).\n\nApify believes in encouraging startups to grow by using online data at scale. So we're giving a special 30% discount on our Scale plan to startups. Learn more at [Apify for startups](https://apify.com/resources/startups).\n\n[Apify Academy](https://docs.apify.com/academy) is a free course that shows you how to start developing Actors on the Apify platform. You can also find more information in the [Apify documentation](https://docs.apify.com/).\n\nCouldn't find something? Message us.\n\nStart free (no credit card) and scale with 4,000+ pre-built web scraping and automation tools. Scrapers for Google Maps, Instagram, Facebook, TikTok + more.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "apify",
+        "app_name": "Apify",
+        "app_slug": "apify",
+        "pricing_url": "https://apify.com/pricing",
+        "source_url": "https://apify.com/pricing",
+        "all_pricing_urls": [
+          "https://apify.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Unused usage credits expire at the end of the billing cycle. Discounts available for academic institutions, nonprofits, and startups.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Basic access with limited features.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Community support",
+              "Limited Actor runs",
+              "Limited proxies"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "limited",
+              "operations": "limited",
+              "api_calls": "limited",
+              "integrations": "limited",
+              "custom_limits": [
+                {
+                  "name": "Actor RAM",
+                  "value": "8 GB"
+                },
+                {
+                  "name": "Max concurrent runs",
+                  "value": 25
+                },
+                {
+                  "name": "Datacenter proxies",
+                  "value": "5 IPs included"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Starter",
+            "tier_description": "For small-scale usage.",
+            "monthly_price": 39.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Chat support",
+              "Deducted prepaid usage"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "limited",
+              "operations": "limited",
+              "api_calls": "limited",
+              "integrations": "limited",
+              "custom_limits": [
+                {
+                  "name": "Actor RAM",
+                  "value": "32 GB"
+                },
+                {
+                  "name": "Max concurrent runs",
+                  "value": 32
+                },
+                {
+                  "name": "Datacenter proxies",
+                  "value": "30 IPs included"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Scale",
+            "tier_description": "For medium-scale usage.",
+            "monthly_price": 199.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Priority chat support",
+              "Deducted prepaid usage"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "limited",
+              "operations": "limited",
+              "api_calls": "limited",
+              "integrations": "limited",
+              "custom_limits": [
+                {
+                  "name": "Actor RAM",
+                  "value": "128 GB"
+                },
+                {
+                  "name": "Max concurrent runs",
+                  "value": 128
+                },
+                {
+                  "name": "Datacenter proxies",
+                  "value": "200 IPs included"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "For large-scale usage.",
+            "monthly_price": 999.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Account manager support",
+              "Deducted prepaid usage"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "limited",
+              "operations": "limited",
+              "api_calls": "limited",
+              "integrations": "limited",
+              "custom_limits": [
+                {
+                  "name": "Actor RAM",
+                  "value": "256 GB"
+                },
+                {
+                  "name": "Max concurrent runs",
+                  "value": 256
+                },
+                {
+                  "name": "Datacenter proxies",
+                  "value": "500 IPs included"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Custom solutions for enterprises.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Custom support",
+              "Custom usage limits"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "custom",
+              "operations": "custom",
+              "api_calls": "custom",
+              "integrations": "custom",
+              "custom_limits": [
+                {
+                  "name": "Actor RAM",
+                  "value": "custom"
+                },
+                {
+                  "name": "Max concurrent runs",
+                  "value": "custom"
+                },
+                {
+                  "name": "Datacenter proxies",
+                  "value": "custom"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Compute units (CU)",
+            "unit": "per CU",
+            "base_price": 0.4,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.4
+              }
+            ]
+          },
+          {
+            "metric_name": "Actor RAM",
+            "unit": "per GB",
+            "base_price": 2.0,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 2.0
+              }
+            ]
+          },
+          {
+            "metric_name": "Datacenter proxy",
+            "unit": "per IP",
+            "base_price": 0.6,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.6
+              }
+            ]
+          },
+          {
+            "metric_name": "Residential proxies",
+            "unit": "per GB",
+            "base_price": 8.0,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 8.0
+              }
+            ]
+          },
+          {
+            "metric_name": "SERPs proxy",
+            "unit": "per 1,000 SERPs",
+            "base_price": 2.5,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 2.5
+              }
+            ]
+          },
+          {
+            "metric_name": "Timed storage",
+            "unit": "per 1,000 GB-hours",
+            "base_price": 1.0,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 1.0
+              }
+            ]
+          },
+          {
+            "metric_name": "Data transfer",
+            "unit": "per GB",
+            "base_price": 0.2,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.2
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Academic Discount",
+            "offer_description": "30% off Starter and Scale plans for students.",
+            "discount_percentage": 30.0,
+            "offer_url": "https://apify.com/resources/universities",
+            "valid_until": null
+          },
+          {
+            "offer_name": "Nonprofit Discount",
+            "offer_description": "Personalized discounts for nonprofits.",
+            "discount_percentage": null,
+            "offer_url": "https://apify.com/resources/nonprofits",
+            "valid_until": null
+          },
+          {
+            "offer_name": "Startup Discount",
+            "offer_description": "30% discount on Scale plan for startups.",
+            "discount_percentage": 30.0,
+            "offer_url": "https://apify.com/resources/startups",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": [
+          {
+            "fee_name": "Concurrent runs",
+            "fee_amount": 5.0,
+            "fee_description": "Allows multiple instances of an Actor to run simultaneously."
+          },
+          {
+            "fee_name": "Actor RAM",
+            "fee_amount": 2.0,
+            "fee_description": "Memory allocated to an Actor during execution."
+          },
+          {
+            "fee_name": "Datacenter proxy",
+            "fee_amount": 0.6,
+            "fee_description": "Non-residential IPs from data centers."
+          },
+          {
+            "fee_name": "Priority support",
+            "fee_amount": 100.0,
+            "fee_description": "Faster response times and dedicated help."
+          },
+          {
+            "fee_name": "Personal training",
+            "fee_amount": 150.0,
+            "fee_description": "Guidance to optimize platform usage."
+          }
+        ],
+        "extraction_timestamp": "2025-04-14T23:39:16.767429",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\apify\\20250414_233917"
+}

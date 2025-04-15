@@ -1,0 +1,160 @@
+{
+  "app_id": "kommo",
+  "app_name": "Kommo",
+  "app_slug": "kommo",
+  "pricing_url": "https://www.kommo.com/buy/tariff/",
+  "source_url": "https://www.kommo.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.kommo.com/buy/tariff/",
+    "https://www.kommo.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on a per-user subscription model with a minimum subscription period of 6 months.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Base",
+      "tier_description": "For small businesses that want to boost sales quickly",
+      "monthly_price": 15.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unified inbox",
+        "Multiple sales pipelines",
+        "Customizable dashboard",
+        "Kommo AI",
+        "AI agent",
+        "Broadcasting",
+        "Automations",
+        "Salesbot",
+        "Activity limits",
+        "Super fields pack"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active leads per seat",
+            "value": 2500
+          },
+          {
+            "name": "Contacts & Companies per seat",
+            "value": 12500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "For growing companies that want to automate their work",
+      "monthly_price": 25.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unified inbox",
+        "Multiple sales pipelines",
+        "Customizable dashboard",
+        "Kommo AI",
+        "AI agent",
+        "Broadcasting",
+        "Automations",
+        "Salesbot",
+        "Activity limits",
+        "Super fields pack"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active leads per seat",
+            "value": 5000
+          },
+          {
+            "name": "Contacts & Companies per seat",
+            "value": 25000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For larger businesses that keep up with a lot of leads",
+      "monthly_price": 45.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unified inbox",
+        "Multiple sales pipelines",
+        "Customizable dashboard",
+        "Kommo AI",
+        "AI agent",
+        "Broadcasting",
+        "Automations",
+        "Salesbot",
+        "Activity limits",
+        "Super fields pack"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active leads per seat",
+            "value": 10000
+          },
+          {
+            "name": "Contacts & Companies per seat",
+            "value": 50000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:14:19.637355",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4e41c937-ed47-4778-be33-6592a3150e7a",
+    "name": "Kommo",
+    "slug": "kommo",
+    "description": "Kommo is a messaging-powered CRM that helps you engage with your customers on a whole new level. It's a versatile, cloud-based sales automation tool that enables you to manage leads and monitor your sales pipeline in only a few clicks.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/9a8072bcfad2a9e4f21bba493f13e7d7.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 23,
+    "trigger_count": 10
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "app_id": "digimember",
+  "app_name": "DigiMember",
+  "app_slug": "digimember",
+  "pricing_url": "https://www.digimember.com/order/",
+  "source_url": "https://www.digimember.com/order/#price",
+  "all_pricing_urls": [
+    "https://www.digimember.com/order/"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page returned a 404 error, indicating that detailed pricing information is not currently accessible.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:40:15.646513",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "2769adea-0963-49c3-8f8d-f244775121c3",
+    "name": "DigiMember",
+    "slug": "digimember",
+    "description": "DigiMember is a powerful membership plugin for WordPress, that enables you to build your very own automated member area within minutes.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/d47856e6cda10c0c68e4416460cf9ed5_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

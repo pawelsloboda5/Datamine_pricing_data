@@ -1,0 +1,201 @@
+{
+  "app_id": "woztell",
+  "app_name": "WOZTELL",
+  "app_slug": "woztell",
+  "pricing_url": "https://woztell.com/pricing/",
+  "source_url": "https://woztell.com/pricing/",
+  "all_pricing_urls": [
+    "https://woztell.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes fixed subscription costs and variable costs based on WhatsApp consumption or MAUs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic free tier with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unable to start WhatsApp broadcasts",
+        "100 MAU",
+        "1 Channel type"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "MAU",
+            "value": 100
+          },
+          {
+            "name": "Channel type",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Starter plan with additional features.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 50.0,
+      "features": [
+        "400 MAU",
+        "1 Channel type",
+        "Custom Set-Up"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "MAU",
+            "value": 400
+          },
+          {
+            "name": "Channel type",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Growth plan for expanding businesses.",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 100.0,
+      "features": [
+        "1,000 MAU",
+        "Unlimited channels",
+        "Custom Set-Up",
+        "Custom onboarding"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "MAU",
+            "value": 1000
+          },
+          {
+            "name": "Channels",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Agency",
+      "tier_description": "Agency plan for large-scale operations.",
+      "monthly_price": 399.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 400.0,
+      "features": [
+        "Unlimited MAU",
+        "Unlimited channels",
+        "Custom Set-Up",
+        "Custom onboarding",
+        "KAM Assignment"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "MAU",
+            "value": "unlimited"
+          },
+          {
+            "name": "Channels",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Extra MAU",
+      "unit": "per MAU",
+      "base_price": 0.08,
+      "tiers": null
+    },
+    {
+      "metric_name": "WhatsApp mark up",
+      "unit": "percentage",
+      "base_price": 20.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Prepayment",
+      "fee_amount": 50.0,
+      "fee_description": "Starter plan prepayment fee"
+    },
+    {
+      "fee_name": "Prepayment",
+      "fee_amount": 100.0,
+      "fee_description": "Growth plan prepayment fee"
+    },
+    {
+      "fee_name": "Prepayment",
+      "fee_amount": 400.0,
+      "fee_description": "Agency plan prepayment fee"
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:21:57.421465",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f7b23125-9567-4f44-b73a-5063f52cddd2",
+    "name": "WOZTELL",
+    "slug": "woztell",
+    "description": "WOZTELL is a conversational platform to manage and automate customers\u2019 communications on WhatsApp Cloud API, Facebook, Instagram and Webchat",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/734f544d4748d6a08d14fb2c5e474c81.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Communication"
+    ],
+    "category_slugs": [
+      "communication"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 3
+  }
+}

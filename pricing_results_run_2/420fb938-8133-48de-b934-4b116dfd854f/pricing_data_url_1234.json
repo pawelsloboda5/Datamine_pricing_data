@@ -1,0 +1,117 @@
+{
+  "app_id": "contacts_plus",
+  "app_name": "Contacts+",
+  "app_slug": "contacts-plus",
+  "pricing_url": "https://www.contactsplus.com/pricing/",
+  "source_url": "https://www.contactsplus.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.contactsplus.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a discount equivalent to 17% off monthly pricing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic contact syncing across devices.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Sync 1 Account (Apple, Google, Microsoft)",
+        "1,000 Contacts",
+        "Daily Sync"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 1,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Enhanced contact syncing and enrichment.",
+      "monthly_price": 9.99,
+      "annual_price": 99.99,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Sync 5 Accounts (Apple, Google, Microsoft)",
+        "25,000 Contacts",
+        "Quick Sync",
+        "Contact Enrichment",
+        "Email Signature Extraction"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 5,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Teams",
+      "tier_description": "Shared address book for organizations.",
+      "monthly_price": 12.99,
+      "annual_price": 155.88,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Sync 10 Accounts (Apple, Google, Microsoft)",
+        "25,000 Contacts",
+        "Quick Sync",
+        "Contact Enrichment",
+        "Email Signature Extraction",
+        "Shared Address Book"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 10,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:09:46.203837",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "420fb938-8133-48de-b934-4b116dfd854f",
+    "name": "Contacts+",
+    "slug": "contacts-plus",
+    "description": "Contacts+, formerly known as FullContact, is a modern contact management app to keep your contacts up-to-date across all leading platforms.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/52c96b5e108f90d650d2e95023b8f83f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Contact Management"
+    ],
+    "category_slugs": [
+      "contacts"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 6
+  }
+}

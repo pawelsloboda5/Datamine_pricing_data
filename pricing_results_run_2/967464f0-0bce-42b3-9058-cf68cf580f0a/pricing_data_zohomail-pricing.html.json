@@ -1,0 +1,49 @@
+{
+  "app_id": "zoho_mail",
+  "app_name": "Zoho Mail",
+  "app_slug": "zoho-mail",
+  "pricing_url": "https://www.zoho.com/mail/zohomail-pricing.html",
+  "source_url": "https://www.zoho.com/en-in/mail/zohomail-pricing.html",
+  "all_pricing_urls": [
+    "https://www.zoho.com/mail/zohomail-pricing.html"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The content provided does not include specific pricing details for Zoho Mail.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:17:13.514257",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "967464f0-0bce-42b3-9058-cf68cf580f0a",
+    "name": "Zoho Mail",
+    "slug": "zoho-mail",
+    "description": "Zoho Mail is a collaborative business communication platform for the modern workforce. It is a blend of classic email and the modern collaboration tools using comments, likes and sharing.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/f3c8b68e73fb95435ac1031e34da7178.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email",
+      "Zoho"
+    ],
+    "category_slugs": [
+      "email",
+      "zoho"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 2
+  }
+}

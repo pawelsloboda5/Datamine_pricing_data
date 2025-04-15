@@ -1,0 +1,12 @@
+{
+  "app_name": "Finmo",
+  "app_slug": "finmo",
+  "search_term": "Find the official pricing page URL for Finmo (finmo.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744693534.3487093,
+  "response_text": [
+    "I couldn't locate Finmo's pricing page. Please check their website manually for details."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\finmo\\20250415_010534"
+}

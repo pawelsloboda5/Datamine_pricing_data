@@ -1,0 +1,258 @@
+{
+  "app_id": "chatbase",
+  "app_name": "Chatbase",
+  "app_slug": "chatbase",
+  "pricing_url": "https://www.chatbase.com/pricing",
+  "source_url": "https://www.chatbase.com/pricing",
+  "all_pricing_urls": [
+    "https://www.chatbase.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Chatbase offers subscription-based plans with additional usage-based pricing for credits and agents.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic access to Chatbase features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to fast models",
+        "100 message credits/month",
+        "400 KB per AI agent",
+        "1 team member",
+        "1 AI agent",
+        "Limit of 10 links to train on",
+        "Embed on unlimited websites"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "400 KB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "AI agents",
+            "value": 1
+          },
+          {
+            "name": "Message credits",
+            "value": 100
+          },
+          {
+            "name": "Links to train on",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Hobby",
+      "tier_description": "Enhanced features for hobbyists.",
+      "monthly_price": 40.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to advanced models",
+        "2,000 message credits/month",
+        "1 AI agent",
+        "5 AI Actions per AI agent",
+        "33 MB per AI agent",
+        "Unlimited links to train on",
+        "API access",
+        "Integrations",
+        "Basic analytics"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "33 MB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "Unlimited",
+        "custom_limits": [
+          {
+            "name": "AI agents",
+            "value": 1
+          },
+          {
+            "name": "Message credits",
+            "value": 2000
+          },
+          {
+            "name": "AI Actions per AI agent",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Popular plan for businesses.",
+      "monthly_price": 150.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "12,000 message credits/month",
+        "10 AI Actions per AI agent",
+        "3 team members",
+        "2 AI agents"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "33 MB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "Unlimited",
+        "custom_limits": [
+          {
+            "name": "AI agents",
+            "value": 2
+          },
+          {
+            "name": "Message credits",
+            "value": 12000
+          },
+          {
+            "name": "AI Actions per AI agent",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced plan for enterprises.",
+      "monthly_price": 500.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "40,000 message credits/month",
+        "Advanced analytics",
+        "5+ team members",
+        "Unlimited links to train on"
+      ],
+      "limits": {
+        "users": "5+",
+        "storage": "33 MB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "Unlimited",
+        "custom_limits": [
+          {
+            "name": "AI agents",
+            "value": "Unlimited"
+          },
+          {
+            "name": "Message credits",
+            "value": 40000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Message credits",
+      "unit": "per 1000 credits",
+      "base_price": 12.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 12.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Extra agents",
+      "unit": "per AI agent",
+      "base_price": 7.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 7.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Custom domains",
+      "unit": "per domain",
+      "base_price": 59.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 59.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Remove 'Powered By Chatbase'",
+      "unit": "per branding removal",
+      "base_price": 39.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 39.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": true,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Auto recharge credits",
+      "fee_amount": 14.0,
+      "fee_description": "Automatically add credits when below threshold."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:28:47.951847",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fe3d5611-1013-40cd-a26c-7ae17c445441",
+    "name": "Chatbase",
+    "slug": "chatbase",
+    "description": "With Chatbase, you can create a custom GPT chatbot that knows your data. Upload a pdf or a link and get a chatbot that has the info on it.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/4c96a682e100a38b213782a4b85d759f_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools"
+    ],
+    "category_slugs": [
+      "ai-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

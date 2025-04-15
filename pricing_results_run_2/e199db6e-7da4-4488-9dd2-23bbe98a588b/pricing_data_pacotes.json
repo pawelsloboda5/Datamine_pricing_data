@@ -1,0 +1,175 @@
+{
+  "app_id": "botconversa",
+  "app_name": "BotConversa",
+  "app_slug": "botconversa",
+  "pricing_url": null,
+  "source_url": "https://lp.botconversa.com/pacotes",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.ONE_TIME"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "BRL",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is structured around packages with fixed licenses and durations, offering discounts for upfront payments.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Silver Starter",
+      "tier_description": "5 starter licenses for 6 months.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 starter licenses frozen",
+        "6 months access per license"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Gold Starter",
+      "tier_description": "10 starter licenses for 6 months.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10 starter licenses",
+        "6 months access per license"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Diamond Starter",
+      "tier_description": "10 starter licenses for 12 months.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10 starter licenses",
+        "12 months access per license"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Silver PRO",
+      "tier_description": "5 PRO licenses for 6 months.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 PRO licenses frozen",
+        "6 months access per license"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Gold PRO",
+      "tier_description": "10 PRO licenses for 6 months.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10 PRO licenses",
+        "6 months access per license"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Diamond PRO",
+      "tier_description": "10 PRO licenses for 12 months.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10 PRO licenses",
+        "12 months access per license"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Launch Discount",
+      "offer_description": "Discounted pricing for launch period.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": "2023-02-28"
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:36:38.731441",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e199db6e-7da4-4488-9dd2-23bbe98a588b",
+    "name": "BotConversa",
+    "slug": "botconversa",
+    "description": "BotConversa is a Chatbot builder for WhatsApp. We\u2019ve made it simples for small to big Size businesses to automate their WhatsApp conversations and create a true lead generation machine.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/578614a5a1ee3fe99eb40d3de3b2739e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 3
+  }
+}

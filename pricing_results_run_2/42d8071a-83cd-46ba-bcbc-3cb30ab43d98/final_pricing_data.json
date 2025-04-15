@@ -1,0 +1,120 @@
+{
+  "app_id": "bombbomb",
+  "app_name": "BombBomb",
+  "app_slug": "bombbomb",
+  "pricing_url": "https://bombbomb.com/pricing",
+  "source_url": "https://bombbomb.com/pricing/",
+  "all_pricing_urls": [
+    "https://bombbomb.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing for the Enterprise tier is customized based on the organization's needs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essentials",
+      "tier_description": "For individuals. All you need to create impactful video messages.",
+      "monthly_price": 33.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited camera and screen recording",
+        "Unlimited videos, video length and storage",
+        "Custom branding",
+        "Video editing",
+        "Privacy - your data is never sold"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "For individuals ready to maximize their marketing. Video messaging plus all-in-one marketing suite.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Essentials",
+        "Unlimited mass email sending",
+        "Unlimited drip campaigns",
+        "Customizable email templates",
+        "Email template library",
+        "3,500 contacts included"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For business & enterprise teams. Scale video messaging company-wide.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "User management & role-based access",
+        "Advanced analytics & reporting",
+        "Advanced security features",
+        "SSO and SCIM/OKTA",
+        "Premium integrations",
+        "Open API dev library"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:24:59.330699",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "42d8071a-83cd-46ba-bcbc-3cb30ab43d98",
+    "name": "BombBomb.com",
+    "slug": "bombbombcom",
+    "description": "Integrate with the BombBomb email marketing service.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/41ba0f25ce5fa46c68732167b83e3c06.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Drip Emails"
+    ],
+    "category_slugs": [
+      "drip-emails"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 7
+  }
+}

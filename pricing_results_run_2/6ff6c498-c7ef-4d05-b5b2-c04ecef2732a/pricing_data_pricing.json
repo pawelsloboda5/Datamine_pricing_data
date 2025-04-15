@@ -1,0 +1,176 @@
+{
+  "app_id": "storage_by_zapier",
+  "app_name": "Storage by Zapier",
+  "app_slug": "storage-by-zapier",
+  "pricing_url": "https://zapier.com/pricing",
+  "source_url": "https://zapier.com/pricing",
+  "all_pricing_urls": [
+    "https://zapier.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes free tier and usage-based options for task limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Automate basic workflows with 100 tasks per month.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Zapier automation platform",
+        "Unlimited Zaps",
+        "Two-step Zaps",
+        "AI power-ups"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 100,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Automate advanced workflows with the full power of Zapier.",
+      "monthly_price": 19.99,
+      "annual_price": 239.88,
+      "annual_discount_percentage": 33.0,
+      "setup_fee": null,
+      "features": [
+        "Multi-step Zaps",
+        "Unlimited Premium apps",
+        "Webhooks",
+        "Email support",
+        "Email and live chat support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "variable",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Build and manage automated workflows with your team.",
+      "monthly_price": 69.0,
+      "annual_price": 828.0,
+      "annual_discount_percentage": 33.0,
+      "setup_fee": null,
+      "features": [
+        "25 users",
+        "Shared workspaces",
+        "Shared app connections",
+        "SAML SSO",
+        "Premier Support"
+      ],
+      "limits": {
+        "users": 25,
+        "storage": "unlimited",
+        "operations": "variable",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Scale automation across multiple departments.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited users",
+        "Advanced admin permissions and app controls",
+        "Annual task limits",
+        "Observability",
+        "Technical Account Manager"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "variable",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "tasks",
+      "unit": "per task",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 2000.0,
+          "price": null
+        },
+        {
+          "min": 2001.0,
+          "max": 10000.0,
+          "price": null
+        },
+        {
+          "min": 10001.0,
+          "max": 100000.0,
+          "price": null
+        },
+        {
+          "min": 100001.0,
+          "max": 1000000.0,
+          "price": null
+        },
+        {
+          "min": 1000001.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:11:32.791949",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6ff6c498-c7ef-4d05-b5b2-c04ecef2732a",
+    "name": "Storage by Zapier",
+    "slug": "storage",
+    "description": "Quickly store and retrieve small values of data. Allows you to reference data between Zap runs or share data between different Zaps.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/8c382d2208d0a3afed35ac5292946493.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Developer Tools",
+      "Zapier"
+    ],
+    "category_slugs": [
+      "developer-tools",
+      "zapier-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 17,
+    "trigger_count": 0
+  }
+}

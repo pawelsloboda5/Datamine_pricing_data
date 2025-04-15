@@ -1,0 +1,245 @@
+{
+  "app_id": "moonclerk",
+  "app_name": "MoonClerk",
+  "app_slug": "moonclerk",
+  "pricing_url": "https://www.moonclerk.com/pricing",
+  "source_url": "https://www.moonclerk.com/pricing",
+  "all_pricing_urls": [
+    "https://www.moonclerk.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing adjusts automatically based on transaction volume. Stripe processing fees are additional.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Tier 1",
+      "tier_description": "For monthly volume $0 - $2,000",
+      "monthly_price": 18.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic payment processing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Tier 2",
+      "tier_description": "For monthly volume $2,000 - $4,000",
+      "monthly_price": 35.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic payment processing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Tier 3",
+      "tier_description": "For monthly volume $4,000 - $7,500",
+      "monthly_price": 60.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic payment processing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Tier 4",
+      "tier_description": "For monthly volume $7,500 - $12,500",
+      "monthly_price": 90.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic payment processing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Tier 5",
+      "tier_description": "For monthly volume $12,500 - $20,000",
+      "monthly_price": 130.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic payment processing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Tier 6",
+      "tier_description": "For monthly volume $20,000 - $30,000",
+      "monthly_price": 175.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic payment processing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Tier 7",
+      "tier_description": "For monthly volume $30,000 - $45,000",
+      "monthly_price": 230.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic payment processing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Tier 8",
+      "tier_description": "For monthly volume $45,000 - $65,000",
+      "monthly_price": 310.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic payment processing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Tier 9",
+      "tier_description": "For monthly volume $65,000 - $100,000",
+      "monthly_price": 415.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic payment processing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Tier 10",
+      "tier_description": "For monthly volume $100,000 - $150,000",
+      "monthly_price": 550.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic payment processing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Stripe Processing Fees",
+      "fee_amount": null,
+      "fee_description": "Stripe charges per-transaction fees separately."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:24:57.573060",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b19a02c8-e091-456e-880f-d548524a8ec3",
+    "name": "MoonClerk",
+    "slug": "moonclerk",
+    "description": "MoonClerk lets anyone accept recurring payments and one-time payments quickly and easily without any coding.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/d8a797e7061958c8023ba09c0c8328c1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 4
+  }
+}

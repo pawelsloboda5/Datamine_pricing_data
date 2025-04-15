@@ -1,0 +1,53 @@
+{
+  "app_name": "folk",
+  "app_slug": "folk",
+  "search_term": "Find the official pricing page URL for folk (folk.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744686408.1211507,
+  "response_text": [
+    "The official pricing page for Folk can be found at: [https://help.folk.app/pricing-plans/](https://help.folk.app/pricing-plans/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing plans | Folk Help & Support",
+      "url": "https://help.folk.app/en/articles/6600210-pricing-plans"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://help.folk.app/pricing-plans/",
+      "is_accessible": true,
+      "content": "Copyright (c) 2023, Intercom, Inc. (legal@intercom.io) with Reserved Font Name \"Inter\". This Font Software is licensed under the SIL Open Font License, Version 1.1.[Skip to main content](https://help.folk.app/pricing-plans/#main-content)\n\n[![Image 1: Folk Help & Support](https://downloads.intercomcdn.com/i/o/564040/b3a10e4ccfb1fdbfd8764dcd/2c595872c95d44dc52076221cb176d76.png)](https://help.folk.app/)\n\nEnglish\n\nEnglish\n\nWelcome to folk help center!\n----------------------------\n\nUh oh. That page doesn\u2019t exist.\n\nTry searching for your answer or just send us a message.\n\nFolk Help & Support",
+      "error": null,
+      "pricing_data": {
+        "app_id": "folk",
+        "app_name": "Folk",
+        "app_slug": "folk",
+        "pricing_url": null,
+        "source_url": "https://help.folk.app/pricing-plans/",
+        "all_pricing_urls": [
+          "https://help.folk.app/pricing-plans/"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page was not accessible, and no pricing information could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:06:58.956228",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\folk\\20250414_230659"
+}

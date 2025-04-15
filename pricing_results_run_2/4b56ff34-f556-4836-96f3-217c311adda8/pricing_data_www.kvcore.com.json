@@ -1,0 +1,43 @@
+{
+  "app_id": "kvcore",
+  "app_name": "kvCORE",
+  "app_slug": "kvcore",
+  "pricing_url": null,
+  "source_url": "https://www.kvcore.com",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "No pricing information was available on the provided content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:32:23.903404",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4b56ff34-f556-4836-96f3-217c311adda8",
+    "name": "kvCORE",
+    "slug": "kvcore",
+    "description": "KvCORE is the next gen solution for modern brokerages, agents, and teams to run their entire business on one platform.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/5cbac3be3bab521f58d67ee50ab394c2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 1
+  }
+}

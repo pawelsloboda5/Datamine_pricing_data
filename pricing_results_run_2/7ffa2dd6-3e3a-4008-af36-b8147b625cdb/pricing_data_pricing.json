@@ -1,0 +1,216 @@
+{
+  "app_id": "solapi",
+  "app_name": "SOLAPI",
+  "app_slug": "solapi",
+  "pricing_url": "https://solapi.com/tiered-pricing/",
+  "source_url": "https://solapi.com/pricing",
+  "all_pricing_urls": [
+    "https://solapi.com/tiered-pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "KRW",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes usage-based costs for message sending and subscription plans for API usage.",
+  "pricing_tiers": [
+    {
+      "tier_name": "\ubca0\uc774\uc9c1",
+      "tier_description": "Basic plan for API usage.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "\ubc1c\uc1a1 API \ud638\ucd9c 5\ucd08\ub2f9 100\ud68c",
+        "\ubaa8\ub4e0 \uc870\ud68c API \ud638\ucd9c 5\ucd08\ub2f9 20\ud68c"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": 100,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Webhooks",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "\ub77c\uc774\ud2b8",
+      "tier_description": "Light plan for increased API usage.",
+      "monthly_price": 30000.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "\ubc1c\uc1a1 API \ud638\ucd9c 5\ucd08\ub2f9 200\ud68c",
+        "\ubaa8\ub4e0 \uc870\ud68c API \ud638\ucd9c 5\ucd08\ub2f9 20\ud68c"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": 200,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Webhooks",
+            "value": 7
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "\ud504\ub9ac\ubbf8\uc5c4",
+      "tier_description": "Premium plan for high API usage.",
+      "monthly_price": 110000.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "\ubc1c\uc1a1 API \ud638\ucd9c 5\ucd08\ub2f9 700\ud68c",
+        "\ubaa8\ub4e0 \uc870\ud68c API \ud638\ucd9c 5\ucd08\ub2f9 20\ud68c"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": 700,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Webhooks",
+            "value": 15
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "\uc5d4\ud130\ud504\ub77c\uc774\uc988",
+      "tier_description": "Enterprise plan for large-scale API usage.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "\ub300\ub7c9 \ud638\ucd9c\uc774 \ud544\uc694\ud55c \uacbd\uc6b0"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": "\ubcc4\ub3c4 \ubb38\uc758",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Webhooks",
+            "value": "\ub300\ub7c9"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "\uce74\uce74\uc624\ud1a1 \uc54c\ub9bc\ud1a1",
+      "unit": "per message",
+      "base_price": 13.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 9999.0,
+          "price": 13.0
+        },
+        {
+          "min": 10000.0,
+          "max": 99999.0,
+          "price": 10.0
+        },
+        {
+          "min": 100000.0,
+          "max": 499999.0,
+          "price": 8.0
+        },
+        {
+          "min": 500000.0,
+          "max": 999999.0,
+          "price": 7.0
+        },
+        {
+          "min": 1000000.0,
+          "max": 1999999.0,
+          "price": 6.5
+        },
+        {
+          "min": 2000000.0,
+          "max": "unlimited",
+          "price": 6.0
+        }
+      ]
+    },
+    {
+      "metric_name": "SMS",
+      "unit": "per message",
+      "base_price": 18.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "LMS",
+      "unit": "per message",
+      "base_price": 45.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "MMS",
+      "unit": "per message",
+      "base_price": 110.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "\ub9c8\uc774\uc0ac\uc774\ud2b8 \ub4f1\ub85d",
+      "fee_amount": 90000.0,
+      "fee_description": "Monthly fee for site registration."
+    },
+    {
+      "fee_name": "\uc571 \ubc30\ud3ec",
+      "fee_amount": 90000.0,
+      "fee_description": "Monthly fee for app deployment."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:28:01.019951",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7ffa2dd6-3e3a-4008-af36-b8147b625cdb",
+    "name": "SOLAPI",
+    "slug": "solapi",
+    "description": "SOLAPI app for sending text messages with KakaoTalk.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/67c373fc53a1f2e54b1d2827c18a48c5_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 2
+  }
+}

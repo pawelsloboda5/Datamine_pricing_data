@@ -1,0 +1,50 @@
+{
+  "app_id": "seatable",
+  "app_name": "SeaTable",
+  "app_slug": "seatable",
+  "pricing_url": "https://seatable.io/preise/",
+  "source_url": "https://seatable.io/pricing/",
+  "all_pricing_urls": [
+    "https://seatable.io/preise/",
+    "https://seatable.io/en/pricing/",
+    "https://seatable.io/fr/pricing/",
+    "https://seatable.io/es/pricing/",
+    "https://seatable.io/pt/pricing/",
+    "https://seatable.io/ru/pricing/"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not accessible, and no specific pricing details were extracted.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:26:16.478803",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fa3c2a44-0176-4974-8d2d-fc1a22778925",
+    "name": "SeaTable",
+    "slug": "seatable",
+    "description": "SeaTable is a web based table-database hybrid. SeaTable is a flexible tool for your team, complete overview and better collaboration. SeaTable is the building block for your ideas.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/4df43b8a326d68b8bce1fa3363892683.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Databases"
+    ],
+    "category_slugs": [
+      "databases"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 2
+  }
+}

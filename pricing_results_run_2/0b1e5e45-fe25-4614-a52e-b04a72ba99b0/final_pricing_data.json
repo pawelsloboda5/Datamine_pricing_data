@@ -1,0 +1,45 @@
+{
+  "app_id": "jobadder",
+  "app_name": "JobAdder",
+  "app_slug": "jobadder",
+  "pricing_url": null,
+  "source_url": "https://jobadder.com/pricing/",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "JobAdder offers custom pricing tailored to the specific needs of each business, ensuring payment is only for the features required.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:54:30.724378",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "0b1e5e45-fe25-4614-a52e-b04a72ba99b0",
+    "name": "JobAdder",
+    "slug": "jobadder",
+    "description": "JobAdder is the ATS and CRM recruiters love to use. Increase your productivity, growth and ROI by improving your user adoption rate.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/6410c87b37d4c4529d1727b6dfa8d6e4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 33,
+    "trigger_count": 11
+  }
+}

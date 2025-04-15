@@ -1,0 +1,71 @@
+{
+  "app_id": "ticktick",
+  "app_name": "TickTick",
+  "app_slug": "ticktick",
+  "pricing_url": "https://ticktick.com/upgrade",
+  "source_url": "https://ticktick.com/upgrade",
+  "all_pricing_urls": [
+    "https://ticktick.com/upgrade"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plan pricing is highlighted with a breakdown of monthly cost.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Premium",
+      "tier_description": "Unlock all premium features on all platforms.",
+      "monthly_price": null,
+      "annual_price": 35.99,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full calendar functionality",
+        "Customize filters",
+        "Create more, achieve more",
+        "Keep everything under control",
+        "Track your progress",
+        "Reminders for check item",
+        "Calendar widgets",
+        "Estimated Pomo",
+        "Premium themes",
+        "Premium white noises",
+        "Quick Ball for Android"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:35:01.071374",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "d76ca3a9-b00c-4863-a34d-6c8fb3ed7bc3",
+    "name": "TickTick",
+    "slug": "ticktick",
+    "description": "TickTick is a simple and effective to-do list and task manager app with seamless cloud synchronization across all your devices.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/0f046549a790a796a7ea76fa5165e322.jpg?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "todo-lists"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 3
+  }
+}

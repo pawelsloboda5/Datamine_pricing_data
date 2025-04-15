@@ -1,0 +1,47 @@
+{
+  "app_id": "partnerstack",
+  "app_name": "PartnerStack",
+  "app_slug": "partnerstack",
+  "pricing_url": "https://partnerstack.com/pricing",
+  "source_url": "https://partnerstack.com/pricing",
+  "all_pricing_urls": [
+    "https://partnerstack.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is customized based on the user's needs and business requirements.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:51:09.619613",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "87d9ffa7-7c32-4e1a-81f1-293a212702e5",
+    "name": "PartnerStack",
+    "slug": "partnerstack",
+    "description": "PartnerStack (formerly GrowSumo) is a growth automation platform that helps your company automatically manage and reward partners for promoting your business. Fully equip your partners for marketing, referral, and sales success with custom referral links and company pages. Engage partners through automated email campaigns and challenges, and then track partner performance with detailed analytics. Use the centralized dashboard to support all of your partner channels, including reseller, marketing, and referral partner programs. You can even ensure global compliance by funnelling all rewards through PartnerStack.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/feed11ab40f52c4625223bd95f2198ff_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 16,
+    "trigger_count": 8
+  }
+}

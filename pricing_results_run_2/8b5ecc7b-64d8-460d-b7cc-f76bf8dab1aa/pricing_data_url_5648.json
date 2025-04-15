@@ -1,0 +1,183 @@
+{
+  "app_id": "refersion",
+  "app_name": "Refersion",
+  "app_slug": "refersion",
+  "pricing_url": "https://www.refersion.com/pricing",
+  "source_url": "https://www.refersion.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.refersion.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers a discount compared to monthly billing. The Custom plan requires contacting sales for pricing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "For brands starting their affiliate program.",
+      "monthly_price": 49.0,
+      "annual_price": 348.0,
+      "annual_discount_percentage": 29.59,
+      "setup_fee": null,
+      "features": [
+        "Up to 10 Monthly Order Conversions",
+        "50 Active Affiliates",
+        "300 Clicks",
+        "Access to Refersion Affiliate Marketplace",
+        "Affiliate Experience Dashboard"
+      ],
+      "limits": {
+        "users": 50,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly Conversions/Sales",
+            "value": 10
+          },
+          {
+            "name": "Clicks",
+            "value": 300
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "For small but growing affiliate programs.",
+      "monthly_price": 119.0,
+      "annual_price": 1188.0,
+      "annual_discount_percentage": 16.81,
+      "setup_fee": null,
+      "features": [
+        "Up to 50 Monthly Order Conversions",
+        "200 Active Affiliates",
+        "1000 Clicks",
+        "Access to Refersion Affiliate Marketplace",
+        "Affiliate Experience Dashboard",
+        "Cookie Day Customization"
+      ],
+      "limits": {
+        "users": 200,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly Conversions/Sales",
+            "value": 50
+          },
+          {
+            "name": "Clicks",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For affiliate programs gaining momentum.",
+      "monthly_price": 299.0,
+      "annual_price": 2988.0,
+      "annual_discount_percentage": 16.72,
+      "setup_fee": null,
+      "features": [
+        "Up to 200 Monthly Order Conversions",
+        "500 Active Affiliates",
+        "5000 Clicks",
+        "Access to Refersion Affiliate Marketplace",
+        "Affiliate Experience Dashboard",
+        "Cookie Day Customization",
+        "Existing Program Migration"
+      ],
+      "limits": {
+        "users": 500,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly Conversions/Sales",
+            "value": 200
+          },
+          {
+            "name": "Clicks",
+            "value": 5000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "For thriving affiliate programs looking to simplify and automate workflows.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Monthly Order Conversions",
+        "Unlimited Active Affiliates",
+        "Unlimited Clicks",
+        "Access to Refersion Affiliate Marketplace",
+        "Affiliate Experience Dashboard",
+        "Cookie Day Customization",
+        "Existing Program Migration",
+        "Affiliate Recommendations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly Conversions/Sales",
+            "value": "unlimited"
+          },
+          {
+            "name": "Clicks",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T10:20:31.915997",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "8b5ecc7b-64d8-460d-b7cc-f76bf8dab1aa",
+    "name": "Refersion",
+    "slug": "refersion",
+    "description": "Refersion is a tracking platform helping merchants start, manage, and grow affiliate networks. This integration is for merchant accounts.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/dc6ca0b3076090bec1fa610e1b1a916c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 5,
+    "trigger_count": 0
+  }
+}

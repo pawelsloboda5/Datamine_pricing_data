@@ -1,0 +1,24 @@
+{
+  "app_name": "Keap",
+  "app_slug": "keap",
+  "search_term": "Find the official pricing page URL for Keap (keap.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744705201.148938,
+  "response_text": [
+    "The official pricing page for Keap can be found at this URL: [https://keap.com/pricing](https://keap.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Keap Pricing | Best CRM and Automation for Businesses",
+      "url": "https://keap.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://keap.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\keap\\20250415_042002"
+}

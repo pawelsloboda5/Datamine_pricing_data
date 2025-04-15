@@ -1,0 +1,51 @@
+{
+  "app_name": "User.com",
+  "app_slug": "userengage",
+  "search_term": "Find the official pricing page URL for User.com (userengage.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744710910.4170594,
+  "response_text": [
+    "The official pricing page for User.com can be found at: [https://www.user.com/pricing/](https://www.user.com/pricing/)\u30103:3\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "User.com - Marketing Automation Platform",
+      "url": "https://www.user.com/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.user.com/pricing/",
+      "is_accessible": true,
+      "content": "[![Image 1](https://cdn.prod.website-files.com/637cb013128547f2276f560d/679388d649750485577a130e_user.com.svg)](https://www.user.com/)\n\nJOIN THOUSANDS OF TEAMS AUTOMATING THEIR WORKFLOWS\n\n![Image 2: Company logo](https://cdn.prod.website-files.com/637cb013128547f2276f560d/6399937449dddb0023c0a928_co-bnp.svg)![Image 3: Company logo](https://cdn.prod.website-files.com/637cb013128547f2276f560d/67862e716bda48083b51919c_LGE_Logo_Mono_Black_RGB.png)![Image 4: Company logo](https://cdn.prod.website-files.com/637cb013128547f2276f560d/67c18600d1201ba13fe9ab34_Bricomarche.svg)![Image 5: Company logo](https://cdn.prod.website-files.com/637cb013128547f2276f560d/63999374f780dc3a445426e4_co-apa.svg)![Image 6: Company logo](https://cdn.prod.website-files.com/637cb013128547f2276f560d/63999374e72d2578976603d8_co-amc.svg)![Image 7: Company logo](https://cdn.prod.website-files.com/637cb013128547f2276f560d/639993744cdf4852abd5eafd_co-emg.svg)![Image 8: Company logo](https://cdn.prod.website-files.com/637cb013128547f2276f560d/67c182ac2175ecfe767d52a9_primabiotic-logo%201%20(1).svg)\n\nEasy Drag & Drop Editor\n\nGDPR & CCPA-compliant\n\nDedicated Customer Support\n\n![Image 9](https://cdn.prod.website-files.com/637cb013128547f2276f560d/6385f5d374c7720070e41223_a-customer-data.svg)\n\nPersonal At Scale\n\nWho said that you can\u2019t be personal at scale?  \n\n------------------------------------------------\n\nRegardless if you are selling to or supporting your customers User.com delivers the best omnichannel communication experience. Present the right message in the right channel for the right user, always at the right time.\n\n\u201cWhat would we do without User.com? To see where we are at, and our potential where we will be with the product, it\u2019s really been an amazing experience.\u201d\n\nHundreds of integrations to empower your team with dynamic data\n---------------------------------------------------------------\n\nConnect your tools and your team with hundreds of apps available, \u2028  \nyour team\u2019s favourite tools are just a click away.\n\n### GDPR Compliant\n\nBacked by the highest levels of privacy and security for your and your users personal data.\n\n### SSL-Certified\n\nBuilt for banks and finance your data is safeguarded by the highest standards of encryption.\n\n### SOC 2 Type 2 Certified\n\nRobust security assurance with our full compliance of data and access requirements.\n\n### Pen Tested & Audited\n\nUser.com is regularly tested and audited to ensure the performance of our security systems.\n\n![Image 10](https://cdn.prod.website-files.com/637cb013128547f2276f560d/63985ed9f858cfc193330942_get-expert-help-user.com.svg)\n\n![Image 11](https://cdn.prod.website-files.com/637cb013128547f2276f560d/639863e1613a273ac47f4000_coaching-guidance.svg)\n\n![Image 12](https://cdn.prod.website-files.com/637cb013128547f2276f560d/639861506658294e69f007b1_designed-for-any.svg)\n\nThe Platform Benefits\n\nThe ultimate source of truth to unlock your team\u2019s growth potential\n-------------------------------------------------------------------\n\nA powerful platform to help you convert, engage, and retain more users.  \nTrusted by thousands of companies as their solution to communicate with their customers.\n\n### **Better data to connect with your users**\n\nGet a better pulse on your users, with timelines, behavior tracking, plus custom events, that gives you a more engaged and responsive audience.\n\n### Engaging multi-channel campaigns\n\nPlan out your entire customer journey emails and multiple paths depending on their engagement, or instant triggers you specify.\n\n### Easy Team Collaboration\n\nInvite team members with multiple permission levels, to work with you and get insights - build campaigns, automations, audience lists, and more together.\n\n### **Deliver an amazing customer experience**\n\nA single workspace to provide great user experiences - plus build on touchpoints to automate the best repeatable outcomes along the way.\n\n### **Filters to target based on almost anything**\n\nUse the powerful filter engine to target, users, companies, or products, based on touch point, event, location, or any other data to send campaigns.\n\n### Drag &\u00a0Drop Builder\n\nThe drag and drop intelligent automation workspace is totally customizable, with tons of triggers, actions, and conditions, which makes any path limitless.\n\n### Grow your business automatically\n\nDon't waste time on repetitive tasks. Let automations handle it.\n\nThank you! Your submission has been received!\n\nOops! Something went wrong while submitting the form.\n\nUser.com is a marketing automation platform that helps companies streamline processes and grow their business faster and transform behavior into personalized experiences, without the dev time.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "user_com",
+        "app_name": "User.com",
+        "app_slug": "user-com",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "No specific pricing information was provided in the content.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T05:55:27.999126",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\userengage\\20250415_055528"
+}

@@ -1,0 +1,19 @@
+{
+  "app_name": "Project Broadcast",
+  "app_slug": "project-broadcast",
+  "search_term": "Find the official pricing page URL for Project Broadcast (project-broadcast.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744696054.071244,
+  "response_text": [
+    "The URL for the official pricing page of Project Broadcast is: https://project-broadcast.com/pricing  ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://project-broadcast.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\project-broadcast\\20250415_014734"
+}

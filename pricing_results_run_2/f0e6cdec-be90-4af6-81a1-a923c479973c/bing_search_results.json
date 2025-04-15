@@ -1,0 +1,53 @@
+{
+  "app_name": "REI Pebble",
+  "app_slug": "rei-pebble",
+  "search_term": "Find the official pricing page URL for REI Pebble (rei-pebble.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744723854.602944,
+  "response_text": [
+    "The official pricing page for REI Pebble can be found at https://www.rei-pebble.com/pricing\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "www.rei-pebble.com",
+      "url": "http://www.rei-pebble.com/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.rei-pebble.com/pricing\u30103:0\u2020source\u3011.",
+      "is_accessible": true,
+      "content": "Copyright \u00a9 1999-2025 GoDaddy, LLC. All rights reserved.[Privacy Policy](https://www.rei-pebble.com/pricing%E3%80%903:0%E2%80%A0source%E3%80%91.#!)\n\nDisclaimer: References to any specific company, product or services on this Site are not controlled by GoDaddy.com LLC and do not constitute or imply its association with or endorsement of third party advertisers.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "rei_pebble",
+        "app_name": "REI Pebble",
+        "app_slug": "rei-pebble",
+        "pricing_url": "https://www.rei-pebble.com/pricing%E3%80%903:0%E2%80%A0source%E3%80%91",
+        "source_url": "https://www.rei-pebble.com/pricing%E3%80%903:0%E2%80%A0source%E3%80%91",
+        "all_pricing_urls": [
+          "https://www.rei-pebble.com/pricing%E3%80%903:0%E2%80%A0source%E3%80%91"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": null,
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:31:04.300990",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\rei-pebble\\20250415_093104"
+}

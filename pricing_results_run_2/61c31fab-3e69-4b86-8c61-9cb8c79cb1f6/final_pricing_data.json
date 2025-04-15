@@ -1,0 +1,135 @@
+{
+  "app_id": "method_crm",
+  "app_name": "Method CRM",
+  "app_slug": "method-crm",
+  "pricing_url": "https://www.method.me/crm-quickbooks/pricing/",
+  "source_url": "https://www.method.me/pricing/",
+  "all_pricing_urls": [
+    "https://www.method.me/crm-quickbooks/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user per month with discounts for annual billing. Free trial includes CRM Pro features with optional CRM Enterprise features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Contact Management",
+      "tier_description": "Simple lead and customer management to help you close deals and drive repeat business.",
+      "monthly_price": 28.0,
+      "annual_price": 25.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "QuickBooks integration",
+        "Lead management",
+        "Contact management",
+        "Online portals",
+        "Reports",
+        "Customization",
+        "Integrations",
+        "Support",
+        "Administration & extras"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "CRM Pro",
+      "tier_description": "Powerful QuickBooks CRM to help you simplify your sales process and get paid faster.",
+      "monthly_price": 49.0,
+      "annual_price": 44.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "QuickBooks integration",
+        "Lead management",
+        "Financial management",
+        "Contact management",
+        "Sales pipeline",
+        "Online portals",
+        "Communication & productivity",
+        "Reports",
+        "Customization",
+        "Integrations",
+        "Support",
+        "Administration & extras"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "CRM Enterprise",
+      "tier_description": "For growing businesses who want to automate every workflow from sales management to customer service.",
+      "monthly_price": 85.0,
+      "annual_price": 74.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "QuickBooks integration",
+        "Lead management",
+        "Financial management",
+        "Contact management",
+        "Sales pipeline",
+        "Online portals",
+        "Communication & productivity",
+        "Reports",
+        "Customization",
+        "Integrations",
+        "Support",
+        "Administration & extras"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T02:12:40.244773",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "61c31fab-3e69-4b86-8c61-9cb8c79cb1f6",
+    "name": "Method CRM",
+    "slug": "method-crm",
+    "description": "Method CRMTM is a QuickBooks CRM that streamlines your business from lead to repeat and everything in between.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/1de15425577dd98cae0f8a5b7fe9c781.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 14,
+    "trigger_count": 5
+  }
+}

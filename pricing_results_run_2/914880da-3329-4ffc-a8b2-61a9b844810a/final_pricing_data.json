@@ -1,0 +1,180 @@
+{
+  "app_id": "holded",
+  "app_name": "Holded",
+  "app_slug": "holded",
+  "pricing_url": "https://www.holded.com/pricing",
+  "source_url": "https://www.holded.com/pricing",
+  "all_pricing_urls": [
+    "https://www.holded.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Holded offers a free trial and a free tier, with promotional discounts for the first three months.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Manage your invoicing with customers and suppliers.",
+      "monthly_price": 14.5,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Invoices and quotes",
+        "All your banks connected",
+        "Advanced reporting",
+        "Employee management",
+        "User roles",
+        "Collections and bulk payments",
+        "SEPA bank remittances",
+        "Accounting automations",
+        "Custom fields",
+        "Personalised client portal",
+        "Business plan and Banking"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Automatise the management of your invoicing and accounting.",
+      "monthly_price": 29.5,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Invoices and quotes",
+        "All your banks connected",
+        "Advanced reporting",
+        "Employee management",
+        "User roles",
+        "Collections and bulk payments",
+        "SEPA bank remittances",
+        "Accounting automations",
+        "Custom fields",
+        "Personalised client portal",
+        "Business plan and Banking"
+      ],
+      "limits": {
+        "users": 4,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Professionalize the management of your finances and operations.",
+      "monthly_price": 49.5,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Invoices and quotes",
+        "All your banks connected",
+        "Advanced reporting",
+        "Employee management",
+        "Personalised user roles",
+        "Collections and bulk payments",
+        "SEPA bank remittances",
+        "Accounting automations",
+        "Custom fields",
+        "Personalised client portal",
+        "Business plan and Banking"
+      ],
+      "limits": {
+        "users": 7,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "50% discount for 3 months",
+      "offer_description": "Start with free 14 days, continue with a 50% discounted plan for the first 3 months.",
+      "discount_percentage": 50.0,
+      "offer_url": "https://app.holded.com/signup?lang=en",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Premium Support",
+      "fee_amount": 50.0,
+      "fee_description": "Receive personalized attention and quickly resolve your questions."
+    },
+    {
+      "fee_name": "Catalogue",
+      "fee_amount": 10.0,
+      "fee_description": "Share an online catalogue of your products."
+    },
+    {
+      "fee_name": "Inventory",
+      "fee_amount": 25.0,
+      "fee_description": "Track your product cycle: orders, stock and warehousing."
+    },
+    {
+      "fee_name": "Manufacturing",
+      "fee_amount": 25.0,
+      "fee_description": "Create Production orders and Bills of Materials."
+    },
+    {
+      "fee_name": "POS",
+      "fee_amount": 25.0,
+      "fee_description": "Connect face-to-face sales with cloud-based management."
+    },
+    {
+      "fee_name": "SII",
+      "fee_amount": 30.0,
+      "fee_description": "Connect with the Tax Agency's SII to send invoices."
+    },
+    {
+      "fee_name": "Team PRO",
+      "fee_amount": 1.5,
+      "fee_description": "Organise your company's HR: payroll, contracts and more."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:34:22.951591",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "914880da-3329-4ffc-a8b2-61a9b844810a",
+    "name": "Holded",
+    "slug": "holded",
+    "description": "The cloud-based tool that has everything you need to manage your company \u2014 wherever you are, whenever you need.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/817fc6a74039699a082b1bd0c98df4cf.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 20,
+    "trigger_count": 5
+  }
+}

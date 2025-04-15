@@ -1,0 +1,114 @@
+{
+  "app_id": "azure_active_directory",
+  "app_name": "Azure Active Directory",
+  "app_slug": "azure-active-directory",
+  "pricing_url": "https://azure.microsoft.com/en-us/pricing/details/active-directory-b2c/",
+  "source_url": "https://azure.microsoft.com/en-us/pricing/details/active-directory-b2c/",
+  "all_pricing_urls": [
+    "https://azure.microsoft.com/en-us/pricing/details/active-directory-b2c/"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on Monthly Active Users (MAUs) with the first 50,000 MAUs per month free.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Tier",
+      "tier_description": "First 50,000 MAUs per month are free for both Premium P1 and Premium P2 features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Premium P1 features",
+        "Premium P2 features"
+      ],
+      "limits": {
+        "users": "50,000",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium P1",
+      "tier_description": "Includes advanced features for identity management.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced identity management features"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Premium P2",
+      "tier_description": "Includes all Premium P1 features plus Identity Protection and Identity Governance controls.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Identity Protection",
+        "Identity Governance controls"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Monthly Active Users (MAUs)",
+      "unit": "per user",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "50,000",
+          "price": 0.0
+        },
+        {
+          "min": 50.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:49:25.816288",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a6d9cb9f-2c83-4581-a6ce-92a5744a30ce",
+    "name": "Azure Active Directory",
+    "slug": "azure-active-directory",
+    "description": "Azure Active Directory Service",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/328706ed9f7bac95754377b1a7d9a8bb.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Microsoft",
+      "Security & Identity Tools"
+    ],
+    "category_slugs": [
+      "microsoft",
+      "security-identity"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 10,
+    "trigger_count": 0
+  }
+}

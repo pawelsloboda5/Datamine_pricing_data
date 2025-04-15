@@ -1,0 +1,119 @@
+{
+  "app_id": "acculynx",
+  "app_name": "AccuLynx",
+  "app_slug": "acculynx",
+  "pricing_url": null,
+  "source_url": "https://acculynx.com/plan-options/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is customized based on the plan and company needs, with no contracts required.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pro",
+      "tier_description": "Includes essential features for business management, sales, production, communication, and financial management.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Automations manager",
+        "Custom email templates",
+        "Custom reporting",
+        "Custom workflow manager",
+        "Job milestone tracker",
+        "Lead API",
+        "Live activity feed",
+        "Multiple company location set-up",
+        "Personal or role-based dashboards",
+        "Template manager",
+        "User permission & location settings",
+        "Aerial measurement ordering",
+        "AI-based automatic lead scoring",
+        "Custom materials library",
+        "Embedded web forms",
+        "Estimates and contracts",
+        "Invoicing",
+        "Labor management and work orders",
+        "Leads/CRM",
+        "Mortgage check tracking",
+        "Permits tracking",
+        "Production calendar",
+        "Production status and trade reports",
+        "Prospecting reports",
+        "Sales pipeline and closing percentage reports",
+        "Supplement tracking",
+        "Supplier direct ordering",
+        "Job messaging & communications history",
+        "Mobile field app",
+        "Notes, tasks, reminders, and notifications",
+        "Photo/video management & storage",
+        "Shared appointment calendar",
+        "Task manager",
+        "Unlimited document storage and sharing",
+        "Advances and paybacks tracking",
+        "Commissions",
+        "Job costs and A/R tracking",
+        "Job profit forecasting",
+        "Marketing expense tracking",
+        "Profit & loss analysis"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Elite",
+      "tier_description": "Includes all features from Pro plus additional advanced tools.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features from Pro",
+        "Additional tools to enrich your plan such as AccuPay, Customer Portal, Smart(er) Docs, AccuFi, ReportsPlus, Texting, Mobile Crew App, AppConnections"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "ABC Supply Order Incentive",
+      "offer_description": "Earn up to $2,000 when you place orders to ABC Supply through AccuLynx.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": "2025-05-30"
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T10:14:37.481366",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "44039749-e75a-4579-a5d7-b4de88dc8f48",
+    "name": "AccuLynx",
+    "slug": "acculynx",
+    "description": "AccuLynx is a cloud based roofing software application designed to help contractors manage and grow their business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/f313ad34dd58d8bd7ba5a07833b964c7.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

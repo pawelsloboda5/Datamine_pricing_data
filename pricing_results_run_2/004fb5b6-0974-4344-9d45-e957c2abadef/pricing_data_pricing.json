@@ -1,0 +1,133 @@
+{
+  "app_id": "jobtread",
+  "app_name": "JobTread",
+  "app_slug": "jobtread",
+  "pricing_url": "https://www.jobtread.com/pricing",
+  "source_url": "https://www.jobtread.com/pricing",
+  "all_pricing_urls": [
+    "https://www.jobtread.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "JobTread offers tiered pricing for additional users and includes all features in the base subscription.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Monthly Plan",
+      "tier_description": "Monthly subscription plan.",
+      "monthly_price": 199.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features included",
+        "Unlimited jobs, documents, and files",
+        "Unlimited customer and vendor portal users",
+        "Data imports and pre-built job templates",
+        "Implementation, training, and support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Additional internal users",
+            "value": "$20 each for 2-10 users, tiered pricing for more users"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Annual Plan",
+      "tier_description": "Annual subscription plan with a discount.",
+      "monthly_price": 159.0,
+      "annual_price": 1908.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All features included",
+        "Unlimited jobs, documents, and files",
+        "Unlimited customer and vendor portal users",
+        "Data imports and pre-built job templates",
+        "Implementation, training, and support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Additional internal users",
+            "value": "$16 each for 2-10 users, tiered pricing for more users"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Internal Users",
+      "unit": "per user",
+      "base_price": 20.0,
+      "tiers": [
+        {
+          "min": 2.0,
+          "max": 10.0,
+          "price": 20.0
+        },
+        {
+          "min": 11.0,
+          "max": 20.0,
+          "price": 15.0
+        },
+        {
+          "min": 21.0,
+          "max": 30.0,
+          "price": 10.0
+        },
+        {
+          "min": 31.0,
+          "max": "unlimited",
+          "price": 5.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:36:20.224034",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "004fb5b6-0974-4344-9d45-e957c2abadef",
+    "name": "JobTread",
+    "slug": "jobtread",
+    "description": "JobTread is construction estimating & project management software that will help you keep your budget and jobs on track.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/19bc918a4d6d5b694993233ae68a7e3c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 24,
+    "trigger_count": 20
+  }
+}

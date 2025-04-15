@@ -1,0 +1,159 @@
+{
+  "app_id": "handwrytten",
+  "app_name": "Handwrytten",
+  "app_slug": "handwrytten",
+  "pricing_url": "https://www.handwrytten.com/pricing/",
+  "source_url": "https://www.handwrytten.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.handwrytten.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Handwrytten offers pricing for individual cards, subscription plans, bulk discounts, and prepay options. Discounts vary based on volume and subscription tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Silver",
+      "tier_description": "24 Cards Per Month",
+      "monthly_price": 98.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10% Discount"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 24,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Gold",
+      "tier_description": "50 Cards Per Month",
+      "monthly_price": 195.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "15% Discount"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 50,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Platinum",
+      "tier_description": "100 Cards Per Month",
+      "monthly_price": 373.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "20% Discount"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 100,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Custom Plans",
+      "tier_description": "250+ Cards Per Month",
+      "monthly_price": 885.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "25-40% Discount"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 250,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Cards",
+      "unit": "per card",
+      "base_price": 3.75,
+      "tiers": [
+        {
+          "min": 500.0,
+          "max": 999.0,
+          "price": 2.11
+        },
+        {
+          "min": 1000.0,
+          "max": 4999.0,
+          "price": 1.78
+        },
+        {
+          "min": 5000.0,
+          "max": 9999.0,
+          "price": 1.46
+        },
+        {
+          "min": 10000.0,
+          "max": 24999.0,
+          "price": 1.14
+        },
+        {
+          "min": 25000.0,
+          "max": 49999.0,
+          "price": 0.98
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:08:29.453538",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1366fc7c-e014-4854-b2cd-fdbd6f1f2ecb",
+    "name": "Handwrytten",
+    "slug": "handwrytten",
+    "description": "Handwrytten is a way to automatically send real cards and notes written in pen and ink.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/345ec1c41c653c2fdf7ccd4722e84187.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Appreciation"
+    ],
+    "category_slugs": [
+      "customer-appreciation"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 13,
+    "trigger_count": 0
+  }
+}

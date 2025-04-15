@@ -1,0 +1,159 @@
+{
+  "app_id": "growbots",
+  "app_name": "Growbots",
+  "app_slug": "growbots",
+  "pricing_url": "https://www.growbots.com/pricing",
+  "source_url": "https://www.growbots.com/pricing",
+  "all_pricing_urls": [
+    "https://www.growbots.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Growbots offers a free tier and usage-based pricing for credits. Additional features and integrations may require paid add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Freemium",
+      "tier_description": "Free tier with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic Filters",
+        "20 Email Accounts",
+        "3 Sequences",
+        "5 Sequence Max Steps"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": "From $0.13 per prospect"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter Outreach",
+      "tier_description": "Starter plan with enhanced features.",
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced Filters",
+        "Unlimited Email Accounts",
+        "Unlimited Sequences",
+        "Unlimited Sequence Max Steps"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": "From $0.13 per prospect"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro Outreach",
+      "tier_description": "Pro plan with all features unlocked.",
+      "monthly_price": 39.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced Filters",
+        "Unlimited Email Accounts",
+        "Unlimited Sequences",
+        "Unlimited Sequence Max Steps"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": "From $0.13 per prospect"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Credits",
+      "unit": "per prospect",
+      "base_price": 0.13,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Ambassador Program",
+      "offer_description": "Offer your network 15% discount & earn 15% of their monthly subscription up to $2,000 per person.",
+      "discount_percentage": 15.0,
+      "offer_url": "https://www.growbots.com/ambassador-program",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Custom Data Delivery",
+      "fee_amount": null,
+      "fee_description": "Paid add-on for custom data delivery."
+    },
+    {
+      "fee_name": "Hiring Data and Intent",
+      "fee_amount": null,
+      "fee_description": "Paid add-on for hiring data and intent."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:49:50.418078",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f1af8a15-e65a-4248-afdf-4c459303306e",
+    "name": "Growbots",
+    "slug": "growbots",
+    "description": "Growbots is an all-in-one AI tool for automated outbound sales, combining scalable prospecting and targeted email outreach.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/967e1079c36a3c61349111b1fd12717d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools",
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "ai-tools",
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 5
+  }
+}

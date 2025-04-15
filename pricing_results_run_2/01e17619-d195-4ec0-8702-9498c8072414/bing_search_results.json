@@ -1,0 +1,12 @@
+{
+  "app_name": "Spotio",
+  "app_slug": "spotio2",
+  "search_term": "Find the official pricing page URL for Spotio (spotio2.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744703959.8971374,
+  "response_text": [
+    "I couldn't locate the Spotio official pricing page using the available search. You may consider visiting their main site or contacting their sales team directly. Let me know if you'd like assistance with something else!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\spotio2\\20250415_035920"
+}

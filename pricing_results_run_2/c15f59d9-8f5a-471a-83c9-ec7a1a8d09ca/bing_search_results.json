@@ -1,0 +1,19 @@
+{
+  "app_name": "Badger Maps",
+  "app_slug": "badger-maps",
+  "search_term": "Find the official pricing page URL for Badger Maps (badger-maps.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744708139.859381,
+  "response_text": [
+    "The official pricing page for Badger Maps can be found at this URL: [https://www.badgermapping.com/pricing/](https://www.badgermapping.com/pricing/) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.badgermapping.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\badger-maps\\20250415_050915"
+}

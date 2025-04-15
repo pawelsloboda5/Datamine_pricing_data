@@ -1,0 +1,24 @@
+{
+  "app_name": "Bubble",
+  "app_slug": "bubble",
+  "search_term": "Find the official pricing page URL for Bubble (bubble.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744711264.3077066,
+  "response_text": [
+    "The official pricing page URL for Bubble is [https://bubble.io/pricing](https://bubble.io/pricing).\u30103:0\u2020source\u3011"
+  ],
+  "citations": [
+    {
+      "title": "Bubble Pricing",
+      "url": "https://bubble.io/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://bubble.io/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\bubble\\20250415_060119"
+}

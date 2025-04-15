@@ -1,0 +1,117 @@
+{
+  "app_name": "myRealPage",
+  "app_slug": "myrealpage",
+  "search_term": "Find the official pricing page URL for myRealPage (myrealpage.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744704001.4527283,
+  "response_text": [
+    "The official pricing page for myRealPage can be found here: [https://www.myrealpage.com/pricing](https://www.myrealpage.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "myRealPage Pricing - Real Estate Agent Websites Made Easy",
+      "url": "https://myrealpage.com/real-estate-website-pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.myrealpage.com/pricing",
+      "is_accessible": true,
+      "content": "Get Started with myRealPage\n---------------------------\n\nWhether you need a single agent website, listings for WordPress or a broker website, myRealPage has a solution to help your business.\n\nOnly $59 a month\n\n\\+ taxes and board fees for certain boards\\*\n\n*   No Contracts\n*   Cancel Anytime\n*   16 hrs / 7 days Support\n\nSummary of our set of features\n------------------------------\n\nSimple Website Builder\n\n*   Easy to Use Modern Editor\n*   Ample selection of layouts\n*   Modern, swappable Themes\n*   Unlimited Pages\n*   Library of prebuilt, niche specific pages\n*   Unlimited Website Storage\n*   Staging Area\n\nMLS\u00ae Listings Search & IDX\n\n*   Best in Class MLS\u00ae Listings Search\n*   Unlimited Predefined Searches\n*   Sold Listings Data Access\\*\n*   Built-In Quick Search Tools\n*   SEO Friendly URLs\n*   QR Code Generation\n*   Ability to Lock Listings for Sign Up\n\nSocial Media + Print Media\n\n*   Integrated Facebook Post / Stories\n*   Integrated Instagram Post / Stories\n*   Integrated Twitter Post / Stories\n*   Integrated Feature Sheet\n*   Integrated Postcards\n*   Brand-Specific Social Media Templates\n*   Ability to create your own Templates\n\nLead Capture Tools\n\n*   VOW (Virtual Office Website)\n*   MLS\u00ae Email Alerts for Leads\n*   Built-In Lead Gen Forms\n*   Import / Export of Contacts\n*   Third Party CRM Connection\n*   Lead Management Module\n\nSearch Engine Optimization\n\n*   Easy Access to Meta Tags\n*   FREE SSL Certificate (HTTPS)\n*   Automated Google Sitemaps\n*   Google Analytics Integration\n*   Google Search Suite Compatible\n*   Editable Robots.txt\n\nBroker Suite\n\n*   Minimal Setup Required\n*   Robust Agent Directory\n*   Agents Listings Section\n*   Leads directed to the correct agent\n*   Featured Agent Widget\n*   Add as many agents as needed\n\n\\*Available in Select Markets\n\nFrequently Asked  \nQuestions\n----------------------------\n\nHaven\u2019t found the answer to your needs or have a few questions before getting started? Try clicking these questions.\n\nYou can cancel anytime. There are no minimum amount of months. Once you process the cancellation form, your website will be active until the next invoice due date.\n\n#### Testimonials\n\nWhat Our Clients Are Saying\n---------------------------\n\n*   ![Image 1: Rob Campbell Testimonial](https://myrealpage.com/wp-content/uploads/rob-campbell-testimonial-template-mrp.png)\n    \n*   ![Image 2: Richard Whitney Testimonial](https://myrealpage.com/wp-content/uploads/richard-whitney-testimonial-template-mrp.png)\n    \n*   ![Image 3: James Hampton Testimonial](https://myrealpage.com/wp-content/uploads/james-1.png)\n    \n*   ![Image 4: Aarun SandhuTestimonial](https://myrealpage.com/wp-content/uploads/aaron-1.png)\n    \n*   ![Image 5: AJ Cheema Testimonial](https://myrealpage.com/wp-content/uploads/aj-1.png)\n    \n*   ![Image 6: Norm Fisher Testimonial](https://myrealpage.com/wp-content/uploads/norm-1.png)\n    \n*   ![Image 7: Heather Kelly Testimonial](https://myrealpage.com/wp-content/uploads/heather-1.png)\n    \n*   ![Image 8: Matt Emerson Testimonial 2](https://myrealpage.com/wp-content/uploads/matt-1.png)\n    \n\n### Trusted By Over12,000+\n\nREALTORS\u00ae From These World-Class Brokerages\n\n![Image 9](https://myrealpage.com/wp-content/uploads/remax-hp.png)\n\n![Image 10](https://myrealpage.com/wp-content/uploads/sutton-hp.png)\n\n![Image 11](https://myrealpage.com/wp-content/uploads/macdonald-hp.png)\n\n![Image 12](https://myrealpage.com/wp-content/uploads/c-21-hp-300x141.png)\n\n![Image 13](https://myrealpage.com/wp-content/uploads/realty-hp.png)\n\n![Image 14](https://myrealpage.com/wp-content/uploads/homelife-hp.png)\n\n### Create your website today  \nwith myRealPage\n\nNo Contracts. No Lock-Ins. No Fuss.\n\nCreate fantastic-looking REALTOR\u00ae Websites in minutes without being a techie. Trusted by over 12,000 REALTORS\u00ae from world-class brokerages.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "myrealpage",
+        "app_name": "myRealPage",
+        "app_slug": "myrealpage",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes additional taxes and board fees for certain boards.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Standard",
+            "tier_description": "Single agent website with comprehensive features.",
+            "monthly_price": 59.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Easy to Use Modern Editor",
+              "Ample selection of layouts",
+              "Modern, swappable Themes",
+              "Unlimited Pages",
+              "Library of prebuilt, niche specific pages",
+              "Unlimited Website Storage",
+              "Staging Area",
+              "Best in Class MLS\u00ae Listings Search",
+              "Unlimited Predefined Searches",
+              "Sold Listings Data Access",
+              "Built-In Quick Search Tools",
+              "SEO Friendly URLs",
+              "QR Code Generation",
+              "Ability to Lock Listings for Sign Up",
+              "Integrated Facebook Post / Stories",
+              "Integrated Instagram Post / Stories",
+              "Integrated Twitter Post / Stories",
+              "Integrated Feature Sheet",
+              "Integrated Postcards",
+              "Brand-Specific Social Media Templates",
+              "Ability to create your own Templates",
+              "VOW (Virtual Office Website)",
+              "MLS\u00ae Email Alerts for Leads",
+              "Built-In Lead Gen Forms",
+              "Import / Export of Contacts",
+              "Third Party CRM Connection",
+              "Lead Management Module",
+              "Easy Access to Meta Tags",
+              "FREE SSL Certificate (HTTPS)",
+              "Automated Google Sitemaps",
+              "Google Analytics Integration",
+              "Google Search Suite Compatible",
+              "Editable Robots.txt",
+              "Minimal Setup Required",
+              "Robust Agent Directory",
+              "Agents Listings Section",
+              "Leads directed to the correct agent",
+              "Featured Agent Widget",
+              "Add as many agents as needed"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Taxes and board fees",
+            "fee_amount": null,
+            "fee_description": "Applicable for certain boards."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T04:00:24.893051",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\myrealpage\\20250415_040025"
+}

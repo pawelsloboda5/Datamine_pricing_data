@@ -1,0 +1,124 @@
+{
+  "app_id": "follow_up_boss",
+  "app_name": "Follow Up Boss",
+  "app_slug": "follow-up-boss",
+  "pricing_url": "https://www.followupboss.com/pricing",
+  "source_url": "https://www.followupboss.com/pricing",
+  "all_pricing_urls": [
+    "https://www.followupboss.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a discount equivalent to two months free.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Grow",
+      "tier_description": "Everything agents and small teams need to get organized and engage with leads.",
+      "monthly_price": 69.0,
+      "annual_price": 58.0,
+      "annual_discount_percentage": 15.94,
+      "setup_fee": null,
+      "features": [
+        "Connect any lead source and website",
+        "Customize lead distribution",
+        "Organize leads with Smart Lists",
+        "Automate follow up with Action Plans",
+        "Call, text and email directly from FUB",
+        "Sync your calendar & email",
+        "Report on agent & lead source performance",
+        "Mobile app"
+      ],
+      "limits": {
+        "users": "per user",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Dialer",
+            "value": "$39/user monthly"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Sales, collaboration and coaching tools for growing teams ready to take more market share.",
+      "monthly_price": 499.0,
+      "annual_price": 416.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited calling & texting for all users",
+        "Team inboxes",
+        "Call reporting",
+        "Enhanced support & training",
+        "Personalized onboarding"
+      ],
+      "limits": {
+        "users": "10 included, $49/month for additional users",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Platform",
+      "tier_description": "Advanced team management and priority support for large teams.",
+      "monthly_price": 1000.0,
+      "annual_price": 833.0,
+      "annual_discount_percentage": 16.7,
+      "setup_fee": null,
+      "features": [
+        "Teams within teams",
+        "Enhanced onboarding",
+        "Dedicated Success Manager",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "30 included, $20/month for additional users",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:10:10.671176",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7890bdb0-fc89-4196-b915-0516150c50b8",
+    "name": "Follow Up Boss",
+    "slug": "follow-up-boss",
+    "description": "Simple lead management software for real estate agents and brokers. Follow Up Boss takes all your leads and puts them in one simple system automatically. Helps you to respond fast and convert more leads into closings.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/f7514229ad39b31741830281a5e458e8.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 14,
+    "trigger_count": 5
+  }
+}

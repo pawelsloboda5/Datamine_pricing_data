@@ -1,0 +1,173 @@
+{
+  "app_id": "synthesia",
+  "app_name": "Synthesia",
+  "app_slug": "synthesia",
+  "pricing_url": null,
+  "source_url": "https://www.synthesia.io/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription plans with varying features and usage limits. Additional paid add-ons are available for certain features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Basic plan for individual users.",
+      "monthly_price": 30.0,
+      "annual_price": 300.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "3 minutes of video per month",
+        "9 AI avatars",
+        "Basic commenting features"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Video minutes per month",
+            "value": 3
+          },
+          {
+            "name": "AI avatars",
+            "value": 9
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Creator",
+      "tier_description": "Enhanced plan for creators.",
+      "monthly_price": 90.0,
+      "annual_price": 900.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "10 minutes of video per month",
+        "125+ AI avatars",
+        "Advanced commenting features"
+      ],
+      "limits": {
+        "users": 4,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Video minutes per month",
+            "value": 10
+          },
+          {
+            "name": "AI avatars",
+            "value": "125+"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited video minutes",
+        "230+ AI avatars",
+        "Custom branding and templates"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Video minutes per month",
+            "value": "unlimited"
+          },
+          {
+            "name": "AI avatars",
+            "value": "230+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Video minutes",
+      "unit": "per minute",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 360.0,
+          "price": null
+        },
+        {
+          "min": 361.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Studio Express-1 Avatar",
+      "fee_amount": 1000.0,
+      "fee_description": "Annual fee for creating Studio Express-1 avatars."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:44:22.632132",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "aa90bfa1-1076-4a58-8fd0-65a7f1edc19a",
+    "name": "Synthesia",
+    "slug": "synthesia",
+    "description": "Video drives action. Now you can automatically enrich all your transactional emails with personalized videos from Synthesia.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/e2bebbf59017e51011777b31ca4d166a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools",
+      "Video & Audio"
+    ],
+    "category_slugs": [
+      "ai-tools",
+      "video"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

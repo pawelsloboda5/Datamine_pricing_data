@@ -1,0 +1,124 @@
+{
+  "app_name": "ServeManager",
+  "app_slug": "servemanager",
+  "search_term": "Find the official pricing page URL for ServeManager (servemanager.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744724358.996457,
+  "response_text": [
+    "The official pricing page for ServeManager can be found at: [https://www.servemanager.com/pricing](https://www.servemanager.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing for ServeManager - Software for Process Servers",
+      "url": "https://www.servemanager.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.servemanager.com/pricing",
+      "is_accessible": true,
+      "content": "Pricing for ServeManager - Software for Process Servers\n===============\n                         \n\n[](https://www.servemanager.com/pricing#)\n\n[![Image 2](https://www.servemanager.com/assets/external/servemanager_header_logo-ea291d875b1e7b5c59197c25e2e561980abdce4230102876c613418c4d2246b9.svg)](https://www.servemanager.com/)\n\n[Features](https://www.servemanager.com/) [Pricing](https://www.servemanager.com/#a_pricing) [Contact](https://www.servemanager.com/contact/new) [Login](https://www.servemanager.com/login) [Try for Free](https://www.servemanager.com/registrations/new)\n\n[](https://www.servemanager.com/login)\n\n[Features](https://www.servemanager.com/) [Pricing](https://www.servemanager.com/#a_pricing) [Contact](https://www.servemanager.com/contact/new) [Help Center](https://support.servemanager.com/) [Login](https://www.servemanager.com/login) [Try for Free](https://www.servemanager.com/registrations/new)\n\nStart your free trial now, pick a plan later\n============================================\n\nTry ServeManager free for 14 days. No credit card required.\n\n75 jobs\n\n$49.99/mo\n\n* * *\n\n150 jobs\n\n$98.99/mo\n\n* * *\n\n300 jobs\n\n$183.99/mo\n\n* * *\n\n500+ jobs\n\n[Contact us](https://www.servemanager.com/contact/new?category=subscription&subject=Subscription+inquiry) for details\n\n[Try ServeManager for Free](https://www.servemanager.com/registrations/new)\n\n### ![Image 3](https://www.servemanager.com/assets/external/servemanager_footer_logo-1447febc040ae54a2b926628d9372ba654321ce964a99a62773e2acd5593a595.svg)  \nThe Software  \nfor Process Servers\n\n#### Software\n\n*   [Features](https://www.servemanager.com/)\n*   [Pricing](https://www.servemanager.com/#a_pricing)\n*   [Try for Free](https://www.servemanager.com/registrations/new)\n*   [Login](https://www.servemanager.com/login)\n*   [Support](https://support.servemanager.com/)\n*   [Contact](https://www.servemanager.com/contact/new)\n\n#### Resources\n\n*   [FAQ](https://www.servemanager.com/pages/faq)\n*   [Help Center](https://support.servemanager.com/)\n*   [Video Guide](https://support.servemanager.com/video-guide/)\n*   [Security & Backups](https://www.servemanager.com/pages/security)\n*   [Integrations](https://www.servemanager.com/pages/zapier)\n*   [Developer API](https://www.servemanager.com/api)\n*   [Hire a Process Server](https://order.processservers.com/)\n\n#### Company\n\n*   [Meet the Team](https://www.servemanager.com/pages/meet-the-team)\n*   [Blog](https://www.servemanager.com/blog)\n*   [Privacy](https://www.servemanager.com/pages/privacy-policy)\n*   [Terms](https://www.servemanager.com/pages/terms)\n\n#### Support\n\n*   [Help Center](https://support.servemanager.com/)\n*   [Contact Us](https://www.servemanager.com/contact/new)\n*   Tel: (800) 280-4400\n\n[![Image 4](https://www.servemanager.com/assets/external/servemanager_footer_logo-1447febc040ae54a2b926628d9372ba654321ce964a99a62773e2acd5593a595.svg)](https://www.servemanager.com/)\n\n*   [](https://www.facebook.com/servemanager)\n*   [](https://twitter.com/ServeManager)\n*   [](https://www.instagram.com/servemanager/)\n*   [](https://feeds.lawgical.com/v1/feeds/10)\n\n\u00a9 Copyright 2025 ServeManager.  \nAll\u00a0rights\u00a0reserved.\n\nTry ServeManager for free. No long term contracts.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "servemanager",
+        "app_name": "ServeManager",
+        "app_slug": "servemanager",
+        "pricing_url": "https://www.servemanager.com/pricing#",
+        "source_url": "https://www.servemanager.com/pricing#",
+        "all_pricing_urls": [
+          "https://www.servemanager.com/pricing#"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": null,
+        "pricing_tiers": [
+          {
+            "tier_name": "75 jobs",
+            "tier_description": null,
+            "monthly_price": 49.99,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": null,
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": 75,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "150 jobs",
+            "tier_description": null,
+            "monthly_price": 98.99,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": null,
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": 150,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "300 jobs",
+            "tier_description": null,
+            "monthly_price": 183.99,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": null,
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": 300,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "500+ jobs",
+            "tier_description": "Contact us for details",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": null,
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": "500+",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:39:26.332894",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\servemanager\\20250415_093926"
+}

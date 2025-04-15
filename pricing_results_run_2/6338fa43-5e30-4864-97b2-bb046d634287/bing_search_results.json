@@ -1,0 +1,12 @@
+{
+  "app_name": "StreetText",
+  "app_slug": "street-text",
+  "search_term": "Find the official pricing page URL for StreetText (street-text.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744704350.7291696,
+  "response_text": [
+    "I couldn't find the specific pricing page on the StreetText website. You might want to visit their site directly or contact their support for details."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\street-text\\20250415_040551"
+}

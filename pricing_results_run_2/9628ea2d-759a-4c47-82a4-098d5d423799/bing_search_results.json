@@ -1,0 +1,60 @@
+{
+  "app_name": "MySQL",
+  "app_slug": "mysql",
+  "search_term": "Find the official pricing page URL for MySQL (mysql.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744707018.810574,
+  "response_text": [
+    "The official URL for MySQL pricing information is: [https://www.mysql.com/products/](https://www.mysql.com/products/)\u30103:1\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "MySQL Products",
+      "url": "https://www.mysql.com/products/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.mysql.com/products/",
+      "is_accessible": true,
+      "content": "MySQL :: MySQL Products\n===============\n            \n\n[Skip to Main Content](https://www.mysql.com/products/#main)\n\n[](https://www.mysql.com/ \"MySQL\")\n\nThe world's most popular open source database\n\n \n\n[**Contact MySQL**](https://www.mysql.com/about/contact/) \u00a0|\u00a0  \n[Login](https://www.mysql.com/auth/login/?dest=https%3A%2F%2Fwww.mysql.com%2Fproducts%2F) \u00a0|\u00a0 [Register](https://www.mysql.com/auth/register/)\n\n*   [MySQL.com](https://www.mysql.com/)\n*   [Downloads](https://www.mysql.com/downloads/)\n*   [Documentation](https://dev.mysql.com/doc/)\n*   [Developer Zone](https://dev.mysql.com/)\n\n[](http://www.facebook.com/mysql \"Join us on Facebook\")[](https://x.com/mysql \"Follow us on X\")[](https://www.linkedin.com/company/mysql \"Follow us on LinkedIn\")[](http://www.youtube.com/mysqlchannel \"Visit our YouTube channel\")\n\n[Developer Zone](https://dev.mysql.com/) [Documentation](https://dev.mysql.com/doc/) [Downloads](https://www.mysql.com/downloads/)\n\n[MySQL.com](https://www.mysql.com/)\n\n*   [Products](https://www.mysql.com/products/)\n*   [Services](https://www.mysql.com/services/)\n*   [Partners](https://www.mysql.com/partners/)\n*   [Customers](https://www.mysql.com/customers/)\n*   [Why MySQL?](https://www.mysql.com/why-mysql/)\n*   [News & Events](https://www.mysql.com/news-and-events/web-seminars/)\n*   [How to Buy](https://www.mysql.com/buy-mysql/)\n*   [Downloads](https://www.mysql.com/downloads/)\n*   [Documentation](https://dev.mysql.com/doc/)\n*   [Developer Zone](https://dev.mysql.com/)\n\nSection Menu: \u00a0\n\n*   [HeatWave](https://www.mysql.com/products/heatwave/)\n*   [MySQL Enterprise Edition](https://www.mysql.com/products/enterprise/)\n*   [MySQL Standard Edition](https://www.mysql.com/products/standard/)\n*   [MySQL Classic Edition](https://www.mysql.com/products/classic/)\n*   [MySQL NDB Cluster CGE](https://www.mysql.com/products/cluster/)\n*   [MySQL Embedded (OEM/ISV)](https://www.mysql.com/oem/)\n\n  \n\nMySQL Products\n==============\n\nCloud\n-----\n\nHeatwave for GenAI and ML in one cloud service for transactions and lakehouse scale analytics.\n\n[Learn More](https://www.mysql.com/products/heatwave/)\n\nSoftware\n--------\n\nMySQL Enterprise Edition for delivering business-critical, enterprise database applications.\n\n[Learn More](https://www.mysql.com/products/enterprise/)\n\nEmbedded\n--------\n\nMySQL Enterprise Edition for ISVs, OEMs and VARs who want a proven, low cost, embedded database.\n\n[Learn More](https://www.mysql.com/oem/)\n\n**Contact MySQL Sales**  \nUSA/Canada: +1-866-221-0634 \u00a0 ([More Countries \u00bb](https://www.mysql.com/about/contact/phone/))\n\n[](http://www.oracle.com/ \"Oracle\")\u00a0 [\u00a9 2025 Oracle](https://www.oracle.com/legal/copyright.html)\n\n[](http://www.facebook.com/mysql \"Join us on Facebook\")[](https://x.com/mysql \"Follow us on X\")[](https://www.linkedin.com/company/mysql \"Follow us on LinkedIn\")[](http://www.youtube.com/mysqlchannel \"Visit our YouTube channel\")\n\n  \n\n*   [Products](https://www.mysql.com/products/)\n*   [HeatWave](https://www.mysql.com/products/heatwave/)\n*   [MySQL Enterprise Edition](https://www.mysql.com/products/enterprise/)\n*   [MySQL Standard Edition](https://www.mysql.com/products/standard/)\n*   [MySQL Classic Edition](https://www.mysql.com/products/classic/)\n*   [MySQL Cluster CGE](https://www.mysql.com/products/cluster/)\n*   [MySQL Embedded (OEM/ISV)](https://www.mysql.com/oem/)\n\n*   [Services](https://www.mysql.com/services/)\n*   [Training](https://www.mysql.com/training/)\n*   [Certification](https://www.mysql.com/certification/)\n*   [Support](https://www.mysql.com/support/)\n\n*   [Downloads](https://www.mysql.com/downloads/)\n*   [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)\n*   [MySQL NDB Cluster](https://dev.mysql.com/downloads/cluster/)\n*   [MySQL Shell](https://dev.mysql.com/downloads/shell/)\n*   [MySQL Router](https://dev.mysql.com/downloads/router/)\n*   [MySQL Workbench](https://dev.mysql.com/downloads/workbench/)\n\n*   [Documentation](https://dev.mysql.com/doc/)\n*   [MySQL Reference Manual](https://dev.mysql.com/doc/refman/en/)\n*   [MySQL Workbench](https://dev.mysql.com/doc/workbench/en/)\n*   [MySQL NDB Cluster](https://dev.mysql.com/doc/index-cluster.html)\n*   [MySQL Connectors](https://dev.mysql.com/doc/index-connectors.html)\n*   [Topic Guides](https://dev.mysql.com/doc/#topic)\n\n*   [About MySQL](https://www.mysql.com/about/)\n*   [Contact Us](https://www.mysql.com/about/contact/)\n*   [Blogs](https://blogs.oracle.com/mysql/)\n*   [How to Buy](https://www.mysql.com/buy-mysql/)\n*   [Partners](https://www.mysql.com/partners/)\n*   [Job Opportunities](https://www.mysql.com/about/jobs/)\n*   [Site Map](https://www.mysql.com/sitemap.html)\n\nEnglish \u00a0 ( [Deutsch](https://www.mysql.com/de/products/) | [Fran\u00e7ais](https://www.mysql.com/fr/products/) | [Italiano](https://www.mysql.com/it/products/) | [\u65e5\u672c](https://www.mysql.com/jp/products/) | [\u4e2d\u6587](https://www.mysql.com/cn/products/) )\n\n[](http://www.oracle.com/ \"Oracle\")\u00a0 [\u00a9 2025 Oracle](https://www.oracle.com/legal/copyright.html)\n\n[Privacy](https://www.oracle.com/legal/privacy/) / [Do Not Sell My Info](https://www.oracle.com/legal/privacy/privacy-choices.html) | [Terms of Use](https://www.oracle.com/us/legal/terms/index.html) | [Trademark Policy](https://www.oracle.com/us/legal/third-party-trademarks/index.html) |\n\nCookie Preferences\n\n \n\n\u00a0[Live Sales Chat](javascript:void(0);)\n\n![Image 1](https://sc-oal-en.widget.custhelp.com/euf/assets/images/orcl_logo.png)\n\nA Chat Assistant is available to help. Would you like to start the session?\n\n![Image 2: Helpful person waiting to chat with you](https://sc-oal-en.widget.custhelp.com/euf/assets/images/chat.jpg)\n\nYesNo\n\nDo not ask again\n\n[Close](https://www.mysql.com/products/#)\n\n[](https://www.mysql.com/products/#close)[Start chat](https://www.mysql.com/products/#saleschat)\n\n*   [](https://www.mysql.com/products/#)\n\n[](https://www.mysql.com/products/#closemodal)[](https://www.mysql.com/products/#minimize)\n\n**Sales Chat[](https://www.mysql.com/products/#saleschat)**[Considering a purchase?](https://www.mysql.com/products/#saleschat)[Start chat](https://www.mysql.com/products/#saleschat)\n\n**MySQL Support Options[](https://www.mysql.com/support/)**[Have a support request?](https://www.mysql.com/support/)[View support options](https://www.mysql.com/support/)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "mysql",
+        "app_name": "MySQL",
+        "app_slug": "mysql",
+        "pricing_url": "https://www.mysql.com/products/",
+        "source_url": "https://www.mysql.com/products/",
+        "all_pricing_urls": [
+          "https://www.mysql.com/products/",
+          "https://www.mysql.com/products/enterprise/",
+          "https://www.mysql.com/products/standard/",
+          "https://www.mysql.com/products/classic/",
+          "https://www.mysql.com/products/cluster/",
+          "https://www.mysql.com/oem/"
+        ],
+        "price_model_type": [
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing details are not explicitly listed on the website and require contacting sales for a quote.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T04:50:31.213589",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\mysql\\20250415_045031"
+}

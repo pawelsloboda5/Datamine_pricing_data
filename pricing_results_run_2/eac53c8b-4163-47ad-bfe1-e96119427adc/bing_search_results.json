@@ -1,0 +1,12 @@
+{
+  "app_name": "Apollo",
+  "app_slug": "apollo",
+  "search_term": "Find the official pricing page URL for Apollo (apollo.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744708544.634778,
+  "response_text": [
+    "I couldn't find the official pricing page for Apollo. Let me know if you need assistance searching differently or clarifying further."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\apollo\\20250415_051544"
+}

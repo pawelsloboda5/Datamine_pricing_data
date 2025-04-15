@@ -1,0 +1,12 @@
+{
+  "app_name": "ZeroBounce",
+  "app_slug": "zerobounce",
+  "search_term": "Find the official pricing page URL for ZeroBounce (zerobounce.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744690394.7251866,
+  "response_text": [
+    "Currently unable to find ZeroBounce pricing page data if live search was queried."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\zerobounce\\20250415_001315"
+}

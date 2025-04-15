@@ -1,0 +1,12 @@
+{
+  "app_name": "Formatter by Zapier",
+  "app_slug": "formatter",
+  "search_term": "Find the official pricing page URL for Formatter by Zapier (formatter.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744686382.8735886,
+  "response_text": [
+    "I couldn't find an official pricing page for Formatter by Zapier (formatter.com); consider checking the site's detailed navigation or contacting support."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\formatter\\20250414_230623"
+}

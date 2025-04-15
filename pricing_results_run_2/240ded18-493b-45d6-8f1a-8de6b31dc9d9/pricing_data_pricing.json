@@ -1,0 +1,140 @@
+{
+  "app_id": "telnyx",
+  "app_name": "Telnyx",
+  "app_slug": "telnyx",
+  "pricing_url": "https://telnyx.com/pricing",
+  "source_url": "https://telnyx.com/pricing",
+  "all_pricing_urls": [
+    "https://telnyx.com/pricing",
+    "https://telnyx.com/pricing/messaging",
+    "https://telnyx.com/pricing/elastic-sip",
+    "https://telnyx.com/pricing/call-control",
+    "https://telnyx.com/pricing/numbers",
+    "https://telnyx.com/pricing/video-api",
+    "https://telnyx.com/pricing/number-lookup",
+    "https://telnyx.com/pricing/verify-api",
+    "https://telnyx.com/pricing/fax",
+    "https://telnyx.com/pricing/iot-data-plans",
+    "https://telnyx.com/pricing/networking",
+    "https://telnyx.com/pricing/global-edge-router",
+    "https://telnyx.com/pricing/storage",
+    "https://telnyx.com/pricing/inference-api"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Telnyx offers usage-based pricing with automatic discounts as usage scales. Volume-based pricing is available through direct sales engagement.",
+  "pricing_tiers": null,
+  "usage_based_pricing": [
+    {
+      "metric_name": "Messaging API",
+      "unit": "per message",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "SIP Trunking",
+      "unit": "per call",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Voice API",
+      "unit": "per call",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Global Numbers",
+      "unit": "per number",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Video API",
+      "unit": "per video session",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Number Lookup API",
+      "unit": "per lookup",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Verify API",
+      "unit": "per verification",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Fax API",
+      "unit": "per fax",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "IoT SIM Card",
+      "unit": "per data usage",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Programmable Networking",
+      "unit": "per network operation",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Global Edge Router",
+      "unit": "per routing operation",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Cloud Storage",
+      "unit": "per storage unit",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Inference API",
+      "unit": "per inference operation",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:00:54.146539",
+  "schema_validated": true,
+  "confidence_score": 70,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "240ded18-493b-45d6-8f1a-8de6b31dc9d9",
+    "name": "Telnyx",
+    "slug": "telnyx",
+    "description": "Telnyx is a full-featured global communications platform with an SMS API built for reliable, enterprise-grade messaging on a secure network.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/dbb4370989d643764687b608073d0828.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 5
+  }
+}

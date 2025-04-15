@@ -1,0 +1,86 @@
+{
+  "app_id": "woocommerce",
+  "app_name": "WooCommerce",
+  "app_slug": "woocommerce",
+  "pricing_url": "https://woocommerce.com/",
+  "source_url": "https://woocommerce.com",
+  "all_pricing_urls": [
+    "https://woocommerce.com/"
+  ],
+  "price_model_type": [
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.ONE_TIME"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "WooCommerce offers a free tier for its base platform, with additional paid extensions and services available.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Base WooCommerce platform",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic ecommerce functionality",
+        "Integration with WordPress"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Paid Extensions",
+      "tier_description": "Additional functionalities through extensions",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced ecommerce features",
+        "Custom integrations",
+        "Marketing tools"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:09:47.473751",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9028249c-fda9-49a8-a16b-9538303944d8",
+    "name": "WooCommerce",
+    "slug": "woocommerce",
+    "description": "WooCommerce is the eCommerce platform for WordPress. This connection requires a paid extension.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/71caadc702b04522a1ff7eb057a0af84.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce",
+      "WordPress"
+    ],
+    "category_slugs": [
+      "ecommerce",
+      "wordpress"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 34,
+    "trigger_count": 10
+  }
+}

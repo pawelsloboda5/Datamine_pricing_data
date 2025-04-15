@@ -1,0 +1,45 @@
+{
+  "app_id": "mapmyfitness",
+  "app_name": "MapMyFitness",
+  "app_slug": "mapmyfitness",
+  "pricing_url": null,
+  "source_url": "https://support.mapmyfitness.com",
+  "all_pricing_urls": [
+    "https://support.mapmyfitness.com/hc/en-us"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "No specific pricing information was found in the provided content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:56:43.878343",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e9685819-e16a-42e5-9953-9c0e115f79b0",
+    "name": "MapMyFitness",
+    "slug": "mapmyfitness",
+    "description": "Your workout, your device, anywhere, anytime. Plan, track, analyze and share your journey with MapMyFitness.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/5892e0c37c26869de7447e42f9d72665.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fitness"
+    ],
+    "category_slugs": [
+      "fitness"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

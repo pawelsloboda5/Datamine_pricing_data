@@ -1,0 +1,226 @@
+{
+  "app_id": "hyros",
+  "app_name": "Hyros",
+  "app_slug": "hyros",
+  "pricing_url": "https://hyros.com/pricing.html",
+  "source_url": "https://hyros.com/pricing.html",
+  "all_pricing_urls": [
+    "https://hyros.com/pricing.html"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is customized based on tracked monthly revenue and agency-specific arrangements.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Business - Up to $20k Revenue",
+      "tier_description": "For businesses with up to $20k tracked monthly revenue.",
+      "monthly_price": 230.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full VIP support",
+        "All HYROS functionality",
+        "1 to 1 analyst support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Tracked Monthly Revenue",
+            "value": "Up to $20k"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business - Up to $40k Revenue",
+      "tier_description": "For businesses with up to $40k tracked monthly revenue.",
+      "monthly_price": 353.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full VIP support",
+        "All HYROS functionality",
+        "1 to 1 analyst support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Tracked Monthly Revenue",
+            "value": "Up to $40k"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business - Up to $83k Revenue",
+      "tier_description": "For businesses with up to $83k tracked monthly revenue.",
+      "monthly_price": 583.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full VIP support",
+        "All HYROS functionality",
+        "1 to 1 analyst support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Tracked Monthly Revenue",
+            "value": "Up to $83k"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business - Up to $250k Revenue",
+      "tier_description": "For businesses with up to $250k tracked monthly revenue.",
+      "monthly_price": 999.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full VIP support",
+        "All HYROS functionality",
+        "1 to 1 analyst support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Tracked Monthly Revenue",
+            "value": "Up to $250k"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business - Up to $750k Revenue",
+      "tier_description": "For businesses with up to $750k tracked monthly revenue.",
+      "monthly_price": 1499.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full VIP support",
+        "All HYROS functionality",
+        "1 to 1 analyst support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Tracked Monthly Revenue",
+            "value": "Up to $750k"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business - Up to $2M Revenue",
+      "tier_description": "For businesses with up to $2M tracked monthly revenue.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full VIP support",
+        "All HYROS functionality",
+        "1 to 1 analyst support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Tracked Monthly Revenue",
+            "value": "Up to $2M"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Agency",
+      "tier_description": "Customized pricing for agencies based on client volume.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 40% commissions",
+        "Exclusive access",
+        "Special offers for clients"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:33:33.833976",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "eb5ab17a-d799-4c40-894d-006ab2c54fb7",
+    "name": "Hyros",
+    "slug": "hyros",
+    "description": "HYROS makes profitable action clear for high end digital businesses with laser accurate sales attribution tracking.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/fc42e36bd4cec3bbe70bd92c32b256b9.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Ads & Conversion"
+    ],
+    "category_slugs": [
+      "ads-conversion"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 1
+  }
+}

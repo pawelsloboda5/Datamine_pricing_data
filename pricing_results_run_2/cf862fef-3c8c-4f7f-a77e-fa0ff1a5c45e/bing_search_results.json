@@ -1,0 +1,19 @@
+{
+  "app_name": "Ticket Tailor",
+  "app_slug": "ticket-tailor",
+  "search_term": "Find the official pricing page URL for Ticket Tailor (ticket-tailor.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744711928.057298,
+  "response_text": [
+    "The official pricing page URL for Ticket Tailor is: [https://www.ticket-tailor.com/pricing/](https://www.ticket-tailor.com/pricing/) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.ticket-tailor.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\ticket-tailor\\20250415_061208"
+}

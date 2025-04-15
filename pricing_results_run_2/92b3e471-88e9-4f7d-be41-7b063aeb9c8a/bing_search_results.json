@@ -1,0 +1,19 @@
+{
+  "app_name": "Freshservice",
+  "app_slug": "freshservice",
+  "search_term": "Find the official pricing page URL for Freshservice (freshservice.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744690543.6004953,
+  "response_text": [
+    "I couldn't find the exact URL for the official pricing page for Freshservice. You can visit their [website](https://freshservice.com) and navigate to the pricing section directly. Let me know if you need further assistance searching!"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://freshservice.com",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\freshservice\\20250415_001559"
+}

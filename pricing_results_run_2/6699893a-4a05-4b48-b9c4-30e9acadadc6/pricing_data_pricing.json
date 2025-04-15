@@ -1,0 +1,270 @@
+{
+  "app_id": "callrail",
+  "app_name": "CallRail",
+  "app_slug": "callrail",
+  "pricing_url": "https://www.callrail.com/pricing",
+  "source_url": "https://www.callrail.com/pricing",
+  "all_pricing_urls": [
+    "https://www.callrail.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes base fees and additional usage charges for exceeding included limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Call Tracking + AI",
+      "tier_description": "Track, transcribe, and analyze calls with AI for greater marketing insights.",
+      "monthly_price": 50.0,
+      "annual_price": 540.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "5 numbers and 250 minutes",
+        "Call & text tracking and attribution",
+        "Call recording and routing",
+        "250 call transcription minutes",
+        "Keyword analysis",
+        "Automation rules"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Local numbers",
+            "value": 5
+          },
+          {
+            "name": "Local minutes",
+            "value": 250
+          },
+          {
+            "name": "Text messages",
+            "value": 25
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Total Lead Tracking + AI",
+      "tier_description": "Attribute calls and forms to marketing sources. Analyze conversations with AI.",
+      "monthly_price": 95.0,
+      "annual_price": 1026.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Call Tracking + AI",
+        "Form tracking and attribution",
+        "Custom form builder",
+        "Form submission automation rules",
+        "Multi-touch attribution",
+        "Cost-per-lead report"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Local numbers",
+            "value": 5
+          },
+          {
+            "name": "Local minutes",
+            "value": 250
+          },
+          {
+            "name": "Text messages",
+            "value": 25
+          },
+          {
+            "name": "Form submissions",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Call Tracking + Premium AI",
+      "tier_description": "Track and analyze calls, plus unlock richer lead insights with Premium AI.",
+      "monthly_price": 130.0,
+      "annual_price": 1404.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Call Tracking + AI",
+        "10,000 call transcription minutes",
+        "Call sentiment analysis",
+        "Conversation summaries",
+        "AI-generated attribution insights",
+        "Weekly conversation trend reports"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Local numbers",
+            "value": 5
+          },
+          {
+            "name": "Local minutes",
+            "value": 250
+          },
+          {
+            "name": "Text messages",
+            "value": 25
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Complete Suite",
+      "tier_description": "Gain complete insight into every lead and conversation with one AI solution.",
+      "monthly_price": 175.0,
+      "annual_price": 1890.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Call Tracking + AI",
+        "Premium Conversation Intelligence",
+        "Form Tracking",
+        "10,000 call transcription minutes",
+        "Call summaries & sentiment analysis",
+        "AI-generated attribution insights",
+        "Weekly conversation trend reports",
+        "Form submission automation rules",
+        "Custom form builder",
+        "Multi-touch attribution",
+        "Cost-per-lead report"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Local numbers",
+            "value": 5
+          },
+          {
+            "name": "Local minutes",
+            "value": 250
+          },
+          {
+            "name": "Text messages",
+            "value": 25
+          },
+          {
+            "name": "Form submissions",
+            "value": 1000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Local numbers",
+      "unit": "per number",
+      "base_price": 3.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Local minutes",
+      "unit": "per minute",
+      "base_price": 0.05,
+      "tiers": null
+    },
+    {
+      "metric_name": "Toll-free numbers",
+      "unit": "per number",
+      "base_price": 5.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Toll-free minutes",
+      "unit": "per minute",
+      "base_price": 0.08,
+      "tiers": null
+    },
+    {
+      "metric_name": "Text messages",
+      "unit": "per message",
+      "base_price": 0.03,
+      "tiers": null
+    },
+    {
+      "metric_name": "Form submissions",
+      "unit": "per submission",
+      "base_price": 0.02,
+      "tiers": null
+    },
+    {
+      "metric_name": "Call transcription minutes",
+      "unit": "per minute",
+      "base_price": 0.025,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Save up to 10% with a yearly plan",
+      "discount_percentage": 10.0,
+      "offer_url": "https://www.callrail.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:33:27.909037",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6699893a-4a05-4b48-b9c4-30e9acadadc6",
+    "name": "CallRail",
+    "slug": "callrail",
+    "description": "CallRail is an analytics platform designed for those who rely on quality calls and inbound leads to measure success.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/f9def5f20c0b6efc36e7f593ceb7572c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Call Tracking"
+    ],
+    "category_slugs": [
+      "call-tracking"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 12
+  }
+}

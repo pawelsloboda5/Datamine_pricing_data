@@ -1,0 +1,12 @@
+{
+  "app_name": "Steady",
+  "app_slug": "steady",
+  "search_term": "Find the official pricing page URL for Steady (steady.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744718386.133141,
+  "response_text": [
+    "I was unable to find an official pricing page for Steady on their website. Let me know if you need further assistance."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\steady\\20250415_075946"
+}

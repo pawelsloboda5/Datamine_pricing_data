@@ -1,0 +1,12 @@
+{
+  "app_name": "Delay by Zapier",
+  "app_slug": "delay",
+  "search_term": "Find the official pricing page URL for Delay by Zapier (delay.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744718313.5812147,
+  "response_text": [
+    "I couldn't locate an official pricing page for Delay by Zapier on their website. You might need to check directly on delay.com for further details."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\delay\\20250415_075833"
+}

@@ -1,0 +1,19 @@
+{
+  "app_name": "Sprout Studio",
+  "app_slug": "sprout-studio",
+  "search_term": "Find the official pricing page URL for Sprout Studio (sprout-studio.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744690860.553988,
+  "response_text": [
+    "I couldn't find the official pricing page for Sprout Studio on its website. You may need to navigate directly at [sprout-studio.com](https://sprout-studio.com) for further details."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://sprout-studio.com",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\sprout-studio\\20250415_002106"
+}

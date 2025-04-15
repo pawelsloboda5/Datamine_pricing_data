@@ -1,0 +1,178 @@
+{
+  "app_id": "parseur",
+  "app_name": "Parseur",
+  "app_slug": "parseur",
+  "pricing_url": "https://parseur.com/pricing",
+  "source_url": "https://parseur.com/pricing",
+  "all_pricing_urls": [
+    "https://parseur.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on a combination of subscription tiers and usage volume, with a free tier available.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free tier",
+      "tier_description": "Take Parseur for a spin. See what it can do.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "AI parsing engine",
+        "Template parsing engine"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "90 days",
+        "operations": 20,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Pages processed per month",
+            "value": "Up to 20 pages"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Base tier",
+      "tier_description": "Our range of entry plans. Start automating your extractions.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "AI parsing engine",
+        "Template parsing engine"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "1 year",
+        "operations": 3000,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Pages processed per month",
+            "value": "Up to 3,000 pages"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Scale tier",
+      "tier_description": "Our range of heavy-duty plans. Lowest cost per page.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "AI parsing engine",
+        "Template parsing engine",
+        "Advanced post processing"
+      ],
+      "limits": {
+        "users": 100,
+        "storage": "unlimited",
+        "operations": 1000000,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Pages processed per month",
+            "value": "Up to 1 million pages"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise tier",
+      "tier_description": "Custom plans for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "AI parsing engine",
+        "Template parsing engine",
+        "Advanced post processing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 10000000,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Pages processed per month",
+            "value": "Up to 10 million pages"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Pages processed",
+      "unit": "per page",
+      "base_price": 0.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 20.0,
+          "price": 0.0
+        },
+        {
+          "min": 21.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "3 months free",
+      "offer_description": "Get 3 months free on any plan.",
+      "discount_percentage": null,
+      "offer_url": "https://parseur.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:58:24.934306",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "834f9305-4090-4351-b4ea-8a66b6003804",
+    "name": "Parseur",
+    "slug": "parseur",
+    "description": "Send documents such as emails, PDFs and spreadsheets to your custom Parseur mailbox and extract any data.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/fc52dd5d7cdcbdc08480f6e04c80f8c4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Documents"
+    ],
+    "category_slugs": [
+      "documents"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 5
+  }
+}

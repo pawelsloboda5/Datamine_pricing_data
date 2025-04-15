@@ -1,0 +1,46 @@
+{
+  "app_name": "Contractor Foreman",
+  "app_slug": "contractor-foreman",
+  "search_term": "Find the official pricing page URL for Contractor Foreman (contractor-foreman.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688903.5460088,
+  "response_text": [
+    "The official pricing page URL for Contractor Foreman is: [https://www.contractor-foreman.com/pricing](https://www.contractor-foreman.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.contractor-foreman.com/pricing",
+      "is_accessible": true,
+      "content": "This page isn\u2019t working\n-----------------------\n\n**www.contractor-foreman.com** is currently unable to handle this request.\n\nHTTP ERROR 500\n\n**www.contractor-foreman.com** is currently unable to handle this request.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "contractor_foreman",
+        "app_name": "Contractor Foreman",
+        "app_slug": "contractor-foreman",
+        "pricing_url": null,
+        "source_url": "http://www.contractor-foreman.com",
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page was inaccessible due to an HTTP 500 error, preventing extraction of detailed pricing information.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:48:30.412406",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": true,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\contractor-foreman\\20250414_234830"
+}

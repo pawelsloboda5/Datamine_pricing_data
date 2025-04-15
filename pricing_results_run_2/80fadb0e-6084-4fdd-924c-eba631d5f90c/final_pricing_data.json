@@ -1,0 +1,148 @@
+{
+  "app_id": "honeybook",
+  "app_name": "HoneyBook",
+  "app_slug": "honeybook",
+  "pricing_url": "https://www.honeybook.com/pricing",
+  "source_url": "https://www.honeybook.com/pricing",
+  "all_pricing_urls": [
+    "https://www.honeybook.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a discount equivalent to 2 months free.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Start with everything you need to create great client experiences.",
+      "monthly_price": 29.0,
+      "annual_price": 348.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited clients and projects",
+        "Invoices and payments",
+        "Proposals and contracts",
+        "Calendar sync",
+        "Professional templates",
+        "Client portal",
+        "Basic reports",
+        "Up to 2 live lead forms"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Grow with added productivity and automation tools.",
+      "monthly_price": 49.0,
+      "annual_price": 588.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Scheduler",
+        "Automations",
+        "QuickBooks Online integration",
+        "Up to 2 team members",
+        "Up to 10 live lead forms",
+        "SMS reminders",
+        "Remove 'Powered by HoneyBook' branding",
+        "Standard reports",
+        "HoneyBook AI"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Scale up with priority support for your whole team.",
+      "monthly_price": 109.0,
+      "annual_price": 1308.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited team members",
+        "Priority support",
+        "Multiple companies",
+        "Advanced reports",
+        "Unlimited live lead forms",
+        "HoneyBook AI"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Enjoy 2 months free on annual plans.",
+      "discount_percentage": 16.67,
+      "offer_url": "https://www.honeybook.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Sales Tax",
+      "fee_amount": null,
+      "fee_description": "Applicable sales tax calculated based on your address."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:17:20.978325",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "80fadb0e-6084-4fdd-924c-eba631d5f90c",
+    "name": "HoneyBook",
+    "slug": "honeybook",
+    "description": "HoneyBook is the leading client-flow platform independent businesses use to showcase services, book clients, manage projects, and get paid.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/0a6a3a34423163a3221ce29f33378a27.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 4
+  }
+}

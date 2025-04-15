@@ -1,0 +1,181 @@
+{
+  "app_id": "meistertask",
+  "app_name": "MeisterTask",
+  "app_slug": "meistertask",
+  "pricing_url": null,
+  "source_url": "https://www.meistertask.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing details include a free tier and multiple subscription plans with varying features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic access with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited tasks",
+        "Up to 5 notes",
+        "Up to 3 projects",
+        "20 MB attachment size",
+        "7 days version history",
+        "Basic templates",
+        "Mobile and desktop apps",
+        "Basic integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "limited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "limited",
+        "custom_limits": [
+          {
+            "name": "Notes",
+            "value": 5
+          },
+          {
+            "name": "Projects",
+            "value": 3
+          },
+          {
+            "name": "Attachment size",
+            "value": "20 MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Enhanced features for individual users.",
+      "monthly_price": 8.25,
+      "annual_price": 99.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited tasks",
+        "Unlimited notes",
+        "Unlimited projects",
+        "200 MB attachment size",
+        "30 days version history",
+        "Advanced templates",
+        "Mobile and desktop apps",
+        "Advanced integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Attachment size",
+            "value": "200 MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Advanced features for teams.",
+      "monthly_price": 20.75,
+      "annual_price": 249.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited tasks",
+        "Unlimited notes",
+        "Unlimited projects",
+        "200 MB attachment size",
+        "Unlimited version history",
+        "Advanced templates",
+        "Mobile and desktop apps",
+        "Advanced integrations",
+        "Team collaboration tools"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Attachment size",
+            "value": "200 MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom solutions for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited tasks",
+        "Unlimited notes",
+        "Unlimited projects",
+        "200 MB attachment size",
+        "Unlimited version history",
+        "Advanced templates",
+        "Mobile and desktop apps",
+        "Advanced integrations",
+        "Enterprise-grade collaboration tools"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Attachment size",
+            "value": "200 MB"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:02:00.580652",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a1674972-dd70-423b-8aba-a8fec832bcf7",
+    "name": "MeisterTask",
+    "slug": "meistertask",
+    "description": "MeisterTask is an incredibly intuitive online task manager that uses smart integrations and task automations to make your team more productive.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/d7d6bc4f40aa371775e00f46497bcc47_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 12,
+    "trigger_count": 8
+  }
+}

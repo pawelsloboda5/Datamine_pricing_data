@@ -1,0 +1,50 @@
+{
+  "app_id": "beekeeper",
+  "app_name": "Beekeeper",
+  "app_slug": "beekeeper",
+  "pricing_url": "https://www.beekeeper.io/pricing/",
+  "source_url": "https://www.beekeeper.io/pricing/",
+  "all_pricing_urls": [
+    "https://www.beekeeper.io/pricing/",
+    "https://www.beekeeper.io/de/preise/",
+    "https://www.beekeeper.io/fr/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Detailed pricing information is not publicly available; users are encouraged to schedule a demo or contact sales.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T02:43:02.344734",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ccc619e2-17fd-4239-a470-19d283bfd4ff",
+    "name": "Beekeeper",
+    "slug": "beekeeper",
+    "description": "Beekeeper is a mobile-first communication platform built for frontline employees that reaches every shift, location, and language through real-time messaging, targeted streams, and automated workflows.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/24d949b9ed44bcc232d30bc34b1efa45_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Collaboration"
+    ],
+    "category_slugs": [
+      "team-collaboration"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 3
+  }
+}

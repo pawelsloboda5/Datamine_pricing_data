@@ -1,0 +1,24 @@
+{
+  "app_name": "SamCart",
+  "app_slug": "samcart",
+  "search_term": "Find the official pricing page URL for SamCart (samcart.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744710432.826762,
+  "response_text": [
+    "The official URL for the SamCart pricing page is [https://www.samcart.com/pricing](https://www.samcart.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing Plan for SamCart - Easy Checkout Feature",
+      "url": "https://www.samcart.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.samcart.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\samcart\\20250415_054728"
+}

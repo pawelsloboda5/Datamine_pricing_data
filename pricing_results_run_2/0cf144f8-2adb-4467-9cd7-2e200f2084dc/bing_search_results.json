@@ -1,0 +1,213 @@
+{
+  "app_name": "Doppler",
+  "app_slug": "doppler",
+  "search_term": "Find the official pricing page URL for Doppler (doppler.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744706216.9814544,
+  "response_text": [
+    "The official pricing page for Doppler is located at: [https://www.doppler.com/pricing](https://www.doppler.com/pricing) \u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Unlocking secure secrets management: Compare plans and start ... - Doppler",
+      "url": "https://www.doppler.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.doppler.com/pricing",
+      "is_accessible": true,
+      "content": "Unlocking secure secrets management: Compare plans and start free with Doppler today\n===============\n\n[![Image 2: Doppler Logo](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2Fca504eb965b366981679016924e0d709deb6768f-563x108.svg%3Ffit%3Dmax%26auto%3Dformat&w=384&q=75)](https://www.doppler.com/)\n\nPlatform\n\nSolutions\n\nResources\n\n[Customers](https://www.doppler.com/customers)[Pricing](https://www.doppler.com/pricing)\n\n[Get Demo](https://www.doppler.com/demo)[Start for Free](https://dashboard.doppler.com/register)[Sign In](https://dashboard.doppler.com/login)\n\nPremium security  \nat any scale\n===============================\n\nPer-seat pricing for projects and teams of all sizes\u2014no hidden fees, no surprises.\n\nDeveloper\n---------\n\nSecure your solo projects & focus on what matters - building.\n\nFree for 3 users\n\n$8/mo per additional user\n\n*   Integrations\n*   Doppler CLI for local development\n*   Service tokens\n*   Email alerts and recurring reminders\n*   3 days of activity logs\n*   Secrets referencing\n*   Secret value types\n    \n*   API and webhooks access\n*   Webhook logs\n    \n*   Config syncs (5)\n    \n\n[Start for Free](https://dashboard.doppler.com/register?plan=developer)\n\nMost popular\n\nTeam\n----\n\nUnlock team productivity & protect shared secrets.\n\nFree for 14 days\n\n$21/mo per user\n\n*   Change Requests\n    \n*   SAML SSO\n*   Identity Based Authentication\n*   Role-Based Access Controls\n*   Integration Access Scoping\n    \n*   90 Days of activity logs\n*   Automatic secret rotation\n    \n*   Service accounts\n*   Config inheritance\n*   Trusted IPs\n*   Priority support\n*   99.95% SLO\n*   Config syncs (100)\n    \n*   Add-on enterprise features\n    \n\n[Start 14 Day Trial](https://dashboard.doppler.com/register?plan=team)\n\nEnterprise\n----------\n\nTailored to your compliance and regulatory needs.\n\nCustom pricing\n\nScales with your team\n\n*   Change Request Policies\n    \n*   Custom permissions & roles\n*   User groups\n*   Enterprise SCIM\n*   Fully manage in Terraform\n*   On-Prem secret rotation\n    \n*   Enterprise Key Management (EKM)\n*   Dynamic secrets\n*   SIEM Log Forwarding\n    \n*   Unlimited config syncs\n*   Custom activity log retention\n*   Custom rate limits\n*   Enterprise support\n*   Custom contract & invoicing\n*   Dedicated account manager\n*   Coming soon: Analytics dashboard\n\n[Contact Us](https://www.doppler.com/demo)\n\n#### Detailed Comparison\n\nDeveloper\n\n[Start for Free](https://dashboard.doppler.com/register?plan=developer)\n\nTeam\n\n[Start 14 Day Trial](https://dashboard.doppler.com/register?plan=team)\n\nEnterprise\n\n[Contact Us](https://www.doppler.com/demo)\n\nAuditability\n\nActivity log retention\n\n3 days\n\n90 days\n\nCustom\n\nEmail alerts and recurring reminders\n\nSlack, Microsoft Teams, and Discord alerts\n\nSplunk, Datadog, and Sumo Logic alerts\n\nSecurity\n\nSecret generation\n\nMFA\n\nSecret visibility types\n\nAPI-based rotation\n\nTrusted IPs\n\n99.95% SLO\n\nDynamic secrets\n\nOn-prem secret rotation\n\nEnterprise Key Management (EKM)\n\nWorkflow\n\nService tokens\n\n50\n\n500\n\nCustom\n\nProjects\n\n10\n\n250\n\nCustom\n\nEnvironments\n\n4\n\n15\n\nCustom\n\nConfigs per environment\n\n10\n\n100\n\nCustom\n\nConfig sync limits\n\n5\n\n100\n\nCustom\n\nWebhook limits\n\n5\n\n50\n\nCustom\n\nCLI tokens per user\n\n5\n\n20\n\nCustom\n\nDoppler CLI for local development\n\nPersonal configs\n\nSecrets referencing\n\nSecret value types\n\nAPI and webhook access\n\nWebhook logs\n\nSDKs\n\nService accounts\n\nService account tokens API\n\nConfig inheritance\n\nChange Requests\n\nCustom rate limits\n\nAccess control\n\nUsers\n\n25\n\n500\n\nCustom\n\nRole-Based Access Controls\n\nIdentity Based Authentication\n\nSAML and SSO\n\nIntegration Access Scoping\n\nUser groups\n\nAdd-On\n\nCustom roles\n\nAdd-On\n\nManage groups in Terraform\n\nEnterprise SCIM\n\nChange Request Policies\n\nSupport\n\nCommunity\n\nPriority support\n\nEnterprise support\n\nDedicated account manager\n\nShared Slack channel\n\n#### Detailed Comparison\n\nDeveloper\n\nSwitch Plan\n\n[Start for Free](https://dashboard.doppler.com/register?plan=developer)\n\nAuditability\n\nActivity log retention\n\n3 days\n\nEmail alerts and recurring reminders\n\nSlack, Microsoft Teams, and Discord alerts\n\nSplunk, Datadog, and Sumo Logic alerts\n\nSecurity\n\nSecret generation\n\nMFA\n\nSecret visibility types\n\nAPI-based rotation\n\nTrusted IPs\n\n99.95% SLO\n\nDynamic secrets\n\nOn-prem secret rotation\n\nEnterprise Key Management (EKM)\n\nWorkflow\n\nService tokens\n\n50\n\nProjects\n\n10\n\nEnvironments\n\n4\n\nConfigs per environment\n\n10\n\nConfig sync limits\n\n5\n\nWebhook limits\n\n5\n\nCLI tokens per user\n\n5\n\nDoppler CLI for local development\n\nPersonal configs\n\nSecrets referencing\n\nSecret value types\n\nAPI and webhook access\n\nWebhook logs\n\nSDKs\n\nService accounts\n\nService account tokens API\n\nConfig inheritance\n\nChange Requests\n\nCustom rate limits\n\nAccess control\n\nUsers\n\n25\n\nRole-Based Access Controls\n\nIdentity Based Authentication\n\nSAML and SSO\n\nIntegration Access Scoping\n\nUser groups\n\nCustom roles\n\nManage groups in Terraform\n\nEnterprise SCIM\n\nChange Request Policies\n\nSupport\n\nCommunity\n\nPriority support\n\nEnterprise support\n\nDedicated account manager\n\nShared Slack channel\n\nReturn on investment\n\nPays for itself\n---------------\n\nHow many developers work at your company? Use the slider below to see the estimated scope and impact of your secrets sprawl problem.\n\n50 users\n\nSalary\n\nEstimated average salary of an engineer in your organization.\n\n2 hours\n\nAverage hours recovered per developer per week. We do this by preventing missing and misconfigured secrets through secrets management.\n\n$250,000\n\nEstimated annual savings for your organization from eliminating secrets sprawl. Mitigated costs of prevented breaches compounds further savings.\n\nTeam Plan add-ons\n\nAdditional superpowers\n----------------------\n\nIs your team rapidly scaling but not ready to make the leap to enterprise? Purchase add-ons available on the Team plan to help support your growth.\n\nCustom roles\n\n**Additional $9/seat per month**\n\nTailor access through fine-grained workplace and project permission profiles. Apply custom roles to users and groups.\n\n![Image 3](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F0dffbca13c93c3b4c736a5836a8b144a0f4364d4-60x60.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\nUser groups\n\n**Additional $9/seat per month**\n\nAssign users to groups with specific access levels, implementing the principle of least privilege for each project.\n\n![Image 4](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F0dffbca13c93c3b4c736a5836a8b144a0f4364d4-60x60.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\nIntegration syncs\n\n**Additional $9/seat per month**\n\nIncrease the sync limit from 100 to 500. Integration syncs are the connection between a config of secrets and your infrastructure.\n\n![Image 5](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F0dffbca13c93c3b4c736a5836a8b144a0f4364d4-60x60.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\nDiscounts & partnerships\n------------------------\n\nOpen source\n\nWe love supporting the open source community through discounted rates and sponsorship.\n\n[Unlock Discount](mailto:support@doppler.com)\n\nEducation\n\nTomorrow's engineers deserve amazing tools to manage and store their secrets today.\n\n[Unlock Discount](mailto:support@doppler.com)\n\nNon-profits\n\nWe are excited to support the companies making the world a better and safer place.\n\n[Unlock Discount](mailto:support@doppler.com)\n\nAgencies\n\nBecome an approved agency, technology partner, or professional services partner.\n\n[Become a Partner](mailto:partnership@doppler.com)\n\n![Image 6](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F50ec844292688132e06e04718ad0febc3b22c69c-100x101.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\n1% of all subscriptions are donated to removing CO from the atmosphere\n\n[Learn More](https://climate.stripe.com/SzzLAn)\n\nFAQs\n----\n\nWhat does Doppler do?\n\nDoppler's [secrets manager](https://www.doppler.com/platform/manage) empowers engineers and their teams to quickly set up a secure way to store and manage their sensitive application secrets like API\u00a0keys, database urls, certifications, etc. through a dashboard, API, and command line tool.\n\nHow long does it take to learn Doppler?\n\nIs Doppler secure? Where's my data stored?\n\nHow will you charge me?\n\nWhat counts as a user?\n\nCan I add an Enterprise feature to my Team subscription?\n\nDo you offer a discount for non-profits, students, and educators?\n\nCan I deploy Doppler on-premise?\n\nDo I need a credit card to sign up?\n\nHow does Doppler pricing work?\n\nHow does billing work?\n\nCan I cancel at anytime?\n\nEnter the new era of secrets management\n---------------------------------------\n\nTrusted by the world\u2019s best DevOps and security teams. Doppler is the secrets manager developers love.\n\n[Start for Free](https://dashboard.doppler.com/register)[Get Demo](https://www.doppler.com/demo)\n\n![Image 7](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F20c006333ac05b797f805c72d15021617b576893-1105x1380.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\n![Image 8: Render Wordmark](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F6d65fc6970dbf6823d6bfcaf574d631790568d34-244x56.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\n![Image 9: Render Symbol](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F01ad0eb786c8260c4daa709fe8a6f57fb063655e-101x100.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\n[Loading status...](https://www.dopplerstatus.com/)\n\n![Image 10: Render Symbol](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F01ad0eb786c8260c4daa709fe8a6f57fb063655e-101x100.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\nCookie Preferences\n\nProduct\n\n[Customers](https://www.doppler.com/customers)[Pricing](https://www.doppler.com/pricing)[Changelog](https://www.doppler.com/changes)[Doppler Share](https://share.doppler.com/)[Universal Import](https://www.doppler.com/universal-import)[Security](https://www.doppler.com/security)\n\nResources\n\n[Whitepapers](https://www.doppler.com/resources#whitepaper)[Guides](https://www.doppler.com/resources#guide)[Vault](https://www.doppler.com/doppler-vs-vault)[Akeyless](https://www.doppler.com/doppler-vs-akeyless)[Infisical](https://www.doppler.com/doppler-vs-infisical)[Breach dashboard](https://www.doppler.com/breach-dashboard)[Glossary](https://www.doppler.com/glossary)\n\nDevelopers\n\n[Documentation](https://docs.doppler.com/)[API reference](https://docs.doppler.com/reference)[Bug bounty](https://hackerone.com/doppler)[SOC2 request](https://trust.doppler.com/)[Status](https://dopplerstatus.com/)\n\nIntegrations\n\n[Vercel](https://www.doppler.com/integrations/vercel)[Heroku](https://www.doppler.com/integrations/heroku)[Github Secrets](https://docs.doppler.com/docs/github-actions#multiple-environments)[AWS Secret Manager](https://www.doppler.com/integrations/aws-secrets-manager)[More...](https://www.doppler.com/integrations)\n\nCommunity\n\n[Discussions](https://community.doppler.com/)[Need help?](https://community.doppler.com/c/need-help)[Feature requests](https://community.doppler.com/c/feature-requests)[Show and tell](https://community.doppler.com/c/show-tell)[SecretOps for students](https://www.doppler.com/secretsops-for-students)\n\nCompany\n\n[Blog](https://www.doppler.com/blog)[About](https://www.doppler.com/about)[Careers](https://www.doppler.com/careers)[Resources & media](https://www.doppler.com/resources)[Events](https://www.doppler.com/resources#event)[Support](https://support.doppler.com/)\n\nLegal\n\n[Terms of Service](https://www.doppler.com/legal/terms)[Privacy notice](https://www.doppler.com/legal/privacy)[Data protection](https://www.doppler.com/legal/dpa)[Sub-Processors](https://www.doppler.com/legal/sub-processors)[Cookie notice](https://www.doppler.com/legal/cookie)[Website terms](https://www.doppler.com/legal/website-terms)\n\n![Image 11: Render Badge](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2Fd89bc2d6fbc1546b5319005c21a445e07fcdd888-869x1000.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\n![Image 12: Render Badge](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F178a522f749dae80c78f39c106d7a54941ebbc97-869x1000.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\n![Image 13: Render Badge](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F4083704b34e117f4999ad8e94f9165ee33be1e6a-869x1000.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\n![Image 14: Render Badge](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F3da47f33a6276186877f463ec1d0b92c9ab8e1bb-1145x1311.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\n![Image 15: Render Badge](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F4e4a44f68178da136e2f9f061812efc2b74fd6c2-208x244.png%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\n![Image 16: Render Badge](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F7be4d7615ca3fb0c2df4fce84cfcdd732e4bb40a-105x122.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\n![Image 17: Render Badge](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2Fd69facf0e7438596a2e119884c82a4aeaba81616-104x122.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)\n\nCopyright \u00a9 2025 Doppler\u2122. All rights reserved.\n\n[![Image 18](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2Fff630182ef2a523095e20ca26f2adc998fd31734-24x24.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)](mailto:info@doppler.com)[![Image 19](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F1a1fb630ac4df169b4c1782e1855702246844e3b-24x24.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)](https://community.doppler.com/)[![Image 20](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2Fa8c13461281c867d33a73afc805a1fea6560e3fe-25x24.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)](https://github.com/dopplerhq)[![Image 21](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F7c2426b1b6aeb7e06e7083039b0be8c378a2b00e-24x24.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)](https://www.linkedin.com/company/dopplerhq/)[![Image 22](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F3537edec4a245f55c3b950bdd164bf983731e685-150x106.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)](https://www.youtube.com/@dopplerhq)[![Image 23](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F9748311e90b49251941d8a4d1c2aeb65860c6c0c-150x132.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)](https://bsky.app/profile/doppler.com)[![Image 24](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2Fb0146b8fa0b673edfcf13e4dc6b6044204870bdf-150x150.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)](https://www.instagram.com/dopplersecrets/)[![Image 25](https://www.doppler.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fq3zajrd2%2Fproduction%2F79f5d3b47060b47857f156af7e9a4abe6eec2d96-131x150.svg%3Ffit%3Dmax%26auto%3Dformat&w=3840&q=75)](https://www.tiktok.com/@dopplersecrets)\n\nNo surprises, just secure secrets. Doppler's transparent pricing lets you choose the perfect plan for your budget and scale securely. Start your free trial and experience the difference.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "doppler",
+        "app_name": "Doppler",
+        "app_slug": "doppler",
+        "pricing_url": "https://www.doppler.com/pricing",
+        "source_url": "https://www.doppler.com/pricing",
+        "all_pricing_urls": [
+          "https://www.doppler.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes per-user charges and additional features available as add-ons.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Developer",
+            "tier_description": "Secure your solo projects & focus on what matters - building.",
+            "monthly_price": 8.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Integrations",
+              "Doppler CLI for local development",
+              "Service tokens",
+              "Email alerts and recurring reminders",
+              "3 days of activity logs",
+              "Secrets referencing",
+              "Secret value types",
+              "API and webhooks access",
+              "Webhook logs",
+              "Config syncs (5)"
+            ],
+            "limits": {
+              "users": 3,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Config syncs",
+                  "value": 5
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Team",
+            "tier_description": "Unlock team productivity & protect shared secrets.",
+            "monthly_price": 21.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Change Requests",
+              "SAML SSO",
+              "Identity Based Authentication",
+              "Role-Based Access Controls",
+              "Integration Access Scoping",
+              "90 Days of activity logs",
+              "Automatic secret rotation",
+              "Service accounts",
+              "Config inheritance",
+              "Trusted IPs",
+              "Priority support",
+              "99.95% SLO",
+              "Config syncs (100)",
+              "Add-on enterprise features"
+            ],
+            "limits": {
+              "users": 500,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Config syncs",
+                  "value": 100
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Tailored to your compliance and regulatory needs.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Change Request Policies",
+              "Custom permissions & roles",
+              "User groups",
+              "Enterprise SCIM",
+              "Fully manage in Terraform",
+              "On-Prem secret rotation",
+              "Enterprise Key Management (EKM)",
+              "Dynamic secrets",
+              "SIEM Log Forwarding",
+              "Unlimited config syncs",
+              "Custom activity log retention",
+              "Custom rate limits",
+              "Enterprise support",
+              "Custom contract & invoicing",
+              "Dedicated account manager",
+              "Coming soon: Analytics dashboard"
+            ],
+            "limits": {
+              "users": "custom",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Config syncs",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Additional features",
+            "unit": "per seat per month",
+            "base_price": 9.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Open Source Discount",
+            "offer_description": "Discounted rates for open source projects.",
+            "discount_percentage": null,
+            "offer_url": "mailto:support@doppler.com",
+            "valid_until": null
+          },
+          {
+            "offer_name": "Education Discount",
+            "offer_description": "Discounted rates for educational institutions.",
+            "discount_percentage": null,
+            "offer_url": "mailto:support@doppler.com",
+            "valid_until": null
+          },
+          {
+            "offer_name": "Non-Profit Discount",
+            "offer_description": "Discounted rates for non-profits.",
+            "discount_percentage": null,
+            "offer_url": "mailto:support@doppler.com",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": [
+          {
+            "fee_name": "Custom roles",
+            "fee_amount": 9.0,
+            "fee_description": "Additional $9/seat per month for custom roles."
+          },
+          {
+            "fee_name": "User groups",
+            "fee_amount": 9.0,
+            "fee_description": "Additional $9/seat per month for user groups."
+          },
+          {
+            "fee_name": "Integration syncs",
+            "fee_amount": 9.0,
+            "fee_description": "Additional $9/seat per month to increase sync limit from 100 to 500."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T04:37:10.492662",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\doppler\\20250415_043710"
+}

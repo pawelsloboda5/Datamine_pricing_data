@@ -1,0 +1,147 @@
+{
+  "app_id": "regiondo",
+  "app_name": "Regiondo",
+  "app_slug": "regiondo",
+  "pricing_url": "https://pro.regiondo.com/pricing/",
+  "source_url": "https://pro.regiondo.com/pricing/",
+  "all_pricing_urls": [
+    "https://pro.regiondo.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Regiondo offers a 30-day free trial for all plans. Additional fees include a ticket fee of \u20ac0.49 and a system usage fee of 3%.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Best for small operators just getting started with online sales",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2 users",
+        "Booking widget",
+        "Payment gateway",
+        "Channel manager",
+        "Google Analytics integration",
+        "1 language available",
+        "2 hours of dedicated training"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Our most popular plan for growing operators with multiple users",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 users",
+        "Smart resource manager",
+        "SMS & email notifications",
+        "Add-ons and cross-selling",
+        "API access",
+        "3 languages available",
+        "3 hours of dedicated training"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Best for large operators with high-volume sales and customisation needs",
+      "monthly_price": 199.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "25 users",
+        "Product bundles",
+        "Marketing & SEO tools",
+        "3,000+ integrations with Zapier",
+        "11 languages available",
+        "4 hours of dedicated training"
+      ],
+      "limits": {
+        "users": 25,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 3000,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Website Builder",
+      "tier_description": "Optional extension for a complete booking experience",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "One-click website builder for operators"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Ticket Fee",
+      "fee_amount": 0.49,
+      "fee_description": "Fee per ticket sold"
+    },
+    {
+      "fee_name": "System Usage Fee",
+      "fee_amount": 3.0,
+      "fee_description": "Percentage of system usage fee"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:40:28.722594",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "89745d46-b19c-4f04-ba2a-22bc283dff81",
+    "name": "Regiondo",
+    "slug": "regiondo",
+    "description": "Regiondo is an\u200b all-in-one booking solution for the leisure industry.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/55a8bcadcbb1dd319fbe2ffef20c77ce_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "app_id": "razorpay",
+  "app_name": "Razorpay",
+  "app_slug": "razorpay",
+  "pricing_url": "https://razorpay.com/pricing/",
+  "source_url": "https://razorpay.com/pricing/",
+  "all_pricing_urls": [
+    "https://razorpay.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "INR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Razorpay offers a free tier with no setup or annual maintenance fees. Transaction fees are usage-based, with additional GST charges.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Basic payment processing tier.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 0.0,
+      "features": [
+        "Online payment acceptance",
+        "Custom and standard reports",
+        "Intelligent checkout experience"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Customized solutions for businesses with monthly revenue exceeding \u20b95 Lakh.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced payment solutions",
+        "Priority support",
+        "Custom integrations"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Transaction fees",
+      "unit": "percentage",
+      "base_price": 2.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Free Payroll Pro Plan",
+      "offer_description": "Free 3 months of RazorpayX Payroll Pro Plan.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "GST",
+      "fee_amount": 18.0,
+      "fee_description": "Applicable on all transactions."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:29:45.836472",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5bb59271-00e6-465a-aeb0-2f4e47dd5217",
+    "name": "Razorpay",
+    "slug": "razorpay-1",
+    "description": "Razorpay is India\u2019s first full-stack financial solutions company. We enable businesses to accept and disburse payments, raise capital and park money.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/babb9f8f56fd01aef5f473c56ce6e801.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 6
+  }
+}

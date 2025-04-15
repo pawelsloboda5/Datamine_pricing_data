@@ -1,0 +1,88 @@
+{
+  "app_id": "mapmyfitness",
+  "app_name": "MapMyFitness",
+  "app_slug": "mapmyfitness",
+  "pricing_url": null,
+  "source_url": "https://www.mapmyfitness.com",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The application offers a free tier and a trial period for premium features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for tracking workouts and setting goals.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Workout tracking",
+        "Goal setting",
+        "Access to community challenges"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Advanced features including personalized training plans and detailed analytics.",
+      "monthly_price": 5.99,
+      "annual_price": 29.99,
+      "annual_discount_percentage": 16.7,
+      "setup_fee": null,
+      "features": [
+        "Personalized training plans",
+        "Advanced analytics",
+        "Custom challenges"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:56:41.353844",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e9685819-e16a-42e5-9953-9c0e115f79b0",
+    "name": "MapMyFitness",
+    "slug": "mapmyfitness",
+    "description": "Your workout, your device, anywhere, anytime. Plan, track, analyze and share your journey with MapMyFitness.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/5892e0c37c26869de7447e42f9d72665.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fitness"
+    ],
+    "category_slugs": [
+      "fitness"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

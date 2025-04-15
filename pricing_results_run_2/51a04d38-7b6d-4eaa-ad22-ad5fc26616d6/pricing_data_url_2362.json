@@ -1,0 +1,47 @@
+{
+  "app_id": "hibob",
+  "app_name": "HiBob",
+  "app_slug": "hibob",
+  "pricing_url": "https://www.hibob.com/pricing-plans/",
+  "source_url": "https://www.hibob.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.hibob.com/pricing-plans/"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "HiBob offers custom pricing tailored to the needs of the business. No specific pricing tiers or details are publicly available.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:15:12.843555",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "51a04d38-7b6d-4eaa-ad22-ad5fc26616d6",
+    "name": "Hibob",
+    "slug": "hibob",
+    "description": "Hibob was founded to modernize HR tech. Hibob's intuitive and data-driven platform, bob, was built for the way people work today: globally, remotely, and collaboratively. Use it for everything from onboarding and compensation management, to culture and people analytics.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/dd7773ff8a0212314b801a202143886b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "HR Talent & Recruitment"
+    ],
+    "category_slugs": [
+      "hr"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 4
+  }
+}

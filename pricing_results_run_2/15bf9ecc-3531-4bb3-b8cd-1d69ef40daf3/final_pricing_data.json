@@ -1,0 +1,163 @@
+{
+  "app_id": "timely_time_tracking",
+  "app_name": "Timely Time Tracking",
+  "app_slug": "timely-time-tracking",
+  "pricing_url": "https://www.timelyapp.com/pricing",
+  "source_url": "https://timelyapp.com/pricing",
+  "all_pricing_urls": [
+    "https://www.timelyapp.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user per month, with discounts for annual billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Finish timesheets in 10 min, bill for 20% more hours.",
+      "monthly_price": 11.0,
+      "annual_price": 9.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Automatic Time Tracking",
+        "Categorize your time with AI",
+        "Monitor project health",
+        "Accurately report your billable hours",
+        "Track time on thousands of apps and websites",
+        "In-app support",
+        "API access"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "projects",
+            "value": 20
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "More efficient teams and more automation with less admin.",
+      "monthly_price": 20.0,
+      "annual_price": 16.0,
+      "annual_discount_percentage": 21.0,
+      "setup_fee": null,
+      "features": [
+        "All Starter features",
+        "Sync work with project management tools",
+        "Integrate with accounting tools",
+        "Team management",
+        "Manage budgets and costs",
+        "Plan work for teams"
+      ],
+      "limits": {
+        "users": 50,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "projects",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Unlimited",
+      "tier_description": "Extra capacity management, planning, and security at scale.",
+      "monthly_price": 28.0,
+      "annual_price": 22.0,
+      "annual_discount_percentage": 22.0,
+      "setup_fee": null,
+      "features": [
+        "All Premium features",
+        "Unlimited usage",
+        "Capacity management and reporting",
+        "Overtime and undertime",
+        "Azure User Management",
+        "50+ currencies",
+        "Premium customer success"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "projects",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "A truly supported Timely experience with dedicated customer success and bespoke workstreams.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Unlimited features",
+        "Tailored onboarding and set up",
+        "Premium Timely team training",
+        "Monthly/Quarterly reviews",
+        "Dashboard and reporting support",
+        "Early access to product developments",
+        "Priority customer support"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Tasks Add-on",
+      "unit": "per person",
+      "base_price": 5.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:49:16.168523",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "15bf9ecc-3531-4bb3-b8cd-1d69ef40daf3",
+    "name": "Timely Time Tracking",
+    "slug": "timely-time-tracking",
+    "description": "Timely Time Tracking automates company time tracking, so everyone can focus on the work that matters.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/396784d1860427b15383008d61f2a5b7_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Time Tracking Software"
+    ],
+    "category_slugs": [
+      "time-tracking"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 13,
+    "trigger_count": 7
+  }
+}

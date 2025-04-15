@@ -1,0 +1,159 @@
+{
+  "app_id": "rss_by_zapier",
+  "app_name": "RSS by Zapier",
+  "app_slug": "rss-by-zapier",
+  "pricing_url": "https://rss.com/pricing/",
+  "source_url": "https://rss.com/pricing/",
+  "all_pricing_urls": [
+    "https://rss.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Special discounts available for students, educators, and NGOs. Annual billing offers a 25% discount.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Student & NGO",
+      "tier_description": "Special discounts for students, educators, and non-governmental organizations worldwide.",
+      "monthly_price": 4.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited episodes",
+        "Unlimited audio",
+        "Audio-to-video conversion",
+        "Episode transcripts",
+        "Cross-platform analytics",
+        "RSS feed for your podcast",
+        "Website for your show",
+        "Custom embedded player",
+        "Episode scheduling",
+        "Auto submission",
+        "Automatic distribution",
+        "Apple Podcasts Subscription Support",
+        "Social media sharing",
+        "Customer support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "All in One Podcasting",
+      "tier_description": "Ideal for new podcasters, independent podcasters, and businesses of any size.",
+      "monthly_price": 15.99,
+      "annual_price": 11.99,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited episodes",
+        "Unlimited audio",
+        "Audio-to-video conversion",
+        "Episode transcripts",
+        "Cross-platform analytics",
+        "Monetization via sponsors",
+        "RSS feed for your podcast",
+        "Website for your show",
+        "Custom embedded player",
+        "Episode scheduling",
+        "Auto submission",
+        "Automatic distribution",
+        "Apple Podcasts Subscription Support",
+        "Social media sharing",
+        "24/7 Customer support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Podcast Networks",
+      "tier_description": "Host multiple shows on one account.",
+      "monthly_price": 24.99,
+      "annual_price": 18.75,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited podcasts",
+        "Unlimited episodes",
+        "Unlimited audio",
+        "Audio-to-video conversion",
+        "Episode transcripts",
+        "Cross-platform analytics",
+        "Monetization via sponsors",
+        "RSS feed for your podcast",
+        "Website for your show",
+        "Custom embedded player",
+        "Episode scheduling",
+        "Auto submission",
+        "Automatic distribution",
+        "Apple Podcasts Subscription Support",
+        "Social media sharing",
+        "24/7 Customer support",
+        "Monetization opportunities via Dynamic Ad Insertion for high-traffic shows"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Switch to RSS.com",
+      "offer_description": "Switch to RSS.com now and enjoy 6 months free with unlimited features.",
+      "discount_percentage": null,
+      "offer_url": "https://rss.com/switch-to-rss/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:16:32.471936",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bc40d218-412d-47b1-8ba9-76921555c976",
+    "name": "RSS by Zapier",
+    "slug": "rss",
+    "description": "RSS (really simple syndication) is pretty much the industry standard for feed readers. You'll find RSS feeds in almost every app imaginable.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/aa4f3d27fda1e4ca2e1a64c3e62d3b7c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "News & Lifestyle",
+      "Zapier"
+    ],
+    "category_slugs": [
+      "news",
+      "zapier-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 1
+  }
+}

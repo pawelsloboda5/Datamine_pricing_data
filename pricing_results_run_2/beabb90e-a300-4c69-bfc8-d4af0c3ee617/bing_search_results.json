@@ -1,0 +1,19 @@
+{
+  "app_name": "TimeRex",
+  "app_slug": "timerex",
+  "search_term": "Find the official pricing page URL for TimeRex (timerex.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744700743.7323275,
+  "response_text": [
+    "I found the official pricing page for TimeRex. Here is the direct URL: https://timerex.com/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://timerex.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 422"
+    }
+  ],
+  "results_directory": "pricing_results\\timerex\\20250415_030548"
+}

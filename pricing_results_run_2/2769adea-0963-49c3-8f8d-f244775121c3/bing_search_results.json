@@ -1,0 +1,112 @@
+{
+  "app_name": "DigiMember",
+  "app_slug": "digimember",
+  "search_term": "Find the official pricing page URL for DigiMember (digimember.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744720792.08456,
+  "response_text": [
+    "The official pricing page for DigiMember can be accessed at: [https://www.digimember.com/order/#price](https://www.digimember.com/order/#price)\u30103:1\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "DigiMember PRO order \u2013 DigiMember",
+      "url": "https://digimember.com/digimember-pro-order/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.digimember.com/order/#price",
+      "is_accessible": true,
+      "content": "Page not found \u2013 DigiMember\n===============\n\n[Skip to content](https://www.digimember.com/order/#content)\n\n [![Image 1: DigiMember](https://digimember.com/wp-content/themes/op-smart-theme3/images/optimizepress-smarttheme-logo.png)](https://digimember.com/)Toggle navigation\n\n*   [Close Search Form](https://www.digimember.com/order/#) [Open Search Form](https://www.digimember.com/order/#)\n\n404\n===\n\nOops! That page can\u2019t be found.\n\nNothing Found\n=============\n\nIt seems that we can\u2019t find what you\u2019re looking for. Perhaps searching can help.\n\n![Image 2: DigiMember](https://digimember.com/wp-content/themes/op-smart-theme3/images/optimizepress-smarttheme-logo-grey.png)\n\n\u00a9 2023. All Rights Reserved.\n\n[WordPress Theme by OptimizePress](https://www.optimizepress.com/)\n\n![Image 3](https://www.checkout-ds24.com/track/AFFILIATE/256199.png?group_sids=&ds24tr=&ds24utm=&ds24cmt=&ds24domain=&ds24ref=&skip_count=1)\n\n\u00d7\n\nThis website uses cookies\n\nThis website uses cookies to improve user experience. By using our website you consent to all cookies in accordance with our Cookie Policy. [Read more](https://digimember.com/privacy/)\n\nSave & Close\n\nAccept all\n\nDecline all\n\nShow details Hide details",
+      "error": null,
+      "pricing_data": {
+        "app_id": "digimember",
+        "app_name": "DigiMember",
+        "app_slug": "digimember",
+        "pricing_url": "https://www.digimember.com/order/",
+        "source_url": "https://www.digimember.com/order/",
+        "all_pricing_urls": [
+          "https://www.digimember.com/order/"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page returned a 404 error, indicating that detailed pricing information is not currently accessible.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T08:40:04.727967",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://digimember.com/digimember-pro-order/",
+      "is_accessible": true,
+      "content": "![Image 1](https://digimember.com/wp-content/uploads/2019/11/DigiMember-PRO-order.png)\n\nGet DigiMember PRO now!\n\nStart creating your own members page **TODAY!**\n\nUnlimited products (Levels)\n\nSequential activation (subscriptions)\n\nMember and Download Products\n\nAutojoin function\n\nExaminations\n\nBrowser PUSH-Notifications\n\nProgress indicator\n\nIndividual content on your member pages\n\nActions (tagging of members)\n\nAutomatic blocking in case of non-payment\n\nEasy integration of payment providers\n\nCertificates for your customers\n\nBrowser PUSH-Notifications\n\n**...and much more!**\n\n**\\* All prices are VAT exclusive. You can cancel DigiMember at any time with effect from the end of the paid usage period.**\n\nCopyright 2019 - DigiMember\u00ae",
+      "error": null,
+      "pricing_data": {
+        "app_id": "digimember",
+        "app_name": "DigiMember",
+        "app_slug": "digimember",
+        "pricing_url": null,
+        "source_url": "https://digimember.com/wp-content/uploads/2019/11/DigiMember-PRO-order.png",
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "EUR",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing details are VAT exclusive and cancellation is possible at any time with effect from the end of the paid usage period.",
+        "pricing_tiers": [
+          {
+            "tier_name": "PRO",
+            "tier_description": "Advanced features for creating member pages.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited products (Levels)",
+              "Sequential activation (subscriptions)",
+              "Member and Download Products",
+              "Autojoin function",
+              "Examinations",
+              "Browser PUSH-Notifications",
+              "Progress indicator",
+              "Individual content on your member pages",
+              "Actions (tagging of members)",
+              "Automatic blocking in case of non-payment",
+              "Easy integration of payment providers",
+              "Certificates for your customers"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T08:40:11.557246",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\digimember\\20250415_084011"
+}

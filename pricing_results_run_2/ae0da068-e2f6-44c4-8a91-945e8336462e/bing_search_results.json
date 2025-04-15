@@ -1,0 +1,19 @@
+{
+  "app_name": "Zoho Inventory",
+  "app_slug": "zoho-inventory",
+  "search_term": "Find the official pricing page URL for Zoho Inventory (zoho-inventory.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744694484.3115246,
+  "response_text": [
+    "The official pricing page for Zoho Inventory is available at: [https://www.zoho.com/inventory/pricing.html](https://www.zoho.com/inventory/pricing.html) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.zoho.com/inventory/pricing.html",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\zoho-inventory\\20250415_012139"
+}

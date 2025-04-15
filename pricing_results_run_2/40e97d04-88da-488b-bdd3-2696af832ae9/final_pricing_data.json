@@ -1,0 +1,121 @@
+{
+  "app_id": "service_fusion",
+  "app_name": "Service Fusion",
+  "app_slug": "service-fusion",
+  "pricing_url": "https://www.servicefusion.com/pricing",
+  "source_url": "https://www.servicefusion.com/pricing",
+  "all_pricing_urls": [
+    "https://www.servicefusion.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 15% discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Basic scheduling, dispatch, and customer management.",
+      "monthly_price": 225.0,
+      "annual_price": 192.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Customer Management",
+        "Estimates & Jobs",
+        "Schedule & Dispatching",
+        "QuickBooks Integration",
+        "Invoicing & Payment Processing",
+        "Project Management & Reporting",
+        "Text Messaging Alerts",
+        "Estimate Options"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Adds inventory management, job costing, and photo uploads.",
+      "monthly_price": 350.0,
+      "annual_price": 298.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Starter",
+        "Job Photo Uploads",
+        "Inventory Management",
+        "Job Costing",
+        "Integrated Voice & Text"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Adds eSignatures, customer web portals, and recurring invoicing.",
+      "monthly_price": 575.0,
+      "annual_price": 489.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Starter & Plus",
+        "Open API Integration",
+        "Custom Documents",
+        "eSign Documents",
+        "Customer Web Portal",
+        "Progress Billing & Recurring Invoicing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:18:51.736052",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "40e97d04-88da-488b-bdd3-2696af832ae9",
+    "name": "Service Fusion",
+    "slug": "service-fusion",
+    "description": "Service Fusion is a field service management software for service contractors. With this application, you create new customers, retrieve job and estimate history, technician information and much more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/42e83b668b18ec7a875dd9a9ea403fc8.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 5
+  }
+}

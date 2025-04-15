@@ -1,0 +1,136 @@
+{
+  "app_id": "busybusy",
+  "app_name": "busybusy",
+  "app_slug": "busybusy",
+  "pricing_url": "https://busybusy.com/pricing",
+  "source_url": "https://busybusy.com/pricing",
+  "all_pricing_urls": [
+    "https://busybusy.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes per-user monthly rates with additional admin license fees.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free forever tier with basic features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "GPS Time Tracking",
+        "Job Costing",
+        "Equipment Tracking",
+        "Unlimited Users"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Most popular tier with advanced features.",
+      "monthly_price": 9.99,
+      "annual_price": 119.88,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "GPS Breadcrumbing",
+        "Supervisor Tools",
+        "Daily Sign-Offs",
+        "Photos & Notes",
+        "Scheduling"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Admin License Fee",
+            "value": 40
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Best value tier with all features.",
+      "monthly_price": 14.99,
+      "annual_price": 179.88,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Everything in Pro",
+        "Documents",
+        "Daily Project Reports",
+        "Progress Tracking",
+        "Checklists",
+        "Team Messaging",
+        "Video & Photo Markups",
+        "Zapier"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Admin License Fee",
+            "value": 40
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Admin License Fee",
+      "fee_amount": 40.0,
+      "fee_description": "Fee for the first user included in the license."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:56:12.981180",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7c3e3fd4-d3c2-4bf0-8621-a7bca1b744ca",
+    "name": "busybusy",
+    "slug": "busybusy",
+    "description": "Busybusy is the perfect time tracking & job costing app built BY construction companies FOR construction companies.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/8c638074cc5b4c7fa1ad01cbf6dc2eaf.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Time Tracking Software"
+    ],
+    "category_slugs": [
+      "time-tracking"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 32,
+    "trigger_count": 52
+  }
+}

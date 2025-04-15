@@ -1,0 +1,63 @@
+{
+  "app_id": "on24",
+  "app_name": "ON24",
+  "app_slug": "on24",
+  "pricing_url": "https://www.on24.com/pricing/",
+  "source_url": "https://www.on24.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.on24.com/pricing/"
+  ],
+  "price_model_type": [
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are available upon request via the website.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Basic package for webinars and virtual events.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Webinars & videos",
+        "Events management",
+        "Integrations",
+        "Performance analytics"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:20:07.924759",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c1b03d22-ec62-46f1-aa80-0462d4d1c168",
+    "name": "ON24",
+    "slug": "on24",
+    "description": "ON24 is a webinar-based marketing platform that drives demand generation and customer engagement.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/76fdf20c8c952c9491147000ad33a805.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Webinars"
+    ],
+    "category_slugs": [
+      "webinars"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 5
+  }
+}

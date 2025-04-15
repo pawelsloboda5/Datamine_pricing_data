@@ -1,0 +1,165 @@
+{
+  "app_id": "getresponse",
+  "app_name": "GetResponse",
+  "app_slug": "getresponse",
+  "pricing_url": "https://www.getresponse.com/pricing",
+  "source_url": "https://www.getresponse.com/pricing",
+  "all_pricing_urls": [
+    "https://www.getresponse.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer discounts compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Basic plan with essential features.",
+      "monthly_price": 15.58,
+      "annual_price": 186.96,
+      "annual_discount_percentage": 18.0,
+      "setup_fee": null,
+      "features": [
+        "AI email generator",
+        "Unlimited autoresponders",
+        "AI landing pages",
+        "Custom automation workflow",
+        "Email and landing page templates",
+        "Signup forms and popups",
+        "24/7 chat support",
+        "Free custom domain with yearly plan"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "AI email generator uses",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Marketer",
+      "tier_description": "Includes Starter features plus advanced marketing tools.",
+      "monthly_price": 48.38,
+      "annual_price": 580.56,
+      "annual_discount_percentage": 18.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited marketing automation",
+        "Abandoned cart recovery",
+        "Newsletter revenue statistics",
+        "Promo codes",
+        "Email delivery scheduling",
+        "Advanced segmentation",
+        "Sales funnels",
+        "Contact scoring",
+        "Unlimited web push notifications"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Creator",
+      "tier_description": "Includes Marketer features plus tools for content creators.",
+      "monthly_price": 56.58,
+      "annual_price": 678.96,
+      "annual_discount_percentage": 18.0,
+      "setup_fee": null,
+      "features": [
+        "AI course creator",
+        "Up to 500 students",
+        "Mobile app for students",
+        "Quizzes and certificates",
+        "Creator profile",
+        "Premium newsletters",
+        "Website builder",
+        "Webinars",
+        "No transaction fees"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Students limit",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom pricing for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Premium, priority support",
+        "Dedicated IP address",
+        "Single sign-on (SSO)",
+        "SMS marketing",
+        "Mobile push notifications",
+        "AI product recommendations",
+        "Transactional emails",
+        "Unlimited users"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:01:23.696903",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "12ea61ad-720c-4c4d-956b-b3cd2f549ca8",
+    "name": "GetResponse",
+    "slug": "getresponse",
+    "description": "With an all-in-one suite of online marketing tools, GetResponse is the perfect solution to help you grow your business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/54c51903959aae70ce340d9ec6f1f9a3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 5
+  }
+}

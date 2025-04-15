@@ -1,0 +1,137 @@
+{
+  "app_name": "Zulip",
+  "app_slug": "zulip",
+  "search_term": "Find the official pricing page URL for Zulip (zulip.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744703259.7367013,
+  "response_text": [
+    "The official pricing page for Zulip is located at: [https://zulip.com/plans/](https://zulip.com/plans/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Zulip plans and pricing",
+      "url": "https://zulip.com/plans/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://zulip.com/plans/",
+      "is_accessible": true,
+      "content": "| Collaboration basics |  |\n| [Message history search](https://zulip.com/help/search-for-messages) | Limited |  |  |  |  |  |  |\n| [Users](https://zulip.com/help/invite-new-users) |  |  |  |  |  |  |  |\n| [Channels](https://zulip.com/help/introduction-to-channels) |  |  |  |  |  |  |  |\n| [Topic-based threading](https://zulip.com/help/introduction-to-topics) |  |  |  |  |  |  |  |\n| [File sharing and storage](https://zulip.com/help/share-and-upload-files) | 5 GB total | 5 GB/user | 5 GB/user |  |  |  |  |\n| [Voice and video calls (1:1)](https://zulip.com/help/start-a-call) |  |  |  |  |  |  |  |\n| [Voice and video calls (group)](https://zulip.com/help/start-a-call) |  |  |  |  |  |  |  |\n| [Integrations with other apps](https://zulip.com/integrations/) |  |  |  |  |  |  |  |\n| [Localized in more than 20 languages](https://explore.transifex.com/zulip/zulip/) |  |  |  |  |  |  |  |\n| Apps |  |\n| [Web app](https://zulip.com/help/supported-browsers)Any modern browser\n\n |  |  |  |  |  |  |  |\n| [Desktop apps](https://zulip.com/apps/)Windows, Mac, Linux\n\n |  |  |  |  |  |  |  |\n| [Mobile apps](https://zulip.com/apps/)iOS and Android\n\n |  |  |  |  |  |  |  |\n| [Terminal app](https://zulip.com/apps/) |  |  |  |  |  |  |  |\n| [Mobile push notifications](https://zulip.com/help/mobile-notifications) |  |  |  | Limited |  |  |  |\n| Efficient communication |  |\n| [Expressive formatting](https://zulip.com/help/format-your-message-using-markdown)Code syntax highlighting, LaTeX, etc.\n\n |  |  |  |  |  |  |  |\n| Collaborative messages |  |  |  |  |  |  |  |\n| [Extensive keyboard shortcuts](https://zulip.com/help/keyboard-shortcuts) |  |  |  |  |  |  |  |\n| Move messages between [channels](https://zulip.com/help/move-content-to-another-channel) and [topics](https://zulip.com/help/move-content-to-another-topic) |  |  |  |  |  |  |  |\n| [Mark topics as resolved](https://zulip.com/help/resolve-a-topic)Lightweight project management\n\n |  |  |  |  |  |  |  |\n| [Permanent links](https://zulip.com/help/link-to-a-message-or-conversation) to messages and topics |  |  |  |  |  |  |  |\n| [User status and availability](https://zulip.com/help/status-and-availability) |  |  |  |  |  |  |  |\n| [Custom emoji](https://zulip.com/help/custom-emoji) |  |  |  |  |  |  |  |\n| [Read receipts](https://zulip.com/help/read-receipts) |  |  |  |  |  |  |  |\n| [Typing notifications](https://zulip.com/help/typing-notifications) |  |  |  |  |  |  |  |\n| [Saved snippets](https://zulip.com/help/saved-snippets) |  |  |  |  |  |  |  |\n| [Send later](https://zulip.com/help/schedule-a-message), [mark unread](https://zulip.com/help/marking-messages-as-unread), and other workflows |  |  |  |  |  |  |  |\n| [Highly configurable notification settings](https://zulip.com/help/dm-mention-alert-notifications) |  |  |  |  |  |  |  |\n| [Email notifications](https://zulip.com/help/email-notifications) |  |  |  |  |  |  |  |\n| [Previews for links, images and videos](https://zulip.com/help/view-images-and-videos) |  |  |  |  |  |  |  |\n| [Linkifiers](https://zulip.com/help/add-a-custom-linkifier)Auto-link text to issues, tickets, etc.\n\n |  |  |  |  |  |  |  |\n| Integrations |  |\n| [Configurable call provider](https://zulip.com/help/configure-call-provider)Zoom, Jitsi, BigBlueButton, etc.\n\n |  |  |  |  |  |  |  |\n| [Native GIPHY integration](https://zulip.com/help/animated-gifs-from-giphy) |  |  |  |  |  |  |  |\n| [130+ native integrations](https://zulip.com/integrations/) |  |  |  |  |  |  |  |\n| 1000s of integrations though [Zapier](https://zulip.com/integrations/doc/zapier) and [IFTTT](https://zulip.com/integrations/doc/ifttt) |  |  |  |  |  |  |  |\n| [Admin controls for all bots and integrations](https://zulip.com/help/bots-overview) |  |  |  |  |  |  |  |\n| [Custom webhooks](https://zulip.com/api/outgoing-webhooks) |  |  |  |  |  |  |  |\n| [REST API custom integrations](https://zulip.com/api/rest) |  |  |  |  |  |  |  |\n| [Chat bridges with other products](https://github.com/42wim/matterbridge)Slack, Microsoft Teams, Matrix, etc.\n\n |  |  |  |  |  |  |  |\n| [Email bridge integration](https://zulip.com/help/message-a-channel-by-email) |  |  |  |  |  |  |  |\n| AI / LLM integration |  |  |  |  |  |  |  |\n| User administration |  |\n| [Email authentication](https://zulip.com/help/invite-users-to-join) |  |  |  |  |  |  |  |\n| [Reusable invitation links](https://zulip.com/help/invite-users-to-join) |  |  |  |  |  |  |  |\n| [OAuth social logins](https://zulip.com/help/configure-authentication-methods)Google, GitHub, GitLab, Apple\n\n |  |  |  |  |  |  |  |\n| [Custom profile fields](https://zulip.com/help/custom-profile-fields) |  |  |  |  |  |  |  |\n| [SSO with SAML](https://zulip.com/help/saml-authentication)Including Okta and OneLogIn\n\n |  |  |  |  |  |  |  |\n| [SSO with Microsoft Entra ID](https://zulip.readthedocs.io/en/latest/production/authentication-methods.html#plug-and-play-sso-google-github-gitlab) |  |  |  |  |  |  |  |\n| [SSO with OpenID Connect](https://zulip.readthedocs.io/en/stable/production/authentication-methods.html#openid-connect) |  | Please inquire | Please inquire |  |  |  |  |\n| [100+ authentication options](https://python-social-auth.readthedocs.io/en/latest/backends/index.html#social-backends)With python-social-auth\n\n |  | Please inquire | Please inquire |  |  |  |  |\n| [AD/LDAP user sync](https://zulip.readthedocs.io/en/stable/production/authentication-methods.html#ldap-including-active-directory) |  | Please inquire | Please inquire |  |  |  |  |\n| [AD/LDAP group sync](https://zulip.readthedocs.io/en/stable/production/authentication-methods.html#ldap-including-active-directory) |  | Please inquire | Please inquire |  |  |  |  |\n| [SCIM user sync](https://zulip.com/help/scim) |  |  |  |  |  |  |  |\n| [Create users via the Zulip API](https://zulip.com/api/create-user) |  |  |  |  |  |  |  |\n| [Custom user groups](https://zulip.com/help/create-user-groups) |  |  |  |  |  |  |  |\n| [Guest users](https://zulip.com/help/guest-users) |  |  |  |  |  |  |  |\n| [Limit user list access for guests](https://zulip.com/help/guest-users) |  |  |  |  |  |  |  |\n| Advanced administration |  |\n| [Private channels with shared history](https://zulip.com/help/channel-permissions#private-channels) |  |  |  |  |  |  |  |\n| [Private channels with private history](https://zulip.com/help/channel-permissions#private-channels) |  |  |  |  |  |  |  |\n| [Channel posting permissions](https://zulip.com/help/channel-posting-policy) |  |  |  |  |  |  |  |\n| [Direct messaging permissions](https://zulip.com/help/restrict-direct-messages) |  |  |  |  |  |  |  |\n| Permissions for [editing](https://zulip.com/help/restrict-message-editing-and-deletion) , [deleting](https://zulip.com/help/restrict-message-editing-and-deletion) and [moving](https://zulip.com/help/restrict-moving-messages) messages |  |  |  |  |  |  |  |\n| [Manage permissions by user role](https://zulip.com/help/user-roles) |  |  |  |  |  |  |  |\n| [Manage permissions with user groups](https://zulip.com/help/user-groups) |  |  |  |  |  |  |  |\n| [Grant permissions to individual users](https://zulip.com/help/manage-permissions) |  |  |  |  |  |  |  |\n| [Configure initial settings for new users](https://zulip.com/help/configure-default-new-user-settings) |  |  |  |  |  |  |  |\n| [Configure initial channels for new users](https://zulip.com/help/set-default-channels-for-new-users) |  |  |  |  |  |  |  |\n| [Public access option](https://zulip.com/help/public-access-option) |  |  |  |  |  |  |  |\n| [Advanced moderation tools](https://zulip.com/help/moderating-open-organizations) |  |  |  |  |  |  |  |\n| [Usage statistics charts](https://zulip.com/help/analytics) |  |  |  |  |  |  |  |\n| [Custom branding](https://zulip.com/help/create-your-organization-profile) |  |  |  |  |  |  |  |\n| [Custom domain](https://zulip.com/help/change-organization-url) |  |  |  |  |  |  |  |\n| Security |  |\n| [100% open-source, auditable codebase](https://github.com/zulip) |  |  |  |  |  |  |  |\n| [Restricted email domains](https://zulip.com/help/restrict-account-creation#configuring-email-domain-restrictions) |  |  |  |  |  |  |  |\n| [Custom password strength requirement](https://zulip.readthedocs.io/en/latest/production/security-model.html#passwords) |  |  |  |  |  |  |  |\n| [TLS encryption](https://zulip.readthedocs.io/en/stable/production/ssl-certificates.html) |  |  |  |  |  |  |  |\n| [Custom SSL certificate authority](https://zulip.com/help/custom-certificates) |  |  |  |  |  |  |  |\n| [Custom TLS server termination](https://zulip.readthedocs.io/en/latest/production/reverse-proxies.html) |  |  |  |  |  |  |  |\n| [Firewalled hosting](https://zulip.readthedocs.io/en/latest/production/deployment.html#customizing-the-outgoing-http-proxy) |  |  |  |  |  |  |  |\n| Air-gapped hosting |  |  |  |  |  |  |  |\n| Data encryption at rest |  |  |  |  |  |  |  |\n| [No-content push notifications](https://zulip.readthedocs.io/en/latest/production/mobile-push-notifications.html) |  |  |  |  |  |  |  |\n| [Revoke and reset any user's credentials](https://zulip.readthedocs.io/en/latest/production/management-commands.html#other-useful-manage-py-commands) |  |  |  |  |  |  |  |\n| [API endpoint access rate limits](https://zulip.readthedocs.io/en/latest/production/security-model.html#rate-limiting) |  |  |  |  |  |  |  |\n| Compliance |  |\n| [Message editing and deletion policies](https://zulip.com/help/restrict-message-editing-and-deletion) |  |  |  |  |  |  |  |\n| [Complete data exports](https://zulip.com/help/export-your-organization) |  |  |  |  |  |  |  |\n| [Granular data retention policies](https://zulip.com/help/message-retention-policy) |  |  |  |  |  |  |  |\n| [Detailed audit log of administrative actions](https://zulip.readthedocs.io/en/latest/subsystems/logging.html) |  |  |  |  |  |  |  |\n| [Compliance exports](https://zulip.readthedocs.io/en/latest/production/export-and-import.html#compliance-exports) |  |  |  |  |  |  |  |\n| [GDPR compliant](https://zulip.com/help/gdpr-compliance) |  |  |  |  |  |  |  |\n| HIPAA compliant |  |  |  |  |  |  |  |\n| Compliance customization and support |  | Please inquire | Please inquire |  | Billed hourly | Billed hourly |  |\n| Deployment options |  |\n| [Multiple organizations on one server](https://zulip.readthedocs.io/en/latest/production/multiple-organizations.html) |  |  |  |  |  |  |  |\n| [Maintain a local fork](https://zulip.readthedocs.io/en/latest/production/modify.html#applying-a-small-change)Keep custom code across upgrades\n\n |  |  |  |  |  |  |  |\n| [Comprehensive data backups and restores](https://zulip.readthedocs.io/en/latest/production/export-and-import.html) |  |  |  |  |  |  |  |\n| [Real-time data backup and replication](https://zulip.readthedocs.io/en/latest/production/export-and-import.html#database-only-backup-tools) |  |  |  |  |  |  |  |\n| [Off-server attachment storage](https://zulip.readthedocs.io/en/latest/production/upload-backends.html)NAS, S3, etc.\n\n |  |  |  |  |  |  |  |\n| [Outgoing proxy](https://zulip.readthedocs.io/en/latest/production/deployment.html#customizing-the-outgoing-http-proxy) |  |  |  |  |  |  |  |\n| [Docker deployments](https://github.com/zulip/docker-zulip) |  |  |  |  |  |  |  |\n| [Kubernetes deployments with Helm](https://github.com/zulip/docker-zulip/tree/main/kubernetes/chart/zulip) |  |  |  |  |  |  |  |\n| [Scalability for thousands of concurrent users](https://zulip.readthedocs.io/en/latest/production/requirements.html#scalability) |  |  |  |  |  |  |  |\n| [Deploy supporting services on separate hosts](https://zulip.readthedocs.io/en/latest/production/deployment.html#running-zulip-s-service-dependencies-on-different-machines) |  |  |  |  |  |  |  |\n| [Disaster recovery failover](https://zulip.readthedocs.io/en/latest/production/deployment.html#postgresql-warm-standby) |  |  |  |  |  |  |  |\n| [Monitoring and alerting](https://zulip.readthedocs.io/en/latest/production/deployment.html#postgresql-warm-standby) |  |  |  |  |  |  |  |\n| [Sentry integration for error reporting](https://zulip.readthedocs.io/en/latest/subsystems/logging.html#sentry-error-logging) |  |  |  |  |  |  |  |\n| Support |  |\n| Comprehensive documentation for [users](https://zulip.com/help/), [administrators](https://zulip.com/help/moving-to-zulip) and [server administrators](https://zulip.readthedocs.io/en/stable/production/index.html) |  |  |  |  |  |  |  |\n| Chat support in the [Zulip development community](https://zulip.com/development-community/) |  |  |  |  |  |  |  |\n| Feature feedback sessions |  |  |  | Chat only |  |  |  |\n| [Email support](https://zulip.com/help/contact-support) |  |  |  |  |  |  |  |\n| Import data from another Zulip server |  |  |  |  |  |  |  |\n| Import data from [Slack](https://zulip.com/help/import-from-slack), [Mattermost](https://zulip.com/help/import-from-mattermost), or [Rocket.Chat](https://zulip.com/help/import-from-rocketchat) |  |  |  |  |  |  |  |\n| Import data from other chat products |  |  | Please inquire |  |  | Billed hourly |  |\n| Realtime support for installation and upgrades |  |  |  |  |  | Billed hourly |  |\n| Implementation consulting |  | Billed hourly | Billed hourly |  | Billed hourly | Billed hourly |  |\n| Training sessions |  | Billed hourly | Billed hourly |  | Billed hourly | Billed hourly |  |\n| Custom feature development |  | Billed hourly | Billed hourly |  |  | Billed hourly |  |\n| Advance notice for security releases |  |  |  |  |  |  |  |\n\nSign up for a managed cloud solution, or self-host our 100% open-source software. Get started for free.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "zulip",
+        "app_name": "Zulip",
+        "app_slug": "zulip",
+        "pricing_url": "https://zulip.com/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://zulip.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Zulip offers a free tier and managed cloud or self-hosting options. Some features are billed hourly or require inquiry.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Basic features for small teams.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Message history search (limited)",
+              "5 GB total file sharing and storage",
+              "Mobile push notifications (limited)"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "5GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Standard",
+            "tier_description": "Enhanced features for growing teams.",
+            "monthly_price": 6.25,
+            "annual_price": 75.0,
+            "annual_discount_percentage": 16.67,
+            "setup_fee": null,
+            "features": [
+              "5 GB/user file sharing and storage",
+              "Mobile push notifications",
+              "Advanced administration tools"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "5GB/user",
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Custom solutions for large organizations.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Custom branding",
+              "Custom domain",
+              "Compliance customization and support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Implementation consulting",
+            "fee_amount": null,
+            "fee_description": "Billed hourly"
+          },
+          {
+            "fee_name": "Training sessions",
+            "fee_amount": null,
+            "fee_description": "Billed hourly"
+          },
+          {
+            "fee_name": "Custom feature development",
+            "fee_amount": null,
+            "fee_description": "Billed hourly"
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T03:47:48.494080",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\zulip\\20250415_034748"
+}

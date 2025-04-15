@@ -1,0 +1,47 @@
+{
+  "app_id": "whova",
+  "app_name": "Whova",
+  "app_slug": "whova",
+  "pricing_url": "https://whova.com/pricing/",
+  "source_url": "https://whova.com/pricing/",
+  "all_pricing_urls": [
+    "https://whova.com/pricing/"
+  ],
+  "price_model_type": [
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is available upon request via a quote-based system. A demo is offered for trial purposes.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:18:10.131875",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "242cbe83-27a8-49c1-822a-a9dfae0be9e2",
+    "name": "Whova",
+    "slug": "whova",
+    "description": "Whova is an all-in-one event management solution that makes events modern and trendy, attracts and engages attendees effectively, and helps event organizers save time when managing event logistics.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/589ba9a7349440756ae62b25f257f262.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

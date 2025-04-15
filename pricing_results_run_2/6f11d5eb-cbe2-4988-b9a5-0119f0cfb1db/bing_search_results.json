@@ -1,0 +1,19 @@
+{
+  "app_name": "IRIS KashFlow",
+  "app_slug": "iris-kashflow",
+  "search_term": "Find the official pricing page URL for IRIS KashFlow (iris-kashflow.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744708099.0504525,
+  "response_text": [
+    "I couldn\u2019t locate the specific pricing page for IRIS KashFlow on their official website. You may want to check directly at [iris-kashflow.com](https://www.iris-kashflow.com) or contact their support for precise information. Let me know if you'd like assistance with something else!"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.iris-kashflow.com",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\iris-kashflow\\20250415_050819"
+}

@@ -1,0 +1,144 @@
+{
+  "app_id": "phoneburner",
+  "app_name": "PhoneBurner",
+  "app_slug": "phoneburner",
+  "pricing_url": "https://www.phoneburner.com/pricing",
+  "source_url": "https://www.phoneburner.com/pricing",
+  "all_pricing_urls": [
+    "https://www.phoneburner.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user and varies based on monthly or annual billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Great for individuals who need essential tools to increase conversations.",
+      "monthly_price": 165.0,
+      "annual_price": 140.0,
+      "annual_discount_percentage": 15.15,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Calling",
+        "Workflow Automation",
+        "Call Analytics",
+        "Reliable Deliverability"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "30 days",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contact import limit",
+            "value": "10,000/mo"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Best for teams and individuals focused on strategic, efficient outreach.",
+      "monthly_price": 195.0,
+      "annual_price": 165.0,
+      "annual_discount_percentage": 15.38,
+      "setup_fee": null,
+      "features": [
+        "All Standard features",
+        "Softphone Dialing",
+        "Krisp AI-Noise Cancellation",
+        "Live Call Monitoring & Coaching",
+        "Open API"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "90 days",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contact import limit",
+            "value": "20,000/mo"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Ideal for teams and individuals needing advanced features to elevate outreach.",
+      "monthly_price": 215.0,
+      "annual_price": 183.0,
+      "annual_discount_percentage": 14.88,
+      "setup_fee": null,
+      "features": [
+        "All Professional features",
+        "PhoneBurner Number",
+        "Custom Inbound Routing",
+        "Answer Callbacks In-App",
+        "Call Transcription & AI Note-Taker",
+        "SMS Messaging (Carrier Approval Required)",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contact import limit",
+            "value": "50,000/mo"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "PhoneBurner Numbers Add-on",
+      "fee_amount": null,
+      "fee_description": "Enhances call experience with dedicated lines for agents and campaigns."
+    },
+    {
+      "fee_name": "ARMOR Add-on",
+      "fee_amount": null,
+      "fee_description": "Protects numbers from false flags with monitoring and analytics."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:57:08.513432",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ddb6fc01-19e4-4731-bd57-d81c37ba9066",
+    "name": "PhoneBurner",
+    "slug": "phoneburner",
+    "description": "PhoneBurner is an outbound sales dialing platform that increases live client interactions and overall team productivity and transparency.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/4a23ddc57148a34849a45dd3f6835600_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

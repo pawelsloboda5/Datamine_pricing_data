@@ -1,0 +1,43 @@
+{
+  "app_id": "drift",
+  "app_name": "Drift",
+  "app_slug": "drift",
+  "pricing_url": null,
+  "source_url": "https://www.drift.com",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing information for Drift is not directly available in the provided content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:56:36.130636",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "de2ee6ec-d100-4d97-9c27-429201a63f83",
+    "name": "Drift",
+    "slug": "drift",
+    "description": "Drift is a messaging app that makes it easy for businesses to talk to their website visitors and customers in real-time, from anywhere.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/10a43fb42dbe9c1ff6cba2dfefdaebbb.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 7
+  }
+}

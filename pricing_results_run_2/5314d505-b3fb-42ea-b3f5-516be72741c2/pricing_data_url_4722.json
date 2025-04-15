@@ -1,0 +1,201 @@
+{
+  "app_id": "gitlab",
+  "app_name": "GitLab",
+  "app_slug": "gitlab",
+  "pricing_url": "https://about.gitlab.com/pricing/",
+  "source_url": "https://about.gitlab.com/pricing/",
+  "all_pricing_urls": [
+    "https://about.gitlab.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "GitLab offers multiple tiers with specific features and usage limits. Additional services such as compute minutes and storage are available as add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Use GitLab for personal projects",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "400 compute minutes per month",
+        "5 users per top-level group"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "For scaling organizations and multi-team usage",
+      "monthly_price": 29.0,
+      "annual_price": 348.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Code Ownership and Protected Branches",
+        "Merge Requests with Approval Rules",
+        "Team Planning",
+        "Advanced CI/CD",
+        "Enterprise User and Incident Management",
+        "Support",
+        "10,000 compute minutes per month"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Ultimate",
+      "tier_description": "For enterprises looking to deliver software faster",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Dynamic Application Security Testing",
+        "Security Dashboards",
+        "Vulnerability Management",
+        "Dependency Scanning",
+        "Container Scanning",
+        "Static Application Security Testing",
+        "Multi-Level Epics",
+        "Enterprise Agile Planning",
+        "Portfolio Management",
+        "Custom Roles",
+        "Value Stream Management",
+        "50,000 compute minutes per month",
+        "Free guest users"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "GitLab Duo Pro",
+      "tier_description": "For developers that want to focus on innovation and deliver high-quality software",
+      "monthly_price": 19.0,
+      "annual_price": 228.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Organizational User Controls",
+        "Code Suggestions",
+        "Chat"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "GitLab Duo Enterprise",
+      "tier_description": "For organizations that want AI throughout the software development lifecycle",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Summarization and Templating tools",
+        "Security and Vulnerability tools",
+        "Advanced Chat",
+        "Advanced Troubleshooting",
+        "AI Analytics",
+        "Personalize GitLab Duo"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Compute Minutes",
+      "unit": "per 1,000 compute minutes",
+      "base_price": 10.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Storage",
+      "unit": "per 10GiB",
+      "base_price": 5.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "GitLab Premium & GitLab Duo Pro SMB Promo",
+      "offer_description": "$19 for new small business customers",
+      "discount_percentage": null,
+      "offer_url": "https://about.gitlab.com/pricing/smb-promo/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:07:39.692292",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5314d505-b3fb-42ea-b3f5-516be72741c2",
+    "name": "GitLab",
+    "slug": "gitlab",
+    "description": "GitLab is an open source code collaboration tool with a rich feature set including management of repositories, reviewing tools, issue tracking, activity feeds and much more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/307fa4f7f37831684fe3e3ee33ab97d3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Developer Tools"
+    ],
+    "category_slugs": [
+      "developer-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 10
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "app_id": "bonjoro",
+  "app_name": "Bonjoro",
+  "app_slug": "bonjoro",
+  "pricing_url": "http://www.bonjoro.com/c/pricing-redirect-starter-2022-yearly",
+  "source_url": "https://www.bonjoro.com/pricing",
+  "all_pricing_urls": [
+    "http://www.bonjoro.com/c/pricing-redirect-starter-2022-yearly"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Bonjoro offers a free tier and multiple subscription plans with varying features and limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free forever for entrepreneurs and startups",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Video messaging",
+        "CRM integrations",
+        "Unlimited screen recording"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Includes branding and CTA buttons",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 40.0,
+      "setup_fee": null,
+      "features": [
+        "Add your branding",
+        "CTA buttons on your videos",
+        "2 message templates"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Most popular plan with unlimited videos",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 40.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited videos",
+        "Video scheduling",
+        "5 message templates"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Grrrowth",
+      "tier_description": "Best for teams with additional features",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 40.0,
+      "setup_fee": null,
+      "features": [
+        "3 users included",
+        "Send one-to-many videos",
+        "Custom domain / CNAME"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Managed service for larger teams",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited videos",
+        "Unlimited video templates",
+        "Team workspaces",
+        "Custom domain (SSL)",
+        "Increased Roll-up limits",
+        "Increased CSV upload limits",
+        "10 users included",
+        "Team training",
+        "Account manager",
+        "Payment via invoice",
+        "Priority support",
+        "Rest API access"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Discount",
+      "offer_description": "Save up to 40% on annual plans",
+      "discount_percentage": 40.0,
+      "offer_url": "http://www.bonjoro.com/c/pricing-redirect-starter-2022-yearly",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:31:05.220418",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0329c28c-c83a-408b-9034-0d6347195b84",
+    "name": "Bonjoro",
+    "slug": "bonjoro",
+    "description": "Bonjoro lets you send personalised welcome videos to your customers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/7c2487bc7a6ff76042202543eb60b217_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Appreciation"
+    ],
+    "category_slugs": [
+      "customer-appreciation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 12
+  }
+}

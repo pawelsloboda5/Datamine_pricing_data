@@ -1,0 +1,130 @@
+{
+  "app_id": "thryv",
+  "app_name": "Thryv",
+  "app_slug": "thryv",
+  "pricing_url": "https://www.thryv.com/pricing/",
+  "source_url": "https://www.thryv.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.thryv.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier with limited functionality and subscription plans starting at $244/month. Additional onboarding fees apply for certain packages.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Command Center",
+      "tier_description": "Communicate with ease.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "One inbox for social and email",
+        "TeamChat",
+        "Phone and video calls",
+        "WebChat",
+        "Free Dedicated Business Line"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Kickstart",
+      "tier_description": "Build a strong online presence.",
+      "monthly_price": 646.0,
+      "annual_price": null,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": 250.0,
+      "features": [
+        "Local Enhanced Listings",
+        "Professionally Designed Website",
+        "Social Management",
+        "Review Management",
+        "Website Heatmap",
+        "Track 10 Competitors",
+        "Offline Call Tracking",
+        "Analytics",
+        "Customer Reports",
+        "Local Impression Lift",
+        "Online Performance Dashboard",
+        "Analytics & Reporting"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Ignite",
+      "tier_description": "Attract new customers and convert prospects.",
+      "monthly_price": 975.0,
+      "annual_price": null,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": 250.0,
+      "features": [
+        "Everything in Kickstart",
+        "CRM",
+        "AI Assist Email & SMS Marketing",
+        "Client Portal",
+        "Documents & Signatures",
+        "Estimates, Invoices & Payments",
+        "Email Signature Builder"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Accelerate",
+      "tier_description": "Accelerate your business growth.",
+      "monthly_price": 1176.0,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": 250.0,
+      "features": [
+        "Everything in Ignite",
+        "Higher Ad Spend",
+        "Increase Impression Opportunities",
+        "More Ad Placements",
+        "Ready-to-use Reports",
+        "Custom Marketing and Sales Reports and Dashboards"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Onboarding Fee",
+      "fee_amount": 250.0,
+      "fee_description": "One-time fee for setting up and activating features."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:54:04.061129",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "af745a41-a011-46f7-bcb3-24a733c505e6",
+    "name": "Thryv",
+    "slug": "thryv",
+    "description": "Thryv is an all-in-one management software built for small business. It integrates essential business functions like payments, marketing, and CRM.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/9b2a8d8c44f0ee70ac5fd48f14ad7358.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 3
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "app_id": "bamboohr",
+  "app_name": "BambooHR",
+  "app_slug": "bamboohr",
+  "pricing_url": "https://www.bamboohr.com/pricing/",
+  "source_url": "https://www.bamboohr.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.bamboohr.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on a per-employee, per-month model for companies with more than 25 employees, and a flat monthly rate for companies with 25 employees or fewer. Volume discounts are applied automatically based on headcount.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Core",
+      "tier_description": "Build your HR foundation.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Employee Records",
+        "Custom Report Builder",
+        "Workflows and Approvals",
+        "Candidate Record",
+        "Time-Off Management",
+        "Time-Off Calendar",
+        "Employee Satisfaction with eNPS",
+        "Employee Wellbeing",
+        "360\u00ba Review Cycles",
+        "Employee Community",
+        "125+ integrations"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Elevate your people strategy.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes all Core features plus additional advanced features (details not specified)."
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Elite",
+      "tier_description": "Unlock people intelligence.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes all Pro features plus additional premium features (details not specified)."
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Spring Promotion",
+      "offer_description": "50% off HR Implementation for new customers subscribing before April 30, 2025.",
+      "discount_percentage": 50.0,
+      "offer_url": "https://www.bamboohr.com/pricing/#",
+      "valid_until": "2025-04-30"
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Implementation Fee",
+      "fee_amount": null,
+      "fee_description": "Applicable for HR Implementation or QuickStart Implementation programs."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:52:07.128348",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5663706d-a311-406f-83cd-c70485359486",
+    "name": "BambooHR",
+    "slug": "bamboohr",
+    "description": "BambooHR is an online human resources software service for small and midsized businesses.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/f332de2ae2ed1cf4464b9dbfeb12c021.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "HR Talent & Recruitment"
+    ],
+    "category_slugs": [
+      "hr"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 5
+  }
+}

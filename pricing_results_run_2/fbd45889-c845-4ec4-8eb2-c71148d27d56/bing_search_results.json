@@ -1,0 +1,243 @@
+{
+  "app_name": "AddEvent",
+  "app_slug": "addevent",
+  "search_term": "Find the official pricing page URL for AddEvent (addevent.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744692789.5943341,
+  "response_text": [
+    "The official pricing page for AddEvent is located here: [https://www.addevent.com/plans](https://www.addevent.com/plans)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "AddEvent.com - Plans and pricing",
+      "url": "https://www.addevent.com/c/plans-and-pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.addevent.com/plans",
+      "is_accessible": true,
+      "content": "AddEvent - 404\n===============      \n\n[![Image 1](https://cdn.addevent.com/web/images/logo-t1.svg)](https://www.addevent.com/)\n\n404 This page could not be found.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "addevent",
+        "app_name": "AddEvent",
+        "app_slug": "addevent",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page for AddEvent was not accessible, resulting in no available pricing information.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T00:53:16.181371",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.addevent.com/c/plans-and-pricing",
+      "is_accessible": true,
+      "content": "AddEvent.com - Plans and pricing\n=============== \n\n[![Image 1: AddEvent](https://cdn.addevent.com/web/images/logo-t1.svg)](https://www.addevent.com/ \"Home\")\n\n*   [Solutions](https://www.addevent.com/c/plans-and-pricing#)\n    \n    Discover our solutions\n    \n    [Share events Get your events onto your users' calendars.](https://www.addevent.com/solutions/share-events \"Share events\")[Collect RSVPs Collect information from your attendees when they register for your events.](https://www.addevent.com/solutions/collect-rsvp-events \"Collect RSVPs\")[Subscription calendar Share multiple events at once with a calendar your users can subscribe to.](https://www.addevent.com/solutions/subscription-calendars \"Subscription calendars\")[Embeddable calendar Embed a calendar on your website to display and share your events.](https://www.addevent.com/solutions/embeddable-calendar \"Embeddable calendar\")[Automated events Share high volumes of events that can be dynamically updated.](https://www.addevent.com/solutions/automated-events \"Automated events\")\n    \n    *   [Documentation](https://www.addevent.com/c/documentation \"Documentation\")\n    *   [Integrations](https://www.addevent.com/integrations \"Integrations\")\n    *   [Updates](https://help.addevent.com/changelog \"Updates\")\n    \n    [Analytics](https://www.addevent.com/solutions/analytics \"Analytics\")\n    \n*   [Pricing](https://www.addevent.com/c/plans-and-pricing \"Plans and pricing\")\n*   [Blog](https://www.addevent.com/blog \"Blog\")\n*   [FOR DEVS](https://www.addevent.com/c/documentation \"Documentation for developers\")\n\n[Sign In](https://app.addevent.com/ \"Sign In\") or [Sign Up](https://app.addevent.com/signup \"Sign Up\")\n\nSolutions\n\n*   [Share events](https://www.addevent.com/solutions/share-events \"Share events\")\n*   [Collect RSVPs](https://www.addevent.com/solutions/collect-rsvp-events \"Collect RSVPs\")\n*   [Subscription calendar](https://www.addevent.com/solutions/subscription-calendars \"Subscription calendars\")\n*   [Embeddable calendar](https://www.addevent.com/solutions/embeddable-calendar \"Embeddable calendar\")\n*   [Automated events](https://www.addevent.com/solutions/automated-events \"Automated events\")\n\n*   [Analytics](https://www.addevent.com/solutions/analytics \"Analytics\")\n*   [Integrations](https://www.addevent.com/integrations \"Integrations\")\n*   [Updates](https://help.addevent.com/changelog \"Updates\")\n*   [Documentation](https://www.addevent.com/c/documentation \"Documentation\")\n\n*   [Pricing](https://www.addevent.com/c/plans-and-pricing \"Pricing\")\n*   [Blog](https://www.addevent.com/blog \"Blog\")\n*   [FOR DEVS](https://www.addevent.com/c/documentation \"Documentation for developers\")\n\n[Go to app](https://www.addevent.com/signin \"Go to app\")\n\nChoose a plan that works for you\n================================\n\n![Image 2](https://cdn.addevent.com/web/images/decorators/pricing/right.svg)\n\nAnnual Monthly\n\nSave +20% with an annual plan\n\nHobby\n\nFree\n\nFor personal use only\n\n[Sign up](https://www.addevent.com/signup/hobby) [Select](https://www.addevent.com/c/plans-and-pricing#) [Select](https://www.addevent.com/c/plans-and-pricing#)\n\nSolutions\n\n*   Share Events\n*   Collect RSVPs\n*   Subscription Calendars\n*   ~Embeddable Calendars~\n*   Automated add-to-calendar button\n*   Automated add-to-calendar links\n*   ~Analytics  \n    \u200b~\n*   ~API & Zapier integration~\n\nEvents\n\nEvents can be created in the AddEvent dashboard or with the Events API. This limit is on **the number of events that are created within each usage period.**\n\n5 /usage period\n\nEvent-adds\n\nAn event-add is recorded every time a user **clicks an add-to-calendar button or link** and adds the event to their calendar.\n\n100 /usage period\n\nRSVPs\n\nAn RSVP is recorded every time a user registers for an event that has RSVP enabled.\n\n20 /usage period\n\nActive  \ncalendars\n\nCalendars can be used to **share multiple events at once** and to dynamically update your subscribers calendars with new events or updates to existing events.\n\n1  \n  \n\nActive  \nsubscribers\n\nAn active subscriber is a user who has **synced your AddEvent calendar with their own personal or work calendar.** They will receive dynamic updates to their calendar with new or updated events on your calendar.\n\n20  \n  \n\nAccount\n\n*   1 account user\n*   No support\n\nSmall Business\n\n$36/month\n\n$29/month\n\nBilled monthly\n\nBilled annually\n\nBilled annually or  \n$36 month-to-month\n\n[Sign up](https://www.addevent.com/signup/small-business) [Select](https://www.addevent.com/c/plans-and-pricing#) [Select](https://www.addevent.com/c/plans-and-pricing#)\n\nSolutions\n\n*   Share Events\n*   Collect RSVPs\n*   Subscription Calendars\n*   Embeddable Calendars\n*   Automated add-to-calendar button\n*   Automated add-to-calendar links\n*   Analytics  \n    \u200b\n*   API & Zapier integration\n\nEvents\n\nEvents can be created in the AddEvent dashboard or with the Events API. This limit is on **the number of events that are created within each usage period.**\n\n50 /usage period\n\nEvent-adds\n\nAn event-add is recorded every time a user **clicks an add-to-calendar button or link** and adds the event to their calendar.\n\n2,500 /usage period\n\nRSVPs\n\nAn RSVP is recorded every time a user registers for an event that has RSVP enabled.\n\n1,000 /usage period\n\nActive  \ncalendars\n\nCalendars can be used to **share multiple events at once** and to dynamically update your subscribers calendars with new events or updates to existing events.\n\n10  \n  \n\nActive  \nsubscribers\n\nAn active subscriber is a user who has **synced your AddEvent calendar with their own personal or work calendar.** They will receive dynamic updates to their calendar with new or updated events on your calendar.\n\n1,000  \n  \n\nAccount\n\n*   1 account user\n*   No support\n\nProfessional\n\n$129/month\n\n$99/month\n\nBilled monthly\n\nBilled annually\n\nBilled annually or  \n$129 month-to-month\n\n[Sign up](https://www.addevent.com/signup/professional) [Select](https://www.addevent.com/c/plans-and-pricing#) [Select](https://www.addevent.com/c/plans-and-pricing#)\n\nSolutions\n\n*   Share Events\n*   Collect RSVPs\n*   Subscription Calendars\n*   Embeddable Calendars\n*   Automated add-to-calendar button\n*   Automated add-to-calendar links\n*   Analytics  \n    \u200b\n*   API & Zapier integration\n\nEvents\n\nEvents can be created in the AddEvent dashboard or with the Events API. This limit is on **the number of events that are created within each usage period.**\n\n250 /usage period\n\nEvent-adds\n\nAn event-add is recorded every time a user **clicks an add-to-calendar button or link** and adds the event to their calendar.\n\n25,000 /usage period\n\nRSVPs\n\nAn RSVP is recorded every time a user registers for an event that has RSVP enabled.\n\n5,000 /usage period\n\nActive  \ncalendars\n\nCalendars can be used to **share multiple events at once** and to dynamically update your subscribers calendars with new events or updates to existing events.\n\n50  \n  \n\nActive  \nsubscribers\n\nAn active subscriber is a user who has **synced your AddEvent calendar with their own personal or work calendar.** They will receive dynamic updates to their calendar with new or updated events on your calendar.\n\n5,000  \n  \n\nAccount\n\n*   5 account users\n*   Priority support\n\nEnterprise\n\n![Image 3](https://cdn.addevent.com/web/images/infinity.svg)\n\nCustom plan\n\n[Contact sales](https://www.addevent.com/signup/enterprise/) [Contact sales](https://www.addevent.com/contact/sales)\n\nBuild a custom plan that meets your needs.\n\n*   Additional account users\n*   Developer & priority support\n*   Dedicated account manager\n\nEnterprise\n\n![Image 4](https://cdn.addevent.com/web/images/infinity.svg)\n\nCustom plan\n\n[Contact sales](https://www.addevent.com/signup/enterprise/) [Contact sales](https://www.addevent.com/contact/sales)\n\nBuild a custom plan that meets your needs.\n\n*   Additional account users\n*   Developer & priority support\n*   Dedicated account manager\n\nHobby\n\nFree\n\nFor personal use only\n\n[Sign up](https://www.addevent.com/signup/hobby) [Select](https://www.addevent.com/c/plans-and-pricing#) [Select](https://www.addevent.com/c/plans-and-pricing#)\n\nSolutions\n\n*   Share Events\n*   Collect RSVPs\n*   Subscription Calendars\n*   ~Embeddable Calendars~\n*   Automated add-to-calendar button\n*   Automated add-to-calendar links\n*   ~Analytics  \n    \u200b~\n*   ~API & Zapier integration~\n\nEvents\n\nEvents can be created in the AddEvent dashboard or with the Events API. This limit is on **the number of events that are created within each usage period.**\n\n5 /usage period\n\nEvent-adds\n\nAn event-add is recorded every time a user **clicks an add-to-calendar button or link** and adds the event to their calendar.\n\n100 /usage period\n\nRSVPs\n\nAn RSVP is recorded every time a user registers for an event that has RSVP enabled.\n\n20 /usage period\n\nActive  \ncalendars\n\nCalendars can be used to **share multiple events at once** and to dynamically update your subscribers calendars with new events or updates to existing events.\n\n1  \n  \n\nActive  \nsubscribers\n\nAn active subscriber is a user who has **synced your AddEvent calendar with their own personal or work calendar.** They will receive dynamic updates to their calendar with new or updated events on your calendar.\n\n20  \n  \n\nAccount\n\n*   1 account user\n*   No support\n\nSmall Business\n\n$36/month\n\n$29/month\n\nBilled monthly\n\nBilled annually\n\nBilled annually or  \n$36 month-to-month\n\n[Sign up](https://www.addevent.com/signup/small-business) [Select](https://www.addevent.com/c/plans-and-pricing#) [Select](https://www.addevent.com/c/plans-and-pricing#)\n\nSolutions\n\n*   Share Events\n*   Collect RSVPs\n*   Subscription Calendars\n*   Embeddable Calendars\n*   Automated add-to-calendar button\n*   Automated add-to-calendar links\n*   Analytics  \n    \u200b\n*   API & Zapier integration\n\nEvents\n\nEvents can be created in the AddEvent dashboard or with the Events API. This limit is on **the number of events that are created within each usage period.**\n\n50 /usage period\n\nEvent-adds\n\nAn event-add is recorded every time a user **clicks an add-to-calendar button or link** and adds the event to their calendar.\n\n2,500 /usage period\n\nRSVPs\n\nAn RSVP is recorded every time a user registers for an event that has RSVP enabled.\n\n1,000 /usage period\n\nActive  \ncalendars\n\nCalendars can be used to **share multiple events at once** and to dynamically update your subscribers calendars with new events or updates to existing events.\n\n10  \n  \n\nActive  \nsubscribers\n\nAn active subscriber is a user who has **synced your AddEvent calendar with their own personal or work calendar.** They will receive dynamic updates to their calendar with new or updated events on your calendar.\n\n1,000  \n  \n\nAccount\n\n*   1 account user\n*   No support\n\nProfessional\n\n$129/month\n\n$99/month\n\nBilled monthly\n\nBilled annually\n\nBilled annually or  \n$129 month-to-month\n\n[Sign up](https://www.addevent.com/signup/professional) [Select](https://www.addevent.com/c/plans-and-pricing#) [Select](https://www.addevent.com/c/plans-and-pricing#)\n\nSolutions\n\n*   Share Events\n*   Collect RSVPs\n*   Subscription Calendars\n*   Embeddable Calendars\n*   Automated add-to-calendar button\n*   Automated add-to-calendar links\n*   Analytics  \n    \u200b\n*   API & Zapier integration\n\nEvents\n\nEvents can be created in the AddEvent dashboard or with the Events API. This limit is on **the number of events that are created within each usage period.**\n\n250 /usage period\n\nEvent-adds\n\nAn event-add is recorded every time a user **clicks an add-to-calendar button or link** and adds the event to their calendar.\n\n25,000 /usage period\n\nRSVPs\n\nAn RSVP is recorded every time a user registers for an event that has RSVP enabled.\n\n5,000 /usage period\n\nActive  \ncalendars\n\nCalendars can be used to **share multiple events at once** and to dynamically update your subscribers calendars with new events or updates to existing events.\n\n50  \n  \n\nActive  \nsubscribers\n\nAn active subscriber is a user who has **synced your AddEvent calendar with their own personal or work calendar.** They will receive dynamic updates to their calendar with new or updated events on your calendar.\n\n5,000  \n  \n\nAccount\n\n*   5 account users\n*   Priority support\n\nEnterprise\n\n![Image 5](https://cdn.addevent.com/web/images/infinity.svg)\n\nCustom plan\n\n[Contact sales](https://www.addevent.com/signup/enterprise/) [Contact sales](https://www.addevent.com/contact/sales)\n\nBuild a custom plan that meets your needs.\n\n*   Additional account users\n*   Developer & priority support\n*   Dedicated account manager\n\nHobby\n\nFree\n\nFor personal use only\n\n[Sign up](https://www.addevent.com/signup/hobby) [Select](https://www.addevent.com/c/plans-and-pricing#) [Select](https://www.addevent.com/c/plans-and-pricing#)\n\nSolutions\n\n*   Share Events\n*   Collect RSVPs\n*   Subscription Calendars\n*   ~Embeddable Calendars~\n*   Automated add-to-calendar button\n*   Automated add-to-calendar links\n*   ~Analytics  \n    \u200b~\n*   ~API & Zapier integration~\n\nEvents\n\nEvents can be created in the AddEvent dashboard or with the Events API. This limit is on **the number of events that are created within each usage period.**\n\n5 /usage period\n\nEvent-adds\n\nAn event-add is recorded every time a user **clicks an add-to-calendar button or link** and adds the event to their calendar.\n\n100 /usage period\n\nRSVPs\n\nAn RSVP is recorded every time a user registers for an event that has RSVP enabled.\n\n20 /usage period\n\nActive  \ncalendars\n\nCalendars can be used to **share multiple events at once** and to dynamically update your subscribers calendars with new events or updates to existing events.\n\n1  \n  \n\nActive  \nsubscribers\n\nAn active subscriber is a user who has **synced your AddEvent calendar with their own personal or work calendar.** They will receive dynamic updates to their calendar with new or updated events on your calendar.\n\n20  \n  \n\nAccount\n\n*   1 account user\n*   No support\n\nSmall Business\n\n$36/month\n\n$29/month\n\nBilled monthly\n\nBilled annually\n\nBilled annually or  \n$36 month-to-month\n\n[Sign up](https://www.addevent.com/signup/small-business) [Select](https://www.addevent.com/c/plans-and-pricing#) [Select](https://www.addevent.com/c/plans-and-pricing#)\n\nSolutions\n\n*   Share Events\n*   Collect RSVPs\n*   Subscription Calendars\n*   Embeddable Calendars\n*   Automated add-to-calendar button\n*   Automated add-to-calendar links\n*   Analytics  \n    \u200b\n*   API & Zapier integration\n\nEvents\n\nEvents can be created in the AddEvent dashboard or with the Events API. This limit is on **the number of events that are created within each usage period.**\n\n50 /usage period\n\nEvent-adds\n\nAn event-add is recorded every time a user **clicks an add-to-calendar button or link** and adds the event to their calendar.\n\n2,500 /usage period\n\nRSVPs\n\nAn RSVP is recorded every time a user registers for an event that has RSVP enabled.\n\n1,000 /usage period\n\nActive  \ncalendars\n\nCalendars can be used to **share multiple events at once** and to dynamically update your subscribers calendars with new events or updates to existing events.\n\n10  \n  \n\nActive  \nsubscribers\n\nAn active subscriber is a user who has **synced your AddEvent calendar with their own personal or work calendar.** They will receive dynamic updates to their calendar with new or updated events on your calendar.\n\n1,000  \n  \n\nAccount\n\n*   1 account user\n*   No support\n\nProfessional\n\n$129/month\n\n$99/month\n\nBilled monthly\n\nBilled annually\n\nBilled annually or  \n$129 month-to-month\n\n[Sign up](https://www.addevent.com/signup/professional) [Select](https://www.addevent.com/c/plans-and-pricing#) [Select](https://www.addevent.com/c/plans-and-pricing#)\n\nSolutions\n\n*   Share Events\n*   Collect RSVPs\n*   Subscription Calendars\n*   Embeddable Calendars\n*   Automated add-to-calendar button\n*   Automated add-to-calendar links\n*   Analytics  \n    \u200b\n*   API & Zapier integration\n\nEvents\n\nEvents can be created in the AddEvent dashboard or with the Events API. This limit is on **the number of events that are created within each usage period.**\n\n250 /usage period\n\nEvent-adds\n\nAn event-add is recorded every time a user **clicks an add-to-calendar button or link** and adds the event to their calendar.\n\n25,000 /usage period\n\nRSVPs\n\nAn RSVP is recorded every time a user registers for an event that has RSVP enabled.\n\n5,000 /usage period\n\nActive  \ncalendars\n\nCalendars can be used to **share multiple events at once** and to dynamically update your subscribers calendars with new events or updates to existing events.\n\n50  \n  \n\nActive  \nsubscribers\n\nAn active subscriber is a user who has **synced your AddEvent calendar with their own personal or work calendar.** They will receive dynamic updates to their calendar with new or updated events on your calendar.\n\n5,000  \n  \n\nAccount\n\n*   5 account users\n*   Priority support\n\nEnterprise\n\n![Image 6](https://cdn.addevent.com/web/images/infinity.svg)\n\nCustom plan\n\n[Contact sales](https://www.addevent.com/signup/enterprise/) [Contact sales](https://www.addevent.com/contact/sales)\n\nBuild a custom plan that meets your needs.\n\n*   Additional account users\n*   Developer & priority support\n*   Dedicated account manager\n\n*   1\n*   2\n*   3\n*   4\n\n[View detailed plans & pricing comparison](https://www.addevent.com/c/plans-and-pricing/details) [View detailed plans & pricing comparison](https://www.addevent.com/c/plans-and-pricing/details)\n\n![Image 7](https://cdn.addevent.com/web/images/decorators/pricing/faq.svg)\n\nFAQ\n\nQuestions about pricing\n=======================\n\nWhat is a usage period?\n\nA usage period is a monthly period that starts on the day when you create an account, and resets/ends on the same day each subsequent month. For example, if you create an account on the 10th of January, your first usage period runs from the 10th of January to the 9th of February, and the second usage period runs from the 10th of February to the 9th of March, and so on.  \n  \nIf you upgrade your account to a paid plan, the day of the month that your account renews becomes the day that your usage period resets. For example, if you create an account on the 10th of January, and you upgrade your account on the 20th of January, your usage period now runs from from the 20th of January to the 19th of February, and your second usage period will run from the 20th of February to the 19th of March. If your account downgrades automatically, you will retain this usage period until you upgrade again.\n\nWhat is limited usage?\n\nEach pricing plan includes limits for the amount of usage allowed in a given month. If your plan reaches a limit, it will trigger an action in our system. The Hobby plan has a 'hard limit' which means that when a limit has been reached, the functionality which exceeded the limit will become unavailable for the rest of the month. We recommend that you use the Hobby plan to try out AddEvent's tools, and then upgrade to the right paid plan for you based upon your use-case and usage needs.\n\nWhat is a soft/hard limit?\n\nEach pricing plan includes limits for the amount of usage allowed in a given month. If your plan reaches a limit, it will trigger an action in our system. The Hobby plan has a 'hard limit' which means that when a limit has been reached, the functionality which exceeded the limit will become unavailable for the rest of the month. All paid plans have 'soft limits' which means that when a limit has been reached, our system will notify the account admin and request that you upgrade your account, but you will not automatically lose any of your plan's functionality.\n\nWhat is an event-add?\n\nOur system records an 'event-add' each time someone clicks an \"add to calendar\" button or link to add your event to their calendar, and our servers receive that request. Event-adds are counted for all of the event sharing methods included in the Dashboard, and for automated add to calendar buttons and links. Note that event-adds are counted for events, and not for calendar subscriptions. For example, if you have a calendar with 5 events on it, a user subscribing to that calendar would count as 1 subscriber and 0 event-adds.\n\nWhat is a subscriber?\n\nSubscription calendars are calendars that you create (and share) via the AddEvent Dashboard that can contain multiple events. Your users can subscribe (or follow) these calendars to add all of the events contained within them to their personal calendars. When your users subscribe, they become 'subscribers', and a dynamic connection is created between AddEvent and their chosen calendar system. This dynamic connection means that when you add, delete or change an event in the AddEvent subscription calendar you've created, that change will be reflected (after a short delay) on its subscribers' personal calendars.\n\nCan an account be shared?\n\nYes! You can add other individuals from your organization as users on your account so that you can collaborate on creating, managing, and sharing your events and calendars. You can invite new users and manage permissions for existing users from the Users page once you log in to the AddEvent app.  \n  \nYou can see the number of Account Users available on each plan on the Plans and Pricing page or, if you already have an account, on your Usage page. Need more Account Users than the Professional plan? Please reach out to our sales team to discuss an Enterprise plan with a custom number of Account Users.\n\nDo you offer any discounts to non-profits?\n\nWe are pleased to support non-profits with custom discounts. Please sign up for a free Hobby account and then get in touch with sales@addevent.com. Please attach your 501c(3) status/form and include the email address and Client ID of your AddEvent account, which can be found on your account page.\n\nDo you offer a free plan?\n\nYes, we offer a free Hobby plan with limited usage for personal, non-commercial use.\n\n[![Image 8: Home](https://cdn.addevent.com/web/images/logo2.svg)](https://www.addevent.com/ \"Home\")\n\n##### Carefully crafted by your friends at  \n\u00a9 2025 AddEvent Inc\n\n*   [Facebook](https://www.facebook.com/addeventinc/ \"Facebook\")\n*   [Twitter](https://twitter.com/AddEvent_Inc \"Twitter\")\n*   [LinkedIn](https://www.linkedin.com/company/25076591 \"LinkedIn\")\n*   [Instagram](https://www.instagram.com/addevent_inc \"Instagram\")\n*   [YouTube](https://www.youtube.com/channel/UC0qbG6tqVzcOBIxPYl8fo4g \"YouTube\")\n*   [Github](https://github.com/AddEventinc \"Github\")\n*   [CalendarX](https://www.calendarx.com/ \"CalendarX\")\n\nSolutions\n\n*   [Share events](https://www.addevent.com/solutions/share-events \"Share events\")\n*   [Collect RSVPs](https://www.addevent.com/solutions/collect-rsvp-events \"Collect RSVPs\")\n*   [Subscription calendars](https://www.addevent.com/solutions/subscription-calendars \"Subscription calendars\")\n*   [Embeddable calendar](https://www.addevent.com/solutions/embeddable-calendar \"Embeddable calendars\")\n*   [Automated events](https://www.addevent.com/solutions/automated-events \"Automated events\")\n*   [Analytics](https://www.addevent.com/solutions/analytics \"Analytics\")\n\nResources\n\n*   [Help Center](https://help.addevent.com/ \"Help Center\")\n*   [Documentation](https://www.addevent.com/c/documentation \"Documentation\")\n*   [Blog](https://www.addevent.com/blog \"Blog\")\n*   [Integrations](https://www.addevent.com/integrations \"Integrations\")\n*   [Updates](https://help.addevent.com/changelog \"Updates\")\n*   [Contact](https://www.addevent.com/c/contact \"Contact\")\n\nCompany\n\n*   [About Us](https://www.addevent.com/c/about \"About Us\")\n*   [Jobs](https://jobs.addevent.com/ \"Jobs\")\n*   [Pricing](https://www.addevent.com/c/plans-and-pricing \"Plans and pricing\")\n*   [Legal](https://www.addevent.com/c/legal/terms \"Legal\")\n*   [Affiliate](https://pages.addevent.com/affiliate \"Affiliate\")\n\n![Image 9](https://cdn.addevent.com/web/images/icon-check-fff-t2.svg)![Image 10](https://cdn.addevent.com/web/images/icon-load-t1.svg)![Image 11](https://cdn.addevent.com/web/images/homepage_hero_1.svg)![Image 12](https://cdn.addevent.com/web/images/homepage_hero_2.svg)![Image 13](https://cdn.addevent.com/web/images/homepage_hero_3.svg)![Image 14](https://cdn.addevent.com/web/images/homepage_hero_4.svg)![Image 15](https://cdn.addevent.com/web/images/homepage_hero_5.svg)![Image 16](https://cdn.addevent.com/web/images/tooltip-arrows-t1.svg)\n\nPlans and pricing",
+      "error": null,
+      "pricing_data": {
+        "app_id": "addevent",
+        "app_name": "AddEvent",
+        "app_slug": "addevent",
+        "pricing_url": "https://www.addevent.com/c/plans-and-pricing",
+        "source_url": "https://www.addevent.com/c/plans-and-pricing",
+        "all_pricing_urls": [
+          "https://www.addevent.com/c/plans-and-pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Annual plans offer a 20% discount compared to monthly billing.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Hobby",
+            "tier_description": "For personal use only",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Share Events",
+              "Collect RSVPs",
+              "Subscription Calendars",
+              "Automated add-to-calendar button",
+              "Automated add-to-calendar links"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Events",
+                  "value": 5
+                },
+                {
+                  "name": "Event-adds",
+                  "value": 100
+                },
+                {
+                  "name": "RSVPs",
+                  "value": 20
+                },
+                {
+                  "name": "Active calendars",
+                  "value": 1
+                },
+                {
+                  "name": "Active subscribers",
+                  "value": 20
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Small Business",
+            "tier_description": null,
+            "monthly_price": 36.0,
+            "annual_price": 29.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Share Events",
+              "Collect RSVPs",
+              "Subscription Calendars",
+              "Embeddable Calendars",
+              "Automated add-to-calendar button",
+              "Automated add-to-calendar links",
+              "Analytics",
+              "API & Zapier integration"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Events",
+                  "value": 50
+                },
+                {
+                  "name": "Event-adds",
+                  "value": 2500
+                },
+                {
+                  "name": "RSVPs",
+                  "value": 1000
+                },
+                {
+                  "name": "Active calendars",
+                  "value": 10
+                },
+                {
+                  "name": "Active subscribers",
+                  "value": 1000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Professional",
+            "tier_description": null,
+            "monthly_price": 129.0,
+            "annual_price": 99.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Share Events",
+              "Collect RSVPs",
+              "Subscription Calendars",
+              "Embeddable Calendars",
+              "Automated add-to-calendar button",
+              "Automated add-to-calendar links",
+              "Analytics",
+              "API & Zapier integration"
+            ],
+            "limits": {
+              "users": 5,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Events",
+                  "value": 250
+                },
+                {
+                  "name": "Event-adds",
+                  "value": 25000
+                },
+                {
+                  "name": "RSVPs",
+                  "value": 5000
+                },
+                {
+                  "name": "Active calendars",
+                  "value": 50
+                },
+                {
+                  "name": "Active subscribers",
+                  "value": 5000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Custom plan tailored to your needs",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Additional account users",
+              "Developer & priority support",
+              "Dedicated account manager"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T00:53:30.644308",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\addevent\\20250415_005331"
+}

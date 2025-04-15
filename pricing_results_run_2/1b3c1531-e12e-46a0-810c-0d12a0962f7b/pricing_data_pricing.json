@@ -1,0 +1,176 @@
+{
+  "app_id": "airparser",
+  "app_name": "Airparser",
+  "app_slug": "airparser",
+  "pricing_url": "https://app.airparser.com/signup",
+  "source_url": "https://airparser.com/pricing",
+  "all_pricing_urls": [
+    "https://app.airparser.com/signup"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 17% discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": null,
+      "monthly_price": 33.0,
+      "annual_price": 396.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "100 credits per month",
+        "30 days documents retention",
+        "OCR support",
+        "LLM Vision engine"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": null,
+      "monthly_price": 49.0,
+      "annual_price": 588.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "500 credits per month",
+        "90 days documents retention",
+        "OCR support",
+        "LLM Vision engine"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Most popular",
+      "monthly_price": 149.0,
+      "annual_price": 1788.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "2000 credits per month",
+        "90 days documents retention",
+        "OCR support",
+        "LLM Vision engine",
+        "Unlimited team members"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": null,
+      "monthly_price": 249.0,
+      "annual_price": 2988.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "5000 credits per month",
+        "180 days documents retention",
+        "OCR support",
+        "LLM Vision engine",
+        "Unlimited team members"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": 5000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": false
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Discount",
+      "offer_description": "17% discount on annual billing",
+      "discount_percentage": 17.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:33:34.205051",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1b3c1531-e12e-46a0-810c-0d12a0962f7b",
+    "name": "Airparser",
+    "slug": "airparser",
+    "description": "Airparser is a GPT-powered data extraction tool. Extract structured data from PDFs, emails, HTML, texts, images and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/22961f6877ebeebc97b2d7a54950c373.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools"
+    ],
+    "category_slugs": [
+      "ai-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

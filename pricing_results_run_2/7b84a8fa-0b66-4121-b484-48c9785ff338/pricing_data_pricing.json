@@ -1,0 +1,134 @@
+{
+  "app_id": "appcues",
+  "app_name": "Appcues",
+  "app_slug": "appcues",
+  "pricing_url": "https://www.appcues.com/pricing",
+  "source_url": "https://www.appcues.com/pricing",
+  "all_pricing_urls": [
+    "https://www.appcues.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 28,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing scales with Monthly Active Users (MAU).",
+  "pricing_tiers": [
+    {
+      "tier_name": "Start",
+      "tier_description": "Ideal for early-stage startups going from 0 to 1.",
+      "monthly_price": 300.0,
+      "annual_price": 3600.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 User Licenses",
+        "50 Published Experiences",
+        "Flows, Checklists, and more",
+        "Reporting & analysis",
+        "Email support"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Published Experiences",
+            "value": 50
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Grow",
+      "tier_description": "Ideal for teams at high-growth companies.",
+      "monthly_price": 750.0,
+      "annual_price": 9000.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "15 User Licenses",
+        "100 Published Experiences",
+        "Resource Center, NPS, and more",
+        "Premium integrations",
+        "Customer Success"
+      ],
+      "limits": {
+        "users": 15,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Published Experiences",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Ideal for enterprises and custom implementations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited User Licenses",
+        "150+ Published Experiences",
+        "Favorable multi-product pricing",
+        "Advanced security & SLAs",
+        "Priority Success & Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Published Experiences",
+            "value": "150+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:42:05.228087",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7b84a8fa-0b66-4121-b484-48c9785ff338",
+    "name": "Appcues",
+    "slug": "appcues",
+    "description": "Appcues is a product-led growth platform. Build exceptional user experiences, code free.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/8c39877fc3c6182f699c3f318ef5421e_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Product Management"
+    ],
+    "category_slugs": [
+      "product-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 15
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "app_name": "TextMagic SMS",
+  "app_slug": "textmagic",
+  "search_term": "Find the official pricing page URL for TextMagic SMS (textmagic.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744711475.288968,
+  "response_text": [
+    "The official pricing page for TextMagic SMS is located at: [https://www.textmagic.com/pricing/](https://www.textmagic.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Flexible SMS Pricing for Business Communication - Textmagic",
+      "url": "https://www.textmagic.com/sms-pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.textmagic.com/pricing/",
+      "is_accessible": true,
+      "content": "Pick any plan, change it later\n------------------------------\n\nSelect your texting volume and try for free. Easily scale, switch, or cancel plans anytime.\n\nSelect your destination country:\n\n![Image 1](https://www.textmagic.com/wp-content/themes/textmagic-new/assets/icons/flag/flag_placeholder.png)\n\nUnited States (USD)\n\n*   ![Image 2](https://www.textmagic.com/wp-content/themes/textmagic-new/assets/icons/flag/flag_placeholder.png)\n    \n    United States (USD)\n    \n*   ![Image 3](https://www.textmagic.com/wp-content/themes/textmagic-new/assets/icons/flag/flag_placeholder.png)\n    \n    United Kingdom (GBP)\n    \n*   ![Image 4](https://www.textmagic.com/wp-content/themes/textmagic-new/assets/icons/flag/flag_placeholder.png)\n    \n    Canada (USD)\n    \n*   ![Image 5](https://www.textmagic.com/wp-content/themes/textmagic-new/assets/icons/flag/flag_placeholder.png)\n    \n    Australia (AUD)\n\nSelect your texting volume:\n\nEssential\n\nPay-as-you-go - ideal for businesses with occasional messaging needs or one-time campaigns.\n\n$ 24.5\n\n/ 500 texts\n\n4.9c / text\n\n1 message part is 160 plain text characters or 70 Unicode characters long.\n\nExample: A message with 161 plain text characters will be counted as 2 texts.\n\nAdd credit when needed\n\nWith this plan, you can add credit and spend it when needed on sending messages and other services. The cost of one text message part is always 4.9c.\n\n500 messages will cost $24.5.\n\n1 message part is 160 plain text characters or 70 Unicode characters long.\n\nCredit never expires\n\nAny purchased credits remain valid indefinitely without an expiration date.\n\nUnlimited users\n\nAllows you to add as many users to your account as needed without extra charges.\n\nInbound texts are free\n\nReceiving incoming text messages is included in the plan at no extra cost.\n\nTexting number: $10 / month\n\nTo start texting you must buy a virtual dedicated number for an extra fee of $10 / month.\n\nMost popular\n\nProfessional 2K\n\nSAVE \u200b18%\n\nMonthly plan with volume discounts - ideal for businesses with consistent messaging needs.\n\n$ 80\n\nStarts from\n\n/ 2,000 texts / month\n\n4c / text\n\n1 message part is 160 plain text characters or 70 Unicode characters long.\n\nExample: A message with 161 plain text characters will be counted as 2 texts.\n\nBilled monthly\n\nThis plan includes a monthly prepaid credit for sending 2,000 text messages. If you exceed plan limit, it will trigger a renewal of the monthly plan.\n\n1 message part is 160 plain text characters or 70 Unicode characters long.\n\nCredit rolls over up to 2 months\n\nThe unused credit balance remains active for up to 2 months from the date of purchase.\n\n**Example:** Unused credit bought on the 15th of January will expire on the 1st of March (after 1.5 months). Unused credit bought on the 1st of March will expire on the 1st of May (after 2 months).\n\nUnlimited users\n\nAllows you to add as many users to your account as needed without extra charges.\n\nInbound texts are free\n\nReceiving incoming text messages is included in the plan at no extra cost.\n\nTexting number included\n\nThis plan includes one texting number at no additional cost.\n\nConnect 2K\n\nConnect your messaging providerBy connecting your preferred CPaaS provider (Communication Platform as a Service), like **Twilio, Vonage, or Sinch** with Textmagic, you can use all of Textmagic's features, while benefiting from your provider's routes, and rates.\n\n, like Twilio or Vonage, - for businesses with high texting volumes.\n\n$ 20\n\nStarts from\n\n/ 2,000 texts / month\n\n1c / text via CPaaS\n\n1c price applies **only to texts sent from connected CPaaS provider numbers**. Texts from Textmagic numbers are billed at the standard rate.\n\n1 message part is 160 plain text characters or 70 Unicode characters long.\n\nBilled monthly\n\nThis plan includes a monthly prepaid credit for sending 2,000 text messages via a CPaaS provider integration. If you exceed plan limit, it will trigger a renewal of the monthly plan.\n\nStandard fees apply for using other Textmagic services.\n\nCredit rolls over up to 2 months\n\nThe unused credit balance remains active for up to 2 months from the date of purchase.\n\n**Example:** Unused credit bought on the 15th of January will expire on the 1st of March (after 1.5 months). Unused credit bought on the 1st of March will expire on the 1st of May (after 2 months).\n\nUnlimited users\n\nAllows you to add as many users to your account as needed without extra charges.\n\nInbound texts are free\n\nReceiving incoming text messages is included in the plan at no extra cost.\n\nTexting numbers from CPaaS\n\nYour existing texting numbers will be connected via API from your CPaaS provider at no extra cost.\n\nThe ultimate list of Textmagic features\n\nSend and receive text messages\n\nIncluded\n\nTwo-way chat\n\nIncluded\n\nEmail to SMS\n\nIncluded\n\nSchedule texts and calendar\n\nIncluded\n\nSMS attachments\n\nIncluded\n\nSend and receive MMS\n\nIncluded\n\nMail merge and templates\n\nIncluded\n\nSecure text messaging\n\nIncluded\n\nSMS surveys\n\nIncluded\n\nCarrier lookup and number validation\n\nIncluded\n\nSMS API gateway\n\nIncluded\n\nSMS marketing campaigns\n\nIncluded\n\nGlobal SMS coverage\n\nIncluded\n\nLong text messages (up to 918 characters)\n\nIncluded\n\nSMS distribution lists\n\nIncluded\n\nSMS sender ID\n\nIncluded\n\nClick to text widget\n\nIncluded\n\n10DLC texting\n\nIncluded\n\nToll-free texting\n\nIncluded\n\nSMS auto-responders\n\nUnlimited\n\nKeyword-based SMS responses\n\nIncluded\n\nDelivery rate tracking\n\nIncluded\n\nResponse rate tracking\n\nIncluded\n\nSMS opt-in and opt-out management\n\nIncluded\n\nPersonalized SMS campaigns\n\nIncluded\n\nSMS notifications and alerts\n\nIncluded\n\nSpam filters\n\nIncluded\n\nReal-time two way messaging\n\nIncluded\n\nDelivery reports\n\nIncluded\n\nEmojis and emoticons\n\nIncluded\n\nQuick replies with templates\n\nIncluded\n\nMessage search\n\nIncluded\n\nChat statuses\n\nIncluded\n\nBlock/unblock contacts\n\nIncluded\n\nMute chats\n\nIncluded\n\nCustom notification settings\n\nIncluded\n\nSchedule messages\n\nIncluded\n\nPin chats\n\nIncluded\n\nIncoming messages automation\n\nIncluded\n\nChat history export\n\nIncluded\n\nNative auto-correct\n\nComing soon\n\nReply suggestions by AI\n\nIncluded\n\nChat summary by AI\n\nIncluded\n\nCustom filtered views\n\nComing soon\n\nReal-time team collaboration\n\nIncluded\n\nTags\n\nComing soon\n\nWhatsapp conversations\n\nIncluded\n\nMeta Messenger conversations\n\nComing soon\n\nChat internal notes\n\nComing soon\n\nChat assignee\n\nIncluded\n\nUser mentions @\n\nComing soon\n\nIntegration with social media channels\n\nComing soon\n\nTeam members (Users)\n\nIncluded\n\nAccount roles and permissions\n\nIncluded\n\nSingle Sign-on using SAML\n\nIncluded\n\nAudit logs\n\nIncluded\n\nTeam members reporting\n\nIncluded\n\nShared calendar (scheduled campaigns)\n\nIncluded\n\nTeams\n\nComing soon\n\nProvision new users natively (Google, Slack, Microsoft)\n\nComing soon\n\nReal-time collaboration\n\nIncluded\n\nActivity feeds\n\nComing soon\n\nSMS API gateway\n\nIncluded\n\nZapier integrations\n\nIncluded\n\nEmail to SMS API\n\nIncluded\n\nPrewritten API wrappers (11 languages)\n\nIncluded\n\nExtensive API documentation\n\nIncluded\n\nCallback URL support for incoming SMS\n\nIncluded\n\nCallback URL support for delivery statuses\n\nIncluded\n\nREST API\n\nIncluded\n\nNative AI integration\n\nComing soon\n\nOutbound SMS\n\nIncluded\n\nInbound SMS\n\nIncluded\n\nOutbound MMS\n\nIncluded\n\nInbound MMS\n\nIncluded\n\nOutbound calls\n\nIncluded\n\nInbound calls\n\nIncluded\n\nCall forwarding\n\nIncluded\n\nWhatsApp conversations\n\nIncluded\n\nMeta Messenger conversations\n\nComing soon\n\nEmail marketing\n\nComing soon\n\nShared email inboxes\n\nComing soon\n\nGmail/Outlook native sync\n\nComing soon\n\nImport contacts from spreadsheets\n\nIncluded\n\nList management\n\nIncluded\n\nOut-out management\n\nIncluded\n\nOpt-out automations\n\nIncluded\n\nSubscribe forms\n\nIncluded\n\nBlock contacts\n\nIncluded\n\nUnsubscribe contacts\n\nIncluded\n\nUnlimited custom fields\n\nIncluded\n\nFull contact conversation history\n\nIncluded\n\nInteraction tracking\n\nIncluded\n\nContact internal notes\n\nIncluded\n\nQuick contact editing\n\nIncluded\n\nAutomatic data enrichment\n\nComing soon\n\nTags\n\nComing soon\n\nDynamic lists (segments)\n\nComing soon\n\nContact filters\n\nComing soon\n\nEmail to SMS\n\nIncluded\n\nSMS distribution lists\n\nIncluded\n\nEmail validation and lookup\n\nIncluded\n\nTeam inboxes\n\nComing soon\n\nMarketing campaigns\n\nComing soon\n\nSmart scheduling\n\nComing soon\n\nA/B tests\n\nComing soon\n\nPrebuilt email templates\n\nComing soon\n\nPlain text email templates\n\nComing soon\n\nRich text email templates\n\nComing soon\n\nCustom HTML email templates\n\nComing soon\n\nEasy-to-use campaign builder\n\nComing soon\n\nCampaign reporting\n\nComing soon\n\nOpen rate tracking\n\nComing soon\n\nDelivery rate tracking\n\nComing soon\n\nClick through rate tracking (CTR)\n\nComing soon\n\nResponses to email campaigns\n\nComing soon\n\nBring your own carrier (BYOC)\n\nComing soon\n\nEmail signatures\n\nComing soon\n\nEmail attachments\n\nComing soon\n\n10DLC numbers (USA)\n\nIncluded\n\nToll-free numbers (North America)\n\nIncluded\n\nDedicated virtual numbers (30+ countries)\n\nIncluded\n\nCall forwarding\n\nIncluded\n\nAlphanumeric Sender IDs\n\nIncluded\n\nNative 10DLC numbers registration flow\n\nIncluded\n\nNative toll-free numbers verification flow\n\nIncluded\n\nOutbound calls\n\nIncluded\n\nInbound calls\n\nIncluded\n\nCall forwarding\n\nIncluded\n\nCustom greetings\n\nIncluded\n\nApp-wide dialpad\n\nComing soon\n\nCalls from a custom Caller ID\n\nComing soon\n\nCall routing and schedule\n\nComing soon\n\nVoicemail\n\nComing soon\n\nCall recordings\n\nComing soon\n\nSimple IVR system\n\nComing soon\n\nPut call on hold\n\nComing soon\n\nFully adaptive web app\n\nIncluded\n\nNative iOS app\n\nIncluded\n\nNative Android app\n\nIncluded\n\nPay-as-you go plan\n\nIncluded\n\nMonthly plans\n\nIncluded\n\nSecure PCI-compliant payment form\n\nIncluded\n\nOptional auto-recharge\n\nIncluded\n\nInvoices\n\nIncluded\n\nPO numbers\n\nIncluded\n\nBackup payment methods support\n\nIncluded\n\nCredit card payments (Visa, Mastercard, Amex)\n\nIncluded\n\nBank transfers\n\nIncluded\n\nAccounting email address\n\nIncluded\n\nCredit never expires\n\nIncluded\n\nDetailed cost statements\n\nIncluded\n\nMoney back guarantee\n\nIncluded\n\n2-factor authentication\n\nIncluded\n\nSingle Sign-On\n\nIncluded\n\nAudit logs\n\nIncluded\n\nAdvanced reporting\n\nIncluded\n\nData retention settings\n\nIncluded\n\nDelete data upon request\n\nIncluded\n\nFully secure data storage and backups\n\nIncluded\n\n99.9% uptime guarantee\n\nIncluded\n\n24/7 professional and fast support\n\nIncluded\n\nSOC 2 Type II compliance\n\nIncluded\n\nGDPR compliance\n\nIncluded\n\nEmail support\n\nIncluded\n\nPhone support\n\nIncluded\n\nLive chat support\n\nIncluded\n\nHelp center\n\nIncluded\n\nVideo tutorials\n\nIncluded\n\nBilling and plans FAQ\n---------------------\n\nHaven\u2019t found what you were looking for? [Contact us now](https://support.textmagic.com/contact-us/)\n\nThe best plan depends on your messaging volume and specific needs. All Textmagic plans are prepaid and include a set number of credits that can be used for texting and other services. Below are the key advantages and differences of each plan.\n\n*   **Essential** This **pay-as-you-go plan** is ideal for occasional texting with no commitments. It includes the prepaid credit that can be used for any Textmagic service at a standard rate. To start texting, you'll need to purchase a virtual number for an additional monthly fee, compared to the Professional plan. Your unused credit will never expire.\n*   **Professional** This **monthly plan** is perfect for predictable monthly messaging costs with volume discounts in your registration country. By subscribing to this plan, you will benefit from discounted message prices, one free virtual number, and free inbound texts. Any unused credits will roll over and remain active for up to 2 months from the date of purchase.\n*   **Connect** This **monthly plan** is suitable for customers who have a CPaaS account (Twilio, Vonage, Sinch, or Bandwidth) and want to integrate it with the Textmagic platform. With no code 2-minute quick setup, you can immediately start using all Textmagic web app features and its user-friendly interface while enjoying the lower messaging costs of your existing CPaaS provider. Any unused credits will roll over and remain active for up to 2 months from the date of purchase.\n\nYes, you can switch between plans whenever you wish simply by visiting the [Plans](https://app.textmagic.com/accounts/monthly-plans) page and selecting the desired messaging volume and plan.\u00a0 You can **Downgrade to the pay-as-you-go** (Essential plan), **Cancel** your current Professional or Connect plan, or select a new monthly plan that better suits your messaging volume.\n\n**BYOC** (Bring Your Own CPaaS) is a native no-code integration by Textmagic that lets businesses connect their CPaaS provider and link existing virtual numbers with the Textmagic platform. **CPaaS** (Communications Platform as a Service) is a cloud-based communication provider for texting and calling. Textmagic BYOC supports Twilio, Vonage, Sinch, and Bandwidth. **The Connect plan** is suitable only for those who prefer to connect their existing CPaaS provider instead of using the Textmagic default SMS gateway to dispatch text messages.\n\nTextmagic does not store PayPal, credit, or debit card details on this website. All payment data is securely stored and processed by a third-party PCI-compliant payment gateway - **Stripe**.\n\nYes, you can remove your payment methods from the [billing overview](https://app.textmagic.com/accounts/billing-overview) page at any time.\u00a0 **Essential plan:** If you remove the payment method, auto-recharge will be disabled, and you will need to top up manually. **Professional and Connect plans:**\u00a0 If you remove the payment method, your monthly plan will remain active until the next renewal. After that, you will be downgraded automatically to the Essential plan with a disabled auto-recharge.\n\n**UK customers** All customers from the UK will be charged VAT 20%. **EU customers** To avoid paying VAT, you need to enter your organization's registered VAT number into the Stripe portal while making the payment. Once you do this, you will no longer be charged VAT. **US customers** Textmagic applies sales tax to purchases in accordance with state nexus thresholds. The applicable tax rate varies based on your geographical region and is added to the purchase price. If you are eligible for a tax exemption, please **send your exemption certificate** to [support@textmagic.com](mailto:support@textmagic.com) **before making the payment.**\n\n**Essential plan:** With this pay-as-you-go plan, unused credit never expires and remains active forever.\u00a0 **Professional** and **Connect** plans: With these monthly plans, unused credit rolls over for up to 2 months. **Example**: The unused credit bought on January 15th will expire on March 1st (after 1.5 months), and the unused credit bought on March 1st will expire on May 1st (after 2 months).\n\n**Essential plan:** If auto-recharge is enabled, your account will automatically be topped up when the balance falls too low, according to the selected [auto-recharge settings](https://app.textmagic.com/accounts/billing-overview). Otherwise, you will need to manually buy credit each time to ensure uninterrupted service. **Profession** and **Connect** plans: The monthly plan will be renewed automatically if your balance falls critically low (depending on the selected plan) to ensure uninterrupted service.\u00a0 The [billing overview](https://app.textmagic.com/accounts/billing-overview) page allows you to manage your plans, billing details, auto-recharge settings, and review your costs summary.\n\nTo receive a refund for the unused SMS credit, please [contact us](https://support.textmagic.com/contact-us/). Please include your name, company name, email address, and the reason why you are requesting a refund.\n\nYes, you can [disable auto-recharge](https://app.textmagic.com/accounts/billing-overview) on the Essential plan anytime you wish. We highly recommend you use auto-recharge if:\n\n*   You have a [dedicated virtual number](https://app.textmagic.com/services/sender-settings/numbers) subscription, [Sender ID](https://app.textmagic.com/services/sender-settings/sender-ids), or an active [10DLC campaign](https://app.textmagic.com/services/sender-settings/10dlc).\u00a0\n*   You use a call forwarding service.\n*   Your service operations are very dependent on the SMS service.\n\nTo stop the Professional/Connect plan renewal, Go to the [Plans](https://app.textmagic.com/accounts/monthly-plans) page and Click \u201cDowngrade to pay-as-you-go\u201d or \u201cCancel plan.\u201d\n\nYes, discounts are available with the Professional monthly plans, which offer savings of up to 49%, and the Connect monthly plans, which offer savings of 80% compared to the Essential pay-as-you-go plan. You can switch between plans or upgrade whenever you want simply by visiting the [Plans](https://app.textmagic.com/accounts/monthly-plans) page.\n\nAffordable pay-as-you-go and subscription plans for business communication. Select your texting volume and try for free. Easily scale, switch, or cancel plans anytime.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "textmagic_sms",
+        "app_name": "TextMagic SMS",
+        "app_slug": "textmagic-sms",
+        "pricing_url": "https://www.textmagic.com/pricing",
+        "source_url": "https://www.textmagic.com/pricing",
+        "all_pricing_urls": [
+          "https://www.textmagic.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "TextMagic SMS offers flexible pricing plans tailored to different business needs, including pay-as-you-go and subscription models.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Essential",
+            "tier_description": "Pay-as-you-go plan for occasional messaging needs.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Credit never expires",
+              "Unlimited users",
+              "Free inbound texts"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Texting number",
+                  "value": "$10/month"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Professional",
+            "tier_description": "Monthly plan with volume discounts for consistent messaging needs.",
+            "monthly_price": 80.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Credit rolls over up to 2 months",
+              "Unlimited users",
+              "Free inbound texts",
+              "Texting number included"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": []
+            }
+          },
+          {
+            "tier_name": "Connect",
+            "tier_description": "Monthly plan for high texting volumes via CPaaS integration.",
+            "monthly_price": 20.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Credit rolls over up to 2 months",
+              "Unlimited users",
+              "Free inbound texts",
+              "Texting numbers from CPaaS"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": []
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Text Messages",
+            "unit": "per text",
+            "base_price": 0.049,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": 500.0,
+                "price": 0.049
+              }
+            ]
+          },
+          {
+            "metric_name": "Text Messages",
+            "unit": "per text",
+            "base_price": 0.04,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": 2000.0,
+                "price": 0.04
+              }
+            ]
+          },
+          {
+            "metric_name": "Text Messages via CPaaS",
+            "unit": "per text",
+            "base_price": 0.01,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": 2000.0,
+                "price": 0.01
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Professional Plan Discount",
+            "offer_description": "Save 18% on monthly plan with volume discounts.",
+            "discount_percentage": 18.0,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": [
+          {
+            "fee_name": "Texting Number",
+            "fee_amount": 10.0,
+            "fee_description": "Monthly fee for a virtual dedicated number."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T06:05:00.013755",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\textmagic\\20250415_060500"
+}

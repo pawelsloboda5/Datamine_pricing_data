@@ -1,0 +1,301 @@
+{
+  "app_name": "Nifty",
+  "app_slug": "nifty-pm",
+  "search_term": "Find the official pricing page URL for Nifty (nifty-pm.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744697697.3333023,
+  "response_text": [
+    "The official pricing page URL for Nifty is: [https://niftypm.com/pricing](https://niftypm.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://niftypm.com/pricing",
+      "is_accessible": true,
+      "content": "Nifty Pricing\n-------------\n\n14-day free trial. No credit card needed.  \nUpgrade, downgrade, or cancel at anytime.\n\nMonthlyAnnual\n\nAnnual plans receive up to 45% OFF \ud83c\udf89\n\n*   ##### Business Essentials\n    \n    *   Storage Space\n    *   Active Projects\n    *   Guests & Clients\n*   ##### Core Features\n    \n    *   Tasks\n    *   Milestones\n    *   Discussions\n    *   Docs\n    *   Files\n    *   Team Chat\n    *   Portfolios\n    *   Recurring Tasks\n    *   Task Dependencies\n    *   Milestone Dependencies\n*   ##### Advanced Features\n    \n    *   Time Tracking & Reporting\n    *   Custom Fields\n    *   Budget Tracking\n    *   Workflow Automations\n    *   File Proofing\n    *   Cross-Project Overviews\n    *   Goals Tracking\n    *   Team Workloads\n    *   Custom Roles & Permissions\n    *   Native Forms\n*   ##### Account & Security\n    \n    *   Two-Factor Authentication\n    *   Google SSO\n    *   Microsoft SSO\n    *   Open API\n    *   Custom Domain\n    *   Custom SAML\n    *   IP Restriction\n*   ##### Support\n    \n    *   Self-Serve Help Center\n    *   Priority Support\n    *   Dedicated Success Manager\n\n### Free\n\nFree to help you get started.\n\n**$0** forever, unlimited members\n\n*   *   100 MB**Storage Space**\n    *   2 Projects**Active Projects**\n    \n*   *   **Tasks**\n    *   **Milestones**\n    *   **Discussions**\n    *   **Docs**\n    *   **Files**\n    *   **Team Chat**\n    *   **Portfolios**\n    *   **Recurring Tasks**\n    *   **Task Dependencies**\n    *   **Milestone Dependencies**\n\n*   *   **Two-Factor Authentication**\n    \n*   *   **Self-Serve Help Center**\n    \n\n### Personal\n\nIncludes all essential features.\n\n**$7**per member, per month\n\n*   *   100 GB**Storage Space**\n    *   40 Projects**Active Projects**\n    *   2 per paid seat**Guests & Clients**\n*   *   **Tasks**\n    *   **Milestones**\n    *   **Discussions**\n    *   **Docs**\n    *   **Files**\n    *   **Team Chat**\n    *   **Portfolios**\n    *   **Recurring Tasks**\n    *   **Task Dependencies**\n    *   **Milestone Dependencies**\n*   *   **Custom Fields**\n    *   **Budget Tracking**\n    *   **Time Tracking & Reporting**\n    \n*   *   **Two-Factor Authentication**\n    \n*   *   **Self-Serve Help Center**\n    \n\n### Pro\n\nIncludes all enhanced features.\n\n**$10**per member, per month\n\n*   *   250 GB**Storage Space**\n    *   100 Projects**Active Projects**\n    *   5 per paid seat**Guests & Clients**\n*   *   **Tasks**\n    *   **Milestones**\n    *   **Discussions**\n    *   **Docs**\n    *   **Files**\n    *   **Team Chat**\n    *   **Portfolios**\n    *   **Recurring Tasks**\n    *   **Task Dependencies**\n    *   **Milestone Dependencies**\n*   *   **Custom Fields**\n    *   **Budget Tracking**\n    *   **Time Tracking & Reporting**\n    *   **Workflow Automations**\n    *   **File Proofing**\n    *   **Cross-Project Overviews**\n    \n*   *   **Two-Factor Authentication**\n    *   **Google SSO**\n    \n*   *   **Self-Serve Help Center**\n    \n\n### Business\n\nBest for advanced workflows.\n\n**$16**per member, per month\n\n*   *   Unlimited**Storage Space**\n    *   Unlimited**Active Projects**\n    *   Unlimited**Guests & Clients**\n*   *   **Tasks**\n    *   **Milestones**\n    *   **Discussions**\n    *   **Docs**\n    *   **Files**\n    *   **Team Chat**\n    *   **Portfolios**\n    *   **Recurring Tasks**\n    *   **Task Dependencies**\n    *   **Milestone Dependencies**\n*   *   **Custom Fields**\n    *   **Budget Tracking**\n    *   **Time Tracking & Reporting**\n    *   **Workflow Automations**\n    *   **File Proofing**\n    *   **Cross-Project Overviews**\n    *   **Goals Tracking**\n    *   **Team Workloads**\n    *   **Custom Roles & Permissions**\n    \n*   *   **Two-Factor Authentication**\n    *   **Google SSO**\n    *   **Microsoft SSO**\n    *   **Open API**\n    *   **Custom Domain**\n    \n*   *   **Self-Serve Help Center**\n    *   **Priority Support**\n    \n\n### Enterprise\n\nA fully scaled enterprise solution.\n\n#### Contact Sales\n\nContact us\n\n*   *   Unlimited**Storage Space**\n    *   Unlimited**Active Projects**\n    *   Unlimited**Guests & Clients**\n*   *   **Tasks**\n    *   **Milestones**\n    *   **Discussions**\n    *   **Docs**\n    *   **Files**\n    *   **Team Chat**\n    *   **Portfolios**\n    *   **Recurring Tasks**\n    *   **Task Dependencies**\n    *   **Milestone Dependencies**\n*   *   **Time Tracking & Reporting**\n    *   **Custom Fields**\n    *   **Budget Tracking**\n    *   **Workflow Automations**\n    *   **File Proofing**\n    *   **Cross-Project Overviews**\n    *   **Goals Tracking**\n    *   **Team Workloads**\n    *   **Custom Roles & Permissions**\n    *   **Native Forms**\n*   *   **Two-Factor Authentication**\n    *   **Google SSO**\n    *   **Microsoft SSO**\n    *   **Open API**\n    *   **Custom Domain**\n    *   **Custom SAML**\n    *   **IP Restriction**\n*   *   **Self-Serve Help Center**\n    *   **Priority Support**\n    *   **Dedicated Success Manager**\n\nContact us\n\n\u2764\ufe0f Trusted by\n-------------\n\n###### Don\u2019t take our word for it\n\n### Nifty is acclaimed for its  \ndesign and performance \u2728\n\n[![Image 1: Nifty Project Management 3.0 - Chats, tasks, docs, roadmaps & workflow automations. | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=330952&theme=light)](https://www.producthunt.com/posts/nifty-project-management-3-0?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-nifty-project-management-3-0)\n\n> Nifty is a product that excels in many client environments. The ease of use makes it a powerful tool for managing our client portfolio.\n\n> \u201cI feel like we've tried every project management platform the cloud has on offer \u2014 some have proven too complex or too simplistic for our requirements. Nifty has been a perfectly seamless transition.\u201d\n> \n> Marc Held\n> \n> CEO, ODYN\n\n> Nifty is by far the best productivity tool I've ever used. They have consolidated so many tools down to one for my team, without compromising the experience.\n> \n> Rim N. Kay\n> \n> Engineering Lead, Emovis\n\n> Nifty is the glue my business was missing. Its one tool that my product team, development team, and clients all use, and now everyone knows exactly where to look for updates.\n> \n> Bhargav Patel\n> \n> Founder, IQM\n\n> Nifty is one of the most beautiful looking management tools on the market! This matters because customers are usually charmed by its aesthetics and intuitiveness.\n> \n> Marek Murawski\n> \n> Project Manager, Mrvsky\n\n> \u201cMy team and I have been using Nifty for about a year now, and it's been critical to our success in project planning and communication. \u201d\n> \n> Dave Braun\n> \n> CEO, Pro Website Creators\n\n> In the world full of PM tools, Nifty is awesome and stand apart. Tried the \"big\" players and just keep coming back to Nifty.\n> \n> Dele Omotosho\n> \n> Entrepreneur, Legal Tech\n\n> We are huge Nifty fans! We use it to run our accounting firm and manage all our tasks and internal communication. Highly recommend it!\n> \n> Spencer Jones\n> \n> Owner, Proact CFO\n\n> Nifty is a product that excels in many client environments. The ease of use makes it a powerful tool for managing our client portfolio.\n> \n> Stefan Schmidt\n> \n> Executive Partner, Hemmersbach\n\n> \u201cI feel like we've tried every project management platform the cloud has on offer \u2014 some have proven too complex or too simplistic for our requirements. Nifty has been a perfectly seamless transition.\u201d\n> \n> Marc Held\n> \n> CEO, ODYN\n\n> Nifty is by far the best productivity tool I've ever used. They have consolidated so many tools down to one for my team, without compromising the experience.\n> \n> Rim N. Kay\n> \n> Engineering Lead, Emovis\n\n> Nifty is the glue my business was missing. Its one tool that my product team, development team, and clients all use, and now everyone knows exactly where to look for updates.\n> \n> Bhargav Patel\n> \n> Founder, IQM\n\n> Nifty is one of the most beautiful looking management tools on the market! This matters because customers are usually charmed by its aesthetics and intuitiveness.\n> \n> Marek Murawski\n> \n> Project Manager, Mrvsky\n\n> \u201cMy team and I have been using Nifty for about a year now, and it's been critical to our success in project planning and communication. \u201d\n> \n> Dave Braun\n> \n> CEO, Pro Website Creators\n\n> In the world full of PM tools, Nifty is awesome and stand apart. Tried the \"big\" players and just keep coming back to Nifty.\n> \n> Dele Omotosho\n> \n> Entrepreneur, Legal Tech\n\n> We are huge Nifty fans! We use it to run our accounting firm and manage all our tasks and internal communication. Highly recommend it!\n> \n> Spencer Jones\n> \n> Owner, Proact CFO\n\n> We are huge Nifty fans! We use it to run our accounting firm and manage all our tasks and internal communication. Highly recommend it!\n> \n> Spencer Jones\n> \n> Owner, Proact CFO\n\n> Nifty is a tool that gets used consistently, don't know why but this is such an exception over other tools that got implemented only to be ignored by my team.\n> \n> Raj Nadar\n> \n> Founder, Sales Development Solutions\n\n> \u201cGreat tool! We have been using it for over a year and the new features are very regular! It allows us to manage our technical roadmap as well as our newsletter strategy.\u201d\n> \n> Loryanne Taste\n> \n> Business Developer\n\n> Nifty is amazing! I use it daily with my team and it's help my business grow by giving my team and I the tools needed to connect and stay on track\n> \n> Warren Wheeler\n> \n> Internet Marketer\n\n> I've been using Nifty for over two years now and have found it to be an extremely reliable project management tool. I don't think I'll ever switch to another PM again.\n> \n> Alex Carvalho\n> \n> Design Director\n\n> \u201cNifty is super awesome. I invested in a lot of different products over the years and nothing compares to how professional Nifty is.\u201d\n> \n> Rafa\u0142 Pi\u0105tek\n> \n> CEO, iTeach\n\n> Nifty PM is pretty nifty! It's like having my own accountability partner, which is very important to me. I don't get anything done without it. So many great features, a super sexy UI design.\n> \n> Yvens Ulysse Jr.\n> \n> Digital Marketing Strategist\n\n> A non-bloated, well structured, straightforward to use, task, project and portfolio management solution by a visionary team that supports its product well.\n> \n> Alexander Deliyannis\n> \n> Technical Project Manager\n\n> We are huge Nifty fans! We use it to run our accounting firm and manage all our tasks and internal communication. Highly recommend it!\n> \n> Spencer Jones\n> \n> Owner, Proact CFO\n\n> Nifty is a tool that gets used consistently, don't know why but this is such an exception over other tools that got implemented only to be ignored by my team.\n> \n> Raj Nadar\n> \n> Founder, Sales Development Solutions\n\n> \u201cGreat tool! We have been using it for over a year and the new features are very regular! It allows us to manage our technical roadmap as well as our newsletter strategy.\u201d\n> \n> Loryanne Taste\n> \n> Business Developer\n\n> Nifty is amazing! I use it daily with my team and it's help my business grow by giving my team and I the tools needed to connect and stay on track\n> \n> Warren Wheeler\n> \n> Internet Marketer\n\n> I've been using Nifty for over two years now and have found it to be an extremely reliable project management tool. I don't think I'll ever switch to another PM again.\n> \n> Alex Carvalho\n> \n> Design Director\n\n> \u201cNifty is super awesome. I invested in a lot of different products over the years and nothing compares to how professional Nifty is.\u201d\n> \n> Rafa\u0142 Pi\u0105tek\n> \n> CEO, iTeach\n\n> Nifty PM is pretty nifty! It's like having my own accountability partner, which is very important to me. I don't get anything done without it. So many great features, a super sexy UI design.\n> \n> Yvens Ulysse Jr.\n> \n> Digital Marketing Strategist\n\n> A non-bloated, well structured, straightforward to use, task, project and portfolio management solution by a visionary team that supports its product well.\n> \n> Alexander Deliyannis\n> \n> Technical Project Manager\n\nSave hundreds $$$  \nwith Nifty\n------------------------------\n\nMost teams use at least 3-4 tools to manage their daily workflow.  \nAnd so the costs of running a business add up fast.\n\n[](https://niftypm.com/)Free Forever\n\n*   Real-Time Team Chat\n*   Project Discussions\n*   Task Management\n*   Roadmaps & Milestones\n*   Document Management\n*   Workflow Automations\n*   Team Workloads\n*   Projects Overview\n*   File Storage\n*   File Proofing\n\nvs\n\n![Image 2: Logo Asana](https://niftypm.com/images/brand-logos/logo-asana.png)\n\n#### Asana: to-do's\n\n$9.99/month per user\n\n![Image 3: Logo Slack](https://niftypm.com/images/brand-logos/logo-slack.png)\n\n#### Slack: realtime chat\n\n$6.67/month per user\n\n![Image 4: Logo Dropbox](https://niftypm.com/images/brand-logos/logo-dropbox.png)\n\n#### Dropbox: file storage\n\n$12.50/month per user\n\n![Image 5: Logo Gsuite](https://niftypm.com/images/brand-logos/logo-gsuite.png)\n\n#### Gsuite: docs, calendar\n\n$5.00/month per user\n\n![Image 6: Logo Jira](https://niftypm.com/images/brand-logos/logo-jira.png)\n\n#### Jira: task tracker & planner\n\n$7.00/month per user\n\n![Image 7: Cry](https://niftypm.com/_nuxt/emoji-cry.DElek_ZT.png)\n\n#### $41.16/month per user\n\nWhy pay 5x more and have 5 more tabs open in your browser?\n\n#### Does Nifty offer a free trial to start?\n\nYes, all Nifty plans come with a free 14 day trial, no credit card required!\n\n#### How can I pay for Nifty?\n\nYou can pay for Nifty with any major credit card. For annual subscriptions, we can issue an invoice payable by check or wire transfer. Please contact us to arrange an invoice purchase.\n\n#### How do I manage my subscription plan?\n\nYou can upgrade, downgrade or cancel your plan anytime. When your trial expires, your projects will remain intact, but you will lose access to them until your subscription is activated.\n\n#### Do you offer any educational discounts?\n\nWe offer 50% discount to eligible students and educational institutions. [Learn more!](https://help.niftypm.com/en/articles/3769177-nifty-discount-for-non-profits-and-educational-institutions)\n\n#### Does Nifty have mobile and desktop apps?\n\nYes, you can download the Nifty app on [iOS](https://itunes.apple.com/us/app/nifty-project-management/id1366408429?ls=1&mt=8) and [Android](https://play.google.com/store/apps/details?id=com.niftypm). And, here are our [Mac](https://nifty-apps.s3.amazonaws.com/Nifty.dmg) & [Windows](https://nifty-apps.s3.amazonaws.com/Nifty.exe) apps for desktop.\n\n#### What security measures does Nifty have?\n\nEnd-to-end security is our top priority at Nifty. We regularly back up your data to prevent data loss and aid in recovery. We host data in secure SSAE 16 / SOC1 certified data centers, implement firewalls, and access restrictions on our servers to protect your information.\n\n#### Is Nifty available in other languages?\n\nNifty is available in English, French, Spanish, Portuguese, German, and Japanese. We have plans to integrate other languages soon. Let us know what language you\u2019re missing.\n\n#### Does Nifty offer a discount for Non-Profits?\n\nEligible educational institutions and non-profits can receive a 50% discount on Nifty Pro and Nifty Business plan. [Learn more!](https://help.niftypm.com/en/articles/3769177-nifty-discount-for-non-profits-and-educational-institutions)\n\n#### What is Nifty's cancellation policy?\n\nIf you cancel your subscription before the next renewal cycle, you will retain access to your account until the end of your subscription period. When your subscription expires, you will lose access to your account and all associated data.\n\n#### Get Started Now\n\nIt takes less than 2 mins to sign up and create your first project or import your data from anywhere.\n\nFree forever. No credit card needed.\n\nTry Nifty, free forever! Simple per-user pricing to help you grow whether you\u2019re a solo or a big team with 100s of users. Get a free 14-day trial on all of our plans.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "nifty",
+        "app_name": "Nifty",
+        "app_slug": "nifty",
+        "pricing_url": "https://niftypm.com/pricing",
+        "source_url": "https://niftypm.com/pricing",
+        "all_pricing_urls": [
+          "https://niftypm.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Annual plans offer up to 45% discount. Educational institutions and non-profits are eligible for a 50% discount on Pro and Business plans.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Free to help you get started.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Tasks",
+              "Milestones",
+              "Discussions",
+              "Docs",
+              "Files",
+              "Team Chat",
+              "Portfolios",
+              "Recurring Tasks",
+              "Task Dependencies",
+              "Milestone Dependencies",
+              "Two-Factor Authentication",
+              "Self-Serve Help Center"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "100MB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Active Projects",
+                  "value": 2
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Personal",
+            "tier_description": "Includes all essential features.",
+            "monthly_price": 7.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Tasks",
+              "Milestones",
+              "Discussions",
+              "Docs",
+              "Files",
+              "Team Chat",
+              "Portfolios",
+              "Recurring Tasks",
+              "Task Dependencies",
+              "Milestone Dependencies",
+              "Custom Fields",
+              "Budget Tracking",
+              "Time Tracking & Reporting",
+              "Two-Factor Authentication",
+              "Self-Serve Help Center"
+            ],
+            "limits": {
+              "users": null,
+              "storage": "100GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Active Projects",
+                  "value": 40
+                },
+                {
+                  "name": "Guests & Clients",
+                  "value": "2 per paid seat"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Includes all enhanced features.",
+            "monthly_price": 10.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Tasks",
+              "Milestones",
+              "Discussions",
+              "Docs",
+              "Files",
+              "Team Chat",
+              "Portfolios",
+              "Recurring Tasks",
+              "Task Dependencies",
+              "Milestone Dependencies",
+              "Custom Fields",
+              "Budget Tracking",
+              "Time Tracking & Reporting",
+              "Workflow Automations",
+              "File Proofing",
+              "Cross-Project Overviews",
+              "Two-Factor Authentication",
+              "Google SSO",
+              "Self-Serve Help Center"
+            ],
+            "limits": {
+              "users": null,
+              "storage": "250GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Active Projects",
+                  "value": 100
+                },
+                {
+                  "name": "Guests & Clients",
+                  "value": "5 per paid seat"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "Best for advanced workflows.",
+            "monthly_price": 16.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Tasks",
+              "Milestones",
+              "Discussions",
+              "Docs",
+              "Files",
+              "Team Chat",
+              "Portfolios",
+              "Recurring Tasks",
+              "Task Dependencies",
+              "Milestone Dependencies",
+              "Custom Fields",
+              "Budget Tracking",
+              "Time Tracking & Reporting",
+              "Workflow Automations",
+              "File Proofing",
+              "Cross-Project Overviews",
+              "Goals Tracking",
+              "Team Workloads",
+              "Custom Roles & Permissions",
+              "Two-Factor Authentication",
+              "Google SSO",
+              "Microsoft SSO",
+              "Open API",
+              "Custom Domain",
+              "Self-Serve Help Center",
+              "Priority Support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Active Projects",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "Guests & Clients",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "A fully scaled enterprise solution.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Tasks",
+              "Milestones",
+              "Discussions",
+              "Docs",
+              "Files",
+              "Team Chat",
+              "Portfolios",
+              "Recurring Tasks",
+              "Task Dependencies",
+              "Milestone Dependencies",
+              "Time Tracking & Reporting",
+              "Custom Fields",
+              "Budget Tracking",
+              "Workflow Automations",
+              "File Proofing",
+              "Cross-Project Overviews",
+              "Goals Tracking",
+              "Team Workloads",
+              "Custom Roles & Permissions",
+              "Native Forms",
+              "Two-Factor Authentication",
+              "Google SSO",
+              "Microsoft SSO",
+              "Open API",
+              "Custom Domain",
+              "Custom SAML",
+              "IP Restriction",
+              "Self-Serve Help Center",
+              "Priority Support",
+              "Dedicated Success Manager"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Active Projects",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "Guests & Clients",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Annual Plan Discount",
+            "offer_description": "Annual plans receive up to 45% OFF.",
+            "discount_percentage": 45.0,
+            "offer_url": null,
+            "valid_until": null
+          },
+          {
+            "offer_name": "Educational Discount",
+            "offer_description": "50% discount for eligible students and educational institutions.",
+            "discount_percentage": 50.0,
+            "offer_url": "https://help.niftypm.com/en/articles/3769177-nifty-discount-for-non-profits-and-educational-institutions",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T02:15:19.894019",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\nifty-pm\\20250415_021520"
+}

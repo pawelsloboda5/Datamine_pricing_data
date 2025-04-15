@@ -1,0 +1,82 @@
+{
+  "app_id": "drip",
+  "app_name": "Drip",
+  "app_slug": "drip",
+  "pricing_url": "https://www.drip.com/pricing",
+  "source_url": "https://www.drip.com/pricing",
+  "all_pricing_urls": [
+    "https://www.drip.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of active people in your account and the volume of emails sent.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Base Plan",
+      "tier_description": "For email lists of 1-2,500 people.",
+      "monthly_price": 39.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited email sends",
+        "Email support",
+        "Chat and email support",
+        "Dynamic segments",
+        "Onsite campaigns",
+        "Up to 50 workflows",
+        "Unlimited sub-accounts",
+        "Open API access",
+        "Free migration",
+        "Personalized onboarding"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Email List Size",
+            "value": "1-2,500"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:50:12.947793",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "71e554f1-7a4c-4414-a842-a638d0f83274",
+    "name": "Drip",
+    "slug": "drip",
+    "description": "Automate your ecommerce marketing at scale. Drip is your ecommerce marketing engine. Build personalized customer experiences, drive more revenue, and take your marketing strategy to the next level with Drip.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/47997379884e6b35789d6c097ce75e5e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Drip Emails"
+    ],
+    "category_slugs": [
+      "drip-emails"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 15
+  }
+}

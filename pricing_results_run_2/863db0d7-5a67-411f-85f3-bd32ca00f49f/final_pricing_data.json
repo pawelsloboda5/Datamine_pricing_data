@@ -1,0 +1,137 @@
+{
+  "app_id": "uscreen",
+  "app_name": "Uscreen",
+  "app_slug": "uscreen",
+  "pricing_url": "https://www.uscreen.tv/pricing/",
+  "source_url": "https://www.uscreen.tv/pricing/",
+  "all_pricing_urls": [
+    "https://www.uscreen.tv/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Uscreen offers subscription-based pricing with additional per-subscriber fees.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Growth",
+      "tier_description": "Designed for starting video monetization.",
+      "monthly_price": 199.0,
+      "annual_price": 149.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Netflix-style catalog",
+        "Monetize your way",
+        "Analytics on steroids",
+        "Marketing tools & automations",
+        "Build your own website"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "100 hours",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "live streaming",
+            "value": "1 free hour"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "App Essentials",
+      "tier_description": "Includes mobile apps and additional features.",
+      "monthly_price": 499.0,
+      "annual_price": 449.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Growth",
+        "2 Mobile Apps"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "100 hours",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "live streaming",
+            "value": "1 free hour"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Tailored plan for scaling businesses.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom amount of video storage",
+        "Custom amount of live streaming hours",
+        "Custom amount of admin users",
+        "VIP Support"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "custom",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "subscriber fee",
+      "unit": "per subscriber",
+      "base_price": 1.99,
+      "tiers": null
+    },
+    {
+      "metric_name": "subscriber fee",
+      "unit": "per subscriber",
+      "base_price": 0.99,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:04:12.676249",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "863db0d7-5a67-411f-85f3-bd32ca00f49f",
+    "name": "Uscreen",
+    "slug": "uscreen",
+    "description": "Uscreen is a fully hosted video platform enabling you to sell and distribute your videos online.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/ca1e2833093b9bb3d8a701f96fd6dea2_4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Video & Audio"
+    ],
+    "category_slugs": [
+      "video"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 4
+  }
+}

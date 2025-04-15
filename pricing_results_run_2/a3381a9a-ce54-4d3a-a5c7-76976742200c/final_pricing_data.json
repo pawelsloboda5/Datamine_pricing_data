@@ -1,0 +1,107 @@
+{
+  "app_id": "alterestate",
+  "app_name": "AlterEstate",
+  "app_slug": "alterestate",
+  "pricing_url": "https://alterestate.com/precios",
+  "source_url": "https://alterestate.com/precios/",
+  "all_pricing_urls": [
+    "https://alterestate.com/precios"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes features tailored for real estate professionals, with unlimited storage and no setup fees.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Inmobiliarias",
+      "tier_description": "For real estate teams with 1 to 20 agents.",
+      "monthly_price": 49.0,
+      "annual_price": 588.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Real Estate Website",
+        "CRM with Sales Funnels",
+        "Collaboration with Other Agencies",
+        "Unlimited Property Management",
+        "Integrations with Real Estate Portals",
+        "Facebook Leads Integration",
+        "AI-generated Descriptions and Content"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Desarrolladores",
+      "tier_description": "For developers, promoters, or master brokers.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features from the Inmobiliarias plan",
+        "Project management with full commercial cycle",
+        "Payment plan tracking tool",
+        "Intranet for external brokers",
+        "Client documentation and file management",
+        "Real-time project availability",
+        "Advanced cash flow projections and reporting"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Discount",
+      "offer_description": "20% discount for annual billing.",
+      "discount_percentage": 20.0,
+      "offer_url": "https://alterestate.com/precios",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:30:15.051356",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a3381a9a-ce54-4d3a-a5c7-76976742200c",
+    "name": "AlterEstate",
+    "slug": "alterestate",
+    "description": "AlterEstate is a software for Real Estate Agencies to help them connect and build strong relationships with their clients.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/b01bff3a84eb5c871960477b1a3c49c9.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 1
+  }
+}

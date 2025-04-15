@@ -1,0 +1,84 @@
+{
+  "app_id": "skedpal",
+  "app_name": "SkedPal",
+  "app_slug": "skedpal",
+  "pricing_url": "https://app.skedpal.com/#/getting-started/welcome?",
+  "source_url": "https://skedpal.com/pricing/",
+  "all_pricing_urls": [
+    "https://app.skedpal.com/#/getting-started/welcome?"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Users can cancel their subscription anytime, and discounts are available for referrals.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Monthly",
+      "tier_description": "Monthly subscription plan.",
+      "monthly_price": 14.95,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full access to all features",
+        "Pay Monthly",
+        "Cancel any time"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Yearly",
+      "tier_description": "Yearly subscription plan.",
+      "monthly_price": 9.95,
+      "annual_price": 119.4,
+      "annual_discount_percentage": 33.0,
+      "setup_fee": null,
+      "features": [
+        "Full access to all features",
+        "Pay Yearly",
+        "Cancel any time"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Referral Discount",
+      "offer_description": "Get up to 100% discount by inviting friends. Each friend subscription gives both a 10% discount.",
+      "discount_percentage": 10.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:08:14.341171",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3fc8d819-0d75-405b-aabd-e330963ca2b2",
+    "name": "SkedPal",
+    "slug": "skedpal",
+    "description": "SkedPal is a smart calendar app that schedules your to-do's based on your commitments and preferences.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/e2f2c6ced7bfb9926eb43b3bbe507a20.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "todo-lists"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 2
+  }
+}

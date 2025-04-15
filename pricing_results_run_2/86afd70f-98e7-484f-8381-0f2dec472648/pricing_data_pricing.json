@@ -1,0 +1,185 @@
+{
+  "app_id": "textedly",
+  "app_name": "Textedly",
+  "app_slug": "textedly",
+  "pricing_url": "https://www.textedly.com/pricing",
+  "source_url": "https://www.textedly.com/pricing",
+  "all_pricing_urls": [
+    "https://www.textedly.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Textedly offers flexible month-to-month plans with no long-term contracts. Additional messages and keywords can be purchased as needed.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free tier with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "50 text messages"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 50,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Basic plan for small-scale usage.",
+      "monthly_price": 26.0,
+      "annual_price": 312.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "500-600 text messages/month",
+        "1 custom Keyword",
+        "Free incoming messages",
+        "Unlimited contacts",
+        "Picture messaging",
+        "1 Toll-free phone number",
+        "1 10DLC phone number",
+        "1 User seat",
+        "Live chat support Mon-Sun"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": "500-600",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Bronze",
+      "tier_description": "Bronze plan for moderate usage.",
+      "monthly_price": 38.0,
+      "annual_price": 456.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1,000-1,200 text messages/month",
+        "1 custom Keyword",
+        "Free incoming messages",
+        "Unlimited contacts",
+        "Picture messaging",
+        "1 Toll-free phone number",
+        "1 10DLC phone number",
+        "1 User seat",
+        "Live chat support Mon-Sun"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": "1,000-1,200",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Plus plan for higher usage.",
+      "monthly_price": 69.0,
+      "annual_price": 828.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2,000-2,400 text messages/month",
+        "2 custom Keywords",
+        "Free incoming messages",
+        "Unlimited contacts",
+        "Picture messaging",
+        "1 Toll-free phone number",
+        "1 10DLC phone number",
+        "1 User seat",
+        "Live chat support Mon-Sun",
+        "Text-to-Pay Payments",
+        "Google Business Reviews",
+        "Premium Support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": "2,000-2,400",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional Text Messages",
+      "unit": "per 500 texts",
+      "base_price": 25.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Additional Keywords",
+      "unit": "per keyword",
+      "base_price": 5.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Affiliate Program",
+      "offer_description": "Refer someone to Textedly and both receive 5,000 free messages.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Telecom Surcharge",
+      "fee_amount": 8.0,
+      "fee_description": "Monthly surcharge for telecom services."
+    },
+    {
+      "fee_name": "Additional Teammates",
+      "fee_amount": 10.0,
+      "fee_description": "Monthly fee per additional teammate."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:05:02.567916",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "86afd70f-98e7-484f-8381-0f2dec472648",
+    "name": "Textedly",
+    "slug": "textedly",
+    "description": "Textedly is a SMS and MMS text messaging platform serving thousands of companies. Textedly is the easiest way to instantly send 10 or 100,000 bulk SMS and MMS mobile text messages.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/7415dd39ade5e10a1ecbc223dc5d17ea.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 2
+  }
+}

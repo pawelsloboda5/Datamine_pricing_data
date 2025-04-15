@@ -1,0 +1,112 @@
+{
+  "app_id": "donordock",
+  "app_name": "DonorDock",
+  "app_slug": "donordock",
+  "pricing_url": "https://www.donordock.com/pricing",
+  "source_url": "https://www.donordock.com/pricing",
+  "all_pricing_urls": [
+    "https://www.donordock.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers a 17% discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lite",
+      "tier_description": "For nonprofits under $300K in annual revenue.",
+      "monthly_price": 100.0,
+      "annual_price": 1200.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "User-Friendly Platform",
+        "Reporting & Analytics",
+        "Integrate Seamlessly"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Essentials",
+      "tier_description": "For growing nonprofits ready to build stronger donor relationships.",
+      "monthly_price": 300.0,
+      "annual_price": 3600.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Donor Segmentation",
+        "Automate Fundraising Efforts",
+        "Team Collaboration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "For established nonprofits aiming to accelerate their growth.",
+      "monthly_price": 450.0,
+      "annual_price": 5400.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Premium Support",
+        "Maximize Donor Retention",
+        "Gain Insights"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:45:28.866737",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d0783098-fb8f-44d0-9fef-b1aca7a6fd2c",
+    "name": "DonorDock",
+    "slug": "donordock",
+    "description": "DonorDock is a CRM designed for small nonprofits that helps you raise more money in less time.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/05880ca6b419085a379ab4ade926ca82.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 9
+  }
+}

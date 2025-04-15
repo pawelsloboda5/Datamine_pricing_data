@@ -1,0 +1,43 @@
+{
+  "app_id": "coupon_carrier",
+  "app_name": "Coupon Carrier",
+  "app_slug": "coupon-carrier",
+  "pricing_url": null,
+  "source_url": "https://couponcarrier.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not accessible, and no information could be extracted.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:11:18.255516",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "3dfa824a-8e3d-4887-bb9e-f56e1eb48ccd",
+    "name": "Coupon Carrier",
+    "slug": "coupon-carrier",
+    "description": "Coupon Carrier is a coupon and code distribution service to help you generate and distribute your unique codes. You can integrate with several different email service providers to monitor for new subscribers or events.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/3b696dfcbd2b3f38669fde51677bb096.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 1
+  }
+}

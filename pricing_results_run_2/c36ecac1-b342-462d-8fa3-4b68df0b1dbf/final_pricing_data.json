@@ -1,0 +1,107 @@
+{
+  "app_id": "jobnimbus",
+  "app_name": "JobNimbus",
+  "app_slug": "jobnimbus",
+  "pricing_url": "https://www.jobnimbus.com/pricing/#request-pricing",
+  "source_url": "https://www.jobnimbus.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.jobnimbus.com/pricing/#request-pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is tailored to individual business needs and requires a request for a quote.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Growing",
+      "tier_description": "For companies building processes",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Add unlimited jobs",
+        "Track workflow with boards",
+        "Collect digital payments",
+        "Offer financing to homeowners",
+        "Run custom reports",
+        "Automate 10 workflows",
+        "Share comments with @mentions",
+        "Integrate QuickBooks",
+        "Connect up to 5 software tools",
+        "Get onboarded with a JN expert",
+        "Get phone, email, and chat support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 5,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Established",
+      "tier_description": "For companies needing to scale",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Growing",
+        "Track workflow with unlimited boards",
+        "Track more with custom fields",
+        "Customize task types",
+        "Get deep reporting for A/R, Production, and more",
+        "Automated unlimited workflows",
+        "Get more access to our Customer Success team",
+        "Sync multiple locations with QuickBooks Desktop",
+        "Integrate unlimited software tools",
+        "Connect tools with API access",
+        "Use webhooks in automations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:33:58.774115",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c36ecac1-b342-462d-8fa3-4b68df0b1dbf",
+    "name": "JobNimbus",
+    "slug": "jobnimbus",
+    "description": "JobNimbus CRM + Project Management for the service industry.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/bfd86d62a8dfad03e288b7c20d033724.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 1
+  }
+}

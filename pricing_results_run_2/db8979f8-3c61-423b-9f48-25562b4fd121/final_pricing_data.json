@@ -1,0 +1,147 @@
+{
+  "app_id": "nicejob",
+  "app_name": "NiceJob",
+  "app_slug": "nicejob",
+  "pricing_url": "https://get.nicejob.com/pricing",
+  "source_url": "https://get.nicejob.com/pricing",
+  "all_pricing_urls": [
+    "https://get.nicejob.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription plans with optional add-ons for website services.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Reviews",
+      "tier_description": "Effortlessly boost reviews, enhance credibility, and automate your reputation growth.",
+      "monthly_price": 75.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Get 4x more reviews and up to 2x more customers",
+        "Automate review requests and follow-up reminders",
+        "Feature reviews on your website with social proof widgets",
+        "Automate social sharing of your top reviews",
+        "Monitor reviews across the web for quick action",
+        "Native and Zapier integrations"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Scale your business further with repeat business automation, referrals, AI tools, and more.",
+      "monthly_price": 125.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All the benefits of Reviews PLUS",
+        "Generate repeat business with automated booking reminders",
+        "Automate customer referrals with referral campaigns",
+        "Reward loyal customers with automated gifting",
+        "Get in-depth competitor SEO insights and topics tracking",
+        "Automate review replies with AI"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Sites",
+      "tier_description": "Custom designed, high converting website.",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 199.0,
+      "features": [
+        "Custom designed, high converting website",
+        "Guaranteed 10% more website sales or its free",
+        "Personal website coach",
+        "Industry-specific content writing",
+        "SEO optimized for Google search",
+        "Website updates when you need them",
+        "SSL certificate",
+        "Call tracking",
+        "Custom lead forms",
+        "Optimized content delivery network",
+        "DNS setup and migration",
+        "Reports dashboard",
+        "Optimized for mobile devices"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Grow",
+      "tier_description": "For automating review and referral campaigns, managing customers, and gaining insights.",
+      "monthly_price": 75.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Get 4x more reviews and up to 2x more customers",
+        "Automate review and referral campaigns",
+        "Automate social sharing of your top reviews",
+        "Generate repeat business with automated booking reminders (beta)",
+        "Monitor reviews across the web for quick action"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Grow + Sites",
+      "tier_description": "Our reputation marketing platform + we'll design, build, and manage the last website you'll ever need.",
+      "monthly_price": 174.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 199.0,
+      "features": [
+        "All the benefits of our Grow plan PLUS",
+        "We\u2019ll design, build, and manage a website for you that will convert 10% more leads.",
+        "Get expert guidance from a personal website coach",
+        "Capture more leads with custom lead forms",
+        "Industry-specific content that speaks to your target audience",
+        "Improve Google ranking with SEO optimization",
+        "Track calls and measure marketing effectiveness"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Additional landing pages",
+      "fee_amount": 145.0,
+      "fee_description": "One-time cost per page for additional landing pages on fully-managed websites."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:06:05.420946",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "db8979f8-3c61-423b-9f48-25562b4fd121",
+    "name": "NiceJob",
+    "slug": "nicejob",
+    "description": "NiceJob is a platform that helps you get more customer reviews and build a great reputation online.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d9b2926bc5086247f96470fa848eca61.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 1
+  }
+}

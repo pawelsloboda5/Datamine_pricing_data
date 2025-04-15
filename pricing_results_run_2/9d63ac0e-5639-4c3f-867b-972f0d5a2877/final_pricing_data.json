@@ -1,0 +1,48 @@
+{
+  "app_id": "textlocal",
+  "app_name": "Textlocal",
+  "app_slug": "textlocal",
+  "pricing_url": "https://textlocal.com/pricing",
+  "source_url": "https://textlocal.com/pricing/?tlrx=MPX%20-%20Bing%20-%20Targeting%20-%20Generics%20-%20Core%20-%20Send%20SMS%20%28Exact%29",
+  "all_pricing_urls": [
+    "https://textlocal.com/pricing",
+    "https://textlocal.com/webex-interact"
+  ],
+  "price_model_type": [
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "GBP",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Textlocal is transitioning to Webex Interact, and new signups for Textlocal Messenger will cease by April 2025. Existing customers will be invited to upgrade.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:53:03.518856",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9d63ac0e-5639-4c3f-867b-972f0d5a2877",
+    "name": "Textlocal",
+    "slug": "textlocal",
+    "description": "A great tool for sending and receiving SMS texts. Allows you to send SMS texts to thousands of customers at once with no fuss. You can also include attachments, surveys and vouchers/tickets, all within a single SMS message.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/63b99be9016cf56b47a470465f5d3715.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 2
+  }
+}

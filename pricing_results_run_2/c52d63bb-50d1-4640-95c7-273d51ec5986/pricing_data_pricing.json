@@ -1,0 +1,165 @@
+{
+  "app_id": "yousign",
+  "app_name": "Yousign",
+  "app_slug": "yousign",
+  "pricing_url": "https://yousign.com/pricing-application",
+  "source_url": "https://yousign.com/pricing",
+  "all_pricing_urls": [
+    "https://yousign.com/pricing-application",
+    "https://yousign.com/pricing-api"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and multiple subscription plans with additional features and limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Start signing your documents online, for FREE.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2 signature requests/month",
+        "1 user only",
+        "Self-signature: sign your own documents (unlimited)",
+        "Inbox",
+        "Automatic reminders"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": 2,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "One",
+      "tier_description": "Basic features for individual users with punctual eSignature needs.",
+      "monthly_price": 9.0,
+      "annual_price": 108.0,
+      "annual_discount_percentage": 18.18,
+      "setup_fee": null,
+      "features": [
+        "10 signature requests/month",
+        "1 user",
+        "Automatic reminders",
+        "Basic fields",
+        "Custom logo",
+        "Real-time monitoring"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": 10,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Advanced features with unlimited eSignatures.",
+      "monthly_price": 23.0,
+      "annual_price": 276.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All the One plan features",
+        "Unlimited eSignatures",
+        "SMS authentication",
+        "Approvals",
+        "Templates",
+        "Contact synchronisation",
+        "Integration with Zapier",
+        "Integration with HubSpot"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Premium features to automate and personalise your eSignature flows.",
+      "monthly_price": 38.0,
+      "annual_price": 456.0,
+      "annual_discount_percentage": 20.83,
+      "setup_fee": null,
+      "features": [
+        "All the Plus plan features",
+        "Unlimited eSignatures",
+        "Automated Forms (unlimited)",
+        "Bulk signatures",
+        "Document collection",
+        "Custom experiences",
+        "Workspaces"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Advanced eSignature (AES)",
+      "fee_amount": null,
+      "fee_description": "Available for yearly billing only."
+    },
+    {
+      "fee_name": "Qualified eSignature (QES)",
+      "fee_amount": 10.0,
+      "fee_description": "Available for yearly billing only."
+    },
+    {
+      "fee_name": "Single sign-on (SSO)",
+      "fee_amount": null,
+      "fee_description": "Available for yearly billing only."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:11:17.025921",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c52d63bb-50d1-4640-95c7-273d51ec5986",
+    "name": "Yousign",
+    "slug": "yousign",
+    "description": "Yousign: the easy-to-use, legally binding eSignature solution for all your documents.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/359f0696d5c91c65c6ff6abb41119427.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Documents"
+    ],
+    "category_slugs": [
+      "documents"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

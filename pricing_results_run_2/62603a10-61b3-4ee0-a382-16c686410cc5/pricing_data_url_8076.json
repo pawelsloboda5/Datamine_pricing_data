@@ -1,0 +1,224 @@
+{
+  "app_id": "survicate",
+  "app_name": "Survicate",
+  "app_slug": "survicate",
+  "pricing_url": "https://survicate.com/pricing/",
+  "source_url": "https://survicate.com/pricing/",
+  "all_pricing_urls": [
+    "https://survicate.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and multiple subscription options with varying features and limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Best for short-term projects or testing and experimenting with feedback.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Collect feedback across email, link, and web",
+        "Create a survey with AI or template",
+        "Display survey logic",
+        "Calculated CX metrics",
+        "Survey analytics & overtime reports",
+        "10+ tool integrations",
+        "GDPR Compliance & other Data Privacy laws",
+        "ISO 27001 certified",
+        "Two-Factor Authentication (2FA) & Google SSO"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "1000 responses",
+        "operations": null,
+        "api_calls": null,
+        "integrations": 10,
+        "custom_limits": [
+          {
+            "name": "Active Surveys",
+            "value": 1
+          },
+          {
+            "name": "Questions per Survey",
+            "value": "unlimited"
+          },
+          {
+            "name": "Data Retention",
+            "value": "1 month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Best for teams running regular customer feedback programs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All from Free, plus",
+        "2 active surveys",
+        "Unlimited Responses with overage charges",
+        "Add your company logo",
+        "Build a brand theme library",
+        "Custom intro and thank-you screens",
+        "Survey-level analytics",
+        "Export raw data and visual reports",
+        "AI survey answers categorization",
+        "AI Research Assistant chat",
+        "Talk with a human in less than 5 min",
+        "Book office hours with Customer Success"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "100000 responses",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active Surveys",
+            "value": 2
+          },
+          {
+            "name": "Questions per Survey",
+            "value": "unlimited"
+          },
+          {
+            "name": "Data Retention",
+            "value": "6 months"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Best for collecting high-volume feedback from big audiences.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All from Starter, plus",
+        "Unlimited active surveys",
+        "Recurring surveys",
+        "Static Feedback Button",
+        "Manage survey frequency and throttling",
+        "Recall respondent and answer data",
+        "Multilingual surveys",
+        "Target by session behavior, attributes, cookies",
+        "Retarget based on previous responses",
+        "AI sentiment analysis",
+        "Insights Hub",
+        "Categorize feedback from App Store, Play Store and Google Business Reviews into topics",
+        "Question-level topic categorization with AI",
+        "10 user seats",
+        "Manage roles & permissions",
+        "Hide Survicate branding"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "100000 responses",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active Surveys",
+            "value": "unlimited"
+          },
+          {
+            "name": "Questions per Survey",
+            "value": "unlimited"
+          },
+          {
+            "name": "Data Retention",
+            "value": "2 years"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Best for large teams needing custom solutions for feedback management.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything Survicate has to offer",
+        "All feedback channels: email, link, website, in-product and mobile app",
+        "Branded survey experience",
+        "Dashboards for multi-survey analysis",
+        "Dedicated Success Manager and outcomes plan",
+        "White-glove onboarding and training",
+        "Live implementation assistance",
+        "HIPAA compliance for healthcare data",
+        "Custom Terms of Service, DPA and NDA",
+        "On-demand security reviews and questions",
+        "Access logs for tracking user activity",
+        "SAML SSO for secure organizational login",
+        "Deliver surveys securely with CDN proxy"
+      ],
+      "limits": {
+        "users": "Bespoke",
+        "storage": "Bespoke",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active Surveys",
+            "value": "unlimited"
+          },
+          {
+            "name": "Questions per Survey",
+            "value": "unlimited"
+          },
+          {
+            "name": "Data Retention",
+            "value": "5 years"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:42:01.597968",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "62603a10-61b3-4ee0-a382-16c686410cc5",
+    "name": "Survicate",
+    "slug": "survicate",
+    "description": "Survicate is an effortless survey tool that allows you to collect continuous customer feedback via email, web, in-product, and mobile apps.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/94046cb85554c3a65c788c12a05e0f34.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 1
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "app_id": "zakeke",
+  "app_name": "Zakeke",
+  "app_slug": "zakeke-product-customizer",
+  "pricing_url": null,
+  "source_url": "https://www.zakeke.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The provided content does not include specific pricing information for Zakeke.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:42:33.865929",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "38c59925-2395-4ce8-b7d2-91f41265e89c",
+    "name": "Zakeke",
+    "slug": "zakeke-product-customizer",
+    "description": "Zakeke is a SaaS tool empowering retailers to offer their customers live product personalization on their websites.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/f3dc5093a3b8507cc398d060f28d1906.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 3
+  }
+}

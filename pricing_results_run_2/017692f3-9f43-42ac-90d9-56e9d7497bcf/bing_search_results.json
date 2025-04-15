@@ -1,0 +1,111 @@
+{
+  "app_name": "Twist",
+  "app_slug": "twist",
+  "search_term": "Find the official pricing page URL for Twist (twist.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744703885.3287017,
+  "response_text": [
+    "The official pricing page URL for Twist is: [https://twist.com/pricing](https://twist.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | Twist",
+      "url": "https://twist.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://twist.com/pricing",
+      "is_accessible": true,
+      "content": "* * *\n\n*   [Features](https://twist.com/home#featureSection)\n*   [Benefits](https://twist.com/home#benefitsSection)\n*   [Why async?](https://twist.com/async)\n*   [Pricing](https://twist.com/pricing)\n*   [Log in](https://twist.com/login?lang=en)\n\n![Image 1](https://res.cloudinary.com/imagist/image/fetch/f_auto/q_auto/c_scale,w_2240/https://twist.com/assets/pricing/pricing-header.jpg?_a=DATAg1JsZAA0)\n\nInvest in better team communication\n-----------------------------------\n\nBilling cycle\n\nChange currency\n\nFree plan\n---------\n\nUS$0\n\nper userper month\n\n*   Access up to **1 month** of comments and messages\n*   Up to **5** integrations\n*   Up to **5 GB** file storage\n*   **Standard** support\n*   Up to **500** internal member accounts\n*   Up to **500** external guest accounts\n\nUnlimited\n---------\n\nUS$6\n\nper userper month\n\n*   Access **full history** of comments and messages\n*   **Unlimited** integrations\n*   **Unlimited** file storage\n*   **Priority** support\n*   **Unlimited** internal member accounts\n*   **Unlimited** external guest accounts\n\nBilling cycle\n\nChange currency\n\nWhat Slack lacks\n----------------\n\n[Learn more](https://twist.com/slack-alternative)\n\n*   Important information gets buried\n*   Stressful pressure to respond ASAP\n*   Key conversations get siloed\n*   One line at a time, all the time\n*   Built for shallow work and instant messaging\n*   Prioritize shareholders over people\n*   Exacerbates workplace inequities\n\n*   Discussions stay on-topic & in context\n*   Respond calmly when you\u2019re ready\n*   Information is easily accessible\n*   Thoughtful conversations thrive in threads\n*   Built for deep work and [async communication](https://twist.com/async)\n*   Independent and bootstrapped\n*   Increases hybrid and remote team member parity\n\n### Frequently asked questions\n\nWhat happens to my threads and messages after a month in the free version of Twist?In the free version of Twist, you won\u2019t be able to view or search for thread comments and messages older than one month. However, all your team\u2019s data will still be safely stored on our servers \u2013 nothing will ever be deleted. If you decide to upgrade to the Unlimited plan later, you and your team will have full access to your Twist history.\n\nWill I lose my data if I downgrade from the Unlimited plan to the Free plan?No, your data is never deleted from Twist. When you downgrade to the free version, your comments and messages older than a month will still be saved on our servers, but you won\u2019t be able to view or search for them. If at some point you decide to re-subscribe to the Unlimited plan, you\u2019ll regain access to your team\u2019s full thread and conversation history.\n\nWhat is a guest?A guest is a limited team member who only has access to the specific channels to which they have been invited. A guest can be a single-channel or multi-channel guest based on how many channels they have been invited to. Guests will not be able to view, join or post in the rest of your team\u2019s channels. Read all about [how guests work in Twist](https://twist.com/help/articles/115004169449).\n\nHow much does it cost to have guests on my Twist team?When you\u2019re using Twist\u2019s free plan, all guests are free. However guests in the free plan can only view threads or messages that are less than one month old (like all team members in the free plan). When you\u2019re using the Unlimited plan, single-channel guests are free, but multi-channel guests are billed in the same way as team members.\n\nWe need to add new users to our team. How will that be billed?When you add a new user, we\u2019ll automatically make a prorated, one-time charge to your credit card. This will cover the new team member\u2019s account for the remainder of the current billing period. After that, the full amount for an extra member will be added to your regular invoice.\n\nCan I mix free members and Unlimited members together?If your team is using the Unlimited version of Twist, you will be billed for every member and multi-channel guest that you invite to your team. Single-channel guests are always free. If you\u2019d like to work with some free members, you can [create a separate, free team](https://twist.com/help/articles/115003654289). You can invite your members there and they will be able to use Twist at no cost. It\u2019s easy to [switch between multiple teams](https://twist.com/help/articles/115003731105) from a single Twist account. [More about billing](https://twist.com/help/articles/115003679665).\n\nDo you have enterprise pricing?If you have more than 200 employees, we recommend reaching out to our customer team at [support@twist.com](mailto:support@twist.com&subject=Enterprise%20Customer%20Onboarding%20Request). We\u2019ll be happy to get you up and running.\n\nInvest in a better way to work together. Use Twist for free forever, or upgrade for unlimited history.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "twist",
+        "app_name": "Twist",
+        "app_slug": "twist",
+        "pricing_url": "https://twist.com/pricing",
+        "source_url": "https://twist.com/pricing",
+        "all_pricing_urls": [
+          "https://twist.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Guests are billed differently based on their access level.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Basic access with limited history and features.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Access up to 1 month of comments and messages",
+              "Up to 5 integrations",
+              "Up to 5 GB file storage",
+              "Standard support",
+              "Up to 500 internal member accounts",
+              "Up to 500 external guest accounts"
+            ],
+            "limits": {
+              "users": 500,
+              "storage": "5GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": 5,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Unlimited",
+            "tier_description": "Full access with unlimited features.",
+            "monthly_price": 6.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Access full history of comments and messages",
+              "Unlimited integrations",
+              "Unlimited file storage",
+              "Priority support",
+              "Unlimited internal member accounts",
+              "Unlimited external guest accounts"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Prorated charge for new users",
+            "fee_amount": null,
+            "fee_description": "One-time charge for new team members added during the billing period."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T03:58:25.567551",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\twist\\20250415_035826"
+}

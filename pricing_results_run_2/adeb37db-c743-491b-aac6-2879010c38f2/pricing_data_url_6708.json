@@ -1,0 +1,72 @@
+{
+  "app_id": "zoho_invoice",
+  "app_name": "Zoho Invoice",
+  "app_slug": "zoho-invoice",
+  "pricing_url": "https://www.zoho.com/invoice/",
+  "source_url": "https://www.zoho.com/invoice/pricing/",
+  "all_pricing_urls": [
+    "https://www.zoho.com/invoice/"
+  ],
+  "price_model_type": [
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Zoho Invoice is offered completely free for all small businesses.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "100% Free invoicing solution for small businesses.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Invoicing",
+        "Expense tracking",
+        "Client management",
+        "Payment reminders"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:49:08.484234",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "adeb37db-c743-491b-aac6-2879010c38f2",
+    "name": "Zoho Invoice",
+    "slug": "zoho-invoice",
+    "description": "Zoho Invoice is an easy invoice software meant for small businesses and freelancers. Accept payments online, automate payment reminders and recurring billing.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/f2fdca9e47b5b2c764c4cbc57d3f237b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Proposal & Invoice Management",
+      "Zoho"
+    ],
+    "category_slugs": [
+      "invoices",
+      "zoho"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 14,
+    "trigger_count": 11
+  }
+}

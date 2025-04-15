@@ -1,0 +1,19 @@
+{
+  "app_name": "Zip Archive API",
+  "app_slug": "archive-api",
+  "search_term": "Find the official pricing page URL for Zip Archive API (archive-api.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744695008.7115014,
+  "response_text": [
+    "The official pricing page for Zip Archive API can be found at: https://archive-api.com/pricing  ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://archive-api.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\archive-api\\20250415_013009"
+}

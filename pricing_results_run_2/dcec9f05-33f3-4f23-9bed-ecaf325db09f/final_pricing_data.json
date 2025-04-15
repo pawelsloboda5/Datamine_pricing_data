@@ -1,0 +1,144 @@
+{
+  "app_id": "givebutter",
+  "app_name": "Givebutter",
+  "app_slug": "givebutter",
+  "pricing_url": "https://givebutter.com/pricing",
+  "source_url": "https://givebutter.com/pricing",
+  "all_pricing_urls": [
+    "https://givebutter.com/pricing"
+  ],
+  "price_model_type": [
+    "free_tier",
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Givebutter offers a free tier supported by optional donor tips. Subscription pricing for advanced features is based on contact count.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic fundraising tools supported by optional donor tips.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Donation forms",
+        "Fundraising pages",
+        "Fundraising events",
+        "Auctions",
+        "Donor management & CRM",
+        "Marketing & engagement",
+        "Widgets",
+        "Payment processing",
+        "Mobile app",
+        "Integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Givebutter Plus",
+      "tier_description": "Advanced features for enhanced fundraising and donor management.",
+      "monthly_price": 29.0,
+      "annual_price": 348.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Automated workflows",
+        "Task management",
+        "Advanced email editor",
+        "Texting",
+        "Custom reports",
+        "Expanded data visualizations",
+        "File uploads",
+        "Data hygiene",
+        "Discounted direct mail"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": "250 or less"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Contacts",
+      "unit": "per 100 contacts",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 251.0,
+          "max": 1000.0,
+          "price": 79.0
+        },
+        {
+          "min": 1001.0,
+          "max": 2500.0,
+          "price": 129.0
+        },
+        {
+          "min": 2501.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Platform Fee",
+      "fee_amount": null,
+      "fee_description": "1% for Donation Form, 3% for Fundraising Page, 5% for Event or Auction when tips are off."
+    },
+    {
+      "fee_name": "Processing Fee",
+      "fee_amount": null,
+      "fee_description": "2.9% + $0.30 per transaction."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:04:00.155921",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "dcec9f05-33f3-4f23-9bed-ecaf325db09f",
+    "name": "Givebutter",
+    "slug": "givebutter",
+    "description": "Givebutter is a fundraising platform that helps you raise money online with donation forms, team fundraising campaigns, and ticketing.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/b0c137ba70ddac3acd98216f62b10576.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fundraising"
+    ],
+    "category_slugs": [
+      "fundraising"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 3
+  }
+}

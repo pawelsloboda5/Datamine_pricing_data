@@ -1,0 +1,133 @@
+{
+  "app_id": "phantombuster",
+  "app_name": "PhantomBuster",
+  "app_slug": "phantombuster",
+  "pricing_url": "https://phantombuster.com/pricing",
+  "source_url": "https://phantombuster.com/pricing",
+  "all_pricing_urls": [
+    "https://phantombuster.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page provides detailed information about the subscription plans and features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Basic plan for individuals.",
+      "monthly_price": 30.0,
+      "annual_price": 300.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Access to all Phantoms",
+        "Limited execution time",
+        "Basic support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "5GB",
+        "operations": 1000,
+        "api_calls": 1000,
+        "integrations": 1,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced plan for professionals.",
+      "monthly_price": 70.0,
+      "annual_price": 700.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Increased execution time",
+        "Priority support",
+        "Additional integrations"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "10GB",
+        "operations": 5000,
+        "api_calls": 5000,
+        "integrations": 5,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Collaborative plan for teams.",
+      "monthly_price": 200.0,
+      "annual_price": 2000.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Team management features",
+        "Shared resources",
+        "Premium support"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "50GB",
+        "operations": 20000,
+        "api_calls": 20000,
+        "integrations": 10,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom solutions for enterprises.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom integrations",
+        "Dedicated account manager",
+        "Unlimited resources"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:08:11.191817",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "01cf3cea-cd2d-4f0b-b539-f86ddf927193",
+    "name": "PhantomBuster",
+    "slug": "phantombuster",
+    "description": "PhantomBuster is an automation tool for teams to extract lists of leads, enrich data and emails as well as send outreach campaigns.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/0186fa9fbc6f2899109d37f2b3ad46b1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

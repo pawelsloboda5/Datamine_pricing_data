@@ -1,0 +1,62 @@
+{
+  "app_name": "DocSend",
+  "app_slug": "docsend",
+  "search_term": "Find the official pricing page URL for DocSend (docsend.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744726621.412734,
+  "response_text": [
+    "The official pricing page URL for DocSend is: [https://www.docsend.com/plans-and-pricing](https://www.docsend.com/plans-and-pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "DocSend Plans and Pricing | DocSend",
+      "url": "https://www.docsend.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.docsend.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    },
+    {
+      "url": "https://www.docsend.com/plans-and-pricing",
+      "is_accessible": true,
+      "content": "[](https://www.docsend.com/)![Image 1: AICPA SOC logo](https://www.docsend.com/_next/static/media/AICPA-SOC-logo.2e159a8d.png)DocSend is now part of[Dropbox](https://www.dropbox.com/)\n\n### DocSend\n\n[How it works](https://www.docsend.com/how-it-works/)[Integrations](https://www.docsend.com/integrations/)[Help Center](https://help.docsend.com/hc/en-us)[Pricing](https://www.docsend.com/pricing/)\n\n### Features\n\n[Secure Sharing](https://www.docsend.com/features/sharing/)[Document Analytics](https://www.docsend.com/features/analytics/)[Video Analytics](https://www.docsend.com/features/analytics-video/)[Dynamic Watermarking](https://www.docsend.com/features/dynamic-watermarking/)[Data Rooms](https://www.docsend.com/features/virtual-data-room/)[eSignature](https://www.docsend.com/features/esignature/)[Non Disclosure Agreement](https://www.docsend.com/features/one-click-nda/)\n\n### Solutions\n\n[Founder Fundraising](https://www.docsend.com/solutions/startup-fundraising/)[Emerging Funds](https://www.docsend.com/solutions/venture-capitalist/)[Investment Management](https://www.docsend.com/solutions/investment-management/)[Media Sales](https://www.docsend.com/solutions/media-sales/)[Technology Sales](https://www.docsend.com/solutions/tech-sales/)[Professional Services](https://www.docsend.com/solutions/professional-services/)[Non-Profit](https://www.docsend.com/solutions/nonprofit/)\n\n### Resources\n\n[NDA Template](https://try.docsend.com/nda-template)[Fundraising Playbook](https://www.docsend.com/startup-fundraising/)[Data-Driven Selling](https://www.docsend.com/selling-remote-with-analytics/)[Pitch Deck Template](https://try.docsend.com/pitch-deck-template)[Board Meeting Template](https://try.docsend.com/board-meeting-minutes-template)[Investor Report Template](https://try.docsend.com/investor-report-template)\n\n### About us\n\n[Impressum](https://www.dropbox.com/lp/about/impressum)[Careers](https://jobs.dropbox.com/)[Security](https://trust.dropbox.com/?product=docsend&itemName=product_features&source=click&itemUid=a5bb6b4d-c23b-4d4f-9da1-bedf5dc74ff5)[Privacy Policy](https://www.docsend.com/privacy-policy/)[Copyright and IP Policy](https://www.docsend.com/copyright-and-ip-policy/)[Terms of Service](https://www.docsend.com/terms-of-service/)[Cookies & CCPA preferences](https://www.docsend.com/plans-and-pricing#manage-cookies)\n\n\u00a9 2025 Docsend\n\n[](https://www.docsend.com/)\n\nDocSend is now part of[Dropbox](https://www.dropbox.com/)\n\n![Image 2: AICPA SOC logo](https://www.docsend.com/_next/static/media/AICPA-SOC-logo.2e159a8d.png)\n\n\u00a9 2025 Docsend\n\nTry our secure document sharing platform for free. Instantly know when documents are opened & what pages are read. Easy-to-use eSignatures.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "docsend",
+        "app_name": "DocSend",
+        "app_slug": "docsend",
+        "pricing_url": "https://www.docsend.com/pricing/",
+        "source_url": "https://www.docsend.com/",
+        "all_pricing_urls": [
+          "https://www.docsend.com/pricing/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "DocSend offers a free trial and a free tier for its secure document sharing platform.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T10:17:20.155068",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\docsend\\20250415_101720"
+}

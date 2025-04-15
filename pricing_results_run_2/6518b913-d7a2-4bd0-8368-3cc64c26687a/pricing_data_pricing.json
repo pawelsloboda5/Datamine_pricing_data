@@ -1,0 +1,264 @@
+{
+  "app_id": "planning_center",
+  "app_name": "Planning Center",
+  "app_slug": "planning-center",
+  "pricing_url": "https://www.planningcenter.com/pricing",
+  "source_url": "https://www.planningcenter.com/pricing",
+  "all_pricing_urls": [
+    "https://www.planningcenter.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is flexible and based on usage metrics for each product. Some products are free, and others have usage-based pricing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "People",
+      "tier_description": "Free membership database with profile management and other tools.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Profile management",
+        "Custom reporting",
+        "Online forms",
+        "Workflows",
+        "Communication tools"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Calendar",
+      "tier_description": "Manage unlimited events for free. Pricing applies for room tracking.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited events"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Rooms",
+            "value": "1"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Check-Ins",
+      "tier_description": "Priced by the number of check-ins on the busiest day of the week.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full feature access",
+        "Unlimited check-in stations",
+        "Unlimited administrators"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Check-ins",
+            "value": "variable"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Giving",
+      "tier_description": "Priced by the number of donations tracked monthly.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full feature access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Monthly donations",
+            "value": "10"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Groups",
+      "tier_description": "Priced by the number of members in active groups.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited groups",
+        "Unlimited group events"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Group members",
+            "value": "15"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Publishing",
+      "tier_description": "Priced by features accessed.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Home page",
+        "Navigation options"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Registrations",
+      "tier_description": "Priced by the number of attendees for the largest event.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full feature access",
+        "Unlimited events"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Event attendees",
+            "value": "5"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Services",
+      "tier_description": "Priced by the number of people accessing the system.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full feature access",
+        "Unlimited teams",
+        "Unlimited service types",
+        "Unlimited plans"
+      ],
+      "limits": {
+        "users": "5",
+        "storage": "100MB",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Donations",
+      "unit": "per donation",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 0.3
+        }
+      ]
+    },
+    {
+      "metric_name": "Check-ins",
+      "unit": "per check-in",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Stripe Processing Fee",
+      "fee_amount": 0.3,
+      "fee_description": "2.15% + $0.30 per credit/debit card donation, $0.30 per ACH bank transfer donation."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:45:11.715321",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6518b913-d7a2-4bd0-8368-3cc64c26687a",
+    "name": "Planning Center",
+    "slug": "planning-center",
+    "description": "Planning Center is a church management system that helps manage people, services, donations, registrations, and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ab0d4af785ee264bd5ac148651c12043.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fundraising"
+    ],
+    "category_slugs": [
+      "fundraising"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 4
+  }
+}

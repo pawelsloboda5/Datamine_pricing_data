@@ -1,0 +1,98 @@
+{
+  "app_id": "voicenotes",
+  "app_name": "Voicenotes",
+  "app_slug": "voicenotes",
+  "pricing_url": "https://voicenotes.com/pricing",
+  "source_url": "https://voicenotes.com",
+  "all_pricing_urls": [
+    "https://voicenotes.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing includes both individual and team plans with promotional discounts.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Individual",
+      "tier_description": "A second brain for your daily use.",
+      "monthly_price": 10.0,
+      "annual_price": 69.0,
+      "annual_discount_percentage": 42.5,
+      "setup_fee": null,
+      "features": [
+        "Unlimited notes & meetings",
+        "Designed for personal & professional use",
+        "Works well on mobile, desktop, and watch",
+        "Community of 200,000+ note-takers"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Teams",
+      "tier_description": "Give your team the gift of memory.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Add unlimited users",
+        "Record meetings without a bot",
+        "Build your company knowledge base"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Minutes",
+            "value": 10000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Limited launch offer",
+      "offer_description": "Discounted pricing for team plans.",
+      "discount_percentage": 75.0,
+      "offer_url": "https://voicenotes.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:28:10.551291",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6e72ead2-a5be-49a6-9005-9f5d032c3499",
+    "name": "Voicenotes",
+    "slug": "voicenotes",
+    "description": "Voicenotes is a place to dump your thoughts",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/8ef4652ffdcbdd583736d540963fe1dd.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Notes"
+    ],
+    "category_slugs": [
+      "notes"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 6
+  }
+}

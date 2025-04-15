@@ -1,0 +1,124 @@
+{
+  "app_id": "salestrekker",
+  "app_name": "Salestrekker",
+  "app_slug": "salestrekker",
+  "pricing_url": "https://salestrekker.com/",
+  "source_url": "https://salestrekker.com/prices",
+  "all_pricing_urls": [
+    "https://salestrekker.com/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "AUD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Prices are listed per user per month and exclude GST.",
+  "pricing_tiers": [
+    {
+      "tier_name": "BROKER SUPPORT",
+      "tier_description": "For admin staff and loan processors, without products and calculators",
+      "monthly_price": 89.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Deal tracking and reporting",
+        "Task management",
+        "Partner Portal access",
+        "Client Portal access",
+        "Workflow automation",
+        "Dynamic templates",
+        "Email to Deal notes",
+        "Merge documents"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "PREMIUM BROKER",
+      "tier_description": "For mortgage brokers that require products and calculators",
+      "monthly_price": 249.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "BROKER SUPPORT package plus",
+        "Broker tools",
+        "Home Loans",
+        "Asset Finance",
+        "Commercial Finance",
+        "Compliance Documents",
+        "Quick calculators",
+        "Lender policy search"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "PARABROKER",
+      "tier_description": "For broker support that require calculators and policy tools",
+      "monthly_price": 149.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "BROKER SUPPORT package plus",
+        "Quick calculators",
+        "Lender policy search",
+        "Property data & reports",
+        "Customisable client portal",
+        "API access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:37:32.307611",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4a0cf6e4-a21b-4e98-913c-3ec8fbccaedc",
+    "name": "Salestrekker",
+    "slug": "salestrekker",
+    "description": "Salestrekker is CRM software for finance professionals.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/9ae1764dd24dcc423cf7ee24d38d4668.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 10
+  }
+}

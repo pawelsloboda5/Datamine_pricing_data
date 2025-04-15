@@ -1,0 +1,50 @@
+{
+  "app_name": "Soundee",
+  "app_slug": "soundee",
+  "search_term": "Find the official pricing page URL for Soundee (soundee.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744716406.5361538,
+  "response_text": [
+    "The official pricing page URL for Soundee is: https://soundee.com/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://soundee.com/pricing",
+      "is_accessible": true,
+      "content": "Upload\n\n[Home](https://soundee.com/) [Search Beats](https://soundee.com/browse) [Charts](https://soundee.com/charts) [Following](https://soundee.com/following) [Blog](https://soundee.com/blog)\n\n[Studio](https://soundee.com/studio)\n\n[2024 Wrapped2024](https://soundee.com/forward?origin=https%3A%2F%2Fstudio.soundee.com%2F2024-wrapped) [Tracks](https://soundee.com/studio/tracks) [Transactions](https://soundee.com/studio/transactions) [Stores](https://soundee.com/studio/stores) [AutomationsNEW](https://soundee.com/studio/integrations/zapier) [Abandoned CartsNEW](https://soundee.com/studio/cart-abandonments) [API KeysNEW](https://soundee.com/studio/api-keys) [WebhooksNEW](https://soundee.com/studio/webhooks) [Domains](https://soundee.com/studio/domains) [Coupons](https://soundee.com/studio/coupons) [Services](https://soundee.com/studio/services)\n\n[Customers](https://soundee.com/studio/customers) [Bulk Deals](https://soundee.com/studio/deals) [Licenses & Contracts](https://soundee.com/studio/licenses) [Sound Kits](https://soundee.com/studio/kits) [Negotiations](https://soundee.com/studio/negotiations) [Integrations](https://soundee.com/studio/integrations) [Upload Preferences](https://soundee.com/studio/upload-preferences) [Selling Preferences](https://soundee.com/studio/selling-preferences) [VAT Reports](https://soundee.com/studio/vat)\n\n[Account](https://soundee.com/account)\n\n[Purchased](https://soundee.com/account/purchased) [Favorites](https://soundee.com/account/favorites) [Playlists](https://soundee.com/account/playlists)\n\n[Transactions](https://soundee.com/account/transactions) [Negotiations](https://soundee.com/account/negotiations) [Notifications](https://soundee.com/account/notifications) [Edit Account](https://soundee.com/account/edit) [Subscription](https://soundee.com/account/subscription)\n\nSIGN IN\n\nSTART SELLING\n\nSettings\n\nTheme\n\n[Help Center](https://help.soundee.com/)\n\n[Developer Docs](https://soundee.readme.io/)\n\n[Sell Beats | Pricing](https://soundee.com/sell-beats) [Blog](https://soundee.com/blog) [Updates](https://soundee.com/blog/catagories/updates) [Privacy](https://soundee.com/privacy) [Terms](https://soundee.com/terms)\n\n\u00a9 2025 Soundee\n\n404 | Not found",
+      "error": null,
+      "pricing_data": {
+        "app_id": "soundee",
+        "app_name": "Soundee",
+        "app_slug": "soundee",
+        "pricing_url": "https://soundee.com/sell-beats",
+        "source_url": "https://soundee.com/sell-beats",
+        "all_pricing_urls": [
+          "https://soundee.com/sell-beats"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page was accessible but specific details about pricing tiers or features were not provided in the content.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:27:00.294333",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\soundee\\20250415_072700"
+}

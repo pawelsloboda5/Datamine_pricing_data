@@ -1,0 +1,280 @@
+{
+  "app_name": "Hunter",
+  "app_slug": "hunter",
+  "search_term": "Find the official pricing page URL for Hunter (hunter.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744714864.8073022,
+  "response_text": [
+    "The official pricing page for Hunter is located at: [https://hunter.io/pricing](https://hunter.io/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Plans & pricing - Hunter",
+      "url": "https://hunter.io/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://hunter.io/pricing",
+      "is_accessible": true,
+      "content": "Product\nPricing\nResources\nCompany\nCreate an account\nLog in \u2192\nPlans & pricing\n\nSelect the right plan\nfor your business.\n\nAll-in-one outreach platform\nFind, verify and send cold emails\nData Platform\nData solutions for your application\nPay yearly\n-30%\nPay monthly\n\tFree\n$0\n\tStarter\n$34\n\tGrowth\n$104\n\tScale\n$209\n\n\t\n\t\n$408/year\n\t\n$1,248/year\n\t\n$2,508/year\n\n\nUnlimited seats.\nUpgrade or downgrade at anytime.\n\t\nGet started\n\t\nGet started\n\t\nGet started\n\t\nGet started\n\nDiscover \t\t\t\t\nEmail searches & verifications\t\t\t\t\nYearly Searches \t25/month\t6,000\t60,000\t120,000\nAdditional searches\t\t+$10.00 per 100 credits\t+$3.00 per 100 credits\t+$2.00 per 100 credits\nYearly verifications \t50/month\t12,000\t120,000\t120,000\n\nAdditional verifications\t\t+$5.00 per 100 credits\t+$1.50 per 100 credits\t+$1.00 per 100 credits\nDomain Search \t\t\t\t\n\nAccess to full results\t\t\t\t\n\nCSV exports \t\t\t\t\nCampaigns\t\t\t\t\nConnected email accounts \t1\t3\t10\t20\nAdditional email accounts\t\t+$10/mo per account\t+$10/mo per account\t+$10/mo per account\nSMTP/IMAP accounts \t\t\t\t\nEmail account rotation \t\t\t\t\nAttachments & images in emails\t\t\t\t\nLink tracking\t\t\t\t\nCustom tracking domain \t\t\t\t\nReporting \t\t\t\t\nRecipients per campaign\t500\t2,500\t5,000\t15,000\nIntegrations & add-ons\t\t\t\t\nBrowser extensions\t\t\t\t\nGoogle Sheets add-on\t\t\t\t\nCRM Integrations\t\t\t\t\nAPI\t\t\t\t\nUnlimited team members\t\t\t\t\nSupport\tRegular\tPriority\tPriority\tPriority\nEnterprise plan\n\nNeed more? Tell us about your needs.\n\nDedicated account manager\nHigher rate limit\nOn-Demand quotas\nFlexible quotas\nContact sales\nYou are in good company.\nHunter is used by 5+ million users, including leading companies.\nHunter is definitely a worthwhile investment given how quick and easy it is to deploy and how quickly you see a return on investment.\nStuart Brown\nGlobal Sales Enablement Manager at comforte AG\nCommon questions about pricing\n\nIf you can't find the answer to your question here, visit the dedicated section in our Help Center.\n\nVisit the Help Center\nI just want to use Hunter once to export data. Is it possible?\nCan I cancel my subscription whenever I want?\nCan I share my subscription with my team?\nHow are searches counted when using the Domain Search?\nHow are searches counted when using the Email Finder?\nHow are verifications counted when using the Email Verifier?\nAre the same email searches or verifications made several times counted each time?\nHow many users can benefit from a subscription?\nWhat about searches made using the browser extension or the Google Sheets add-on?\nDo you offer any discounts for non-profit organizations?\n\u00a9 2015-2025 All Rights Reserved. Hunter\u00ae is a registered trademark of Hunter Web Services, Inc.\nTerms\nPrivacy\nCookie preferences\nSecurity\nDo Not Sell My Info\nProduct\nDiscover\nDomain Search\nEmail Finder\nEmail Verifier\nBulk tasks\nCampaigns\nSignals\nIntegrations\nAPI\nAdd-ons\nChrome extension\nFirefox add-on\nEdge add-on\nGoogle Sheets add-on\nMailTracker\nTechLookup\nTemplates\nCompany\nAbout us\nCareers\nOur data\nHunter Blog\nEngineering Blog\nAffiliate Program\nPress resources\nSupport\nContact us\nHelp Center\nChangelog\nClaim\nBug Bounty\n All Systems Operational\n\nChoose the best plan to grow your business with Hunter, or stay on the Free plan. You can cancel or change your subscription at any time.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "hunter",
+        "app_name": "Hunter",
+        "app_slug": "hunter",
+        "pricing_url": "https://hunter.io/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://hunter.io/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Annual pricing offers a 30% discount compared to monthly pricing.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Basic access to Hunter features.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Email searches & verifications",
+              "CSV exports",
+              "Browser extensions",
+              "Google Sheets add-on",
+              "CRM Integrations",
+              "API",
+              "Unlimited team members"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Yearly Searches",
+                  "value": "25/month"
+                },
+                {
+                  "name": "Yearly Verifications",
+                  "value": "50/month"
+                },
+                {
+                  "name": "Connected Email Accounts",
+                  "value": 1
+                },
+                {
+                  "name": "Recipients per Campaign",
+                  "value": 500
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Starter",
+            "tier_description": "Enhanced features for small teams.",
+            "monthly_price": 34.0,
+            "annual_price": 408.0,
+            "annual_discount_percentage": 30.0,
+            "setup_fee": null,
+            "features": [
+              "Email searches & verifications",
+              "CSV exports",
+              "Browser extensions",
+              "Google Sheets add-on",
+              "CRM Integrations",
+              "API",
+              "Unlimited team members",
+              "Priority Support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Yearly Searches",
+                  "value": 6000
+                },
+                {
+                  "name": "Yearly Verifications",
+                  "value": 12000
+                },
+                {
+                  "name": "Connected Email Accounts",
+                  "value": 3
+                },
+                {
+                  "name": "Recipients per Campaign",
+                  "value": 2500
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Growth",
+            "tier_description": "Advanced features for growing businesses.",
+            "monthly_price": 104.0,
+            "annual_price": 1248.0,
+            "annual_discount_percentage": 30.0,
+            "setup_fee": null,
+            "features": [
+              "Email searches & verifications",
+              "CSV exports",
+              "Browser extensions",
+              "Google Sheets add-on",
+              "CRM Integrations",
+              "API",
+              "Unlimited team members",
+              "Priority Support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Yearly Searches",
+                  "value": 60000
+                },
+                {
+                  "name": "Yearly Verifications",
+                  "value": 120000
+                },
+                {
+                  "name": "Connected Email Accounts",
+                  "value": 10
+                },
+                {
+                  "name": "Recipients per Campaign",
+                  "value": 5000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Scale",
+            "tier_description": "Comprehensive features for large organizations.",
+            "monthly_price": 209.0,
+            "annual_price": 2508.0,
+            "annual_discount_percentage": 30.0,
+            "setup_fee": null,
+            "features": [
+              "Email searches & verifications",
+              "CSV exports",
+              "Browser extensions",
+              "Google Sheets add-on",
+              "CRM Integrations",
+              "API",
+              "Unlimited team members",
+              "Priority Support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Yearly Searches",
+                  "value": 120000
+                },
+                {
+                  "name": "Yearly Verifications",
+                  "value": 120000
+                },
+                {
+                  "name": "Connected Email Accounts",
+                  "value": 20
+                },
+                {
+                  "name": "Recipients per Campaign",
+                  "value": 15000
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Additional Searches",
+            "unit": "per 100 credits",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": null,
+                "max": null,
+                "price": 10.0
+              },
+              {
+                "min": null,
+                "max": null,
+                "price": 3.0
+              },
+              {
+                "min": null,
+                "max": null,
+                "price": 2.0
+              }
+            ]
+          },
+          {
+            "metric_name": "Additional Verifications",
+            "unit": "per 100 credits",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": null,
+                "max": null,
+                "price": 5.0
+              },
+              {
+                "min": null,
+                "max": null,
+                "price": 1.5
+              },
+              {
+                "min": null,
+                "max": null,
+                "price": 1.0
+              }
+            ]
+          },
+          {
+            "metric_name": "Additional Email Accounts",
+            "unit": "per account per month",
+            "base_price": 10.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:01:19.167274",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\hunter\\20250415_070119"
+}

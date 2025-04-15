@@ -1,0 +1,188 @@
+{
+  "app_id": "repairshopr",
+  "app_name": "RepairShopr",
+  "app_slug": "repairshopr",
+  "pricing_url": "https://www.repairshopr.com/pricing",
+  "source_url": "https://www.repairshopr.com/pricing",
+  "all_pricing_urls": [
+    "https://www.repairshopr.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer discounted pricing compared to monthly plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": null,
+      "monthly_price": 69.99,
+      "annual_price": 59.99,
+      "annual_discount_percentage": 14.29,
+      "setup_fee": null,
+      "features": [
+        "75 Tickets & Invoices / Month",
+        "One Location",
+        "1 User Account",
+        "Outbound Emails",
+        "Field Jobs",
+        "Reports",
+        "Estimates",
+        "Customer Portal",
+        "Marketr Automated Marketing",
+        "SMS Per Month",
+        "Snail Mail",
+        "Integrated Payments",
+        "Recurring Invoicing",
+        "Point of Sale",
+        "Time Clock",
+        "Job Timer",
+        "QuickBooks Integration",
+        "Leads",
+        "Website Integration",
+        "Cash Registers"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": 75,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Locations",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Repair Shop",
+      "tier_description": "Our most popular plan",
+      "monthly_price": 139.99,
+      "annual_price": 129.99,
+      "annual_discount_percentage": 7.14,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Tickets & Invoices / Month",
+        "One Location",
+        "10 User Account",
+        "Outbound Emails",
+        "Field Jobs",
+        "Reports",
+        "Estimates",
+        "Customer Portal",
+        "Marketr Automated Marketing",
+        "SMS Per Month",
+        "Snail Mail",
+        "Integrated Payments",
+        "Recurring Invoicing",
+        "Point of Sale",
+        "Time Clock",
+        "Job Timer",
+        "QuickBooks Integration",
+        "Leads",
+        "Website Integration",
+        "Cash Registers"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Locations",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Big Chain",
+      "tier_description": null,
+      "monthly_price": 149.99,
+      "annual_price": 139.99,
+      "annual_discount_percentage": 6.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Tickets & Invoices / Month",
+        "2+ Locations",
+        "10 User Account",
+        "Outbound Emails",
+        "Field Jobs",
+        "Reports",
+        "Estimates",
+        "Customer Portal",
+        "Marketr Automated Marketing",
+        "SMS Per Month",
+        "Snail Mail",
+        "Integrated Payments",
+        "Recurring Invoicing",
+        "Point of Sale",
+        "Time Clock",
+        "Job Timer",
+        "QuickBooks Integration",
+        "Leads",
+        "Website Integration",
+        "Cash Registers"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Locations",
+            "value": "2+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "SMS",
+      "fee_amount": null,
+      "fee_description": "Different plans come with different amounts, see help page."
+    },
+    {
+      "fee_name": "Snail Mail",
+      "fee_amount": null,
+      "fee_description": "Only available in the U.S. at this time. Stamp credits must be purchased individually."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:23:40.773625",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "2ac29549-aa86-4581-b51e-11e311c475ee",
+    "name": "RepairShopr",
+    "slug": "repairshopr",
+    "description": "RepairShopr is a platform to manage a service or repair business with job tracking (ticketing) and an emphasis on great communication.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/0821ef0481aba1843cdc6fe632572fdc.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 5
+  }
+}

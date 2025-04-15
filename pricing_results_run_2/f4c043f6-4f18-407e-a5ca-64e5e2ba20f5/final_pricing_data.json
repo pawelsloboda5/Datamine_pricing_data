@@ -1,0 +1,104 @@
+{
+  "app_id": "wicked_reports",
+  "app_name": "Wicked Reports",
+  "app_slug": "wicked-reports",
+  "pricing_url": "https://www.wickedreports.com/pricing#main-content",
+  "source_url": "https://www.wickedreports.com/pricing",
+  "all_pricing_urls": [
+    "https://www.wickedreports.com/pricing#main-content"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing scales based on the number of CRM contacts or agency client volume.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Brands",
+      "tier_description": "Designed for individual brands.",
+      "monthly_price": 250.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Live Conversion Data",
+        "Funnel vision attribution",
+        "Customer LTV and Delayed Conversion tracking",
+        "Dedicated CSM manager",
+        "Live Zoom calls"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Agencies",
+      "tier_description": "Customized pricing for agencies.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Live Conversion Data",
+        "Funnel Vision attribution",
+        "Customer LTV and Delayed Conversion Tracking",
+        "Dedicated CSM manager",
+        "Live Zoom Calls",
+        "Dedicated Slack Channel",
+        "Sniper Lounge - strategic agency live training"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "CRM contacts",
+      "unit": "per contact",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:08:50.181141",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f4c043f6-4f18-407e-a5ca-64e5e2ba20f5",
+    "name": "Wicked Reports",
+    "slug": "wicked-reports",
+    "description": "Wicked Reports is marketing automation that lets you send contacts, orders & visitors clicks from your CRM or Shopping cart into your Wicked Reports account.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/2091e494e6ba2608162bc2fbc476631c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

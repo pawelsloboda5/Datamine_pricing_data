@@ -1,0 +1,177 @@
+{
+  "app_id": "gavel",
+  "app_name": "Gavel",
+  "app_slug": "gavel",
+  "pricing_url": "https://www.gavel.io/pricing",
+  "source_url": "https://www.gavel.io/pricing",
+  "all_pricing_urls": [
+    "https://www.gavel.io/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a discount equivalent to two months free.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lite",
+      "tier_description": "Basic Word and fillable PDF document automation.",
+      "monthly_price": 83.0,
+      "annual_price": 996.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "1 Builder/Admin seat",
+        "10 workflows",
+        "200 fields per workflow",
+        "Isolated data & subdomain",
+        "Clio integration",
+        "100 sessions/month",
+        "500 GB storage",
+        "Phone, screen share & email support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "500GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": 1,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Generate Word and PDF documents from reusable client-facing forms or internal data.",
+      "monthly_price": 165.0,
+      "annual_price": 1980.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "2 Builder seats & Data Manager access for Organizational Users",
+        "25 workflows",
+        "Unlimited fields per workflow",
+        "300 sessions/month",
+        "2,500 emails/month",
+        "Zapier integration",
+        "Phone, screen share & email support"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "750GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": 2,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "No-setup automated legal forms, Word and PDF automation, and commerce tools.",
+      "monthly_price": 290.0,
+      "annual_price": 3480.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "2 Builder seats & Data Manager access for Organizational Users",
+        "50 workflows",
+        "Connect payments through Stripe",
+        "DocuSign integration",
+        "Custom domain",
+        "600 sessions/month",
+        "Embed on third-party websites",
+        "Bundles",
+        "1TB Storage",
+        "Priority customer support"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "1TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": 3,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "Access all Gavel features, our API, custom limits, and per-seat pricing.",
+      "monthly_price": 417.0,
+      "annual_price": 5004.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Discounted per-seat pricing",
+        "Custom usage limits",
+        "Account Manager + SLA",
+        "Gavel API Access",
+        "Single Sign On (SSO)",
+        "Integration Support",
+        "White-Glove Onboarding"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "custom",
+        "custom_limits": [
+          {
+            "name": "Emails",
+            "value": "unlimited"
+          },
+          {
+            "name": "Sessions",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Annual plans offer two months free.",
+      "discount_percentage": 16.67,
+      "offer_url": "https://www.gavel.io/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Additional Users",
+      "fee_amount": 50.0,
+      "fee_description": "Builders and Organizational Users above those allotted in your tier are billed at $50/mo or $35/mo respectively."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:01:09.443423",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "efcdd7cc-08f8-44f8-8728-e4ea58098c74",
+    "name": "Gavel",
+    "slug": "gavel",
+    "description": "Gavel is a no-code platform for document automation and building expert systems.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/8e97e114ed30b37b8105da825606e3a5.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "File Management & Storage"
+    ],
+    "category_slugs": [
+      "files"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

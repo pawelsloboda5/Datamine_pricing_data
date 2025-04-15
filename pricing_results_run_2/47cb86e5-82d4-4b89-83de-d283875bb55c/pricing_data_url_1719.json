@@ -1,0 +1,182 @@
+{
+  "app_id": "pointerpro",
+  "app_name": "Pointerpro",
+  "app_slug": "pointerpro",
+  "pricing_url": null,
+  "source_url": "https://pointerpro.com/en/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing for higher tiers is available on request, and monthly response limits vary by tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Professional",
+      "tier_description": "Interactive questionnaires with personalized outcomes and emails.",
+      "monthly_price": 69.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited questionnaires & questions",
+        "Large variety of question types",
+        "Removable Pointerpro branding",
+        "Advanced question logic & piping",
+        "Offline functionality",
+        "Zapier and Make integration",
+        "Emails with customizable content",
+        "Questionnaire in multiple languages",
+        "Custom scoring",
+        "Variable end messages & outcomes",
+        "Email invitations with unique tracking link"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly Responses",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "The full package of our questionnaire features for teams.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom formulas for advanced calculations",
+        "Response upload",
+        "Use formulas in question logic & piping",
+        "Payment processing",
+        "Extended design options with custom CSS",
+        "Integration via WebHooks",
+        "Questionnaire campaigns",
+        "Full white labeling",
+        "Multiple users and team management",
+        "Dashboard Builder"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly Responses",
+            "value": 5000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "ReportR",
+      "tier_description": "The only plan to build questionnaires and personalized PDF reports.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Drag & drop PDF report builder with preview",
+        "Large variety of report widgets",
+        "Use logic to show and hide report widgets based on responses and scores",
+        "Individual, aggregated & team PDF reports",
+        "Generate a PDF right after taking the questionnaire",
+        "PDF distribution via email & download",
+        "Extended design options with custom CSS",
+        "Integrate with external databases",
+        "Multiple users and team management",
+        "Dashboard Builder",
+        "Aggregate Reports"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly Responses",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "DistributR",
+      "tier_description": "Maximize distribution and monetization of assessments and reports with the Distribution Portal.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Distribution Portal to leverage assessment distribution",
+        "Respondent base feeding by customers/co-workers",
+        "Respondent invitation templates with unique links",
+        "Real-time response collection and result view",
+        "Email campaign template creation",
+        "Optional: charge for assessment/report access",
+        "Overview of to-do assessments for respondents",
+        "Overview of responses and reports for respondents",
+        "Dashboard Builder",
+        "Multiple users and team management",
+        "Aggregate Reports"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly Responses",
+            "value": 15000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:15:08.144660",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "47cb86e5-82d4-4b89-83de-d283875bb55c",
+    "name": "Pointerpro",
+    "slug": "pointerpro",
+    "description": "Pointerpro is an easy-to-use tool to create fun, mobile and interactive surveys & quizzes.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/0ae62f718d2f5fafa948fca538c067ab.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "app_id": "freedomsoft",
+  "app_name": "FreedomSoft",
+  "app_slug": "freedomsoft",
+  "pricing_url": null,
+  "source_url": "https://freedomsoft.com/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "Unable to access the pricing page due to security restrictions.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T10:09:31.077500",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "a0e5e083-0540-41b5-83fe-5322cbc85de8",
+    "name": "FreedomSoft",
+    "slug": "freedomsoft",
+    "description": "FreedomSoft is an all-in-one lead generation and real-estate automation system.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/757177beea3f5dbbcb679e3ba618f8cb.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 5
+  }
+}

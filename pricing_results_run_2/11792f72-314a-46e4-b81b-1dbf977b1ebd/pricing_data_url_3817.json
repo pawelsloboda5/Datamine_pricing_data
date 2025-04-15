@@ -1,0 +1,52 @@
+{
+  "app_id": "chiirp",
+  "app_name": "Chiirp",
+  "app_slug": "chiirp",
+  "pricing_url": "https://chiirp.com/pricing-other_/",
+  "source_url": "https://chiirp.com/pricing_/",
+  "all_pricing_urls": [
+    "https://chiirp.com/pricing-service-titan/",
+    "https://chiirp.com/pricing-house-call-pro/",
+    "https://chiirp.com/pricing-jobber-2/",
+    "https://chiirp.com/pricing-service-monster-2/",
+    "https://chiirp.com/pricing-other_/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.CUSTOM"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing appears to be customized based on integration partners or standalone usage.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:29:49.520567",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "11792f72-314a-46e4-b81b-1dbf977b1ebd",
+    "name": "Chiirp",
+    "slug": "chiirp",
+    "description": "Chiirp helps you Capture, Connect & Close easier and faster using automated text messaging.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/bad563227ebf03945d00be0617206715.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Contact Management"
+    ],
+    "category_slugs": [
+      "contacts"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 3
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "app_id": "stealthseminar",
+  "app_name": "StealthSeminar",
+  "app_slug": "stealthseminar",
+  "pricing_url": null,
+  "source_url": "https://stealthseminar.com/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers a discount equivalent to two months free.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter Plan",
+      "tier_description": null,
+      "monthly_price": 69.95,
+      "annual_price": 699.5,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Automated Webinars",
+        "Live Webinars",
+        "Active Response Statistics\u2122",
+        "Webinar Funnel Pages",
+        "Webinar Email Reminders",
+        "Webinar Chat / Q & A",
+        "Pro Video Encoding",
+        "Closed Captioning",
+        "Bandwidth Detection",
+        "7 Days a Week Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Simultaneous Attendees",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional Plan",
+      "tier_description": null,
+      "monthly_price": 99.95,
+      "annual_price": 999.5,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "All features of Starter Plan",
+        "Worldwide SMS Reminders (up to 6000 a month)",
+        "Facebook Reminders",
+        "Personalized Images",
+        "Split Test",
+        "White Label Custom Domain",
+        "White Label Custom Email Sent from Address",
+        "Hybrid Webinar",
+        "Registration Field Customization"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Simultaneous Attendees",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth Plan",
+      "tier_description": null,
+      "monthly_price": 175.0,
+      "annual_price": 1750.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "All features of Professional Plan",
+        "Worldwide SMS Reminders (unlimited)",
+        "Priority Email Delivery",
+        "White Glove Phone Support",
+        "900 streaming hours per month",
+        "Additional hours available"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Simultaneous Attendees",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Power Plan",
+      "tier_description": "Customized to your simultaneous attendee needs",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features of Growth Plan",
+        "Free Advanced Plugins",
+        "Priority SMS Reminders (unlimited)",
+        "Priority Pro Video Encoding",
+        "Custom Contracts and Invoicing",
+        "25K+ simultaneous attendees"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Simultaneous Attendees",
+            "value": "25K+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Billing Discount",
+      "offer_description": "Two months free for annual billing.",
+      "discount_percentage": 16.67,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:56:56.452131",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "155c962e-0afe-4be2-b4fc-57745930d5c3",
+    "name": "StealthSeminar",
+    "slug": "stealthseminar",
+    "description": "StealthSeminar is a webinar platform to run pre-recorded webinars as if they are live to better leverage time and avoid tech failures.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/e96df9a73e3a918fdab40ffaf6d6cbf8_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 18
+  }
+}

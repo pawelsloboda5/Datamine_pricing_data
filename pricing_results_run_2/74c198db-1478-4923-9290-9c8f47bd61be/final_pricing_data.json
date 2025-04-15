@@ -1,0 +1,191 @@
+{
+  "app_id": "airtable",
+  "app_name": "Airtable",
+  "app_slug": "airtable",
+  "pricing_url": "https://airtable.com/pricing",
+  "source_url": "https://airtable.com/pricing",
+  "all_pricing_urls": [
+    "https://airtable.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per seat and includes various add-ons and custom options for enterprise.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For individuals or very small teams just getting started with Airtable",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited bases",
+        "1,000 records per base",
+        "Up to 5 editors",
+        "1 GB of attachments per base",
+        "100 automation runs",
+        "Interface Designer"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "1GB",
+        "operations": 100,
+        "api_calls": 1000,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "For teams building apps to collaborate on shared workflows",
+      "monthly_price": 24.0,
+      "annual_price": 20.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Everything in Free, plus",
+        "50,000 records per base",
+        "25,000 automation runs",
+        "20 GB of attachments per base",
+        "Standard sync integrations",
+        "Extensions",
+        "Gantt and timeline view",
+        "Expanded color, formatting, and calendar options"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "20GB",
+        "operations": 25000,
+        "api_calls": 100000,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For teams and departments who need advanced features and basic administration",
+      "monthly_price": 54.0,
+      "annual_price": 45.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Everything in Team, plus",
+        "125,000 records per base",
+        "100,000 automation runs",
+        "100 GB of attachments per base",
+        "Premium sync integrations",
+        "Verified data",
+        "Two-way sync",
+        "Admin panel",
+        "SAML-based single sign-on",
+        "App Sandbox"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": 100000,
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise Scale",
+      "tier_description": "For organizations looking to build scalable, flexible apps with powerful governance and administration",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Business, plus",
+        "500,000 records per base",
+        "500,000 automation runs",
+        "1,000 GB of attachments per base",
+        "On-premises sync integrations",
+        "App Library",
+        "HyperDB",
+        "Enterprise Hub",
+        "Enhanced security and admin controls",
+        "Enterprise API",
+        "Extension and integration management",
+        "Audit logs and DLP"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "1000GB",
+        "operations": 500000,
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "AI credits",
+      "unit": "per credit",
+      "base_price": 6.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 500.0,
+          "price": 0.0
+        },
+        {
+          "min": 501.0,
+          "max": "unlimited",
+          "price": 6.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": true,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Portals",
+      "fee_amount": 120.0,
+      "fee_description": "Starting price for 15 guests/month"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:15:38.059419",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "74c198db-1478-4923-9290-9c8f47bd61be",
+    "name": "Airtable",
+    "slug": "airtable",
+    "description": "Organize anything with Airtable, a modern database created for everyone. Airtable is a fast and flexible way to create tables to keep track of anything, from sales leads to vacation planning to inventory management.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/c6c8c5e300ef0da0e47b3084e5522f20.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Databases"
+    ],
+    "category_slugs": [
+      "databases"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 1
+  }
+}

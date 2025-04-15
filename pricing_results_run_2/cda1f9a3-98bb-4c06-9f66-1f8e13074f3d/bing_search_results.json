@@ -1,0 +1,19 @@
+{
+  "app_name": "fieldd",
+  "app_slug": "fieldd",
+  "search_term": "Find the official pricing page URL for fieldd (fieldd.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744700370.4793658,
+  "response_text": [
+    "The official URL for Fieldd's pricing page is: [https://www.fieldd.com/pricing](https://www.fieldd.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.fieldd.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\fieldd\\20250415_025937"
+}

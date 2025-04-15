@@ -1,0 +1,116 @@
+{
+  "app_id": "feedly",
+  "app_name": "Feedly",
+  "app_slug": "feedly",
+  "pricing_url": "https://feedly.com",
+  "source_url": "https://feedly.com/i/pricing",
+  "all_pricing_urls": [
+    "https://feedly.com"
+  ],
+  "price_model_type": [
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Feedly offers a free tier and subscription-based services for advanced features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic access to Feedly's news reader.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to news reader",
+        "Basic functionality"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced features for individual users.",
+      "monthly_price": 8.0,
+      "annual_price": 72.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "AI-powered insights",
+        "Advanced search",
+        "Integration with third-party tools"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Solutions for teams and organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Team collaboration tools",
+        "Custom integrations",
+        "Dedicated support"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "custom",
+        "integrations": "custom",
+        "custom_limits": [
+          {
+            "name": "Custom API calls",
+            "value": "custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:28:10.409811",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bbe14c77-28c9-4981-8d44-7f90fe8fa46b",
+    "name": "Feedly",
+    "slug": "feedly",
+    "description": "The best way to follow your favorite blogs, news sites, YouTube shows, podcasts, tumblr blogs, magazines, eBay listings, Hulu shows and more. feedly delivers all your favorite news in one place\u2014and it is blazing fast.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/d053dfcc6326a696800019e836969ac2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Social Media Accounts"
+    ],
+    "category_slugs": [
+      "social"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 8
+  }
+}

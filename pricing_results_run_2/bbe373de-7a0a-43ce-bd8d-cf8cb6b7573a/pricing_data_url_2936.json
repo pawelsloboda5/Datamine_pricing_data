@@ -1,0 +1,73 @@
+{
+  "app_id": "sansan",
+  "app_name": "Sansan",
+  "app_slug": "sansan",
+  "pricing_url": "https://www.sansan.com/en/",
+  "source_url": "https://www.sansan.com/en/price/",
+  "all_pricing_urls": [
+    "https://www.sansan.com/en/"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Sansan offers customized pricing plans based on company needs and usage. Specific pricing details are not publicly disclosed.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Initial costs",
+      "fee_amount": null,
+      "fee_description": "Covers digitization of existing business cards."
+    },
+    {
+      "fee_name": "Operating costs",
+      "fee_amount": null,
+      "fee_description": "Covers the introduction and operation of the Sansan system."
+    },
+    {
+      "fee_name": "License fee",
+      "fee_amount": null,
+      "fee_description": "Monthly fee for licenses tailored to company size and usage."
+    },
+    {
+      "fee_name": "Options",
+      "fee_amount": null,
+      "fee_description": "Monthly fee for additional features and services."
+    },
+    {
+      "fee_name": "Sansan Scanner Set",
+      "fee_amount": null,
+      "fee_description": "Monthly fee for scanner and tablet devices, with a minimum requirement based on office locations."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:29:54.233129",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bbe373de-7a0a-43ce-bd8d-cf8cb6b7573a",
+    "name": "Sansan",
+    "slug": "sansan",
+    "description": "Sansan is a cloud based contact management system. Digitize your business cards with 99.9% accuracy and share the contact information with your colleagues. Save time and increase your business opportunities.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/a29450f0e1e0f9013c459c95157266d5.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Contact Management"
+    ],
+    "category_slugs": [
+      "contacts"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

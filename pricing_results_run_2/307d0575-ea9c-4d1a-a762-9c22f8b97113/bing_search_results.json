@@ -1,0 +1,143 @@
+{
+  "app_name": "Baserow",
+  "app_slug": "baserow",
+  "search_term": "Find the official pricing page URL for Baserow (baserow.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744702548.8249297,
+  "response_text": [
+    "The official Baserow pricing page URL is: [https://baserow.io/pricing](https://baserow.io/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Baserow",
+      "url": "https://baserow.io/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://baserow.io/pricing",
+      "is_accessible": true,
+      "content": "Pricing\n===============\n\n[![Image 4: Baserow logo](https://baserow.io/_nuxt/img/logo.81dc689.svg)](https://baserow.io/)\n\n*   [Overview](https://baserow.io/product/overview)\n*   [Baserow Cloud](https://baserow.io/product/baserow-cloud)\n*   [Database Builder](https://baserow.io/product/database)\n*   [Baserow Self-Hosted](https://baserow.io/product/baserow-self-hosted)\n*   [Application Builder](https://baserow.io/product/application-builder)\n*   [Integrations](https://baserow.io/product/integrations)\n*   [Enterprise](https://baserow.io/product/enterprise)\n*   [Roadmap](https://baserow.io/product/roadmap)\n*   Solutions by department\n    *   [Human Resources](https://baserow.io/departments/human-resources)\n    *   [Product](https://baserow.io/departments/product)\n    *   [Marketing](https://baserow.io/departments/marketing)\n    *   [Operations](https://baserow.io/departments/operations)\n    *   [Information Technology](https://baserow.io/departments/information-technology)\n    *   [Finance](https://baserow.io/departments/finance)\n    *   [Sales](https://baserow.io/departments/sales)\n    *   [Governance, Risk, and Compliance](https://baserow.io/departments/governance-risk-compliance)\n*   Solutions by industry\n    *   [Manufacturing](https://baserow.io/industries/manufacturing)\n    *   [Healthcare](https://baserow.io/industries/healthcare)\n    *   [Real Estate and Construction](https://baserow.io/industries/real-estate)\n    *   [Education](https://baserow.io/industries/education)\n    *   [Financial Services](https://baserow.io/industries/financial-services)\n    *   [Technology](https://baserow.io/industries/technology)\n*   [Pricing](https://baserow.io/pricing)\n*   Community\n    *   [Get started](https://baserow.io/community)\n    *   [Find answers](https://community.baserow.io/)\n    *   [Tips and tricks](https://community.baserow.io/c/tips-and-tricks/16)\n    *   [#MadeWithBaserow](https://community.baserow.io/c/made-with-baserow/14)\n*   Developers\n    *   [Getting started](https://baserow.io/docs/index)\n    *   [Creating a plugin](https://baserow.io/docs/plugins%2Fintroduction)\n    *   [API](https://baserow.io/api-docs)\n    *   [Install with Docker](https://baserow.io/docs/installation%2Finstall-with-docker)\n    *   [OpenAPI specification](https://api.baserow.io/api/redoc/)\n    *   [GitLab repository](https://gitlab.com/baserow/baserow)\n    *   [Want to contribute?](https://baserow.io/docs/development%2Fdevelopment-environment)\n*   Resources\n    *   [Blog](https://baserow.io/blog)\n    *   [Tutorials](https://baserow.io/blog/category/tutorials)\n    *   [Videos](https://baserow.io/videos)\n    *   [Knowledge base](https://baserow.io/user-docs)\n    *   [Templates](https://baserow.io/templates)\n    *   [Academy](https://baserow.io/academy)\n    *   [About us](https://baserow.io/about-us)\n    *   [Contact us](https://baserow.io/contact)\n    *   [FAQ](https://baserow.io/faq)\n    *   [Partners](https://baserow.io/partners)\n\n*   [Contact sales](https://baserow.io/contact-sales)\n*   [Login](https://baserow.io/login)\n*   [Sign up](https://baserow.io/signup)\n\n[![Image 5: Baserow logo](https://baserow.io/_nuxt/img/logo.81dc689.svg)](https://baserow.io/)\n\n*   Platform\n    \n    Discover Baserow\n    \n    *   [Overview Understand how Baserow transforms your work](https://baserow.io/product/overview)\n    *   [Database Builder Structure, visualize, and manipulate data](https://baserow.io/product/database)\n    *   [Application Builder Create custom applications without writing code](https://baserow.io/product/application-builder)\n    *   [Enterprise Security, user management, and performance at scale](https://baserow.io/product/enterprise)\n    \n    *   [Baserow Cloud We host and manage Baserow for you](https://baserow.io/product/baserow-cloud)\n    *   [Baserow Self-Hosted Host your own instance on-premise or in the cloud](https://baserow.io/product/baserow-self-hosted)\n    *   [Integrations Connect and extend Baserow's functionality](https://baserow.io/product/integrations)\n    *   [Roadmap See what's new and what's next](https://baserow.io/product/roadmap)\n    \n*   Solutions\n    \n    Departments\n    \n    *   [Human Resources](https://baserow.io/departments/human-resources)\n    *   [Marketing](https://baserow.io/departments/marketing)\n    *   [Information Technology](https://baserow.io/departments/information-technology)\n    *   [Sales](https://baserow.io/departments/sales)\n    \n    *   [Product](https://baserow.io/departments/product)\n    *   [Operations](https://baserow.io/departments/operations)\n    *   [Finance](https://baserow.io/departments/finance)\n    *   [Governance, Risk, and Compliance](https://baserow.io/departments/governance-risk-compliance)\n    \n    Industries\n    \n    *   [Manufacturing](https://baserow.io/industries/manufacturing)\n    *   [Real Estate and Construction](https://baserow.io/industries/real-estate)\n    *   [Financial Services](https://baserow.io/industries/financial-services)\n    \n    *   [Healthcare](https://baserow.io/industries/healthcare)\n    *   [Education](https://baserow.io/industries/education)\n    *   [Technology](https://baserow.io/industries/technology)\n    \n*   [Pricing](https://baserow.io/pricing)\n*   Community\n    \n    *   [Get started Discover what the Baserow community is created for](https://baserow.io/community)\n    *   [Find answers Ask questions and get the most out of the platform](https://community.baserow.io/)\n    *   [Partners Team up with our partners for various services.](https://baserow.io/partners)\n    \n    *   [Tips and tricks Take your data management expertise to the next level](https://community.baserow.io/c/tips-and-tricks/16)\n    *   [#MadeWithBaserow Get inspired by the projects from our community](https://community.baserow.io/c/made-with-baserow/14)\n    \n*   Developers\n    \n    *   [Getting started](https://baserow.io/docs/index)\n    *   [Creating a plugin](https://baserow.io/docs/plugins%2Fintroduction)\n    *   [API](https://baserow.io/api-docs)\n    \n    *   [Install with Docker](https://baserow.io/docs/installation%2Finstall-with-docker)\n    *   [OpenAPI specification](https://api.baserow.io/api/redoc/)\n    \n    *   [GitLab repository](https://gitlab.com/baserow/baserow)\n    *   [Want to contribute?](https://baserow.io/docs/development%2Fdevelopment-environment)\n    \n*   Resources\n    \n    Learn\n    \n    *   [Blog](https://baserow.io/blog)\n    *   [Tutorials](https://baserow.io/blog/category/tutorials)\n    *   [Videos](https://baserow.io/videos)\n    *   [Knowledge base](https://baserow.io/user-docs)\n    *   [Academy](https://baserow.io/academy)\n    \n    Inspiration\n    \n    *   [Templates](https://baserow.io/templates)\n    *   [About us](https://baserow.io/about-us)\n    \n    Support\n    \n    *   [Contact us](https://baserow.io/contact)\n    *   [FAQ](https://baserow.io/faq)\n    *   [Partners](https://baserow.io/partners)\n    \n\n*   [Contact sales](https://baserow.io/contact-sales)\n*   [Login](https://baserow.io/login)\n*   [Sign up](https://baserow.io/signup)\n\n**Free forever.**  \nPay as you grow.\n====================================\n\nThe right plan for everyone.\n\nCloud **(we host)** Self-host **(you host)**\n\nBilled yearly\n\n![Image 6](https://baserow.io/_nuxt/img/free-plan-icon.47cd21a.svg)\n\n### Free\n\nFor individuals and small teams\n\n**$0**\n\n[Get started](https://baserow.io/signup)Plan includes:\n\n*   Unlimited databases\n*   3,000 rows per workspace\n*   2GB of storage per workspace\n*   Grid, Form & Gallery views\n*   Library of 65+ templates\n\nMost popular\n\n![Image 7](https://baserow.io/_nuxt/img/premium-plan-icon.21e7f8a.svg)\n\n### Premium\n\nFor growing teams\n\n**$10** per user/month  \nbilled yearly\n\n**$12** billed monthly\n\n[Get started](https://baserow.io/subscriptions/new)Everything in Free, plus:\n\n*   50,000 rows per workspace\n*   20GB of storage per workspace\n*   Kanban, Survey & Calendar views\n*   XML & JSON export\n*   Row comments & coloring\n\nFree trial\n\n![Image 8](https://baserow.io/_nuxt/img/advanced-plan-icon.f7857d2.svg)\n\n### Advanced\n\nFor scaling businesses\n\n**$20** per user/month  \nbilled yearly\n\n**$22** billed monthly\n\n[Try now for free](https://baserow.io/dashboard)Everything in Premium, plus:\n\n*   250,000 rows per workspace\n*   100GB of storage per workspace\n*   Role based permissions\n*   Free read/comment users\n*   Audit logs\n\nCompare plans & features\n------------------------\n\nCloud Self-host\n\nBilled yearly\n\nFree $0 [Get started](https://baserow.io/signup)\n\nPremium $10 per user/month [Get started](https://baserow.io/subscriptions/new)\n\nAdvanced $20 per user/month [Try now for free](https://baserow.io/dashboard)\n\n### Usage\n\nDatabases\n\nUnlimited\n\nUnlimited\n\nUnlimited\n\nRows\n\n3.000 per workspace\n\n50,000 per workspace\n\n250,000 per workspace\n\nStorage\n\n2GB per workspace\n\n20GB per workspace\n\n100GB per workspace\n\nRow change history\n\n14 days\n\n90 days\n\n180 days\n\n### Features\n\nFiltering\n\nSorting\n\nSearch\n\nTemplates\n\nPublic REST API\n\nAPI token permissions\n\nCSV, XML and JSON import\n\nCSV export\n\nTrash\n\nUndo/redo\n\nSnapshots\n\nWebhooks\n\nPublic view sharing\n\nFooter summary\n\nInviting others\n\nGroup by\n\nApplication builder\n\nCustom dashboard\n\nXML and JSON export\n\nRow comments\n\nRow coloring\n\nPublic logo removal\n\nRole based permissions\n\nFree read/comment users\n\nChart widget\n\n2FA\n\nSoon\n\nSearch and replace\n\nSoon\n\n### Views\n\nGrid\n\nForm\n\nGallery\n\nKanban\n\nSurvey\n\nCalendar\n\nTimeline\n\nPersonal views\n\n### Fields\n\nSingle line text\n\nLong text\n\nLink to table\n\nNumber\n\nBoolean\n\nURL\n\nEmail\n\nPhone\n\nFile\n\nMultiple select\n\nFormula\n\nCreated\n\nLast modified\n\nLookup\n\nRating\n\nCollaborators\n\nRollup\n\nCount\n\nCreated by\n\nLast modified by\n\nUUID\n\nDuration\n\nRich text\n\nAI prompt\n\nAI formula generator\n\nBarcode\n\nSoon\n\nPercent\n\nSoon\n\n### Data sync\n\niCal\n\nPostgreSQL table\n\nBaserow table\n\nJira issues\n\nGitLab issues\n\nGitHub issues\n\nHubSpot customers\n\nSalesforce customers\n\nSoon\n\nSalesforce customers\n\nSoon\n\nPipedrive customers\n\nSoon\n\nAPI\n\nSoon\n\n### Admin\n\nInstance-wide admin panel\n\nSingle sign-on (SSO)\n\nPayment by invoice\n\nAudit logs\n\nCo-branding\n\nSignup rules\n\nSoon\n\n### Support\n\nUser support\n\nCommunity, knowledge base,  \ntutorials\n\nCommunity, knowledge base,  \ntutorials\n\nWithin 1 business day  \n(direct and priority)\n\nFrequently asked questions\n--------------------------\n\n#### Who Baserow is suitable for?\n\n#### What is Baserow?\n\n#### Which open-source license does Baserow have?\n\n#### Why should my company use Baserow?\n\n#### What languages does Baserow support?\n\n#### How can I contact the support team?\n\n#### Where is the Baserow server located?\n\n#### What are the security and privacy measures and practices implemented by Baserow?\n\n#### What compliance and security certifications does Baserow hold?\n\n#### Will Baserow be free forever?\n\n#### How do I add a license to Baserow Self-Hosted?\n\n#### Does Baserow offer discounts?\n\n#### How do I purchase a subscription?\n\n#### How do I change the subscription plan (downgrade/upgrade)?\n\n#### What payment methods are accepted?\n\n#### Can I cancel my subscription?\n\n#### What are the limitations in records, rows, and API requests?\n\n#### Can I use Baserow as the backend for the web applications?\n\n#### Does Baserow have a rate limit?\n\n#### How to move data from baserow.io \u2013\\> self-hosted?\n\n#### Can I embed Baserow?\n\n#### Is it possible to collaborate in Baserow?\n\n#### Why do I receive a \"Connection to the server failed\" pop-up on Baserow.io?\n\nYour **product** team\u2019s **OKRs**. In one place.\n\nJoin thousands of teams and individuals who are creating their best work yet.\n\n[Sign up for free](https://baserow.io/signup) [Contact sales](https://baserow.io/contact-sales)\n\n[![Image 9: Baserow logo](https://baserow.io/_nuxt/img/logo-white.bcaaff2.svg)](https://baserow.io/)\n\nCompany\n\n*   [Jobs](https://baserow.io/jobs)\n*   [FAQ](https://baserow.io/faq)\n*   [Partners](https://baserow.io/partners)\n*   [Contact](https://baserow.io/contact)\n*   [Status](https://status.baserow.org/)\n\nPlatform\n\n*   [Templates](https://baserow.io/templates)\n*   [Pricing](https://baserow.io/pricing)\n*   [Community](https://baserow.io/community)\n*   [Knowledge base](https://baserow.io/user-docs)\n*   [n8n integration](https://n8n.io/integrations/baserow/ \"Baserow n8n integration\")\n*   [Zapier integration](https://zapier.com/apps/baserow/integrations \"Baserow Zapier integration\")\n*   [Make integration](https://www.make.com/en/integrations/baserow \"Baserow Make integration\")\n*   [All integrations](https://baserow.io/product/integrations)\n\nBlog\n\n*   [Baserow 1.32 release notes](https://baserow.io/blog/baserow-1-32-release-notes)\n*   [Best Airtable alternatives](https://baserow.io/blog/best-airtable-alternatives)\n*   [The best 100+ open source alternatives](https://baserow.io/blog/open-source-alternatives)\n*   [Why the future of no-code is open source](https://baserow.io/blog/open-source-no-code)\n*   [Top 10 project management tools](https://baserow.io/blog/top-10-project-management-tools)\n*   [14 best Smartsheet alternatives](https://baserow.io/blog/smartsheet-alternatives)\n*   [8 best Google Sheets alternatives](https://baserow.io/blog/google-sheets-alternatives)\n*   [10 reasons to build apps without code](https://baserow.io/blog/apps-without-code)\n\n[](https://gitlab.com/baserow/baserow \"Baserow repository at GitLab\")[](https://twitter.com/baserow \"Baserow Twitter profile\")[](https://www.linkedin.com/company/baserow/ \"Baserow LinkedIn profile\")[](https://community.baserow.io/ \"Baserow community forum\")\n\nFor developers\n\n*   [Documentation](https://baserow.io/docs/index)\n*   [API](https://baserow.io/api-docs)\n*   [OpenAPI](https://api.baserow.io/api/redoc/)\n\nJoin our newsletter\n\nStay up to date with the latest developments and releases by signing up for our newsletter.\n\nSubscribe\n\n\u00a9 2025 Baserow All rights reserved.\n\n[Terms & conditions](https://baserow.io/terms-and-conditions) [Privacy policy](https://baserow.io/privacy-policy)\n\nPricing of Baserow for the hosted and self hosted version. Including a feature breakdown of these features.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "baserow",
+        "app_name": "Baserow",
+        "app_slug": "baserow",
+        "pricing_url": "https://baserow.io/pricing",
+        "source_url": "https://baserow.io/pricing",
+        "all_pricing_urls": [
+          "https://baserow.io/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes hosted and self-hosted options with detailed feature breakdowns.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "For individuals and small teams",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited databases",
+              "3,000 rows per workspace",
+              "2GB of storage per workspace",
+              "Grid, Form & Gallery views",
+              "Library of 65+ templates"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "2GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Rows per workspace",
+                  "value": 3000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Premium",
+            "tier_description": "For growing teams",
+            "monthly_price": 12.0,
+            "annual_price": 120.0,
+            "annual_discount_percentage": 16.67,
+            "setup_fee": null,
+            "features": [
+              "Everything in Free",
+              "50,000 rows per workspace",
+              "20GB of storage per workspace",
+              "Kanban, Survey & Calendar views",
+              "XML & JSON export",
+              "Row comments & coloring"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "20GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Rows per workspace",
+                  "value": 50000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Advanced",
+            "tier_description": "For scaling businesses",
+            "monthly_price": 22.0,
+            "annual_price": 240.0,
+            "annual_discount_percentage": 9.09,
+            "setup_fee": null,
+            "features": [
+              "Everything in Premium",
+              "250,000 rows per workspace",
+              "100GB of storage per workspace",
+              "Role based permissions",
+              "Free read/comment users",
+              "Audit logs"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "100GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Rows per workspace",
+                  "value": 250000
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:36:07.683498",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\baserow\\20250415_033608"
+}

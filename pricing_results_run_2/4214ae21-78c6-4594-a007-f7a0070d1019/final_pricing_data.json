@@ -1,0 +1,205 @@
+{
+  "app_id": "mailmodo",
+  "app_name": "Mailmodo",
+  "app_slug": "mailmodo",
+  "pricing_url": "https://www.mailmodo.com/pricing/",
+  "source_url": "https://www.mailmodo.com/pricing",
+  "all_pricing_urls": [
+    "https://www.mailmodo.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of contacts and includes features such as email credits, custom events, and API requests.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lite",
+      "tier_description": null,
+      "monthly_price": 39.0,
+      "annual_price": 468.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "2,500 Contacts",
+        "20,000 Email Sending Credits",
+        "100,000 Custom events",
+        "AI Powered Content Creation",
+        "1 Team Member",
+        "1 Custom Domain",
+        "5 Active Journeys",
+        "10K Active Contacts/Journey",
+        "5 API Request / Sec",
+        "Basic Integrations",
+        "Chat & Email Support",
+        "A/B Testing",
+        "Send Time Optimization",
+        "Timezone Based Scheduling",
+        "Remove Mailmodo Branding From Footer",
+        "Upload Templates",
+        "Email Click Maps",
+        "Export Campaign Data via API"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": 5,
+        "integrations": "Basic",
+        "custom_limits": [
+          {
+            "name": "Active Journeys",
+            "value": 5
+          },
+          {
+            "name": "Active Contacts/Journey",
+            "value": "10K"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Popular",
+      "monthly_price": 79.0,
+      "annual_price": 948.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "2,500 Contacts",
+        "25,000 Email Sending Credits",
+        "175,000 Custom events",
+        "AI Powered Content Creation",
+        "3 Team Members",
+        "2 Custom Domains",
+        "10 Active Journeys",
+        "50K Active Contacts/Journey",
+        "10 API Request / Sec",
+        "Advanced Integrations",
+        "Chat, Email Support & Assisted Onboarding",
+        "A/B Testing",
+        "Send Time Optimization",
+        "Timezone Based Scheduling",
+        "Remove Mailmodo Branding From Footer",
+        "Upload Templates",
+        "Email Click Maps",
+        "Export Campaign Data via API"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": 10,
+        "integrations": "Advanced",
+        "custom_limits": [
+          {
+            "name": "Active Journeys",
+            "value": 10
+          },
+          {
+            "name": "Active Contacts/Journey",
+            "value": "50K"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Max",
+      "tier_description": null,
+      "monthly_price": 159.0,
+      "annual_price": 1908.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "2,500 Contacts",
+        "37,500 Email Sending Credits",
+        "250,000 Custom events",
+        "AI Powered Content Creation",
+        "5 Team Members",
+        "4 Custom Domains",
+        "Unlimited Active Journeys",
+        "100K Active Contacts/Journey",
+        "50 API Request / Sec",
+        "All Integrations",
+        "Chat, Email, Call & Dedicated Onboarding",
+        "A/B Testing",
+        "Send Time Optimization",
+        "Timezone Based Scheduling",
+        "Remove Mailmodo Branding From Footer",
+        "Upload Templates",
+        "Email Click Maps",
+        "Export Campaign Data via API"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": 50,
+        "integrations": "All",
+        "custom_limits": [
+          {
+            "name": "Active Journeys",
+            "value": "Unlimited"
+          },
+          {
+            "name": "Active Contacts/Journey",
+            "value": "100K"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Contacts",
+      "unit": "per contact",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 500.0,
+          "max": 250000.0,
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Save 20% on Annual Plans",
+      "discount_percentage": 20.0,
+      "offer_url": "https://www.mailmodo.com/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:54:59.924307",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4214ae21-78c6-4594-a007-f7a0070d1019",
+    "name": "Mailmodo",
+    "slug": "mailmodo",
+    "description": "Mailmodo is an email marketing tool which helps businesses get higher conversions from their emails",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/255cb88f35190ed96170e495d1275b45.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "app_name": "PagerDuty",
+  "app_slug": "pagerduty",
+  "search_term": "Find the official pricing page URL for PagerDuty (pagerduty.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744712404.4146862,
+  "response_text": [
+    "The official pricing page for PagerDuty can be found at: [https://www.pagerduty.com/pricing/](https://www.pagerduty.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Incident Management Pricing - PagerDuty",
+      "url": "https://www.pagerduty.com/pricing/incident-management/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.pagerduty.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://www.pagerduty.com/pricing/incident-management/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\pagerduty\\20250415_062035"
+}

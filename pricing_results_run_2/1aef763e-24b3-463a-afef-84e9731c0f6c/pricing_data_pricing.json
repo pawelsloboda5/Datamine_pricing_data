@@ -1,0 +1,135 @@
+{
+  "app_id": "egnyte",
+  "app_name": "Egnyte",
+  "app_slug": "egnyte",
+  "pricing_url": "https://www.egnyte.com/pricing",
+  "source_url": "https://www.egnyte.com/pricing",
+  "all_pricing_urls": [
+    "https://www.egnyte.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription-based plans with additional AI and governance features available as add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Business",
+      "tier_description": "Secure content collaboration with additional features.",
+      "monthly_price": null,
+      "annual_price": 20.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Secure content collaboration",
+        "Edge caching",
+        "File and login auditing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise Lite",
+      "tier_description": "Enhanced security and management features.",
+      "monthly_price": null,
+      "annual_price": 38.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Content lifecycle management",
+        "Security issue detection",
+        "Viewing with download restriction",
+        "Data residency options"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Advanced governance and compliance features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Sensitive content classification",
+        "Dynamic watermarking",
+        "Legal hold",
+        "OCR Search",
+        "Snapshot and Recovery"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": {
+    "has_token_based_pricing": null,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": null,
+    "has_fine_tuning_pricing": null,
+    "has_training_pricing": null,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Egnyte Intelligence",
+      "fee_amount": 8.0,
+      "fee_description": "Includes AI features like Copilot, AI Search, and AI Workflows."
+    },
+    {
+      "fee_name": "Snapshot and Recovery",
+      "fee_amount": 10.0,
+      "fee_description": "Recovery of files and folders from ransomware or accidental deletion."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:25:06.073542",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1aef763e-24b3-463a-afef-84e9731c0f6c",
+    "name": "Egnyte",
+    "slug": "egnyte",
+    "description": "Egnyte enables users to easily and securely share files on-premises and in the cloud. Egnyte\u2019s award-winning platform integrates with any cloud, storage, device and business application to enable customers to optimize their collaboration environments through secure access, centralized control and unified visibility.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/da3325591dd6988c6f25cb32b0e48af0.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "File Management & Storage"
+    ],
+    "category_slugs": [
+      "files"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "app_name": "Service Provider Pro",
+  "app_slug": "service-provider-pro",
+  "search_term": "Find the official pricing page URL for Service Provider Pro (service-provider-pro.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744696140.5115173,
+  "response_text": [
+    "The official pricing page for Service Provider Pro can be found at: [https://serviceproviderpro.com/pricing](https://serviceproviderpro.com/pricing)."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://serviceproviderpro.com/pricing",
+      "is_accessible": true,
+      "content": "This page isn\u2019t working\n-----------------------\n\nIf the problem continues, contact the site owner.\n\nHTTP ERROR 526\n\nIf the problem continues, contact the site owner.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "service_provider_pro",
+        "app_name": "Service Provider Pro",
+        "app_slug": "service-provider-pro",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page was inaccessible due to an HTTP error, preventing extraction of detailed pricing information.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T01:49:06.908124",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": true,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\service-provider-pro\\20250415_014908"
+}

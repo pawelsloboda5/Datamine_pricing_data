@@ -1,0 +1,73 @@
+{
+  "app_id": "amazon_sqs",
+  "app_name": "Amazon SQS",
+  "app_slug": "amazon-sqs",
+  "pricing_url": "https://aws.amazon.com/sqs/pricing/",
+  "source_url": "https://aws.amazon.com/sqs/pricing/",
+  "all_pricing_urls": [
+    "https://aws.amazon.com/sqs/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Amazon SQS pricing is based on usage metrics such as the number of requests and data transfer.",
+  "pricing_tiers": null,
+  "usage_based_pricing": [
+    {
+      "metric_name": "Requests",
+      "unit": "per 1 million requests",
+      "base_price": 0.4,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 1000000.0,
+          "price": 0.4
+        },
+        {
+          "min": 1000001.0,
+          "max": "unlimited",
+          "price": 0.3
+        }
+      ]
+    },
+    {
+      "metric_name": "Data Transfer",
+      "unit": "per GB",
+      "base_price": 0.09,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T10:19:06.116853",
+  "schema_validated": true,
+  "confidence_score": 70,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5ac8ec95-607b-4f6d-83dc-bc5493a9dc98",
+    "name": "Amazon SQS",
+    "slug": "amazon-sqs",
+    "description": "Amazon Simple Queue Service is a simple but powerful services for generating and consuming messages. It can help decouple systems for improved scalability and robustness.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/341c23cdd869b140d67386a3fda6ad99.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Amazon",
+      "Developer Tools"
+    ],
+    "category_slugs": [
+      "aws",
+      "developer-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 2
+  }
+}

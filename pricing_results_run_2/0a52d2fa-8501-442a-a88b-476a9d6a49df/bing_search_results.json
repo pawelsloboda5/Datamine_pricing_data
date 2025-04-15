@@ -1,0 +1,172 @@
+{
+  "app_name": "ChartMogul",
+  "app_slug": "chartmogul",
+  "search_term": "Find the official pricing page URL for ChartMogul (chartmogul.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744718072.2021656,
+  "response_text": [
+    "The official URL for ChartMogul's pricing page is [https://chartmogul.com/pricing/](https://chartmogul.com/pricing/)."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://chartmogul.com/pricing/",
+      "is_accessible": true,
+      "content": "      \nA plan for every step of your SaaS journey   Subscription Analytics CRM    \n   \nFree \nFor founders with less than $120K ARR.  \n $0 / month  Get started for free \n \nSaaS metrics and dashboards \nConnect with Stripe, Intercom, Slack and more \nUnlimited users     \nPro \nFor teams on the journey to $10M ARR.  \n From $119$99 / month  \n Estimate your price  Start free trial \n \nAdd multiple billing sources \nBuild and share custom reports \nConnect your data warehouse     \nEnterprise \nFor teams scaling to $100M ARR and beyond.  \n From $19,900 / year  Contact us \n \nFull access to sources and destinations \nOne-on-one training \nSolutions engineering support and SLA     \n  \nCompare plans  \n Annual billing (17% off)   \n \nFree \n$0 / month Get started  \n \nPro \nFrom $119$99 / month Free trial  \n \nEnterprise \nFrom $19,900 / year Contact us      Track recurring revenue (see pricing schedule)   Up to $120k ARR   Up to $10M ARR   Unlimited     Users   Unlimited   Unlimited   Unlimited      Benchmarks \nCompare your performance with the most current SaaS performance benchmarks available on the market.                Team dashboards \nCustomize dashboards for each team displaying their real-time performance and progress to goal.    5   10   15      SaaS metric reports \nA comprehensive set of core reports, right out of the box, including ARR, LTV, retention and churn.                MRR reports \nTrack individual MRR movements, see the impact of forex fluctuations on MRR, and scheduled expansion, contraction and churn events.                Cohort analysis \nBetter understand retention and churn based on when customers subscribed.                Maps \nVisualize key subscription metrics geographically using heat maps.                Segmentation \nSegment any of your metrics by plan, location, customer type and other dimensions.                Custom charts \nBuild and share custom reports.                Custom attributes \nAdd more data points to customers and contacts like lead source, industry, and role.               iOS and Android apps               Email summary reports \nOpt-in for daily, weekly or monthly summaries of your SaaS performance.              \nData management     Subscription billing integrations \nAutomatically import subscription data into ChartMogul where it will be converted into SaaS metrics. Note: you can add as many third-party integrations as needed.    1   3   15      Lead, trial and enrichment integrations \nImport leads and trials, or extend segmentation by enriching customer records from HubSpot, intercom, Segment, Zapier, and more.                Standard destinations \nPush updates and data to Slack, Intercom, or use our webhooks.    2   4   8      Advanced destinations \nSchedule exports of both normalized data and computed metrics to your data warehouse, cloud storage service or via email.       1   5      API \nAdd, update and retrieve various object types, metrics and reports, and use our bulk endpoint for more efficient upload of large datasets.                CSV import and export \nUpload your customers and billing data, and export a range of metrics and detailed reports such as MRR per customer per month.                Scheduled exports \nExport and email MRR movements, customers, custom attributes, and tag data as CSV on a scheduled basis.                Audit and edit data \nMessy billing data shouldn\u2019t mean inaccurate reporting. With ChartMogul you can quickly identify and remedy data issues directly in your account.                Data settings \nControl when to recognize churn, how refunds should be handled, what to do with delinquent subscribers, and much more.                Automations \nCreate automated workflows by defining triggers, conditions, and actions.              \nSecurity and support    SOC 2 and GDPR compliant              SSO and two-factor authentication              Role-based permissions              Comprehensive support documentation              Support   Self-service via help center   Via email   Dedicated account manager, solutions engineering support and SLA     Guided onboarding      Implementation and training support   Dedicated implementation training and support     \n \nPricing depends on your ARR. The table below outlines monthly prices by ARR tier. Pay annually for a discount.      \n Annual billing (17% off)   Monthly price   Up to $500k ARR$119$99 Up to $1M ARR$209$174 Up to $1.5M ARR$299$249 Up to $3M ARR$539$449 Up to $5M ARR$839$699 Up to $7M ARR$1,139$949 Up to $10M ARR$1,439$1,199 Over $10M ARRContact us     \n   \nFree \nFor SaaS companies doing founder-led sales.  \n $0  \nNo credit card required. Get started for free \n \n1 seat \nEmail leads and customers \nManage tasks and opportunities     \nPro \nFor sales, account management and success teams.  \n $39$32.50 / seat  \nPer month, billed monthlyannually. Get started \n \nCreate and share custom reports \nRemove ChartMogul email branding \nMigration assistance and training     \n  \nCompare plans  \n Annual billing (17% off)   \n \nFree \n$0 Get started  \n \nPro \n$39$32.50 / seat Get started      Seats   1   No limit      Work leads \nContact, update and bulk edit leads.             Manage opportunities \nCreate, update and close new business, expansion and renewal opportunities.             Create lists \nSave dynamic and static lists of leads, opportunities, and customers for visibility and bulk editing.             Add tasks \nStay on top of follow ups by creating tasks for yourself and others.             Send emails \nConnect your email account to automatically sync email conversations to the correct customer records in ChartMogul.             Use email templates \nSave time on repetitive emails by creating email templates with placeholders.             Remove branding \nRemove the \u201cSent from ChartMogul\u201d branding stamp from the footer of your outgoing emails.           \nManage sales performance     Pipeline reports \nSee the team\u2019s opportunities sliced by stage, owner and forecast category.             Activity reports \nView your team\u2019s open and overdue tasks across leads and customers.             Dashboards \nAdd dashboards for sales and account management showing targets, activity, leaderboards, forecast and more.             Customer profiles \nA comprehensive view of a customer\u2019s history including opportunities, tasks, email threads, notes, calls and payments.           \nData and process management     Automations \nCreate automated workflows by defining triggers, conditions, and actions.             Add multiple pipelines \nDefine the types of opportunities available in your account: new business, renewals and more.              Configure opportunity stages \nDefine each stage of an opportunity\u2019s lifecycle from open to close.             Custom fields \nAdd your own attributes to customer, contact and opportunity objects.              Integrations \nAutomatically import and update leads and contacts from Hubspot, Segment, Intercom and Stripe.              API \nAdd, update and retrieve various object types, metrics and reports.             CSV import and export \nBulk upload or download leads and customer information, and migrate historical activity including notes.           \nSecurity and support    SOC 2 and GDPR compliant           SSO and two-factor authentication           Comprehensive support documentation           Support   Via email   Solutions engineering support and SLA     Guided onboarding   Via email   Dedicated implementation support and training      \n  \n   \n \nTo make great decisions, you need to know exactly how your business is performing. ChartMogul provides this insight and lets us run deeper analysis into our revenue and customer base.  Mariam Hakobyan, Co-founder and CEO    Learn how Founders and CEOs use ChartMogul   \n   \n \nChartMogul keeps our leadership team up to date and aligned, while freeing us from manual reporting.  Eoin Lyons, VP Sales    Learn how Sales and Success use ChartMogul   \n   \n \nChartMogul is infinitely configurable. Having flexibility means that we can build sophisticated integrations tailored perfectly to our needs.  Robin Birney, VP RevOps    Learn how RevOps and Developers use ChartMogul   \n   \n \nChartMogul has revolutionized how we analyze our data, making it easy to uncover insights that drive our business forward. It's an indispensable tool for our team.  Jonathan Garcia, Sr Manager of Business Intelligence    Learn how BI professionals use ChartMogul      \nFrequently Asked Questions   \nDoes ChartMogul have a free trial?  \n \n \nYes! Start a free trial to give Subscription Analytics a spin. Once you\u2019ve connected a data source, ChartMogul will begin transforming your data and provide a set of reports for you to begin exploring. Before your 14-day free trial is up, you\u2019ll need to switch to one of our plans to continue using ChartMogul. Please note, we do not offer a free trial of our CRM. Sign up for the Free plan to try out CRM.      \nIs ChartMogul free to use?  \n \n \nChartMogul has plans for teams of all sizes, including a free plan for early stage companies. Any SaaS business with less than USD $10,000 MRR qualifies for our Free Subscription Analytics plan, and any SaaS business is able to use our Free CRM plan with 1 free seat.      \nDo you have a startup program?  \n \n \nYes! We offer a $50 monthly discount for eligible startups for the first year of their ChartMogul Subscription Analytics subscription. To get more information and apply, see our startup program.      \nDo you offer discounts?  \n \n \nOur Pro plan comes with a 17% discount if you subscribe annually. We also offer multi-year discounts for the Enterprise plan. Contact us to discuss.      \nWhat other platforms can ChartMogul connect with?  \n \n \nChartMogul has a robust ecosystem of integrations you can use to import, enrich and export data into the rest of your stack. One-click integrations are available for Stripe, Hubspot, Chargebee, Big Query, Snowflake, Segment and many more systems. See the full list of integrations here. In addition, see our developer documentation to understand how to use ChartMogul\u2019s API to create custom integrations.      \nDoes ChartMogul have an API?  \n \n \nYes! To learn more, see our developer documentation.      \nAre data migration and integration services available?  \n \n \nAbsolutely. Our customer success team is ready to help you. For more complex implementations we can refer you to a preferred solutions partner. Please send a short summary of your requirements and current setup to support@chartmogul.com.      \nWhat's the difference between ChartMogul Subscription Analytics and CRM?  \n \n \nBoth products help you grow your SaaS business in different ways. \nChartMogul Subscription Analytics is a powerful tool for executives, data analysts and finance teams to understand SaaS company performance. It transforms billing data into accurate and meaningful company metrics ready for segmentation, enrichment and analysis. Discover new ICPs, spot monetization opportunities and compare your growth to industry benchmarks. Create beautiful dashboards and charts ready to share with your team or board. \nChartMogul CRM is designed for salespeople, account managers and sales leaders to acquire new customers and strengthen existing relationships. It enables you to contact leads, set follow-up tasks, create opportunities and track sales targets. Import new leads from HubSpot, Segment, Intercom or your database, ready for your team to work on.      \nCan I speak to someone to answer a few more questions?  \n \n \nYes, our team is ready to help! Get in touch with our sales team or send us an email at support@chartmogul.com. You can also browse our Help Center at any time.        \nGet started with ChartMogul   Start a free trial Book a demo\n\nChartMogul has plans for every subscription business, whether a fast-growing startup or large-scale enterprise. All graphs, charts and metrics are included as standard.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "chartmogul",
+        "app_name": "ChartMogul",
+        "app_slug": "chartmogul",
+        "pricing_url": "https://chartmogul.com/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://chartmogul.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing varies based on ARR tiers and includes a free tier for early-stage companies.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "For founders with less than $120K ARR.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "SaaS metrics and dashboards",
+              "Connect with Stripe, Intercom, Slack and more",
+              "Unlimited users"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "For teams on the journey to $10M ARR.",
+            "monthly_price": 99.0,
+            "annual_price": 1188.0,
+            "annual_discount_percentage": 17.0,
+            "setup_fee": null,
+            "features": [
+              "Add multiple billing sources",
+              "Build and share custom reports",
+              "Connect your data warehouse"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "For teams scaling to $100M ARR and beyond.",
+            "monthly_price": null,
+            "annual_price": 19900.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Full access to sources and destinations",
+              "One-on-one training",
+              "Solutions engineering support and SLA"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "ARR",
+            "unit": "USD",
+            "base_price": 99.0,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": 500000.0,
+                "price": 99.0
+              },
+              {
+                "min": 500001.0,
+                "max": 1000000.0,
+                "price": 174.0
+              },
+              {
+                "min": 1000001.0,
+                "max": 1500000.0,
+                "price": 249.0
+              },
+              {
+                "min": 1500001.0,
+                "max": 3000000.0,
+                "price": 449.0
+              },
+              {
+                "min": 3000001.0,
+                "max": 5000000.0,
+                "price": 699.0
+              },
+              {
+                "min": 5000001.0,
+                "max": 7000000.0,
+                "price": 949.0
+              },
+              {
+                "min": 7000001.0,
+                "max": 10000000.0,
+                "price": 1199.0
+              },
+              {
+                "min": 10000001.0,
+                "max": "unlimited",
+                "price": null
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Startup Program Discount",
+            "offer_description": "$50 monthly discount for eligible startups for the first year.",
+            "discount_percentage": null,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:54:42.481397",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\chartmogul\\20250415_075442"
+}

@@ -1,0 +1,197 @@
+{
+  "app_id": "awork",
+  "app_name": "awork",
+  "app_slug": "awork",
+  "pricing_url": "https://www.awork.com/pricing",
+  "source_url": "https://www.awork.com/pricing",
+  "all_pricing_urls": [
+    "https://www.awork.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing varies based on billing frequency (monthly, annually, bi-annually) and includes discounts for longer commitments.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Tiny teams",
+      "tier_description": "Suitable for small teams with basic needs.",
+      "monthly_price": 11.0,
+      "annual_price": 8.0,
+      "annual_discount_percentage": 27.27,
+      "setup_fee": null,
+      "features": [
+        "Unlimited projects",
+        "Time tracking",
+        "Personal planner",
+        "Regular integrations",
+        "Desktop & mobile app",
+        "1 project & task template",
+        "1 custom field",
+        "Chat & email support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Small teams",
+      "tier_description": "Designed for small teams with additional features.",
+      "monthly_price": 18.0,
+      "annual_price": 15.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Capacity planning",
+        "Team structure",
+        "3 custom fields",
+        "6 project & task templates",
+        "1 automation per project",
+        "Absences",
+        "Advanced permissions"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional project businesses",
+      "tier_description": "Ideal for professional teams managing complex projects.",
+      "monthly_price": 22.0,
+      "annual_price": 19.0,
+      "annual_discount_percentage": 13.64,
+      "setup_fee": null,
+      "features": [
+        "Own subdomain",
+        "Time tracking settings",
+        "Comprehensive time reports",
+        "Private projects",
+        "Unlimited custom fields",
+        "Unlimited automations",
+        "Advanced integrations",
+        "Phone support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Large organisations",
+      "tier_description": "For large organisations requiring advanced features.",
+      "monthly_price": null,
+      "annual_price": 24.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "SSO & SCIM integration",
+        "Project recovery",
+        "Medium SLAs",
+        "Premium support",
+        "Payment via invoice"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Even larger organisations",
+      "tier_description": "Customised service for very large organisations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Premium SLAs",
+        "Data migration",
+        "Customer success support",
+        "Bi-annual check-ins"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Billing Discount",
+      "offer_description": "Save 15% when billed annually.",
+      "discount_percentage": 15.0,
+      "offer_url": "https://www.awork.com/pricing",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Bi-Annual Billing Discount",
+      "offer_description": "Save 30% when billed bi-annually.",
+      "discount_percentage": 30.0,
+      "offer_url": "https://www.awork.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Team Onboard Guarantee",
+      "fee_amount": 250.0,
+      "fee_description": "Includes personal customer success manager, admin and config guide, user training guide, dashboard to measure team activity, 2 hours consulting, and full money-back guarantee."
+    },
+    {
+      "fee_name": "Enhanced Team Onboard Guarantee",
+      "fee_amount": 1000.0,
+      "fee_description": "Includes personal customer success manager, admin and config guide, user training guide, dashboard to measure team activity, 4 hours consulting, and full money-back guarantee."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:04:06.450002",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "57bd8ea2-97d8-4153-a2d7-bc82233f47b5",
+    "name": "awork",
+    "slug": "awork",
+    "description": "Intelligent projects, tasks and time tracking for your project business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/99d8d0c1a191d60013383e26427271fb.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Collaboration"
+    ],
+    "category_slugs": [
+      "team-collaboration"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 4
+  }
+}

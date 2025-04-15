@@ -1,0 +1,109 @@
+{
+  "app_name": "Everhour",
+  "app_slug": "everhour",
+  "search_term": "Find the official pricing page URL for Everhour (everhour.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744701775.570867,
+  "response_text": [
+    "The official pricing page for Everhour can be found at: [https://everhour.com/pricing](https://everhour.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Everhour Pricing & Free Trial",
+      "url": "https://everhour.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://everhour.com/pricing",
+      "is_accessible": true,
+      "content": "Simple pricing\n--------------\n\n### Two plans, no tricks: get the essentials for free or everything in one paid plan.  \nNo hidden upgrades, no price jumps.\n\nsave 15%\n\n### Free\n\nSimple time tracking for small teams with no integrations\n\n0 $\n\nAbsolutely free for up to 5 seats.\n\n[Get started](https://everhour.com/signup)\n\n* * *\n\n*   Time tracking\n*   Projects and tasks\n*   Reports\n*   Export data\n*   Web, iOS app, browser extension\n\n### Team\n\nAll features and integrations for businesses\n\n8.50$\n\nMonthly seat cost when paid yearly. Minimum 5 seats.\n\n[Get started](https://everhour.com/signup)\n\n* * *\n\n*   Unlimited seats\n*   Integrations\n*   Billing & budgeting\n*   Invoicing\n*   Time approval\n*   Time off\n*   Expenses\n*   Optional screenshots\n*   SSO\n*   API\n*   Much more...\n\nQuestions? We have answers\n--------------------------\n\n### Here is a list of the most frequently asked questions.\n\nYes! When you sign up, you'll receive a fully-functional account for 2 weeks, granting you access to all Everhour features. After 14 days, you can choose either a free or paid plan. We'll send you a reminder email a few days before your trial ends.\n\nOur free plan offers basic time tracking features but does not include integrations, which are available only on the paid plan. If you connect an integration during your trial, you will need to choose a paid plan after the trial ends to continue using it. If you do not connect any integrations during the trial, you can switch to the free plan at any time.\n\nIf you wish to switch to the free plan after using integrations during your trial, please contact our support team. We will need to manually remove the integration and all synchronized data, which cannot be done automatically. This is to ensure there are no surprises for you.\n\nNo! We only ask for a credit card if you decide to upgrade to a paid plan after your free trial.\n\nThis indicates the minimum number of seats required for a paid plan. It's similar to a minimum usage fee, ensuring access to the service. Even if you have 2 or 3 users, you'll be charged for a minimum of 5 seats.\n\nEssentially, a 'user' and a 'seat' are the same, except removing a user doesn't automatically remove the seat. This flexibility allows you to replace users without prorating or issuing a separate invoice. You can archive or delete people who've left your company and invite new ones without having to change your seat count every time.\n\nOpting for annual payment saves you 15%. Keep in mind, this discount requires a commitment, and we don't refund unused months upon cancellation. Additionally, volume discounts are available for new accounts with over 100 seats.\n\nYes! If Everhour isn't the right fit, cancel before your next billing period (as listed on your billing page). Unfortunately, we can't refund partial use or the remaining time in your subscription.\n\nCurrently, we only accept credit or debit card payments.\n\nWe charge in US dollars, but the actual debit currency depends on your card and bank.\n\nCompare the plans\n-----------------\n\n### Gain deeper insights into the features offered within each plan.\n\n|  | Free | Team |\n| --- | --- | --- |\n| **Time tracking** |\n| **Timer or manual entry**\n |  |  |\n| **Time entry notes**\n\n |  |  |\n| **Add time for team members**\n\n |  |  |\n| **Timesheet view**\n\n |  |  |\n| **Favorite time entries**\n\n |  |  |\n| **Timer button on popular websites**\n\n |  |  |\n| **Native integrations & sync**\n\n |  |  |\n| **Clock-in, clock-out, breaks**\n\n |  |  |\n| **Optional screenshots**\n\n |  |  |\n| **Personal time tracking reminders**\n\n |  |  |\n| **Auto-stop timer**\n\n |  |  |\n| **Overtime**\n\n |  |  |\n| **Project management** |\n| **Manage tasks**\n\n |  |  |\n| **Set estimates**\n\n |  |  |\n| **Project templates**\n\n |  |  |\n| **List or Board views**\n\n |  |  |\n| **Real-time team timers**\n\n |  |  |\n| **Saved reports**\n\n |  |  |\n| **Export**\n\n |  |  |\n| **Summary emails**\n\n |  |  |\n| **Schedule reports via email**\n\n |  |  |\n| **Folders**\n\n |  |  |\n| **Timeline**\n\n |  |  |\n| **Team management** |\n| **User groups**\n\n |  |  |\n| **Team roles**\n\n |  |  |\n| **Custom access level management**\n\n |  |  |\n| **Resource planning**\n\n |  |  |\n| **Lock time editing**\n\n |  |  |\n| **Time audits**\n\n |  |  |\n| **Time approval**\n\n |  |  |\n| **Time off, vacations, absence**\n\n |  |  |\n| **Single sign-on (SSO)**\n\n |  |  |\n| **Billing and budgeting** |\n| **Clients**\n\n |  |  |\n| **Project billing types**\n\n |  |  |\n| **Team member billable ratess**\n\n |  |  |\n| **Custom task rates**\n\n |  |  |\n| **Budgets**\n\n |  |  |\n| **Overlimit notifications**\n\n |  |  |\n| **Expenses**\n\n |  |  |\n| **Invoices**\n\n |  |  |\n| **Copy invoices to QuickBooks or Xero**\n\n |  |  |\n| **Integrations** |\n| **Timer button on popular websites**\n\n |  |  |\n| **Native integrations & sync**\n\n |  |  |\n| **Copy Outlook, gCal, iCal events**\n\n |  |  |\n| **Zapier**\n\n |  |  |\n| **API**\n\n |  |  |\n| **Jira sync**\n\n |  |  |\n\nTwo plans, no tricks: get the essentials for free or everything in one paid plan. No hidden upgrades, no price jumps.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "everhour",
+        "app_name": "Everhour",
+        "app_slug": "everhour",
+        "pricing_url": "https://everhour.com/pricing",
+        "source_url": "https://everhour.com/pricing",
+        "all_pricing_urls": [
+          "https://everhour.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Annual payment offers a 15% discount. Minimum 5 seats required for paid plan.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Simple time tracking for small teams with no integrations.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Time tracking",
+              "Projects and tasks",
+              "Reports",
+              "Export data",
+              "Web, iOS app, browser extension"
+            ],
+            "limits": {
+              "users": 5,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Team",
+            "tier_description": "All features and integrations for businesses.",
+            "monthly_price": 10.0,
+            "annual_price": 8.5,
+            "annual_discount_percentage": 15.0,
+            "setup_fee": null,
+            "features": [
+              "Unlimited seats",
+              "Integrations",
+              "Billing & budgeting",
+              "Invoicing",
+              "Time approval",
+              "Time off",
+              "Expenses",
+              "Optional screenshots",
+              "SSO",
+              "API",
+              "Much more"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:23:08.109770",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\everhour\\20250415_032308"
+}

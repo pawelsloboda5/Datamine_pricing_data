@@ -1,0 +1,19 @@
+{
+  "app_name": "RepairDesk",
+  "app_slug": "repairdesk",
+  "search_term": "Find the official pricing page URL for RepairDesk (repairdesk.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725760.2835128,
+  "response_text": [
+    "The official pricing page for RepairDesk is located at https://www.repairdesk.co/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.repairdesk.co/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\repairdesk\\20250415_100241"
+}

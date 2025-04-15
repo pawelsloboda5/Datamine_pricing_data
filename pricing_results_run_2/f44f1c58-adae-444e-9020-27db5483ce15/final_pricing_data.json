@@ -1,0 +1,222 @@
+{
+  "app_id": "ebay",
+  "app_name": "eBay",
+  "app_slug": "ebay",
+  "pricing_url": "https://www.ebay.com/sellercenter/payments-and-fees/subscriptions-and-fees",
+  "source_url": "https://www.ebay.com/sellercenter/payments-and-fees/subscriptions-and-fees",
+  "all_pricing_urls": [
+    "https://www.ebay.com/sellercenter/payments-and-fees/subscriptions-and-fees"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on subscription tiers with additional fees for exceeding limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter Store",
+      "tier_description": "Best for sellers who have a handful of products and want a storefront to brand and promote their business.",
+      "monthly_price": 4.95,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "250 free auction or fixed-price listings per month",
+        "30\u00a2 insertion fee for additional listings"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Free auction or fixed-price listings",
+            "value": 250
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Basic Store",
+      "tier_description": "Just getting started? Enjoy more free listings, final value fee discounts, and a quarterly coupon for eBay-branded shipping supplies.",
+      "monthly_price": 21.95,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1,000 free fixed-price listings per month",
+        "250 free auction listings in select categories",
+        "25\u00a2 insertion fee for additional listings"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Free fixed-price listings",
+            "value": 1000
+          },
+          {
+            "name": "Free auction listings in select categories",
+            "value": 250
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium Store",
+      "tier_description": "If you have an extensive product assortment, a Premium Store subscription gives you substantially more zero insertion fee listings.",
+      "monthly_price": 59.95,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10,000 free fixed-price listings per month",
+        "500 free auction listings in select categories",
+        "10\u00a2 insertion fee for additional listings"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Free fixed-price listings",
+            "value": 10000
+          },
+          {
+            "name": "Free auction listings in select categories",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Anchor Store",
+      "tier_description": "For high volume sellers who have an extensive product catalog or are running a business that would benefit from dedicated customer support.",
+      "monthly_price": 299.95,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "25,000 free fixed-price listings per month",
+        "1,000 free auction listings in select categories",
+        "5\u00a2 insertion fee for additional listings"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Free fixed-price listings",
+            "value": 25000
+          },
+          {
+            "name": "Free auction listings in select categories",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise Store",
+      "tier_description": "For enterprise sellers who have an extensive product catalog or are running a business that would benefit from dedicated customer support.",
+      "monthly_price": 2999.95,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "100,000 free fixed-price listings per month",
+        "2,500 free auction listings in select categories",
+        "5\u00a2 insertion fee for additional listings"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Free fixed-price listings",
+            "value": 100000
+          },
+          {
+            "name": "Free auction listings in select categories",
+            "value": 2500
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Insertion fee for additional listings",
+      "unit": "per listing",
+      "base_price": 0.3,
+      "tiers": [
+        {
+          "min": 251.0,
+          "max": 1000.0,
+          "price": 0.25
+        },
+        {
+          "min": 1001.0,
+          "max": 10000.0,
+          "price": 0.1
+        },
+        {
+          "min": 10001.0,
+          "max": 25000.0,
+          "price": 0.05
+        },
+        {
+          "min": 25001.0,
+          "max": "unlimited",
+          "price": 0.05
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:22:41.332197",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f44f1c58-adae-444e-9020-27db5483ce15",
+    "name": "eBay",
+    "slug": "ebay",
+    "description": "eBay is a premier auction site that allows anyone to buy and sell goods, from individuals to retailers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/84c647027dbb9ddff799ca5ece59f05f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

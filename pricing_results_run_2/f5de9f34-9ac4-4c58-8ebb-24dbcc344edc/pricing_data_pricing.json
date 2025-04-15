@@ -1,0 +1,268 @@
+{
+  "app_id": "browse_ai",
+  "app_name": "Browse AI",
+  "app_slug": "browse-ai",
+  "pricing_url": "https://www.browse.ai/pricing",
+  "source_url": "https://browse.ai/pricing",
+  "all_pricing_urls": [
+    "https://www.browse.ai/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 20% discount compared to monthly billing. Credits are used for data extraction and monitoring tasks.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free forever plan.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic email support",
+        "Help Center access"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Robots",
+            "value": 5
+          },
+          {
+            "name": "Data Retention",
+            "value": "15 days"
+          },
+          {
+            "name": "Max Task Execution Time",
+            "value": "12 minutes"
+          },
+          {
+            "name": "Monitoring Frequency",
+            "value": "1 day"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Starter plan for small-scale usage.",
+      "monthly_price": 48.75,
+      "annual_price": 19.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Basic email support",
+        "Help Center access"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Robots",
+            "value": 10
+          },
+          {
+            "name": "Data Retention",
+            "value": "40 days"
+          },
+          {
+            "name": "Max Task Execution Time",
+            "value": "30 minutes"
+          },
+          {
+            "name": "Monitoring Frequency",
+            "value": "1 hour"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Professional plan for medium-scale usage.",
+      "monthly_price": 123.75,
+      "annual_price": 99.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Basic email support",
+        "Help Center access"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Robots",
+            "value": 20
+          },
+          {
+            "name": "Data Retention",
+            "value": "70 days"
+          },
+          {
+            "name": "Max Task Execution Time",
+            "value": "60 minutes"
+          },
+          {
+            "name": "Monitoring Frequency",
+            "value": "15 minutes"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Team plan for collaborative usage.",
+      "monthly_price": 311.25,
+      "annual_price": 249.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Basic email and chat support",
+        "Help Center access",
+        "Team onboarding"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Robots",
+            "value": 30
+          },
+          {
+            "name": "Data Retention",
+            "value": "90 days"
+          },
+          {
+            "name": "Max Task Execution Time",
+            "value": "60 minutes"
+          },
+          {
+            "name": "Monitoring Frequency",
+            "value": "5 minutes"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Custom plan for enterprise-level usage.",
+      "monthly_price": null,
+      "annual_price": 500.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Premium 24x7 support",
+        "Help Center access",
+        "Dedicated account manager",
+        "Team onboarding",
+        "SSO"
+      ],
+      "limits": {
+        "users": "Custom",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Robots",
+            "value": "Custom"
+          },
+          {
+            "name": "Data Retention",
+            "value": "Custom"
+          },
+          {
+            "name": "Max Task Execution Time",
+            "value": "Custom"
+          },
+          {
+            "name": "Monitoring Frequency",
+            "value": "Custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Credits",
+      "unit": "per credit",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 10.0,
+          "price": null
+        },
+        {
+          "min": 11.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Billing Discount",
+      "offer_description": "20% discount for annual billing.",
+      "discount_percentage": 20.0,
+      "offer_url": "https://www.browse.ai/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:05:22.873760",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f5de9f34-9ac4-4c58-8ebb-24dbcc344edc",
+    "name": "Browse AI",
+    "slug": "browse-ai",
+    "description": "Browse AI is a web automation tool that lets you extract and monitor data from any website with no code.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/04fd5c8d22e4b537634c44aeac888f3c_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools",
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "ai-tools",
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

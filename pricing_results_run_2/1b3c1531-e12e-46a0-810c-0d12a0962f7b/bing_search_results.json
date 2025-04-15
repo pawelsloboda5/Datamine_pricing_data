@@ -1,0 +1,417 @@
+{
+  "app_name": "Airparser",
+  "app_slug": "airparser",
+  "search_term": "Find the official pricing page URL for Airparser (airparser.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744723962.0946908,
+  "response_text": [
+    "The official pricing page for Airparser can be found at: [https://airparser.com/pricing](https://airparser.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing and Free Trial | Airparser",
+      "url": "https://airparser.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://airparser.com/pricing/",
+      "is_accessible": true,
+      "content": "Transparent plans with no hidden fees.\n--------------------------------------\n\nAnnually\n\n\\-17%\n\nMonthly\n\nStarter\n\n$33\n\nper month, billed annually\n\n[Get started](https://app.airparser.com/signup)\n\n**100 credits**\u00a0 per month\n\n**30 days**\u00a0 documents retention\n\nOCR support: parse images, scanned documents, and handwritten texts\n\nNew: LLM Vision engine \ud83c\udf89\n\nGrowth\n\n$49\n\nper month, billed annually\n\n[Get started](https://app.airparser.com/signup)\n\n**500 credits**\u00a0 per month\n\n**90 days**\u00a0 documents retention\n\nOCR support: parse images, scanned documents, and handwritten texts\n\nNew: LLM Vision engine \ud83c\udf89\n\nMost popular\n\nBusiness\n\n$149\n\nper month, billed annually\n\n[Get started](https://app.airparser.com/signup)\n\n**2 000 credits**\u00a0 per month\n\n**90 days**\u00a0 documents retention\n\nOCR support: parse images, scanned documents, and handwritten texts\n\nNew: LLM Vision engine \ud83c\udf89\n\n**Unlimited team members**\n\nPremium\n\n$249\n\nper month, billed annually\n\n[Get started](https://app.airparser.com/signup)\n\n**5 000 credits**\u00a0 per month\n\n**180 days**\u00a0 documents retention\n\nOCR support: parse images, scanned documents, and handwritten texts\n\nNew: LLM Vision engine \ud83c\udf89\n\n**Unlimited team members**\n\nTrial\n\n**30 credits** (non-renewable)\n\nAll features included\n\n30 days documents retention\n\nFAQ\n---\n\nCommon questions and clear answers\n\n### What is a credit?\n\nYour Airparser account is credited monthly based on your subscription. One credit is consumed for each parsed email, document, or PDF page.\n\n### Do you offer a free trial?\n\nYes! The Trial plan includes 30 credits, allowing you to parse up to 30 emails, documents, or PDF pages. You can test all features, including data export and third-party integrations.\n\n### What does documents retention mean?\n\nRetention refers to the maximum number of days we keep your data stored before it is permanently deleted from our servers and database.\n\n### What happens to unused credits?\n\nUnused credits expire at the end of each billing period, and your account is topped up with new credits.\n\n### Do you offer discounts?\n\nYes. All our plans come with a ~17% discount when you subscribe annually (equivalent to 2 months free).\n\n### What happens once I have used all my credits?\n\nYour Airparser account can still receive emails and documents, but they won't be parsed until the next billing period. You have three options: wait for your next billing cycle, upgrade your subscription, or renew your current plan early to get a fresh set of credits for the next 30 days.\n\n### Can I purchase additional credits (top up)?\n\nWhile we don't offer arbitrary credit purchases, you can renew your current plan early to get a fresh set of credits. For example, if you're on the Growth plan (500 credits per month) and use all credits in 3 weeks, you can renew early to get another 500 credits valid for the next 30 days.\n\n### Can I change my subscription?\n\nOur flexible subscription plans allow you to upgrade, downgrade or cancel your subscription at any time. Upgrades and downgrades take effect immediately. Cancellation is also possible at any time.\n\n### What payment types do you accept?\n\nWe accept all major credit cards, including MasterCard, Visa, American Express, Diners, and JCB. We do not accept cryptocurrency, PayPal, or bank transfers as payment methods.\n\n### How do I know it's safe to link my bank card?\n\nAirparser never stores your bank card information. Your payment card details are encrypted and safely stored by [Stripe](https://stripe.com/docs/security).\n\n### Can I get a refund?\n\nWe typically provide very limited refunds because you can try out all the features using our Trial plan before you upgrade to a paid membership. However, if you are unsatisfied with our services, please email us at [support@airparser.com](mailto:support@airparser.com).\n\n### Can I get an invoice?\n\nYes, you can view and download your invoices from your Account \\> Invoices & Usage page.\n\n### Do you offer high-volume plans?\n\nYes! Email us at [support@airparser.com](mailto:support@airparser.com) to discuss our high-volume pricing.\n\n### How does Airparser ensure the security of its platform and user data?\n\nAirparser guarantees security through 256-bit AES encryption, secure data transmission, trusted cloud providers, user activity logs, customizable data retention, code reviews, and careful subprocessor selection. Your data's safety is our priority. Visit our [Data protection section](https://airparser.com/data-protection) to learn more about our security measures.\n\n### I have another question.\n\nUse the chat box in the bottom right corner of this page or email us at [support@airparser.com](mailto:support@airparser.com).\n\nRevolutionize data extraction with the LLM parser. Convert emails, PDFs, and documents into structured data. Export the parsed data in real time to any app.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "airparser",
+        "app_name": "Airparser",
+        "app_slug": "airparser",
+        "pricing_url": "https://airparser.com/pricing",
+        "source_url": "https://airparser.com/pricing",
+        "all_pricing_urls": [
+          "https://airparser.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Annual plans offer a ~17% discount compared to monthly billing.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Starter",
+            "tier_description": null,
+            "monthly_price": 33.0,
+            "annual_price": 396.0,
+            "annual_discount_percentage": 17.0,
+            "setup_fee": null,
+            "features": [
+              "100 credits per month",
+              "30 days documents retention",
+              "OCR support",
+              "LLM Vision engine"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 100,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Growth",
+            "tier_description": null,
+            "monthly_price": 49.0,
+            "annual_price": 588.0,
+            "annual_discount_percentage": 17.0,
+            "setup_fee": null,
+            "features": [
+              "500 credits per month",
+              "90 days documents retention",
+              "OCR support",
+              "LLM Vision engine"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 500,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "Most popular",
+            "monthly_price": 149.0,
+            "annual_price": 1788.0,
+            "annual_discount_percentage": 17.0,
+            "setup_fee": null,
+            "features": [
+              "2000 credits per month",
+              "90 days documents retention",
+              "OCR support",
+              "LLM Vision engine",
+              "Unlimited team members"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 2000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Premium",
+            "tier_description": null,
+            "monthly_price": 249.0,
+            "annual_price": 2988.0,
+            "annual_discount_percentage": 17.0,
+            "setup_fee": null,
+            "features": [
+              "5000 credits per month",
+              "180 days documents retention",
+              "OCR support",
+              "LLM Vision engine",
+              "Unlimited team members"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 5000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Trial",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "30 credits (non-renewable)",
+              "All features included",
+              "30 days documents retention"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 30,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "credits",
+            "unit": "per credit",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": "unlimited",
+                "price": null
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": false
+        },
+        "promotional_offers": [
+          {
+            "offer_name": "Annual Discount",
+            "offer_description": "~17% discount for annual billing (equivalent to 2 months free).",
+            "discount_percentage": 17.0,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:32:57.628202",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://airparser.com/pricing",
+      "is_accessible": true,
+      "content": "Transparent plans with no hidden fees.\n--------------------------------------\n\nAnnually\n\n\\-17%\n\nMonthly\n\nStarter\n\n$33\n\nper month, billed annually\n\n[Get started](https://app.airparser.com/signup)\n\n**100 credits**\u00a0 per month\n\n**30 days**\u00a0 documents retention\n\nOCR support: parse images, scanned documents, and handwritten texts\n\nNew: LLM Vision engine \ud83c\udf89\n\nGrowth\n\n$49\n\nper month, billed annually\n\n[Get started](https://app.airparser.com/signup)\n\n**500 credits**\u00a0 per month\n\n**90 days**\u00a0 documents retention\n\nOCR support: parse images, scanned documents, and handwritten texts\n\nNew: LLM Vision engine \ud83c\udf89\n\nMost popular\n\nBusiness\n\n$149\n\nper month, billed annually\n\n[Get started](https://app.airparser.com/signup)\n\n**2 000 credits**\u00a0 per month\n\n**90 days**\u00a0 documents retention\n\nOCR support: parse images, scanned documents, and handwritten texts\n\nNew: LLM Vision engine \ud83c\udf89\n\n**Unlimited team members**\n\nPremium\n\n$249\n\nper month, billed annually\n\n[Get started](https://app.airparser.com/signup)\n\n**5 000 credits**\u00a0 per month\n\n**180 days**\u00a0 documents retention\n\nOCR support: parse images, scanned documents, and handwritten texts\n\nNew: LLM Vision engine \ud83c\udf89\n\n**Unlimited team members**\n\nTrial\n\n**30 credits** (non-renewable)\n\nAll features included\n\n30 days documents retention\n\nFAQ\n---\n\nCommon questions and clear answers\n\n### What is a credit?\n\nYour Airparser account is credited monthly based on your subscription. One credit is consumed for each parsed email, document, or PDF page.\n\n### Do you offer a free trial?\n\nYes! The Trial plan includes 30 credits, allowing you to parse up to 30 emails, documents, or PDF pages. You can test all features, including data export and third-party integrations.\n\n### What does documents retention mean?\n\nRetention refers to the maximum number of days we keep your data stored before it is permanently deleted from our servers and database.\n\n### What happens to unused credits?\n\nUnused credits expire at the end of each billing period, and your account is topped up with new credits.\n\n### Do you offer discounts?\n\nYes. All our plans come with a ~17% discount when you subscribe annually (equivalent to 2 months free).\n\n### What happens once I have used all my credits?\n\nYour Airparser account can still receive emails and documents, but they won't be parsed until the next billing period. You have three options: wait for your next billing cycle, upgrade your subscription, or renew your current plan early to get a fresh set of credits for the next 30 days.\n\n### Can I purchase additional credits (top up)?\n\nWhile we don't offer arbitrary credit purchases, you can renew your current plan early to get a fresh set of credits. For example, if you're on the Growth plan (500 credits per month) and use all credits in 3 weeks, you can renew early to get another 500 credits valid for the next 30 days.\n\n### Can I change my subscription?\n\nOur flexible subscription plans allow you to upgrade, downgrade or cancel your subscription at any time. Upgrades and downgrades take effect immediately. Cancellation is also possible at any time.\n\n### What payment types do you accept?\n\nWe accept all major credit cards, including MasterCard, Visa, American Express, Diners, and JCB. We do not accept cryptocurrency, PayPal, or bank transfers as payment methods.\n\n### How do I know it's safe to link my bank card?\n\nAirparser never stores your bank card information. Your payment card details are encrypted and safely stored by [Stripe](https://stripe.com/docs/security).\n\n### Can I get a refund?\n\nWe typically provide very limited refunds because you can try out all the features using our Trial plan before you upgrade to a paid membership. However, if you are unsatisfied with our services, please email us at [support@airparser.com](mailto:support@airparser.com).\n\n### Can I get an invoice?\n\nYes, you can view and download your invoices from your Account \\> Invoices & Usage page.\n\n### Do you offer high-volume plans?\n\nYes! Email us at [support@airparser.com](mailto:support@airparser.com) to discuss our high-volume pricing.\n\n### How does Airparser ensure the security of its platform and user data?\n\nAirparser guarantees security through 256-bit AES encryption, secure data transmission, trusted cloud providers, user activity logs, customizable data retention, code reviews, and careful subprocessor selection. Your data's safety is our priority. Visit our [Data protection section](https://airparser.com/data-protection) to learn more about our security measures.\n\n### I have another question.\n\nUse the chat box in the bottom right corner of this page or email us at [support@airparser.com](mailto:support@airparser.com).\n\nRevolutionize data extraction with the LLM parser. Convert emails, PDFs, and documents into structured data. Export the parsed data in real time to any app.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "airparser",
+        "app_name": "Airparser",
+        "app_slug": "airparser",
+        "pricing_url": "https://airparser.com/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://airparser.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Annual plans offer a ~17% discount compared to monthly billing.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Starter",
+            "tier_description": null,
+            "monthly_price": 33.0,
+            "annual_price": 396.0,
+            "annual_discount_percentage": 17.0,
+            "setup_fee": null,
+            "features": [
+              "100 credits per month",
+              "30 days documents retention",
+              "OCR support",
+              "LLM Vision engine"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "credits",
+                  "value": 100
+                },
+                {
+                  "name": "documents retention",
+                  "value": "30 days"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Growth",
+            "tier_description": null,
+            "monthly_price": 49.0,
+            "annual_price": 588.0,
+            "annual_discount_percentage": 17.0,
+            "setup_fee": null,
+            "features": [
+              "500 credits per month",
+              "90 days documents retention",
+              "OCR support",
+              "LLM Vision engine"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "credits",
+                  "value": 500
+                },
+                {
+                  "name": "documents retention",
+                  "value": "90 days"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "Most popular",
+            "monthly_price": 149.0,
+            "annual_price": 1788.0,
+            "annual_discount_percentage": 17.0,
+            "setup_fee": null,
+            "features": [
+              "2,000 credits per month",
+              "90 days documents retention",
+              "OCR support",
+              "LLM Vision engine",
+              "Unlimited team members"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "credits",
+                  "value": 2000
+                },
+                {
+                  "name": "documents retention",
+                  "value": "90 days"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Premium",
+            "tier_description": null,
+            "monthly_price": 249.0,
+            "annual_price": 2988.0,
+            "annual_discount_percentage": 17.0,
+            "setup_fee": null,
+            "features": [
+              "5,000 credits per month",
+              "180 days documents retention",
+              "OCR support",
+              "LLM Vision engine",
+              "Unlimited team members"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "credits",
+                  "value": 5000
+                },
+                {
+                  "name": "documents retention",
+                  "value": "180 days"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Trial",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "30 credits (non-renewable)",
+              "All features included",
+              "30 days documents retention"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "credits",
+                  "value": 30
+                },
+                {
+                  "name": "documents retention",
+                  "value": "30 days"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "credits",
+            "unit": "per credit",
+            "base_price": null,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": false
+        },
+        "promotional_offers": [
+          {
+            "offer_name": "Annual Discount",
+            "offer_description": "~17% discount on annual plans compared to monthly billing.",
+            "discount_percentage": 17.0,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:33:11.268246",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\airparser\\20250415_093311"
+}

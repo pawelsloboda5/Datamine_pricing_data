@@ -1,0 +1,131 @@
+{
+  "app_id": "virtuous_crm",
+  "app_name": "Virtuous CRM",
+  "app_slug": "virtuous-crm",
+  "pricing_url": "https://virtuous.org/pricing/",
+  "source_url": "https://virtuous.org/pricing/",
+  "all_pricing_urls": [
+    "https://virtuous.org/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is customized based on the organization's needs and size, with specific tiers for different contact ranges.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Ideal for smaller nonprofits looking for an integrated platform designed to unify fundraising and marketing to drive growth.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 5 users",
+        "Includes 1,000 supporter records",
+        "Dedicated coach for onboarding",
+        "4 automation workflows",
+        "Send up to 5,000 emails to supporters each month"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Supporter Records",
+            "value": 1000
+          },
+          {
+            "name": "Emails per Month",
+            "value": 5000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Platform",
+      "tier_description": "Best for growing non-profits looking for an integrated and responsive platform designed for scale and impact.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited users",
+        "Unlimited automation workflows",
+        "Dedicated success coach with ongoing bi-annual goal reviews",
+        "Live, customized team training",
+        "Expanded fundraising tools"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": []
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Optimized to support large nonprofit teams who need a strategic growth partner to help them drive impact at scale.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Enterprise-grade, yet integrated and user-friendly platform",
+        "Unlimited users",
+        "Dedicated success manager, priority support, and quarterly reviews",
+        "Open API and custom integrations",
+        "3rd party reports, intel, and backups",
+        "Chapters and multi-org management",
+        "Consultant tools for agency support",
+        "Live, customized team training and implementation consultation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": []
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:34:30.065680",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "ead86773-bce2-48bf-b834-d0185e9751d4",
+    "name": "Virtuous CRM",
+    "slug": "virtuous-crm",
+    "description": "Virtuous CRM is a nonprofit CRM & marketing automation platform helping build better donor relationships.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/c311c3823c0b24a5b6abb3301f0b2a23.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)",
+      "Fundraising"
+    ],
+    "category_slugs": [
+      "crm",
+      "fundraising"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 3
+  }
+}

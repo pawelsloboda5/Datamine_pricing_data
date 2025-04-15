@@ -1,0 +1,98 @@
+{
+  "app_id": "onlinecoursehost",
+  "app_name": "OnlineCourseHost.com",
+  "app_slug": "onlinecoursehost-com",
+  "pricing_url": null,
+  "source_url": "https://onlinecoursehost.com/#pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The platform offers a free trial for 30 days and includes features such as AI assistants for course creation and student support.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for course creation and hosting.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited students",
+        "No platform fees",
+        "Basic course creation tools"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Paid",
+      "tier_description": "Advanced features for professional course creators.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced marketing tools",
+        "Custom domain setup",
+        "AI-powered assistants"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:00:19.402153",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0b51abf1-5acf-4d63-8198-a36007bfa82c",
+    "name": "OnlineCourseHost.com",
+    "slug": "onlinecoursehostcom",
+    "description": "OnlineCourseHost.com is a white-label course hosting platform that lets you host and sell your courses.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/da6b534b248df616acfc7bac666e826f_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Education"
+    ],
+    "category_slugs": [
+      "education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

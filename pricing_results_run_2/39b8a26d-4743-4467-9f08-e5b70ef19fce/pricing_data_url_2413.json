@@ -1,0 +1,210 @@
+{
+  "app_id": "pipefy",
+  "app_name": "Pipefy",
+  "app_slug": "pipefy",
+  "pricing_url": "https://www.pipefy.com/pricing/",
+  "source_url": "https://www.pipefy.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.pipefy.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pipefy offers a free tier and subscription-based pricing with additional features available in higher tiers. Enterprise pricing is quote-based.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for small teams.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Pipefy AI",
+        "Up to 5 processes",
+        "Up to 10 users",
+        "Basic automations",
+        "Plug-n-play process templates",
+        "Request tracker",
+        "Visual Customization"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "2GB",
+        "operations": 50,
+        "api_calls": 20,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Processes",
+            "value": 5
+          },
+          {
+            "name": "Database records",
+            "value": 500
+          },
+          {
+            "name": "AI Credits",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Enhanced features for growing teams.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Pipefy AI",
+        "Unlimited processes",
+        "Unlimited users",
+        "Access to Pipefy\u2019s API",
+        "Role-based access",
+        "Private processes",
+        "Conditional logic",
+        "Data recovery",
+        "Electronic signature"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "20GB",
+        "operations": "unlimited",
+        "api_calls": 500,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Database records",
+            "value": 10000
+          },
+          {
+            "name": "AI Credits",
+            "value": 50
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Advanced features for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Pipefy AI",
+        "Multiple automations",
+        "Integrations",
+        "Two-factor authentication",
+        "Single Sign-On",
+        "Custom email domain",
+        "Support from Pipefy\u2019s team",
+        "Higher database and storage limits",
+        "White label",
+        "Electronic signature"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "custom",
+        "operations": "unlimited",
+        "api_calls": 10000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Database records",
+            "value": "custom"
+          },
+          {
+            "name": "AI Credits",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Unlimited",
+      "tier_description": "Unlimited features for enterprises.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Pipefy AI",
+        "Unlimited automation possibilities",
+        "No limits for database records",
+        "No data storage limits",
+        "Expert support for modeling and implementing customized processes",
+        "Electronic signature"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Database records",
+            "value": "unlimited"
+          },
+          {
+            "name": "AI Credits",
+            "value": 2000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": false
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Small Business Plan",
+      "offer_description": "Up to 90% discount for SMB packages with access to all features.",
+      "discount_percentage": 90.0,
+      "offer_url": "https://www.pipefy.com/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:38:20.436489",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "39b8a26d-4743-4467-9f08-e5b70ef19fce",
+    "name": "Pipefy",
+    "slug": "pipefy",
+    "description": "The easy button for processes and workflows Easily organize and run all your processes in one place, leaving the inefficient patchwork of apps, forms, spreadsheets and e-mail threads forever in the past",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ba42dc889253d04da501a4fa4ea66133.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 8
+  }
+}

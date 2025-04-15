@@ -1,0 +1,182 @@
+{
+  "app_id": "bannerbear",
+  "app_name": "Bannerbear",
+  "app_slug": "bannerbear",
+  "pricing_url": null,
+  "source_url": "https://www.bannerbear.com/pricing/",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Bannerbear offers a free trial with 30 API credits and no credit card required.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Automate",
+      "tier_description": "Automate your marketing",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "REST API",
+        "Zapier",
+        "Make.com",
+        "Airtable",
+        "Forms",
+        "2FA",
+        "DPA",
+        "Email Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": "1,000",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Bandwidth",
+            "value": "10GB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "Scale your marketing",
+      "monthly_price": 149.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "REST API",
+        "Zapier",
+        "Make.com",
+        "Airtable",
+        "Forms",
+        "Simple URLs",
+        "Signed URLs",
+        "Team Members",
+        "Team Roles",
+        "2FA",
+        "DPA",
+        "Email Support",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": "10,000",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Bandwidth",
+            "value": "50GB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "High volume access",
+      "monthly_price": 299.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "REST API",
+        "Zapier",
+        "Make.com",
+        "Airtable",
+        "Forms",
+        "Simple URLs",
+        "Signed URLs",
+        "Team Members",
+        "Team Roles",
+        "2FA",
+        "DPA",
+        "BYO Storage",
+        "Email Support",
+        "Priority Support",
+        "Zoom Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": "50,000",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Bandwidth",
+            "value": "100GB"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "API Credits",
+      "unit": "per credit",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "1,000",
+          "price": null
+        },
+        {
+          "min": 1.0,
+          "max": "10,000",
+          "price": null
+        },
+        {
+          "min": 1.0,
+          "max": "50,000",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Stripe Climate Partner Contribution",
+      "fee_amount": null,
+      "fee_description": "1% of your Bannerbear purchase will contribute to removing CO\u2082 from the atmosphere"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:32:20.953115",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9a740b96-b019-406c-8554-9fd882a22534",
+    "name": "Bannerbear",
+    "slug": "bannerbear",
+    "description": "Bannerbear is a service that automatically generates variations of graphic templates.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/494b322443db6e2fd2b154405becea62.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Images & Design"
+    ],
+    "category_slugs": [
+      "images"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 12,
+    "trigger_count": 6
+  }
+}

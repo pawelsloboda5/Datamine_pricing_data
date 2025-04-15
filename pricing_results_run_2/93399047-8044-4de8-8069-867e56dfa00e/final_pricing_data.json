@@ -1,0 +1,82 @@
+{
+  "app_id": "maidcentral",
+  "app_name": "MaidCentral",
+  "app_slug": "maidcentral",
+  "pricing_url": null,
+  "source_url": "https://maidcentral.com/pricing/",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of completed jobs per month, with no hidden fees and unlimited users and customers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Pricing based on monthly completed jobs.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Users",
+        "Unlimited Customers",
+        "No Long-Term Contracts",
+        "Automations",
+        "Customer Portal",
+        "Online Booking",
+        "Email/Text Integration",
+        "Field Component for Technicians",
+        "Efficiency Tracking",
+        "Easy Onboarding",
+        "Expert Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "completed jobs",
+      "unit": "per job",
+      "base_price": 0.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:22:45.519231",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "93399047-8044-4de8-8069-867e56dfa00e",
+    "name": "MaidCentral",
+    "slug": "maidcentral",
+    "description": "MaidCentral is an all-in-one solution that gives you easy control over all facets of your residential cleaning company.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/2c6348e86bcbfb90747a85d2254d3cea.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 9
+  }
+}

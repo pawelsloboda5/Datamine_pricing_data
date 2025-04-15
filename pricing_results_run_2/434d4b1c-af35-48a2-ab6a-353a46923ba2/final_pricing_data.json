@@ -1,0 +1,227 @@
+{
+  "app_id": "regfox",
+  "app_name": "RegFox",
+  "app_slug": "regfox",
+  "pricing_url": "https://www.regfox.com/",
+  "source_url": "https://www.regfox.com/pricing",
+  "all_pricing_urls": [
+    "https://www.regfox.com/"
+  ],
+  "price_model_type": [
+    "usage_based",
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "RegFox charges a flat fee per registrant with additional optional features available for subscription.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Flat fee per registrant for events.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Flat fee per registrant",
+        "No setup or annual fees"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Fee per paid registrant",
+            "value": "$0.99 + 1% (capped at $4.99)"
+          },
+          {
+            "name": "Fee per free registrant",
+            "value": "$0.99"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Email Marketing Automation",
+      "tier_description": "Optional email marketing automation feature.",
+      "monthly_price": 9.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Drip campaigns",
+        "Email database management"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Fee per recipient",
+            "value": "$0.02"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Text Message Platform",
+      "tier_description": "Optional text messaging feature.",
+      "monthly_price": 19.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Mass text messaging",
+        "Dedicated text message number"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Fee per recipient",
+            "value": "$0.04"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "3rd Party Data Enrichment",
+      "tier_description": "Optional data enrichment feature.",
+      "monthly_price": 9.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Registrant insights",
+        "Demographics and buying patterns"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Fee per record",
+            "value": "$0.10"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "White Label Domain Name",
+      "tier_description": "Optional custom domain feature.",
+      "monthly_price": null,
+      "annual_price": 150.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom domain hosting"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    },
+    {
+      "tier_name": "3rd Party Payment Processing",
+      "tier_description": "Optional payment processor integration.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Integration with external payment processors"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Fee for using external processors",
+            "value": "1%"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Paid registrants",
+      "unit": "per registrant",
+      "base_price": 0.99,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 0.99
+        }
+      ]
+    },
+    {
+      "metric_name": "Free registrants",
+      "unit": "per registrant",
+      "base_price": 0.99,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 0.99
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Credit Card Processing",
+      "fee_amount": null,
+      "fee_description": "Standard rate of 2.9% + $0.30 per transaction."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:11:22.815486",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "434d4b1c-af35-48a2-ab6a-353a46923ba2",
+    "name": "RegFox",
+    "slug": "regfox",
+    "description": "RegFox is a premier registration platform to ensure the building, marketing and taking in registrants for your event all goes smoothly.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/75a4d6c966c6c443ba026aaf547cb0d2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

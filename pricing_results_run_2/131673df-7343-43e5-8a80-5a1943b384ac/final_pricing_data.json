@@ -1,0 +1,43 @@
+{
+  "app_id": "roam_research",
+  "app_name": "Roam Research",
+  "app_slug": "roam-research",
+  "pricing_url": null,
+  "source_url": "https://roamresearch.com/#/app/help/page/3w6r67Kba",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "No specific pricing information was provided in the content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:53:48.110409",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "131673df-7343-43e5-8a80-5a1943b384ac",
+    "name": "Roam Research",
+    "slug": "roam-research",
+    "description": "Roam Research is a note-taking tool for networked thought, optimized for finding, collecting, and connecting related ideas.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/3dcf8ac650fe50309da743732be3ff2a_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Notes"
+    ],
+    "category_slugs": [
+      "notes"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 1
+  }
+}

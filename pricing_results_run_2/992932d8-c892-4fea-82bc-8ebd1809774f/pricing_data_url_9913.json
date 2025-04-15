@@ -1,0 +1,151 @@
+{
+  "app_id": "happyfox",
+  "app_name": "HappyFox",
+  "app_slug": "happyfox",
+  "pricing_url": "https://www.happyfox.com/help-desk-price/",
+  "source_url": "https://www.happyfox.com/help-desk-price/",
+  "all_pricing_urls": [
+    "https://www.happyfox.com/help-desk-price/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is agent-based with discounts for non-profits and educational organizations.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": null,
+      "monthly_price": 21.0,
+      "annual_price": null,
+      "annual_discount_percentage": 35.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Tickets",
+        "Omnichannel Ticket Creation",
+        "SLA Management",
+        "Knowledge Base",
+        "SSO (GSuite/SAML/Azure)"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": null,
+      "monthly_price": 39.0,
+      "annual_price": null,
+      "annual_discount_percentage": 43.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Basic",
+        "Multi-brand Helpdesk",
+        "Custom Email",
+        "Custom Domain",
+        "Custom Roles and Permissions",
+        "Custom Ticket Queues",
+        "24/5 Email Support",
+        "Optional EU Data Center"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": null,
+      "monthly_price": 89.0,
+      "annual_price": null,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Team",
+        "Proactive Agent Collision",
+        "Task Management",
+        "Asset Management",
+        "Scheduled Tickets",
+        "IP-Based Restriction",
+        "Load Balanced Ticket Assignment",
+        "Password Policy Management",
+        "24/7 Email Support",
+        "Uptime SLA"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise PRO",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Pro",
+        "Agent Scripting",
+        "2 TB Attachment Store",
+        "All-time Reporting History",
+        "Advanced Audit Logs",
+        "24/7 Phone Support",
+        "Customer Success Manager"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "2TB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:19:02.058591",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "992932d8-c892-4fea-82bc-8ebd1809774f",
+    "name": "HappyFox",
+    "slug": "happyfox",
+    "description": "HappyFox is a customer support, ticket support software that ensures lowest response time for all your customers queries. A really simple help desk!",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/e9c2274eec4b915ca3c3ffe9e6c583e1_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

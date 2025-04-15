@@ -1,0 +1,19 @@
+{
+  "app_name": "Credit Repair Cloud",
+  "app_slug": "credit-repair-cloud",
+  "search_term": "Find the official pricing page URL for Credit Repair Cloud (credit-repair-cloud.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744715311.4080472,
+  "response_text": [
+    "Here is the official pricing page URL for Credit Repair Cloud: [https://www.creditrepaircloud.com/pricing](https://www.creditrepaircloud.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.creditrepaircloud.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\credit-repair-cloud\\20250415_070847"
+}

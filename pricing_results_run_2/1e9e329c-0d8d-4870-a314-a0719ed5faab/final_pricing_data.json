@@ -1,0 +1,142 @@
+{
+  "app_id": "podio",
+  "app_name": "Podio",
+  "app_slug": "podio",
+  "pricing_url": "https://www.podio.com/site/pricing/",
+  "source_url": "https://www.podio.com/site/pricing/",
+  "all_pricing_urls": [
+    "https://www.podio.com/site/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user per month, with discounts for annual billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free for five employees",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Task management",
+        "Apps and workspaces"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "100MB",
+        "operations": null,
+        "api_calls": "1000 calls/hr",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Items per organization",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Save time with automated workflows",
+      "monthly_price": 14.0,
+      "annual_price": 11.2,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All Free features plus",
+        "Unlimited items",
+        "User management",
+        "Unlimited client users",
+        "Light user role",
+        "Automated Workflows",
+        "Read-only access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": "1000 calls/hr",
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Full suite of advanced features",
+      "monthly_price": 24.0,
+      "annual_price": 19.2,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All Plus features plus",
+        "Visual reports",
+        "Interactive sales dashboards",
+        "Cloud phone system and power dialer",
+        "Advanced Workflow Automation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": "upgradable",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Advanced Workflow Automations",
+            "value": "5M runs/mo"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Interactive Sales Dashboard Discount",
+      "offer_description": "50% discount for 3 months for up to 10 sales agents.",
+      "discount_percentage": 50.0,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Cloud Phone System Credit",
+      "offer_description": "$100 of free credit for Podio Premium organizations.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:24:39.549302",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1e9e329c-0d8d-4870-a314-a0719ed5faab",
+    "name": "Podio",
+    "slug": "podio",
+    "description": "Podio is a collaborative work platform that's perfect for managing projects, teams, and anything else in your business that needs flexible apps that work the way you do.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/bef9e7cdae86d07912e3fc86808f5d11.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 8
+  }
+}

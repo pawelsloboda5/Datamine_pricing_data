@@ -1,0 +1,191 @@
+{
+  "app_id": "surveysparrow",
+  "app_name": "SurveySparrow",
+  "app_slug": "surveysparrow",
+  "pricing_url": "https://surveysparrow.com/pricing/",
+  "source_url": "https://surveysparrow.com/pricing/",
+  "all_pricing_urls": [
+    "https://surveysparrow.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "SurveySparrow offers a free tier and a 14-day free trial for exclusive features. Pricing for higher tiers is available upon contact.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Plan",
+      "tier_description": "Forever free plan",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic survey functionalities"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "1GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "For individuals to get started",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Send Surveys via Email",
+        "Collect Partial Responses",
+        "Display and Skip Logic",
+        "Notify Respondents via Email",
+        "Slack, 5+ integrations",
+        "24x5 Email Support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "2GB",
+        "operations": "2500 responses",
+        "api_calls": null,
+        "integrations": 5,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "For individuals with advanced features",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Basic",
+        "Embed Survey in Email",
+        "Survey Translation",
+        "Redirect post Survey Completion",
+        "Hubspot, 10+ integrations",
+        "24x5 Email Support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "2GB",
+        "operations": "15000 responses",
+        "api_calls": null,
+        "integrations": 10,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For teams with collaboration features",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Starter",
+        "Custom Branding",
+        "Advanced Question Types",
+        "Workflows and Webhooks",
+        "Track Respondents Location",
+        "Zendesk, 12+ integrations",
+        "24x5 Chat Support"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "5GB",
+        "operations": "50000 responses",
+        "api_calls": null,
+        "integrations": 12,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "For teams with professional features",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Business",
+        "Sentiment Analysis",
+        "Customize Surveys with CSS",
+        "Auto Translate to 130+ Languages",
+        "HIPAA Compliance Available",
+        "Excel online, 15+ integrations",
+        "24x5 Call Support"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "5GB",
+        "operations": "100000 responses",
+        "api_calls": null,
+        "integrations": 15,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom requirements for enterprises",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Professional",
+        "Option Display Logic",
+        "Key Driver Analysis (CogniVue)",
+        "Survey Throttling",
+        "PowerBI, 25+ integrations",
+        "Dedicated CSM"
+      ],
+      "limits": {
+        "users": "5+",
+        "storage": "5GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": 25,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T02:31:07.252786",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "96cacea3-e39e-45af-a57f-04a667977ee5",
+    "name": "SurveySparrow",
+    "slug": "surveysparrow",
+    "description": "SurveySparrow lets you create and share highly engaging, mobile-first surveys that offer a chat-like experience.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d5da289bd06b984b5c6ae81aaf51b013.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 13,
+    "trigger_count": 3
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "app_id": "manychat",
+  "app_name": "Manychat",
+  "app_slug": "manychat",
+  "pricing_url": "https://manychat.com/pricing",
+  "source_url": "https://manychat.com/pricing",
+  "all_pricing_urls": [
+    "https://manychat.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pro plan pricing scales with the number of contacts.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Access to Manychat basic features to engage up to 1,000 contacts.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Automate conversations with unlimited custom flows.",
+        "Access basic Growth Tools.",
+        "Segment contacts with 10 customer Tags."
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Access to all advanced Pro features.",
+      "monthly_price": 15.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Engage unlimited contacts.",
+        "Unlimited Growth Tools and Keywords.",
+        "Unlimited Tags, Custom Fields, & advanced Segments.",
+        "Manychat Analytics & Insights tools.",
+        "No Manychat branding.",
+        "Email support."
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Elite",
+      "tier_description": "Customized plan for ambitious business goals.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Dedicated onboarding.",
+        "Strategic recommendations.",
+        "Priority support.",
+        "Guided experience.",
+        "Access to expert crafted automations."
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Contacts",
+      "unit": "per contact",
+      "base_price": 15.0,
+      "tiers": [
+        {
+          "min": 500.0,
+          "max": 50000.0,
+          "price": 15.0
+        },
+        {
+          "min": 50001.0,
+          "max": 200000.0,
+          "price": 30.0
+        },
+        {
+          "min": 200001.0,
+          "max": 500000.0,
+          "price": 50.0
+        },
+        {
+          "min": 500001.0,
+          "max": 1000000.0,
+          "price": 100.0
+        },
+        {
+          "min": 1000001.0,
+          "max": "unlimited",
+          "price": 200.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "WhatsApp",
+      "fee_amount": null,
+      "fee_description": "Additional charges may apply for WhatsApp usage."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:58:29.706336",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "68f7b240-4376-4c4f-a760-97b22c94bbf5",
+    "name": "Manychat",
+    "slug": "manychat",
+    "description": "Manychat is an all-in-one Messenger Marketing platform. Create your Facebook Messenger bot for marketing, sales and support with our simple drag'n'drop builder. Effectively promote with built-in tools for growing audience. Start today \u2013 it's easy and free.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/f767ab34d75595fb9579616f845b429c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Social Media Marketing"
+    ],
+    "category_slugs": [
+      "social-marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 13,
+    "trigger_count": 5
+  }
+}

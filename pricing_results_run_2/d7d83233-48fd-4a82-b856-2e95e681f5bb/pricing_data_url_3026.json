@@ -1,0 +1,112 @@
+{
+  "app_id": "memberful",
+  "app_name": "Memberful",
+  "app_slug": "memberful",
+  "pricing_url": null,
+  "source_url": "https://memberful.com/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Memberful charges a transaction fee of 4.9% per successful charge, and Stripe fees apply separately.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Access to all Memberful features for one monthly price.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited members",
+        "SSL security",
+        "High-availability backups",
+        "Apple Pay and Google Pay",
+        "Coupons and discounts",
+        "Custom fields",
+        "15 language translations",
+        "Global tax collection",
+        "Gift purchases",
+        "Free and paid trials",
+        "Free registration",
+        "Group plans",
+        "One-time payments",
+        "Monthly, annual, weekly subscriptions",
+        "Growth metrics and reporting",
+        "Built-in referral program",
+        "Automated retention discounts",
+        "Cancellation surveys",
+        "Custom transactional emails",
+        "Staff accounts",
+        "Podcasts",
+        "Newsletters",
+        "Communities",
+        "Courses",
+        "Downloads",
+        "Landing page builder",
+        "Custom domains",
+        "Dynamic paywalls",
+        "Custom themes and branding",
+        "Integrated comments",
+        "WordPress integration",
+        "Mailchimp integration",
+        "Discord integration",
+        "Custom API & Webhooks"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Transaction fees",
+      "unit": "per successful charge",
+      "base_price": 4.9,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Stripe processing fee",
+      "fee_amount": null,
+      "fee_description": "Stripe charges a credit card processing fee that varies by country."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:10:27.142931",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d7d83233-48fd-4a82-b856-2e95e681f5bb",
+    "name": "Memberful",
+    "slug": "memberful",
+    "description": "Memberful makes it easy to sell memberships to your audience.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/ecce54efeaca202ce2b921aa176c1e72.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 12
+  }
+}

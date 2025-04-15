@@ -1,0 +1,142 @@
+{
+  "app_id": "icontact",
+  "app_name": "iContact",
+  "app_slug": "icontact",
+  "pricing_url": "https://www.icontact.com/pricing/",
+  "source_url": "https://www.icontact.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.icontact.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing varies based on the number of contacts and includes annual and monthly options.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Designed for businesses with basic email marketing needs.",
+      "monthly_price": 28.0,
+      "annual_price": 92.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Pre Designed Email Templates",
+        "Drag and Drop Editor",
+        "Landing Page Templates",
+        "Automations"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "250 MBs",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contact Lists",
+            "value": 2
+          },
+          {
+            "name": "Segments",
+            "value": 1
+          },
+          {
+            "name": "Landing Pages",
+            "value": 1
+          },
+          {
+            "name": "Automations",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Includes advanced features for comprehensive email marketing.",
+      "monthly_price": 41.0,
+      "annual_price": 163.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Users",
+        "Drag and Drop Editor",
+        "Social Media Posting",
+        "AI Content Assistant"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "500 MBs",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contact Lists",
+            "value": "unlimited"
+          },
+          {
+            "name": "Segments",
+            "value": "unlimited"
+          },
+          {
+            "name": "Landing Pages",
+            "value": "unlimited"
+          },
+          {
+            "name": "Automations",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Flexible and personalized plans for large-scale needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Large Contact Lists",
+        "Premium Support",
+        "Large Sending Volume",
+        "Creative Assistance"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:53:15.797760",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a4348d88-d013-4af4-b331-f1178a49deb5",
+    "name": "iContact",
+    "slug": "icontact",
+    "description": "iContact is an easy-to-use email marketing platform that will help you start growing your business and stay connected with your customers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/fceb694672831599b4be34e757860d65.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 7
+  }
+}

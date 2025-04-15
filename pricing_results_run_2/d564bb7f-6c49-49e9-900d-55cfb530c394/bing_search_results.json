@@ -1,0 +1,103 @@
+{
+  "app_name": "PDF4me",
+  "app_slug": "pdf4me",
+  "search_term": "Find the official pricing page URL for PDF4me (pdf4me.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744701347.6881251,
+  "response_text": [
+    "The official pricing page for PDF4me can be found here: [https://pdf4me.com/help/faqs/](https://pdf4me.com/help/faqs/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "PDF4me FAQs - Subscriptions",
+      "url": "https://pdf4me.com/help/subscription/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://pdf4me.com/help/faqs/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://pdf4me.com/help/subscription/",
+      "is_accessible": true,
+      "content": "PDF4me FAQs - Subscriptions\n===============\n\n[](https://pdf4me.com/ \"PDF4me logo\")\n\n[![Image 1: Make, Power Automate, Zapier and Pdf4me Automation](https://pdf4me.com/images/automation/automationLogo.svg)DevelopersAre you looking for automation ?](https://dev.pdf4me.com/)\n\n|\n\n[Pricing](https://pdf4me.com/pricing/)\n\n|\n\n[Login](https://pdf4me.com/p4m/account/login/en?returnUrl=/dashboard/)\n\nPricing & Subscription\n======================\n\nClear your doubts about PDF4me Pricing and Subscriptions\n--------------------------------------------------------\n\n*   [Help](https://pdf4me.com/help/)\n*   Pricing & Subscription\n\n### How can I change my payment method?\n\nYou can change your Payment method from the payment section on your Account page. You can add additional payment methods as a backup.\n\n[Read More](https://pdf4me.com/help/subscription/change-payment-method/)\n\n### What kind of payment methods do you support?\n\nYou would be required to add a payment method for starting a PDF4me free trial. PDF4me accepts all International Debit or Credit cards(except American Express and JCB). Also, you can use your PayPal account to start a Free Trial with us.\n\n[Read More](https://pdf4me.com/help/subscription/supported-payment-methods/)\n\n### How can I cancel my subscription?\n\nYou can access all your account-related information on your PDF4me Account page. You can Cancel or Re-activate your Subscription from your Account page itself.\n\n[Read More](https://pdf4me.com/help/subscription/cancel-subscription/)\n\n### Is there any expiry date to redeem the points?\n\nThere is no expiry date for redeeming the points.\n\n[Read More](https://pdf4me.com/help/account/loyalty-points-expiry/)\n\n### Where do I check my loyalty points history and balance ?\n\nThe history of the points earned for every transaction and the available balances can be viewed in the rewards redemption history page. <<Redemption history\\>\\>\n\n[Read More](https://pdf4me.com/help/account/loyalty-points-rewards-history/)\n\n### Why OCR not available in Basic Plan?\n\nWe implement a high-end OCR engine and is one of the premium features in the PDF4me Suite. Access to OCR is available only to the Pro users.\n\n[Read More](https://pdf4me.com/help/subscription/ocr-not-available-in-basic-plan/)\n\nYour feedback counts\n\nPDF4me is a constantly evolving document management tool. Our mission is to discover the best ways to improve PDF4me and add new features to help our consumers. We would love to collaborate with you all in this mission.\n\n[Help us to improve PDF4me](https://pdf4me.com/improve-pdf4me/)\n\nConvert from PDF\n\n*   [Extract Text and Images](https://pdf4me.com/extract-text-and-images/)\n*   [PDF to epub](https://pdf4me.com/pdf-to-epub/)\n*   [PDF to Excel](https://pdf4me.com/pdf-to-excel/)\n*   [PDF to Image](https://pdf4me.com/pdf-to-image/)\n*   [PDF to Powerpoint](https://pdf4me.com/pdf-to-powerpoint/)\n*   [PDF to Word](https://pdf4me.com/pdf-to-word/)\n\nConvert to PDF\n\n*   [Excel to PDF](https://pdf4me.com/excel-to-pdf/)\n*   [Image to PDF](https://pdf4me.com/image-to-pdf/)\n*   [PDF Converter](https://pdf4me.com/pdf-converter/)\n*   [Powerpoint to PDF](https://pdf4me.com/powerpoint-to-pdf/)\n*   [Word to PDF](https://pdf4me.com/word-to-pdf/)\n\nEdit PDF\n\n*   [Add Barcode to Pdf](https://pdf4me.com/add-barcode-to-pdf/)\n*   [Add Page Number to PDF](https://pdf4me.com/add-page-number/)\n*   [Add Watermark to PDF](https://pdf4me.com/add-watermark-to-pdf/)\n*   [Find and Replace](https://pdf4me.com/find-and-replace/)\n*   [Flatten PDF](https://pdf4me.com/flatten-pdf/)\n*   [Merge PDF Overlay](https://pdf4me.com/merge-pdf-overlay/)\n*   [Merge PDF](https://pdf4me.com/merge-pdf/)\n*   [Organize PDF Pages](https://pdf4me.com/organize-pdf-pages/)\n*   [PDF Editor](https://pdf4me.com/pdf-editor/)\n*   [PDF Metadata Editor](https://pdf4me.com/pdf-metadata-editor/)\n*   [Convert to PDF/A](https://pdf4me.com/pdfa/)\n*   [Redact PDF](https://pdf4me.com/redact-pdf/)\n*   [Sign PDF](https://pdf4me.com/sign-pdf/)\n*   [Split PDF](https://pdf4me.com/split-pdf/)\n\nOptimize PDF\n\n*   [Compress PDF](https://pdf4me.com/compress-pdf/)\n*   [Optimize PDF for Web](https://pdf4me.com/optimize-pdf-for-web/)\n*   [PDF OCR](https://pdf4me.com/pdf-ocr/)\n*   [Prepare PDF for Print](https://pdf4me.com/prepare-pdf-for-print/)\n*   [Repair PDF](https://pdf4me.com/repair-pdf/)\n\nPDF Security\n\n*   [Password Protect PDF](https://pdf4me.com/password-protect-pdf/)\n*   [Unlock PDF](https://pdf4me.com/unlock-pdf/)\n\n[](javascript:void(0) \"PDF4me logo\")\n\n*   [](https://www.facebook.com/pdf4me/ \"facebook\")\n*   [](https://twitter.com/pdf4me \"twitter\")\n*   [](https://pdf4me.com/contact/ \"Contact\")\n\nEnglish\n\nPDF4me\n\n*   [About us](https://pdf4me.com/about-us/)\n*   [Contact Us](https://pdf4me.com/contact/)\n*   [Technology Partners](https://pdf4me.com/partner/)\n*   [Developers](https://dev.pdf4me.com/)\n\nSite Links\n\n*   [Blog](https://pdf4me.com/blog/)\n*   [Help](https://pdf4me.com/help/)\n*   [Pricing](https://pdf4me.com/pricing/)\n*   [Rewards and Loyalty points](https://pdf4me.com/rewards/)\n*   [Improve PDF4me](https://pdf4me.com/improve-pdf4me/)\n*   [Day Pass](https://pdf4me.com/day-pass/)\n\nAddons\n\n*   [iOS App](https://pdf4me.com/addons/ios-app/)\n*   [Android App](https://pdf4me.com/addons/android-app/)\n*   [QNAP](https://pdf4me.com/qnap/documentation/)\n*   [Team](https://pdf4me.com/addons/team-users/)\n*   [Browser Extension](https://pdf4me.com/addons/browser-extension/)\n*   [Automation](https://pdf4me.com/automation/)\n*   [PDF4me for Microsoft Teams](https://pdf4me.com/addons/teams-app/)\n\nAutomation\n\n*   [PDF4me Workflow](https://pdf4me.com/pdf4me-workflows/)\n*   [Appy Pie](https://pdf4me.com/appy-pie/)\n*   [Make](https://dev.pdf4me.com/make/)\n*   [Microsoft Power Automate](https://pdf4me.com/power-automate/)\n*   [Rapid API](https://pdf4me.com/rapidapi/)\n*   [Zapier](https://pdf4me.com/zapier/)\n\n[![Image 2: Download PDF4me Scan & Automation](https://pdf4me.com/images/mobile-app/google-play-badge-en.svg)](https://play.google.com/store/apps/details?id=com.pdf4me.app)[![Image 3: Download PDF4me Scan & Automation](https://pdf4me.com/images/mobile-app/apple-store-badge-en.svg)](https://apps.apple.com/us/app/id1556998344)\n\n*   [Privacy Policy](https://pdf4me.com/privacy-policy/)\n*   [Terms and Conditions](https://pdf4me.com/terms-and-conditions/)\n\n\u00a9 2025 PDF4me\n\nSelect Language\n\n*   [English](https://pdf4me.com/help/subscription/ \"English\")\n*   [Deutsch](https://pdf4me.com/de/hilfe/abonnement/ \"German\")\n*   [Espa\u00f1ol](https://pdf4me.com/es/ayuda/suscripcion/ \"Spanish\")\n*   [Indonesia](https://pdf4me.com/id/bantuan/langganan/ \"Indonesian\")\n*   [Portugu\u00eas](https://pdf4me.com/pt/ajuda/inscricao/ \"Portuguese\")\n*   [T\u00fcrk\u00e7e](https://pdf4me.com/tr/yardim/abonelik/ \"Turkish\")\n*   [\u7b80\u4f53\u4e2d\u6587](https://pdf4me.com/zh-hans/help/subscription/ \"Chinese\")\n*   [Fran\u00e7ais](https://pdf4me.com/fr/aider/abonnement/ \"French\")\n*   [Italian](https://pdf4me.com/it/aiuto/sottoscrizione/ \"Italian\")\n\nWe use cookies to personalise content and ads and to analyse our traffic. You consent to our cookies if you continue to use our website. For more information, please see our [privacy policy](https://pdf4me.com/privacy-policy/).\n\nAccept\n\nPDF4me Scan & Automation App\n\nTransform your mobile device into a portable document scanner with the all-new PDF4me Scan App\n\n[Install](market://details?id=com.pdf4me.app)\n\nPDF4me has many well-tailored subscriptions. Your frequent queries regarding subscriptions and pricing addressed.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "pdf4me",
+        "app_name": "PDF4me",
+        "app_slug": "pdf4me",
+        "pricing_url": "https://pdf4me.com/pricing/",
+        "source_url": "https://pdf4me.com/help/subscription/",
+        "all_pricing_urls": [
+          "https://pdf4me.com/pricing/",
+          "https://pdf4me.com/help/subscription/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "OCR functionality is restricted to Pro users.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic",
+            "tier_description": "Entry-level plan with limited features.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Basic PDF editing tools"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Advanced plan with premium features.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Access to OCR",
+              "Advanced PDF editing tools"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:16:11.081690",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\pdf4me\\20250415_031611"
+}

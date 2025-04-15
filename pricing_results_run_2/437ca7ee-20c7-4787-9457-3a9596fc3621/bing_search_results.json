@@ -1,0 +1,24 @@
+{
+  "app_name": "Bitly",
+  "app_slug": "bitly",
+  "search_term": "Find the official pricing page URL for Bitly (bitly.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744712655.56062,
+  "response_text": [
+    "Here is the official pricing page URL for Bitly: [https://bitly.com/pages/pricing](https://bitly.com/pages/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | Bitly Core, Growth, Premium & Enterprise Pricing Plans",
+      "url": "https://bitly.com/pages/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://bitly.com/pages/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\bitly\\20250415_062431"
+}

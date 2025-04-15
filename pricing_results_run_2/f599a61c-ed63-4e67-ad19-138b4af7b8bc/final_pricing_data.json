@@ -1,0 +1,124 @@
+{
+  "app_id": "chatwork",
+  "app_name": "Chatwork",
+  "app_slug": "chatwork",
+  "pricing_url": "https://go.chatwork.com/en/pricing/",
+  "source_url": "https://go.chatwork.com/en/pricing/",
+  "all_pricing_urls": [
+    "https://go.chatwork.com/en/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Prices exclude tax. Additional fees may apply if the number of users and licenses do not match.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic free plan for individual users.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Maximum 100 users",
+        "Secure messaging",
+        "External Organization Contacts: 20 people/user",
+        "1:1 chat External Organization Users: 20 people",
+        "Unlimited number of group chats",
+        "View messages: Within the last 40 days",
+        "1:1 video calls",
+        "Two-factor authentication",
+        "10GB storage/organization",
+        "Searchable message history",
+        "Task management",
+        "Free iOS, Android & Desktop apps",
+        "General support",
+        "User Management (limitations apply)",
+        "File Management",
+        "Auto connect"
+      ],
+      "limits": {
+        "users": 100,
+        "storage": "10GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Enhanced plan for businesses.",
+      "monthly_price": 8.4,
+      "annual_price": 84.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited users",
+        "Secure messaging",
+        "Unlimited External Organization Contacts",
+        "Unlimited 1:1 chats",
+        "Unlimited number of group chats",
+        "Unlimited number of viewable messages",
+        "Group video calls",
+        "Two-factor authentication",
+        "10GB storage/user",
+        "Searchable message history (search options available)",
+        "Task management",
+        "Free iOS, Android & Desktop apps",
+        "Dedicated support",
+        "User management",
+        "File management",
+        "Auto connect",
+        "Import CSV file of contacts"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10GB/user",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "License mismatch fee",
+      "fee_amount": null,
+      "fee_description": "A fee will be charged based on the number of licenses if the number of users and licenses do not match."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:51:01.545340",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f599a61c-ed63-4e67-ad19-138b4af7b8bc",
+    "name": "Chatwork",
+    "slug": "chatwork",
+    "description": "Keep your team focused and working together with Chatwork's team chat, tasks, video chats, and more in one place.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/1fa9126574218ee878a2d694b4076026.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Chat"
+    ],
+    "category_slugs": [
+      "team-chat"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

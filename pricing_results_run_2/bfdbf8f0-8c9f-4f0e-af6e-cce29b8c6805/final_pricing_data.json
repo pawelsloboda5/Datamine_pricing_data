@@ -1,0 +1,47 @@
+{
+  "app_id": "gocanvas",
+  "app_name": "GoCanvas",
+  "app_slug": "gocanvas",
+  "pricing_url": "https://www.gocanvas.com/products/pricing",
+  "source_url": "https://www.gocanvas.com/products/pricing",
+  "all_pricing_urls": [
+    "https://www.gocanvas.com/products/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The provided content does not include specific pricing details for GoCanvas.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:10:04.898980",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bfdbf8f0-8c9f-4f0e-af6e-cce29b8c6805",
+    "name": "GoCanvas",
+    "slug": "gocanvas",
+    "description": "GoCanvas provides a simple, drag and drop tool for creating your own mobile forms (called GoCanvas Apps) that can be filled out by your employees on their mobile devices. Customize your own mobile inspections, work orders, time cards, invoices, waivers and much more. Instantly transmit your data to customers and colleagues to keep your business moving at the speed of digital.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/d595811ca753b65b61d862ef9e309d0c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

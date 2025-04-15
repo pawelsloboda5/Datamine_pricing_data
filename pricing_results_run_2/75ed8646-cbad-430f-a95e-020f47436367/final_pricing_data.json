@@ -1,0 +1,188 @@
+{
+  "app_id": "lofty",
+  "app_name": "Lofty",
+  "app_slug": "lofty",
+  "pricing_url": null,
+  "source_url": "https://www.lofty.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details for Lofty include subscription tiers and usage-based pricing for advertising and lead generation.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Core",
+      "tier_description": "Best for high-performing agents and new teams",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "IDX Website - Fully Customizable",
+        "CRM w/Sales Acceleration",
+        "Mobile App",
+        "Dynamic Lead Scoring",
+        "Marketing Automation w/Smart Plans",
+        "Listing Tools",
+        "Reporting",
+        "Integrations",
+        "Agent Subdomains"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Premier",
+      "tier_description": "Best for established, fast-growing teams",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "IDX Website - Fully Customizable",
+        "CRM w/Sales Acceleration",
+        "Mobile App",
+        "Dynamic Lead Scoring",
+        "Marketing Automation w/Smart Plans",
+        "Listing Tools",
+        "Reporting",
+        "Integrations",
+        "Agent Subdomains",
+        "Advanced Lead Routing",
+        "Team Management"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Best for large teams and brokerages",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "IDX Website - Fully Customizable",
+        "CRM w/Sales Acceleration",
+        "Mobile App",
+        "Dynamic Lead Scoring",
+        "Marketing Automation w/Smart Plans",
+        "Listing Tools",
+        "Reporting",
+        "Integrations",
+        "Agent Subdomains",
+        "Advanced Lead Routing",
+        "Team Management",
+        "External Listing Tool"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Buyer Leads",
+      "unit": "per lead",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 20.0,
+          "max": 30.0,
+          "price": null
+        },
+        {
+          "min": 50.0,
+          "max": 70.0,
+          "price": null
+        }
+      ]
+    },
+    {
+      "metric_name": "Seller Leads",
+      "unit": "per lead",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 10.0,
+          "max": 20.0,
+          "price": null
+        },
+        {
+          "min": 20.0,
+          "max": 40.0,
+          "price": null
+        }
+      ]
+    },
+    {
+      "metric_name": "Branding Ads",
+      "unit": "impressions",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 10000.0,
+          "max": "unlimited",
+          "price": null
+        },
+        {
+          "min": 3000.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Waives setup fee and contract deposit for annual plans.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Ad Management Fee",
+      "fee_amount": 20.0,
+      "fee_description": "Percentage fee for managing ads."
+    },
+    {
+      "fee_name": "Home Evaluation Page Fee",
+      "fee_amount": 70.0,
+      "fee_description": "Monthly fee for Home Evaluation Page if Seller Lead Generation is purchased without an IDX site."
+    },
+    {
+      "fee_name": "CRM Professional Plan Requirement",
+      "fee_amount": null,
+      "fee_description": "Requires CRM Professional Plan or above for Ads for Your Sphere."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:05:39.547878",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "75ed8646-cbad-430f-a95e-020f47436367",
+    "name": "Lofty",
+    "slug": "lofty",
+    "description": "Lofty is a product of the technology company Lofty Inc, which offers a complete tech solution for real estate agents.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/b4151791a4e0adb44a7c23ed89923c72.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 5
+  }
+}

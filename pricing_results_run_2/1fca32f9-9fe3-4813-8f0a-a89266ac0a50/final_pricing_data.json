@@ -1,0 +1,133 @@
+{
+  "app_id": "affinity",
+  "app_name": "Affinity",
+  "app_slug": "affinity",
+  "pricing_url": null,
+  "source_url": "https://affinity.serif.com/en-us/affinity-pricing/",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "one_time"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Affinity offers one-time payment options for its software products without subscription requirements.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Affinity V2 Universal License",
+      "tier_description": "Includes Affinity Designer, Affinity Photo, and Affinity Publisher for macOS, Windows, and iPadOS.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Affinity Designer 2",
+        "Affinity Photo 2",
+        "Affinity Publisher 2",
+        "Available for macOS, Windows, and iPadOS"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Affinity Designer 2 (Desktop)",
+      "tier_description": "Affinity Designer 2 for macOS or Windows.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Create unique designs, concept art, logos, and web mock-ups"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Affinity Photo 2 (Desktop)",
+      "tier_description": "Affinity Photo 2 for macOS or Windows.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Edit and retouch images, create multi-layered compositions"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Affinity Publisher 2 (Desktop)",
+      "tier_description": "Affinity Publisher 2 for macOS or Windows.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Create stunning page layouts for brochures, posters, reports"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Affinity Designer 2 (iPad)",
+      "tier_description": "Affinity Designer 2 for iPadOS.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Create unique designs, concept art, logos, and web mock-ups"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Affinity Photo 2 (iPad)",
+      "tier_description": "Affinity Photo 2 for iPadOS.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Edit and retouch images, create multi-layered compositions"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Affinity Publisher 2 (iPad)",
+      "tier_description": "Affinity Publisher 2 for iPadOS.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Create stunning page layouts for brochures, posters, reports"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:09:28.149974",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1fca32f9-9fe3-4813-8f0a-a89266ac0a50",
+    "name": "Affinity",
+    "slug": "affinity",
+    "description": "Affinity is a collective intelligence CRM, helping you keep track of the people and organizations in your network.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/67667fb4295433a924e69153bb0792f7.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 20,
+    "trigger_count": 5
+  }
+}

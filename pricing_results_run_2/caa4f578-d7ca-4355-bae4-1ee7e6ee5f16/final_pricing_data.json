@@ -1,0 +1,121 @@
+{
+  "app_id": "chatra",
+  "app_name": "Chatra",
+  "app_slug": "chatra",
+  "pricing_url": "https://chatra.com/",
+  "source_url": "https://chatra.com/plans/",
+  "all_pricing_urls": [
+    "https://chatra.com/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 10,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per agent per month, with discounts for annual billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free forever for one agent.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Online & offline chat widget",
+        "Unlimited websites",
+        "Customization",
+        "SSL-encryption"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": 20,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Essential",
+      "tier_description": "Essential features for small teams.",
+      "monthly_price": 31.0,
+      "annual_price": 25.0,
+      "annual_discount_percentage": 19.35,
+      "setup_fee": null,
+      "features": [
+        "All Free tier features",
+        "Unlimited chats",
+        "Email helpdesk",
+        "Facebook messenger",
+        "Instagram integration",
+        "Intelligent chat bot",
+        "Form & lead capture bot",
+        "Targeted messages & triggers"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced features for larger teams.",
+      "monthly_price": 41.0,
+      "annual_price": 33.0,
+      "annual_discount_percentage": 19.51,
+      "setup_fee": null,
+      "features": [
+        "All Essential tier features",
+        "Detailed visitor info",
+        "Real-time visitor list",
+        "Shopping cart contents",
+        "Advanced analytics and reporting",
+        "Data export"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:22:37.520847",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "caa4f578-d7ca-4355-bae4-1ee7e6ee5f16",
+    "name": "Chatra",
+    "slug": "chatra",
+    "description": "Chatra is a live chat software that helps to increase revenue and collect feedback providing an easy way for website owners to talk to visitors in real time.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/98d754d4011f49d591028b12da521010.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

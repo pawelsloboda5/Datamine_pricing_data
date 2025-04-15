@@ -1,0 +1,211 @@
+{
+  "app_name": "Ragic",
+  "app_slug": "ragic",
+  "search_term": "Find the official pricing page URL for Ragic (ragic.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744697248.6549296,
+  "response_text": [
+    "The official pricing page for Ragic can be found at: [https://www.ragic.com/price](https://www.ragic.com/price)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Ragic Pricing",
+      "url": "https://www.ragic.com/intl/en/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.ragic.com/price",
+      "is_accessible": true,
+      "content": "\u00a0\n\u2715\n\t\nHome Sign UpLog In User Manual Doc\n\n\n\n\nDefault Tab Menu\nUser Manual Video\nUser Manual Doc\n\t\nHi!\nYou need to log in to access the applications here.\nLog In\nIf you don't have an account, you can sign up for a free account.\nFree Trial\nTasks\nEvents\n\nNo upcoming events.\n\n\nShow calendar\n\u2715\nWelcome to Ragic!\nNext\n\nSpreadsheet style Web database builder. Build cloud databases with spreadsheet UI and embed to your website.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "ragic",
+        "app_name": "Ragic",
+        "app_slug": "ragic",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing details require login to access.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T02:07:36.798398",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.ragic.com/intl/en/pricing",
+      "is_accessible": true,
+      "content": "Ragic Pricing\n===============\n                                 \n\n   \n\n[![Image 2](https://www.ragic.com/intl/common/img/logo.png)](https://www.ragic.com/intl/en/home)\n\n[Why Ragic?](https://www.ragic.com/intl/en/about)[Templates](javascript:void(0);) [Features](javascript:void(0);) [Sign in](https://www.ragic.com/sims/reg/login.jsp)\n\n[Free sign up](javascript:void(0);)\n\n[![Image 3](https://www.ragic.com/intl/common/img/logo.png)](https://www.ragic.com/intl/en/home)\n\n[Free sign up](https://www.ragic.com/intl/en/register) [Sign in](https://www.ragic.com/sims/reg/login.jsp) \n\nFree\n\n$0\n\nUSD/user/month\n\n[Get for free](https://www.ragic.com/intl/en/register?FREE2)\n\nFree all-in-one software for your business.\n\n*   3 custom sheets with 1000 records each[?](javascript:void(0);)\n*   Unlimited templates with unlimited records[?](javascript:void(0);)\n*   Unlimited users[?](javascript:void(0);)\n\nLite\n\n$5\n\nUSD/user/month\n\n[Try for free](https://www.ragic.com/intl/en/register?LITE2)\n\nTons of records, light customization.\n\n*   Unlimited records\n*   5 custom sheets[?](javascript:void(0);)\n*   Unlimited templates[?](javascript:void(0);)\n\nProfessional\n\n$19\n\nUSD/user/month\n\n[Try for free](https://www.ragic.com/intl/en/register?PROF)\n\nMake every employee  \na data expert.\n\n*   Unlimited records\n*   Unlimited custom sheets[?](javascript:void(0);)\n*   Unlimited templates[?](javascript:void(0);)\n*   On-premises option[?](javascript:void(0);)\n*   Most popular\n\nConcurrent Users\n\n$499\n\nUSD/10 concurrent users/month\n\n[Try for free](https://www.ragic.com/intl/en/register?CONPROF)\n\nFor big companies with  \nlots of users.[?](javascript:void(0);)\n\n*   Unlimited records\n*   Unlimited custom sheets[?](javascript:void(0);)\n*   Unlimited templates[?](javascript:void(0);)\n*   On-premises option[?](javascript:void(0);)\n*   Unlimited users[?](javascript:void(0);)\n\nEnterprise\n\n$550\n\nUSD/10 users/month\n\n[Try for free](https://www.ragic.com/intl/en/register?ENT)\n\nDedicated, managed VM, SSO, SLA\n\n*   Unlimited records\n*   Unlimited custom sheets[?](javascript:void(0);)\n*   Unlimited templates[?](javascript:void(0);)\n*   On-premises option[?](javascript:void(0);)\n*   Includes 10 users[?](javascript:void(0);)\n*   Concurrent user option[?](javascript:void(0);)\n*   Uptime SLAs[?](javascript:void(0);)\n*   Dedicated managed VM [?](javascript:void(0);)\n\n![Image 4](https://www.ragic.com/sims/img/vertical_selection_flow_en.webp)\n\nRagic Pricing Calculator\n------------------------\n\nNeed help choosing your plan?\n\nPlan\n\nDeployment Options\n\nPayment Method\n\nNumber of Users[?](javascript:void(0);)\n\nPrice (USD/month)\n\n(\n\nBilling Cycle\n\nFree Plan Offer\n\nOne month free with a one-year subscription.[?](javascript:void(0);)\n\n)\n\nVolume Discount\n\nTotal PricePricing\\_without Tax\n\nGet your quote\n\n### How does the 30-day trial work?\n\nAfter you sign up for your free trial, you get access to all the features under the plan that you're trialing. You can change to a different trial plan yourself any time.\n\nYou will be able to add as many users as you need during free trial for free.\n\n### Is the trial and free plan really free?\n\nAbsolutely! Our free version is permanently free, and the free trial does not require your credit card. No strings attached!\n\n### What happens at the end of my trial?\n\nYou can choose one of our five plans and pay by credit card from within Ragic. Contact sales@ragic.com if you would like to pay by invoice.\n\nYour trial will become your permanent Ragic account, with all your form design, data, custom branding intact.\n\nIf you decide not to purchase at the end of your trial, your account will expire. We will not delete your data immediately and you will be able to resume using your account by paying for a subscription even after expiry.\n\n### How long are your contracts? Can I change plans at anytime?\n\nRagic plans are month-to-month or annual. You can change the number of users or the type of your plan at any time. Changes in the middle of a billing period [will be prorated](https://www.ragic.com/intl/en/doc-kb/82/Pricing-changes-with-the-number-of-users) and adjustments will be made on the next payment.\n\n### What happens when Ragic changes its pricing?\n\nRagic guarantees that whenever the pricing changes, current customers will be able to freely choose between using the old plan or the new plan.\n\nThroughout the years, Ragic has only raised the price but never lowered the price. So it's always better to get your subscription now!\n\n### Where are Ragic's servers located?\n\nWe host your Ragic database on Google Cloud Platform (GCP) and Amazon EC2 located in the US, Europe (Belgium and Ireland) or Asia (Taiwan, Japan, and Singapore). We plan to add more servers in other countries following Google's data center [expansion plan](https://cloud.google.com/compute/docs/regions-zones/regions-zones).\n\nIf you are registering from an European IP, your account will be automatically created on an European server, with domain name that starts with **eu**.\n\n### Will my data be private and safe?\n\nAbsolutely. Ragic has obtained the most widely used international information security standard \u2014 ISO/IEC 27001:2022 certification.\n\nRagic uses the same 128-bit encryption and physical security that banks use; sensitive data is all stored in encryption or hash. We don't use an SQL database, ensuring there's no chance of SQL injection or other security holes found in many other products. There's no way anyone can access your data through a DB console.\n\nOur servers are hosted by two highly trusted and popular service providers: Google and AWS. They maintain extremely high physical security measures, data is written and encrypted to multiple disks and backed up daily and weekly. You can also manually back up your database from Ragic whenever you want.\n\nIf concerns persist, you have the option to purchase a private server for installation on your own hardware or choose a trusted service provider. For more details on our security measures, feel free to contact support@ragic.com.\n\nSwipe for more\n\n| Compare our plans | Free  \n[GET](https://www.ragic.com/intl/en/register?FREE2) | Lite  \n[TRY](https://www.ragic.com/intl/en/register?LITE2) | Professional  \n[TRY](https://www.ragic.com/intl/en/register?PROF) | Concurrent Users  \n[TRY](https://www.ragic.com/intl/en/register?CONPROF) | Enterprise  \n[TRY](https://www.ragic.com/intl/en/register?ENT) |\n| --- | --- | --- | --- | --- | --- |\n| Pricing |\n| Price | Free | $5 / user / month | $19 / user / month | $49.9 / concurrent user / month  \nUnlimited named users | $55 / user / month  \nPaid annually |\n| Minimum users | 1 | 1 | 1 | 10 | 10 |\n| External users | Free | Free | Free | Free | Free |\n| Template sheets | Unlimited | Unlimited | Unlimited | Unlimited | Unlimited |\n| Records per Template | Unlimited | Unlimited | Unlimited | Unlimited | Unlimited |\n| Custom sheets | 3 | 5 | Unlimited | Unlimited | Unlimited |\n| Records per custom sheet | 1000 | Unlimited | Unlimited | Unlimited | Unlimited |\n| Upload Storage | 10 GB | 10 GB / user | 30 GB / user | 100 GB / concurrent user | 100 GB / user |\n| Maximum Amounts of Emails Sent per day | 100 / day | 250 x Internal Users / day | 1000 x Internal Users / day | 1000 x Concurrent users / day | 1000 x Internal Users / day |\n| Support |\n| Self-service knowledge base |  |  |  |  |  |\n| Community support |  |  |  |  |  |\n| E-mail / online support |  |  |  |  |  |\n| Database Features |\n| Access right control |  |  |  |  |  |\n| iOS & Android apps |  |  |  |  |  |\n| Spreadsheet import / export |  |  |  |  |  |\n| Web embed |  |  |  |  |  |\n| Dynamic linking |  |  |  |  |  |\n| Record history |  |  |  |  |  |\n| Built-in approval flow |  |  |  |  |  |\n| Report Center |  |  |  |  |  |\n| Notifications & reminders |  |  |  |  |  |\n| Application history |  |  |  |  |  |\n| Mass e-mail |  |  |  |  |  |\n| Mass SMS |  |  |  |  |  |\n| Account Customizations |  |  |  |  |  |\n| Dedicated managed VM |  |  |  |  |  |\n| Data Security |\n| SSL encryption |  |  |  |  |  |\n| Full server backup |  |  |  |  |  |\n| Manual backup & restore |  |  |  |  |  |\n| Recycle bin |  |  |  |  |  |\n| Custom user groups |  |  |  |  |  |\n| Automated account backup |  |  |  |  |  |\n| Custom security setting |  |  |  |  |  |\n| DB and server auditing logs |  |  |  |  |  |\n| Private server |  |  |  |  |  |\n| Uptime SLAs |  |  |  |  |  |\n| Integration & developer tools |\n| E-mail integration |  |  |  |  |  |\n| Calendar integration |  |  |  |  |  |\n| Dropbox integration |  |  |  |  |  |\n| HTTP REST API |  |  |  |  |  |\n| Server-side Javascript |  |  |  |  |  |\n| LDAP provider (e.g., Microsoft Active Directory) |  |  |  |  |  |\n| SAML provider (e.g., Microsoft Active Directory) |  |  |  |  |  |\n| Sandbox accounts |  |  |  |  |  |\n| Special pricing |\n| Volume discount |  | Above 80 users | Above 20 users | Above 20 users | Above 20 users |\n| Educational pricing |  |  |  |  |  |\n| Non-profit pricing |  |  |  |  |  |\n\n*   ### Security is in our product DNA\n    \n    Ragic is built differently by design\u2014common risks like unauthorized DB console access or SQL injection are simply not possible. Combined with enterprise-grade security, governance, and monitoring, we provide the highest security level for your peace of mind.\n    \n*   ### No compromises on your data safety\n    \n    Our organization goes through rigorous annual audits, including ISO-27001, to ensure our team and processes are in compliance with global standards.\n    \n*   ### Public cloud or on-premises, your choice\n    \n    Get our latest features instantly on the public cloud with no server hassles. Most prefer this, but we get it\u2014government agencies and financial institutions may need to host Ragic themselves for compliance. You choose\u2014Ragic offers both options.\n    \n\n[Why we created Ragic?](https://www.ragic.com/intl/en/about) [Back to Ragic Home](https://www.ragic.com/intl/en/home)\n\n \n\nStart Ragic for free\n--------------------\n\nCreate account\n\nSign up with Google\n\n  \n\nRagic, Inc.  \n[1-888-666-8037](tel:+18886668037)  \n[info@ragic.com](mailto:info@ragic.com)  \n\nProduct  \n[Pricing](https://www.ragic.com/intl/en/pricing)  \n[On-Premise](https://www.ragic.com/intl/en/doc/123/on-premises-installation)  \n[Security](https://www.ragic.com/intl/en/product-cloud-security)  \n[Ragic Features](https://www.ragic.com/intl/en/product)  \n[Compare](https://www.ragic.com/intl/en/compare)  \n\n  \n\nResources  \n[Learn Ragic](https://www.ragic.com/intl/en/course)  \n[Webinars](https://www.ragic.com/intl/en/webinar)  \n[Case Studies](https://www.ragic.com/intl/en/blog/majorType/Case-Studies)  \n[Partner Program](https://www.ragic.com/intl/en/product-intro-partners)  \n[Educator Program](https://www.ragic.com/intl/en/product-education)  \n[FAQ](https://www.ragic.com/intl/en/doc-kb)  \n\nUse Cases  \n[Sales](https://www.ragic.com/intl/en/course/use-cases/sales)  \n[Inventory](https://www.ragic.com/intl/en/course/use-cases/inventory)  \n[Purchasing](https://www.ragic.com/intl/en/course/use-cases/purchasing)  \n[Production](https://www.ragic.com/intl/en/course/use-cases/production)  \n[Barcode](https://www.ragic.com/intl/en/course/use-cases/barcode)  \n[Human Resource](https://www.ragic.com/intl/en/course/use-cases/human-resource)  \n[Project Management](https://www.ragic.com/intl/en/course/use-cases/project-management)  \n[Marketing](https://www.ragic.com/intl/en/course/use-cases/marketing)  \n[Finance & Accounting](https://www.ragic.com/intl/en/course/use-cases/finance-&-accounting)  \n[Support](https://www.ragic.com/intl/en/course/use-cases/support)  \n[Administration](https://www.ragic.com/intl/en/course/use-cases/administration)  \n[MIS](https://www.ragic.com/intl/en/course/use-cases/mis)  \n[R&D](https://www.ragic.com/intl/en/course/use-cases/r&d)  \n\nAbout Us  \n[Ragic Quick Guide](https://www.ragic.com/intl/en/blog/276/get-to-know-ragic-essential-FAQ)  \n[Why We Created Ragic](https://www.ragic.com/intl/en/about)  \n[Blog](https://www.ragic.com/intl/en/blog)  \n[Community](https://community.ragic.com/)  \n[Contact Us](mailto:info@ragic.com)  \n\n[](https://www.facebook.com/ragicdb)[](https://www.instagram.com/ragic)[](https://www.youtube.com/user/ragicvideo)[](https://twitter.com/ragic)[](https://www.linkedin.com/company/ragic)\n\n  \n\n[![Image 5: Download on the App Store](https://www.ragic.com/intl/common/img/home/en_iOS_172x60.png?1)](https://itunes.apple.com/us/app/ragic/id975113762?mt=8&uo=6&at=&ct=)  \n[![Image 6: Get it on Google Play](https://www.ragic.com/intl/common/img/home/en_Android_172x60.png?1)](https://play.google.com/store/apps/details?id=com.ragic.ragicclouddb)\n\nRagic, Inc.  \n[1-888-666-8037](tel:+18886668037)  \n\n[Terms of Service](https://www.ragic.com/sims/reg/tos.html) | [Privacy Policy](https://www.ragic.com/sims/reg/privacy.html)\n\n*   ### PERSONAL\n    \n*   [Change Password](javascript:void(0);)\n*   Language: \n*   [Sign Out](https://www.ragic.com/sims/reg/logout.jsp)\n\n*   ### RESOURCES\n    \n*   [User Guide](https://www.ragic.com/intl/en/doc)\n*   [Ragic Intro Slides](javascript:void(0);)\n*   [Developer API](https://www.ragic.com/intl/en/doc-api)\n*   [Glossary](https://www.ragic.com/intl/en/doc-kb/71/Glossary)\n*   [What's New?](javascript:void(0);) 1\n\n*   ### IMPORTANT CONCEPTS\n    \n*   [How to get started?](javascript:void(0);)\n*   [Listing & Form](https://www.ragic.com/intl/en/doc/2/Listing-page-and-Form-pages)\n*   [Subtables](https://www.ragic.com/intl/en/doc/7/Creating-subtables)\n*   [Formulas](https://www.ragic.com/intl/en/doc/18/Formulas)\n*   [Link & Load](https://www.ragic.com/intl/en/doc/31/Link-&-load)\n*   [Multiple Versions](https://www.ragic.com/intl/en/doc/32/Multiple-versions)\n*   [Mass Editing](https://www.ragic.com/intl/en/doc/44/Mass-editing)\n*   [FAQ](https://www.ragic.com/intl/en/doc-kb)\n\n\u00a0\n\n\u2715\n\n    \u00d7\n\nPricing for Ragic's cloud database software. Compare features of free, lite, professional, on-premise and enterprise.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "ragic",
+        "app_name": "Ragic",
+        "app_slug": "ragic",
+        "pricing_url": "https://www.ragic.com/intl/en/pricing",
+        "source_url": "https://www.ragic.com/intl/en/pricing",
+        "all_pricing_urls": [
+          "https://www.ragic.com/intl/en/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Ragic offers a variety of plans with different features and user limits. Discounts are available for annual subscriptions.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Free all-in-one software for your business.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "3 custom sheets with 1000 records each",
+              "Unlimited templates with unlimited records",
+              "Unlimited users"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "10 GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Lite",
+            "tier_description": "Tons of records, light customization.",
+            "monthly_price": 5.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited records",
+              "5 custom sheets",
+              "Unlimited templates"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "10 GB per user",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Professional",
+            "tier_description": "Make every employee a data expert.",
+            "monthly_price": 19.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited records",
+              "Unlimited custom sheets",
+              "Unlimited templates",
+              "On-premises option"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "30 GB per user",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Concurrent Users",
+            "tier_description": "For big companies with lots of users.",
+            "monthly_price": 499.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited records",
+              "Unlimited custom sheets",
+              "Unlimited templates",
+              "On-premises option",
+              "Unlimited users"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "100 GB per concurrent user",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Dedicated, managed VM, SSO, SLA.",
+            "monthly_price": 550.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited records",
+              "Unlimited custom sheets",
+              "Unlimited templates",
+              "On-premises option",
+              "Includes 10 users",
+              "Concurrent user option",
+              "Uptime SLAs",
+              "Dedicated managed VM"
+            ],
+            "limits": {
+              "users": 10,
+              "storage": "100 GB per user",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Annual Subscription Discount",
+            "offer_description": "One month free with a one-year subscription.",
+            "discount_percentage": 8.33,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T02:07:47.140736",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\ragic\\20250415_020747"
+}

@@ -1,0 +1,149 @@
+{
+  "app_id": "dialmycalls",
+  "app_name": "DialMyCalls",
+  "app_slug": "dialmycalls",
+  "pricing_url": "https://www.dialmycalls.com/pricing",
+  "source_url": "https://www.dialmycalls.com/pricing",
+  "all_pricing_urls": [
+    "https://www.dialmycalls.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "DialMyCalls offers multiple pricing models including subscription plans, pay-as-you-go credits, and custom pricing for larger accounts.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Credit Based",
+      "tier_description": "Perfect for those with frequently changing contacts. Unused credits rollover to the next month.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Texting features",
+        "Calling features",
+        "Account features",
+        "Email features"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Contact Based",
+      "tier_description": "For organizations who contact the same group of people on an ongoing basis.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Texting features",
+        "Calling features",
+        "Account features",
+        "Email features"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Pay As You Go",
+      "tier_description": "Buy credits as needed. Used by organizations with varying usage amounts or infrequent messaging needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Texting features",
+        "Calling features",
+        "Account features",
+        "Email features"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Credits",
+      "unit": "per credit",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 200.0,
+          "max": 499.0,
+          "price": 0.075
+        },
+        {
+          "min": 500.0,
+          "max": 999.0,
+          "price": 0.07
+        },
+        {
+          "min": 1000.0,
+          "max": 2499.0,
+          "price": 0.065
+        },
+        {
+          "min": 2500.0,
+          "max": 9999.0,
+          "price": 0.058
+        },
+        {
+          "min": 10000.0,
+          "max": 24999.0,
+          "price": 0.05
+        },
+        {
+          "min": 25000.0,
+          "max": 49999.0,
+          "price": 0.044
+        },
+        {
+          "min": 50000.0,
+          "max": 99999.0,
+          "price": 0.041
+        },
+        {
+          "min": 100000.0,
+          "max": 250000.0,
+          "price": 0.038
+        },
+        {
+          "min": 250001.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:46:54.545935",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "40c75998-f731-43bd-a6bc-ac39cbd2c6a0",
+    "name": "DialMyCalls",
+    "slug": "dialmycalls",
+    "description": "DialMyCalls provides calling and texting to customers around the world. We offer reporting for all broadcasts as well as a contact management system.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/7d19e05ff7b33d9c4d1dd4847e739424.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "app_id": "testimonial",
+  "app_name": "Testimonial",
+  "app_slug": "testimonial",
+  "pricing_url": "https://testimonial.to/pricing",
+  "source_url": "https://testimonial.to/pricing\u30103:0\u2020source\u3011",
+  "all_pricing_urls": [
+    "https://testimonial.to/pricing"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page was not accessible, and no specific pricing details were found in the provided content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:46:12.120932",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "1b355620-ffa1-4b91-ac42-21c8f96518f5",
+    "name": "Testimonial",
+    "slug": "testimonial",
+    "description": "Testimonial makes it easy for businesses to collect testimonials.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/4eabfb8dd6dc2a4cfc4cf1f40f641f2f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

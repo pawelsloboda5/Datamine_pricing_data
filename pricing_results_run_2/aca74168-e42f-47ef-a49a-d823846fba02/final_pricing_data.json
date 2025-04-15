@@ -1,0 +1,48 @@
+{
+  "app_id": "docsend",
+  "app_name": "DocSend",
+  "app_slug": "docsend",
+  "pricing_url": "https://www.docsend.com/pricing/",
+  "source_url": "https://www.docsend.com/plans-and-pricing",
+  "all_pricing_urls": [
+    "https://www.docsend.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "DocSend offers a free tier and subscription-based pricing. Detailed tier information is available on the pricing page.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T10:17:25.255778",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "aca74168-e42f-47ef-a49a-d823846fba02",
+    "name": "DocSend",
+    "slug": "docsend",
+    "description": "DocSend tells you how prospects engage with your sales material after you send it. Know when to follow up, who to follow up with, and what to focus on, enabling you to do business faster.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/461918a7367cf1c6833f005e98edbb53.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Ads & Conversion"
+    ],
+    "category_slugs": [
+      "ads-conversion"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

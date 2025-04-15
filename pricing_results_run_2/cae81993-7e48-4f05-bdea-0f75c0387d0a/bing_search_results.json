@@ -1,0 +1,513 @@
+{
+  "app_name": "AssemblyAI",
+  "app_slug": "assemblyai",
+  "search_term": "Find the official pricing page URL for AssemblyAI (assemblyai.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744721234.2335942,
+  "response_text": [
+    "The official pricing page for AssemblyAI can be found here: [https://www.assemblyai.com/pricing/](https://www.assemblyai.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | Production-ready AI Models - AssemblyAI",
+      "url": "https://www.assemblyai.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.assemblyai.com/pricing",
+      "is_accessible": true,
+      "content": "Simple transparent pricing\n--------------------------\n\nFor developers looking to prototype with Speech AI\n\n*   Access to industry-leading Speech-to-Text and Audio Intelligence models\n    *   _Speech recognition_\n    *   _Speaker diarization_\n    *   _Custom spelling and vocabulary_\n    *   _Profanity filtering, auto punctuation and casing_\n*   Transcribe up to 416 hours of prerecorded audio for free\n*   Get tips and support as you build from developer docs and community resources\n\n[Start building for free](https://www.assemblyai.com/dashboard/signup)\n\nFor teams ready to integrate Speech AI into their products\n\n*   Unlimited access to Speech-to-Text, Audio Intelligence, and LeMUR\n*   Streaming Speech-to-Text\n*   Concurrency starting at 200 files and 100 streams\n*   Technical support via live chat and email\n\n[Get started](https://www.assemblyai.com/dashboard/signup)\n\nFor teams and organizations building AI products at scale\n\n*   Flexible, zero-obligation pricing that scales to millions of hours\n*   Dedicated technical support with response time under one hour\n*   Customize rate limits - scale to any workload\n*   Customized SLAs and SLOs\n*   BAA for HIPAA Compliance\n*   Compliance with EU Data Residency standards\n*   Self-hosted deployments (On-prem, VPC) (Coming soon!)\n*   Early access to new models and model improvements\n*   Available through [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-j45hta6jdej7c?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)\n\n[Contact us](https://www.assemblyai.com/contact/sales)\n\n![Image 1](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67dc787a9f7cff207518cbf5_Logo%20line%20item.avif)\n\n![Image 2](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67dc787a40c14e4c346a18a6_Logo%20line%20item-11.avif)\n\n![Image 3](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67dc787a314db4fd71551d4a_Logo%20line%20item-12.avif)\n\n![Image 4](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67dc787a3bad32c2d7e80888_Logo%20line%20item-10.avif)\n\n![Image 5](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67dc787a7b7f78d10038259a_Logo%20line%20item-1.avif)\n\n| Tiers\n | \n\nFree\n\n[Start for free](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nPay as you go\n\n[Build your plan](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nCustom\n\n[Talk to us](https://www.assemblyai.com/contact/sales)\n\n\n\n |\n| --- | --- | --- | --- |\n| \n\nNano\n\n![Image 6](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Free up to $50\n\n | $0.12 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nBest\n\n![Image 7](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Free up to $50\n\n | $0.37 /hr\n\n | Lower rates based on volume\n\n |\n| Features\n\n |  |  |  |\n| \n\nSpeaker Diarization\n\n![Image 8](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 9](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 10](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 11](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nAutomatic Language Detection\n\n![Image 12](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 13](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 14](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 15](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nProfanity Filtering\n\n![Image 16](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 17](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 18](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 19](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nCustom Vocabulary\n\n![Image 20](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 21](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 22](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 23](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nMultichannel\n\n![Image 24](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 25](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 26](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 27](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nFiller Word Filtering\n\n![Image 28](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 29](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 30](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 31](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nCustom Spelling\n\n![Image 32](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 33](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 34](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 35](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nWord Timestamps\n\n![Image 36](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 37](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 38](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 39](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nAuto Punctuation and Casing\n\n![Image 40](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 41](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 42](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 43](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nITN/Formatting\n\n![Image 44](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 45](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 46](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 47](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nConfidence Scores\n\n![Image 48](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 49](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 50](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 51](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nWord Search\n\n![Image 52](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 53](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 54](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 55](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nExport SRT/VTT Captions\n\n![Image 56](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 57](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 58](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 59](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nExport Paragraphs/Sentences\n\n![Image 60](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 61](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 62](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 63](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n\n[See all features](https://www.assemblyai.com/pricing#)\n\n| Tiers\n | \n\nFree\n\n[Start for free](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nPay as you go\n\n[Build your plan](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nCustom\n\n[Talk to us](https://www.assemblyai.com/contact/sales)\n\n\n\n |\n| --- | --- | --- | --- |\n| \n\nBest\n\n![Image 64](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 65](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | $0.47 /hr\n\n | Lower rates based on volume\n\n |\n| Features\n\n |  |  |  |\n| \n\nAuto Punctuation and Casing\n\n![Image 66](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 67](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | ![Image 68](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 69](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nCustom Vocabulary\n\n![Image 70](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 71](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | ![Image 72](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 73](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nEnd of Utterance Detection\n\n![Image 74](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 75](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | ![Image 76](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 77](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nITN/Formatting\n\n![Image 78](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 79](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | ![Image 80](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 81](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n\n| LeMUR Models\n | \n\nFree\n\n[Start for free](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nPay as you go\n\n[Build your plan](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nCustom\n\n[Talk to us](https://www.assemblyai.com/contact/sales)\n\n\n\n |\n| --- | --- | --- | --- |\n| \n\nClaude 3.5 Sonnet\n\n![Image 82](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 83](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | $0.003 / 1k tokens (Input)\n\n$0.015 / 1k tokens (Output)\n\n | $0.003 / 1k tokens (Input)\n\n$0.015 / 1k tokens (Output)\n\n |\n| \n\nClaude 3 Opus\n\n![Image 84](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 85](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | $0.015 / 1k tokens (Input)\n\n$0.075 / 1k tokens (Output)\n\n | $0.015 / 1k tokens (Input)\n\n$0.075 / 1k tokens (Output)\n\n |\n| \n\nClaude 3 Haiku\n\n![Image 86](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 87](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | $0.00025 / 1k tokens (Input)\n\n$0.00125 / 1k tokens (Output)\n\n | $0.00025 / 1k tokens (Input)\n\n$0.00125 / 1k tokens (Output)\n\n |\n| \n\nClaude 3 Sonnet\n\n![Image 88](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 89](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | $0.003 / 1k tokens (Input)\n\n$0.015 / 1k tokens (Output)\n\n | $0.003 / 1k tokens (Input)\n\n$0.015 / 1k tokens (Output)\n\n |\n| Audio Intelligence Features\n\n |  |  |  |\n| \n\nEntity Detection\n\n![Image 90](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.08 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nTopic Detection\n\n![Image 91](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.15 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nKey Phrases\n\n![Image 92](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.01 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nPII Audio Redaction\n\n\n\n | Included in free credits\n\n | $0.05 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nPII Redaction\n\n![Image 93](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.08 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nSentiment Analysis\n\n![Image 94](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.02 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nContent Moderation\n\n![Image 95](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.15 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nAuto Chapters\n\n![Image 96](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.08 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nSummarization\n\n![Image 97](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.03 /hr\n\n | Lower rates based on volume\n\n |\n\n|  | \nFree\n\n[Start for free](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nPay as you go\n\n[Build your plan](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nCustom\n\n[Talk to us](https://www.assemblyai.com/contact/sales)\n\n\n\n |\n| --- | --- | --- | --- |\n| \n\nHours of audio\n\n\n\n | Up to 416 hours\n\n | Unlimited\n\n | Unlimited\n\n |\n| \n\nPre-recorded concurrency\n\n\n\n | 5 files\n\n | Starting at 200 files\n\n | Talk to us\n\n |\n| \n\nStreaming concurrency\n\n\n\n | ![Image 98](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | Starting at 100 streams\n\n | Talk to us\n\n |\n\n|  | \nFree\n\n[Start for free](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nPay as you go\n\n[Build your plan](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nCustom\n\n[Talk to us](https://www.assemblyai.com/contact/sales)\n\n\n\n |\n| --- | --- | --- | --- |\n| \n\nGDPR\n\n\n\n | ![Image 99](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 100](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 101](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nPCI-DSS\n\n\n\n | ![Image 102](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 103](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 104](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nSOC 2 Type 1/Type 2\n\n\n\n | ![Image 105](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 106](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 107](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nEU Data Residency\n\n\n\n | ![Image 108](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 109](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 110](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nISO 27001\n\n\n\n | ![Image 111](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 112](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 113](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nBAA for HIPAA Compliance\n\n\n\n | ![Image 114](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | ![Image 115](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 116](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n\nWhat are the differences between Speech-to-Text tiers?\n\n![Image 117](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nAssemblyAI\u2019s Best tier is our most robust and accurate offering, houses our most powerful models, and has the broadest range of capabilities. The Best tier is suited for use cases where accuracy and power are paramount. AssemblyAI\u2019s Nano tier is a fast, lightweight offering that gives product and development teams access to Speech AI at an attainable price point across 99 languages. It is best for teams with extensive language needs, and those who are looking for a low-cost Speech AI option.\n\nCan I sign up for free?\n\n![Image 118](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nYes! With the free offer, you get $50 in credits to use towards AssemblyAI\u2019s Speech-to-Text APIs. To add more credits and gain access to Streaming and LeMUR, simply add a credit card to your account.\n\nDo you offer volume discounts?\n\n![Image 119](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nAbsolutely! If you plan to send large volumes of audio and video content through our API, please reach out to us [here](https://www.assemblyai.com/contact/sales) to see if you qualify for a volume discount.\n\nHow fast does it take for audio and video files to process?\n\n![Image 120](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nMost audio files sent to AssemblyAI's API can be processed in less than 60 seconds.\n\nHow does billing work?\n\n![Image 121](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nGreat question. Once you add a credit card and deposit funds into your account, your account's funds will be drained as you use the API.\n\nHow is multichannel billed?\n\n![Image 122](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nWhen multichannel is enabled, each channel will be transcribed and billed separately. The total cost is calculated by taking the hourly transcription rate (billed per second) and multiplying it by the number of channels. To calculate your total cost, simply multiply your recording's duration by the hourly rate, then multiply that result by the number of channels.\n\nFor example, if you sent a 5-minute recording with three channels, you would be billed for the 5 minutes of audio multiplied by the standard rate, with that total multiplied by three channels. This is equivalent to being billed for 15 minutes of audio.\n\nCan I purchase or use AssemblyAI through the AWS Marketplace?\n\n![Image 123](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nYou can also get started with [AssemblyAI on the AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-j45hta6jdej7c)\u2014or ask your AWS account team about how to leverage AssemblyAI to revolutionize the way your company understands its customers.\n\nHow can I talk to someone?\n\n![Image 124](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nFeel free to email us at [support@assemblyai.com](mailto:support@assemblyai.com), or click the chat button in the bottom right corner of your browser to chat live with our API Support team!\n\nWhat languages do you support?\n\n![Image 125](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nWe support over 99 languages and counting, including Global English (English and all of its accents).\n\nWhat is a token?\n\n![Image 126](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nIn the context of a Large Language Model (LLM), a \u201ctoken\u201d is the smallest unit of text processed by the model. 100 tokens roughly maps to ~75 words.\n\nTurn voice data into unparalleled product experiences\n-----------------------------------------------------\n\nPartner with the leader in Speech AI to build powerful products with breakthrough industry impact.\n\n![Image 127](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67b6012d75b9fd772c9c26fe_home-cta-image.svg)\n\n![Image 128](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67e124c2e653ef1ce8ed34ea_shapes.svg)![Image 129](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67a620d7981ab6847d8dc80c_Noise%20Texture.webp)\n\nFind AssemblyAI pricing information. Explore pay-as-you-go pricing by product. Try our API for free or contact sales about a custom plan.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "assemblyai",
+        "app_name": "AssemblyAI",
+        "app_slug": "assemblyai",
+        "pricing_url": "https://www.assemblyai.com/pricing",
+        "source_url": "https://www.assemblyai.com/pricing",
+        "all_pricing_urls": [
+          "https://www.assemblyai.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "AssemblyAI offers a free tier with $50 credits, usage-based pricing for various features, and custom plans for large-scale deployments.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "For developers looking to prototype with Speech AI.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Access to industry-leading Speech-to-Text and Audio Intelligence models",
+              "Transcribe up to 416 hours of prerecorded audio for free",
+              "Developer docs and community resources"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Hours of audio",
+                  "value": "416 hours"
+                },
+                {
+                  "name": "Pre-recorded concurrency",
+                  "value": "5 files"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pay as you go",
+            "tier_description": "For teams ready to integrate Speech AI into their products.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited access to Speech-to-Text, Audio Intelligence, and LeMUR",
+              "Streaming Speech-to-Text",
+              "Concurrency starting at 200 files and 100 streams",
+              "Technical support via live chat and email"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Hours of audio",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "Pre-recorded concurrency",
+                  "value": "200 files"
+                },
+                {
+                  "name": "Streaming concurrency",
+                  "value": "100 streams"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Custom",
+            "tier_description": "For teams and organizations building AI products at scale.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Flexible, zero-obligation pricing that scales to millions of hours",
+              "Dedicated technical support with response time under one hour",
+              "Customize rate limits - scale to any workload",
+              "Customized SLAs and SLOs",
+              "BAA for HIPAA Compliance",
+              "Compliance with EU Data Residency standards",
+              "Self-hosted deployments (On-prem, VPC) (Coming soon!)",
+              "Early access to new models and model improvements",
+              "Available through AWS Marketplace"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Hours of audio",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "Pre-recorded concurrency",
+                  "value": "customizable"
+                },
+                {
+                  "name": "Streaming concurrency",
+                  "value": "customizable"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Speech-to-Text",
+            "unit": "per hour",
+            "base_price": 0.12,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.12
+              }
+            ]
+          },
+          {
+            "metric_name": "Audio Intelligence",
+            "unit": "per hour",
+            "base_price": 0.08,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.08
+              }
+            ]
+          },
+          {
+            "metric_name": "LeMUR Models",
+            "unit": "per 1k tokens",
+            "base_price": 0.003,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.003
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": true,
+          "input_token_price": 0.003,
+          "output_token_price": 0.015,
+          "models_pricing": [
+            {
+              "model_name": "Claude 3.5 Sonnet",
+              "input_price": 0.003,
+              "output_price": 0.015,
+              "unit": "per 1k tokens"
+            },
+            {
+              "model_name": "Claude 3 Opus",
+              "input_price": 0.015,
+              "output_price": 0.075,
+              "unit": "per 1k tokens"
+            },
+            {
+              "model_name": "Claude 3 Haiku",
+              "input_price": 0.00025,
+              "output_price": 0.00125,
+              "unit": "per 1k tokens"
+            }
+          ],
+          "has_inference_pricing": true,
+          "has_fine_tuning_pricing": null,
+          "has_training_pricing": null,
+          "ai_addon_available": true
+        },
+        "promotional_offers": [
+          {
+            "offer_name": "Free Tier",
+            "offer_description": "$50 in credits to use towards Speech-to-Text APIs.",
+            "discount_percentage": null,
+            "offer_url": "https://www.assemblyai.com/dashboard/signup",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T08:47:32.114028",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.assemblyai.com/pricing/",
+      "is_accessible": true,
+      "content": "Simple transparent pricing\n--------------------------\n\nFor developers looking to prototype with Speech AI\n\n*   Access to industry-leading Speech-to-Text and Audio Intelligence models\n    *   _Speech recognition_\n    *   _Speaker diarization_\n    *   _Custom spelling and vocabulary_\n    *   _Profanity filtering, auto punctuation and casing_\n*   Transcribe up to 416 hours of prerecorded audio for free\n*   Get tips and support as you build from developer docs and community resources\n\n[Start building for free](https://www.assemblyai.com/dashboard/signup)\n\nFor teams ready to integrate Speech AI into their products\n\n*   Unlimited access to Speech-to-Text, Audio Intelligence, and LeMUR\n*   Streaming Speech-to-Text\n*   Concurrency starting at 200 files and 100 streams\n*   Technical support via live chat and email\n\n[Get started](https://www.assemblyai.com/dashboard/signup)\n\nFor teams and organizations building AI products at scale\n\n*   Flexible, zero-obligation pricing that scales to millions of hours\n*   Dedicated technical support with response time under one hour\n*   Customize rate limits - scale to any workload\n*   Customized SLAs and SLOs\n*   BAA for HIPAA Compliance\n*   Compliance with EU Data Residency standards\n*   Self-hosted deployments (On-prem, VPC) (Coming soon!)\n*   Early access to new models and model improvements\n*   Available through [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-j45hta6jdej7c?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)\n\n[Contact us](https://www.assemblyai.com/contact/sales)\n\n![Image 1](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67dc787a9f7cff207518cbf5_Logo%20line%20item.avif)\n\n![Image 2](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67dc787a40c14e4c346a18a6_Logo%20line%20item-11.avif)\n\n![Image 3](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67dc787a314db4fd71551d4a_Logo%20line%20item-12.avif)\n\n![Image 4](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67dc787a3bad32c2d7e80888_Logo%20line%20item-10.avif)\n\n![Image 5](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67dc787a7b7f78d10038259a_Logo%20line%20item-1.avif)\n\n| Tiers\n | \n\nFree\n\n[Start for free](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nPay as you go\n\n[Build your plan](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nCustom\n\n[Talk to us](https://www.assemblyai.com/contact/sales)\n\n\n\n |\n| --- | --- | --- | --- |\n| \n\nNano\n\n![Image 6](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Free up to $50\n\n | $0.12 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nBest\n\n![Image 7](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Free up to $50\n\n | $0.37 /hr\n\n | Lower rates based on volume\n\n |\n| Features\n\n |  |  |  |\n| \n\nSpeaker Diarization\n\n![Image 8](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 9](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 10](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 11](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nAutomatic Language Detection\n\n![Image 12](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 13](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 14](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 15](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nProfanity Filtering\n\n![Image 16](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 17](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 18](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 19](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nCustom Vocabulary\n\n![Image 20](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 21](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 22](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 23](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nMultichannel\n\n![Image 24](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 25](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 26](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 27](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nFiller Word Filtering\n\n![Image 28](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 29](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 30](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 31](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nCustom Spelling\n\n![Image 32](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 33](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 34](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 35](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nWord Timestamps\n\n![Image 36](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 37](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 38](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 39](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nAuto Punctuation and Casing\n\n![Image 40](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 41](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 42](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 43](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nITN/Formatting\n\n![Image 44](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 45](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 46](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 47](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nConfidence Scores\n\n![Image 48](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 49](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 50](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 51](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nWord Search\n\n![Image 52](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 53](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 54](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 55](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nExport SRT/VTT Captions\n\n![Image 56](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 57](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 58](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 59](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nExport Paragraphs/Sentences\n\n![Image 60](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 61](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 62](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 63](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n\n[See all features](https://www.assemblyai.com/pricing/#)\n\n| Tiers\n | \n\nFree\n\n[Start for free](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nPay as you go\n\n[Build your plan](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nCustom\n\n[Talk to us](https://www.assemblyai.com/contact/sales)\n\n\n\n |\n| --- | --- | --- | --- |\n| \n\nBest\n\n![Image 64](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 65](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | $0.47 /hr\n\n | Lower rates based on volume\n\n |\n| Features\n\n |  |  |  |\n| \n\nAuto Punctuation and Casing\n\n![Image 66](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 67](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | ![Image 68](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 69](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nCustom Vocabulary\n\n![Image 70](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 71](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | ![Image 72](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 73](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nEnd of Utterance Detection\n\n![Image 74](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 75](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | ![Image 76](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 77](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nITN/Formatting\n\n![Image 78](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 79](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | ![Image 80](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 81](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n\n| LeMUR Models\n | \n\nFree\n\n[Start for free](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nPay as you go\n\n[Build your plan](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nCustom\n\n[Talk to us](https://www.assemblyai.com/contact/sales)\n\n\n\n |\n| --- | --- | --- | --- |\n| \n\nClaude 3.5 Sonnet\n\n![Image 82](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 83](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | $0.003 / 1k tokens (Input)\n\n$0.015 / 1k tokens (Output)\n\n | $0.003 / 1k tokens (Input)\n\n$0.015 / 1k tokens (Output)\n\n |\n| \n\nClaude 3 Opus\n\n![Image 84](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 85](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | $0.015 / 1k tokens (Input)\n\n$0.075 / 1k tokens (Output)\n\n | $0.015 / 1k tokens (Input)\n\n$0.075 / 1k tokens (Output)\n\n |\n| \n\nClaude 3 Haiku\n\n![Image 86](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 87](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | $0.00025 / 1k tokens (Input)\n\n$0.00125 / 1k tokens (Output)\n\n | $0.00025 / 1k tokens (Input)\n\n$0.00125 / 1k tokens (Output)\n\n |\n| \n\nClaude 3 Sonnet\n\n![Image 88](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | ![Image 89](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | $0.003 / 1k tokens (Input)\n\n$0.015 / 1k tokens (Output)\n\n | $0.003 / 1k tokens (Input)\n\n$0.015 / 1k tokens (Output)\n\n |\n| Audio Intelligence Features\n\n |  |  |  |\n| \n\nEntity Detection\n\n![Image 90](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.08 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nTopic Detection\n\n![Image 91](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.15 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nKey Phrases\n\n![Image 92](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.01 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nPII Audio Redaction\n\n\n\n | Included in free credits\n\n | $0.05 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nPII Redaction\n\n![Image 93](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.08 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nSentiment Analysis\n\n![Image 94](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.02 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nContent Moderation\n\n![Image 95](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.15 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nAuto Chapters\n\n![Image 96](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.08 /hr\n\n | Lower rates based on volume\n\n |\n| \n\nSummarization\n\n![Image 97](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d155bd212f97b00894825a_info-circle.svg)\n\n\n\n\n\n | Included in free credits\n\n | $0.03 /hr\n\n | Lower rates based on volume\n\n |\n\n|  | \nFree\n\n[Start for free](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nPay as you go\n\n[Build your plan](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nCustom\n\n[Talk to us](https://www.assemblyai.com/contact/sales)\n\n\n\n |\n| --- | --- | --- | --- |\n| \n\nHours of audio\n\n\n\n | Up to 416 hours\n\n | Unlimited\n\n | Unlimited\n\n |\n| \n\nPre-recorded concurrency\n\n\n\n | 5 files\n\n | Starting at 200 files\n\n | Talk to us\n\n |\n| \n\nStreaming concurrency\n\n\n\n | ![Image 98](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | Starting at 100 streams\n\n | Talk to us\n\n |\n\n|  | \nFree\n\n[Start for free](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nPay as you go\n\n[Build your plan](https://www.assemblyai.com/dashboard/signup)\n\n\n\n | \n\nCustom\n\n[Talk to us](https://www.assemblyai.com/contact/sales)\n\n\n\n |\n| --- | --- | --- | --- |\n| \n\nGDPR\n\n\n\n | ![Image 99](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 100](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 101](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nPCI-DSS\n\n\n\n | ![Image 102](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 103](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 104](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nSOC 2 Type 1/Type 2\n\n\n\n | ![Image 105](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 106](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 107](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nEU Data Residency\n\n\n\n | ![Image 108](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 109](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 110](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nISO 27001\n\n\n\n | ![Image 111](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 112](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 113](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n| \n\nBAA for HIPAA Compliance\n\n\n\n | ![Image 114](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a64cc18d55b31eb5e82_x-close.svg) | ![Image 115](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) | ![Image 116](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d15a6434a3905e96de88a2_check.svg) |\n\nWhat are the differences between Speech-to-Text tiers?\n\n![Image 117](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nAssemblyAI\u2019s Best tier is our most robust and accurate offering, houses our most powerful models, and has the broadest range of capabilities. The Best tier is suited for use cases where accuracy and power are paramount. AssemblyAI\u2019s Nano tier is a fast, lightweight offering that gives product and development teams access to Speech AI at an attainable price point across 99 languages. It is best for teams with extensive language needs, and those who are looking for a low-cost Speech AI option.\n\nCan I sign up for free?\n\n![Image 118](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nYes! With the free offer, you get $50 in credits to use towards AssemblyAI\u2019s Speech-to-Text APIs. To add more credits and gain access to Streaming and LeMUR, simply add a credit card to your account.\n\nDo you offer volume discounts?\n\n![Image 119](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nAbsolutely! If you plan to send large volumes of audio and video content through our API, please reach out to us [here](https://www.assemblyai.com/contact/sales) to see if you qualify for a volume discount.\n\nHow fast does it take for audio and video files to process?\n\n![Image 120](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nMost audio files sent to AssemblyAI's API can be processed in less than 60 seconds.\n\nHow does billing work?\n\n![Image 121](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nGreat question. Once you add a credit card and deposit funds into your account, your account's funds will be drained as you use the API.\n\nHow is multichannel billed?\n\n![Image 122](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nWhen multichannel is enabled, each channel will be transcribed and billed separately. The total cost is calculated by taking the hourly transcription rate (billed per second) and multiplying it by the number of channels. To calculate your total cost, simply multiply your recording's duration by the hourly rate, then multiply that result by the number of channels.\n\nFor example, if you sent a 5-minute recording with three channels, you would be billed for the 5 minutes of audio multiplied by the standard rate, with that total multiplied by three channels. This is equivalent to being billed for 15 minutes of audio.\n\nCan I purchase or use AssemblyAI through the AWS Marketplace?\n\n![Image 123](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nYou can also get started with [AssemblyAI on the AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-j45hta6jdej7c)\u2014or ask your AWS account team about how to leverage AssemblyAI to revolutionize the way your company understands its customers.\n\nHow can I talk to someone?\n\n![Image 124](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nFeel free to email us at [support@assemblyai.com](mailto:support@assemblyai.com), or click the chat button in the bottom right corner of your browser to chat live with our API Support team!\n\nWhat languages do you support?\n\n![Image 125](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nWe support over 99 languages and counting, including Global English (English and all of its accents).\n\nWhat is a token?\n\n![Image 126](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67d184b7023382187a79966b_chevron-up.svg)\n\nIn the context of a Large Language Model (LLM), a \u201ctoken\u201d is the smallest unit of text processed by the model. 100 tokens roughly maps to ~75 words.\n\nTurn voice data into unparalleled product experiences\n-----------------------------------------------------\n\nPartner with the leader in Speech AI to build powerful products with breakthrough industry impact.\n\n![Image 127](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67b6012d75b9fd772c9c26fe_home-cta-image.svg)\n\n![Image 128](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67e124c2e653ef1ce8ed34ea_shapes.svg)![Image 129](https://cdn.prod.website-files.com/67a08d9d7d19f8fb63692894/67a620d7981ab6847d8dc80c_Noise%20Texture.webp)\n\nFind AssemblyAI pricing information. Explore pay-as-you-go pricing by product. Try our API for free or contact sales about a custom plan.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "assemblyai",
+        "app_name": "AssemblyAI",
+        "app_slug": "assemblyai",
+        "pricing_url": "https://www.assemblyai.com/pricing",
+        "source_url": "https://www.assemblyai.com/pricing",
+        "all_pricing_urls": [
+          "https://www.assemblyai.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "AssemblyAI offers a free tier with $50 in credits and usage-based pricing for additional services. Custom plans are available for large-scale usage.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "For developers looking to prototype with Speech AI",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Access to industry-leading Speech-to-Text and Audio Intelligence models",
+              "Speech recognition",
+              "Speaker diarization",
+              "Custom spelling and vocabulary",
+              "Profanity filtering, auto punctuation and casing",
+              "Transcribe up to 416 hours of prerecorded audio for free",
+              "Developer docs and community resources"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Hours of audio",
+                  "value": "Up to 416 hours"
+                },
+                {
+                  "name": "Pre-recorded concurrency",
+                  "value": "5 files"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pay as you go",
+            "tier_description": "For teams ready to integrate Speech AI into their products",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited access to Speech-to-Text, Audio Intelligence, and LeMUR",
+              "Streaming Speech-to-Text",
+              "Concurrency starting at 200 files and 100 streams",
+              "Technical support via live chat and email"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Hours of audio",
+                  "value": "Unlimited"
+                },
+                {
+                  "name": "Pre-recorded concurrency",
+                  "value": "Starting at 200 files"
+                },
+                {
+                  "name": "Streaming concurrency",
+                  "value": "Starting at 100 streams"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Custom",
+            "tier_description": "For teams and organizations building AI products at scale",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Flexible, zero-obligation pricing that scales to millions of hours",
+              "Dedicated technical support with response time under one hour",
+              "Customize rate limits - scale to any workload",
+              "Customized SLAs and SLOs",
+              "BAA for HIPAA Compliance",
+              "Compliance with EU Data Residency standards",
+              "Self-hosted deployments (On-prem, VPC) (Coming soon!)",
+              "Early access to new models and model improvements",
+              "Available through AWS Marketplace"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Hours of audio",
+                  "value": "Unlimited"
+                },
+                {
+                  "name": "Pre-recorded concurrency",
+                  "value": "Talk to us"
+                },
+                {
+                  "name": "Streaming concurrency",
+                  "value": "Talk to us"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Speech-to-Text",
+            "unit": "per hour",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.12
+              }
+            ]
+          },
+          {
+            "metric_name": "Audio Intelligence Features",
+            "unit": "per hour",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.08
+              },
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.15
+              },
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.01
+              },
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.05
+              },
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.08
+              },
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.02
+              },
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.15
+              },
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.08
+              },
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.03
+              }
+            ]
+          },
+          {
+            "metric_name": "LeMUR Models",
+            "unit": "per 1k tokens",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.003
+              },
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.015
+              },
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.00025
+              },
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 0.00125
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": true,
+          "input_token_price": 0.003,
+          "output_token_price": 0.015,
+          "models_pricing": [
+            {
+              "model_name": "Claude 3.5 Sonnet",
+              "input_price": 0.003,
+              "output_price": 0.015,
+              "unit": "per 1k tokens"
+            },
+            {
+              "model_name": "Claude 3 Opus",
+              "input_price": 0.015,
+              "output_price": 0.075,
+              "unit": "per 1k tokens"
+            },
+            {
+              "model_name": "Claude 3 Haiku",
+              "input_price": 0.00025,
+              "output_price": 0.00125,
+              "unit": "per 1k tokens"
+            }
+          ],
+          "has_inference_pricing": null,
+          "has_fine_tuning_pricing": null,
+          "has_training_pricing": null,
+          "ai_addon_available": null
+        },
+        "promotional_offers": [
+          {
+            "offer_name": "Free Tier Credits",
+            "offer_description": "$50 in credits for free tier users",
+            "discount_percentage": null,
+            "offer_url": "https://www.assemblyai.com/dashboard/signup",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T08:47:53.138213",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\assemblyai\\20250415_084753"
+}

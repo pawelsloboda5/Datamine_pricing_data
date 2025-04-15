@@ -1,0 +1,213 @@
+{
+  "app_id": "servicem8",
+  "app_name": "ServiceM8",
+  "app_slug": "servicem8",
+  "pricing_url": "https://www.servicem8.com/us/pricing",
+  "source_url": "https://www.servicem8.com/us/pricing",
+  "all_pricing_urls": [
+    "https://www.servicem8.com/us/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and multiple subscription options with varying features and limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic plan with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Essential Features",
+        "AI Smart Helpers",
+        "Recurring Jobs",
+        "Deposits",
+        "Purchased Forms"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": 30,
+        "api_calls": 10,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "For small teams with basic needs.",
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Essential Features",
+        "AI Smart Helpers",
+        "Recurring Jobs",
+        "Deposits",
+        "Partial/Progress Invoices",
+        "Supplier Invoice Importing",
+        "Purchased Forms"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 50,
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Growing",
+      "tier_description": "For growing businesses.",
+      "monthly_price": 79.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Essential Features",
+        "AI Smart Helpers",
+        "Recurring Jobs",
+        "Deposits",
+        "Partial/Progress Invoices",
+        "Supplier Invoice Importing",
+        "Purchased Forms",
+        "Asset Management",
+        "Forms & Certificates",
+        "Proposals",
+        "Bundles",
+        "ServiceM8 Inbox"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 150,
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "For established businesses.",
+      "monthly_price": 149.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Essential Features",
+        "AI Smart Helpers",
+        "Recurring Jobs",
+        "Deposits",
+        "Partial/Progress Invoices",
+        "Supplier Invoice Importing",
+        "Purchased Forms",
+        "Asset Management",
+        "Forms & Certificates",
+        "Proposals",
+        "Bundles",
+        "ServiceM8 Inbox",
+        "Job Costing",
+        "Markup Billing",
+        "Knowledge"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 500,
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium Plus",
+      "tier_description": "For large businesses.",
+      "monthly_price": 349.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Essential Features",
+        "AI Smart Helpers",
+        "Recurring Jobs",
+        "Deposits",
+        "Partial/Progress Invoices",
+        "Supplier Invoice Importing",
+        "Purchased Forms",
+        "Asset Management",
+        "Forms & Certificates",
+        "Proposals",
+        "Bundles",
+        "ServiceM8 Inbox",
+        "Job Costing",
+        "Markup Billing",
+        "Knowledge"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "1500+",
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": null,
+    "has_fine_tuning_pricing": null,
+    "has_training_pricing": null,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Text Messaging",
+      "fee_amount": 0.1,
+      "fee_description": "Cost per SMS for the Free plan."
+    },
+    {
+      "fee_name": "Additional Jobs",
+      "fee_amount": 0.2,
+      "fee_description": "Cost per additional job for the Premium Plus plan."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:02:18.290784",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "def923a9-8203-41cb-938c-8ce1d19c295c",
+    "name": "ServiceM8",
+    "slug": "servicem8",
+    "description": "ServiceM8 is a field service app and small business management platform for your computer, iPhone and iPad. Track staff locations, navigate to jobs, and control your estimates, invoicing, scheduling, safety reports, clients & more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/b7b0a12ee5cb3bee578523f4afd2ab9e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 4
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "app_id": "trello",
+  "app_name": "Trello",
+  "app_slug": "trello",
+  "pricing_url": "https://trello.com/pricing",
+  "source_url": "https://trello.com/pricing",
+  "all_pricing_urls": [
+    "https://trello.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user per month, with discounts for annual billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free for up to 10 collaborators per Workspace.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Capture your to-dos, get organized, and get sh*t done.",
+        "Up to 10 collaborators per Workspace"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Get more stuff done with unlimited boards, card mirroring, and more automation.",
+      "monthly_price": 6.0,
+      "annual_price": 60.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited boards",
+        "Planner",
+        "Advanced checklists",
+        "Card mirroring",
+        "Custom Fields",
+        "Unlimited storage (250MB/file)",
+        "1,000 Workspace command runs per month",
+        "Single board guests",
+        "Saved searches"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 1000,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Add AI to your boards and admin controls to your toolkit. Plus, get more perspective with views.",
+      "monthly_price": 12.5,
+      "annual_price": 120.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Atlassian Intelligence (AI)",
+        "Views: Calendar, Timeline, Table, Dashboard, and Map",
+        "Workspace views: Table and Calendar",
+        "Unlimited Workspace command runs",
+        "Admin and security features",
+        "Workspace-level templates",
+        "Collections",
+        "Observers",
+        "Simple data export"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Add enterprise-grade security and controls. This plan includes Atlassian Guard Standard and 24/7 Enterprise Admin support.",
+      "monthly_price": 17.5,
+      "annual_price": 210.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Workspaces",
+        "Organization-wide permissions",
+        "Organization-visible boards",
+        "Public board management",
+        "Multi-board guests",
+        "Attachment permissions",
+        "Power-Up administration",
+        "Free SSO and user provisioning with Atlassian Guard"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Atlassian Guard",
+      "fee_amount": 4.0,
+      "fee_description": "Separate subscription for SAML single sign-on and enforced 2FA."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:14:11.462930",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b9df4eff-f311-44f9-ac54-2901f952c6ac",
+    "name": "Trello",
+    "slug": "trello",
+    "description": "Trello is a team collaboration tool that lets you organize anything and everything to keep your projects on task.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/da3ff465abd3a3e1b687c52ff803af74.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 31,
+    "trigger_count": 13
+  }
+}

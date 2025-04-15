@@ -1,0 +1,47 @@
+{
+  "app_id": "telegram",
+  "app_name": "Telegram",
+  "app_slug": "telegram",
+  "pricing_url": null,
+  "source_url": "https://core.telegram.org/premium",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Telegram offers its core messaging services for free. No detailed pricing information for additional services or tiers is provided in the content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:36:47.443363",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "933881c0-5d42-42b9-b135-5cb0699e10e6",
+    "name": "Telegram",
+    "slug": "telegram",
+    "description": "Telegram is a cloud-based instant messaging and voice over IP service developed by Telegram Messenger LLP.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/279dfee5aebe5a046e4544a04c777988_10.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS",
+      "Team Chat"
+    ],
+    "category_slugs": [
+      "phone",
+      "team-chat"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "app_id": "odoo_erp_self_hosted",
+  "app_name": "Odoo ERP Self Hosted",
+  "app_slug": "odoo-erp-self-hosted",
+  "pricing_url": "https://www.odoo.com/pricing",
+  "source_url": "https://www.odoo.com/pricing",
+  "all_pricing_urls": [
+    "https://www.odoo.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing includes options for free usage of one app, and subscription plans for multiple apps with additional features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "One App Free",
+      "tier_description": "Free usage for one app with unlimited users.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "One app only",
+        "Unlimited users",
+        "Odoo Online"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Access to all apps with a per-user fee.",
+      "monthly_price": 31.1,
+      "annual_price": 24.9,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All apps",
+        "Odoo Online"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Includes all apps with additional features for custom development.",
+      "monthly_price": 46.7,
+      "annual_price": 37.4,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All apps",
+        "Odoo Online / Odoo.sh / On-premise",
+        "Odoo Studio",
+        "Multi-Company",
+        "External API"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Odoo.sh Hosting",
+      "fee_amount": null,
+      "fee_description": "Cost for hosting on Odoo.sh is not included in the subscription."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:40:50.328714",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b2cfff3f-b689-46b5-a6c6-238537c91a48",
+    "name": "Odoo ERP Self Hosted",
+    "slug": "openerp",
+    "description": "Odoo ERP Self Hosted (formerly known as OpenERP) is a powerful open source platform with dozens of apps to help you grow your business. Available apps range from CRM to eCommerce, and from accounting to manufacturing and project management. This Odoo ERP Self Hosted integration works with all of Odoo ERP's products. It works with instances that are self-hosted.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/714c4c70487f63bb10b34332095b04b1_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 9
+  }
+}

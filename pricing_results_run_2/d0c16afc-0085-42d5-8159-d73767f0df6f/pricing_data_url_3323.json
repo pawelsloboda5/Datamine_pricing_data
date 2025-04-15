@@ -1,0 +1,232 @@
+{
+  "app_id": "gymmaster",
+  "app_name": "GymMaster",
+  "app_slug": "gymmaster",
+  "pricing_url": "https://www.gymmaster.com/pricing",
+  "source_url": "https://www.gymmaster.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.gymmaster.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual subscriptions offer a 10% discount. Hardware and branded options are available at additional costs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Foundation",
+      "tier_description": null,
+      "monthly_price": 89.0,
+      "annual_price": null,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "100 current members",
+        "Management of bookings, classes & club resources",
+        "Automated billing & integrated payment processing",
+        "Mobile member app (iOS & Android)",
+        "Online sign-ups",
+        "Automated email & push notifications",
+        "Comprehensive, flexible reporting in real-time",
+        "Point of sale & inventory management",
+        "Seamless website integration",
+        "Invoicing",
+        "Marketing tools"
+      ],
+      "limits": {
+        "users": 100,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": null,
+      "monthly_price": 129.0,
+      "annual_price": null,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "400 current members",
+        "Management of bookings, classes & club resources",
+        "Automated billing & integrated payment processing",
+        "Mobile member app (iOS & Android)",
+        "Online sign-ups",
+        "Automated email & push notifications",
+        "Comprehensive, flexible reporting in real-time",
+        "Point of sale & inventory management",
+        "Seamless website integration",
+        "Invoicing",
+        "Marketing tools",
+        "Advanced member retention tools"
+      ],
+      "limits": {
+        "users": 400,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": null,
+      "monthly_price": 209.0,
+      "annual_price": null,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "1300 current members",
+        "Management of bookings, classes & club resources",
+        "Automated billing & integrated payment processing",
+        "Mobile member app (iOS & Android)",
+        "Online sign-ups",
+        "Automated email & push notifications",
+        "Comprehensive, flexible reporting in real-time",
+        "Point of sale & inventory management",
+        "Seamless website integration",
+        "Invoicing",
+        "Marketing tools",
+        "Advanced member retention tools",
+        "Automated tasks & events",
+        "Staff time sheet tracking"
+      ],
+      "limits": {
+        "users": 1300,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited current members",
+        "Management of bookings, classes & club resources",
+        "Automated billing & integrated payment processing",
+        "Mobile member app (iOS & Android)",
+        "Online sign-ups",
+        "Automated email & push notifications",
+        "Comprehensive, flexible reporting in real-time",
+        "Point of sale & inventory management",
+        "Seamless website integration",
+        "Invoicing",
+        "Marketing tools",
+        "Advanced member retention tools",
+        "Automated tasks & events",
+        "Staff time sheet tracking",
+        "Integrations with third-party systems",
+        "Franchise reporting",
+        "Paid customization",
+        "Dedicated hosting options",
+        "SLA agreements & RFP"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "RFID / key fobs",
+      "fee_amount": 1.3,
+      "fee_description": "Price per unit"
+    },
+    {
+      "fee_name": "Gatekeeper",
+      "fee_amount": 440.0,
+      "fee_description": "Price for the gatekeeper hardware"
+    },
+    {
+      "fee_name": "Tailgating System",
+      "fee_amount": 900.0,
+      "fee_description": "Price for 2x cameras + shipping"
+    },
+    {
+      "fee_name": "Tailgating System Module Fee",
+      "fee_amount": 40.0,
+      "fee_description": "Monthly fee for the tailgating system module"
+    },
+    {
+      "fee_name": "Reception Reader (RFID + Bluetooth)",
+      "fee_amount": 130.0,
+      "fee_description": "Price for the reception reader hardware"
+    },
+    {
+      "fee_name": "Door Reader (RFID + Bluetooth)",
+      "fee_amount": 400.0,
+      "fee_description": "Price for the door reader hardware"
+    },
+    {
+      "fee_name": "Branded Bluetooth Reader",
+      "fee_amount": 700.0,
+      "fee_description": "Price for branded Bluetooth reader"
+    },
+    {
+      "fee_name": "Branded Member App",
+      "fee_amount": 150.0,
+      "fee_description": "Monthly fee for branded member app"
+    },
+    {
+      "fee_name": "Branded Member App Setup Fee",
+      "fee_amount": 450.0,
+      "fee_description": "Setup fee for branded member app"
+    },
+    {
+      "fee_name": "Branded Key Fobs",
+      "fee_amount": 1.3,
+      "fee_description": "Price per tag"
+    },
+    {
+      "fee_name": "Branded Key Fobs Bulk Fee",
+      "fee_amount": 170.0,
+      "fee_description": "Price per 500 tags"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:19:37.183310",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d0c16afc-0085-42d5-8159-d73767f0df6f",
+    "name": "GymMaster",
+    "slug": "gymmaster",
+    "description": "GymMaster is an advanced membership management system helping simplify business for thousands of fitness clubs around the world.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c92b9fc7328f192a43402556acbfa041.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 15
+  }
+}

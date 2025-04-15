@@ -1,0 +1,45 @@
+{
+  "app_id": "onedrive",
+  "app_name": "OneDrive",
+  "app_slug": "onedrive",
+  "pricing_url": null,
+  "source_url": "https://api.onedrive.com/v2.1/",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The provided content does not include pricing information.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:52:25.140062",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b341fa10-03a0-47e5-b9cd-ce6f69f653db",
+    "name": "OneDrive",
+    "slug": "onedrive",
+    "description": "OneDrive, Microsoft's file sync app formerly known as SkyDrive, lets you store your files online, edit Office documents in the free Office Web Apps, and easily access your online files from your PC.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/e67867e9f6f5c089e243dad54467ad33.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "File Management & Storage",
+      "Microsoft"
+    ],
+    "category_slugs": [
+      "files",
+      "microsoft"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 2
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "app_id": "resimpli_3_0",
+  "app_name": "REsimpli 3.0",
+  "app_slug": "resimpli-3-0",
+  "pricing_url": "https://resimpli.com/pricing",
+  "source_url": "https://resimpli.com/pricing/",
+  "all_pricing_urls": [
+    "https://resimpli.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers up to 29% discount.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Perfect for solopreneurs",
+      "monthly_price": 149.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free Skip Tracing",
+        "Free Cash Buyer Searches",
+        "Drip Campaign",
+        "Direct Mail",
+        "Call, Text and Email",
+        "List Stacking",
+        "Gmail Integration",
+        "KPI Dashboard",
+        "SEO Optimised Website",
+        "Driving For Dollars",
+        "E-signature"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "List Stacking",
+            "value": "20,000 records"
+          },
+          {
+            "name": "List Pulling",
+            "value": "5,000 records"
+          },
+          {
+            "name": "Free Monthly Cash Buyer Searches",
+            "value": 1
+          },
+          {
+            "name": "Free Monthly Skip Tracing Credits",
+            "value": "10,000 ($1,500/mo Value)"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For teams of 2-5 members",
+      "monthly_price": 299.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free Skip Tracing",
+        "Free Cash Buyer Searches",
+        "Drip Campaign",
+        "Direct Mail",
+        "Call, Text and Email",
+        "List Stacking",
+        "Gmail Integration",
+        "KPI Dashboard",
+        "SEO Optimised Website",
+        "Driving For Dollars",
+        "E-signature"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "List Stacking",
+            "value": "100,000 records"
+          },
+          {
+            "name": "List Pulling",
+            "value": "10,000 records"
+          },
+          {
+            "name": "Free Monthly Cash Buyer Searches",
+            "value": 3
+          },
+          {
+            "name": "Free Monthly Skip Tracing Credits",
+            "value": "20,000 ($3,000/mo Value)"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For larger teams of 5+ members",
+      "monthly_price": 599.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free Skip Tracing",
+        "Free Cash Buyer Searches",
+        "Drip Campaign",
+        "Direct Mail",
+        "Call, Text and Email",
+        "List Stacking",
+        "Gmail Integration",
+        "KPI Dashboard",
+        "SEO Optimised Website",
+        "Driving For Dollars",
+        "E-signature"
+      ],
+      "limits": {
+        "users": 15,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "List Stacking",
+            "value": "Unlimited records"
+          },
+          {
+            "name": "List Pulling",
+            "value": "20,000 records"
+          },
+          {
+            "name": "Free Monthly Cash Buyer Searches",
+            "value": 10
+          },
+          {
+            "name": "Free Monthly Skip Tracing Credits",
+            "value": "50,000 ($7,500/mo Value)"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:28:38.415457",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a69291a8-77c4-4277-93a3-7daa7c0c2a31",
+    "name": "REsimpli 3.0",
+    "slug": "resimpli-1",
+    "description": "REsimpli is simple real estate investment software that requires NO customization. It empowers you with real-time data to help you make better decisions which means higher net profit.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/0a6e595a5800b5361c777b67e7e7a727_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

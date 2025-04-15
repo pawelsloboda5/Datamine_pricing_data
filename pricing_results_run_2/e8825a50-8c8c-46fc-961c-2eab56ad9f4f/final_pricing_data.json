@@ -1,0 +1,43 @@
+{
+  "app_id": "runrun_it",
+  "app_name": "Runrun.it",
+  "app_slug": "runrun-it",
+  "pricing_url": null,
+  "source_url": "https://runrun.it/en-US/plans",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not accessible, and no details could be extracted.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:02:00.061537",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e8825a50-8c8c-46fc-961c-2eab56ad9f4f",
+    "name": "Runrun.it",
+    "slug": "runrunit",
+    "description": "Runrun.it is a solution for task, time, and performance management. Simple, powerful and tightly integrated.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/5ced435698973bf4e6d1d7d1ad71eebb.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 2
+  }
+}

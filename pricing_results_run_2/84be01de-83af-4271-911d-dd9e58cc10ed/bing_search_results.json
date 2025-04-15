@@ -1,0 +1,24 @@
+{
+  "app_name": "CloudSpot",
+  "app_slug": "cloudspot",
+  "search_term": "Find the official pricing page URL for CloudSpot (cloudspot.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744696506.5800116,
+  "response_text": [
+    "The official pricing page URL for CloudSpot is: [https://www.cloudspot.com/pricing](https://www.cloudspot.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "CloudSpot - Stable servers... in a click!",
+      "url": "https://www.cloudspot.com/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.cloudspot.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\cloudspot\\20250415_015514"
+}

@@ -1,0 +1,143 @@
+{
+  "app_id": "lawpay",
+  "app_name": "LawPay",
+  "app_slug": "lawpay",
+  "pricing_url": "https://www.lawpay.com/pricing/",
+  "source_url": "https://www.lawpay.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.lawpay.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "LawPay offers a simple subscription model with additional usage-based fees for transactions. Custom pricing is available for specific needs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Monthly subscription with transaction fees.",
+      "monthly_price": 19.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Trust account protection",
+        "IOLTA compliance",
+        "Unlimited users",
+        "PCI compliance",
+        "Debit, credit, and eCheck payment types",
+        "Custom reporting for reconciliation",
+        "Customizable website payment pages",
+        "All available software integrations",
+        "Unlimited support by phone",
+        "Billing and Invoicing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Custom pricing for special processing or technical requirements.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": null,
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Visa, MasterCard & Discover transactions",
+      "unit": "per transaction",
+      "base_price": 0.3,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 2.99
+        }
+      ]
+    },
+    {
+      "metric_name": "American Express transactions",
+      "unit": "per transaction",
+      "base_price": 0.3,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 3.9
+        }
+      ]
+    },
+    {
+      "metric_name": "eCheck transactions",
+      "unit": "per transaction",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 1.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Pay Later transactions",
+      "unit": "per transaction",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 4.95
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Card Brand Pass-Through Fees",
+      "fee_amount": null,
+      "fee_description": "Additional fees may apply depending on the card brand."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:29:40.436012",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ad4f8d53-59ee-4421-936f-08274719efa9",
+    "name": "LawPay",
+    "slug": "lawpay",
+    "description": "LawPay powers payments for the legal industry.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/474bd2b44f807731862185538de9d8c5.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 8,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "app_name": "Parsio",
+  "app_slug": "parsio",
+  "search_term": "Find the official pricing page URL for Parsio (parsio.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744700064.265195,
+  "response_text": [
+    "The official pricing page for Parsio can be found at: [https://parsio.io/pricing](https://parsio.io/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://parsio.io/pricing",
+      "is_accessible": true,
+      "content": "Pricing Plans.\n--------------\n\nSimple and transparent pricing. No surprise fees.\n\nMonthly Annually Save 17%\n\n#### Sandbox\n\n**30** credits\n\n/mo\n\nA free trial plan to test things out.\n\n[Sign Up](https://app.parsio.io/signup)\n\n*   **30** parsed emails, PDFs or documents\n*   **OCR**, **AI** and **GPT-powered** parsers\n*   **30 days** data retention\n*   Email signature parsing\n*   Unlimited mailboxes\n*   Sync with Google Sheets\n*   [Post-processing](https://help.parsio.io/post-processing/data-post-processing)\n\n#### Starter\n\n**1 000** credits / month\n\n/mo\n\nPerfect for individuals & small businesses.\n\n[Sign Up](https://app.parsio.io/signup)\n\n*   **1 000** parsed emails, PDFs or documents\n*   **OCR**, **AI** and **GPT-powered** parsers\n*   **90 days** data retention\n*   Unlimited integrations via [Zapier](https://help.parsio.io/data-export-integrations/zapier-integration-1) and [Make](https://help.parsio.io/data-export-integrations/make-integration)\n*   [Webhooks](https://help.parsio.io/data-export-integrations/send-data-to-webhook-1)\n*   [API](https://help.parsio.io/public-api/parsio-public-api)\n*   \\+ all Sandbox features\n\nMost Popular\n\n#### Growth\n\n**5 000** credits / month\n\n/mo\n\nIdeal for growing companies that need more credits.\n\n[Sign Up](https://app.parsio.io/signup)\n\n*   **5 000** parsed emails, PDFs or documents\n*   **OCR**, **AI** and **GPT-powered** parsers\n*   **90 days** data retention\n*   \\+ all Starter features\n\n#### Business\n\n**12 000** credits / month\n\n/mo\n\nA white-glove experience with dedicated support.\n\n[Sign Up](https://app.parsio.io/signup)\n\n*   **12 000** parsed emails, PDFs or documents\n*   **OCR**, **AI** and **GPT-powered** parsers\n*   **180 days** data retention\n*   **Dedicated support**\n*   \\+ all Growth features\n\n**\\*** Applicable taxes may apply\n\nHave questions?\n---------------\n\n#### What is a credit?\n\nYour Parsio account is credited every month with a number of credits according to your subscription. A credit is used when you parse an email or a document **for the first time**. 1 parsed document or PDF page equals 1, 2, or 5 credits, depending on the parser type (template-based, OCR, AI, or GPT-powered).\n\n#### Do you offer a free trial?\n\nYes! Our Sandbox plan includes enough credits to test all three parsers: template-based, AI, and GPT-powered. All features are included in the free plan, allowing you to fully test Parsio before committing to a paid subscription.\n\n#### What happens to unused credits at the end of the billing period?\n\nUnused credits expire at the end of each billing period. To make the most of your subscription, it is important to use all of your allotted credits before the end of your current billing period.\n\n#### Do you offer discounts?\n\nYes. When you pay for a year up front, you can enjoy a **~17% discount**. At this time, we do not have any other promotions, campaigns, offers, or discounts available, including during Black Friday.\n\n#### What happens once I have used all my credits?\n\nYour Parsio account can still receive emails, but they won't be parsed until the next billing period. Alternatively, you can upgrade your subscription to credit your account. You can also re-process any previously parsed emails & documents.\n\n#### Can I change my subscription?\n\nOur flexible subscription plans allow you to upgrade, downgrade or cancel your subscription at any time. Upgrades take effect immediately, while downgrades are scheduled for the end of your current billing cycle, so you can fully utilize your subscription. Cancellation is also possible at any time.\n\n#### What payment types do you accept?\n\nWe accept all major credit cards, including MasterCard, Visa, American Express, Diners, and JCB. We do not accept cryptocurrency, PayPal or bank transfers.\n\n#### How do I know it's safe to link my bank card?\n\nParsio never stores your bank card information. Your payment card details are encrypted and safely stored by [Stripe](https://stripe.com/docs/security/stripe).\n\n#### Can I get a refund?\n\nWe generally offer very limited refunds because you can test all the features using our Free plan before becoming a paid member. However, if you are unsatisfied with our services, please email us at [support@parsio.io](mailto:support@parsio.io).\n\n#### Can I get an invoice?\n\nYes, you can view and download your invoices from your Account \\> [Invoices & Usage](https://app.parsio.io/invoices) page.\n\n#### Do you offer high-volume plans?\n\nYes! Email us at [support@parsio.io](mailto:support@parsio.io) to discuss our high-volume pricing.\n\n#### I have another question.\n\nUse the chat box in the bottom right corner of this page or email us at [support@parsio.io](mailto:support@parsio.io).\n\nExtract data from emails, PDF, and documents. Export it to your Google Sheets, database, CRM, webhook and 6000+ apps.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "parsio",
+        "app_name": "Parsio",
+        "app_slug": "parsio",
+        "pricing_url": "https://app.parsio.io/signup",
+        "source_url": "https://app.parsio.io/signup",
+        "all_pricing_urls": [
+          "https://app.parsio.io/signup"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Annual plans offer a 17% discount. Credits are used for parsing documents and expire at the end of the billing period.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Sandbox",
+            "tier_description": "A free trial plan to test things out.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "30 parsed emails, PDFs or documents",
+              "OCR, AI and GPT-powered parsers",
+              "30 days data retention",
+              "Email signature parsing",
+              "Unlimited mailboxes",
+              "Sync with Google Sheets",
+              "Post-processing"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 30,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Starter",
+            "tier_description": "Perfect for individuals & small businesses.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": 17.0,
+            "setup_fee": null,
+            "features": [
+              "1,000 parsed emails, PDFs or documents",
+              "OCR, AI and GPT-powered parsers",
+              "90 days data retention",
+              "Unlimited integrations via Zapier and Make",
+              "Webhooks",
+              "API",
+              "All Sandbox features"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 1000,
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Growth",
+            "tier_description": "Ideal for growing companies that need more credits.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": 17.0,
+            "setup_fee": null,
+            "features": [
+              "5,000 parsed emails, PDFs or documents",
+              "OCR, AI and GPT-powered parsers",
+              "90 days data retention",
+              "All Starter features"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 5000,
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "A white-glove experience with dedicated support.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": 17.0,
+            "setup_fee": null,
+            "features": [
+              "12,000 parsed emails, PDFs or documents",
+              "OCR, AI and GPT-powered parsers",
+              "180 days data retention",
+              "Dedicated support",
+              "All Growth features"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 12000,
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Credits",
+            "unit": "per document or page",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": 1.0,
+                "price": null
+              },
+              {
+                "min": 2.0,
+                "max": 2.0,
+                "price": null
+              },
+              {
+                "min": 5.0,
+                "max": 5.0,
+                "price": null
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": true,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": false
+        },
+        "promotional_offers": [
+          {
+            "offer_name": "Annual Discount",
+            "offer_description": "Save 17% when paying annually.",
+            "discount_percentage": 17.0,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": [
+          {
+            "fee_name": "Applicable Taxes",
+            "fee_amount": null,
+            "fee_description": "Taxes may apply depending on location."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T02:54:38.914679",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\parsio\\20250415_025439"
+}

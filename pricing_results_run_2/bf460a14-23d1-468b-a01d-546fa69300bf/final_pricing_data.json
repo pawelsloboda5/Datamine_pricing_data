@@ -1,0 +1,181 @@
+{
+  "app_id": "trengo",
+  "app_name": "Trengo",
+  "app_slug": "trengo",
+  "pricing_url": "https://trengo.com/pricing",
+  "source_url": "https://trengo.com/pricing",
+  "all_pricing_urls": [
+    "https://trengo.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription plans with additional usage-based fees for conversations and AI features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Boost",
+      "tier_description": "Make teamwork more efficient and optimise your customer experience.",
+      "monthly_price": 149.0,
+      "annual_price": 1428.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Basic integrations",
+        "White labeling",
+        "Reporting",
+        "Rules and automations",
+        "Trengo messaging support"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Conversations per year",
+            "value": 3600
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Customise your platform and automate your conversations.",
+      "monthly_price": 249.0,
+      "annual_price": 2388.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All integrations",
+        "Workload balancing",
+        "Mandatory Two-Factor Authentication (2FA)",
+        "Trengo live chat support",
+        "Trengo phone support"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Conversations per year",
+            "value": 12000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Tailor your platform to your current and future business needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Brand whitelabel",
+        "Tailored integrations",
+        "Premium support",
+        "Custom amount of users",
+        "Omnichannel inbox",
+        "All communication channels (excl. Voice)",
+        "Web Widget",
+        "Support on any channel"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Conversations per year",
+            "value": "custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Conversations",
+      "unit": "per 100 conversations",
+      "base_price": 15.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 100.0,
+          "price": 15.0
+        }
+      ]
+    },
+    {
+      "metric_name": "AI surcharge per conversation",
+      "unit": "per conversation",
+      "base_price": 0.25,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 0.25
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": true,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Additional users",
+      "fee_amount": 25.0,
+      "fee_description": "Unlimited additional users at \u20ac25 per user."
+    },
+    {
+      "fee_name": "Additional conversations",
+      "fee_amount": 15.0,
+      "fee_description": "\u20ac15 per additional 100 conversations."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:19:42.221818",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bf460a14-23d1-468b-a01d-546fa69300bf",
+    "name": "Trengo",
+    "slug": "trengo",
+    "description": "Trengo is a team collaboration tool to manage conversations from channels such as web chat, email and WhatsApp via one inbox.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/ef0f08bd8234544dceb7a357ce1f1f18.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 6
+  }
+}

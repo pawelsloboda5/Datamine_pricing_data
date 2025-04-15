@@ -1,0 +1,68 @@
+{
+  "app_id": "microsoft_to_do",
+  "app_name": "Microsoft To Do",
+  "app_slug": "microsoft-to-do",
+  "pricing_url": null,
+  "source_url": "https://support.microsoft.com/en-us/office/which-accounts-can-i-use-microsoft-to-do-with-88effe20-db71-43d6-88b4-6c1595f2e62f\u30103:1\u2020source\u3011.",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Microsoft To Do is available for free as part of the Microsoft ecosystem.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic access to Microsoft To Do features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Task management",
+        "Integration with Microsoft 365"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:27:00.128875",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6fa0ead1-ec71-41a2-bc28-4b4395b469f8",
+    "name": "Microsoft To Do",
+    "slug": "microsoft-todo",
+    "description": "Microsoft To Do is an intelligent task management app that makes it easy to plan and manage your day. With its intelligent Suggestions, To Do removes all the clutter and empowers you to focus on what's important, when it's important.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/3588dbd8934cefe869f0db3727208374.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Microsoft",
+      "Project Management"
+    ],
+    "category_slugs": [
+      "microsoft",
+      "todo-lists"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 3
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "app_name": "Hilos",
+  "app_slug": "hilos",
+  "search_term": "Find the official pricing page URL for Hilos (hilos.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744721911.4477983,
+  "response_text": [
+    "The official pricing page URL for Hilos is https://www.hilos.com/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.hilos.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\hilos\\20250415_085836"
+}

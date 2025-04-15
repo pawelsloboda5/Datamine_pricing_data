@@ -1,0 +1,199 @@
+{
+  "app_id": "cliengo",
+  "app_name": "Cliengo",
+  "app_slug": "cliengo",
+  "pricing_url": "https://pricing.cliengo.com/",
+  "source_url": "https://pricing.cliengo.com/",
+  "all_pricing_urls": [
+    "https://pricing.cliengo.com/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The Corporate tier requires direct contact for pricing and includes custom integrations.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lite",
+      "tier_description": null,
+      "monthly_price": 12.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Inbox de Integraci\u00f3n Multicanal",
+        "Access for 1 agent/operator",
+        "3000 monthly messages",
+        "Limited AI Copilot assistant"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly Messages",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": null,
+      "monthly_price": 45.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Inbox de Integraci\u00f3n Multicanal",
+        "Access for 2 agents/operators",
+        "3 programmable chatbots",
+        "500 automatic conversations",
+        "Flow assignment to each agent",
+        "Conversation and client tagging",
+        "Limited AI Copilot assistant",
+        "Google Ads integration"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Automatic Conversations",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": null,
+      "monthly_price": 119.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Inbox de Integraci\u00f3n Multicanal",
+        "Access for 3 agents/operators",
+        "10 AI chatbots",
+        "2000 AI conversations",
+        "Flow assignment to each agent",
+        "Conversation and client tagging",
+        "AI Copilot assistant for all conversations",
+        "Google Ads integration"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "AI Conversations",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": null,
+      "monthly_price": 259.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Inbox de Integraci\u00f3n Multicanal",
+        "Access for 5 agents/operators",
+        "20 AI chatbots",
+        "4000 AI conversations",
+        "Flow assignment to each agent",
+        "Conversation and client tagging",
+        "AI Copilot assistant for all conversations",
+        "WhatsApp API integration",
+        "Outgoing message sending (HSM)",
+        "Google Ads integration"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "AI Conversations",
+            "value": 4000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Corporate",
+      "tier_description": "Custom pricing and features for large enterprises.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes all Business features",
+        "Custom automation and integration quotes",
+        "Dedicated Success Manager",
+        "+5000 Conversations",
+        "15 included agents"
+      ],
+      "limits": {
+        "users": 15,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Conversations",
+            "value": 5000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:18:00.842633",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "97ab021a-0318-4584-91aa-27d18b2b8f67",
+    "name": "Cliengo",
+    "slug": "cliengo",
+    "description": "Cliengo is a Chatbot that converts your visitors into leads, automatically 24/7.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/0a20ebf5a59f79691c3388ed99a11d86.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Contact Management"
+    ],
+    "category_slugs": [
+      "contacts"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 1
+  }
+}

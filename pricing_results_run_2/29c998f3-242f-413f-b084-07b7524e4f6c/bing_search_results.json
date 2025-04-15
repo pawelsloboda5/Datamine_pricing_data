@@ -1,0 +1,12 @@
+{
+  "app_name": "Eventix",
+  "app_slug": "eventix",
+  "search_term": "Find the official pricing page URL for Eventix (eventix.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744694719.7697537,
+  "response_text": [
+    "I couldn't locate the exact pricing page for Eventix on their website during my search. It appears they do not have a readily accessible or dedicated page for pricing. You might want to contact them directly via their site for details. Let me know if you need assistance connecting with them!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\eventix\\20250415_012520"
+}

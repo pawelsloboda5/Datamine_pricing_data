@@ -1,0 +1,12 @@
+{
+  "app_name": "Sakari SMS",
+  "app_slug": "sakari-sms",
+  "search_term": "Find the official pricing page URL for Sakari SMS (sakari-sms.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744690747.8723204,
+  "response_text": [
+    "I couldn't find the exact URL to the pricing page on the Sakari SMS website. You may need to check there directly or contact their support for assistance."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\sakari-sms\\20250415_001909"
+}

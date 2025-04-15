@@ -1,0 +1,141 @@
+{
+  "app_name": "Inoreader",
+  "app_slug": "inoreader",
+  "search_term": "Find the official pricing page URL for Inoreader (inoreader.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744693416.1024528,
+  "response_text": [
+    "The official pricing page for Inoreader is [https://www.inoreader.com/pricing](https://www.inoreader.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Inoreader",
+      "url": "https://www.inoreader.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.inoreader.com/pricing",
+      "is_accessible": true,
+      "content": "[](https://www.inoreader.com/)\n\n##### Free\n\nGreat for beginners. Follow RSS feeds, search in your articles, get Google News alerts, and customize your view.\n\n**Free forever**\n\nNo credit card required\n\nMOST POPULAR\n\n##### Pro (21 )\n\nCreate monitoring feeds, apply filters and rules, and subscribe to newsletters. Follow social media feeds and websites without RSS.\n\n**$7.50**/month\n\nBilled annually, or $9.99 billed monthly\n\n##### Custom\n\nBuild a plan that suits your needs with our special add-ons (Web feeds, monitoring feeds, boosted feeds, and other features) and access our API.\n\nFlexible payment options\n\n### Compare features\n\n#### Discover content\n\nGet the best from the web in a single place\n\n##### Free\n\n##### Pro\n\nRSS feeds /subscriptions\n\n150\n\n2500\n\nFollow websites with publicly available RSS feeds.\n\nWeb feeds & Track changes /webfeeds\n\n20\n\nFollow websites without RSS and monitor visual or textual changes like price fluctuations.\n\nSaved web pages /save\\_pages\n\nCollect pages from across the web and keep them to consume later.\n\nNewsletter feeds /newsletters\n\n20\n\nDeclutter your inbox by getting your newsletters as regular feeds in Inoreader.\n\nPassword-protected feeds /auth\\_feeds\n\nFollow RSS feeds from private systems that require Basic or Digest HTTP authentication.\n\nFeatured collections /featured\\_collections\n\nExplore collections on different topics and find the best sources curated by our team.\n\nTrending articles /trending\\_articles\n\nSee what's currently trending among other Inoreader users (daily and weekly).\n\nBluesky feeds /bluesky\\_feeds\n\n30\n\nFollow searches, accounts, lists, and feeds to keep up with the latest discussions.\n\nYouTube sync /youtube\\_subscriptions\\_sync\n\nSync your YouTube subscriptions with Inoreader to get all the content you follow in one place.\n\nGoogle News alerts /google\\_news\n\nFollow Google News searches for keywords and topic updates in different languages.\n\nMonitoring feeds /active\\_search\n\n30\n\nStay in the know by keeping track of people, brands, companies, emerging trends, and events.\n\nGlobal search /global\\_search\n\nDiscover articles not only in your feeds but within all publicly available sources in Inoreader.\n\nSearch in feeds /search\n\nSearch for articles previously collected by your feeds.\n\nSearch by language /search\\_languages\n\nSearch for articles and feeds in 30 languages.\n\nPush notifications /push\\_notifications\\_alerts\n\nReceive mobile push notifications for important updates based on your own preferences.\n\nBoosted feeds /boosted\\_feeds\n\n100\n\nGet new articles from selected feeds faster with the increased refresh interval option.\n\n#### Inoreader Intelligence\n\nSupercharge content discovery with the power of Generative AI\n\n##### Free\n\n##### Pro\n\nArticle summaries /intelligence\n\nSave time and summarize articles by selecting a prompt or asking a question.\n\n#### Organize & consume\n\nFilter out the noise and enjoy content your way\n\n##### Free\n\n##### Pro\n\nRules /rules\n\n30\n\nExecute actions based on article properties. Assign tags, send push notifications, and much more.\n\nContent filters /filters\n\n30\n\nRemove or allow articles to appear based on conditions defined by you.\n\nDuplicate filters /duplicate\\_filters\n\n10\n\nPrevent the same content from appearing repeatedly in your feeds by using duplicate filters.\n\nShort videos filter /youtube\\_shorts\\_filter\n\nRemove videos under 60 seconds (YouTube shorts, etc.) to maintain cleaner feeds.\n\nDashboards /dashboard\n\nBuild your own custom dashboards with updates, trending articles, and statistics.\n\nFolders /folders\n\nCollect feeds on different topics in separate folders for a clean and organized view.\n\nHighlighters /highlighters\n\nSpeed up your reading by picking phrases to be automatically highlighted in texts.\n\nAnnotations /annotations\n\nHighlight important sections in articles to revisit later. Optionally export them to Readwise.\n\nRead later list /read\\_later\\_list\n\nSave articles to read later and easily manage your list.\n\nMagic sorting /sort\\_by\\_magic\n\nSort the articles that are most popular and relevant to you on top of your list.\n\nBulk operations /articles\\_bulk\\_actions\n\nSave for later, tag or share multiple articles at once.\n\nControl folders' unread duration /keep\\_unread\\_days\n\nDecrease the duration for which folders retain unread articles and override the default 30-day configuration.\n\nCustom CSS /custom\\_css\n\nIf you are familiar with CSS, you can customize your account beyond the default settings.\n\nLoad full content /full\\_content\n\nForget about pop-ups, cookies, and poor UX. Extract the full content of articles in Inoreader.\n\nFull content persistence /persistent\\_content\n\nOnce loaded, you can keep the full content of articles in Inoreader, translate and annotate them.\n\nArticle translations /translations\n\nConsume content the way you prefer by translating articles into 30 languages.\n\nText-to-speech conversion /text\\_to\\_speech\n\nConvert any text to audio and listen to articles and queued playlists on the go.\n\nBackground audio player /audio\\_player\n\nListen to articles and podcasts without interrupting other activities.\n\nOffline reading /offline\\_mode\n\nAccess the articles you have gathered in our apps without an internet connection.\n\n#### Collect & distribute\n\nKeep valuable insights and share them with others\n\n##### Free\n\n##### Pro\n\nSend to email /send\\_to\\_email\n\nSend articles as links or PDF files to select recipients.\n\nIFTTT integration /ifttt\n\nSave time and stay productive by supercharging your Inoreader account with IFTTT automations.\n\nZapier integration /zapier\n\nUse Zapier to connect Inoreader to more than 1500 apps in ways that work for you.\n\nPDF export /pdf\\_export\n\nConvert articles into PDF documents and save their full content on your device to read later.\n\nSave to other platforms /integrations\n\nExport articles to Pocket, Evernote, OneNote, Google Drive, Dropbox, and Instapaper.\n\nMaximum guaranteed refresh interval /polling\\_sla\n\nUsers on our Pro plan are guaranteed that their feeds will be updated at least once every hour.\n\nProgrammatic API access /api\\_access\n\nWith our API, the developers in your company can turn Inoreader into an information backend.\n\n#### Peace of mind\n\nFor an unobstructed, distraction-free experience\n\n##### Free\n\n##### Pro\n\nAd-free view /noads\n\nNo ads for a focused and uninterrupted user experience.\n\nPriority support /premium\\_support\n\nBe first in line when contacting our support team.\n\nAutomatic OPML backups /opml\\_backups\n\nAutomatic backups of your feeds and folders ensure you can restore your content anytime.\n\nSecure image proxy /image\\_proxy\n\nDirecting your image requests to our own servers protects you from potential personal data leakage and censorship.\n\n### Frequently Asked Questions\n\n##### What payment methods are available?\n\nWe support all major credit cards, debit cards, Apple Pay, Google Pay, and PayPal.\n\n##### What happens when my plan ends?\n\nBy default, all subscriptions (monthly and annual) are recurring. This means that they will be automatically extended on their end date. If you want to prevent auto-renewal, you need to disable it from the billing section of your account.\n\n##### What happens if the auto-renewal payment is not successful?\n\nIf the payment is unsuccessful, you will receive an email and an onscreen notification within Inoreader. The payment attempt from your credit card/PayPal account will be retried multiple times throughout the following week. During this period, your access will be unaffected, and you will be able to use premium features.\n\n##### What happens when I cancel my Inoreader Pro subscription?\n\nIf you cancel your Pro subscription, your account will be downgraded, and limitations will apply. However, all premium features exceeding the limits will remain but will be deactivated. When you upgrade your account, your Pro features will be enabled again and continue working as before.\n\n##### How do I stop a subscription purchased by App Store or Google Play?\n\nYou can do that by accessing _**Subscriptions**_ in your Apple or Google account. Your Inoreader subscription should be listed there. You can also do that from the Inoreader app by going to _**Settings \\> Pro features \\> Manage subscription**._\n\n##### Can I increase the limit on a single feature?\n\nYou can do that by going to _**Preferences \\> Billing and usage \\> Usage \\> Increase limits**_. You can then select the feature and limits you would like to increase.\n\n##### Can I have an invoice for my payment?\n\nYes, you can add your business info at the checkout by choosing the _**Are you a business**_ option and entering your business details. After this, you\u2019ll start automatically receiving invoices for your payments. If entering your business info isn\u2019t convenient, or the payment has already been processed, you can contact us no later than five business days and ask for an invoice.\n\n##### What happens when I decide to upgrade my existing subscription?\n\nWith the new limits, your current subscription will be prorated, meaning you will only pay the price difference between the two plans for the prepaid period.\n\n##### Why do I see a difference in the official pricing?\n\nIf you purchase a subscription plan from Europe, VAT will be applied. The VAT rate depends on your country of residence and will be added to the Inoreader price. If you are VAT registered, you must add your company data and will not be charged.\n\n##### Can I get a refund?\n\nYes. You can get a refund on an annual payment within seven days of your purchase. No questions, no explanations. Your payment method will be credited with the full amount of your purchase.\n\n##### Can I use my subscription on multiple platforms?\n\nIf you have an active subscription, you can use Inoreader in your browser and on our iOS and Android apps.\n\nChoose the Inoreader plan that best fits your needs. Get access to premium features, team collaboration tools, and priority support. Sign up now.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "inoreader",
+        "app_name": "Inoreader",
+        "app_slug": "inoreader",
+        "pricing_url": "https://www.inoreader.com/",
+        "source_url": "https://www.inoreader.com/",
+        "all_pricing_urls": [
+          "https://www.inoreader.com/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.CUSTOM"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes a free tier, a Pro subscription with annual and monthly billing options, and a custom plan with add-ons.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Great for beginners. Follow RSS feeds, search in your articles, get Google News alerts, and customize your view.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Follow RSS feeds",
+              "Search in articles",
+              "Google News alerts",
+              "Customize view"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "RSS feeds/subscriptions",
+                  "value": 150
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Create monitoring feeds, apply filters and rules, and subscribe to newsletters. Follow social media feeds and websites without RSS.",
+            "monthly_price": 9.99,
+            "annual_price": 90.0,
+            "annual_discount_percentage": 25.0,
+            "setup_fee": null,
+            "features": [
+              "Monitoring feeds",
+              "Filters and rules",
+              "Subscribe to newsletters",
+              "Follow social media feeds"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "RSS feeds/subscriptions",
+                  "value": 2500
+                },
+                {
+                  "name": "Web feeds & Track changes",
+                  "value": 20
+                },
+                {
+                  "name": "Newsletter feeds",
+                  "value": 20
+                },
+                {
+                  "name": "Monitoring feeds",
+                  "value": 30
+                },
+                {
+                  "name": "Boosted feeds",
+                  "value": 100
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Custom",
+            "tier_description": "Build a plan that suits your needs with our special add-ons (Web feeds, monitoring feeds, boosted feeds, and other features) and access our API.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Custom add-ons",
+              "API access"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T01:03:50.214347",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\inoreader\\20250415_010350"
+}

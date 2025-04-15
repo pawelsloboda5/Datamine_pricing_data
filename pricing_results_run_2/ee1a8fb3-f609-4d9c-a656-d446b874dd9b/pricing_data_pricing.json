@@ -1,0 +1,219 @@
+{
+  "app_id": "ecwid_by_lightspeed",
+  "app_name": "Ecwid by Lightspeed",
+  "app_slug": "ecwid-by-lightspeed",
+  "pricing_url": "https://www.ecwid.com/pricing",
+  "source_url": "https://www.ecwid.com/pricing",
+  "all_pricing_urls": [
+    "https://www.ecwid.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Prices exclude taxes. Discounts available for annual billing and nonprofits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Basic plan for beginners.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Add a store to any website",
+        "Sell simultaneously on multiple sites",
+        "Instant Site builder",
+        "70+ site templates",
+        "Additional Instant Site pages (3)",
+        "Free company.site domain",
+        "Connect an existing domain",
+        "Mobile responsive shopping cart",
+        "Apple Wallet Order Tracking",
+        "Android and iOS store management app",
+        "Number of products: 5",
+        "Digital goods: 25GB per file",
+        "Unlimited bandwidth",
+        "GDPR compliance",
+        "Gift cards",
+        "Access to App Market",
+        "Pre-orders",
+        "Advanced SEO tools",
+        "Pay What You Want",
+        "Custom fields at checkout",
+        "Product filters",
+        "Product variations",
+        "Product videos",
+        "Manually create orders",
+        "Multilingual catalog",
+        "Recurring subscriptions",
+        "Customer groups",
+        "Email support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Number of products",
+            "value": 5
+          },
+          {
+            "name": "Digital goods",
+            "value": "25GB per file"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Venture",
+      "tier_description": "For solo visionaries.",
+      "monthly_price": 30.0,
+      "annual_price": 25.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "All Starter features",
+        "Up to 100 products + e-goods",
+        "Selling on Instagram & Facebook",
+        "Mobile store management app",
+        "Live chat support",
+        "Access to App Market",
+        "Automated tax calculations",
+        "Discount coupons",
+        "Custom checkout",
+        "Buy a custom domain",
+        "Built-in reports & analytics"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Number of products",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For small but mighty teams.",
+      "monthly_price": 55.0,
+      "annual_price": 45.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "All Venture features",
+        "Up to 2,500 products",
+        "Selling on marketplaces",
+        "Selling subscriptions",
+        "Add staff (2 accounts)",
+        "Phone support",
+        "Abandoned carts recovery",
+        "Wholesale prices",
+        "Multi-lingual store",
+        "Promotions (3)",
+        "Custom URL slugs",
+        "Product reviews",
+        "Advanced reports & analytics"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Number of products",
+            "value": 2500
+          },
+          {
+            "name": "Promotions",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Unlimited",
+      "tier_description": "For established businesses focused on growth.",
+      "monthly_price": 130.0,
+      "annual_price": 105.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "All Business features",
+        "Unlimited products",
+        "Sell in-person (POS integration)",
+        "Unlimited Staff accounts",
+        "Priority Support",
+        "Promotions (500)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Number of products",
+            "value": "unlimited"
+          },
+          {
+            "name": "Promotions",
+            "value": 500
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Nonprofit Discount",
+      "offer_description": "Nonprofits can get 6 months of Venture for free.",
+      "discount_percentage": null,
+      "offer_url": "https://lightspeed-commerce.typeform.com/to/fsYPIJ?typeform-source=ecommerce-store.typeform.com",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:12:23.052399",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ee1a8fb3-f609-4d9c-a656-d446b874dd9b",
+    "name": "Ecwid by Lightspeed",
+    "slug": "ecwid",
+    "description": "Ecwid by Lightspeed is a cloud online store builder which lets you instantly launch an online store on any website, Facebook page, or multiple sites simultaneously.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/5cd3e303d4064cb3c62f3c2af5866a98.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 6
+  }
+}

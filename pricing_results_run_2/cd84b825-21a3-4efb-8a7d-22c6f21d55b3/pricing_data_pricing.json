@@ -1,0 +1,179 @@
+{
+  "app_id": "paid_memberships_pro",
+  "app_name": "Paid Memberships Pro",
+  "app_slug": "paid-memberships-pro",
+  "pricing_url": "https://www.paidmembershipspro.com/pricing",
+  "source_url": "https://www.paidmembershipspro.com/pricing",
+  "all_pricing_urls": [
+    "https://www.paidmembershipspro.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.ONE_TIME"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Renewals are at full price. Lifetime plan includes all features without renewal payments.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lifetime",
+      "tier_description": "Pay once for lifetime access to PMPro Plus.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 3000.0,
+      "features": [
+        "Lifetime use on 2 sites",
+        "Lifetime of no renewal payments",
+        "Lifetime access to all PMPro software",
+        "Lifetime software updates",
+        "Lifetime access to new products",
+        "Lifetime of friendly helpful support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Best for building advanced membership sites.",
+      "monthly_price": null,
+      "annual_price": 299.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2 site license",
+        "Priority support",
+        "Accept donations",
+        "Invite only membership",
+        "Member approvals",
+        "Member directory & user profiles",
+        "Multisite & WordPress Network features",
+        "Payment plans by level",
+        "Prorated pricing",
+        "Recover abandoned carts",
+        "Sell gift memberships",
+        "Series/content drip-feed",
+        "Sponsored or group accounts",
+        "Variable 'pay what you want' pricing",
+        "32 Plus Add Ons"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Best for beginners and DIY membership sites.",
+      "monthly_price": null,
+      "annual_price": 174.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 site license",
+        "Premium support",
+        "Memberlite theme support",
+        "Advanced customization recipes",
+        "Automatic updates",
+        "Affiliate tracking",
+        "Protect custom post types",
+        "Email confirmation",
+        "Membership cards",
+        "Mailing address",
+        "Google Analytics + Ecommerce Tracking",
+        "23 Standard Add Ons"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Free",
+      "tier_description": "The core plugin and 29 free Add Ons free forever.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited restricted content",
+        "Unlimited membership levels & members",
+        "Free or paid registration",
+        "Multiple memberships per user",
+        "Recurring subscriptions",
+        "All gateways, including Stripe, PayPal, & more",
+        "All email marketing integrations",
+        "Memberlite theme",
+        "bbPress, BuddyPress, BuddyBoss integrations",
+        "Courses & LMS integrations",
+        "Frontend login",
+        "No-code user profile fields",
+        "Restrict access to WordPress dashboard",
+        "WooCommerce integration",
+        "Zapier integration",
+        "26 Free Add Ons"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Discounted Annual Pricing for Plus and Standard Plans",
+      "offer_description": "Reduced annual pricing for Plus and Standard plans.",
+      "discount_percentage": null,
+      "offer_url": "https://www.paidmembershipspro.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:52:04.838616",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "cd84b825-21a3-4efb-8a7d-22c6f21d55b3",
+    "name": "Paid Memberships Pro",
+    "slug": "paid-memberships-pro-wordpress-p",
+    "description": "PMPro plugin helps you start, manage, & grow a membership site on WordPress. Protect content, register users, & accept recurring payments.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/3b1eb7b7fb97eb6000fd06e059f58542.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 1
+  }
+}

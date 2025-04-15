@@ -1,0 +1,91 @@
+{
+  "app_id": "sendy",
+  "app_name": "Sendy",
+  "app_slug": "sendy",
+  "pricing_url": "https://sendy.co/#buy-now",
+  "source_url": "https://sendy.co/",
+  "all_pricing_urls": [
+    "https://sendy.co/#buy-now"
+  ],
+  "price_model_type": [
+    "PriceModelType.ONE_TIME",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Sendy operates on a one-time purchase model for the software and usage-based pricing for email sending via Amazon SES.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Sendy Software",
+      "tier_description": "One-time purchase of the Sendy software.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 69.0,
+      "features": [
+        "Self-hosted application",
+        "Integration with Amazon SES",
+        "No monthly fees"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Installation Service",
+      "tier_description": "Optional installation service for Sendy.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 79.0,
+      "features": [
+        "Installation on Apache/Linux based web hosting server",
+        "Installation on Amazon EC2 server",
+        "Free Amazon SES usage for up to 3,000 emails per month for one year"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Emails sent",
+      "unit": "per 10,000 emails",
+      "base_price": 1.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:18:38.407068",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "61a984ff-d11d-4425-acdc-afc5759b0e06",
+    "name": "Sendy",
+    "slug": "sendy",
+    "description": "Sendy is a self hosted email newsletter application that lets you send newsletters via Amazon Simple Email Service (SES).",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/242e928e4b24ea7d0823b105c3e2bcb0_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 2
+  }
+}

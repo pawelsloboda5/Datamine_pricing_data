@@ -1,0 +1,200 @@
+{
+  "app_id": "learnworlds",
+  "app_name": "LearnWorlds",
+  "app_slug": "learnworlds",
+  "pricing_url": "https://www.learnworlds.com/pricing/",
+  "source_url": "https://www.learnworlds.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.learnworlds.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Prices exclude VAT. Discounts available for non-profits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Basic plan for starting eLearning businesses.",
+      "monthly_price": 29.0,
+      "annual_price": 24.0,
+      "annual_discount_percentage": 17.24,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Paid Courses",
+        "eBook Pages Builder",
+        "Exams & Quizzes",
+        "1:1 and Group Sessions",
+        "Drip-Feed Courses",
+        "3-Page Website",
+        "Site templates",
+        "Connect with custom domain",
+        "Multi-language site with Weglot",
+        "3 Payment gateways",
+        "Flexible Checkout Options",
+        "Coupons",
+        "1 Admin",
+        "Free SSL certificate",
+        "Centralised tag manager",
+        "Marketing tools integrations",
+        "Accounting integrations",
+        "Hubspot tracking code",
+        "24/5 e-mail support",
+        "Help Center"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    },
+    {
+      "tier_name": "Pro Trainer",
+      "tier_description": "Advanced plan for professional trainers.",
+      "monthly_price": 99.0,
+      "annual_price": 79.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Free & Paid Courses",
+        "Customizable Course Player",
+        "Assessments, Certificates & Digital Credentials",
+        "Live Classes & Webinars",
+        "20 SCORMs / HTML5",
+        "Unlimited website pages",
+        "Mass emails",
+        "Unlimited popups",
+        "Android & iOS Apps",
+        "Content Clone & Sync",
+        "Subscriptions & Memberships",
+        "Installments",
+        "Funnels",
+        "5 Admins / Instructors",
+        "Affiliate Marketing",
+        "Users Import",
+        "Advanced Zapier",
+        "24/7 e-mail support",
+        "LearnWorlds Academy"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    },
+    {
+      "tier_name": "Learning Center",
+      "tier_description": "Comprehensive plan for learning centers.",
+      "monthly_price": 299.0,
+      "annual_price": 249.0,
+      "annual_discount_percentage": 16.72,
+      "setup_fee": null,
+      "features": [
+        "Interactive Videos",
+        "Auto-Transcripts & Subtitles",
+        "Advanced Assessments",
+        "Multiple Accounts with Zoom, Webex, and Microsoft Teams",
+        "Unlimited SCORMs / HTML5",
+        "Remove LearnWorlds Brand",
+        "School cloning",
+        "In-School Clone & Sync",
+        "Cross-schools Clone & Sync",
+        "Progress Reports / User Segments",
+        "Course Insights",
+        "Scheduled Reports",
+        "Report templates",
+        "Automations",
+        "Bulk User Actions",
+        "25 Admins / Collaborators",
+        "Custom User Roles",
+        "10 Seat & User Group Managers",
+        "API & Webhooks",
+        "3 SSO",
+        "Hubspot (advanced)",
+        "24/7 priority email support",
+        "Personalized onboarding"
+      ],
+      "limits": {
+        "users": 25,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    },
+    {
+      "tier_name": "High Volume & Corporate",
+      "tier_description": "Custom plan for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "99.95% Server Uptime",
+        "Premium Cloud Servers",
+        "Multiple Daily Backups",
+        "Optional custom SLA",
+        "Optional contract and DPA",
+        "8 SSO",
+        "Custom no. of Admins / Collaborators",
+        "Custom no. of Seat & User Group Managers",
+        "Tailored Pricing Options",
+        "Flexible Invoicing",
+        "Dedicated Success Manager",
+        "24/7 priority email & phone support"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Payment Gateway Fees",
+      "fee_amount": null,
+      "fee_description": "Fees charged by payment gateways like Stripe and PayPal (e.g., 2.9% + $0.30 per transaction)."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:23:38.702737",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "943805c6-ac20-4924-882e-6d6adebe0b03",
+    "name": "LearnWorlds",
+    "slug": "learnworlds",
+    "description": "LearnWorlds is a premium learning platform via which you sell online courses under your own website.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/5b644fd45fd944a6cf66f2e379c10626_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 20
+  }
+}

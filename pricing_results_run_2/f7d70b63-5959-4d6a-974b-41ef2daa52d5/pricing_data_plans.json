@@ -1,0 +1,221 @@
+{
+  "app_id": "socialpilot",
+  "app_name": "SocialPilot",
+  "app_slug": "socialpilot",
+  "pricing_url": "https://www.socialpilot.co/pricing",
+  "source_url": "https://www.socialpilot.co/plans",
+  "all_pricing_urls": [
+    "https://www.socialpilot.co/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 15% discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Built for professionals who work independently.",
+      "monthly_price": 30.0,
+      "annual_price": 25.5,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "7 Social Media Accounts",
+        "1 User",
+        "500 AI Credits",
+        "Content Library",
+        "Tags"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Extra Accounts",
+            "value": "$4 per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Designed to empower SMBs and small teams.",
+      "monthly_price": 50.0,
+      "annual_price": 42.5,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "15 Social Media Accounts",
+        "3 Users",
+        "1000 AI Credits",
+        "Social Media Inbox",
+        "Analytics",
+        "Team Collaboration",
+        "Manager Approval"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Extra Accounts",
+            "value": "$4 per month"
+          },
+          {
+            "name": "Additional User",
+            "value": "$5 per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Capabilities built for growing agencies who want to scale.",
+      "monthly_price": 100.0,
+      "annual_price": 85.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "25 Social Media Accounts",
+        "6 Users",
+        "5000 AI Credits",
+        "Bulk Schedule",
+        "Advanced Analytics",
+        "Client Approval",
+        "White Label Reports"
+      ],
+      "limits": {
+        "users": 6,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Extra Accounts",
+            "value": "$4 per month"
+          },
+          {
+            "name": "Additional User",
+            "value": "$5 per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Ultimate",
+      "tier_description": "Designed for established agencies and multi-location brands.",
+      "monthly_price": 200.0,
+      "annual_price": 170.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "50 Social Media Accounts",
+        "Unlimited Users",
+        "Unlimited AI Credits",
+        "Advanced Security",
+        "Advanced White Label",
+        "Dedicated Account Manager",
+        "Migration & Onboarding"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Extra Accounts",
+            "value": "$4 per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For enterprises who want to go above and beyond pre-made plans and need custom solutions.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom Accounts",
+        "Unlimited Users",
+        "Unlimited AI Credits",
+        "Unlimited Clients",
+        "Dedicated Account Manager",
+        "Migration & Onboarding",
+        "Single Sign-On (SSO)",
+        "API Access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": false
+  },
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Extra Accounts",
+      "fee_amount": 4.0,
+      "fee_description": "Additional social media accounts per month"
+    },
+    {
+      "fee_name": "Additional User",
+      "fee_amount": 5.0,
+      "fee_description": "Additional user per month"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:52:32.099794",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f7d70b63-5959-4d6a-974b-41ef2daa52d5",
+    "name": "SocialPilot",
+    "slug": "socialpilot",
+    "description": "SocialPilot is a social media marketing tool which lets you create and schedules social media posts for your social media profiles.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/fbb20304951b3308cdd73cb9601bf648.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Social Media Marketing"
+    ],
+    "category_slugs": [
+      "social-marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 2
+  }
+}

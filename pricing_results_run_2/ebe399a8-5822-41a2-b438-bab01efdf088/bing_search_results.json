@@ -1,0 +1,141 @@
+{
+  "app_name": "Time To Pet",
+  "app_slug": "time-to-pet",
+  "search_term": "Find the official pricing page URL for Time To Pet (time-to-pet.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744717018.404986,
+  "response_text": [
+    "https://www.timetopet.com/pricing"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.timetopet.com/pricing",
+      "is_accessible": true,
+      "content": "Simple and Transparent Pricing\n------------------------------\n\nHelping over 4,000 pet care companies generate millions in revenue every month.\n\nSelect Software\n\n**$20/month**\n\n**$200/year**\n\nOne person companies\n\nFor those just starting their pet care business journey or looking for a basic tool to help them manage scheduling and invoicing.\n\n**$45/month**\n\n**$450/year**\n\nOne person companies\n\nFor a growing, one person-business looking for advanced functionality like videos, integrations, and email marketing.\n\n**$35/month**\n\n+$15/month per active staff\n\nFor a pet care business that has staff members and needs additional tools like time off, permissions, pay reports, and more.\n\n$110/month for\n\n5 staff\n\n**Large Team**\n\n**Teams over 25**\n\nFor a large pet care business with more than 25 active staff members. Contact our team for custom pricing and additional onboarding support.\n\nFeature\n\nLite\n\nSolo\n\nTeam\n\nInvoicing\n\nTime To Pet Payments ![Image 1](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Take credit cards, ACH, or Google/Apple Pay. Pet parents can pay through the mobile app or web browser.\n\nrequired\n\nAutomatic Charging ![Image 2](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Automatic Charging streamlines payment processing for your pet care business. You can customize the days and times for payments to run and select which invoices to charge, such as those due today or past due by a specified number of days.\n\nFrequency Discounts ![Image 3](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Frequency discounts at Time To Pet are automatic discounts that apply when a client schedules a certain minimum number of services within a specified time period.\n\nCustomizable Rates ![Image 4](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Set custom client rates for varying prices on the same service. Time To Pet consistently applies these rates when generating future invoices for the client.\n\nBulk Invoicing ![Image 5](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Use Bulk Invoicing to streamline your invoicing tasks. Whether you want to email invoices or run card payments on specific days, Bulk Invoicing makes the process quick and efficient.\n\nScheduling\n\nClient Service Requests ![Image 6](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Customers can submit service orders via the Client App or Portal for single or multiple events. Admins receive notifications for new requests, and they can approve, reject, and confirm them for clients.\n\nTemplates ![Image 7](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Templates automate scheduling and invoicing for regular, recurring customers based on their billing frequency, whether weekly or monthly.\n\nCustom Views ![Image 8](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Gain insight into your company's schedule with ten customizable calendar views, three unique color-coding options, and the flexibility to filter by client, staff, or service type. Tailor your view to suit your needs perfectly.\n\nSchedule Blocks ![Image 9](https://www.timetopet.com/dist/marketing/images/question-mark.svg) You define schedule blocks for specific days and times. Clients can choose from these blocks when requesting a service, and you can customize which services are available for each block.\n\nBulk Scheduling ![Image 10](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Use our Trip Tool to schedule multiple events in a single day or spanning multiple days - all at once.\n\nClient Management\n\nPortal & App Access ![Image 11](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Your clients will be able to request services, pay invoices, and send messages through a web portal or the mobile app.\n\nConversation Feed ![Image 12](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Time To Pet simplifies impressing customers with immediate updates after visits. Reports can feature notes, pictures, and a report card. Messages are sent via email, text, or push notifications through the Client's Time To Pet App, allowing direct responses.\n\nClient & Pet Fields ![Image 13](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Access to customer data is crucial for pet care businesses. Custom Fields allow capturing specific information like leash or litter box location. Clients can update profiles via the App or Client Portal, or staff can do it. Customer info is accessible via the Staff App.\n\nVideos ![Image 14](https://www.timetopet.com/dist/marketing/images/question-mark.svg) What do clients love more than getting pictures of their pets? Videos! Send videos that are up to 20 seconds long.\n\nEmail Campaigns ![Image 15](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Time To Pet simplifies creating and sending bulk email campaigns to all clients at once. Whether it's announcing a new hire or sending a monthly newsletter with images, the process is straightforward.\n\nStaff Management\n\nStaff App ![Image 16](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Staff need convenient access to schedules and client/pet details while in the field. The Time To Pet Staff App provides this, allowing them to view, complete, and update events with ease, including sending updates and pictures directly to customers from their smartphones.\n\nGPS ![Image 17](https://www.timetopet.com/dist/marketing/images/question-mark.svg) GPS data enhances service transparency, collected during staff check-in/check-out or for the entire event. Optionally, clients can also access this data.\n\nTime Off ![Image 18](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Staff can request time off or have it scheduled for them, with notifications for any conflicts. Visits can be swiftly reassigned, and staff can set up recurring time off for school or other commitments.\n\nRoles ![Image 19](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Time To Pet offers four staff roles: admin, office manager, regular staff, and trainee, each with specific permissions and responsibilities tailored to their role.\n\nIntegrations\n\nZapier ![Image 20](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Time To Pet integrates with Zapier, allowing you to automate tasks and workflows in tools you use to manage your pet care company outside of Time To Pet.\n\nQuickbooks Online ![Image 21](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Time To Pet integrates with your Quickbooks Online account, allowing your invoices, services, payments, and clients to be automatically kept in sync as changes are made in your Time To Pet account.\n\nText Messaging ![Image 22](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Time To Pet's text messaging offers flexibility for client communication. Messages can be delivered via push notification, email, or text message, and clients can respond directly. Staff phone numbers remain private as messages are sent from the company texting phone number, and responses are automatically captured in the conversation feed.\n\nDropbox Backup ![Image 23](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Time To Pet supports an automated integration with Dropbox to back up your client, pet, and schedule data nightly to your Dropbox account. When enabled and connected, look for the \"Apps/Time To Pet\" folder in your Dropbox account.\n\nCalendar ![Image 24](https://www.timetopet.com/dist/marketing/images/question-mark.svg) Time To Pet supports calendar integrations with many third-party calendars such as Apple iCal, Google Calendar, Outlook, Yahoo Calendar, and any provider that supports the iCalendar format.\n\nFrequently Asked Questions\n--------------------------\n\n*   [What is an active staff member?](https://www.timetopet.com/pricing#)\n    \n    An active staff member is any staff member who has at least one scheduled service during the billing period. Office managers and administrators are always counted as active.\n    \n    This is automatically calculated at the end of each billing period, which means there is no need to manually activate/deactivate staff members. Your costs will also be significantly lower during the slow months!\n    \n*   [What is your support like?](https://www.timetopet.com/pricing#)\n*   [Can I Switch Between Plans?](https://www.timetopet.com/pricing#)\n*   [Do I have to sign a contract?](https://www.timetopet.com/pricing#)\n\n**Trusted by over 4,000 of the World's Most Successful Pet Care Companies.**\n\n*   ![Image 25: hot diggity pet sitting logo](https://www.timetopet.com/dist/marketing/images/company-logos/logo-hotdiggity-h70.webp)\n*   ![Image 26: sitter 4 paws logo](https://www.timetopet.com/dist/marketing/images/company-logos/logo-sitter4paws2-h70.webp)\n*   ![Image 27: rock star dog walking and pet sitting logo](https://www.timetopet.com/dist/marketing/images/company-logos/logo-rockstar-h70.png)\n*   ![Image 28: sarahs pet care revolution logo](https://www.timetopet.com/dist/marketing/images/company-logos/logo-sarahs-pet-care-h70.webp)\n*   ![Image 29: the pet gal logo](https://www.timetopet.com/dist/marketing/images/company-logos/logo-petgal-h70.webp)\n\nIncluding these award winning companies\n\n![Image 30: Jill Next Door Pet Care logo](https://www.timetopet.com/dist/marketing/images/company-logos/logo-jill-nextdoor-h110.webp)\n\n**NAPPS 2025 Business of the Year**\n\n![Image 31: Fur Services Fur Pets logo](https://www.timetopet.com/dist/marketing/images/company-logos/logo-furservices.webp)\n\n**PSI's 2025 Pet Sitter of the Year**\n\n![Image 32: k9 kats pet sitting logo](https://www.timetopet.com/dist/marketing/images/company-logos/logo-k9-kats-h110.png)\n\n**NAPPS 2023 Business of the Year**\n\n![Image 33: bad to the bone pet care logo](https://www.timetopet.com/dist/marketing/images/company-logos/logo-bad-to-the-bone-h110.png)\n\n**PSI's 2023 Pet Sitter of the Year**\n\n![Image 34: fur services dog walking logo](https://www.timetopet.com/dist/marketing/images/company-logos/logo-furservices.webp)\n\n**NAPPS 2022 Business of the Year**\n\n![Image 35: lucky pup dog walking logo](https://www.timetopet.com/dist/marketing/images/company-logos/logo-luckypup-h110.png)\n\n**PSI's 2022 Pet Sitter of the Year**\n\n![Image 36: dans pet care logo](https://www.timetopet.com/dist/marketing/images/company-logos/logo-dans-petcare-h110.png)\n\n**PSI's 2021 Pet Sitter of the Year**\n\n![Image 37: crocketts care dog walking logo](https://www.timetopet.com/dist/marketing/images/company-logos/logo-crocketts-care-h110.png)\n\n**PSI's 2020 Pet Sitter of the Year**\n\n![Image 38: pet charmers pet care](https://www.timetopet.com/dist/marketing/images/company-logos/logo-pet-charmers-h110.png)\n\n**PSI's 2019 Pet Sitter of the Year**\n\n![Image 39](https://www.timetopet.com/dist/marketing/images/decor04.svg)\n\nExplore Features\n----------------\n\n*   [Client & Staff Mobile App](https://www.timetopet.com/mobile-apps)\n*   [Scheduling](https://www.timetopet.com/scheduling)\n*   [Billing & Invoicing](https://www.timetopet.com/invoicing)\n*   [Client Management](https://www.timetopet.com/client-management)\n*   [Staff Management](https://www.timetopet.com/staff-management)\n\n*   [Configuration](https://www.timetopet.com/configuration)\n*   [Client Conversations](https://www.timetopet.com/client-management/conversations)\n*   [Client Docs](https://www.timetopet.com/client-management/client-docs)\n*   [Recurring Appointments](https://www.timetopet.com/scheduling/templates)\n*   [Packages](https://www.timetopet.com/scheduling/packages)\n\n*   [Client Service Requests](https://www.timetopet.com/scheduling/client-service-requests)\n*   [Custom Fields](https://www.timetopet.com/configuration/custom-fields)\n*   [Happiness Surveys](https://www.timetopet.com/configuration/happiness-survey)\n*   [Quickbooks Integration](https://www.timetopet.com/invoicing/quickbooks-integration)\n*   [Security](https://www.timetopet.com/configuration/security)\n\n![Image 40](https://www.timetopet.com/marketing/images/decor10.svg) ![Image 41](https://www.timetopet.com/marketing/images/decor06.svg)\n\nWant to See More?\n-----------------\n\nWe can give you a full demo of Time To Pet, absolutely free.\n\n[Sign Up For A Demo](https://www.timetopet.com/demo)\n\n![Image 42](https://www.timetopet.com/dist/marketing/images/decor09.svg) ![Image 43](https://www.timetopet.com/dist/marketing/images/decor08.svg)\n\nFree 14 day trial. Simple, transparent pricing gives you the tools and technology to impress your customers.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "time_to_pet",
+        "app_name": "Time To Pet",
+        "app_slug": "time-to-pet",
+        "pricing_url": "https://www.timetopet.com/pricing",
+        "source_url": "https://www.timetopet.com/pricing",
+        "all_pricing_urls": [
+          "https://www.timetopet.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing varies based on the number of active staff members and includes options for individual and team plans.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Lite",
+            "tier_description": "For those just starting their pet care business journey or looking for a basic tool to help them manage scheduling and invoicing.",
+            "monthly_price": 20.0,
+            "annual_price": 200.0,
+            "annual_discount_percentage": 16.67,
+            "setup_fee": null,
+            "features": [
+              "Scheduling",
+              "Invoicing",
+              "Client Management"
+            ],
+            "limits": {
+              "users": "1",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Solo",
+            "tier_description": "For a growing, one person-business looking for advanced functionality like videos, integrations, and email marketing.",
+            "monthly_price": 45.0,
+            "annual_price": 450.0,
+            "annual_discount_percentage": 16.67,
+            "setup_fee": null,
+            "features": [
+              "Videos",
+              "Email Campaigns",
+              "Advanced Integrations"
+            ],
+            "limits": {
+              "users": "1",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Team",
+            "tier_description": "For a pet care business that has staff members and needs additional tools like time off, permissions, pay reports, and more.",
+            "monthly_price": 35.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Staff Management",
+              "Time Off",
+              "Permissions",
+              "Pay Reports"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Active Staff",
+                  "value": "$15/month per active staff"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Large Team",
+            "tier_description": "For a large pet care business with more than 25 active staff members. Contact our team for custom pricing and additional onboarding support.",
+            "monthly_price": 110.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Custom Pricing",
+              "Onboarding Support"
+            ],
+            "limits": {
+              "users": "25+",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:37:11.602558",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\time-to-pet\\20250415_073711"
+}

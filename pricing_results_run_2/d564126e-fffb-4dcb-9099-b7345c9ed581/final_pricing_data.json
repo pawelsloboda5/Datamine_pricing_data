@@ -1,0 +1,189 @@
+{
+  "app_id": "facturadirecta",
+  "app_name": "FacturaDirecta",
+  "app_slug": "facturadirecta",
+  "pricing_url": "https://www.facturadirecta.com/pequenos-negocios/precios/",
+  "source_url": "https://www.facturadirecta.com/pequenos-negocios/precios-USD/",
+  "all_pricing_urls": [
+    "https://www.facturadirecta.com/pequenos-negocios/precios/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes VAT and offers annual discounts.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Plan Gratis",
+      "tier_description": "For businesses with low invoicing volume.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Online invoicing",
+        "One-click taxes",
+        "Basic payments",
+        "Up to 10 clients",
+        "Up to 10 products",
+        "Trial of 50 automatic ticket scans",
+        "No digital signature for issued sales documents"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "clients",
+            "value": 10
+          },
+          {
+            "name": "products",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plan B\u00e1sico",
+      "tier_description": "For businesses needing basic management.",
+      "monthly_price": 14.0,
+      "annual_price": 12.0,
+      "annual_discount_percentage": 14.29,
+      "setup_fee": null,
+      "features": [
+        "Online invoicing",
+        "One-click taxes",
+        "Basic payments",
+        "Up to 100 clients",
+        "Up to 25 products",
+        "Trial of 100 automatic ticket scans",
+        "Digital signature for issued sales documents",
+        "DKIM signature for emails"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "clients",
+            "value": 100
+          },
+          {
+            "name": "products",
+            "value": 25
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plan Avanzado",
+      "tier_description": "For businesses needing advanced payment and collection management.",
+      "monthly_price": 28.0,
+      "annual_price": 24.0,
+      "annual_discount_percentage": 14.29,
+      "setup_fee": null,
+      "features": [
+        "Online invoicing",
+        "One-click taxes",
+        "Advanced payments",
+        "Unlimited clients",
+        "Unlimited products",
+        "Automatic invoice and ticket scanning",
+        "Digital signature for issued sales documents",
+        "Expense mailbox",
+        "Expenses from Google Drive",
+        "Bank linking",
+        "Payment reconciliation",
+        "Zapier integration",
+        "DKIM signature for emails"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    },
+    {
+      "tier_name": "Plan Total",
+      "tier_description": "For businesses wanting to manage their own accounting.",
+      "monthly_price": 56.0,
+      "annual_price": 48.0,
+      "annual_discount_percentage": 14.29,
+      "setup_fee": null,
+      "features": [
+        "Online invoicing",
+        "One-click taxes",
+        "Advanced payments",
+        "Unlimited clients",
+        "Unlimited products",
+        "Automatic invoice and ticket scanning",
+        "Digital signature for issued sales documents",
+        "Expense mailbox",
+        "Expenses from Google Drive",
+        "Bank linking",
+        "Total reconciliation",
+        "Zapier integration",
+        "Online accounting",
+        "DKIM signature for emails"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Free for NGOs",
+      "offer_description": "Free for non-profit organizations with social purposes.",
+      "discount_percentage": 100.0,
+      "offer_url": "https://www.facturadirecta.com/pequenos-negocios/precios/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T02:09:20.049788",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d564126e-fffb-4dcb-9099-b7345c9ed581",
+    "name": "FacturaDirecta",
+    "slug": "facturadirecta",
+    "description": "FacturaDirecta is an easy accounting software for small business and freelancers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/0150bf3fca18aa0274b5f18f05016fe7.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

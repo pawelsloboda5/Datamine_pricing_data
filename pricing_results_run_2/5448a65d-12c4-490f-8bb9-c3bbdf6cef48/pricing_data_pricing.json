@@ -1,0 +1,149 @@
+{
+  "app_id": "anydo_personal",
+  "app_name": "Any.do Personal",
+  "app_slug": "anydo-personal",
+  "pricing_url": "https://www.any.do/pricing",
+  "source_url": "https://www.any.do/pricing",
+  "all_pricing_urls": [
+    "https://www.any.do/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The free tier is available indefinitely without requiring a credit card.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Personal",
+      "tier_description": "For organizing every aspect of your personal life",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Tasks & lists",
+        "Reminders",
+        "Calendar",
+        "Daily planner",
+        "Sync across devices"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "For power users who want to manage work and life like a pro",
+      "monthly_price": 7.99,
+      "annual_price": 59.88,
+      "annual_discount_percentage": 37.5,
+      "setup_fee": null,
+      "features": [
+        "Recurring tasks",
+        "Whatsapp reminders",
+        "AI-Powered features",
+        "Color tags",
+        "Location reminders"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Family",
+      "tier_description": "For families who want to easily manage their household",
+      "monthly_price": 9.99,
+      "annual_price": 99.96,
+      "annual_discount_percentage": 16.6,
+      "setup_fee": null,
+      "features": [
+        "Shared family space",
+        "Up to 4 members included",
+        "Shared grocery list",
+        "Shared projects (up to 4)",
+        "Everything Premium"
+      ],
+      "limits": {
+        "users": 4,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Teams",
+      "tier_description": "Collaborate with your entire team on any project or task all in one place",
+      "monthly_price": 7.99,
+      "annual_price": 59.88,
+      "annual_discount_percentage": 37.5,
+      "setup_fee": null,
+      "features": [
+        "Collaborative workspace",
+        "Unlimited project boards",
+        "Unlimited team members",
+        "+100 workflow templates",
+        "Admin tools & permissions"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Student/Educator/NGO Discount",
+      "offer_description": "Discounted Premium offer for students, educators, and NGOs.",
+      "discount_percentage": null,
+      "offer_url": "https://www.any.do/contact_form",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T10:03:18.210205",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5448a65d-12c4-490f-8bb9-c3bbdf6cef48",
+    "name": "Any.do Personal",
+    "slug": "any-do",
+    "description": "Any.do is a simple & powerful way to manage Projects, To-do lists & Reminders. Available on Web, iPhone, Android, Mac, Windows & More.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/61b852266b12ca1eb1394f2dfeca7a0b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "todo-lists"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 1
+  }
+}

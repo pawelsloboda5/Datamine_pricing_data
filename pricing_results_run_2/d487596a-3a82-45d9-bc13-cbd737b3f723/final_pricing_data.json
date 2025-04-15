@@ -1,0 +1,93 @@
+{
+  "app_id": "zoho_cliq",
+  "app_name": "Zoho Cliq",
+  "app_slug": "zoho-cliq",
+  "pricing_url": "https://www.zoho.com/cliq/pricing.html",
+  "source_url": "https://www.zoho.com/cliq/pricing.html",
+  "all_pricing_urls": [
+    "https://www.zoho.com/cliq/pricing.html"
+  ],
+  "price_model_type": [
+    "free_tier",
+    "subscription"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page mentions a free tier available for all team sizes.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for all team sizes.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Team collaboration",
+        "Chatbots",
+        "Task management",
+        "Online meetings"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Paid",
+      "tier_description": "Advanced features for enhanced collaboration.",
+      "monthly_price": 3.0,
+      "annual_price": 36.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Free tier features",
+        "Advanced task management",
+        "Custom workflows",
+        "Enhanced integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:15:26.256669",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d487596a-3a82-45d9-bc13-cbd737b3f723",
+    "name": "Zoho Cliq",
+    "slug": "zoho-cliq",
+    "description": "Zoho Cliq is a real time messaging software built to provide enhanced productivity and team collaboration.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/3139a5277b7da6fb55d3bef8209cfa79.jpeg?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders"
+    ],
+    "category_slugs": [
+      "cms"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

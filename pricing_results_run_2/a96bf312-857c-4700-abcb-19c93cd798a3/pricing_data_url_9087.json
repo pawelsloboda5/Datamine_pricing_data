@@ -1,0 +1,239 @@
+{
+  "app_id": "caspio",
+  "app_name": "Caspio",
+  "app_slug": "caspio",
+  "pricing_url": "https://www.caspio.com/pricing/",
+  "source_url": "https://www.caspio.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.caspio.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Caspio offers a variety of plans with unlimited app users and additional features available as add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lite",
+      "tier_description": "An initial starting point with bigger possibilities ahead.",
+      "monthly_price": 100.0,
+      "annual_price": 90.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Visual app builder",
+        "Flexible deployment",
+        "Unlimited app users"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "DataPages/DataParts",
+            "value": 50
+          },
+          {
+            "name": "Data Records",
+            "value": "15K"
+          },
+          {
+            "name": "Emails per month",
+            "value": "1K"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Robust features to digitize and automate processes.",
+      "monthly_price": 300.0,
+      "annual_price": 270.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Visual app builder",
+        "Flexible deployment",
+        "Unlimited app users"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "50GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "DataPages/DataParts",
+            "value": 100
+          },
+          {
+            "name": "Data Records",
+            "value": "250K"
+          },
+          {
+            "name": "Emails per month",
+            "value": "10K"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Premium capabilities to drive operational excellence.",
+      "monthly_price": 600.0,
+      "annual_price": 540.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Visual app builder",
+        "Flexible deployment",
+        "Unlimited app users"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "DataPages/DataParts",
+            "value": 200
+          },
+          {
+            "name": "Data Records",
+            "value": "1M"
+          },
+          {
+            "name": "Emails per month",
+            "value": "20K"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Next-level performance, security and SLA.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Visual app builder",
+        "Flexible deployment",
+        "Unlimited app users"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "200GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "DataPages/DataParts",
+            "value": "unlimited"
+          },
+          {
+            "name": "Data Records",
+            "value": "2M+"
+          },
+          {
+            "name": "Emails per month",
+            "value": "30K+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Data Records",
+      "unit": "per 10K records",
+      "base_price": 20.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 10000.0,
+          "price": 20.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Emails",
+      "unit": "per 1K emails",
+      "base_price": 10.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 1000.0,
+          "price": 10.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Discount",
+      "offer_description": "10% discount for annual payments.",
+      "discount_percentage": 10.0,
+      "offer_url": "https://www.caspio.com/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Jumpstart Onboarding",
+      "fee_amount": 600.0,
+      "fee_description": "Quick setup and technical assistance to build your first Caspio app."
+    },
+    {
+      "fee_name": "Enterprise Onboarding",
+      "fee_amount": 1800.0,
+      "fee_description": "Hands-on guidance, planning and implementation including advanced topics."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:07:15.292103",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a96bf312-857c-4700-abcb-19c93cd798a3",
+    "name": "Caspio",
+    "slug": "caspio",
+    "description": "Caspio is a cloud platform for creating custom database applications fast and without coding.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/3367a851594d6e44eb5a1d331978a809.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "App Builder"
+    ],
+    "category_slugs": [
+      "app-builder"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

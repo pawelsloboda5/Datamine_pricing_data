@@ -1,0 +1,169 @@
+{
+  "app_name": "Jibble",
+  "app_slug": "jibble",
+  "search_term": "Find the official pricing page URL for Jibble (jibble.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744691648.2110426,
+  "response_text": [
+    "The official pricing page for Jibble is located at https://www.jibble.io/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.jibble.io/pricing",
+      "is_accessible": true,
+      "content": "Monthly Yearly\n\n1\n\n500+\n\n*   ### Free\n    \n    The most generous free plan around, with unlimited time tracking for an unlimited number of users. Ideal for streamlining team productivity.\n    \n    $0 forever\n    \n    [Sign up now](https://web.jibble.io/signup)\n    \n    *   Automated timesheets\n    *   GPS time tracking\n    *   Biometric verification\n    *   NFC/RFID time tracking\n    *   Unlimited activities\n    *   Unlimited projects and clients\n    *   Screenshot capturing\n    *   Basic time tracking policies\n    *   Notifications and alerts\n    *   Exportable reports\n    *   Unlimited integrations\n    *   2 geofences\n    *   1 work schedule\n    \n*   ### Premium\n    \n    Unlock enhanced time tracking with custom policies, overtime rules, and unlimited geofences. Perfect for small and large teams.\n    \n    $2.99 $2.99 per user/month\n    \n    [Start FREE Trial](https://web.jibble.io/signup)\n    \n    #### Everything in Free, plus:\n    \n    *   Group management\n    *   Custom breaks\n    *   Overtime rules\n    *   Unlimited admins & managers\n    *   Unlimited geofences\n    *   Unlimited work schedules\n    *   Leave accruals and balances\n    *   Custom time tracking policies\n    *   Automated geofence-based clock in/out\n    *   Multi-level approvals _Soon!_\n    *   Activity tracking _Soon!_\n    \n*   ### Ultimate\n    \n    Take full control with custom permissions and detailed insights. Designed for teams that require flexibility and advanced tools.\n    \n    $5.99 $5.99 per user/month\n    \n    [Start FREE Trial](https://web.jibble.io/signup)\n    \n    #### Everything in Premium, plus:\n    \n    *   Custom individual permissions\n    *   Live location tracking\n    *   High resolution screenshots\n    *   Attendance insights report\n    *   Prioritized support\n    *   Enforce 2FA _Soon!_\n    *   Shift scheduling _Soon!_\n    \n*   ### Enterprise\n    \n    **Advanced solutions typically for teams of 500+ users.** Power your operations with advanced features, dedicated support, and tailored solutions.\n    \n    $7.99 $7.99 per user/month\n    \n    [Let's Chat](https://www.jibble.io/book-demo)\n    \n    #### Everything in Ultimate, plus:\n    \n    *   Enterprise Account Manager\n    *   Onboarding and Rollout Manager\n    *   API Support Manager\n    *   SSO - SAML support\n    *   SLA\n    *   Self-hosting\n    *   Audit log\n    *   White labelling\n    *   Custom subdomain\n    *   Dedicated infrastructure\n    \n    Want to explore advanced features? Start a free trial of our Ultimate plan and reach out to us for the full extent of the Enterprise features.\n    \n\n|  | Free\n[Sign up now](https://web.jibble.io/signup) | Premium\n\n[Start FREE Trial](https://web.jibble.io/signup) | Ultimate\n\n[Start FREE Trial](https://web.jibble.io/signup) |\n| --- | --- | --- | --- |\n| Time Tracking\n\n |  |  |  |\n| \n\nUnlimited tracking Track as much time as you want without any limits\n\n\n\n |  |  |  |\n| \n\nWeb browser Track time using web browsers\n\n\n\n |  |  |  |\n| \n\nKiosk Track time using a shared kiosk\n\n\n\n |  |  |  |\n| \n\nMobile app Track time using the mobile app on both iOS and Android\n\n\n\n |  |  |  |\n| \n\nTime tracking widget Add our time tracking widget to your device home screen to stay on top of your time and gain easy access to the mobile app\n\n\n\n |  |  |  |\n| \n\nDesktop app Track time using the desktop app on both Mac and Windows\n\n\n\n |  |  |  |\n| \n\nNFC/RFID time tracking Track time using NFC and RFID cards on kiosk mode\n\n\n\n |  |  |  |\n| \n\nSync across multiple devices Keep time entries synced across multiple devices\n\n\n\n |  |  |  |\n| \n\nAdd time for others Clock in, clock out and start breaks on behalf of other team members\n\n\n\n |  |  |  |\n| \n\nRequire activities Prevent saving time entries with missing activity\n\n\n\n |  |  |  |\n| \n\nRequire projects Prevent saving time entries with missing project\n\n\n\n |  |  |  |\n| \n\nOffline mode If internet connection is lost, time entries will be saved offline and synced once back online. Only applies to mobile devices.\n\n\n\n |  |  |  |\n| \n\nSmart reminders Receive schedule-based reminders when you forget to clock in, clock out or take a break\n\n\n\n |  |  |  |\n| \n\nNotifications & alerts Receive notifications and alerts for unusual time entries or when team members miss work or clock out too late\n\n\n\n |  |  |  |\n| \n\nAuto clock out Set automated clock out times for your team members so they never miss a clock out\n\n\n\n |  |  |  |\n| \n\nBreaks Allow team members to track time spent on breaks\n\n\n\n |  |  |  |\n| \n\nCustom break types Decide when and how long paid or unpaid breaks should be taken throughout the work day\n\n\n\n |  |  |  |\n| \n\nScreenshot capturing Capture screen activity via the desktop app\n\n\n\n |  |  |  |\n| \n\nScreenshot resolution Choose from varying levels of screenshot clarity\n\n\n\n | Low | Low | High |\n| \n\nScreenshot storage Store screenshots to monitor activity and maintain records\n\n\n\n | 3 days | 1 month | Up to 12 months |\n| Identity Verification\n\n |  |  |  |\n| \n\nSelfie capturing Clock in or out with a photo from any mobile device\n\n\n\n |  |  |  |\n| \n\nFace recognition Verify each time entry with automatic facial recognition to ensure accuracy\n\n\n\n |  |  |  |\n| \n\nFace spoofing prevention Prevent face spoofing attempts on kiosk mode from our list of supported devices\n\n\n\n |  |  |  |\n| \n\nPIN verification Enforce team members to clock in or out on kiosk mode with their PIN code\n\n\n\n |  |  |  |\n| \n\nCustom verification rules Customize verification rules and select whether unusual time clock behaviors should be allowed, flagged or blocked when facial recognition fails\n\n\n\n |  |  |  |\n| \n\nDevice lock Prevent team members from changing the device they clock in and out from\n\n\n\n |  |  |  |\n| Location Tracking\n\n |  |  |  |\n| \n\nAdding locations Add locations to be used as geofences and set radiuses to increase location accuracy\n\n\n\n | Max 2 locations | Unlimited | Unlimited |\n| \n\nRecord clock in/out locations Require location capture during clock in and clock out\n\n\n\n |  |  |  |\n| \n\nOnsite kiosks Set up shared kiosks for your team members to clock in and out from\n\n\n\n | 1 kiosk only | Unlimited kiosk instances | Unlimited kiosk instances |\n| \n\nAuthorised geofences Restrict team members from clocking in and out only in authorized locations\n\n\n\n |  |  |  |\n| \n\nLive location tracking View team members' locations and routes while they're on the clock, locations are not tracked while on breaks and after clock out\n\n\n\n |  |  |  |\n| \n\nAutomated geofence-based clock in/out Automatically clock in and out when entering or leaving geofences\n\n\n\n |  |  |  |\n| Activities & Project tracking\n\n |  |  |  |\n| \n\nActivity tracking Create activities to see where your team spends time and what they're currently working on\n\n\n\n | Unlimited | Unlimited | Unlimited |\n| \n\nGroup activity assignments Assign specific activities to groups to control who can track time on certain activities\n\n\n\n |  |  |  |\n| \n\nProject and client tracking Create projects and clients to organize time\n\n\n\n | Unlimited | Unlimited | Unlimited |\n| \n\nGroup project assignments Assign specific projects to groups or individual members to control who can track time on certain projects\n\n\n\n |  |  |  |\n| \n\nBulk editing Bulk edit multiple activities or projects at once\n\n\n\n |  |  |  |\n| \n\nArchive activities, projects and clients Hide inactive activities, projects and clients from view, with the option of restoring them again\n\n\n\n |  |  |  |\n| Timesheets\n\n |  |  |  |\n| \n\nAutomated timesheets Timesheets generate automatically for every time entry recorded\n\n\n\n |  |  |  |\n| \n\nDaily, weekly & monthly timesheets View details of all time entries made in a day, week or month and apply filters to only display the data you're interested in\n\n\n\n |  |  |  |\n| \n\nAdjustable payroll hours Adjust or amend payroll hours of your team without affecting tracked hours\n\n\n\n |  |  |  |\n| \n\nAutomated deductions Subtract breaks automatically from payroll hours if members are not required to clock breaks into timesheets\n\n\n\n |  |  |  |\n| \n\nCustom pay periods Set up pay periods to determine the time frame over which your team members\u2019 time is recorded and paid for\n\n\n\n |  |  |  |\n| \n\nPay period timesheets View timesheets based on your team\u2019s time tracked within a pay period\n\n\n\n |  |  |  |\n| \n\nTimesheet approval workflow Review and approve pay period timesheets, with the option to reopen approved timesheets\n\n\n\n |  |  |  |\n| \n\nLock timesheets Approve and lock timesheets to prevent team members from changing their past timesheets\n\n\n\n |  |  |  |\n| \n\nXLS and CSV export Export timesheet reports as Excel spreadsheets or CSV files\n\n\n\n |  |  |  |\n| \n\nChange history View logs of changes made to time entries\n\n\n\n |  |  |  |\n| Scheduling\n\n |  |  |  |\n| \n\nWork schedules Set up a work schedule to define when your team members should be tracking time. Choose from a fixed, flexible or weekly schedule.\n\n\n\n | 1 work schedule | Unlimited | Unlimited |\n| \n\nHoliday calendar Create public holiday calendars to calculate public holiday overtime\n\n\n\n |  |  |  |\n| \n\nOvertime rules and calculations Enable overtime rules and select multiplier values for different types of overtime\n\n\n\n |  |  |  |\n| \n\nShift scheduling _Soon!_ Set up and assign shifts to team members\n\n\n\n |  |  |  |\n| Leave Management (PTO)\n\n |  |  |  |\n| \n\nLeave administration Add leave requests for your team members\n\n\n\n |  |  |  |\n| \n\nLeave overview View team members' past, present and future leave requests\n\n\n\n |  |  |  |\n| \n\nLeave approval workflow Allow your team to submit leave requests for approvers to approve, reject or cancel\n\n\n\n |  |  |  |\n| \n\nCustom leave policies Set up and establish paid or unpaid leave policies for your team\n\n\n\n |  |  |  |\n| \n\nLeave accruals Set up the total amount of leave time that your team can earn based on your company's employee benefits policy\n\n\n\n |  |  |  |\n| Reports\n\n |  |  |  |\n| \n\nTracked hours report Analyze total tracked time broken down into activities, clients, and projects\n\n\n\n |  |  |  |\n| \n\nAttendance report Get an in-depth insight into your team\u2019s punctuality and behaviour, including absences, late clock ins, early clock outs and more\n\n\n\n |  |  |  |\n| \n\nTimesheet report Analyze total payroll hours with billable amounts\n\n\n\n |  |  |  |\n| \n\nLeave balance report Analyze leave entitlements and balances\n\n\n\n |  |  |  |\n| Integrations\n\n |  |  |  |\n| \n\nSlack Clock in and out via the Slack bot integration\n\n\n\n |  |  |  |\n| \n\nMicrosoft Teams Clock in and out via the MS teams bot integration\n\n\n\n |  |  |  |\n| \n\nXero Send invoices to Xero from payroll hours in Jibble\n\n\n\n |  |  |  |\n| \n\nQuickBooks Online Sync payroll hours to QuickBooks Online for seamless payroll processing\n\n\n\n |  |  |  |\n| \n\nDeel Connect Jibble with Deel for efficient payroll\n\n\n\n |  |  |  |\n| \n\nZapier Automate tasks between Jibble and other apps in your toolstack via Zapier\n\n\n\n |  |  |  |\n| Support\n\n |  |  |  |\n| \n\nHelp center Access a comprehensive library of articles and guides\n\n\n\n |  |  |  |\n| \n\nProduct support Get assistance from our support team\n\n\n\n | Basic email support | Prioritised chat support | Prioritised chat support |\n\n### We\u2019ll set you up for success\n\nOur dedicated support team will help you and your team get started and ensure that you get the most out of Jibble every single day\n\n### Frequently Asked Questions\n\n*   Is Jibble really free?\n    \n    YES! The free plan is and always will be 100% free. For the majority of our users, the free plan is more than enough, but if it's not, we have upgrades.\n    \n*   Do you have any enterprise plans?\n    \n    YES! Our [time tracking software](https://www.jibble.io/) is built for teams of all shapes and sizes. Get in touch with us if you have a team larger than 500 and we'll set you up with a plan that works best for you.\n    \n*   How are users counted?\n    \n    For Annual plans, you purchase \"seats\" for one year up front. These seats can be replaced with other users. If you decide on a monthly plan, you only pay for the users that are in your team during a month.\n    \n*   Do you give discounts?\n    \n    To be fair to all our customers, those with fewer than 500 users will pay the prices listed above. Customers with more than 500 users will receive fixed bulk discounts on these prices based on volume.\n    \n*   How can I cancel my subscription?\n    \n    You can cancel or downgrade your subscription at any time.\n    \n*   What payment methods do you accept?\n    \n    We accept all major credit cards and PayPal. We don\u2019t collect credit card details but use the trusted 3rd party Stripe as a credit card gateway. Your credit card details will be held by them in their secure digital vault.\n    \n*   My staff number varies significantly. Do you have a plan where you only charge for users that used Jibble?\n    \n    We offer custom plans designed to accommodate teams of all sizes. Contact us, and we'll help you find the perfect plan that scales seamlessly with your team!\n    \n\n*   ![Image 1: Tesla logo](https://www.jibble.io/wp-content/uploads/2022/05/tesla_logo_PNG21-e1651726733892-1.png.webp)\n    \n*   ![Image 2: JLL logo](https://www.jibble.io/wp-content/uploads/2021/09/2560px-JLL_logo-3-e1670918938902.png.webp)\n    \n*   ![Image 3: Pizza Hut logo](https://www.jibble.io/wp-content/uploads/2021/09/kisspng-pizza-hut-restaurant-kyle-papa-john-s-pizza-hut-logo-5b1343c28396c5.340917241527989186539-300x78-1.png.webp)\n    \n*   ![Image 4: Ayala logo](https://www.jibble.io/wp-content/uploads/2021/10/Ayala-min.webp)\n    \n*   ![Image 5: NHS logo](https://www.jibble.io/wp-content/uploads/2021/03/NHS-2.png)\n    \n*   ![Image 6: Harvard Medical School logo](https://www.jibble.io/wp-content/uploads/2022/11/Harvard-Medical-School.png.webp)\n    \n*   ![Image 7: Hyundai logo](https://www.jibble.io/wp-content/uploads/2022/05/hyundai-logo-png-transparent-e1651728350228.png.webp)\n    \n*   ![Image 8: Neom logo text only](https://www.jibble.io/wp-content/uploads/2021/06/neom-logo-text-saudi-arabia.png.webp)\n    \n*   ![Image 9: Lambda logo](https://www.jibble.io/wp-content/uploads/2021/03/Lambda-1.png.webp)\n    \n*   ![Image 10: Maxis logo](https://www.jibble.io/wp-content/uploads/2021/03/Frame-634172.png.webp)\n    \n*   ![Image 11: Medical College Wisconsin logo](https://www.jibble.io/wp-content/uploads/2021/09/Frame-634227.png.webp)\n    \n*   ![Image 12: Cepco logo](https://www.jibble.io/wp-content/uploads/2024/04/Cepco.png.webp)\n\nFree time tracking app. Used by 10,000's users worldwide, from SME to enterprise. Get started now, it's free!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "jibble",
+        "app_name": "Jibble",
+        "app_slug": "jibble",
+        "pricing_url": "https://www.jibble.io/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://www.jibble.io/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is per user per month, with discounts for annual plans and custom options for enterprise users.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "The most generous free plan around, with unlimited time tracking for an unlimited number of users.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Automated timesheets",
+              "GPS time tracking",
+              "Biometric verification",
+              "NFC/RFID time tracking",
+              "Unlimited activities",
+              "Unlimited projects and clients",
+              "Screenshot capturing",
+              "Basic time tracking policies",
+              "Notifications and alerts",
+              "Exportable reports",
+              "Unlimited integrations",
+              "2 geofences",
+              "1 work schedule"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Premium",
+            "tier_description": "Unlock enhanced time tracking with custom policies, overtime rules, and unlimited geofences.",
+            "monthly_price": 2.99,
+            "annual_price": 2.99,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Everything in Free",
+              "Group management",
+              "Custom breaks",
+              "Overtime rules",
+              "Unlimited admins & managers",
+              "Unlimited geofences",
+              "Unlimited work schedules",
+              "Leave accruals and balances",
+              "Custom time tracking policies",
+              "Automated geofence-based clock in/out",
+              "Multi-level approvals (Soon!)",
+              "Activity tracking (Soon!)"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Ultimate",
+            "tier_description": "Take full control with custom permissions and detailed insights.",
+            "monthly_price": 5.99,
+            "annual_price": 5.99,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Everything in Premium",
+              "Custom individual permissions",
+              "Live location tracking",
+              "High resolution screenshots",
+              "Attendance insights report",
+              "Prioritized support",
+              "Enforce 2FA (Soon!)",
+              "Shift scheduling (Soon!)"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Advanced solutions typically for teams of 500+ users.",
+            "monthly_price": 7.99,
+            "annual_price": 7.99,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Everything in Ultimate",
+              "Enterprise Account Manager",
+              "Onboarding and Rollout Manager",
+              "API Support Manager",
+              "SSO - SAML support",
+              "SLA",
+              "Self-hosting",
+              "Audit log",
+              "White labelling",
+              "Custom subdomain",
+              "Dedicated infrastructure"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T00:34:18.876005",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\jibble\\20250415_003419"
+}

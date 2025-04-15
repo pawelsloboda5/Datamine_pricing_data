@@ -1,0 +1,167 @@
+{
+  "app_id": "heymarket_sms",
+  "app_name": "Heymarket SMS",
+  "app_slug": "heymarket-sms",
+  "pricing_url": "https://www.heymarket.com/pricing",
+  "source_url": "https://www.heymarket.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.heymarket.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user per month, billed annually, with additional costs for SMS/MMS usage.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Basic plan with essential features.",
+      "monthly_price": 49.0,
+      "annual_price": 588.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2 way messaging",
+        "Shared inbox",
+        "Conversation management",
+        "Unlimited contacts",
+        "Templates and tags",
+        "Basic reporting",
+        "Hubspot integration"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": 1,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Includes advanced features and AI essentials.",
+      "monthly_price": 99.0,
+      "annual_price": 1188.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Standard Plan features",
+        "Lists and campaigns",
+        "Automations",
+        "Advanced reporting and analytics",
+        "AI Essentials",
+        "HubSpot and other integrations"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "multiple",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced plan with API access and AI advanced features.",
+      "monthly_price": 199.0,
+      "annual_price": 2388.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Plus Plan features",
+        "AI Advanced",
+        "Access to API",
+        "Advanced administration and security",
+        "Salesforce Add-on Available"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "multiple",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for large-scale needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Pro Plan features",
+        "Custom feature configuration",
+        "White-glove onboarding",
+        "Additional training resources",
+        "Priority support services",
+        "High volume messaging available"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "custom",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS/MMS",
+      "unit": "per message segment",
+      "base_price": 0.03,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Salesforce Add-on",
+      "fee_amount": 7.5,
+      "fee_description": "Per user, per month for Salesforce integration."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:05:24.705730",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "46d9afc0-aaf7-4f8b-8d4c-0614c2107368",
+    "name": "Heymarket SMS",
+    "slug": "heymarket",
+    "description": "Heymarket SMS is a business texting with customers and employees. Your team gets shared inboxes, templates, and workflows to message quickly and securely from all the major messaging apps in one place.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/f2016b2af40f8b2d6a71aba0f5359d21.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 5
+  }
+}

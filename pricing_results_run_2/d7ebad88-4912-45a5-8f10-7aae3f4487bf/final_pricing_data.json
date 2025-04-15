@@ -1,0 +1,176 @@
+{
+  "app_id": "deputy",
+  "app_name": "Deputy",
+  "app_slug": "deputy",
+  "pricing_url": "https://www.deputy.com/pricing",
+  "source_url": "https://www.deputy.com/pricing",
+  "all_pricing_urls": [
+    "https://www.deputy.com/pricing",
+    "https://www.deputy.com/enterprise",
+    "https://www.deputy.com/hr-software"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Minimum monthly spend applies to certain plans. SMS charges are additional and vary by country.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Premium",
+      "tier_description": "Your complete Scheduling and Time & Attendance solution, with Reporting",
+      "monthly_price": 6.0,
+      "annual_price": 5.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Scheduling",
+        "Time & Attendance",
+        "Reporting"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Scheduling",
+      "tier_description": "For those who need a better way to roster and communicate with their team",
+      "monthly_price": 4.5,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Roster management",
+        "Team communication"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Time & Attendance",
+      "tier_description": "For those who need to track attendance and export timesheets to payroll",
+      "monthly_price": 4.5,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Attendance tracking",
+        "Timesheet export"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Designed for businesses with more than 250 employees and custom configuration needs",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom configuration",
+        "Enterprise support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Deputy HR Add-on",
+      "tier_description": "Available on all plans in the United States, United Kingdom & Australia",
+      "monthly_price": 2.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Personalized career hub",
+        "Job advertising",
+        "Applicant management",
+        "Paperless onboarding",
+        "Document management",
+        "Staff feedback surveys",
+        "Reports"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS",
+      "unit": "per 160 characters",
+      "base_price": 0.01,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.01
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Minimum Monthly Spend",
+      "fee_amount": 25.0,
+      "fee_description": "Minimum monthly spend for Premium, Scheduling, and Time & Attendance plans."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:11:11.608470",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d7ebad88-4912-45a5-8f10-7aae3f4487bf",
+    "name": "Deputy",
+    "slug": "deputy",
+    "description": "Deputy is an all-in-one employee scheduling, timesheets, tasking and communication platform. Used by thousands of businesses around the world it will improve profitability, staff culture and operational accountability.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c4bf55b302e68e9e18864f008c50c7ce.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 14
+  }
+}

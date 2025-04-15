@@ -1,0 +1,98 @@
+{
+  "app_name": "Hostaway",
+  "app_slug": "hostaway",
+  "search_term": "Find the official pricing page URL for Hostaway (hostaway.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688837.1273205,
+  "response_text": [
+    "The official pricing page for Hostaway can be found at: [https://www.hostaway.com/pricing](https://www.hostaway.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Hostaway | Short-Term, Airbnb & Vacation Rental Management ...",
+      "url": "https://www.hostaway.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.hostaway.com/pricing",
+      "is_accessible": true,
+      "content": "[\ud83d\uddd3\ufe0f EVENT Don't miss Hostchella 2025 happening in Austin \ud83e\udd20Don't miss Hostchella 2025 in Austin Get Tickets](https://www.hostchella.com/)\n\n[![Image 1](https://www.hostaway.com/static/10-year-en-US-559a54add46eaa0e11e712643713bd9f.svg)](https://www.hostaway.com/)\n\n![Image 2](https://www.hostaway.com/static/18751dd5651322076e0421b8c711e2b1/d6b7d/header-stars.png)\n\nCustomized Pricing That Scales With Your Growth\n-----------------------------------------------\n\nYour business is unique and we want to hear all about it! Book a no-obligation call with us today and get a quote tailored to you and your business needs.\n\nYour business is too important to put your trust in low-quality software.\n-------------------------------------------------------------------------\n\nYou need reliable tech with a full-suite of features, **200+ partner integrations and award-winning 24/7 customer support**.\n\nHostaway will never be the cheapest option, because cheap price = cheap tech. And we are deadly serious about building and investing in the best short-term rental software to help your business thrive.\n\n![Image 3: Hostaway](https://www.hostaway.com/static/pricing-hero-en-US-db86e276c094dfe07820f7894cb51189.webp)\n\nWhy do successful property managers trust Hostaway?\n---------------------------------------------------\n\n60\n\nminutes saved\n\nper reservation\n\n400x\n\nlistings growth\n\nexperienced by Hostaway customers\n\n20%+\n\nmore revenue\n\nper listing with features like Dynamic Pricing\n\nPricing frequently asked questions\n----------------------------------\n\n### How much does Hostaway cost?\n\nWe charge a monthly or annual rate based on your needs and the size of your business.\n\n### What\u2019s included in the price?\n\nAll core features of Hostaway\u2019s platform, including our channel manager, PMS, guest communications, analytics and reporting, and direct booking websites are included. Add-ons like smart locks, dynamic pricing, and insurance are not included in your base price.\n\n### Do you offer a free trial?\n\nWe want to be right there alongside you while you\u2019re trying out Hostaway, so as of now, we do not offer a free trial.\n\nTrusted By Thousands Of Successful Vacation Rental Property Managers Globally\n-----------------------------------------------------------------------------\n\nZalman S\n\n![Image 4: Hostaway review](blob:http://localhost/8b93800870389d3ff0fc5d2ad9be0b87)\n\nFabulous product with all the necessary features. Great customer support\n\nkim o\n\n![Image 5: Hostaway review](blob:http://localhost/8b93800870389d3ff0fc5d2ad9be0b87)\n\nWe found Hostaway to be the perfect option for our property management side of the business. Hostaway team went above and beyond meeting with us to get us started and through the first few months of operation. Now we deal primarily with the customer service via the app, and they get back to us immediately. They will either fix the issue we're having or we dialogue and troubleshoot to fix. They are constantly working to streamline the program for property managers in terms of calendar updates, updating listings etc. We host between 20-30 properties and they've been great to work with. Highly recommend.\n\nKeiran G\n\n![Image 6: Hostaway review](blob:http://localhost/8b93800870389d3ff0fc5d2ad9be0b87)\n\nThe software solves a lot of issues for me, but three core problems were solved because of Hostaway. 1) Channel distribution, 2) Automated guest communication, 3) Cleaning/task coordination.\n\nDiscover Hostaway\u2019s flexible pricing plans for Vacation Rental Software. Choose a plan that fits your short-term rental business needs and start optimizing your property management today.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "hostaway",
+        "app_name": "Hostaway",
+        "app_slug": "hostaway",
+        "pricing_url": "https://www.hostaway.com/",
+        "source_url": "https://www.hostaway.com/",
+        "all_pricing_urls": [
+          "https://www.hostaway.com/"
+        ],
+        "price_model_type": [
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is customized based on business needs and size, with monthly or annual rates. Add-ons are not included in the base price.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:47:21.340189",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.hostaway.com/pricing/",
+      "is_accessible": true,
+      "content": "[\ud83d\uddd3\ufe0f EVENT Don't miss Hostchella 2025 happening in Austin \ud83e\udd20Don't miss Hostchella 2025 in Austin Get Tickets](https://www.hostchella.com/)\n\n[![Image 1](https://www.hostaway.com/static/10-year-en-US-559a54add46eaa0e11e712643713bd9f.svg)](https://www.hostaway.com/)\n\n![Image 2](https://www.hostaway.com/static/18751dd5651322076e0421b8c711e2b1/d6b7d/header-stars.png)\n\nCustomized Pricing That Scales With Your Growth\n-----------------------------------------------\n\nYour business is unique and we want to hear all about it! Book a no-obligation call with us today and get a quote tailored to you and your business needs.\n\nYour business is too important to put your trust in low-quality software.\n-------------------------------------------------------------------------\n\nYou need reliable tech with a full-suite of features, **200+ partner integrations and award-winning 24/7 customer support**.\n\nHostaway will never be the cheapest option, because cheap price = cheap tech. And we are deadly serious about building and investing in the best short-term rental software to help your business thrive.\n\n![Image 3: Hostaway](https://www.hostaway.com/static/pricing-hero-en-US-db86e276c094dfe07820f7894cb51189.webp)\n\nWhy do successful property managers trust Hostaway?\n---------------------------------------------------\n\n60\n\nminutes saved\n\nper reservation\n\n400x\n\nlistings growth\n\nexperienced by Hostaway customers\n\n20%+\n\nmore revenue\n\nper listing with features like Dynamic Pricing\n\nPricing frequently asked questions\n----------------------------------\n\n### How much does Hostaway cost?\n\nWe charge a monthly or annual rate based on your needs and the size of your business.\n\n### What\u2019s included in the price?\n\nAll core features of Hostaway\u2019s platform, including our channel manager, PMS, guest communications, analytics and reporting, and direct booking websites are included. Add-ons like smart locks, dynamic pricing, and insurance are not included in your base price.\n\n### Do you offer a free trial?\n\nWe want to be right there alongside you while you\u2019re trying out Hostaway, so as of now, we do not offer a free trial.\n\nTrusted By Thousands Of Successful Vacation Rental Property Managers Globally\n-----------------------------------------------------------------------------\n\nZalman S\n\n![Image 4: Hostaway review](blob:http://localhost/8b93800870389d3ff0fc5d2ad9be0b87)\n\nFabulous product with all the necessary features. Great customer support\n\nkim o\n\n![Image 5: Hostaway review](blob:http://localhost/8b93800870389d3ff0fc5d2ad9be0b87)\n\nWe found Hostaway to be the perfect option for our property management side of the business. Hostaway team went above and beyond meeting with us to get us started and through the first few months of operation. Now we deal primarily with the customer service via the app, and they get back to us immediately. They will either fix the issue we're having or we dialogue and troubleshoot to fix. They are constantly working to streamline the program for property managers in terms of calendar updates, updating listings etc. We host between 20-30 properties and they've been great to work with. Highly recommend.\n\nKeiran G\n\n![Image 6: Hostaway review](blob:http://localhost/8b93800870389d3ff0fc5d2ad9be0b87)\n\nThe software solves a lot of issues for me, but three core problems were solved because of Hostaway. 1) Channel distribution, 2) Automated guest communication, 3) Cleaning/task coordination.\n\nDiscover Hostaway\u2019s flexible pricing plans for Vacation Rental Software. Choose a plan that fits your short-term rental business needs and start optimizing your property management today.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "hostaway",
+        "app_name": "Hostaway",
+        "app_slug": "hostaway",
+        "pricing_url": "https://www.hostaway.com/",
+        "source_url": "https://www.hostaway.com/",
+        "all_pricing_urls": [
+          "https://www.hostaway.com/"
+        ],
+        "price_model_type": [
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is customized based on business needs and size, with no free trial available.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Add-ons",
+            "fee_amount": null,
+            "fee_description": "Add-ons like smart locks, dynamic pricing, and insurance are not included in the base price."
+          }
+        ],
+        "extraction_timestamp": "2025-04-14T23:47:26.133365",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\hostaway\\20250414_234726"
+}

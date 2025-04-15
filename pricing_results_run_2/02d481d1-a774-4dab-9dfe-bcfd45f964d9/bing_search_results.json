@@ -1,0 +1,185 @@
+{
+  "app_name": "SendFox",
+  "app_slug": "sendfox",
+  "search_term": "Find the official pricing page URL for SendFox (sendfox.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744714312.5883608,
+  "response_text": [
+    "The official pricing page for SendFox can be found here: [https://sendfox.com/pricing](https://sendfox.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - SendFox",
+      "url": "https://sendfox.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://sendfox.com/pricing",
+      "is_accessible": true,
+      "content": "Choose the plan that's right for you:\n\n*   Sends Per Month?\n    \n*   Max Contacts?\n    \n*   SendFox Branding?\n    \n*   Paid Newsletters?\n    \n*   Scheduled Campaigns?\n    \n*   Smart Campaigns?\n    \n*   Referral Widget?\n    \n*   Translation/Localization?\n    \n*   Customer Support?\n    \n*   API?\n    \n*   Smart Page Gallery Access?\n    \n*   Automations?\n    \n*   Confirmation Redirect?\n    \n*   Smart Pages?\n    \n*   Forms?\n    \n*   Contact Lists?\n    \n*   Sending Server/Deliverability?\n    \n*   Double Opt-In?\n    \n*   HTML Editor?\n    \n\n*   Sends Per Month\n    \n    ?\n    \n    3,000\n*   Max Contacts\n    \n    ?\n    \n    1,000\n*   SendFox Branding\n    \n    ?\n    \n    Normal\n*   Paid Newsletters\n    \n    ?\n    \n    No\n*   Scheduled Campaigns\n    \n    ?\n    \n    Yes\n*   Smart Campaigns\n    \n    ?\n    \n    Yes\n*   Referral Widget\n    \n    ?\n    \n    Yes\n*   Translation/Localization\n    \n    ?\n    \n    Yes\n*   Customer Support\n    \n    ?\n    \n    Yes\n*   API\n    \n    ?\n    \n    No\n*   Smart Page Gallery Access\n    \n    ?\n    \n    No\n*   Automations\n    \n    ?\n    \n    No\n*   Confirmation Redirect\n    \n    ?\n    \n    No\n*   Smart Pages\n    \n    ?\n    \n    One\n*   Forms\n    \n    ?\n    \n    One\n*   Contact Lists\n    \n    ?\n    \n    Three\n*   Sending Server/Deliverability\n    \n    ?\n    \n    Normal\n*   Double Opt-In\n    \n    ?\n    \n    Required\n*   HTML Editor\n    \n    ?\n    \n    Basic\n\n**Recommended!**\n\n*   Sends Per Month\n    \n    ?\n    \n    Unlimited\n*   Max Contacts\n    \n    ?\n    \n    5,000\n*   SendFox Branding\n    \n    ?\n    \n    Reduced\n*   Paid Newsletters\n    \n    ?\n    \n    No\n*   Scheduled Campaigns\n    \n    ?\n    \n    Yes\n*   Smart Campaigns\n    \n    ?\n    \n    Yes\n*   Referral Widget\n    \n    ?\n    \n    Yes\n*   Translation/Localization\n    \n    ?\n    \n    Yes\n*   Customer Support\n    \n    ?\n    \n    Yes\n*   API\n    \n    ?\n    \n    Yes\n*   Smart Page Gallery Access\n    \n    ?\n    \n    Yes\n*   Automations\n    \n    ?\n    \n    Unlimited\n*   Confirmation Redirect\n    \n    ?\n    \n    No\n*   Smart Pages\n    \n    ?\n    \n    Unlimited\n*   Forms\n    \n    ?\n    \n    Unlimited\n*   Contact Lists\n    \n    ?\n    \n    Unlimited\n*   Sending Server/Deliverability\n    \n    ?\n    \n    Better\n*   Double Opt-In\n    \n    ?\n    \n    Required\n*   HTML Editor\n    \n    ?\n    \n    Basic\n\n*   Sends Per Month\n    \n    ?\n    \n    Unlimited\n*   Max Contacts\n    \n    ?\n    \n    Based on Lifetime plan\n*   SendFox Branding\n    \n    ?\n    \n    None/Whitelabel\n*   Paid Newsletters\n    \n    ?\n    \n    Yes\n*   Scheduled Campaigns\n    \n    ?\n    \n    Yes\n*   Smart Campaigns\n    \n    ?\n    \n    Yes\n*   Referral Widget\n    \n    ?\n    \n    Yes\n*   Translation/Localization\n    \n    ?\n    \n    Yes\n*   Customer Support\n    \n    ?\n    \n    Yes\n*   API\n    \n    ?\n    \n    Yes\n*   Smart Page Gallery Access\n    \n    ?\n    \n    Yes\n*   Automations\n    \n    ?\n    \n    Unlimited\n*   Confirmation Redirect\n    \n    ?\n    \n    Yes\n*   Smart Pages\n    \n    ?\n    \n    Unlimited\n*   Forms\n    \n    ?\n    \n    Unlimited\n*   Contact Lists\n    \n    ?\n    \n    Unlimited\n*   Sending Server/Deliverability\n    \n    ?\n    \n    Best\n*   Double Opt-In\n    \n    ?\n    \n    Optional\n*   HTML Editor\n    \n    ?\n    \n    Full\n\n$\n\n18\n\n/month\n\n\u2190 Requires Lifetime Plan\n\nWhat's next?\n\n\\*In some cases, where abuse or terms violation is detected we may optimize the send volume of a user.\n\nGrow your audience with email campaigns, automations, and landing pages that integrate your content.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "sendfox",
+        "app_name": "SendFox",
+        "app_slug": "sendfox",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes a free tier and subscription options with varying features and limits.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Basic plan with limited features.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "3,000 sends per month",
+              "1,000 max contacts",
+              "Normal branding",
+              "No paid newsletters",
+              "Scheduled campaigns",
+              "Smart campaigns",
+              "Referral widget",
+              "Translation/localization",
+              "Customer support",
+              "No API access",
+              "No smart page gallery access",
+              "No automations",
+              "No confirmation redirect",
+              "One smart page",
+              "One form",
+              "Three contact lists",
+              "Normal sending server/deliverability",
+              "Required double opt-in",
+              "Basic HTML editor"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Sends Per Month",
+                  "value": 3000
+                },
+                {
+                  "name": "Max Contacts",
+                  "value": 1000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Recommended",
+            "tier_description": "Enhanced plan with more features.",
+            "monthly_price": 18.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited sends per month",
+              "5,000 max contacts",
+              "Reduced branding",
+              "No paid newsletters",
+              "Scheduled campaigns",
+              "Smart campaigns",
+              "Referral widget",
+              "Translation/localization",
+              "Customer support",
+              "API access",
+              "Smart page gallery access",
+              "Unlimited automations",
+              "No confirmation redirect",
+              "Unlimited smart pages",
+              "Unlimited forms",
+              "Unlimited contact lists",
+              "Better sending server/deliverability",
+              "Required double opt-in",
+              "Basic HTML editor"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Max Contacts",
+                  "value": 5000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Lifetime",
+            "tier_description": "Premium plan with all features.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited sends per month",
+              "Max contacts based on lifetime plan",
+              "No branding",
+              "Paid newsletters",
+              "Scheduled campaigns",
+              "Smart campaigns",
+              "Referral widget",
+              "Translation/localization",
+              "Customer support",
+              "API access",
+              "Smart page gallery access",
+              "Unlimited automations",
+              "Confirmation redirect",
+              "Unlimited smart pages",
+              "Unlimited forms",
+              "Unlimited contact lists",
+              "Best sending server/deliverability",
+              "Optional double opt-in",
+              "Full HTML editor"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Max Contacts",
+                  "value": "Based on Lifetime plan"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T06:52:00.921315",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\sendfox\\20250415_065201"
+}

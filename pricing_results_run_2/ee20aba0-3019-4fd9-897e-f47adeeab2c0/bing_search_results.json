@@ -1,0 +1,19 @@
+{
+  "app_name": "ABC Trainerize",
+  "app_slug": "abc-trainerize",
+  "search_term": "Find the official pricing page URL for ABC Trainerize (abc-trainerize.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744706985.9020789,
+  "response_text": [
+    "Here is the link to the official pricing page for ABC Trainerize: [https://www.trainerize.com/pricing/](https://www.trainerize.com/pricing/) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.trainerize.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\abc-trainerize\\20250415_045001"
+}

@@ -1,0 +1,113 @@
+{
+  "app_id": "fundraise_up",
+  "app_name": "Fundraise Up",
+  "app_slug": "fundraise-up",
+  "pricing_url": "https://fundraiseup.com/pricing/",
+  "source_url": "https://fundraiseup.com/pricing",
+  "all_pricing_urls": [
+    "https://fundraiseup.com/pricing/"
+  ],
+  "price_model_type": [
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Fundraise Up charges a 4% transaction fee plus Stripe or PayPal fees. There are no setup, monthly, or annual fees. Volume discounts may apply.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Quick Start",
+      "tier_description": "For organizations processing $300,000 or less in online donations per year.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "No contract fees",
+        "No setup costs",
+        "No support costs",
+        "Access to the entire platform",
+        "24/7 customer support",
+        "Free migrations",
+        "Comprehensive help documentation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For organizations processing more than $300,000 in online donations per year.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "No contract fees",
+        "No setup costs",
+        "No support costs",
+        "Access to the entire platform",
+        "No cost implementation",
+        "Dedicated Customer Support Manager",
+        "24/7 customer support",
+        "Free migrations",
+        "Comprehensive help documentation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Transaction",
+      "unit": "per transaction",
+      "base_price": 4.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Stripe or PayPal Fees",
+      "fee_amount": null,
+      "fee_description": "Additional fees charged by Stripe or PayPal for payment processing."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:20:45.548507",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "efdc18bf-f0ea-4797-93de-a533f07a2505",
+    "name": "Fundraise Up",
+    "slug": "fundraiseup",
+    "description": "Fundraise Up is a donor-centric, AI-assisted online giving solution that helps nonprofits significantly increase the amount of money raised online.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/3f5142e62aae24174b62202a0531945f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 5
+  }
+}

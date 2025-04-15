@@ -1,0 +1,12 @@
+{
+  "app_name": "ChatGPT",
+  "app_slug": "chatgpt",
+  "search_term": "Find the official pricing page URL for ChatGPT (chatgpt.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744719593.3737879,
+  "response_text": [
+    "I could not locate an official pricing page for ChatGPT during the search. Please provide additional details or rephrase your query for further assistance."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\chatgpt\\20250415_081953"
+}

@@ -1,0 +1,51 @@
+{
+  "app_name": "FLG",
+  "app_slug": "flg",
+  "search_term": "Find the official pricing page URL for FLG (flg.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744717263.1505997,
+  "response_text": [
+    "I couldn't find a pricing page for FLG on their website or official sources. Their domain appears to be listed for sale\u30103:0\u2020source\u3011. Let me know if you'd like assistance with anything else."
+  ],
+  "citations": [
+    {
+      "title": "Flg.com is for sale. Buy it today!",
+      "url": "https://www.flg.com/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.flg.com/",
+      "is_accessible": true,
+      "content": "This domain is for sale!\n\nInquire today to secure this domain\n-----------------------------------\n\nPlease complete the form below to submit a price request for the domain.\n\nBy submitting this form, you agree to our [Terms & Conditions](https://domaineasy.com/terms-conditions) and [Privacy Policy](https://domaineasy.com/privacy-policy).\n\nPowered by\n\nBuy Flg.com on DomainEasy. Buy it today!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "FLG",
+        "app_name": "FLG",
+        "app_slug": "flg",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The provided content does not contain specific pricing information for the FLG software product.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:41:11.643743",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\flg\\20250415_074111"
+}

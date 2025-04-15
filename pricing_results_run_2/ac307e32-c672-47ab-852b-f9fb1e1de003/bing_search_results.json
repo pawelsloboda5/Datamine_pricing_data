@@ -1,0 +1,12 @@
+{
+  "app_name": "Zapier Manager",
+  "app_slug": "zapier-manager",
+  "search_term": "Find the official pricing page URL for Zapier Manager (zapier-manager.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744724987.58052,
+  "response_text": [
+    "I couldn't find a pricing page for zapier-manager.com. Let me know if you'd like further assistance!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\zapier-manager\\20250415_094948"
+}

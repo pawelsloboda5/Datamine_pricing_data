@@ -1,0 +1,146 @@
+{
+  "app_id": "seamless_ai",
+  "app_name": "Seamless AI",
+  "app_slug": "seamless-ai",
+  "pricing_url": "https://seamless.ai/pricing",
+  "source_url": "https://seamless.ai/pricing",
+  "all_pricing_urls": [
+    "https://seamless.ai/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details for Pro and Enterprise plans require contacting sales.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Best for those looking for hands-on experience to evaluate Seamless.AI.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email Addresses",
+        "Cell Phones",
+        "Real-time Search Engine",
+        "Enterprise Security and Compliance",
+        "Export Download",
+        "Premium Integrations",
+        "Pitch Intelligence"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": 50
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Best for those seeking additional credits and premium products.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email Addresses",
+        "Cell Phones",
+        "Real-time Search Engine",
+        "Enterprise Security and Compliance",
+        "Export Download",
+        "Premium Integrations",
+        "Pitch Intelligence",
+        "Free Admin Seat",
+        "Advanced Org Management"
+      ],
+      "limits": {
+        "users": "pay per user",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": "Daily Credit Refresh"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Enterprise-ready features for large teams with dedicated support.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email Addresses",
+        "Cell Phones",
+        "Real-time Search Engine",
+        "Enterprise Security and Compliance",
+        "Export Download",
+        "Premium Integrations",
+        "Pitch Intelligence",
+        "Free Admin Seat",
+        "Advanced Org Management"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": "Custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:10:48.287483",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bef166c5-61cc-48f8-99f8-d110655ae19d",
+    "name": "Seamless AI",
+    "slug": "seamless-ai",
+    "description": "Seamless AI is a real-time B2B Sales search engine to find leads using the power of AI.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/9549830ee8ecc065402f35470cbbf038_5.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools",
+      "Contact Management"
+    ],
+    "category_slugs": [
+      "ai-tools",
+      "contacts"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

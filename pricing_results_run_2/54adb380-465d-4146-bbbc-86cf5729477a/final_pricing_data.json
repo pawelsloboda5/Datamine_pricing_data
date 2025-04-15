@@ -1,0 +1,75 @@
+{
+  "app_id": "autopilot_journeys",
+  "app_name": "Autopilot Journeys",
+  "app_slug": "autopilot-journeys",
+  "pricing_url": "https://journeys.autopilotapp.com/pricing",
+  "source_url": "https://journeys.autopilotapp.com/pricing",
+  "all_pricing_urls": [
+    "https://journeys.autopilotapp.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing starts at $49/month for up to 2000 contacts.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Entry-level tier for small businesses.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Marketing Automation",
+        "Email Marketing",
+        "Lead Management",
+        "Multi-Channel Marketing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 2000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:40:07.693636",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "54adb380-465d-4146-bbbc-86cf5729477a",
+    "name": "Autopilot Journeys",
+    "slug": "autopilot",
+    "description": "Autopilot Journeys is visual marketing software for automating customer journeys, to help companies acquire and nurture leads through email, web, SMS and direct mail.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/ac9b3d2d4b2ea8244b4d6334bdaed751.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 3
+  }
+}

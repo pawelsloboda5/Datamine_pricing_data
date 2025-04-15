@@ -1,0 +1,164 @@
+{
+  "app_id": "filevine",
+  "app_name": "Filevine",
+  "app_slug": "filevine",
+  "pricing_url": "https://www.filevine.com/pricing",
+  "source_url": "https://www.filevine.com/pricing",
+  "all_pricing_urls": [
+    "https://www.filevine.com/pricing"
+  ],
+  "price_model_type": [
+    "custom",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Filevine offers custom-built packages tailored to the needs of each firm. Pricing details are not explicitly listed but are available upon request.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Includes basic case management and document management features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Deadlines",
+        "Tasks",
+        "Client communication",
+        "Custom Fields",
+        "SidebarAI (Limited)",
+        "Contacts",
+        "Calendar",
+        "Email integration",
+        "Financial and activity reporting (Limited)",
+        "Document Management (Organize, Basic Search, Generate, Collaborate)",
+        "Fee Management (Time and expense tracking, Hourly, flat fee and contingency billing, Invoices, Matter budgets, Fee allocation reporting (Limited), Trust account reporting (Limited), Quickbooks integration, UTBMS coding and 1998B for LEDES billing, Settlement Calculator)",
+        "Support and Training (Filevine University Courses, Online Help Center, Live Zoom Support)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Includes all features of Standard plus advanced document management and AI capabilities.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Deadlines",
+        "Tasks",
+        "Client communication",
+        "AIFields",
+        "Custom Fields",
+        "Phase Validation",
+        "Intake (Lead Docket)",
+        "SidebarAI (Limited)",
+        "Contacts",
+        "Calendar",
+        "Email integration",
+        "Financial and activity reporting (Limited)",
+        "Document Management (Advanced Search, Assemble, Collaborate, DemandsAi, AI Document Review, ImmigrationAI, eSignature, Contract Lifecycle Management)",
+        "Fee Management (Time and expense tracking, Hourly, flat fee and contingency billing, Invoices, Matter budgets, Fee allocation reporting (Limited), Trust account reporting (Limited), API for payment plans, Quickbooks integration, UTBMS coding and 1998B for LEDES billing, Settlement Calculator)",
+        "Support and Training (Filevine University Courses, Online Help Center, Live Zoom Support)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "\u00c0 la carte",
+      "tier_description": "Allows firms to select specific features and modules as needed.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Intake (Lead Docket)",
+        "Document Management (Organize, Basic Search)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Payment processing",
+      "unit": "per transaction",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": null,
+          "max": null,
+          "price": 2.94
+        },
+        {
+          "min": null,
+          "max": null,
+          "price": 3.75
+        },
+        {
+          "min": null,
+          "max": null,
+          "price": 2.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": true,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:00:39.335015",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b0c2ea55-8c54-4f53-9201-87d2fa44cddd",
+    "name": "Filevine",
+    "slug": "filevine",
+    "description": "Filevine is a modern case management system for law firms.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/8337f86efab8426f69f61da42f2e3ab9.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 21,
+    "trigger_count": 0
+  }
+}

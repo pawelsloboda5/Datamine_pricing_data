@@ -1,0 +1,180 @@
+{
+  "app_id": "quickmail",
+  "app_name": "QuickMail",
+  "app_slug": "quickmail",
+  "pricing_url": "https://quickmail.com/pricing",
+  "source_url": "https://quickmail.com/pricing",
+  "all_pricing_urls": [
+    "https://quickmail.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "QuickMail offers a free agency portal and a 14-day free trial for all plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Engage and close prospects on autopilot.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "30,000 Emails Monthly",
+        "10,000 Active Prospects",
+        "5 Email Addresses",
+        "1 LinkedIn Account",
+        "Unlimited Team Members",
+        "Free AutoWarmer with MailFlow",
+        "Reply Handling",
+        "Zapier",
+        "Blacklists Monitoring",
+        "Expert Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 30000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active Prospects",
+            "value": 10000
+          },
+          {
+            "name": "Email Addresses",
+            "value": 5
+          },
+          {
+            "name": "LinkedIn Accounts",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Powerful Stats & native integration with CRM.",
+      "monthly_price": 89.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "100,000 Emails Monthly",
+        "50,000 Active Prospects",
+        "20 Email Addresses",
+        "5 LinkedIn Accounts",
+        "Unlimited Team Members",
+        "Free AutoWarmer with MailFlow",
+        "Reply Handling",
+        "Zapier",
+        "Blacklists Monitoring",
+        "Expert Support",
+        "HubSpot & Pipedrive Native Integration",
+        "Deliverability AI",
+        "Advanced Analytics"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 100000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active Prospects",
+            "value": 50000
+          },
+          {
+            "name": "Email Addresses",
+            "value": 20
+          },
+          {
+            "name": "LinkedIn Accounts",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Expert",
+      "tier_description": "Advanced Analytics, AI & Sub-Campaigns.",
+      "monthly_price": 129.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "300,000 Emails Monthly",
+        "100,000 Active Prospects",
+        "50 Email Addresses",
+        "15 LinkedIn Accounts",
+        "Unlimited Team Members",
+        "Free AutoWarmer with MailFlow",
+        "Reply Handling",
+        "Zapier",
+        "Blacklists Monitoring",
+        "Expert Support",
+        "HubSpot & Pipedrive Native Integration",
+        "Deliverability AI",
+        "Advanced Analytics",
+        "AI & Sub-Campaigns",
+        "API"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 300000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active Prospects",
+            "value": 100000
+          },
+          {
+            "name": "Email Addresses",
+            "value": 50
+          },
+          {
+            "name": "LinkedIn Accounts",
+            "value": 15
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:33:38.071686",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b1eddb87-9a25-4911-bdba-d2063e17a511",
+    "name": "QuickMail",
+    "slug": "quickmail",
+    "description": "Grow your business fast with personalized cold emails at scale.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/99a32b8bb0b2adeb85a6acb9cbd3035f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Drip Emails"
+    ],
+    "category_slugs": [
+      "drip-emails"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 10
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "app_name": "Digistore24",
+  "app_slug": "digistore24",
+  "search_term": "Find the official pricing page URL for Digistore24 (digistore24.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688923.6686845,
+  "response_text": [
+    "The official pricing page for Digistore24 can be found here: [https://www.digistore24.com/info](https://www.digistore24.com/info)\u30103:1\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Features & Pricing - Digistore24",
+      "url": "https://www.digistore24.com/en/features"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.digistore24.com/info",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    },
+    {
+      "url": "https://www.digistore24.com/en/features",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\digistore24\\20250414_234905"
+}

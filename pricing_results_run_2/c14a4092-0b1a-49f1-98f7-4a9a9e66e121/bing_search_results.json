@@ -1,0 +1,19 @@
+{
+  "app_name": "T2M URL Shortener",
+  "app_slug": "t2m-url-shortener",
+  "search_term": "Find the official pricing page URL for T2M URL Shortener (t2m-url-shortener.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744687998.301978,
+  "response_text": [
+    "The official pricing page for T2M URL Shortener can be found at: https://t2m-url-shortener.com/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://t2m-url-shortener.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\t2m-url-shortener\\20250414_233318"
+}

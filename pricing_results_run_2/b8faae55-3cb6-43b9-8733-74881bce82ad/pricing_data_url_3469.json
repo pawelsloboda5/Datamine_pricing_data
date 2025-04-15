@@ -1,0 +1,48 @@
+{
+  "app_id": "webCRM",
+  "app_name": "webCRM",
+  "app_slug": "webcrm",
+  "pricing_url": "https://webcrm.com/prices/",
+  "source_url": "https://webcrm.com/pricing/",
+  "all_pricing_urls": [
+    "https://webcrm.com/prices/",
+    "https://webcrm.com/free-trial/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not accessible, and detailed pricing information could not be extracted.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T10:05:26.272847",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b8faae55-3cb6-43b9-8733-74881bce82ad",
+    "name": "webCRM",
+    "slug": "webcrm",
+    "description": "webCRM helps your sales team with the daily workflow and overview.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/e76bfd0e61ada4da00c091e86061ac9e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 16,
+    "trigger_count": 9
+  }
+}

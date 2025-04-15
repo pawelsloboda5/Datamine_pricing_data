@@ -1,0 +1,175 @@
+{
+  "app_id": "clicksign",
+  "app_name": "Clicksign",
+  "app_slug": "clicksign",
+  "pricing_url": "https://www.clicksign.com/preco",
+  "source_url": "https://www.clicksign.com/preco",
+  "all_pricing_urls": [
+    "https://www.clicksign.com/preco",
+    "https://www.clicksign.com/archive/preco3"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "BRL",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription plans with additional usage-based fees for exceeding document limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Start",
+      "tier_description": "Basic plan for small usage.",
+      "monthly_price": 39.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Document signing via email",
+        "Digital certificate signing",
+        "Signature order definition",
+        "API integration",
+        "Batch document signing"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Documents per month",
+            "value": "limited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Enhanced plan with additional features.",
+      "monthly_price": 59.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features of Start",
+        "WhatsApp signing",
+        "Biometric verification",
+        "Brand customization",
+        "Email sender customization",
+        "AI assistance"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Documents per month",
+            "value": "limited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Custom plan for large-scale usage.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features of Plus",
+        "Annual or monthly billing",
+        "Business automation",
+        "Exclusive support",
+        "White-label API",
+        "SSO login"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Documents per month",
+            "value": "200+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Excess documents",
+      "unit": "per document",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 20.0,
+          "price": 3.0
+        },
+        {
+          "min": 21.0,
+          "max": 50.0,
+          "price": 2.7
+        },
+        {
+          "min": 51.0,
+          "max": 100.0,
+          "price": 2.5
+        },
+        {
+          "min": 101.0,
+          "max": 200.0,
+          "price": 2.4
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Biometric authentication",
+      "fee_amount": 4.5,
+      "fee_description": "Charged per attempt."
+    },
+    {
+      "fee_name": "Documentoscopy authentication",
+      "fee_amount": 4.5,
+      "fee_description": "Charged per use."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:40:09.908333",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "92f750b6-ec05-466d-ba32-286f8d2d5027",
+    "name": "Clicksign",
+    "slug": "clicksign",
+    "description": "Clicksign is an electronic document signing platform that meets the requirements of integrity, authenticity and non-repudiation of Brazilian legislation.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/15496a033d8b847593e09741d70269f9.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Proposal & Invoice Management"
+    ],
+    "category_slugs": [
+      "invoices"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 19,
+    "trigger_count": 0
+  }
+}

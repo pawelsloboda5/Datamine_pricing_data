@@ -1,0 +1,183 @@
+{
+  "app_id": "krisp",
+  "app_name": "Krisp",
+  "app_slug": "krisp",
+  "pricing_url": "https://krisp.ai/pricing",
+  "source_url": "https://krisp.ai/pricing",
+  "all_pricing_urls": [
+    "https://krisp.ai/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription tiers for individuals and businesses, as well as usage-based pricing for SDKs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For Individuals to capture meetings & noise cancellation",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Transcript & Audio Recording",
+        "60 min/day Noise Cancellation",
+        "60 min/day Accent Conversion",
+        "2/day AI notes & Action Items",
+        "7 day Meeting history",
+        "English only Transcript & Summaries",
+        "Bot-free Transcription and Recording with speaker identification",
+        "Bot-free",
+        "In-person meetings support (Soon)",
+        "Workspace-level 750 words",
+        "Custom Vocabulary",
+        "Agenda",
+        "Centralized Meeting space",
+        "Workspace level sharing",
+        "Workspace-level custom vocabulary",
+        "Workspace Contacts",
+        "Workspace",
+        "Slack Integration",
+        "5 uploads in Free plan",
+        "File Uploads & Transcribe",
+        "Mobile app (Soon)",
+        "Chrome Extension"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Unlimited Meeting Assistance & Workspace Collaboration",
+      "monthly_price": 8.0,
+      "annual_price": 6.0,
+      "annual_discount_percentage": 50.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Free - Unlimited",
+        "Unlimited Transcript & Audio Recording",
+        "Unlimited Noise Cancellation",
+        "60 min/day Accent Conversion",
+        "Unlimited AI Notes & Action Items",
+        "Unlimited Meeting History",
+        "Transcript & Summaries in 19+ langs",
+        "Video Recording",
+        "Ask Krisp - Co-pilot",
+        "All Action Items from your meetings in one place",
+        "Centralized Action Items",
+        "More detailed AI summaries",
+        "AI Outline",
+        "Record with bot",
+        "Bulk export any meeting file - Export, delete, pdf ...",
+        "Bulk Actions",
+        "Integrations",
+        "Slack, Zapier",
+        "Storage",
+        "3GB",
+        "User management & billing",
+        "Centralized user management",
+        "Centralized billing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "3GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Admin Controls, Sales Features, Integrations and Priority support",
+      "monthly_price": 15.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": 50.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Pro - Unlimited",
+        "Unlimited Transcript & Audio Recording",
+        "Unlimited Noise Cancellation",
+        "Unlimited Accent Conversion",
+        "Unlimited AI Notes & Action Items",
+        "Unlimited Meeting History",
+        "SSO/SCIM",
+        "SOC2 Report Access",
+        "Admin controls",
+        "Manager view",
+        "Company deal grouping",
+        "Usage analytics",
+        "Dedicated Account Manager",
+        "Integrations with any CRM & ATS",
+        "Hubspot, Salesforce, Affinity",
+        "Storage",
+        "best for storing video recordings",
+        "30GB"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "30GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SDK Usage",
+      "unit": "per request",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:51:56.171145",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "deba5eb0-88eb-47fd-bb42-fb25f060770d",
+    "name": "Krisp",
+    "slug": "krisp",
+    "description": "Krisp offers transcription and note-taking capabilities, facilitating efficient documentation of conversations and meetings.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/febd8ee7f5d4546e1375bae9a45f803f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Notes"
+    ],
+    "category_slugs": [
+      "notes"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

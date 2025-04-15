@@ -1,0 +1,225 @@
+{
+  "app_id": "podium",
+  "app_name": "Podium",
+  "app_slug": "podium",
+  "pricing_url": null,
+  "source_url": "https://www.podium.com/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED",
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is customized based on business needs and requires contacting sales.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Core",
+      "tier_description": "With essential AI features, respond to and convert more leads faster.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Consolidated Lead Conversion Platform",
+        "Review Management with AI Responses",
+        "Basic Automations",
+        "Basic Reporting",
+        "Basic Customization Options",
+        "Podium Mobile App",
+        "200+ Integration with Integration Support",
+        "Phone Systems Add-on Available",
+        "Dedicated Customer Success Manager",
+        "Chat, Phone, Email Support",
+        "1-on-1 Personalized Onboarding"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "200+",
+        "custom_limits": [
+          {
+            "name": "Bulk Messages",
+            "value": "250 credits/mo"
+          },
+          {
+            "name": "Phone Numbers Included",
+            "value": "5 numbers"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Maximize your lead conversion with advanced AI and automations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "AI Concierge",
+        "AI Reputation Specialist",
+        "AI Phone Call Summaries",
+        "Automatic Lead Routing",
+        "Advanced Automations",
+        "Lead Capture Forms",
+        "Hosted Surveys",
+        "Text-Based Surveys",
+        "Text Marketing with Images and GIFs",
+        "Advanced Customer Segmentation",
+        "High-Volume Carrier-Verified Messaging",
+        "Lower Payment Processing Fees"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "200+",
+        "custom_limits": [
+          {
+            "name": "Bulk Messages",
+            "value": "500 credits/mo"
+          },
+          {
+            "name": "Phone Numbers Included",
+            "value": "15 numbers"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Signature",
+      "tier_description": "Build a custom plan that meets the complexity of your operations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "AI Scheduler",
+        "AI Salesperson",
+        "AI Marketer",
+        "Advanced Multi-Location Management",
+        "Advanced Reporting Add-on Available",
+        "Advanced Branding and Customization",
+        "Discount on Phones Plan",
+        "Discount on Desk Phones",
+        "Discount on Point of Sale Hardware",
+        "Discount on High Volume Bulk Messages",
+        "Comprehensive Account Migration",
+        "Quarterly Business Reviews",
+        "Personalized Account Plans",
+        "Priority Phone Plan Support",
+        "Proactive Fraud Alert System",
+        "Custom Billing Available",
+        "Custom Processing Rates"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "200+",
+        "custom_limits": [
+          {
+            "name": "Bulk Messages",
+            "value": "Custom"
+          },
+          {
+            "name": "Phone Numbers Included",
+            "value": "Custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Bulk Messages",
+      "unit": "credits",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 250.0,
+          "price": null
+        },
+        {
+          "min": 251.0,
+          "max": 500.0,
+          "price": null
+        },
+        {
+          "min": 501.0,
+          "max": "Custom",
+          "price": null
+        }
+      ]
+    },
+    {
+      "metric_name": "Phone Numbers",
+      "unit": "per number",
+      "base_price": 5.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Discounts for Multi-Location Businesses",
+      "offer_description": "Discounts available for businesses with multiple locations.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Network Optimization Fee",
+      "fee_amount": 500.0,
+      "fee_description": "Charged per location for network optimization."
+    },
+    {
+      "fee_name": "10DLC Fee",
+      "fee_amount": 5.0,
+      "fee_description": "Base fee for US locations."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:59:53.816424",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "da13c61c-8e18-49bb-8561-c6d62a64b93a",
+    "name": "Podium",
+    "slug": "podium",
+    "description": "Podium is a messaging platform that helps you get more reviews, collect payments, send SMS campaigns, and centralize your communications",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/a3ce60d53a0deac0c096872bd971d11c_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Communication"
+    ],
+    "category_slugs": [
+      "communication"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 5
+  }
+}

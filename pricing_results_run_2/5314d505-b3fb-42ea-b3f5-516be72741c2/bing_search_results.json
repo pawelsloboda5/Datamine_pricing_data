@@ -1,0 +1,224 @@
+{
+  "app_name": "GitLab",
+  "app_slug": "gitlab",
+  "search_term": "Find the official pricing page URL for GitLab (gitlab.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744686432.2345693,
+  "response_text": [
+    "The official pricing page for GitLab is located at: [https://about.gitlab.com/pricing/](https://about.gitlab.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | GitLab",
+      "url": "https://about.gitlab.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://about.gitlab.com/pricing/",
+      "is_accessible": true,
+      "content": "Pricing | GitLab\n===============\n   \n\n[](https://about.gitlab.com/)\n\n*   Platform\n    \n    [[Platform](https://about.gitlab.com/platform/) The most comprehensive AI-powered DevSecOps Platform [Explore our Platform](https://about.gitlab.com/platform/)](https://about.gitlab.com/platform/)[[GitLab Duo (AI)](https://about.gitlab.com/gitlab-duo/) Build software faster with AI at every stage of development [Meet GitLab Duo](https://about.gitlab.com/gitlab-duo/)](https://about.gitlab.com/gitlab-duo/)[[Why GitLab](https://about.gitlab.com/why-gitlab/) 10 reasons why Enterprises choose GitLab [Learn more](https://about.gitlab.com/why-gitlab/)](https://about.gitlab.com/why-gitlab/)\n    \n    Get started with\n    \n    [Platform Engineering](https://about.gitlab.com/solutions/platform-engineering/) [Developer Experience](https://about.gitlab.com/developer-experience/) [MLOps](https://about.gitlab.com/topics/devops/the-role-of-ai-in-devops/)\n    \n*   Product\n    \n    Automation\n    \n    [CI/CD](https://about.gitlab.com/solutions/continuous-integration/)\n    \n    [AI-Assisted Development](https://about.gitlab.com/gitlab-duo/)\n    \n    [Source Code Management](https://about.gitlab.com/solutions/source-code-management/)\n    \n    [Automated Software Delivery](https://about.gitlab.com/solutions/delivery-automation/)\n    \n    Security\n    \n    [Security & Compliance](https://about.gitlab.com/solutions/security-compliance/)\n    \n    [Software Supply Chain Security](https://about.gitlab.com/solutions/supply-chain/)\n    \n    [Compliance & Governance](https://about.gitlab.com/solutions/continuous-software-compliance/)\n    \n    Measurement\n    \n    [Visibility & Measurement](https://about.gitlab.com/solutions/visibility-measurement/)\n    \n    [Value Stream Management](https://about.gitlab.com/solutions/value-stream-management/)\n    \n    [Analytics & Insights](https://about.gitlab.com/solutions/analytics-and-insights/)\n    \n    [View all Solutions](https://about.gitlab.com/solutions/)\n    \n    GitLab for\n    \n    [Enterprise](https://about.gitlab.com/enterprise/) [Small Business](https://about.gitlab.com/small-business/) [Public Sector](https://about.gitlab.com/solutions/public-sector/)\n    \n*   [Pricing](https://about.gitlab.com/pricing/ \"Pricing\")\n    \n*   Resources\n    \n    Getting started\n    \n    [Install](https://about.gitlab.com/install/)\n    \n    [Quick start guides](https://about.gitlab.com/get-started/)\n    \n    [Learn](https://university.gitlab.com/)\n    \n    [Product documentation](https://docs.gitlab.com/)\n    \n    [Best practice videos](https://about.gitlab.com/getting-started-videos/)\n    \n    [Integrations](https://about.gitlab.com/integrations/)\n    \n    Discover\n    \n    [Customer success stories](https://about.gitlab.com/customers/)\n    \n    [Blog](https://about.gitlab.com/blog/)\n    \n    [The Source](https://about.gitlab.com/the-source/)\n    \n    [Remote](https://handbook.gitlab.com/handbook/company/culture/all-remote/)\n    \n    [TeamOps](https://about.gitlab.com/teamops/)\n    \n    Connect\n    \n    [GitLab Services](https://about.gitlab.com/services/)\n    \n    [Community](https://about.gitlab.com/community/)\n    \n    [Forum](https://forum.gitlab.com/)\n    \n    [Events](https://about.gitlab.com/events/)\n    \n    [Partners](https://about.gitlab.com/partners/)\n    \n    [View all resources](https://about.gitlab.com/resources/)\n    \n    [![Image 2](https://images.ctfassets.net/g1m12f5de7m9/2JiLPDuEnwVNuNYMFC5Quv/4038b6c8cc6ff3fc4e310a0f7589310a/the-source-promo-card.svg) Insights for the future of software development [Read the latest](https://about.gitlab.com/the-source/)](https://about.gitlab.com/the-source/)\n    \n*   Company\n    \n    [About](https://about.gitlab.com/company/)\n    \n    [Jobs](https://about.gitlab.com/jobs/)\n    \n    [Events](https://about.gitlab.com/events/)\n    \n    [Leadership](https://about.gitlab.com/company/team/e-group/)\n    \n    [Team](https://about.gitlab.com/company/team/)\n    \n    [Handbook](https://handbook.gitlab.com/)\n    \n    [Investor relations](https://ir.gitlab.com/)\n    \n    [Trust Center](https://about.gitlab.com/security/)\n    \n    [AI Transparency Center](https://about.gitlab.com/ai-transparency-center/)\n    \n    [Newsletter](https://about.gitlab.com/company/contact/)\n    \n    [Press](https://about.gitlab.com/press/)\n    \n*   Contact us\n    \n    [Talk to sales](https://about.gitlab.com/sales/)\n    \n    [Get help](https://about.gitlab.com/support/)\n    \n    [Customer portal](https://customers.gitlab.com/customers/sign_in/)\n    \n\n[Talk to sales](https://about.gitlab.com/sales/) [Get free trial](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com/pricing/&glm_content=default-saas-trial)\n\n[Sign in](https://gitlab.com/users/sign_in \"Sign in\")\n\nClose\n\nTo search repositories and projects, login to [gitlab.com](https://gitlab.com/users/sign_in/).\n\nSuggestions\n\n[GitLab Duo (AI)](https://about.gitlab.com/gitlab-duo/) [Code Suggestions (AI)](https://about.gitlab.com/solutions/code-suggestions/) [CI/CD](https://about.gitlab.com/features/continuous-integration/) [GitLab on AWS](https://about.gitlab.com/partners/technology-partners/aws/) [GitLab on Google Cloud](https://about.gitlab.com/partners/technology-partners/google-cloud-platform/) [Why GitLab?](https://about.gitlab.com/why-gitlab/)\n\n[](https://about.gitlab.com/)\n\n[Talk to sales](https://about.gitlab.com/sales/) [Get free trial](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com/pricing/&glm_content=default-saas-trial)[](https://gitlab.com/users/sign_in)\n\n[Get free trial](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com/pricing/&glm_content=default-saas-trial)\n\n[](https://about.gitlab.com/)\n\nGitLab Premium & GitLab Duo Pro \u2014 $19 for new small business customers\n\n[Learn more](https://about.gitlab.com/pricing/smb-promo/)\n\nGet the AI-powered DevSecOps Platform\n=====================================\n\nGitLab.com\n\nSelf Managed\n\nDedicated\n\nWe host, no technical setup required.\n\nFree\n----\n\nUse GitLab for personal projects\n\n$ 0\n\nper user/month,\n\nNo credit card required\n\n[Get started](https://gitlab.com/-/trial_registrations/new?_gl=1%2A1c025i%2A_ga%2AMTYyOTY3MzIyLjE2ODcyNzM0MTI.%2A_ga_ENFH3X7M5Y%2AMTY4NzI3MzQxMS4xLjAuMTY4NzI3MzQxNC4wLjAuMA)\n\nFree features:\n--------------\n\n*   400 compute minutes per month [\\[1\\]](https://about.gitlab.com/pricing/#why-do-i-need-to-enter-credit-debit-card-details-for-free-compute-minutes)\n    \n*   5 users per top-level group [\\[4\\]](https://about.gitlab.com/pricing/#what-is-the-5-user-limit-on-the-gitlab-com-free-tier)\n    \n\nPremium\n-------\n\nFor scaling organizations and multi-team usage\n\nFor when your growing organization needs to automate software delivery and improve collaboration between teams\n\n$ 29\n\nper user/month,\n\nbilled annually\n\n[Contact Sales](https://about.gitlab.com/sales/) [Buy GitLab Premium](https://gitlab.com/-/subscriptions/new?plan_id=2c92a00d76f0d5060176f2fb0a5029ff&test=capabilities)\n\nEverything from Free, plus:\n---------------------------\n\n*   Code Ownership and Protected Branches\n    \n*   Merge Requests with Approval Rules\n    \n*   Team Planning\n    \n*   Advanced CI/CD\n    \n*   Enterprise User and Incident Management\n    \n*   Support\n    \n*   10,000 compute minutes per month\n    \n\n[Learn more about Premium](https://about.gitlab.com/pricing/premium/)\n\nUltimate\n--------\n\nFor enterprises looking to deliver software faster\n\nFor when your mission-critical software requires organization-wide security, compliance, and planning\n\n[Contact Sales](https://about.gitlab.com/sales/)\n\nEverything from Premium, plus:\n------------------------------\n\n*   Dynamic Application Security Testing\n    \n*   Security Dashboards\n    \n*   Vulnerability Management\n    \n*   Dependency Scanning\n    \n*   Container Scanning [\\[1\\]](https://about.gitlab.com/pricing/#features-and-benefits)\n    \n*   Static Application Security Testing [\\[2\\]](https://about.gitlab.com/pricing/#features-and-benefits)\n    \n*   Multi-Level Epics\n    \n*   Enterprise Agile Planning\n    \n*   Portfolio Management\n    \n*   Custom Roles\n    \n*   Value Stream Management\n    \n*   50,000 compute minutes per month\n    \n*   Free guest users\n    \n\n[Learn more about Ultimate](https://about.gitlab.com/pricing/ultimate/)\n\n### Compare all features\n\nAdd-ons[](https://about.gitlab.com/pricing/#addons)\n---------------------------------------------------\n\n### \n\nGitLab Duo\n\nPro[](https://about.gitlab.com/pricing/#pro)\n\nFor developers that want to focus on innovation and deliver high-quality software\n\n$19\n\nper user/month,\n\nbilled annually\n\n[Get Started](https://about.gitlab.com/solutions/gitlab-duo-pro/sales/)\n\n**Features include:**\n\n**Organizational User Controls**\n\n*   User permissions for AI capabilities\n\n**Code Suggestions**\n\n*   Code generation\n*   Code completion\n*   Available in many popular IDEs and supports over 20 programming languages\n\n**Chat**\n\n*   Code explanation\n*   Test generation\n*   Code refactoring\n\nAvailable for Ultimate and Premium customers.\n\n![Image 3](https://about.gitlab.com/_nuxt/image/5ebe7a.webp) New\n\n### \n\nGitLab Duo\n\nEnterprise[](https://about.gitlab.com/pricing/#enterprise)\n\nFor organizations that want AI throughout the software development lifecycle\n\nContact sales for pricing\n\n[Get Started](https://about.gitlab.com/solutions/gitlab-duo-pro/sales/?type=contact-sales)\n\n**Everything from GitLab Duo Pro, plus:**\n\n**Summarization and Templating tools**\n\n*   Discussion summary\n*   Merge request summary\n*   Code review summary\n\n**Security and Vulnerability tools**\n\n*   Vulnerability explanation\n*   Vulnerability resolution\n\n**Advanced Chat with**\n\n*   Merge Request context\n*   Issue and Epic context\n\n**Advanced Troubleshooting**\n\n*   Root Cause Analysis\n\n**AI Analytics**\n\n*   AI Impact and Productivity Reporting\n\n**Personalize GitLab Duo**\n\n*   GitLab Duo Self-Hosted (optional)\n\nAvailable for Ultimate customers.\n\n[### Enterprise Agile Planning[](https://about.gitlab.com/pricing/#enterprise-agile-planning) #### $15 per user/month, billed annually * Replacement for Jira * One planning workflow for everyone involved in the software development lifecycle * Value stream analytics to measure velocity and impact * Executive dashboards for organization-wide visibility * Stand-alone Enterprise Agile Planning seats for GitLab Ultimate customers \\* For Ultimate customers only. Contact us to purchase](https://about.gitlab.com/sales/)\n\n[### Compute Minutes[](https://about.gitlab.com/pricing/#compute-minutes-addon) #### $10 per 1,000 compute minutes, one time payment How to buy Compute](https://docs.gitlab.com/ee/ci/pipelines/cicd_minutes.html#purchase-additional-compute-minutes)\n\n[### Storage[](https://about.gitlab.com/pricing/#storage) #### $5 per month for 10GiB of storage, billed annually How to buy Storage](https://docs.gitlab.com/ee/subscriptions/gitlab_com/#purchase-more-storage)\n\n[![Image 4](https://images.ctfassets.net/xz1dnu24egyd/1h9XRfntNjYD8HdTJQQwo6/1f878add5220db944485a3f0b3474724/avatar_purple.png) ### Learn how GitLab's DevSecOps Platform can help you. Talk to an expert](https://about.gitlab.com/sales/)\n\n[![Image 5](https://images.ctfassets.net/xz1dnu24egyd/3ss2R1G8EZrGBzwuYERCKw/aca80c10d0317ac4d4be7bd1bdd5c6a2/avatar_orange.png) ### Purchase GitLab through Cloud Marketplaces seamlessly. Learn More](https://about.gitlab.com/cloud-partner-marketplaces/)\n\n[License and Subscription](https://about.gitlab.com/pricing/#license-and-subscription) [Payments and Pricing](https://about.gitlab.com/pricing/#payments-and-pricing) [Features and Benefits](https://about.gitlab.com/pricing/#features-and-benefits) [GitLab.com](https://about.gitlab.com/pricing/#gitlab-saas) [User Limits](https://about.gitlab.com/pricing/#user-limits) [Compute minutes](https://about.gitlab.com/pricing/#compute-minutes) [Storage Limits](https://about.gitlab.com/pricing/#storage-limits)\n\nFrequently Asked Questions\n--------------------------\n\n### License and Subscription\n\nShow All\n\n#### I already have an account, how do I upgrade?\n\n#### Can I add more users to my subscription?\n\n#### How will I be charged for add-on users?\n\n#### What happens when my subscription is about to expire or has expired?\n\n#### What happens if I decide not to renew my subscription?\n\n#### Can I acquire a mix of licenses?\n\n#### How does the license key work?\n\n#### What is an Activation Code?\n\n#### What features and permissions are available to Enterprise Agile Planning users?\n\n#### What documentation applies to use of my subscription?\n\n### Payments and Pricing\n\nShow All\n\n#### What is a user?\n\n#### Is the listed pricing all inclusive?\n\n#### What features are included in GitLab self-managed and GitLab.com across the pricing plans?\n\n#### Can I import my projects from another provider?\n\n#### Do you have special pricing for open source projects, educational institutions, or startups?\n\n#### How does GitLab determine what future features fall into given tiers?\n\n#### What is changing with the price of GitLab Premium?\n\n### Features and Benefits\n\nShow All\n\n#### What are the differences between Free, Premium, and Ultimate plans?\n\n#### What are the differences between SAST, Secret Detection, and Container Scanning across tiers?\n\n#### What is the difference between GitLab and other DevSecOps solutions?\n\n#### What does support entail?\n\n### GitLab.com\n\nShow All\n\n#### Where is GitLab.com hosted?\n\n#### What features are not available on GitLab.com?\n\n### User Limits\n\nShow All\n\n#### What is the 5-user limit on the GitLab.com Free tier?\n\n### Compute minutes\n\nShow All\n\n#### What are compute minutes?\n\n#### What happens if I use all of my compute minutes?\n\n#### Do the compute minutes apply to all runners?\n\n#### Do the compute minutes increase depending on the number of users in the group, or the number of users in the subscription?\n\n#### Why do I need to enter credit/debit card details for free compute minutes?\n\n#### Can I bring my own GitLab CI/CD runners?\n\n### Storage Limits\n\nShow All\n\n#### What are the current GitLab.com storage limits?\n\nReady to get started?\n---------------------\n\nSee what your team can do with the most comprehensive  \nAI-powered DevSecOps platform.\n\n[Get free trial](https://gitlab.com/-/trial_registrations/new?glm_source=about.gitlab.com/free-trial/devsecops/&glm_content=default-saas-trial)[Talk to sales](https://about.gitlab.com/sales/)\n\n\u00ae\n\n### Platform\n\n*   [DevSecOps platform](https://about.gitlab.com/platform/)\n\n### Pricing\n\n*   [View plans](https://about.gitlab.com/pricing/)\n*   [Why Premium?](https://about.gitlab.com/pricing/premium/)\n*   [Why Ultimate?](https://about.gitlab.com/pricing/ultimate/)\n\n### Solutions\n\n*   [Digital transformation](https://about.gitlab.com/solutions/digital-transformation/)\n*   [Security & Compliance](https://about.gitlab.com/solutions/security-compliance/)\n*   [Automated Software Delivery](https://about.gitlab.com/solutions/delivery-automation/)\n*   [Agile Delivery](https://about.gitlab.com/solutions/agile-delivery/)\n*   [Cloud transformation](https://about.gitlab.com/solutions/cloud-native/)\n*   [SCM](https://about.gitlab.com/solutions/source-code-management/)\n*   [CI/CD](https://about.gitlab.com/solutions/continuous-integration/)\n*   [Value stream management](https://about.gitlab.com/solutions/value-stream-management/)\n*   [GitOps](https://about.gitlab.com/solutions/gitops/)\n*   [Enterprise](https://about.gitlab.com/enterprise/)\n*   [Small Business](https://about.gitlab.com/small-business/)\n*   [Startups](https://about.gitlab.com/solutions/startups/)\n*   [Nonprofits](https://about.gitlab.com/solutions/nonprofit/)\n*   [Public sector](https://about.gitlab.com/solutions/public-sector/)\n*   [Education](https://about.gitlab.com/solutions/education/)\n*   [Financial services](https://about.gitlab.com/solutions/finance/)\n\n### Resources\n\n*   [Install](https://about.gitlab.com/install/)\n*   [Quick start guides](https://about.gitlab.com/get-started/)\n*   [Learn](https://university.gitlab.com/)\n*   [Product documentation](https://docs.gitlab.com/)\n*   [Blog](https://about.gitlab.com/blog/)\n*   [Customer success stories](https://about.gitlab.com/customers/)\n*   [Remote](https://handbook.gitlab.com/handbook/company/culture/all-remote/)\n*   [GitLab Services](https://about.gitlab.com/services/)\n*   [TeamOps](https://about.gitlab.com/teamops/)\n*   [Community](https://about.gitlab.com/community/)\n*   [Forum](https://forum.gitlab.com/)\n*   [Events](https://about.gitlab.com/events/)\n*   [Partners](https://about.gitlab.com/partners/)\n\n### Company\n\n*   [About](https://about.gitlab.com/company/)\n*   [Jobs](https://about.gitlab.com/jobs/)\n*   [Leadership](https://about.gitlab.com/company/team/e-group/)\n*   [Team](https://about.gitlab.com/company/team/)\n*   [Handbook](https://handbook.gitlab.com/)\n*   [Investor relations](https://ir.gitlab.com/)\n*   [Environmental, social and governance (ESG)](https://about.gitlab.com/environmental-social-governance/)\n*   [Diversity, inclusion and belonging (DIB)](https://about.gitlab.com/diversity-inclusion-belonging/)\n*   [Trust Center](https://about.gitlab.com/security/)\n*   [AI Transparency Center](https://about.gitlab.com/ai-transparency-center/)\n*   [Newsletter](https://about.gitlab.com/company/contact/)\n*   [Press](https://about.gitlab.com/press/)\n*   [Modern Slavery Transparency Statement](https://handbook.gitlab.com/handbook/legal/modern-slavery-act-transparency-statement/)\n\n### Contact us\n\n*   [Contact an expert](https://about.gitlab.com/sales/)\n*   [Get help](https://about.gitlab.com/support/)\n*   [Customer portal](https://customers.gitlab.com/customers/sign_in/)\n*   [Status](https://status.gitlab.com/)\n*   [Terms of use](https://about.gitlab.com/terms/)\n*   [Privacy statement](https://about.gitlab.com/privacy/)\n*   Cookie preferences\n\nLanguage: English\n\n*   English\n    \n*   Deutsch\n*   Espa\u00f1ol\n*   Fran\u00e7ais\n*   Italiano\n*   \u65e5\u672c\u8a9e\n*   Portugu\u00eas\n\n*   [](https://twitter.com/gitlab)\n*   [](https://www.facebook.com/gitlab)\n*   [](https://www.youtube.com/channel/UCnMGQ8QHMAnVIsI3xJrihhg)\n*   [](https://www.linkedin.com/company/gitlab-com)\n\nGit is a trademark of Software Freedom Conservancy and our use of 'GitLab' is under license\n\n[View page source](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience) [Please contribute](https://gitlab.com/gitlab-com/marketing/digital-experience/buyer-experience/-/blob/main/CONTRIBUTING.md)\n\n\u00a9 2025 GitLab Inc.\n\n![Image 6: Company Logo](https://cdn.cookielaw.org/logos/aa14a5c8-79e3-442a-8177-464ad850b19d/e46c1d0d-1f66-481f-bc06-5427671431da/253e6fee-c4c0-4b60-bc35-79cdae5dda32/gitlab-logo-100.png)\n\nPrivacy Preference Center\n-------------------------\n\n*   ### Your Privacy\n    \n*   ### Strictly Necessary Cookies\n    \n*   ### Functionality Cookies\n    \n*   ### Performance and Analytics Cookies\n    \n*   ### Targeting and Advertising Cookies\n    \n*   ### Ad User Data\n    \n*   ### Ad Personalization\n    \n\n#### Your Privacy\n\nWhen you visit any website, it may store or retrieve information on your browser, mostly in the form of cookies. This information might be about you, your preferences or your device and is mostly used to make the site work as you expect it to. The information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies. Click on the different category headings to find out more and change our default settings. However, blocking some types of cookies may impact your experience of the site and the services we are able to offer.  \n[Cookie Policy](https://about.gitlab.com/privacy/cookies/)\n\nUser ID: 4ae7a72c-d797-47ab-b036-3875dd6ae387\n\nThis User ID will be used as a unique identifier while storing and accessing your preferences for future.\n\nTimestamp: \\--\n\n#### Strictly Necessary Cookies\n\nAlways Active\n\nThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, enabling you to securely log into the site, filling in forms, or using the customer checkout. GitLab processes any personal data collected through these cookies on the basis of our legitimate interest.\n\nCookies Details\u200e\n\n#### Functionality Cookies\n\n Functionality Cookies\n\nThese cookies enable helpful but non-essential website functions that improve your website experience. By recognizing you when you return to our website, they may, for example, allow us to personalize our content for you or remember your preferences. If you do not allow these cookies then some or all of these services may not function properly. GitLab processes any personal data collected through these cookies on the basis of your consent\n\nCookies Details\u200e\n\n#### Performance and Analytics Cookies\n\n Performance and Analytics Cookies\n\nThese cookies allow us and our third-party service providers to recognize and count the number of visitors on our websites and to see how visitors move around our websites when they are using it. This helps us improve our products and ensures that users can easily find what they need on our websites. These cookies usually generate aggregate statistics that are not associated with an individual. To the extent any personal data is collected through these cookies, GitLab processes that data on the basis of your consent.\n\nCookies Details\u200e\n\n#### Targeting and Advertising Cookies\n\n Targeting and Advertising Cookies\n\nThese cookies enable different advertising related functions. They may allow us to record information about your visit to our websites, such as pages visited, links followed, and videos viewed so we can make our websites and the advertising displayed on it more relevant to your interests. They may be set through our website by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant advertisements on other websites. GitLab processes any personal data collected through these cookies on the basis of your consent.\n\nCookies Details\u200e\n\n#### Ad User Data\n\n Ad User Data\n\nSets consent for sending user data to Google for advertising purposes.\n\nCookies Details\u200e\n\n#### Ad Personalization\n\n Ad Personalization\n\nSets consent for personalized advertising.\n\nCookies Details\u200e\n\n### Cookie List\n\nConsent Leg.Interest\n\n checkbox label label\n\n checkbox label label\n\n checkbox label label\n\nClear\n\n checkbox label label\n\nApply Cancel\n\nConfirm My Choices\n\nAllow All\n\n[![Image 7: Powered by Onetrust](https://cdn.cookielaw.org/logos/static/powered_by_logo.svg)](https://www.onetrust.com/products/cookie-consent/)\n\n![Image 8](https://cdn.bizible.com/ipv?_biz_r=&_biz_h=-417244810&_biz_u=f00281a397dd4844d90ae79a01470f77&_biz_l=https%3A%2F%2Fabout.gitlab.com%2Fpricing%2F&_biz_t=1744686432562&_biz_i=Pricing%20%7C%20GitLab&_biz_n=0&rnd=867626&cdn_o=a&_biz_z=1744686432563)![Image 9](https://cdn.bizibly.com/u?_biz_u=f00281a397dd4844d90ae79a01470f77&_biz_l=https%3A%2F%2Fabout.gitlab.com%2Fpricing%2F&_biz_t=1744686432565&_biz_i=Pricing%20%7C%20GitLab&rnd=906047&cdn_o=a&_biz_z=1744686432565)    ![Image 11](https://cdn.bizible.com/u?mapType=mkto&mapValue=id%3A194-VVC-221%26token%3A_mch-gitlab.com-1f99ad7fe577d8d977167f61117fd1cf&_biz_u=f00281a397dd4844d90ae79a01470f77&_biz_l=https%3A%2F%2Fabout.gitlab.com%2Fpricing%2F&_biz_t=1744686433814&_biz_i=Pricing%20%7C%20GitLab&_biz_n=1&rnd=97807&cdn_o=a&_biz_z=1744686433816)\n\nClose\n\nsuggested results\n\n![Image 12](https://bat.bing.com/action/0?ti=26083336&tm=gtm002&Ver=2&mid=4cce254a-c11a-4ece-a7ef-f89482bfb6b9&bo=1&sid=bb636d9019a611f0a3a47158393d4d4b&vid=bb63ab9019a611f0882955c899d3b15a&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&tl=Pricing%20%7C%20GitLab&p=https%3A%2F%2Fabout.gitlab.com%2Fpricing%2F&r=&lt=2025&evt=pageLoad&sv=1&cdb=AQET&rn=230660)\n\nLearn more from GitLab, The One DevOps Platform for software innovation.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "gitlab",
+        "app_name": "GitLab",
+        "app_slug": "gitlab",
+        "pricing_url": "https://about.gitlab.com/pricing/",
+        "source_url": "https://about.gitlab.com/pricing/",
+        "all_pricing_urls": [
+          "https://about.gitlab.com/pricing/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "GitLab offers a free tier with limited features and usage, and paid tiers with additional features and higher limits.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Use GitLab for personal projects",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "400 compute minutes per month",
+              "5 users per top-level group"
+            ],
+            "limits": {
+              "users": 5,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "compute minutes",
+                  "value": 400
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Premium",
+            "tier_description": "For scaling organizations and multi-team usage",
+            "monthly_price": 29.0,
+            "annual_price": 348.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Code Ownership and Protected Branches",
+              "Merge Requests with Approval Rules",
+              "Team Planning",
+              "Advanced CI/CD",
+              "Enterprise User and Incident Management",
+              "Support",
+              "10,000 compute minutes per month"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "compute minutes",
+                  "value": 10000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Ultimate",
+            "tier_description": "For enterprises looking to deliver software faster",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Dynamic Application Security Testing",
+              "Security Dashboards",
+              "Vulnerability Management",
+              "Dependency Scanning",
+              "Container Scanning",
+              "Static Application Security Testing",
+              "Multi-Level Epics",
+              "Enterprise Agile Planning",
+              "Portfolio Management",
+              "Custom Roles",
+              "Value Stream Management",
+              "50,000 compute minutes per month",
+              "Free guest users"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "compute minutes",
+                  "value": 50000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "GitLab Duo Pro",
+            "tier_description": "For developers that want to focus on innovation and deliver high-quality software",
+            "monthly_price": 19.0,
+            "annual_price": 228.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Organizational User Controls",
+              "Code Suggestions",
+              "Chat"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "GitLab Duo Enterprise",
+            "tier_description": "For organizations that want AI throughout the software development lifecycle",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Summarization and Templating tools",
+              "Security and Vulnerability tools",
+              "Advanced Chat",
+              "Advanced Troubleshooting",
+              "AI Analytics",
+              "Personalize GitLab Duo"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Compute Minutes",
+            "unit": "per 1,000 compute minutes",
+            "base_price": 10.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Storage",
+            "unit": "per 10GiB",
+            "base_price": 5.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": true
+        },
+        "promotional_offers": [
+          {
+            "offer_name": "GitLab Premium & GitLab Duo Pro",
+            "offer_description": "$19 for new small business customers",
+            "discount_percentage": null,
+            "offer_url": "https://about.gitlab.com/pricing/smb-promo/",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:07:30.208360",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\gitlab\\20250414_230730"
+}

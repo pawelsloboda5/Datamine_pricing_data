@@ -1,0 +1,218 @@
+{
+  "app_id": "rev",
+  "app_name": "Rev",
+  "app_slug": "rev",
+  "pricing_url": "https://www.rev.com/pricing",
+  "source_url": "https://www.rev.com/pricing",
+  "all_pricing_urls": [
+    "https://www.rev.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes both subscription tiers and usage-based options for additional services.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Best for getting started with Rev for free",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "45 minutes of AI transcription per month",
+        "Access to pay-per-minute 99% accurate human transcripts, captions, and subtitles",
+        "AI Notetaker for Google, Teams, and Zoom",
+        "Rev Mobile App for recording and editing on the go",
+        "Interactive transcript editor"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "AI transcription minutes",
+            "value": "45 minutes per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Built for productivity in individuals and small teams",
+      "monthly_price": 14.99,
+      "annual_price": 9.99,
+      "annual_discount_percentage": 33.0,
+      "setup_fee": null,
+      "features": [
+        "20 hours of AI transcription per month; 90 minutes per recording",
+        "15% discount on 99% accurate human transcripts",
+        "AI Notetaker for Google, Teams, and Zoom",
+        "Rev Mobile App for recording and editing on the go",
+        "Interactive transcript editor",
+        "Unlimited use of AI Assistant & AI Summary Templates"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "AI transcription minutes",
+            "value": "20 hours per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Built for larger teams who need advanced features and collaboration",
+      "monthly_price": 34.99,
+      "annual_price": 20.99,
+      "annual_discount_percentage": 40.0,
+      "setup_fee": null,
+      "features": [
+        "100 hours of AI transcription per month; no limit on file length",
+        "AI captions in 37+ languages included in 100 monthly hours",
+        "30% discount on 99% accurate human transcripts, captions, and subtitles",
+        "AI Notetaker for Google, Teams, and Zoom",
+        "Rev Mobile App for recording and editing on the go",
+        "Interactive transcript editor",
+        "Unlimited use of AI Assistant & AI Summary Templates",
+        "Interactive captions editor",
+        "Customizable AI Summary Templates"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "AI transcription minutes",
+            "value": "100 hours per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Built for organizations needing security, management, and customized features",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "100 hours of AI transcription per month; no limit on file length",
+        "AI captions in 37+ languages included in 100 monthly hours",
+        "Custom discounts on 99% accurate human transcripts, captions, and subtitles",
+        "AI Notetaker for Google, Teams, and Zoom",
+        "Rev Mobile App for recording and editing on the go",
+        "Interactive transcript editor",
+        "Unlimited use of AI Assistant & AI Summary Templates",
+        "Interactive captions editor",
+        "Unlimited customizable AI templates tailored just for you",
+        "Enterprise-grade privacy; HIPAA and SOC 2 Type II compliance",
+        "SSO & Domain Claiming"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "AI transcription minutes",
+            "value": "100 hours per month"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Human Transcription",
+      "unit": "per minute",
+      "base_price": 1.99,
+      "tiers": null
+    },
+    {
+      "metric_name": "AI Transcription",
+      "unit": "per minute",
+      "base_price": 0.25,
+      "tiers": null
+    },
+    {
+      "metric_name": "Human Captions",
+      "unit": "per minute",
+      "base_price": 1.99,
+      "tiers": null
+    },
+    {
+      "metric_name": "AI Captions",
+      "unit": "per minute",
+      "base_price": 0.25,
+      "tiers": null
+    },
+    {
+      "metric_name": "Global Subtitles",
+      "unit": "per minute",
+      "base_price": 6.49,
+      "tiers": [
+        {
+          "min": null,
+          "max": null,
+          "price": 15.99
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Free Tier Bonus",
+      "offer_description": "Get 300 minutes now \u2013 offer ends soon!",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:35:37.525682",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "db1032a3-3f68-4155-8bc8-a041e125a91f",
+    "name": "Rev",
+    "slug": "rev",
+    "description": "Rev is an audio transcription service that uses human beings to transcribe English audio or video into text.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/aea30cbd7295752fab4a92e26aad14ee.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Transcription"
+    ],
+    "category_slugs": [
+      "transcription"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 3
+  }
+}

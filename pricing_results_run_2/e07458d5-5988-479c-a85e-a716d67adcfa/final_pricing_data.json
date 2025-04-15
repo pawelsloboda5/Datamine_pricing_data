@@ -1,0 +1,151 @@
+{
+  "app_id": "calendly",
+  "app_name": "Calendly",
+  "app_slug": "calendly",
+  "pricing_url": "https://calendly.com/pricing",
+  "source_url": "https://calendly.com/pricing",
+  "all_pricing_urls": [
+    "https://calendly.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and multiple subscription options with features scaling by tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For personal use",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Scheduling",
+        "1 event type",
+        "Connect 1 calendar",
+        "Customize availability",
+        "Add video conferencing",
+        "Customize your booking page",
+        "Mobile apps",
+        "Browser extensions"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": 1,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "For professionals and small teams",
+      "monthly_price": 10.0,
+      "annual_price": 120.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited event types",
+        "Connect multiple calendars",
+        "Connect Hubspot, Mailchimp",
+        "Connect Stripe, Paypal",
+        "Connect with Zapier, webhooks",
+        "Automate reminders",
+        "24/7 chat support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Teams",
+      "tier_description": "Recommended plan for growing businesses",
+      "monthly_price": 16.0,
+      "annual_price": 192.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Send meetings to Salesforce",
+        "Share Round-robin meetings",
+        "Qualify & route leads",
+        "Connect Hubspot, Marketo, Pardot",
+        "Advanced admin features",
+        "Security add-on",
+        "Single Sign-On"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large companies",
+      "monthly_price": null,
+      "annual_price": 15000.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Route with Salesforce lookup",
+        "Connect Microsoft Dynamics",
+        "Dedicated account support",
+        "Enable SSO & SAML",
+        "Domain control",
+        "Audit log compliance",
+        "Data deletion API",
+        "Security and legal reviews"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:12:05.463565",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e07458d5-5988-479c-a85e-a716d67adcfa",
+    "name": "Calendly",
+    "slug": "calendly",
+    "description": "Calendly is an elegant and simple scheduling tool for businesses that eliminates email back and forth. It helps save time so that businesses can provide great service and increase sales.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/33464c48a26a29dd29977ffb16bcca53.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 2
+  }
+}

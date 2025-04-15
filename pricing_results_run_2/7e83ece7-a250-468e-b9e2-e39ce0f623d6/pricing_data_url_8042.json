@@ -1,0 +1,191 @@
+{
+  "app_id": "help_scout",
+  "app_name": "Help Scout",
+  "app_slug": "help-scout",
+  "pricing_url": "https://www.helpscout.com/pricing/",
+  "source_url": "https://www.helpscout.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.helpscout.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on contact volume rather than per-user billing, with unlimited users included in all plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For 50 contacts per month and unlimited users.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Inbox with all channels",
+        "Docs knowledge base",
+        "Help widget with AI answers",
+        "Unlimited AI drafts",
+        "In-app messaging",
+        "Basic Reporting"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 50
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Starts with 100 contacts per month and unlimited users.",
+      "monthly_price": 50.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Multiple Inboxes and Docs sites",
+        "API and 100+ integrations",
+        "Advanced Reports",
+        "Surveys & NPS",
+        "CSAT ratings",
+        "Customer Properties"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": 200,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Starts with 100 contacts per month and unlimited users.",
+      "monthly_price": 75.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Salesforce, Jira, HubSpot apps",
+        "Custom Fields",
+        "Advanced Permissions",
+        "Teams",
+        "Advanced Views & Workflows",
+        "Restricted Docs sites"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": 400,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Starts with 1,000 contacts and includes additional security, higher plan limits, and dedicated onboarding.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Additional security features",
+        "Higher plan limits",
+        "Dedicated onboarding"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": "custom",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 1000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Contacts",
+      "unit": "per contact",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 51.0,
+          "max": 100.0,
+          "price": 50.0
+        },
+        {
+          "min": 101.0,
+          "max": 1000.0,
+          "price": 75.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Additional Inbox",
+      "fee_amount": 10.0,
+      "fee_description": "Add extra inboxes to your plan."
+    },
+    {
+      "fee_name": "Additional Docs Site",
+      "fee_amount": 20.0,
+      "fee_description": "Add extra Docs sites to your plan."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:32:39.679170",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7e83ece7-a250-468e-b9e2-e39ce0f623d6",
+    "name": "Help Scout",
+    "slug": "help-scout",
+    "description": "Help Scout is the ideal small business help desk. You can deliver great email support and get setup in minutes, without any of the typical help desk complexities.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/8ee292892a13d343037a96ae7fd33720_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 14,
+    "trigger_count": 3
+  }
+}

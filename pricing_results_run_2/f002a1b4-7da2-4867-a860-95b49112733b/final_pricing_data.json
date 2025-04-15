@@ -1,0 +1,43 @@
+{
+  "app_id": "service_provider_pro",
+  "app_name": "Service Provider Pro",
+  "app_slug": "service-provider-pro",
+  "pricing_url": null,
+  "source_url": "https://serviceproviderpro.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing information could not be extracted due to an HTTP error on the page.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:49:12.209085",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "f002a1b4-7da2-4867-a860-95b49112733b",
+    "name": "Service Provider Pro",
+    "slug": "service-provider-pro",
+    "description": "SPP is a shopping cart and project management software for selling productized services.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d4d32be82ef1a95a7a4d8a6d0e5dd906.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 6
+  }
+}

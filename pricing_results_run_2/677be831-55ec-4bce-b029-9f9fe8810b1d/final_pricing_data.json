@@ -1,0 +1,217 @@
+{
+  "app_id": "givingfuel",
+  "app_name": "GivingFuel",
+  "app_slug": "givingfuel",
+  "pricing_url": "https://www.givingfuel.com/pricing",
+  "source_url": "https://www.givingfuel.com/plans",
+  "all_pricing_urls": [
+    "https://www.givingfuel.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 90,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription fees and usage-based fees per donation.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "For smaller orgs raising less than $25,000 online annually.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic fundraising",
+        "Donor management"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Annual online fundraising limit",
+            "value": "$25,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For growing orgs looking to accelerate their fundraising.",
+      "monthly_price": 59.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Text-to-give",
+        "Peer-to-peer fundraising"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For high impact orgs managing multiple campaigns and donor management tasks.",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Donor accounts",
+        "Reduced text-to-give fees"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise Plus",
+      "tier_description": "For larger orgs raising $1m+ annually online and requiring advanced onboarding and support.",
+      "monthly_price": 149.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced onboarding",
+        "Enhanced support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Annual online fundraising limit",
+            "value": "$1-3 million"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise Plus",
+      "tier_description": "For larger orgs raising $3-5 million annually online and requiring advanced onboarding and support.",
+      "monthly_price": 249.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced onboarding",
+        "Enhanced support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Annual online fundraising limit",
+            "value": "$3-5 million"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise Plus",
+      "tier_description": "For larger orgs raising $5 million+ annually online and requiring advanced onboarding and support.",
+      "monthly_price": 349.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced onboarding",
+        "Enhanced support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Annual online fundraising limit",
+            "value": "$5 million+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Donation processing",
+      "unit": "per donation",
+      "base_price": 2.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Credit card processing",
+      "unit": "per transaction",
+      "base_price": 2.9,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.3
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "3 Months Free",
+      "offer_description": "Enjoy 3 months free with no contracts or credit card required at sign up.",
+      "discount_percentage": 100.0,
+      "offer_url": "https://www.givingfuel.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:23:56.420880",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "677be831-55ec-4bce-b029-9f9fe8810b1d",
+    "name": "GivingFuel",
+    "slug": "givingfuel",
+    "description": "GivingFuel helps people and organizations fundraise to change the world. We are the world\u2019s simplest and most affordable donation platform",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/86ea69dc2411e300699f33bb13c6b039.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fundraising"
+    ],
+    "category_slugs": [
+      "fundraising"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

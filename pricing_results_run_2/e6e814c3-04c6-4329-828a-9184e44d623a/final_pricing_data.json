@@ -1,0 +1,156 @@
+{
+  "app_id": "gmail",
+  "app_name": "Gmail",
+  "app_slug": "gmail",
+  "pricing_url": null,
+  "source_url": "https://workspace.google.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Business Starter, Business Standard, and Business Plus plans can be purchased for a maximum of 300 users. There is no minimum or maximum user limit for Enterprise plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Business Starter",
+      "tier_description": null,
+      "monthly_price": 8.4,
+      "annual_price": 84.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "30 GB pooled storage per user",
+        "Secure custom business email",
+        "Gemini AI assistant in Gmail",
+        "100 participant video meetings",
+        "Security and management controls",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 300,
+        "storage": "30GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Standard",
+      "tier_description": null,
+      "monthly_price": 16.8,
+      "annual_price": 168.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "2 TB pooled storage per user",
+        "Secure custom business email",
+        "Gemini AI assistant in Gmail, Docs, Meet, and more",
+        "150 participant video meetings",
+        "eSignature with Docs and PDFs",
+        "Appointment booking pages",
+        "Collaborative video creator + editor",
+        "Email layouts and mail merge",
+        "Security and management controls",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 300,
+        "storage": "2TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Plus",
+      "tier_description": null,
+      "monthly_price": 26.4,
+      "annual_price": 264.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "5 TB pooled storage per user",
+        "Secure custom business email",
+        "Gemini AI assistant in Gmail, Docs, Meet, and more",
+        "500 participant video meetings",
+        "eSignature with Docs and PDFs",
+        "Appointment booking pages",
+        "Collaborative video creator + editor",
+        "Email layouts and mail merge",
+        "Enhanced security and management controls",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 300,
+        "storage": "5TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 TB pooled storage per user",
+        "Secure custom business email",
+        "Gemini AI assistant in Gmail, Docs, Meet, and more",
+        "1000 participant video meetings",
+        "eSignature with Docs and PDFs",
+        "Appointment booking pages",
+        "Collaborative video creator + editor",
+        "Email layouts and mail merge",
+        "Advanced security, management, and compliance controls",
+        "Enhanced Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "5TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:06:04.985929",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e6e814c3-04c6-4329-828a-9184e44d623a",
+    "name": "Gmail",
+    "slug": "gmail",
+    "description": "One of the most popular email services, Gmail keeps track of all your emails with threaded conversations, tags, and Google-powered search to find any message you need.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/1afcb319c029ec5da10efb593b7159c8.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email",
+      "Google"
+    ],
+    "category_slugs": [
+      "email",
+      "google"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 6
+  }
+}

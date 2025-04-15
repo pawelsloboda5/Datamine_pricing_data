@@ -1,0 +1,181 @@
+{
+  "app_id": "userflow",
+  "app_name": "Userflow",
+  "app_slug": "userflow",
+  "pricing_url": "https://www.userflow.com/pricing",
+  "source_url": "https://www.userflow.com/pricing",
+  "all_pricing_urls": [
+    "https://www.userflow.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription tiers and additional usage-based costs for MAUs, AI messages, and team members.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Startup",
+      "tier_description": null,
+      "monthly_price": 300.0,
+      "annual_price": 240.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "3,000 MAUs included",
+        "100 AI messages included",
+        "Unlimited flow/checklist views",
+        "3 team members included"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": 500,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "MAUs",
+            "value": 3000
+          },
+          {
+            "name": "AI messages",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": null,
+      "monthly_price": 850.0,
+      "annual_price": 680.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "10,000 MAUs included",
+        "100 AI messages included",
+        "Unlimited flow/checklist views",
+        "Unlimited team members"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": 1000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "MAUs",
+            "value": 10000
+          },
+          {
+            "name": "AI messages",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom MAUs",
+        "Custom AI messages",
+        "Unlimited flow/checklist views",
+        "Unlimited team members"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": "custom",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "MAUs",
+            "value": "custom"
+          },
+          {
+            "name": "AI messages",
+            "value": "custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "MAUs",
+      "unit": "per 5,000 MAUs",
+      "base_price": 80.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 100000.0,
+          "price": 80.0
+        },
+        {
+          "min": 100001.0,
+          "max": "unlimited",
+          "price": 40.0
+        }
+      ]
+    },
+    {
+      "metric_name": "AI messages",
+      "unit": "per 500 messages",
+      "base_price": 80.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Team members",
+      "unit": "per seat",
+      "base_price": 16.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T02:47:43.437961",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "db7d49ba-05f6-4819-8b04-d87e00b7ebee",
+    "name": "Userflow",
+    "slug": "userflow",
+    "description": "Userflow is a user onboarding platform, which lets your whole team build customized in-app tours, checklists and surveys, without code.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/6b76dcff7a257db45b56d45c49d799f2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 13
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "app_id": "notion",
+  "app_name": "Notion",
+  "app_slug": "notion",
+  "pricing_url": "https://www.notion.com/pricing",
+  "source_url": "https://www.notion.com/pricing",
+  "all_pricing_urls": [
+    "https://www.notion.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Notion offers a variety of plans tailored for individuals, teams, and enterprises, with additional AI features available as an add-on.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For individuals to organize personal projects and life",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited pages and blocks",
+        "Up to 5 MB file uploads",
+        "7 days page history"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "5MB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "For small teams and professionals to work together",
+      "monthly_price": 10.0,
+      "annual_price": 96.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited pages and blocks",
+        "Unlimited file uploads",
+        "30 days page history",
+        "Basic analytics"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For growing businesses to streamline teamwork",
+      "monthly_price": 15.0,
+      "annual_price": 144.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited pages and blocks",
+        "Unlimited file uploads",
+        "90 days page history",
+        "Advanced analytics"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For organizations to operate with scalability, control, and security",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited pages and blocks",
+        "Unlimited file uploads",
+        "Unlimited page history",
+        "Workspace analytics",
+        "Granular admin roles"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "AI Add-on",
+      "unit": "per member/month",
+      "base_price": 8.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 8.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:00:32.540339",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "134f999e-550a-434b-9dab-51c81faab3f4",
+    "name": "Notion",
+    "slug": "notion",
+    "description": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/0de44c7d5f0046873886168b9b498f66_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "todo-lists"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 14,
+    "trigger_count": 2
+  }
+}

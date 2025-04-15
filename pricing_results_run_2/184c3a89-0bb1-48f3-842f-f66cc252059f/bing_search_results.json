@@ -1,0 +1,30 @@
+{
+  "app_name": "ConvertAPI",
+  "app_slug": "convertapi",
+  "search_term": "Find the official pricing page URL for ConvertAPI (convertapi.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744690759.5256517,
+  "response_text": [
+    "The official pricing page URL for ConvertAPI is: [https://www.convertapi.com/pricing](https://www.convertapi.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "ConvertAPI Pricing | Affordable File Conversion API Plans",
+      "url": "https://www.convertapi.com/prices"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.convertapi.com/prices",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    },
+    {
+      "url": "https://www.convertapi.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\convertapi\\20250415_001921"
+}

@@ -1,0 +1,12 @@
+{
+  "app_name": "CRM PipeRun",
+  "app_slug": "crm-piperun",
+  "search_term": "Find the official pricing page URL for CRM PipeRun (crm-piperun.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744707399.2218778,
+  "response_text": [
+    "I couldn't find the exact URL for the CRM PipeRun pricing page. Please check the official website for more details."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\crm-piperun\\20250415_045639"
+}

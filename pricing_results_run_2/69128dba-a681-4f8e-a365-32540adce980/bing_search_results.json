@@ -1,0 +1,48 @@
+{
+  "app_name": "Client Dispute Manager",
+  "app_slug": "client-dispute",
+  "search_term": "Find the official pricing page URL for Client Dispute Manager (client-dispute.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744697290.8519676,
+  "response_text": [
+    "The official pricing page for Client Dispute Manager is located at: [https://clientdisputemanager.com/pricing](https://clientdisputemanager.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://clientdisputemanager.com/pricing",
+      "is_accessible": true,
+      "content": "![Image 1](https://www.clientdisputemanager.com/Content/Images/NewImages/cdm-icon.png)\n\n![Image 2](https://www.clientdisputemanager.com/Content/Images/NewImages/login_icon.png)\n\n#### login\n\n##### Superstar![Image 3](https://www.clientdisputemanager.com/Content/Images/NewImages/superstar.svg)\n\nPlease enter your email and password\n\nRemember Me?\n\n[Forgot your password?](https://clientdisputemanager.com/pricing#) [Forgot your username?](https://clientdisputemanager.com/pricing#)\n\nDon't Have an Account? [Signup Now](https://www.clientdisputemanager.com/register)\n\nJoin our [Live Training](https://clientdisputemanagersoftware.com/daily-meeting)\n\nMetro 2 attack letters are live\n\n![Image 4](https://www.clientdisputemanager.com/Content/Images/New_cdmlogo.svg)\n\nThe All-In-One Platform to run and grow your credit repair business.\n\n![Image 5: CDM Logo](https://www.clientdisputemanager.com/Content/Images/NewImages/cdm-white.png)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "client_dispute_manager",
+        "app_name": "Client Dispute Manager",
+        "app_slug": "client-dispute-manager",
+        "pricing_url": "https://clientdisputemanager.com/pricing",
+        "source_url": "https://clientdisputemanager.com/pricing",
+        "all_pricing_urls": [
+          "https://clientdisputemanager.com/pricing"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing details were not explicitly provided in the content.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T02:08:18.649134",
+        "schema_validated": true,
+        "confidence_score": 85,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\client-dispute\\20250415_020818"
+}

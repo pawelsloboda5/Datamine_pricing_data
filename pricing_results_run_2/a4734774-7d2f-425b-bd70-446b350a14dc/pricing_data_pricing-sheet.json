@@ -1,0 +1,223 @@
+{
+  "app_id": "bunq",
+  "app_name": "bunq",
+  "app_slug": "bunq",
+  "pricing_url": null,
+  "source_url": "https://www.bunq.com/documents/pricing-sheet",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes various tiers for personal and business accounts, with additional fees for extra services.",
+  "pricing_tiers": [
+    {
+      "tier_name": "bunq Free Personal",
+      "tier_description": "Basic personal account with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "3 accounts included"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "bunq Core Personal",
+      "tier_description": "Core personal account with essential features.",
+      "monthly_price": 3.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 accounts included"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "bunq Pro Personal",
+      "tier_description": "Pro personal account with advanced features.",
+      "monthly_price": 9.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "25 accounts included"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "bunq Elite Personal",
+      "tier_description": "Elite personal account with premium features.",
+      "monthly_price": 18.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "25 accounts included"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "bunq Free Business",
+      "tier_description": "Basic business account with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "3 accounts included"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "bunq Core Business",
+      "tier_description": "Core business account with essential features.",
+      "monthly_price": 7.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 accounts included"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "bunq Pro Business",
+      "tier_description": "Pro business account with advanced features.",
+      "monthly_price": 13.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "25 accounts included"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "bunq Elite Business",
+      "tier_description": "Elite business account with premium features.",
+      "monthly_price": 23.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "25 accounts included"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Extra accounts",
+      "unit": "per 25 accounts",
+      "base_price": 20.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Extra directors",
+      "unit": "per director per month",
+      "base_price": 5.99,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Child Account",
+      "fee_amount": 9.0,
+      "fee_description": "Monthly fee for accounts for children under 18."
+    },
+    {
+      "fee_name": "Student Discount",
+      "fee_amount": 9.0,
+      "fee_description": "Discounted rate for students under 26."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:17:26.794974",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a4734774-7d2f-425b-bd70-446b350a14dc",
+    "name": "bunq",
+    "slug": "bunq",
+    "description": "bunq is a mobile bank, built from a clean slate, dedicated to your wants and needs. Get the freedom to spend, save, move and invest your money whichever way you like.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/3603fe9160bd1ae964cc4bda4822aecc.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 2
+  }
+}

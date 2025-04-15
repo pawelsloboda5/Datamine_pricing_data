@@ -1,0 +1,45 @@
+{
+  "app_id": "officernd",
+  "app_name": "OfficeRnD",
+  "app_slug": "officernd",
+  "pricing_url": null,
+  "source_url": "https://www.officernd.com/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.CUSTOM"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The content provided does not include specific pricing details or tier information.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:43:33.708858",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e49262f7-403c-4317-b8bf-dc34de3d73c9",
+    "name": "OfficeRnD",
+    "slug": "officernd",
+    "description": "OfficeRnD is a workspace management platform helping Coworking Spaces and Business Centers automate operations and improve members experience. The platform acts like a central hub that connects to and manages all systems already in place, saving space operators time and allowing them to focus only on the highest leverage activities.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/4e2e54f573475dab8a8b05748de58266.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 13,
+    "trigger_count": 8
+  }
+}

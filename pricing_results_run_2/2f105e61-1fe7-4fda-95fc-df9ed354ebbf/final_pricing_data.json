@@ -1,0 +1,146 @@
+{
+  "app_id": "doorloop",
+  "app_name": "DoorLoop",
+  "app_slug": "doorloop",
+  "pricing_url": "https://www.doorloop.com/pricing",
+  "source_url": "https://www.doorloop.com/pricing",
+  "all_pricing_urls": [
+    "https://www.doorloop.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is tiered based on features and user needs, with additional fees for onboarding and certain features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Built for independent property owners looking to simplify and automate portfolio management with all-in-one features that fit their basic needs.",
+      "monthly_price": 69.0,
+      "annual_price": 59.0,
+      "annual_discount_percentage": 14.49,
+      "setup_fee": null,
+      "features": [
+        "Online rent & fee payments",
+        "Tenant portal",
+        "Maintenance management",
+        "Two-way communication",
+        "Accounting & reporting",
+        "Rental applications & screening",
+        "Lease management",
+        "CashPayments powered by Western Union",
+        "Dashboards",
+        "World-class support",
+        "eSignature",
+        "CRM for tenants"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "50MB/unit",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Built for property managers and owners looking to get organized with financial management, tenant communication, and financial reporting features.",
+      "monthly_price": 139.0,
+      "annual_price": 119.0,
+      "annual_discount_percentage": 14.39,
+      "setup_fee": null,
+      "features": [
+        "Everything in Starter",
+        "Advanced accounting and reporting",
+        "Live bank connect",
+        "QuickBooks online sync",
+        "Tenant announcements",
+        "Advanced maintenance management",
+        "Outgoing payments",
+        "Budgeting",
+        "Email, chat, phone & Zoom support",
+        "Listings",
+        "User access roles",
+        "Calendar",
+        "CAM charges",
+        "Comprehensive reports"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "5GB/unit",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Built for property managers, owners, and companies looking to maximize profits, efficiency, and growth with the most features & integrations.",
+      "monthly_price": 199.0,
+      "annual_price": 169.0,
+      "annual_discount_percentage": 15.08,
+      "setup_fee": null,
+      "features": [
+        "Everything in Pro",
+        "VIP Priority Support",
+        "Free incoming ACH payments",
+        "Free personalized website",
+        "Zapier Integration",
+        "Free eSignatures",
+        "Free bank account setup",
+        "Custom convenience fees",
+        "Unlimited additional users",
+        "Unlimited data storage",
+        "Advanced customizable dashboards",
+        "API access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Onboarding fee",
+      "fee_amount": null,
+      "fee_description": "Based on portfolio size."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T10:12:37.940842",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "2f105e61-1fe7-4fda-95fc-df9ed354ebbf",
+    "name": "DoorLoop",
+    "slug": "doorloop",
+    "description": "DoorLoop is a powerful software for managing all your properties. Market units, screen prospects, collect rent, handle bookkeeping, & more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/a60d9d7f0f3b7f71770f12f71b7cf9c4_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Productivity"
+    ],
+    "category_slugs": [
+      "productivity"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 16,
+    "trigger_count": 19
+  }
+}

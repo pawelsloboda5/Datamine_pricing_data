@@ -1,0 +1,120 @@
+{
+  "app_id": "deadline_funnel",
+  "app_name": "Deadline Funnel",
+  "app_slug": "deadline-funnel",
+  "pricing_url": "https://www.deadlinefunnel.com/pricing",
+  "source_url": "https://www.deadlinefunnel.com/pricing",
+  "all_pricing_urls": [
+    "https://www.deadlinefunnel.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 20% discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Start",
+      "tier_description": "For new creators testing the waters.",
+      "monthly_price": 49.0,
+      "annual_price": 468.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "3 Campaigns",
+        "1,000 Leads/Month",
+        "Email + Chat Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Create",
+      "tier_description": "For entrepreneurs looking to scale.",
+      "monthly_price": 99.0,
+      "annual_price": 948.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Campaigns",
+        "10,000 Leads / Month",
+        "Portal",
+        "Embed social proof in your campaign",
+        "Advanced Customization",
+        "Automated Weekly Report",
+        "Color Palettes + Custom Colors",
+        "Remove Deadline Funnel Branding",
+        "Priority Email - Chat Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "For industry leaders who need more.",
+      "monthly_price": 199.0,
+      "annual_price": 1908.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Create, plus:",
+        "100,000 Leads/Month",
+        "5 Client Accounts",
+        "Blueprints",
+        "Direct Integrations",
+        "Deadline Personalization"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:29:18.020289",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f7f29061-519e-42e8-b5e1-38a1e60a5e08",
+    "name": "Deadline Funnel",
+    "slug": "deadline-funnel",
+    "description": "Gives your prospects a unique, authentic deadline so they have a reason to buy now",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/0f3af0252b9af8150003631c74f71aa2_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 2
+  }
+}

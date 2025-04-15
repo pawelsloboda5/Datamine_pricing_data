@@ -1,0 +1,129 @@
+{
+  "app_id": "pushpress",
+  "app_name": "PushPress",
+  "app_slug": "pushpress",
+  "pricing_url": "https://www.pushpress.com/pricing",
+  "source_url": "https://www.pushpress.com/pricing",
+  "all_pricing_urls": [
+    "https://www.pushpress.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Processing rates and support SLA vary by tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Small gyms and studios ready to lay the foundation for growth and success.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Self-serve resources and AI support with a 48-hour response time for human assistance"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Mid-size gyms and studios ready to scale their business and optimize operations.",
+      "monthly_price": 159.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "AI support, live human responses, and the option to schedule video support help calls"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Max",
+      "tier_description": "Established gyms and studios ready to streamline operations and accelerate growth.",
+      "monthly_price": 229.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "AI support, live human responses, and the option to schedule video support help calls"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Processing Rate",
+      "unit": "per transaction",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": null,
+          "max": null,
+          "price": 4.19
+        },
+        {
+          "min": null,
+          "max": null,
+          "price": 2.89
+        },
+        {
+          "min": null,
+          "max": null,
+          "price": 2.75
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:44:58.640899",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3afc83b7-3ffa-4718-979d-df0e9d851d14",
+    "name": "Pushpress",
+    "slug": "pushpress",
+    "description": "PushPress is a boutique fitness business management platform focused on saving our clients time, money, and headaches.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/3fed5c0cedb23598b37aebe56639098e_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 6
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "app_id": "guru",
+  "app_name": "Guru",
+  "app_slug": "guru",
+  "pricing_url": "https://www.guru.com/pricing-freelancer/",
+  "source_url": "https://www.guru.com/pricing-freelancer/",
+  "all_pricing_urls": [
+    "https://www.guru.com/pricing-freelancer/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Membership purchases are non-transferable and non-refundable. Downgrade to Basic Membership occurs upon expiration.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Free membership tier.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Search for jobs in your category.",
+        "120 bids per year.",
+        "10 bids per month."
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basic+",
+      "tier_description": "Enhanced membership with additional features.",
+      "monthly_price": 11.95,
+      "annual_price": 8.95,
+      "annual_discount_percentage": 27.0,
+      "setup_fee": null,
+      "features": [
+        "Search for jobs in your category.",
+        "600 bids per year.",
+        "50 bids per month.",
+        "Search boost of $1,000."
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Professional membership with advanced features.",
+      "monthly_price": 21.95,
+      "annual_price": 15.95,
+      "annual_discount_percentage": 27.0,
+      "setup_fee": null,
+      "features": [
+        "Search for jobs in your category.",
+        "600 bids per year.",
+        "50 bids per month.",
+        "Annual bid rollover of 100.",
+        "Premium quotes costing 6 bids.",
+        "Search boost of $2,000.",
+        "Sales messages costing 5 bids."
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Business membership for team management.",
+      "monthly_price": 33.95,
+      "annual_price": 24.95,
+      "annual_discount_percentage": 27.0,
+      "setup_fee": null,
+      "features": [
+        "Search for jobs in your category.",
+        "600 bids per year.",
+        "50 bids per month.",
+        "Annual bid rollover of 200.",
+        "Premium quotes costing 5 bids.",
+        "Search boost of $4,000.",
+        "Sales messages costing 4 bids."
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Executive",
+      "tier_description": "Executive membership for extensive operations.",
+      "monthly_price": 49.95,
+      "annual_price": 39.95,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Search for jobs in your category.",
+        "600 bids per year.",
+        "50 bids per month.",
+        "Annual bid rollover of 300.",
+        "Premium quotes costing 4 bids.",
+        "Search boost of $8,000.",
+        "Sales messages costing 3 bids."
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:56:03.640927",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a312a3a1-e0bb-4cbd-9959-e21a93ed3d37",
+    "name": "Guru",
+    "slug": "guru",
+    "description": "Guru is a collaborative knowledge management solution where answers find you\u2014everywhere, every time. Guru connects teams and people to one another and surfaces the know-how of those who know best, and turns collections of information into useful knowledge. By delivering the right knowledge at the right time, Guru reduces new-hire ramp time, drives amazing customer experiences, and makes teams more collaborative and productive.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/a062cb3a3edf15dd2535015bc727894c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Collaboration"
+    ],
+    "category_slugs": [
+      "team-collaboration"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 16,
+    "trigger_count": 18
+  }
+}

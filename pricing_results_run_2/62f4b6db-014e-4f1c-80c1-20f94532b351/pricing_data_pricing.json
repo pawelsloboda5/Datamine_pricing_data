@@ -1,0 +1,144 @@
+{
+  "app_id": "booqable",
+  "app_name": "Booqable",
+  "app_slug": "booqable",
+  "pricing_url": "https://booqable.com/pricing/",
+  "source_url": "https://booqable.com/pricing",
+  "all_pricing_urls": [
+    "https://booqable.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 20% discount compared to monthly plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essential",
+      "tier_description": "Basic features for starting rental businesses and small teams.",
+      "monthly_price": 35.0,
+      "annual_price": 29.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Rental website builder",
+        "Integrate with existing website",
+        "Unlimited products and orders",
+        "iOS & Android app",
+        "Payments no commission"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Extra staff accounts",
+            "value": "$20/user/month"
+          },
+          {
+            "name": "Extra locations",
+            "value": "$25/location/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "The best value for medium-sized and growing rental businesses.",
+      "monthly_price": 95.0,
+      "annual_price": 79.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Essential",
+        "QR & barcode scanning",
+        "Roles & permissions",
+        "API & Zapier integration",
+        "Video call support"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": 100,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Extra staff accounts",
+            "value": "$20/user/month"
+          },
+          {
+            "name": "Extra locations",
+            "value": "$25/location/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Advanced features for large rental companies.",
+      "monthly_price": 299.0,
+      "annual_price": 249.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Pro",
+        "Single sign-on (SSO)",
+        "IP restrictions",
+        "Priority support",
+        "Dedicated account manager"
+      ],
+      "limits": {
+        "users": 15,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": 250,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Extra staff accounts",
+            "value": "$20/user/month"
+          },
+          {
+            "name": "Extra locations",
+            "value": "$25/location/month"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:22:21.534224",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "62f4b6db-014e-4f1c-80c1-20f94532b351",
+    "name": "Booqable",
+    "slug": "booqable",
+    "description": "Booqable is cloud-based rental software to manage your business and accept online bookings.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/3f689aca366daaeefb5799b860db6614.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 6
+  }
+}

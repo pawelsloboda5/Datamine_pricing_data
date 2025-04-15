@@ -1,0 +1,46 @@
+{
+  "app_id": "pushbullet",
+  "app_name": "Pushbullet",
+  "app_slug": "pushbullet",
+  "pricing_url": null,
+  "source_url": "https://www.pushbullet.com",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The content provided does not include specific pricing details or tier descriptions.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:14:09.639036",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b08a6620-3acb-428a-9ff4-f3c8fbca7b8d",
+    "name": "Pushbullet",
+    "slug": "pushbullet",
+    "description": "Pushbullet makes it easy to push notifications to your smartphone and computer from the web. These notifications are smart too: if you receive a notification with a link, tapping on the notification will take you right to it!",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/d289b95436d2e5d9d4623741c0a818b4_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Notifications"
+    ],
+    "category_slugs": [
+      "notifications"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

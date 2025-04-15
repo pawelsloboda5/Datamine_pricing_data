@@ -1,0 +1,152 @@
+{
+  "app_id": "mews",
+  "app_name": "Mews",
+  "app_slug": "mews",
+  "pricing_url": null,
+  "source_url": "https://www.mews.com/en/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "custom"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are not explicitly listed; plans are described with features and recommended add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Designed to automate workflows, while driving revenue with more direct bookings.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Mews PMS",
+        "Easy-to-use booking engine",
+        "Guest portal for online check-in and upselling",
+        "Exportable reports",
+        "Embedded payments platform",
+        "Automated front office operations",
+        "8 Mews Marketplace integrations",
+        "24/7 chat bot support"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Unlock a customizable guest journey that drives brand loyalty.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Essentials",
+        "Customizable booking engine",
+        "Automated SMS check-in reminders",
+        "Digital Key for contactless check-in"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Take control of your business with insights and solutions.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Advanced",
+        "Mews Analytics",
+        "Mews Open API",
+        "Unlimited Mews Marketplace"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Portfolio",
+      "tier_description": "Maximize efficiency with a customizable guest journey.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Mews PMS",
+        "Mews Multi-Property",
+        "Advanced Guest Experience",
+        "Mews Analytics"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Brand",
+      "tier_description": "Advanced plan for portfolio control and insights.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Portfolio",
+        "Mews Open API",
+        "Unlimited Mews Marketplace"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Traveler",
+      "tier_description": "Designed to make running hostels a breeze.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Mews PMS",
+        "Advanced Guest Experience",
+        "Mews Analytics"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Long Stay",
+      "tier_description": "Create remarkable stays for extended durations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Mews PMS",
+        "Mews Multi-Property"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:46:09.218960",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b15dfc36-b51b-407c-99c4-61cf620d1be8",
+    "name": "Mews",
+    "slug": "mews",
+    "description": "Mews is an innovative hospitality cloud that empowers the modern hotelier to improve performance, maximize revenue, and provide remarkable guest experiences.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/1820a1590c19636c62d672128fadda50.jpeg?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Product Management"
+    ],
+    "category_slugs": [
+      "product-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 17,
+    "trigger_count": 5
+  }
+}

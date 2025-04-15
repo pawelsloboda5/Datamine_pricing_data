@@ -1,0 +1,117 @@
+{
+  "app_id": "omnisend",
+  "app_name": "Omnisend",
+  "app_slug": "omnisend",
+  "pricing_url": "https://www.omnisend.com/pricing/",
+  "source_url": "https://www.omnisend.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.omnisend.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are structured into tiers with a free trial available.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for small businesses.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email campaigns",
+        "Signup forms",
+        "Reports"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Advanced features for growing businesses.",
+      "monthly_price": 16.0,
+      "annual_price": 192.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email campaigns",
+        "Signup forms",
+        "Reports",
+        "Automation workflows",
+        "SMS campaigns"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "All features for large businesses.",
+      "monthly_price": 59.0,
+      "annual_price": 708.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email campaigns",
+        "Signup forms",
+        "Reports",
+        "Automation workflows",
+        "SMS campaigns",
+        "Advanced reporting",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:51:19.186996",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3f6ca9fb-8d68-4678-aeb2-529e01497e51",
+    "name": "Omnisend",
+    "slug": "omnisend",
+    "description": "Omnisend is a marketing automation platform built for growing ecommerce businesses that have graduated their basic email marketing tools.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d778ee67877c1bba144c2b1ef8153df3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

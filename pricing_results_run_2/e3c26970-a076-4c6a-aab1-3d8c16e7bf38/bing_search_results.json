@@ -1,0 +1,24 @@
+{
+  "app_name": "pdfFiller",
+  "app_slug": "pdffiller",
+  "search_term": "Find the official pricing page URL for pdfFiller (pdffiller.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744715282.4651883,
+  "response_text": [
+    "The official pricing page for pdfFiller can be found at: [https://www.pdffiller.com/en/pricing](https://www.pdffiller.com/en/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Plans and Pricing - pdfFiller",
+      "url": "https://www.pdffiller.com/%7B%24lang%7D/services.htm"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.pdffiller.com/en/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\pdffiller\\20250415_070820"
+}

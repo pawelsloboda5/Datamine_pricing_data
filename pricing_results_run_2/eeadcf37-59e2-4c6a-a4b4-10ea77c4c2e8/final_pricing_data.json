@@ -1,0 +1,117 @@
+{
+  "app_id": "signwell",
+  "app_name": "SignWell",
+  "app_slug": "signwell",
+  "pricing_url": "https://www.signwell.com/pricing",
+  "source_url": "https://www.signwell.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.signwell.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "SignWell offers unlimited documents and signers across all paid plans. Additional users can be added for a fee.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Light",
+      "tier_description": "Includes 1 user (Sender) with unlimited document signers.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited documents",
+        "Unlimited signers",
+        "Reminders & Notifications",
+        "Template Links",
+        "Bulk Send",
+        "Advanced Preferences",
+        "Custom Branding",
+        "Data Validation",
+        "Request Attachments",
+        "Redirect on Completion",
+        "In-Person Signing"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional Users",
+            "value": "$10 each"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Includes 3 users (Senders) with unlimited document signers.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited documents",
+        "Unlimited signers",
+        "Reminders & Notifications",
+        "Template Links",
+        "Bulk Send",
+        "Advanced Preferences",
+        "Custom Branding",
+        "Data Validation",
+        "Request Attachments",
+        "Redirect on Completion",
+        "In-Person Signing"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional Users",
+            "value": "$12 each"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:17:43.740458",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "eeadcf37-59e2-4c6a-a4b4-10ea77c4c2e8",
+    "name": "SignWell",
+    "slug": "signwell",
+    "description": "SignWell is an electronic signature tool for legally binding e-signatures and faster document signing.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/304fbb8c25ae6a6362df152b5107b8e6.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Signatures"
+    ],
+    "category_slugs": [
+      "signatures"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

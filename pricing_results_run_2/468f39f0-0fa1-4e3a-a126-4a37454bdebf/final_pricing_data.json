@@ -1,0 +1,166 @@
+{
+  "app_id": "urlooker",
+  "app_name": "Urlooker",
+  "app_slug": "urlooker",
+  "pricing_url": "https://urlooker.com/auth/signup",
+  "source_url": "https://urlooker.com/pricing",
+  "all_pricing_urls": [
+    "https://urlooker.com/auth/signup"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The Free tier allows monitoring of up to 2 pages daily without charge.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free plan for monitoring up to 2 pages daily.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Monitor up to 2 pages",
+        "1 check per day"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Pages to Track",
+            "value": 2
+          },
+          {
+            "name": "Checks per Day",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Standard plan for monitoring up to 10 pages.",
+      "monthly_price": 9.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Monitor up to 10 pages",
+        "4 checks per day"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Pages to Track",
+            "value": 10
+          },
+          {
+            "name": "Checks per Day",
+            "value": 4
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Premium plan for monitoring up to 25 pages.",
+      "monthly_price": 20.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Monitor up to 25 pages",
+        "24 checks per day"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Pages to Track",
+            "value": 25
+          },
+          {
+            "name": "Checks per Day",
+            "value": 24
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Professional plan for monitoring up to 100 pages.",
+      "monthly_price": 50.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Monitor up to 100 pages",
+        "48 checks per day",
+        "Checks every 30 minutes"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Pages to Track",
+            "value": 100
+          },
+          {
+            "name": "Checks per Day",
+            "value": 48
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:50:52.715784",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "468f39f0-0fa1-4e3a-a126-4a37454bdebf",
+    "name": "Urlooker",
+    "slug": "urlooker",
+    "description": "Urlooker is a tool for monitoring changes on web pages. Just select a page area, and you'll receive notifications about changed content.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/fb1ef583fab2a5d8aa9873780673218d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Notifications"
+    ],
+    "category_slugs": [
+      "notifications"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

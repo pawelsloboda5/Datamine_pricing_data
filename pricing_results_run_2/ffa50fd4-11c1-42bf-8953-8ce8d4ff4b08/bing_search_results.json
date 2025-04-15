@@ -1,0 +1,12 @@
+{
+  "app_name": "Clearbit",
+  "app_slug": "clearbit",
+  "search_term": "Find the official pricing page URL for Clearbit (clearbit.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744692018.345848,
+  "response_text": [
+    "I couldn\u2019t locate a direct link to the official pricing page on the Clearbit website. You may need to contact Clearbit directly for up-to-date pricing details."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\clearbit\\20250415_004018"
+}

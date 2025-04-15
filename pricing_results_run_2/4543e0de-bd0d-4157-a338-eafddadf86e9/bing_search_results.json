@@ -1,0 +1,452 @@
+{
+  "app_name": "SendJim",
+  "app_slug": "sendjim",
+  "search_term": "Find the official pricing page URL for SendJim (sendjim.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744695427.6422393,
+  "response_text": [
+    "The official pricing page for SendJim can be found at [https://members.sendjim.com/pricing](https://members.sendjim.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Simple Pricing, Straightforward Benefits. - SendJim",
+      "url": "https://members.sendjim.com/Pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://members.sendjim.com/Pricing",
+      "is_accessible": true,
+      "content": "Simple Pricing, Straightforward Benefits.\n\nNo contracts to tie you down. Whether you're starting out or scaling up, you can change your membership anytime to suit the needs of your business. Your membership unlocks all our powerful tools from day one. Credits include all costs \u2013 from printing to postage.\n\n### Basic\n\nBest for Businesses Looking to Use SendJim's Every Door Direct Mail and Text Messaging Features Only\n\n$49 /month\n\n[Get Started](https://members.sendjim.com/checkout/index/164?checkOutID=1)\n\n*   Credits Expire After 6 months\n*   $1.69 Cost Per Additional Credit\n*   0 Credits Included Per Month\n*   Send Postcards, Handwritten Cards, Gifts & Voicemails\n*   Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools\n*   Personalized Onboarding & Set-Up Appointment\n*   Receive, Schedule & Send Text Messages to Clients & Prospects\n\nFirst 14 Days Free!\n\n### Pro\n\nBest For Small Businesses Looking to Use Multiple SendJim Features\n\n$599 /month\n\n[Get Started](https://members.sendjim.com/checkout/index/161?checkOutID=1)\n\n*   Credits Expire After 12 months\n*   $0.79 Cost Per Additional Credit\n*   500 Credits Included Per Month\n*   Send Postcards, Handwritten Cards, Gifts & Voicemails\n*   Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools\n*   Personalized Onboarding & Set-Up Appointment\n*   Receive, Schedule & Send Text Messages to Clients & Prospects\n*   Automation & Integration with Popular CRMs\n*   Personalized Marketing Plan\n\nFirst 14 Days Free!\n\n### Enterprise\n\nBest for Growing Businesses Wanting to Incorporate Direct Mail to Their Marketing Budget\n\n$1,299 /month\n\n[Get Started](https://members.sendjim.com/checkout/index/160?checkOutID=1)\n\n*   Credits Expire After 12 months\n*   $0.74 Cost Per Additional Credit\n*   1000 Credits Included Per Month\n*   Send Postcards, Handwritten Cards, Gifts & Voicemails\n*   Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools\n*   Personalized Onboarding & Set-Up Appointment\n*   Receive, Schedule & Send Text Messages to Clients & Prospects\n*   Automation & Integration with Popular CRMs\n*   Personalized Marketing Plan\n*   One Free Design/Month\n*   Two Lead Attribution Reports per Year\n*   Two Marketing Strategy Sessions per Year with a Success Manager\n*   Bulk Credit Discounts\n\nFirst 14 Days Free!\n\n### Platinum\n\nBest for Growing Businesses Wanting to Incorporate Direct Mail to Their Marketing Budget\n\n$2,699 /month\n\n[Get Started](https://members.sendjim.com/checkout/index/162?checkOutID=1)\n\n*   Credits Expire After 12 months\n*   $0.71 Cost Per Additional Credit\n*   3000 Credits Included Per Month\n*   Send Postcards, Handwritten Cards, Gifts & Voicemails\n*   Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools\n*   Personalized Onboarding & Set-Up Appointment\n*   Receive, Schedule & Send Text Messages to Clients & Prospects\n*   Automation & Integration with Popular CRMs\n*   Personalized Marketing Plan\n*   One Free Design/Month\n*   Two Lead Attribution Reports per Year\n*   Two Marketing Strategy Sessions per Year with a Success Manager\n*   Bulk Credit Discounts\n*   Early Access to New Features\n\nCredits are the currency inside SendJim. Every item has a credit cost that encompasses all costs associated with sending that item out. Ex. postage, printing, delivery to and by the USPS.\n\nCredit Cost of Popular Items\n\nPostcards\n\n1-1.75 credits based on card size\n\nGifts\n\nStarting at 20 credits\n\nHandwritten Cards\n\n6 credits\n\nVoicemails\n\n0.5 credits\n\nAll-Inclusive Every Door Direct Mail Service\n\nas low as $0.42/card including printing & delivery to USPS\n\nSendJim allows small business owners to send laser focused, highly personalized, and unique direct mail postcards to potential customers right from their iPhone.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "sendjim",
+        "app_name": "SendJim",
+        "app_slug": "sendjim",
+        "pricing_url": "https://members.sendjim.com/checkout",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://members.sendjim.com/checkout"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Credits are used as a currency within SendJim for various services, with costs varying by item type.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic",
+            "tier_description": "Best for Businesses Looking to Use SendJim's Every Door Direct Mail and Text Messaging Features Only",
+            "monthly_price": 49.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Credits Expire After 6 months",
+              "$1.69 Cost Per Additional Credit",
+              "0 Credits Included Per Month",
+              "Send Postcards, Handwritten Cards, Gifts & Voicemails",
+              "Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools",
+              "Personalized Onboarding & Set-Up Appointment",
+              "Receive, Schedule & Send Text Messages to Clients & Prospects"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Credits Included Per Month",
+                  "value": 0
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Best For Small Businesses Looking to Use Multiple SendJim Features",
+            "monthly_price": 599.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Credits Expire After 12 months",
+              "$0.79 Cost Per Additional Credit",
+              "500 Credits Included Per Month",
+              "Send Postcards, Handwritten Cards, Gifts & Voicemails",
+              "Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools",
+              "Personalized Onboarding & Set-Up Appointment",
+              "Receive, Schedule & Send Text Messages to Clients & Prospects",
+              "Automation & Integration with Popular CRMs",
+              "Personalized Marketing Plan"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Credits Included Per Month",
+                  "value": 500
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Best for Growing Businesses Wanting to Incorporate Direct Mail to Their Marketing Budget",
+            "monthly_price": 1299.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Credits Expire After 12 months",
+              "$0.74 Cost Per Additional Credit",
+              "1000 Credits Included Per Month",
+              "Send Postcards, Handwritten Cards, Gifts & Voicemails",
+              "Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools",
+              "Personalized Onboarding & Set-Up Appointment",
+              "Receive, Schedule & Send Text Messages to Clients & Prospects",
+              "Automation & Integration with Popular CRMs",
+              "Personalized Marketing Plan",
+              "One Free Design/Month",
+              "Two Lead Attribution Reports per Year",
+              "Two Marketing Strategy Sessions per Year with a Success Manager",
+              "Bulk Credit Discounts"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Credits Included Per Month",
+                  "value": 1000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Platinum",
+            "tier_description": "Best for Growing Businesses Wanting to Incorporate Direct Mail to Their Marketing Budget",
+            "monthly_price": 2699.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Credits Expire After 12 months",
+              "$0.71 Cost Per Additional Credit",
+              "3000 Credits Included Per Month",
+              "Send Postcards, Handwritten Cards, Gifts & Voicemails",
+              "Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools",
+              "Personalized Onboarding & Set-Up Appointment",
+              "Receive, Schedule & Send Text Messages to Clients & Prospects",
+              "Automation & Integration with Popular CRMs",
+              "Personalized Marketing Plan",
+              "One Free Design/Month",
+              "Two Lead Attribution Reports per Year",
+              "Two Marketing Strategy Sessions per Year with a Success Manager",
+              "Bulk Credit Discounts",
+              "Early Access to New Features"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Credits Included Per Month",
+                  "value": 3000
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Credits",
+            "unit": "per credit",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": null,
+                "price": 1.69
+              }
+            ]
+          },
+          {
+            "metric_name": "Postcards",
+            "unit": "per card",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": null,
+                "price": 0.42
+              }
+            ]
+          },
+          {
+            "metric_name": "Gifts",
+            "unit": "per gift",
+            "base_price": 20.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Handwritten Cards",
+            "unit": "per card",
+            "base_price": 6.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Voicemails",
+            "unit": "per voicemail",
+            "base_price": 0.5,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T01:37:19.158906",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://members.sendjim.com/pricing",
+      "is_accessible": true,
+      "content": "Simple Pricing, Straightforward Benefits.\n\nNo contracts to tie you down. Whether you're starting out or scaling up, you can change your membership anytime to suit the needs of your business. Your membership unlocks all our powerful tools from day one. Credits include all costs \u2013 from printing to postage.\n\n### Basic\n\nBest for Businesses Looking to Use SendJim's Every Door Direct Mail and Text Messaging Features Only\n\n$49 /month\n\n[Get Started](https://members.sendjim.com/checkout/index/164?checkOutID=1)\n\n*   Credits Expire After 6 months\n*   $1.69 Cost Per Additional Credit\n*   0 Credits Included Per Month\n*   Send Postcards, Handwritten Cards, Gifts & Voicemails\n*   Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools\n*   Personalized Onboarding & Set-Up Appointment\n*   Receive, Schedule & Send Text Messages to Clients & Prospects\n\nFirst 14 Days Free!\n\n### Pro\n\nBest For Small Businesses Looking to Use Multiple SendJim Features\n\n$599 /month\n\n[Get Started](https://members.sendjim.com/checkout/index/161?checkOutID=1)\n\n*   Credits Expire After 12 months\n*   $0.79 Cost Per Additional Credit\n*   500 Credits Included Per Month\n*   Send Postcards, Handwritten Cards, Gifts & Voicemails\n*   Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools\n*   Personalized Onboarding & Set-Up Appointment\n*   Receive, Schedule & Send Text Messages to Clients & Prospects\n*   Automation & Integration with Popular CRMs\n*   Personalized Marketing Plan\n\nFirst 14 Days Free!\n\n### Enterprise\n\nBest for Growing Businesses Wanting to Incorporate Direct Mail to Their Marketing Budget\n\n$1,299 /month\n\n[Get Started](https://members.sendjim.com/checkout/index/160?checkOutID=1)\n\n*   Credits Expire After 12 months\n*   $0.74 Cost Per Additional Credit\n*   1000 Credits Included Per Month\n*   Send Postcards, Handwritten Cards, Gifts & Voicemails\n*   Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools\n*   Personalized Onboarding & Set-Up Appointment\n*   Receive, Schedule & Send Text Messages to Clients & Prospects\n*   Automation & Integration with Popular CRMs\n*   Personalized Marketing Plan\n*   One Free Design/Month\n*   Two Lead Attribution Reports per Year\n*   Two Marketing Strategy Sessions per Year with a Success Manager\n*   Bulk Credit Discounts\n\nFirst 14 Days Free!\n\n### Platinum\n\nBest for Growing Businesses Wanting to Incorporate Direct Mail to Their Marketing Budget\n\n$2,699 /month\n\n[Get Started](https://members.sendjim.com/checkout/index/162?checkOutID=1)\n\n*   Credits Expire After 12 months\n*   $0.71 Cost Per Additional Credit\n*   3000 Credits Included Per Month\n*   Send Postcards, Handwritten Cards, Gifts & Voicemails\n*   Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools\n*   Personalized Onboarding & Set-Up Appointment\n*   Receive, Schedule & Send Text Messages to Clients & Prospects\n*   Automation & Integration with Popular CRMs\n*   Personalized Marketing Plan\n*   One Free Design/Month\n*   Two Lead Attribution Reports per Year\n*   Two Marketing Strategy Sessions per Year with a Success Manager\n*   Bulk Credit Discounts\n*   Early Access to New Features\n\nCredits are the currency inside SendJim. Every item has a credit cost that encompasses all costs associated with sending that item out. Ex. postage, printing, delivery to and by the USPS.\n\nCredit Cost of Popular Items\n\nPostcards\n\n1-1.75 credits based on card size\n\nGifts\n\nStarting at 20 credits\n\nHandwritten Cards\n\n6 credits\n\nVoicemails\n\n0.5 credits\n\nAll-Inclusive Every Door Direct Mail Service\n\nas low as $0.42/card including printing & delivery to USPS\n\nSendJim allows small business owners to send laser focused, highly personalized, and unique direct mail postcards to potential customers right from their iPhone.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "sendjim",
+        "app_name": "SendJim",
+        "app_slug": "sendjim",
+        "pricing_url": "https://members.sendjim.com/checkout",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://members.sendjim.com/checkout"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Credits are used as a currency within SendJim for various services, with costs varying by item type.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic",
+            "tier_description": "Best for Businesses Looking to Use SendJim's Every Door Direct Mail and Text Messaging Features Only",
+            "monthly_price": 49.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Credits Expire After 6 months",
+              "$1.69 Cost Per Additional Credit",
+              "0 Credits Included Per Month",
+              "Send Postcards, Handwritten Cards, Gifts & Voicemails",
+              "Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools",
+              "Personalized Onboarding & Set-Up Appointment",
+              "Receive, Schedule & Send Text Messages to Clients & Prospects"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Credits Included Per Month",
+                  "value": 0
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Best For Small Businesses Looking to Use Multiple SendJim Features",
+            "monthly_price": 599.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Credits Expire After 12 months",
+              "$0.79 Cost Per Additional Credit",
+              "500 Credits Included Per Month",
+              "Send Postcards, Handwritten Cards, Gifts & Voicemails",
+              "Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools",
+              "Personalized Onboarding & Set-Up Appointment",
+              "Receive, Schedule & Send Text Messages to Clients & Prospects",
+              "Automation & Integration with Popular CRMs",
+              "Personalized Marketing Plan"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Credits Included Per Month",
+                  "value": 500
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Best for Growing Businesses Wanting to Incorporate Direct Mail to Their Marketing Budget",
+            "monthly_price": 1299.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Credits Expire After 12 months",
+              "$0.74 Cost Per Additional Credit",
+              "1000 Credits Included Per Month",
+              "Send Postcards, Handwritten Cards, Gifts & Voicemails",
+              "Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools",
+              "Personalized Onboarding & Set-Up Appointment",
+              "Receive, Schedule & Send Text Messages to Clients & Prospects",
+              "Automation & Integration with Popular CRMs",
+              "Personalized Marketing Plan",
+              "One Free Design/Month",
+              "Two Lead Attribution Reports per Year",
+              "Two Marketing Strategy Sessions per Year with a Success Manager",
+              "Bulk Credit Discounts"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Credits Included Per Month",
+                  "value": 1000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Platinum",
+            "tier_description": "Best for Growing Businesses Wanting to Incorporate Direct Mail to Their Marketing Budget",
+            "monthly_price": 2699.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Credits Expire After 12 months",
+              "$0.71 Cost Per Additional Credit",
+              "3000 Credits Included Per Month",
+              "Send Postcards, Handwritten Cards, Gifts & Voicemails",
+              "Mail Using Our Radius Bomb, Neighbor Mailing, and Every Door Direct Mail Tools",
+              "Personalized Onboarding & Set-Up Appointment",
+              "Receive, Schedule & Send Text Messages to Clients & Prospects",
+              "Automation & Integration with Popular CRMs",
+              "Personalized Marketing Plan",
+              "One Free Design/Month",
+              "Two Lead Attribution Reports per Year",
+              "Two Marketing Strategy Sessions per Year with a Success Manager",
+              "Bulk Credit Discounts",
+              "Early Access to New Features"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Credits Included Per Month",
+                  "value": 3000
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Credits",
+            "unit": "per credit",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": null,
+                "price": 1.69
+              }
+            ]
+          },
+          {
+            "metric_name": "Postcards",
+            "unit": "per card",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": null,
+                "price": 0.42
+              }
+            ]
+          },
+          {
+            "metric_name": "Gifts",
+            "unit": "per gift",
+            "base_price": 20.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Handwritten Cards",
+            "unit": "per card",
+            "base_price": 6.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Voicemails",
+            "unit": "per voicemail",
+            "base_price": 0.5,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T01:37:30.748531",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\sendjim\\20250415_013732"
+}

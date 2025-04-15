@@ -1,0 +1,172 @@
+{
+  "app_id": "emma",
+  "app_name": "Emma",
+  "app_slug": "emma",
+  "pricing_url": "https://myemma.com/pricing/",
+  "source_url": "https://myemma.com/pricing/",
+  "all_pricing_urls": [
+    "https://myemma.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing varies based on the number of contacts and additional features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Emma Lite",
+      "tier_description": "Marketers who need to nail the basics.",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Drag and drop editor",
+        "Built-in integrations",
+        "Email and phone support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Emma Essentials",
+      "tier_description": "Growing brands who need more customization and automation.",
+      "monthly_price": 159.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Landing pages",
+        "Unlimited automation",
+        "SMS"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Emma for Teams",
+      "tier_description": "Teams with multiple departments or locations who need to manage marketing activity from one central account.",
+      "monthly_price": 249.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Tiered account structure",
+        "Custom user permissions",
+        "Brand Manager",
+        "Trend reporting",
+        "Share branded assets between subaccounts",
+        "SMS"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Emma Corporate",
+      "tier_description": "Larger organizations who need to scale and control their marketing efficiently and seamlessly.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10+ subaccounts",
+        "Unlimited users",
+        "Priority phone support",
+        "Share audiences between subaccounts",
+        "SMS"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Subaccounts",
+            "value": "10+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Discounted Monthly Pricing",
+      "offer_description": "Reduced monthly pricing for annual contracts.",
+      "discount_percentage": null,
+      "offer_url": "https://myemma.com/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Private Branding",
+      "fee_amount": null,
+      "fee_description": "Additional charges apply for removing Emma branding from emails."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:23:05.100603",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "741ba085-a1f9-4a51-b26a-01769fce7b58",
+    "name": "Emma",
+    "slug": "emma",
+    "description": "Grow your business with smart, stylish email marketing campaigns.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/745db695687d2a6398dced110f355f3b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 28,
+    "trigger_count": 19
+  }
+}

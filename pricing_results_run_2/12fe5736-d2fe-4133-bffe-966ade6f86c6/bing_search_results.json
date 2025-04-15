@@ -1,0 +1,24 @@
+{
+  "app_name": "Invoiced",
+  "app_slug": "invoiced",
+  "search_term": "Find the official pricing page URL for Invoiced (invoiced.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744720885.3787713,
+  "response_text": [
+    "The official Invoiced pricing page URL is https://www.invoiced.com/pricing\u30103:4\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Recurring Billing - Invoiced",
+      "url": "https://www.invoiced.com/resources/blog/recurring-billing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.invoiced.com/pricing\u30103:4\u2020source\u3011.",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\invoiced\\20250415_084140"
+}

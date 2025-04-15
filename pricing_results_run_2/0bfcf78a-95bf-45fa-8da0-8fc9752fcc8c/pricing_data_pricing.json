@@ -1,0 +1,205 @@
+{
+  "app_id": "cloze",
+  "app_name": "Cloze",
+  "app_slug": "cloze",
+  "pricing_url": "https://www.cloze.com/app/pricing",
+  "source_url": "https://www.cloze.com/app/pricing",
+  "all_pricing_urls": [
+    "https://www.cloze.com/app/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes both individual and team-oriented plans with additional features for higher tiers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pro",
+      "tier_description": "Essential tools for individuals",
+      "monthly_price": 19.99,
+      "annual_price": 204.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Smart AI",
+        "One View of Everything",
+        "Business-Grade Email",
+        "Open Tracking and Reply Reminders",
+        "Templates and Mail Merge",
+        "CRM Without Data Entry",
+        "Unified Contact Management",
+        "Smart Custom Fields",
+        "Advanced Integrations",
+        "Text Message Syncing",
+        "Track Partners",
+        "Matching Engine",
+        "Smart Templates",
+        "Lead Capture",
+        "Campaign Automation",
+        "Marketing Mail",
+        "Automatic Newsletters",
+        "Generative AI",
+        "Team Features",
+        "Work as a Team",
+        "Assign Responsibility",
+        "Manage Privacy",
+        "Team Analytics",
+        "Enhanced Control",
+        "Lead Routing",
+        "Sub-Team Hierarchies",
+        "User Archiving",
+        "Enterprise Controls"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Business Silver",
+      "tier_description": "Essential tools for small businesses",
+      "monthly_price": 24.99,
+      "annual_price": 252.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Includes everything in Cloze Pro",
+        "Work as a Team",
+        "Assign Responsibility",
+        "Manage Privacy"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Gold",
+      "tier_description": "Everything for a growing business",
+      "monthly_price": 34.99,
+      "annual_price": 348.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Includes everything in Business Silver",
+        "Smart Custom Fields",
+        "Advanced Integrations",
+        "Text Message Syncing",
+        "Track Partners",
+        "Team Analytics",
+        "Enhanced Control"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Platinum",
+      "tier_description": "Advanced tools for enterprise needs",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes everything in Business Gold",
+        "Matching Engine",
+        "Smart Templates",
+        "Lead Capture",
+        "Campaign Automation",
+        "Marketing Mail",
+        "Automatic Newsletters",
+        "Generative AI",
+        "Lead Routing",
+        "Sub-Team Hierarchies",
+        "User Archiving",
+        "Enterprise Controls"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "User Archiving",
+      "unit": "per archive",
+      "base_price": 5.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 5.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Concierge Service",
+      "unit": "per user",
+      "base_price": 20.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 20.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Concierge Service Minimum Fee",
+      "fee_amount": 500.0,
+      "fee_description": "Minimum monthly fee for Concierge Service"
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:57:37.204769",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0bfcf78a-95bf-45fa-8da0-8fc9752fcc8c",
+    "name": "Cloze",
+    "slug": "cloze",
+    "description": "Cloze is like a personal assistant for your professional relationships that is always prompting you at the right moment, and remembering what you don\u2019t. It\u2019s the no-work way to see everything about your contacts in one place. Email, phone calls, meetings, notes, follow-ups and social.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/f293e8262aa3a2e0f762a1f1673bf7a8.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 2
+  }
+}

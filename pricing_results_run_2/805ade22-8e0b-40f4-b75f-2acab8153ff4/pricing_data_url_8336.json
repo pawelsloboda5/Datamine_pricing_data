@@ -1,0 +1,207 @@
+{
+  "app_id": "teamup_calendar",
+  "app_name": "Teamup Calendar",
+  "app_slug": "teamup-calendar",
+  "pricing_url": "https://www.teamup.com/pricing",
+  "source_url": "https://www.teamup.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.teamup.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 3,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of sub-calendars and users, with options for additional features and scalability.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic free plan.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 8 sub-calendars",
+        "Up to 8 account-based users",
+        "Unlimited anonymous users via shareable links",
+        "1-year historical data",
+        "12-hour sync frequency for inbound iCal feeds"
+      ],
+      "limits": {
+        "users": 8,
+        "storage": "500MB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Max file size",
+            "value": "10MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Enhanced features for small teams.",
+      "monthly_price": 12.0,
+      "annual_price": 120.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "12 sub-calendars",
+        "12 account users",
+        "1 custom field",
+        "2GB storage for attached files",
+        "Daily Agenda",
+        "5-year historical data",
+        "4-hour sync frequency for inbound iCal feeds"
+      ],
+      "limits": {
+        "users": 12,
+        "storage": "2GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Max file size",
+            "value": "10MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced features for medium teams.",
+      "monthly_price": 29.0,
+      "annual_price": 300.0,
+      "annual_discount_percentage": 13.79,
+      "setup_fee": null,
+      "features": [
+        "25 sub-calendars",
+        "25 account users",
+        "5 custom fields",
+        "20GB storage for attached files",
+        "1-hour sync frequency for inbound iCal feeds",
+        "Option to add more account users ($3 per user/month)"
+      ],
+      "limits": {
+        "users": 25,
+        "storage": "20GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Max file size",
+            "value": "20MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Comprehensive features for large teams.",
+      "monthly_price": 69.0,
+      "annual_price": 720.0,
+      "annual_discount_percentage": 13.04,
+      "setup_fee": null,
+      "features": [
+        "70 sub-calendars",
+        "50 account users",
+        "20 custom fields",
+        "100GB storage for attached files",
+        "15-min sync frequency for inbound iCal feeds",
+        "10-year historical data",
+        "Option to add more sub-calendars ($10 per month/pack of 10 calendars)"
+      ],
+      "limits": {
+        "users": 50,
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Max file size",
+            "value": "20MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Premium features for enterprise-level teams.",
+      "monthly_price": 129.0,
+      "annual_price": 1260.0,
+      "annual_discount_percentage": 18.6,
+      "setup_fee": null,
+      "features": [
+        "150 sub-calendars",
+        "100 account users",
+        "50 custom fields",
+        "400GB storage for attached files",
+        "Single sign-on (SSO)",
+        "Option for consolidated billing",
+        "Call back support"
+      ],
+      "limits": {
+        "users": 100,
+        "storage": "400GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Max file size",
+            "value": "20MB"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Additional account users",
+      "fee_amount": 3.0,
+      "fee_description": "$3 per user/month for extra users beyond the tier limit."
+    },
+    {
+      "fee_name": "Additional sub-calendars",
+      "fee_amount": 10.0,
+      "fee_description": "$10 per month for a pack of 10 additional sub-calendars."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:11:20.836605",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "805ade22-8e0b-40f4-b75f-2acab8153ff4",
+    "name": "Teamup Calendar",
+    "slug": "teamup-calendar",
+    "description": "Teamup is a calendar tool for groups and businesses. Teamup makes it easy to organize teams, schedule jobs, manage availability of people and resources, and share with any users with customizable access control.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/aee5816ecd0c654f3757064e4e5e2eb2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Collaboration"
+    ],
+    "category_slugs": [
+      "team-collaboration"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 6
+  }
+}

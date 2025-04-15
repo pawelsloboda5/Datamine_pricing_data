@@ -1,0 +1,108 @@
+{
+  "app_id": "mollie",
+  "app_name": "Mollie",
+  "app_slug": "mollie",
+  "pricing_url": "https://www.mollie.com/en/pricing",
+  "source_url": "https://www.mollie.com/en/pricing",
+  "all_pricing_urls": [
+    "https://www.mollie.com/en/pricing"
+  ],
+  "price_model_type": [
+    "usage_based",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Mollie offers a pay-per-transaction model with no minimum costs or hidden fees. Volume discounts and tailored pricing are available for high transaction volumes.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard Pricing",
+      "tier_description": "Pay per transaction only, no minimum costs, no lock-in contracts.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access all features",
+        "Cancel anytime",
+        "Easy setup"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Volume Pricing",
+      "tier_description": "Tailored pricing for businesses processing more than \u20ac50,000 per month.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Dedicated account manager",
+        "IC++ pricing",
+        "Volume discounts",
+        "Multi-product discounts"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Transaction Fees",
+      "unit": "per transaction",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": null,
+          "max": null,
+          "price": 0.25
+        }
+      ]
+    },
+    {
+      "metric_name": "Terminal Monthly Service Fee",
+      "unit": "per terminal",
+      "base_price": 20.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Mobile Terminal",
+      "fee_amount": 350.0,
+      "fee_description": "Point-of-sale solution including 4G SIM."
+    },
+    {
+      "fee_name": "Fixed Terminal",
+      "fee_amount": 350.0,
+      "fee_description": "Custom in-person checkout experience."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:40:57.659439",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ca5d5b56-dfbe-48e2-b2af-c66901cf6f2a",
+    "name": "Mollie",
+    "slug": "mollie-1",
+    "description": "Mollie is a licensed business specializing in processing online payments on behalf of merchants.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/b212303f36ea787e9ae7a30164487717.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 6
+  }
+}

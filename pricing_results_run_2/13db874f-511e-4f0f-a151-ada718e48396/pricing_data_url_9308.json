@@ -1,0 +1,203 @@
+{
+  "app_id": "connecteam",
+  "app_name": "Connecteam",
+  "app_slug": "connecteam",
+  "pricing_url": null,
+  "source_url": "https://connecteam.com/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing varies based on the number of users and includes additional per-user charges beyond the base tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Kick-start with the essentials",
+      "monthly_price": 35.0,
+      "annual_price": 29.0,
+      "annual_discount_percentage": 18.0,
+      "setup_fee": null,
+      "features": [
+        "Real-time clock in & out with GPS",
+        "Unlimited jobs (clients, projects, etc.)",
+        "Payroll integration",
+        "Basic scheduling, including open shifts",
+        "Unlimited checklists, forms, and tasks"
+      ],
+      "limits": {
+        "users": 30,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional users",
+            "value": "$0.6/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Work faster and save time",
+      "monthly_price": 59.0,
+      "annual_price": 49.0,
+      "annual_discount_percentage": 18.0,
+      "setup_fee": null,
+      "features": [
+        "Full time clock customization",
+        "Auto clock out",
+        "Up to 10 Geofence sites",
+        "Advanced filters and bulk actions",
+        "Schedule repeating shifts and templates",
+        "Share live link of your schedule",
+        "Conditional fields in forms"
+      ],
+      "limits": {
+        "users": 30,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional users",
+            "value": "$1.8/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Expert",
+      "tier_description": "Automate your processes",
+      "monthly_price": 119.0,
+      "annual_price": 99.0,
+      "annual_discount_percentage": 18.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited sub-jobs",
+        "Unlimited shift attachments",
+        "Unlimited Geofence sites",
+        "Auto assign shifts in the schedule",
+        "Add up to 12 different schedules",
+        "Unlimited shift-tasks",
+        "Add shortcuts to shifts",
+        "Time clock and forms auto-reports",
+        "API access"
+      ],
+      "limits": {
+        "users": 30,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Additional users",
+            "value": "$3.6/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "A pricing plan customized for your business",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited time clocks and schedules",
+        "Unlimited auto-reports",
+        "Unlimited schedule shareable links",
+        "Unlimited data layers",
+        "Single Sign On (SSO)",
+        "Two-factor authentication (2FA)",
+        "Biometric app lock",
+        "Full API access",
+        "Personal success manager",
+        "Increased API rate limits"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional users",
+      "unit": "per user per month",
+      "base_price": 0.6,
+      "tiers": [
+        {
+          "min": 31.0,
+          "max": "unlimited",
+          "price": 0.6
+        }
+      ]
+    },
+    {
+      "metric_name": "Additional users",
+      "unit": "per user per month",
+      "base_price": 1.8,
+      "tiers": [
+        {
+          "min": 31.0,
+          "max": "unlimited",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "metric_name": "Additional users",
+      "unit": "per user per month",
+      "base_price": 3.6,
+      "tiers": [
+        {
+          "min": 31.0,
+          "max": "unlimited",
+          "price": 3.6
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:43:58.870409",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "13db874f-511e-4f0f-a151-ada718e48396",
+    "name": "Connecteam",
+    "slug": "connecteam",
+    "description": "Connecteam is an employee management app connecting the frontline employees and streamlining all work related needs in one app.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/442e7022eb21a10b4256ec946ae6e4fd.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 19,
+    "trigger_count": 5
+  }
+}

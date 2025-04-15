@@ -1,0 +1,19 @@
+{
+  "app_name": "Copilot",
+  "app_slug": "copilot",
+  "search_term": "Find the official pricing page URL for Copilot (copilot.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744695859.6392438,
+  "response_text": [
+    "I couldn\u2019t locate a direct link to the pricing page for Copilot. You may want to visit their homepage [here](https://www.copilot.com/) and browse for updated pricing details. Let me know if you'd like further assistance!"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.copilot.com/",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\copilot\\20250415_014420"
+}

@@ -1,0 +1,48 @@
+{
+  "app_name": "Quentn",
+  "app_slug": "quentn",
+  "search_term": "Find the official pricing page URL for Quentn (quentn.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744694066.5569577,
+  "response_text": [
+    "https://quentn.com/en/page/pricing"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://quentn.com/en/page/pricing",
+      "is_accessible": true,
+      "content": "[![Image 1: Quentn logo](https://quentn.com/assets/img/main-logo-white.svg) ![Image 2: Quentn logo](https://quentn.com/assets/img/main-logo-black.svg)](https://quentn.com/en)\n\n*   Features\n*   [Pricing](https://quentn.com/en/pricing)\n*   Resources\n\n*   [Login](https://my.quentn.com/?lang=en)\n*   [Get started](https://quentn.com/en/acfp/free-trial-registration) [Get started](https://quentn.com/en/acfp/free-trial-registration)\n\nkey features\n\n[Marketing Automation](https://quentn.com/en/features/marketing-automation)\n\nAutomate the structured process of acquiring new customers\n\n[Sales Pipeline & CRM](https://quentn.com/en/features/sales-pipelines-crm)\n\nSales CRM combined with marketing automation\n\n[E-Mail Marketing](https://quentn.com/en/features/email-marketing)\n\nSend unique emails with updates and special offers\n\n[Lead Management](https://quentn.com/en/features/lead-management)\n\nCollect leads and build a long-term relationship with them\n\n[Landing page builder](https://quentn.com/en/features/landingpage-builder)\n\nBuild your landing page with drag&drop editor\n\nLearn & Grow your business\n\n[Support](https://help.quentn.com/hc/en-150/requests/new)\n\nGet answers to your questions\n\n[Career](https://quentn.com/en/career)\n\nYour Career at Quentn\n\n[Documentation](https://help.quentn.com/hc/en-150)\n\nLearn how to set up and use Quentn\n\nNeed help?\n\n[Contact us](https://quentn.com/en/contact)\n\nGet in touch with us\n\n*   key features\n    \n    [Marketing Automation](https://quentn.com/en/features/marketing-automation)\n    \n    Automate the structured process of acquiring new customers\n    \n    [Sales Pipeline & CRM](https://quentn.com/en/features/sales-pipelines-crm)\n    \n    Sales CRM combined with marketing automation\n    \n    [E-Mail Marketing](https://quentn.com/en/features/email-marketing)\n    \n    Send unique emails with updates and special offers\n    \n    [Lead Management](https://quentn.com/en/features/lead-management)\n    \n    Collect leads and build a long-term relationship with them\n    \n    [Landing page builder](https://quentn.com/en/features/landingpage-builder)\n    \n    Build your landing page with drag&drop editor\n    \n*   [Pricing](https://quentn.com/en/pricing)\n*   Learn & Grow your business\n    \n    [Career](https://quentn.com/en/career)\n    \n    Your career at Quentn\n    \n    [Documentation](https://help.quentn.com/hc/en-150)\n    \n    Learn how to set up and use Quentn\n    \n    [Contact us](https://quentn.com/en/contact)\n    \n    Get in touch with us\n    \n\n*   [Log in](https://my.quentn.com/?lang=en)\n*   [Get started](https://quentn.com/en/acfp/free-trial-registration)\n\nThe requested page \"/en/page/pricing\" could not be found.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "quentn",
+        "app_name": "Quentn",
+        "app_slug": "quentn",
+        "pricing_url": "https://quentn.com/en/pricing",
+        "source_url": "https://quentn.com/en",
+        "all_pricing_urls": [
+          "https://quentn.com/en/pricing"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "EUR",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page was not accessible, and detailed pricing information could not be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T01:14:37.038603",
+        "schema_validated": true,
+        "confidence_score": 85,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\quentn\\20250415_011437"
+}

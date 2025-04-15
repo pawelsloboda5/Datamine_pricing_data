@@ -1,0 +1,47 @@
+{
+  "app_id": "leagueapps",
+  "app_name": "LeagueApps",
+  "app_slug": "leagueapps",
+  "pricing_url": "https://leagueapps.com/pricing/",
+  "source_url": "https://leagueapps.com/pricing/",
+  "all_pricing_urls": [
+    "https://leagueapps.com/pricing/"
+  ],
+  "price_model_type": [
+    "custom"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing details are not explicitly listed on the page. It appears that pricing is customized based on user needs.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:19:16.351244",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6698c79f-df05-41fe-8757-9718968bd8bd",
+    "name": "LeagueApps",
+    "slug": "leagueapps",
+    "description": "LeagueApps equips sports organizers, coaches, parents, and athletes with the tools they need to make sports happen. Our sports management software takes the headache out of everything from registration to schedule management, giving organizers the freedom to focus on what matters.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/5dd9ad592d1c09cba35a44c8598a2a50.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 6
+  }
+}

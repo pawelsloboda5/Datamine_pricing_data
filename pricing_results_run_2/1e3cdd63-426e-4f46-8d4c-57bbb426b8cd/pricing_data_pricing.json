@@ -1,0 +1,186 @@
+{
+  "app_id": "creatomate",
+  "app_name": "Creatomate",
+  "app_slug": "creatomate",
+  "pricing_url": "https://creatomate.com/pricing",
+  "source_url": "https://creatomate.com/pricing",
+  "all_pricing_urls": [
+    "https://creatomate.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free trial with 50 credits and no credit card required.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essential",
+      "tier_description": "Best for individuals.",
+      "monthly_price": 41.0,
+      "annual_price": 490.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "200+ videos or 2,000 images",
+        "2,000 credits",
+        "5 GB storage",
+        "1,000 feed rows",
+        "No-code & API access",
+        "JS Preview SDK",
+        "Project sharing",
+        "Priority email support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "5 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Videos",
+            "value": "200+"
+          },
+          {
+            "name": "Images",
+            "value": "2,000"
+          },
+          {
+            "name": "Feed Rows",
+            "value": "1,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Best for startups and small teams.",
+      "monthly_price": 99.0,
+      "annual_price": 1190.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "1,000+ videos or 10,000 images",
+        "50 GB storage",
+        "10,000 feed rows",
+        "No-code & API access",
+        "JS Preview SDK",
+        "Project sharing",
+        "Priority email support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "50 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Videos",
+            "value": "1,000+"
+          },
+          {
+            "name": "Images",
+            "value": "10,000"
+          },
+          {
+            "name": "Feed Rows",
+            "value": "10,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Beyond",
+      "tier_description": "Best for scale-ups and fast-growing companies.",
+      "monthly_price": 249.0,
+      "annual_price": 2990.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "5,000+ videos or 50,000 images",
+        "500 GB storage",
+        "100,000 feed rows",
+        "No-code & API access",
+        "JS Preview SDK",
+        "Project sharing",
+        "Priority email support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "500 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Videos",
+            "value": "5,000+"
+          },
+          {
+            "name": "Images",
+            "value": "50,000"
+          },
+          {
+            "name": "Feed Rows",
+            "value": "100,000"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Credits",
+      "unit": "per credit",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Billing Discount",
+      "offer_description": "2 months free when billed annually.",
+      "discount_percentage": 16.67,
+      "offer_url": "https://creatomate.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:08:48.887031",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1e3cdd63-426e-4f46-8d4c-57bbb426b8cd",
+    "name": "Creatomate",
+    "slug": "creatomate",
+    "description": "Creatomate lets you automatically create videos & banners from templates",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/8ec0d4e7e6c97aa70a27a609d5fc4c1b_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Video & Audio"
+    ],
+    "category_slugs": [
+      "video"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "app_id": "truecoach",
+  "app_name": "TrueCoach",
+  "app_slug": "truecoach",
+  "pricing_url": "https://www.truecoach.co/pricing/",
+  "source_url": "https://www.truecoach.co/pricing/",
+  "all_pricing_urls": [
+    "https://www.truecoach.co/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer savings equivalent to free months compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "For individual trainers who are just getting started in digital coaching.",
+      "monthly_price": 26.34,
+      "annual_price": 316.08,
+      "annual_discount_percentage": 8.33,
+      "setup_fee": null,
+      "features": [
+        "Up to 5 active clients",
+        "Program & Workout Builder",
+        "Client Management Tracker",
+        "MyFitnessPal Nutrition and Habit Tracker",
+        "Client Dashboard",
+        "3,000+ Video Exercise Library",
+        "In-App Messaging",
+        "Free Automated Payments"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "For growing fitness professionals looking to scale their business.",
+      "monthly_price": 57.99,
+      "annual_price": 695.88,
+      "annual_discount_percentage": 8.33,
+      "setup_fee": null,
+      "features": [
+        "Up to 20 active clients",
+        "Program & Workout Builder",
+        "Client Management Tracker",
+        "MyFitnessPal Nutrition and Habit Tracker",
+        "Client Dashboard",
+        "3,000+ Video Exercise Library",
+        "In-App Messaging",
+        "Free Automated Payments",
+        "Public Coach Profiles",
+        "Data Integration with Apple, Garmin, WHOOP, and other Wearables",
+        "Custom-Branded Fitness App",
+        "Advanced Habit and Nutrition Tracking",
+        "Business Automations powered by Zapier"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For established fitness businesses aiming to maximize the coaching experience.",
+      "monthly_price": 136.99,
+      "annual_price": 1643.88,
+      "annual_discount_percentage": 8.33,
+      "setup_fee": null,
+      "features": [
+        "Up to 50 active clients",
+        "Program & Workout Builder",
+        "Client Management Tracker",
+        "MyFitnessPal Nutrition and Habit Tracker",
+        "Client Dashboard",
+        "3,000+ Video Exercise Library",
+        "In-App Messaging",
+        "Free Automated Payments",
+        "Public Coach Profiles",
+        "Data Integration with Apple, Garmin, WHOOP, and other Wearables",
+        "Custom-Branded Fitness App",
+        "Advanced Habit and Nutrition Tracking",
+        "Business Automations powered by Zapier"
+      ],
+      "limits": {
+        "users": 50,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Savings",
+      "offer_description": "Equivalent month(s) free when comparing the total cost of annual billing with the total cost of monthly billing.",
+      "discount_percentage": 8.33,
+      "offer_url": "https://www.truecoach.co/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:31:21.196451",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "691531d5-fc05-4d3e-a43d-86e9dbd3a1fc",
+    "name": "TrueCoach",
+    "slug": "truecoach",
+    "description": "TrueCoach is a personal trainer software trusted by over 20,000+ personal trainers, coaches, and gym owners worldwide.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/22b20855ea36970e8f59d8e68ca28526.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fitness"
+    ],
+    "category_slugs": [
+      "fitness"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 3
+  }
+}

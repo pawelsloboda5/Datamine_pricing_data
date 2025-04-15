@@ -1,0 +1,257 @@
+{
+  "app_id": "wufoo",
+  "app_name": "Wufoo",
+  "app_slug": "wufoo",
+  "pricing_url": "https://www.wufoo.com/pricing/",
+  "source_url": "https://www.wufoo.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.wufoo.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "usage_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Overage fees apply for exceeding monthly entry limits on paid plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Build and share basic forms and collect limited number of responses.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 Forms",
+        "100 Entries",
+        "10 Fields",
+        "1 User",
+        "Unlimited Reports",
+        "100 API Requests",
+        "Email Support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": 100,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Forms",
+            "value": 5
+          },
+          {
+            "name": "Entries",
+            "value": 100
+          },
+          {
+            "name": "Fields",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": null,
+      "monthly_price": 16.25,
+      "annual_price": 195.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10 Forms",
+        "1,000 Entries",
+        "Max Fields",
+        "1 User",
+        "Unlimited Reports",
+        "10,000 API Requests",
+        "1GB File Storage",
+        "Email Support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "1GB",
+        "operations": null,
+        "api_calls": 10000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Forms",
+            "value": 10
+          },
+          {
+            "name": "Entries",
+            "value": 1000
+          },
+          {
+            "name": "Fields",
+            "value": "Max"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": null,
+      "monthly_price": 29.08,
+      "annual_price": 349.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Forms",
+        "5,000 Entries",
+        "Max Fields",
+        "5 Users",
+        "Unlimited Reports",
+        "25,000 API Requests",
+        "5GB File Storage",
+        "Expedited Support"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "5GB",
+        "operations": null,
+        "api_calls": 25000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Forms",
+            "value": "Unlimited"
+          },
+          {
+            "name": "Entries",
+            "value": 5000
+          },
+          {
+            "name": "Fields",
+            "value": "Max"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": null,
+      "monthly_price": 74.08,
+      "annual_price": 889.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Forms",
+        "25,000 Entries",
+        "Max Fields",
+        "20 Users",
+        "Unlimited Reports",
+        "50,000 API Requests",
+        "10GB File Storage",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": "10GB",
+        "operations": null,
+        "api_calls": 50000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Forms",
+            "value": "Unlimited"
+          },
+          {
+            "name": "Entries",
+            "value": 25000
+          },
+          {
+            "name": "Fields",
+            "value": "Max"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Ultimate",
+      "tier_description": null,
+      "monthly_price": 183.25,
+      "annual_price": 2199.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Forms",
+        "200,000 Entries",
+        "Max Fields",
+        "60 Users",
+        "Unlimited Reports",
+        "100,000 API Requests",
+        "20GB File Storage",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": 60,
+        "storage": "20GB",
+        "operations": null,
+        "api_calls": 100000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Forms",
+            "value": "Unlimited"
+          },
+          {
+            "name": "Entries",
+            "value": 200000
+          },
+          {
+            "name": "Fields",
+            "value": "Max"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Entries",
+      "unit": "per entry",
+      "base_price": 0.05,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Overage Fee",
+      "fee_amount": 0.05,
+      "fee_description": "Fee per entry over the monthly limit on paid plans."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:21:24.251910",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e5c94fde-0939-4f78-ab8a-9883fde308a4",
+    "name": "Wufoo",
+    "slug": "wufoo",
+    "description": "Wufoo is an easy way to create and manage HTML forms.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/7df95849379828699d44e060fc412661.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 4
+  }
+}

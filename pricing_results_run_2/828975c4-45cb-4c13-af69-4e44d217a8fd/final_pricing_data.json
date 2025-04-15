@@ -1,0 +1,179 @@
+{
+  "app_id": "sonix",
+  "app_name": "Sonix",
+  "app_slug": "sonix",
+  "pricing_url": "https://sonix.ai/pricing",
+  "source_url": "https://sonix.ai/pricing",
+  "all_pricing_urls": [
+    "https://sonix.ai/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Sonix offers a free trial with 30 minutes of transcription and provides discounts for students, teachers, and non-profits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Pay-as-you-go simplicity. Transcribe anytime, anywhere.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Single-user only",
+        "10 GB compressed media storage",
+        "Email support",
+        "Speaker diarization & timestamps",
+        "Powerful in-browser editor"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "10 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Subscription savings and team tools. Collaborate seamlessly.",
+      "monthly_price": 22.0,
+      "annual_price": 16.5,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Multi-user (1+ seats)",
+        "100 GB original media storage",
+        "Priority email support",
+        "Speaker diarization & timestamps",
+        "Powerful in-browser editor",
+        "Custom dictionary",
+        "Unlimited exports",
+        "API Access"
+      ],
+      "limits": {
+        "users": "1+",
+        "storage": "100 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "High-volume power. Advanced controls and deep content insights.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Multi-user (5+ seats)",
+        "1 TB+ original media storage",
+        "Dedicated account manager",
+        "Speaker diarization & timestamps",
+        "Powerful in-browser editor",
+        "Custom dictionary",
+        "Unlimited exports",
+        "API Access",
+        "SSO / SAML",
+        "Advanced user management"
+      ],
+      "limits": {
+        "users": "5+",
+        "storage": "1 TB+",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "AI Transcription",
+      "unit": "per hour",
+      "base_price": 10.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 10.0
+        }
+      ]
+    },
+    {
+      "metric_name": "AI Translation",
+      "unit": "per hour",
+      "base_price": 10.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 10.0
+        }
+      ]
+    },
+    {
+      "metric_name": "AI Analysis",
+      "unit": "per month",
+      "base_price": 5.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 5.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Educational and Non-Profit Discount",
+      "offer_description": "Special discounted pricing for students, teachers, and non-profits.",
+      "discount_percentage": null,
+      "offer_url": "https://sonix.ai/discounts",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Content Creation Discount",
+      "offer_description": "Write a 300+ word online article about Sonix to receive a heavily discounted subscription to the Premium Plan.",
+      "discount_percentage": null,
+      "offer_url": "https://sonix.ai/write-about-sonix",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:06:35.639093",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "828975c4-45cb-4c13-af69-4e44d217a8fd",
+    "name": "Sonix",
+    "slug": "sonix",
+    "description": "Sonix is an automated transcription service. We quickly and accurately convert audio and video files to text. We also provide rich editing tools so you can easily edit, annotate, and export your transcripts.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/00aa3d996de5c85e080c34b81ec11843.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Transcription"
+    ],
+    "category_slugs": [
+      "transcription"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

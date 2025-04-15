@@ -1,0 +1,187 @@
+{
+  "app_id": "assemblyai",
+  "app_name": "AssemblyAI",
+  "app_slug": "assemblyai",
+  "pricing_url": "https://www.assemblyai.com/pricing",
+  "source_url": "https://www.assemblyai.com/pricing",
+  "all_pricing_urls": [
+    "https://www.assemblyai.com/pricing"
+  ],
+  "price_model_type": [
+    "free_tier",
+    "usage_based",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "AssemblyAI offers a free tier with $50 credits, usage-based pricing for various features, and custom plans for large-scale needs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For developers looking to prototype with Speech AI.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to Speech-to-Text and Audio Intelligence models",
+        "Transcribe up to 416 hours of prerecorded audio for free",
+        "Developer docs and community resources"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Hours of audio",
+            "value": 416
+          },
+          {
+            "name": "Pre-recorded concurrency",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pay as you go",
+      "tier_description": "For teams ready to integrate Speech AI into their products.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited access to Speech-to-Text, Audio Intelligence, and LeMUR",
+        "Streaming Speech-to-Text",
+        "Concurrency starting at 200 files and 100 streams",
+        "Technical support via live chat and email"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Pre-recorded concurrency",
+            "value": "Starting at 200 files"
+          },
+          {
+            "name": "Streaming concurrency",
+            "value": "Starting at 100 streams"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "For teams and organizations building AI products at scale.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Flexible pricing that scales to millions of hours",
+        "Dedicated technical support",
+        "Custom rate limits",
+        "Customized SLAs and SLOs",
+        "BAA for HIPAA Compliance",
+        "EU Data Residency compliance",
+        "Self-hosted deployments (Coming soon!)",
+        "Early access to new models"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Pre-recorded concurrency",
+            "value": "Custom"
+          },
+          {
+            "name": "Streaming concurrency",
+            "value": "Custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Speech-to-Text",
+      "unit": "per hour",
+      "base_price": 0.12,
+      "tiers": null
+    },
+    {
+      "metric_name": "Audio Intelligence",
+      "unit": "per hour",
+      "base_price": 0.08,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": true,
+    "input_token_price": 0.003,
+    "output_token_price": 0.015,
+    "models_pricing": [
+      {
+        "model_name": "Claude 3.5 Sonnet",
+        "input_price": 0.003,
+        "output_price": 0.015,
+        "unit": "per 1k tokens"
+      },
+      {
+        "model_name": "Claude 3 Opus",
+        "input_price": 0.015,
+        "output_price": 0.075,
+        "unit": "per 1k tokens"
+      },
+      {
+        "model_name": "Claude 3 Haiku",
+        "input_price": 0.00025,
+        "output_price": 0.00125,
+        "unit": "per 1k tokens"
+      }
+    ],
+    "has_inference_pricing": null,
+    "has_fine_tuning_pricing": null,
+    "has_training_pricing": null,
+    "ai_addon_available": null
+  },
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:48:07.976157",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "cae81993-7e48-4f05-bdea-0f75c0387d0a",
+    "name": "AssemblyAI",
+    "slug": "assemblyai",
+    "description": "Run speech-to-text and audio intelligence models from the AssemblyAI API.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/16c53e3ae8f1d66f3c2116801a6ab078.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools"
+    ],
+    "category_slugs": [
+      "ai-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 5,
+    "trigger_count": 0
+  }
+}

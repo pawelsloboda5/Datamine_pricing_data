@@ -1,0 +1,201 @@
+{
+  "app_id": "remove_bg",
+  "app_name": "remove.bg",
+  "app_slug": "remove-bg",
+  "pricing_url": "https://www.remove.bg/pricing",
+  "source_url": "https://www.remove.bg/pricing",
+  "all_pricing_urls": [
+    "https://www.remove.bg/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription plans, pay-as-you-go options, and enterprise solutions.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pay-as-you-go",
+      "tier_description": "One-off purchase of credits.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "AI Photo editor",
+        "Remove background",
+        "Erase and restore",
+        "Max quality exports",
+        "Automation",
+        "API and integrations"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "credits",
+            "value": "1"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Lite",
+      "tier_description": "Use up to 40 credits per month.",
+      "monthly_price": 8.1,
+      "annual_price": 97.2,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "AI Photo editor",
+        "Remove background",
+        "Erase and restore",
+        "Max quality exports",
+        "Automation",
+        "API and integrations"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "credits",
+            "value": 40
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Most popular plan with up to 200 credits per month.",
+      "monthly_price": 35.1,
+      "annual_price": 421.2,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "AI Photo editor",
+        "Remove background",
+        "Erase and restore",
+        "Max quality exports",
+        "Automation",
+        "API and integrations",
+        "Bulk editing"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "credits",
+            "value": 200
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Volume+",
+      "tier_description": "500 credits per month with options for custom volume.",
+      "monthly_price": 80.1,
+      "annual_price": 961.2,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Pro",
+        "Custom volume",
+        "API Custom controls",
+        "Crop, scale, and position"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "credits",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise Solutions",
+      "tier_description": "Starts at 100,000 images per year.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Flexible API",
+        "Credits",
+        "Rate limit",
+        "Best price",
+        "Premium support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "images per year",
+            "value": "100,000"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "credits",
+      "unit": "per credit",
+      "base_price": 1.99,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:36:17.113584",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9b53e5de-6a9a-43f4-b59d-6c3f5d5ded73",
+    "name": "remove.bg",
+    "slug": "removebg",
+    "description": "remove.bg removes the background from any image 100% automatically.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/2b41e5296df407354347f6d1f5195e37.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Images & Design"
+    ],
+    "category_slugs": [
+      "images"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "app_id": "trafft",
+  "app_name": "Trafft",
+  "app_slug": "trafft",
+  "pricing_url": "https://trafft.com/pricing",
+  "source_url": "https://trafft.com/pricing/",
+  "all_pricing_urls": [
+    "https://trafft.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers discounts and additional free months.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for small-scale use.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited appointments",
+        "5 custom features",
+        "Booking website",
+        "Android and iOS app",
+        "Email and SMS notifications",
+        "Client Management",
+        "Google, Outlook and Apple calendars",
+        "Reserve with Google",
+        "Booking chatbot",
+        "Square payments",
+        "Group booking",
+        "Special days",
+        "1 location",
+        "Admin dashboard in over 10 languages"
+      ],
+      "limits": {
+        "users": "1",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional user cost",
+            "value": "$2.99/user"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Enhanced features for growing businesses.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Free plan features",
+        "Unlimited locations",
+        "10 custom features",
+        "5 SMS credits / month",
+        "Employee and customer profiles",
+        "Stripe, PayPal, Square, Authorize.net, Mollie",
+        "Employee Commission",
+        "Custom fields/Intake Forms",
+        "Zoom meeting",
+        "Ratings & Reviews",
+        "Google Analytics",
+        "Mailchimp, Acumba, SendFox",
+        "Invoices and transactions",
+        "Refund payments",
+        "Branded invoices",
+        "Booking website in over 40 languages"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional user cost",
+            "value": "$5.99/user"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Scaling",
+      "tier_description": "Advanced features for scaling businesses.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Starter features",
+        "Unlimited custom features",
+        "10 SMS credits / month",
+        "Whatsapp integration",
+        "Recurring appointments",
+        "Resources",
+        "Custom domain",
+        "Trafft branding removal",
+        "Custom Users & Roles",
+        "Webhooks",
+        "Zapier",
+        "SMTP",
+        "API"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional user cost",
+            "value": "$9.99/user"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom solutions for large-scale businesses.",
+      "monthly_price": 200.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Scaling features",
+        "Dedicated account manager",
+        "Assistance in onboarding, migration and education"
+      ],
+      "limits": {
+        "users": "50+",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional user cost",
+            "value": "Custom pricing based on total number"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Billing Discount",
+      "offer_description": "Discount and additional free months for annual billing.",
+      "discount_percentage": null,
+      "offer_url": "https://trafft.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:59:08.907329",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e8a4ab2a-bc3f-4ece-b653-c1e181c25246",
+    "name": "Trafft",
+    "slug": "trafft",
+    "description": "Trafft is a booking software made for businesses and individuals for scheduling appointments, managing staff, and their calendars.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/cd71a6ed570e724e535f8383fcfc6d97.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 4
+  }
+}

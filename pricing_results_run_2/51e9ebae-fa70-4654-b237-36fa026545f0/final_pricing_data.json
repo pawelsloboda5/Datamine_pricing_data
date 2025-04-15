@@ -1,0 +1,157 @@
+{
+  "app_id": "customgpt",
+  "app_name": "CustomGPT",
+  "app_slug": "customgpt",
+  "pricing_url": "https://customgpt.ai/pricing",
+  "source_url": "https://customgpt.ai/pricing/",
+  "all_pricing_urls": [
+    "https://customgpt.ai/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free trial and offers annual discounts for Standard and Premium plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Essential tools to launch your AI strategy.",
+      "monthly_price": 99.0,
+      "annual_price": 89.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "10 agents",
+        "1,000 queries per month",
+        "5,000 documents per agent",
+        "60M words storage capacity",
+        "3 team members",
+        "API Access"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "60M words",
+        "operations": null,
+        "api_calls": 1000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "agents",
+            "value": 10
+          },
+          {
+            "name": "documents per agent",
+            "value": 5000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Advanced AI functionality and scalability.",
+      "monthly_price": 499.0,
+      "annual_price": 449.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Standard, plus",
+        "100 agents",
+        "5,000 queries per month",
+        "20,000 documents per agent",
+        "300M words storage capacity",
+        "5 team members",
+        "Auto-sync website content",
+        "Remove CustomGPT Branding"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "300M words",
+        "operations": null,
+        "api_calls": 5000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "agents",
+            "value": 100
+          },
+          {
+            "name": "documents per agent",
+            "value": 20000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Comprehensive AI solutions and support.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Premium, plus",
+        "Custom data, queries, and seats",
+        "Enterprise-grade SOC-2 security",
+        "Custom SSO",
+        "Data processing agreement (DPA)",
+        "Dedicated account manager",
+        "Priority engineering support"
+      ],
+      "limits": {
+        "users": "as needed",
+        "storage": "as needed",
+        "operations": "as needed",
+        "api_calls": "as needed",
+        "integrations": "as needed",
+        "custom_limits": [
+          {
+            "name": "custom data",
+            "value": "as needed"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": null,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": null,
+    "has_fine_tuning_pricing": null,
+    "has_training_pricing": null,
+    "ai_addon_available": null
+  },
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:15:38.619442",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "51e9ebae-fa70-4654-b237-36fa026545f0",
+    "name": "CustomGPT",
+    "slug": "customgptai",
+    "description": "CustomGPT builds your own AI-powered chatbot with your business content. Easy, no-code platform used by total beginners as well as advanced developers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/5be81a4f7bd797c8498600b87dd5cf94.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools"
+    ],
+    "category_slugs": [
+      "ai-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 1
+  }
+}

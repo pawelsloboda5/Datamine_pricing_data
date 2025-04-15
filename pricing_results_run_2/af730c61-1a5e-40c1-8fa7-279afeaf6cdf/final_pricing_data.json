@@ -1,0 +1,111 @@
+{
+  "app_id": "earth_class_mail",
+  "app_name": "Earth Class Mail",
+  "app_slug": "earth-class-mail",
+  "pricing_url": "https://www.earthclassmail.com/pricing",
+  "source_url": "https://www.earthclassmail.com/pricing",
+  "all_pricing_urls": [
+    "https://www.earthclassmail.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is structured into three tiers with monthly auto-renewal.",
+  "pricing_tiers": [
+    {
+      "tier_name": "MailBox Starter",
+      "tier_description": "For solo business owners and/or anyone working from home",
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 business address of your choice",
+        "2 recipients",
+        "5 mail items per month"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": 5,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "MailBox Essentials",
+      "tier_description": "For small to medium businesses with multiple business partners",
+      "monthly_price": 39.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 business address of your choice",
+        "5 recipients",
+        "25 mail items per month"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": 25,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "MailBox Premium",
+      "tier_description": "For small to medium businesses with higher volume needs",
+      "monthly_price": 79.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 business address of your choice",
+        "20 recipients",
+        "50 mail items per month"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": null,
+        "operations": 50,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:04:16.866166",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "af730c61-1a5e-40c1-8fa7-279afeaf6cdf",
+    "name": "Earth Class Mail",
+    "slug": "earth-class-mail",
+    "description": "Earth Class Mail is a fully digital mailroom for business. Use a virtual address from our vast network to get us your mail. We'll scan your mail items, make them digital so you can take action.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/991d4676121241b2b750035ecaac27c5.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Documents"
+    ],
+    "category_slugs": [
+      "documents"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

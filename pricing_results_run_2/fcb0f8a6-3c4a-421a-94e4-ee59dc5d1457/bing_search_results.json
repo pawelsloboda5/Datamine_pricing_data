@@ -1,0 +1,72 @@
+{
+  "app_name": "Mailtrack",
+  "app_slug": "mailtrackio",
+  "search_term": "Find the official pricing page URL for Mailtrack (mailtrackio.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744717242.3567216,
+  "response_text": [
+    "The official Mailtrack pricing page is located at https://mailtrack.io/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://mailtrack.io/pricing",
+      "is_accessible": true,
+      "content": "Email tracker for Gmail \u2014 Mailsuite\n===============     \n\n[](https://mailtrack.io/en/)\n\nError 404\n---------\n\nWe couldn't find the page you're looking for. Make sure you typed in the URL correctly.\n\n[Install Mailsuite](https://chromewebstore.google.com/detail/ndnaehgpjlnokgebbaldlmgkapkpjkkb?hl=en) [Go to homepage](https://mailtrack.io/)\n\n2025 \u00a9 Mailsuite, S.L.\n\nMade in Barcelona.\n\n*   [FAQ](https://mailtrack.io/hc/en-us)\n*   [Contact](https://mailtrack.io/hc/en-us/articles/360005926538-How-to-contact-Mailtrack)\n*   [Pricing](https://mailtrack.io/en/pricing)\n*   [Blog](https://mailtrack.io/blog/)\n*   [Team](https://mailtrack.io/en/about)\n*   [Jobs](https://mailtrack.io/blog/tag/jobs/)\n*   [Email signature](https://mailtrack.io/en/signature-generator)\n*   [Cookies](https://mailtrack.io/en/cookies)\n*   [Terms](https://mailtrack.io/en/terms)\n*   [Privacy](https://mailtrack.io/en/privacy)\n*   [GDPR Compliance Guide](https://mailtrack.io/hc/en-us/sections/19342205485853-GDPR-Compliance-Guide-for-Mailtrack-s-users)\n*   [Press](https://mailtrack.io/blog/press/)\n*   [Branding](https://mailtrack.io/en/branding)\n\nFree and unlimited email tracking for Gmail. Real-time notifications and link tracking. Works in Chrome.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "mailtrack",
+        "app_name": "Mailtrack",
+        "app_slug": "mailtrack",
+        "pricing_url": "https://mailtrack.io/en/pricing",
+        "source_url": "https://mailtrack.io/en/",
+        "all_pricing_urls": [
+          "https://mailtrack.io/en/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page was not accessible, but the app offers a free tier with unlimited email tracking.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Free and unlimited email tracking for Gmail.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited email tracking",
+              "Real-time notifications",
+              "Link tracking"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:40:47.976562",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\mailtrackio\\20250415_074048"
+}

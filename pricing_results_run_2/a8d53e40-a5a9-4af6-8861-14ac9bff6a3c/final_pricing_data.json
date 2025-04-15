@@ -1,0 +1,132 @@
+{
+  "app_id": "freeagent",
+  "app_name": "FreeAgent",
+  "app_slug": "freeagent",
+  "pricing_url": "https://www.freeagent.com/pricing/",
+  "source_url": "https://www.freeagent.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.freeagent.com/pricing/",
+    "https://www.freeagent.com/pricing/free-accounting-software/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "GBP",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes optional add-ons for enhanced functionality.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Monthly Subscription",
+      "tier_description": "Standard monthly subscription plan.",
+      "monthly_price": 33.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Dashboard",
+        "Mobile app",
+        "Radar",
+        "Invoicing",
+        "Estimates",
+        "Expenses",
+        "Projects",
+        "Time tracking",
+        "Payroll",
+        "UK-based support"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Annual Subscription",
+      "tier_description": "Standard annual subscription plan.",
+      "monthly_price": null,
+      "annual_price": 330.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Dashboard",
+        "Mobile app",
+        "Radar",
+        "Invoicing",
+        "Estimates",
+        "Expenses",
+        "Projects",
+        "Time tracking",
+        "Payroll",
+        "UK-based support"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Free Tier",
+      "tier_description": "Free tier available for certain bank account holders.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Dashboard",
+        "Mobile app",
+        "Radar",
+        "Invoicing",
+        "Estimates",
+        "Expenses",
+        "Projects",
+        "Time tracking",
+        "Payroll",
+        "UK-based support"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Introductory Discount",
+      "offer_description": "50% off for the first six months for monthly billing or first year for annual billing.",
+      "discount_percentage": 50.0,
+      "offer_url": "https://www.freeagent.com/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Smart Capture Unlimited",
+      "fee_amount": 5.0,
+      "fee_description": "Unlock unlimited use of the Smart Capture tool for processing receipts and bills."
+    },
+    {
+      "fee_name": "Amazon Integration",
+      "fee_amount": 6.0,
+      "fee_description": "Connect your Amazon UK Marketplace account to FreeAgent."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:59:56.010401",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a8d53e40-a5a9-4af6-8861-14ac9bff6a3c",
+    "name": "FreeAgent",
+    "slug": "freeagent",
+    "description": "FreeAgent is accounting software simplified. It provides a simplified way for freelancers and small business owners to manage their books and invoicing.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/09e20e3b045064f9adce8b3257739951.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 3
+  }
+}

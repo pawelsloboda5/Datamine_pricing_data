@@ -1,0 +1,134 @@
+{
+  "app_id": "ticketspice",
+  "app_name": "TicketSpice",
+  "app_slug": "ticketspice",
+  "pricing_url": "https://www.ticketspice.com/pricing",
+  "source_url": "https://www.ticketspice.com/pricing",
+  "all_pricing_urls": [
+    "https://www.ticketspice.com/pricing"
+  ],
+  "price_model_type": [
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "TicketSpice charges a flat fee per ticket along with standard credit card processing fees. Additional optional services are available for monthly fees.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Flat fee per ticket with credit card processing rates.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Event page builder",
+        "Branding control",
+        "Conditional logic actions",
+        "Upsell products & merch",
+        "Box office app",
+        "Event text messaging",
+        "Card on file pre-registration",
+        "Unlimited email confirmations",
+        "Bank reconciliation reports",
+        "Access accounts for staff",
+        "100% US-based support",
+        "API access and web hooks",
+        "Ticket scanning",
+        "Reserved Seating",
+        "Mobile ticketing",
+        "Recurring & timed ticketing",
+        "Social media plugins",
+        "Event CRM",
+        "Conversion tracking",
+        "Reports & analytics",
+        "Virtual events",
+        "Export all data",
+        "Custom CSS",
+        "Unlimited 3rd party integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    },
+    {
+      "tier_name": "Optional Upgrades",
+      "tier_description": "Additional services for enhanced functionality.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email Marketing Automation",
+        "Text Message Platform",
+        "3rd Party Data Enrichment",
+        "Cashless On-Site Payments"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Ticket Fee",
+      "unit": "per ticket",
+      "base_price": 0.99,
+      "tiers": null
+    },
+    {
+      "metric_name": "Credit Card Processing Fee",
+      "unit": "per transaction",
+      "base_price": 0.029,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Email Marketing Automation",
+      "fee_amount": 9.0,
+      "fee_description": "Monthly fee plus 2\u00a2 per recipient."
+    },
+    {
+      "fee_name": "Text Message Platform",
+      "fee_amount": 19.0,
+      "fee_description": "Monthly fee plus 4\u00a2 per recipient."
+    },
+    {
+      "fee_name": "3rd Party Data Enrichment",
+      "fee_amount": 9.0,
+      "fee_description": "Monthly fee plus 10\u00a2 per record."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:00:09.084443",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "69e9bf30-366a-4efa-a60c-1e8b8235d583",
+    "name": "TicketSpice",
+    "slug": "ticketspice",
+    "description": "Sell tickets online for your event, recurring event or multi-day event with TicketSpice ticketing system.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ed660fa9a16b2c8cf7c8f3f142fe4120.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

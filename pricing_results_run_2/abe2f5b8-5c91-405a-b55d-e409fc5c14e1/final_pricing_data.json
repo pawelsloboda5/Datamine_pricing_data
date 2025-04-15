@@ -1,0 +1,43 @@
+{
+  "app_id": "pinterest",
+  "app_name": "Pinterest",
+  "app_slug": "pinterest",
+  "pricing_url": null,
+  "source_url": "https://www.pinterest.com",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pinterest offers a free tier for users to explore and save ideas.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:30:18.489530",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "abe2f5b8-5c91-405a-b55d-e409fc5c14e1",
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "description": "Pinterest is the world\u2019s catalog of ideas that more than 100 million people around the world use every month to get more creative in their everyday lives. Save images and videos (\"Pins\") to curated collections (\"Boards\") from any website, or upload your own. Build your online presence and grow your audience by sharing your visual catalog, and track what your audience thinks through their Likes and repins.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/e15bb249be46b70e5cd011a8731e1e93.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Social Media Accounts"
+    ],
+    "category_slugs": [
+      "social"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 2
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "app_id": "agolix",
+  "app_name": "Agolix",
+  "app_slug": "agolix",
+  "pricing_url": "https://app.agolix.com/pricing",
+  "source_url": "https://app.agolix.com/pricing",
+  "all_pricing_urls": [
+    "https://app.agolix.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is billed annually and includes features tailored to different user needs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Perfect if you're just getting started with assessments",
+      "monthly_price": 29.0,
+      "annual_price": 348.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Questions",
+        "Free Email Support",
+        "Mobile Friendly",
+        "Customize Colors and Logos",
+        "Multiple Question Types",
+        "Use AI to generate questions",
+        "Score in multiple categories",
+        "Provide Results Dynamically",
+        "Generate PDF Report",
+        "Export Responses",
+        "Group Responses",
+        "Social Media Branding"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active Assessments",
+            "value": 5
+          },
+          {
+            "name": "Responses per month",
+            "value": 5000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Best for a more customized client experience and the opportunity to monetize assessments",
+      "monthly_price": 41.0,
+      "annual_price": 492.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free Priority Support",
+        "Enhanced PDF Reporting",
+        "Google Font Support",
+        "CRM Integration",
+        "Redirect based on score",
+        "Support for Custom Plugins",
+        "Regulate Assessment Access",
+        "Monetize your Assessments",
+        "Conditional Logic",
+        "Save and Resume"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active Assessments",
+            "value": 10
+          },
+          {
+            "name": "Responses per month",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Private Label",
+      "tier_description": "For those who want to showcase their brand with custom urls and branded emails",
+      "monthly_price": 66.0,
+      "annual_price": 792.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Removal of Agolix branding",
+        "Support for custom subdomain",
+        "Branded Emails",
+        "Use Custom Fonts",
+        "Alert by Group"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active Assessments",
+            "value": 15
+          },
+          {
+            "name": "Responses per month",
+            "value": 50000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:12:59.994409",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "98df74d5-fc0f-4367-8016-21f622480394",
+    "name": "Agolix",
+    "slug": "agolix",
+    "description": "Agolix is a platform for creating online surveys, quizzes, and assessments. Assessments can be scored, and you can provide customized feedback to users.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/0787c303d8861e4931f1422c7a0bf848.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

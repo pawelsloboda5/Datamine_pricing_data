@@ -1,0 +1,180 @@
+{
+  "app_id": "facturadirecta",
+  "app_name": "FacturaDirecta",
+  "app_slug": "facturadirecta",
+  "pricing_url": "https://www.facturadirecta.com/ca/pequenos-negocios/precios/",
+  "source_url": "https://www.facturadirecta.com/precios/",
+  "all_pricing_urls": [
+    "https://www.facturadirecta.com/ca/pequenos-negocios/precios/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes VAT and offers annual discounts.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pla Gratis",
+      "tier_description": "For businesses with low billing volume.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Online invoicing",
+        "One-click taxes",
+        "Basic payments"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "clients",
+            "value": 10
+          },
+          {
+            "name": "products",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pla B\u00e0sic",
+      "tier_description": "For businesses needing basic management.",
+      "monthly_price": 12.0,
+      "annual_price": 10.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Online invoicing",
+        "One-click taxes",
+        "Basic payments",
+        "Digital signature for issued sales documents",
+        "DKIM signature for emails"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "clients",
+            "value": 100
+          },
+          {
+            "name": "products",
+            "value": 25
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pla Avan\u00e7at",
+      "tier_description": "For businesses needing advanced payment and collection management.",
+      "monthly_price": 24.0,
+      "annual_price": 20.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Online invoicing",
+        "One-click taxes",
+        "Advanced payments",
+        "Unlimited clients and products",
+        "Automatic scanning of invoices and tickets",
+        "Digital signature for issued sales documents",
+        "Expense mailbox",
+        "Expenses from Google Drive",
+        "Bank linking",
+        "Payment reconciliation",
+        "Zapier integration",
+        "DKIM signature for emails"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    },
+    {
+      "tier_name": "Pla Total",
+      "tier_description": "For businesses wanting to manage their own accounting.",
+      "monthly_price": 48.0,
+      "annual_price": 40.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Online invoicing",
+        "One-click taxes",
+        "Advanced payments",
+        "Unlimited clients and products",
+        "Automatic scanning of invoices and tickets",
+        "Digital signature for issued sales documents",
+        "Expense mailbox",
+        "Expenses from Google Drive",
+        "Bank linking",
+        "Total reconciliation",
+        "Zapier integration",
+        "Online accounting",
+        "DKIM signature for emails"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "50% Discount with Abaq Service",
+      "offer_description": "Get 50% off FacturaDirecta when contracting Abaq's digital management service.",
+      "discount_percentage": 50.0,
+      "offer_url": "https://www.abaq.pro/facturadirecta/?utm_source=facturadirecta&utm_medium=pricing&utm_campaign=facturadirecta50",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:09:27.899623",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d564126e-fffb-4dcb-9099-b7345c9ed581",
+    "name": "FacturaDirecta",
+    "slug": "facturadirecta",
+    "description": "FacturaDirecta is an easy accounting software for small business and freelancers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/0150bf3fca18aa0274b5f18f05016fe7.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

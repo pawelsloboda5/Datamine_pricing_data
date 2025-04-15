@@ -1,0 +1,61 @@
+{
+  "app_id": "xola",
+  "app_name": "Xola",
+  "app_slug": "xola",
+  "pricing_url": "https://www.xola.com/pricing/",
+  "source_url": "https://www.xola.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.xola.com/pricing/"
+  ],
+  "price_model_type": [
+    "usage_based",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Xola charges a small partner fee per transaction instead of a subscription model. Specific rates are not disclosed publicly.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [
+    {
+      "metric_name": "transaction",
+      "unit": "per transaction",
+      "base_price": 2.39,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Credit Card Processing Fee",
+      "fee_amount": 0.3,
+      "fee_description": "Per transaction fee for credit card processing."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:51:51.621313",
+  "schema_validated": true,
+  "confidence_score": 70,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "8e4fdb7e-8574-4b4a-8ba5-b8214e0fa2d9",
+    "name": "Xola",
+    "slug": "xola",
+    "description": "Xola is a powerful booking system built for tour and activity operators. Easily book customers and accept payments for online, phone, in-person, or reseller reservations. Ignite your growth with Xola's cart abandonment recovery, automated guest communication, gifts, and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/fae511c04b0e3b6f9dbd51ce9ee7098b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 4
+  }
+}

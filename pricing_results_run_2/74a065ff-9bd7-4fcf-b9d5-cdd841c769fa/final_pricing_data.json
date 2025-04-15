@@ -1,0 +1,261 @@
+{
+  "app_id": "beehiiv",
+  "app_name": "beehiiv",
+  "app_slug": "beehiiv",
+  "pricing_url": "https://www.beehiiv.com/pricing",
+  "source_url": "https://www.beehiiv.com/pricing",
+  "all_pricing_urls": [
+    "https://www.beehiiv.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The free trial applies to Scale and Max tiers with a 2,500 subscriber limit.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Launch",
+      "tier_description": "Basic plan for starting newsletters.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 2,500 Subscribers",
+        "Custom Website",
+        "Custom Newsletters",
+        "Campaign Analytics",
+        "Unlimited Email Sends",
+        "Up to 3 Publications",
+        "Recommendation Network",
+        "Optimized Deliverability",
+        "Subscriber Tagging",
+        "Audience Segmentation",
+        "Custom Domains",
+        "API Access"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Publications",
+            "value": 3
+          },
+          {
+            "name": "Subscribers",
+            "value": 2500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "Advanced plan for scaling newsletters.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 1,000 Subscribers",
+        "Ad Network",
+        "Boost Network",
+        "Paid Subscriptions",
+        "Email Automations",
+        "Referral Program",
+        "3D Analytics",
+        "beehiiv AI",
+        "Survey Forms & Polls",
+        "Teams (3 Seats)",
+        "Slack Community Access",
+        "Webhooks",
+        "Access to Live Support"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Subscribers",
+            "value": 100000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Max",
+      "tier_description": "Premium plan for maximizing newsletter capabilities.",
+      "monthly_price": 109.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 1,000 Subscribers",
+        "Remove beehiiv Branding",
+        "Teams (Unlimited Seats)",
+        "Up to 10 Publications",
+        "Priority Live Support",
+        "Audio Newsletter",
+        "RSS to Send New",
+        "NewsletterXP Course",
+        "Beta access to select features",
+        "New Web Builder Experience",
+        "Direct Sponsor Advertising Storefronts"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Publications",
+            "value": 10
+          },
+          {
+            "name": "Subscribers",
+            "value": 100000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for large-scale operations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom Subscriber Limits",
+        "Concierge Onboarding",
+        "Designated Account Manager",
+        "Dedicated IP Addresses",
+        "Send API"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Subscribers",
+            "value": "custom"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Scale Free Trial",
+      "tier_description": "Free trial for Scale tier.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 2,500 Subscribers",
+        "Ad Network",
+        "Boost Network",
+        "Paid Subscriptions",
+        "Email Automations",
+        "Referral Program",
+        "3D Analytics",
+        "beehiiv AI",
+        "Survey Forms & Polls",
+        "Teams (3 Seats)",
+        "Slack Community Access",
+        "Webhooks",
+        "Access to Live Support"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Subscribers",
+            "value": 2500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Max Free Trial",
+      "tier_description": "Free trial for Max tier.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 2,500 Subscribers",
+        "Remove beehiiv Branding",
+        "Teams (Unlimited Seats)",
+        "Up to 10 Publications",
+        "Priority Live Support",
+        "Audio Newsletter",
+        "RSS to Send New",
+        "NewsletterXP Course",
+        "Beta access to select features",
+        "New Web Builder Experience",
+        "Direct Sponsor Advertising Storefronts"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Subscribers",
+            "value": 2500
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:00:50.839014",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "74a065ff-9bd7-4fcf-b9d5-cdd841c769fa",
+    "name": "beehiiv",
+    "slug": "beehiiv",
+    "description": "Launch, scale, and monetize your newsletter with a publishing platform built for growth. Built by those who have done it before.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/6547160f52ada9721138cfc485fa5a96.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 28,
+    "trigger_count": 6
+  }
+}

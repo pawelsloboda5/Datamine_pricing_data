@@ -1,0 +1,85 @@
+{
+  "app_id": "orbisx",
+  "app_name": "OrbisX",
+  "app_slug": "orbisx",
+  "pricing_url": "https://orbisx.com/pricing/",
+  "source_url": "https://orbisx.com/pricing/",
+  "all_pricing_urls": [
+    "https://orbisx.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "OrbisX offers a single pricing plan with all features included, no tiers or limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Includes all features with no limits or tiers.",
+      "monthly_price": 100.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited features",
+        "Free updates",
+        "iOS & Android apps",
+        "Automations and AI",
+        "No hidden fees"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Limited Time Offer",
+      "offer_description": "Join now to lock in the promo price of $100/month.",
+      "discount_percentage": null,
+      "offer_url": "https://orbisx.com/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Pay-per-use features",
+      "fee_amount": null,
+      "fee_description": "Available with credits or third-party apps like Dialpad and Twilio for SMS messaging."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:32:33.663136",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "40705a26-968b-43c5-946c-97ae5e81852d",
+    "name": "OrbisX",
+    "slug": "orbisx",
+    "description": "OrbisX is an all-in-one CRM solution for detailers, tinters and automotive service providers",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/84cf557f0787a9c2989c85987e210667.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 26
+  }
+}

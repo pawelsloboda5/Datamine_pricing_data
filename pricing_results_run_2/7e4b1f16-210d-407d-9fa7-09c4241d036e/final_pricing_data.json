@@ -1,0 +1,43 @@
+{
+  "app_id": "flg",
+  "app_name": "FLG",
+  "app_slug": "flg",
+  "pricing_url": null,
+  "source_url": "https://www.flg.com/",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The content provided does not include specific pricing details for the FLG software product.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:41:15.187407",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "7e4b1f16-210d-407d-9fa7-09c4241d036e",
+    "name": "FLG",
+    "slug": "flg",
+    "description": "A complete CRM platform focused on automated workflow to manage leads & control processes - nothing missed, no opportunity left behind.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/6500ec9725b35dfd35739b65fac2adfe.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 2
+  }
+}

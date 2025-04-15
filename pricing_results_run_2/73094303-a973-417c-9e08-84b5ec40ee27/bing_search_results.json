@@ -1,0 +1,12 @@
+{
+  "app_name": "Portal.io",
+  "app_slug": "portalio",
+  "search_term": "Find the official pricing page URL for Portal.io (portalio.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744710375.0730534,
+  "response_text": [
+    "I couldn't find the exact pricing page for Portal.io. You may need to visit their website directly or contact support for details."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\portalio\\20250415_054615"
+}

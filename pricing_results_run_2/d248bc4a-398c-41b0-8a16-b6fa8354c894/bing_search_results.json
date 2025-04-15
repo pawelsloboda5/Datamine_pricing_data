@@ -1,0 +1,24 @@
+{
+  "app_name": "KlickTipp",
+  "app_slug": "klicktipp",
+  "search_term": "Find the official pricing page URL for KlickTipp (klicktipp.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744712622.9684026,
+  "response_text": [
+    "The official pricing page for KlickTipp can be found at: [https://www.klicktipp.com/pricing](https://www.klicktipp.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - KlickTipp Marketing Automation",
+      "url": "https://www.klicktipp.com/de/preise/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.klicktipp.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\klicktipp\\20250415_062358"
+}

@@ -1,0 +1,12 @@
+{
+  "app_name": "Billetweb",
+  "app_slug": "billetweb",
+  "search_term": "Find the official pricing page URL for Billetweb (billetweb.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744705591.7383733,
+  "response_text": [
+    "I couldn\u2019t locate the pricing page for Billetweb. Please confirm details or refine your request."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\billetweb\\20250415_042632"
+}

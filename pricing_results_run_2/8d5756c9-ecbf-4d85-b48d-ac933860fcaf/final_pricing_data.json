@@ -1,0 +1,144 @@
+{
+  "app_id": "kit",
+  "app_name": "Kit",
+  "app_slug": "kit",
+  "pricing_url": "https://kit.com/pricing",
+  "source_url": "https://kit.com/pricing",
+  "all_pricing_urls": [
+    "https://kit.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Kit offers a free tier for up to 10,000 subscribers and scalable paid plans with additional features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Newsletter",
+      "tier_description": "Basic plan for audience building.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 10,000 subscribers",
+        "Unlimited landing pages",
+        "Unlimited email opt-in forms",
+        "Create a newsletter feed & website",
+        "Customizable domain",
+        "Unlimited traffic",
+        "Deliver opt-in incentives",
+        "List growth reporting",
+        "Access to Creator Network",
+        "Free Recommendations"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Creator",
+      "tier_description": "Plan for established creators.",
+      "monthly_price": 25.0,
+      "annual_price": 290.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Newsletter plan",
+        "Facebook custom audiences",
+        "Newsletter referral system",
+        "Subscriber engagement scoring",
+        "Remove Kit branding",
+        "Edit links in sent broadcasts",
+        "Deliverability reporting",
+        "Insights dashboard",
+        "Visual automation template library",
+        "Visual automation builder",
+        "Automated email sequences",
+        "API documentation",
+        "Sell digital products",
+        "Run paid newsletters",
+        "Sell recurring subscriptions",
+        "Set up virtual tip jars",
+        "Low transaction fees",
+        "Creator University",
+        "24/7 support"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Creator Pro",
+      "tier_description": "Advanced plan for scaling businesses.",
+      "monthly_price": 50.0,
+      "annual_price": 590.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Creator plan",
+        "Smart Recommendations",
+        "Paid Recommendations",
+        "Paid Recommendations fees",
+        "24/7 priority support",
+        "Free migration from another platform"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Transaction Fee",
+      "fee_amount": 0.6,
+      "fee_description": "Inclusive of credit card processing fees."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:24:00.465668",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "8d5756c9-ecbf-4d85-b48d-ac933860fcaf",
+    "name": "Kit",
+    "slug": "kit",
+    "description": "Kit is an email marketing platform for professional bloggers. Easily create email sequences, tag subscribers, grow your list, and automate your email marketing.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/df73f6d333ef892440613e1c928f024f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Drip Emails"
+    ],
+    "category_slugs": [
+      "drip-emails"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 6
+  }
+}

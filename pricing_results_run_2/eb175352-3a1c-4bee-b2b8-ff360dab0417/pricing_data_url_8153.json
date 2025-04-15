@@ -1,0 +1,179 @@
+{
+  "app_id": "vbout",
+  "app_name": "VBOUT",
+  "app_slug": "vbout",
+  "pricing_url": "https://www.vbout.com/pricing",
+  "source_url": "https://www.vbout.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.vbout.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "VBOUT offers a free tier and a free trial without requiring a credit card. Enterprise pricing is quote-based.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic email marketing and automation to help you grow",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Lead Management",
+        "Email Marketing (500 emails/mo)",
+        "Marketing Automation",
+        "Pipeline management"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Email Marketing",
+            "value": "500 emails/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "All the tools you need to generate and nurture leads",
+      "monthly_price": 50.0,
+      "annual_price": 540.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Landing Pages",
+        "Advanced Reporting",
+        "Advanced AI",
+        "AI Chatbot"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "AI Chatbot",
+            "value": "Up to 1K Messages/1 Million Training Characters"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Advanced features for growing companies",
+      "monthly_price": 100.0,
+      "annual_price": 1080.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Social Media Tools",
+        "API Access",
+        "Calendar Booking",
+        "No VBOUT Branding",
+        "Technical Support"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "AI Chatbot",
+            "value": "Up to 5K Messages/10 Million Training Characters"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "More integrations and controls for larger teams",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Salesforce Connector",
+        "Increased API Limits",
+        "Dedicated IP Pool",
+        "Dedicated Account Manager"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "AI Chatbot",
+            "value": "Up to 10K Messages/20 Million Training Characters"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "White Label",
+      "fee_amount": 95.0,
+      "fee_description": "Re-brandable content and materials"
+    },
+    {
+      "fee_name": "Custom Plan Builder",
+      "fee_amount": 95.0,
+      "fee_description": "Customizable plan options"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:56:11.993515",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "eb175352-3a1c-4bee-b2b8-ff360dab0417",
+    "name": "VBOUT",
+    "slug": "vbout",
+    "description": "VBOUT is a marketing platform which helps you optimize the customer journey with powerful email, social media and lead intelligence tools.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/e856e515adf7d48dd82d9fb5b741d50f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 4
+  }
+}

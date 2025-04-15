@@ -1,0 +1,157 @@
+{
+  "app_id": "miro",
+  "app_name": "Miro",
+  "app_slug": "miro",
+  "pricing_url": "https://miro.com/pricing/",
+  "source_url": "https://miro.com/pricing/",
+  "all_pricing_urls": [
+    "https://miro.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and multiple subscription options with additional features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Discover what Miro can do for you and your team. Always free.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Single workspace with 3 editable boards",
+        "Access to 5,000+ templates",
+        "Integration with 160+ apps",
+        "10 Miro AI credits per team per month",
+        "5 Talktracks for video walkthroughs"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "160+",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Unlock unlimited and private boards with essential features.",
+      "monthly_price": 10.0,
+      "annual_price": 96.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited boards in a single workspace",
+        "Unlimited visitors for public boards",
+        "High-resolution board export",
+        "Version history",
+        "Brand Center for custom templates",
+        "25 Miro AI credits per member per month",
+        "Interactive meeting tools",
+        "Private boards",
+        "Unlimited Talktracks"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "160+",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Safely collaborate with secure guest access, multiple teams and advanced tools.",
+      "monthly_price": 20.0,
+      "annual_price": 192.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited boards in multiple private workspaces",
+        "Unlimited guests with secure access",
+        "50 Miro AI credits per member per month",
+        "Advanced diagramming tools",
+        "Two-way Jira or Azure sync",
+        "Single Sign On (SSO)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "160+",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Work across your entire organization, with support, security and control, to scale.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Flexible license program",
+        "SCIM and advanced admin tools",
+        "Organization-wide controls",
+        "Enterprise-grade security",
+        "100 Miro AI credits per member per month",
+        "Premium support and SLAs"
+      ],
+      "limits": {
+        "users": "30+",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "160+",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": null,
+    "has_fine_tuning_pricing": null,
+    "has_training_pricing": null,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:44:30.643047",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5fd1ca07-6e58-4e48-a121-726398105232",
+    "name": "Miro",
+    "slug": "miro",
+    "description": "Miro (formerly RealtimeBoard) is an intuitive visual collaboration and whiteboarding platform for cross-functional teams.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c9ff916cf9e886f80b2a4a4ff35b9195.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Collaboration"
+    ],
+    "category_slugs": [
+      "team-collaboration"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

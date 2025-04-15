@@ -1,0 +1,80 @@
+{
+  "app_id": "amazon_ses",
+  "app_name": "Amazon Simple Email Service",
+  "app_slug": "amazon-ses",
+  "pricing_url": "https://aws.amazon.com/ses/pricing/",
+  "source_url": "https://aws.amazon.com/ses/pricing/",
+  "all_pricing_urls": [
+    "https://aws.amazon.com/ses/pricing/"
+  ],
+  "price_model_type": [
+    "usage_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Amazon SES pricing is primarily usage-based, with a free tier available for certain usage limits.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [
+    {
+      "metric_name": "emails sent",
+      "unit": "per 1,000 emails",
+      "base_price": 0.1,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.1
+        }
+      ]
+    },
+    {
+      "metric_name": "data transfer",
+      "unit": "per GB",
+      "base_price": 0.12,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.12
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Dedicated IP",
+      "fee_amount": 24.95,
+      "fee_description": "Monthly fee for each dedicated IP address."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:41:47.661054",
+  "schema_validated": true,
+  "confidence_score": 70,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "57c97438-0bdf-40d9-a8e7-ebd1cbb92298",
+    "name": "Amazon SES",
+    "slug": "amazon-ses",
+    "description": "Amazon Simple Email Service is a scalable and cost-effective email sending service tailored for both bulk and transactional for both businesses and developers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/e177d9fca02e35cd16cf37278835fc14.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Amazon",
+      "Transactional Email"
+    ],
+    "category_slugs": [
+      "aws",
+      "transactional-email"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

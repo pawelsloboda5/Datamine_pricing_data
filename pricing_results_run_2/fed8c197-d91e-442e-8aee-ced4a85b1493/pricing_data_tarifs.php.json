@@ -1,0 +1,186 @@
+{
+  "app_id": "evoliz",
+  "app_name": "Evoliz",
+  "app_slug": "evoliz",
+  "pricing_url": "https://www.evoliz.com/tarifs.php",
+  "source_url": "https://www.evoliz.com/tarifs.php",
+  "all_pricing_urls": [
+    "https://www.evoliz.com/tarifs.php"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 15,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual subscriptions offer a 20% discount compared to monthly pricing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Smoothie Banane",
+      "tier_description": "Basic tier for invoicing and legal compliance.",
+      "monthly_price": 20.0,
+      "annual_price": 192.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited invoices and quotes",
+        "Certified NF203, NF525, and Factur-X",
+        "Debt tracking and reminders",
+        "Stock tracking",
+        "Sales reports",
+        "Electronic document signature",
+        "1 user access",
+        "1 accountant access",
+        "2GB storage"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "2GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional user cost (annual payment)",
+            "value": "5.60 EUR/month"
+          },
+          {
+            "name": "Additional user cost (monthly payment)",
+            "value": "7.00 EUR/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Banana Split",
+      "tier_description": "Intermediate tier with enhanced features.",
+      "monthly_price": 40.0,
+      "annual_price": 384.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All Smoothie Banane features",
+        "Recurring invoices",
+        "Order and delivery notes",
+        "Automatic expense processing",
+        "Supplier payments",
+        "Bank debits",
+        "5 synchronized bank accounts",
+        "10GB storage"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "10GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "OCR processing limit",
+            "value": "500 documents/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Banana Combo",
+      "tier_description": "Advanced tier for comprehensive management.",
+      "monthly_price": 55.0,
+      "annual_price": 528.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All Banana Split features",
+        "10 synchronized bank accounts",
+        "Cash flow budgeting",
+        "Management forecasting",
+        "5 user accesses",
+        "25GB storage"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "25GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "OCR processing limit",
+            "value": "2500 documents/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "R\u00e9gime de bananes",
+      "tier_description": "Custom tier for managing multiple companies.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Multi-account interface",
+        "Simplified company settings",
+        "Company permissions management",
+        "Instant company switching",
+        "SSO connection"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "custom",
+        "operations": "custom",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Subscription Discount",
+      "offer_description": "20% discount for annual subscriptions.",
+      "discount_percentage": 20.0,
+      "offer_url": "https://www.evoliz.com/tarifs.php",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Additional User Cost (Annual Payment)",
+      "fee_amount": 5.6,
+      "fee_description": "Cost per additional user per month for annual payment."
+    },
+    {
+      "fee_name": "Additional User Cost (Monthly Payment)",
+      "fee_amount": 7.0,
+      "fee_description": "Cost per additional user per month for monthly payment."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:44:31.540124",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fed8c197-d91e-442e-8aee-ced4a85b1493",
+    "name": "Evoliz",
+    "slug": "evoliz",
+    "description": "Evoliz is an invoicing and management software designed for small businesses but also their accountants.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/b443d5f0b01c247894ddabcc3b355b5c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 31,
+    "trigger_count": 15
+  }
+}

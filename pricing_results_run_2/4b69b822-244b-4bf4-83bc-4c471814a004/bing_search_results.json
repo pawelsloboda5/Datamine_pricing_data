@@ -1,0 +1,53 @@
+{
+  "app_name": "ThriveCart",
+  "app_slug": "thrivecart",
+  "search_term": "Find the official pricing page URL for ThriveCart (thrivecart.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744686780.5191433,
+  "response_text": [
+    "The official pricing page URL for ThriveCart is: [https://thrivecart.com/pricing/](https://thrivecart.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "ThriveCart - ThriveCart",
+      "url": "https://thrivecart.com/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://thrivecart.com/pricing/",
+      "is_accessible": true,
+      "content": "Sign in to ThriveCart\n---------------------\n\nEnter your **email address** and **password**.\n\n[I've forgotten my password](https://thrivecart.com/reset/)\n\n[Don't have an account? Click here to learn more!](https://thrivecart.com/)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "thrivecart",
+        "app_name": "ThriveCart",
+        "app_slug": "thrivecart",
+        "pricing_url": null,
+        "source_url": "https://thrivecart.com/",
+        "all_pricing_urls": [
+          "https://thrivecart.com/"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The provided content does not include specific pricing details.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:13:08.839762",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\thrivecart\\20250414_231309"
+}

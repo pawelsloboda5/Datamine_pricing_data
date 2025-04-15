@@ -1,0 +1,190 @@
+{
+  "app_name": "Documentero",
+  "app_slug": "documentero",
+  "search_term": "Find the official pricing page URL for Documentero (documentero.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744718109.3134239,
+  "response_text": [
+    "I could not locate a direct URL to the official pricing page for Documentero. You might want to check their official website at [documentero.com](https://www.documentero.com) for more details."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.documentero.com",
+      "is_accessible": true,
+      "content": "Documentero - Document Generation & Automation Software\n=============== \n\n [![Image 1: Documentero Logo](https://www.documentero.com/custom/LogoWhite.svg) ![Image 2: Documentero Logo](https://www.documentero.com/custom/logo.svg)](https://www.documentero.com/#)\n\n[](javascript:void(0);)\n\n[Templates](https://www.documentero.com/#templates) [Forms](https://www.documentero.com/#forms) [API](https://www.documentero.com/#api) [Spreadsheets](https://www.documentero.com/#spreadsheets) [AI](https://www.documentero.com/#chatgpt) [Integrations](https://www.documentero.com/#integrations) [Pricing](https://www.documentero.com/#pricing)\n\n[PL](https://documentero.pl/) [Docs](https://docs.documentero.com/) [Blog](https://blog.documentero.com/) [Login](https://app.documentero.com/login)\n\nGet Started\n\nDocument Generation & Automation\n================================\n\nGenerate **Word & PDF** documents from custom [templates](https://www.documentero.com/#templates) using [API](https://www.documentero.com/#api), [Shareable Forms](https://www.documentero.com/#forms), [Spreadsheets](https://www.documentero.com/#spreadsheets) or [AI](https://www.documentero.com/#chatgpt)\n\nIntegrations with 5000+ Apps using Zapier, Make and more...\n\nGet started - It's free\n\n![Image 3: DOCX Format](https://www.documentero.com/custom/doc-svgrepo-com.svg) ![Image 4: PDF Format](https://www.documentero.com/custom/pdf-svgrepo-com.svg)\n\n![Image 5: App Examples](https://www.documentero.com/custom/landing4.png)\n\n1\n\nWord & PDF Automated Document Generation Software\n-------------------------------------------------\n\n#### Document Template Software. Learn Fast, Work Smart.\n\nPausePlay\n\n% buffered00:00\n\n00:00\n\nUnmuteMute\n\nDisable captionsEnable captions\n\nSettings\n\nCaptionsDisabledQualityundefinedSpeedNormal\n\nCaptionsGo back to previous menu\n\nQualityGo back to previous menu\n\nSpeedGo back to previous menu\n\n0.5\u00d70.75\u00d7Normal1.25\u00d71.5\u00d71.75\u00d72\u00d74\u00d7\n\nPIPExit fullscreenEnter fullscreen\n\n \n\nPlay\n\n![Image 6: Template Icon](https://www.documentero.com/assets/img/graphics/icons/study-core.svg)\n\n#### Create Template\n\nCreate template online using our online builder or upload your .docx (Word) template prepared in your editor, enter special tags in places that you want to control\n\n![Image 7: Configure Icon](https://www.documentero.com/assets/img/graphics/icons/learn-core.svg)\n\n#### Configure Form or API\n\nDecide how each template field should be represented on web form (e.g. datepicker/multiselect/text) or integrate with your system using Cloud API.\n\n![Image 8: Create Icon](https://www.documentero.com/assets/img/graphics/icons/aquire-core.svg)\n\n#### Generate Documents\n\nGenerate _Word_ or _PDF_ documents using Web Forms or API. You can receive documents by email.\n\n2\n\nIntegrate your Process\n----------------------\n\n#### No more manual document creation\n\n### Save Time\n\nYou are preparing the document template once. Afterward, you can enjoy Word & PDF Automated Document Generation.\n\n### Use your editor\n\nWe support docx file format. You can use any software to create your document templates: Microsoft **Word, Google Docs, LibreOffice**...\n\n### Easy to use\n\nYou don't need any technical knowledge to automate your document generation. Our documents templates are as easy to create as any regular document\n\n### Consistency & Validation\n\nYour documents always follow template patterns. They are formatted correctly and prone to any human errors during manual data enter (like missing parts)\n\n3\n\nTemplates Key Features\n----------------------\n\n#### Organize your document template using special tags\n\n*   Fields\n*   Sections\n*   Smart Fields\n*   Smart Sections\n*   Images\n*   HTML/Markdown\n*   Charts/Diagrams\n\n![Image 9: Fields Example](https://www.documentero.com/custom/fields.PNG)\n\nTemplate Fields\n---------------\n\nYou need to provide placeholders in the document template (**field name in curly brackets**). It's as simple as that.\n\nIf the same field is repeated in other parts of the template we will detect that and fill the document accordingly (with the value provided only once).\n\n[Video Tutorial](https://www.youtube.com/watch?v=RMt2iQ4puL4&list=PLY_ZUS_7tJGDBUaynH4ubdlEkYKSS7jkh&index=1) [Documentation](https://docs.documentero.com/documentation/templates/)\n\n![Image 10: Sections Example](https://www.documentero.com/custom/sections.PNG)\n\nTemplate Sections\n-----------------\n\nIf you want to show/hide some part of the document conditionally you can use a special section tag that starts with **\"#\"**.\n\nSections could have subfields inside and they can work in singular or multiple modes ( e.g. You can use them to render a table/lists/parametrized paragraph.)\n\n[Video Tutorial](https://www.youtube.com/watch?v=RMt2iQ4puL4&list=PLY_ZUS_7tJGDBUaynH4ubdlEkYKSS7jkh&index=1) [Documentation](https://docs.documentero.com/documentation/templates/)\n\n![Image 11: Smart Fields Examples](https://www.documentero.com/custom/smartfields.PNG)\n\nSmart Fields\n------------\n\nSmart fields use a special tag that starts with **\"$\"**. They cannot be provided by a user. Those fields are build or calculated based on existing nonsmart regular fields. They can be used for simple or advanced automated calculations from provided values or other combinations like concatenating text.\n\nThis type of fields supports smart conditions and calculations.\n\n[Video Tutorial](https://www.youtube.com/watch?v=RMt2iQ4puL4&list=PLY_ZUS_7tJGDBUaynH4ubdlEkYKSS7jkh&index=1) [Documentation](https://docs.documentero.com/documentation/templates/)\n\n![Image 12: Smart Sections Example](https://www.documentero.com/custom/smartsections.PNG)\n\nSmart Sections\n--------------\n\nSmart sections use a special tag that starts with **\"#$\"**. They cannot be provided by a user.\n\nThey support calculations and conditions on regular fields. The difference is that they can show or hide part of the template (like a paragraph or some text that appears based on some condition or value is higher than x).\n\n[Video Tutorial](https://www.youtube.com/watch?v=RMt2iQ4puL4&list=PLY_ZUS_7tJGDBUaynH4ubdlEkYKSS7jkh&index=1) [Documentation](https://docs.documentero.com/documentation/templates/)\n\n![Image 13: Images](https://www.documentero.com/custom/images.png)\n\nImages\n------\n\nYou can add dynamic images into your templates using **\"%\"** prefix.\n\nYou can inject logos, photos or images into your documents dynamically. It's possible using special field type (available in API mode using Base64 format or image URL).\n\n[Documentation](https://docs.documentero.com/documentation/templates/)\n\n![Image 14: Images](https://www.documentero.com/custom/html.png)\n\nHTML / Markdown Support\n-----------------------\n\nYou can add HTML Field into your templates using **\"\\*\"** or **\"!\"** prefix.\n\nUsers have the capability to input content in HTML or Markdown format within designated fields of their document template. The platform is designed to seamlessly transform these inputs into Docx/PDF formats, supporting a wide array of HTML / Markdown elements. These elements include, but are not limited to formatted text, headers, tables, links, images, as well as ordered and unordered lists.\n\n[Documentation](https://docs.documentero.com/documentation/templates/fields-html-support)\n\n![Image 15: Images](https://www.documentero.com/custom/mermaid.png)\n\nMermaid Support\n---------------\n\nYou can add Charts/Diagrams into your templates inside HTML/Markdown syntax.\n\nUsers have the capability to include charts, diagrams, and other visual elements using the Mermaid syntax within designated fields of their document template. The platform is designed to seamlessly interpret Mermaid code and render it as fully visualized diagrams in the final Docx/PDF output. Supported diagram types include, but are not limited to, flowcharts, sequence diagrams, class diagrams, Gantt charts, and entity-relationship models. This feature enables users to embed complex, structured visual content using simple, text-based definitions directly within their document generation workflow.\n\n[Documentation](https://docs.documentero.com/documentation/templates/fields-mermaid-support)\n\nWord document templates examples\n--------------------------------\n\n![Image 16](https://www.documentero.com/custom/CardSample2.png)\n\nBusiness Card\n\nSample Business Card template. You can automate creation of documents of all kinds, sizes and styles.\n\n[Template](https://www.documentero.com/files/sample_business_card.docx) [Generate using app](https://app.documentero.com/form/CFWR52ZZ8VwLTKJsAYxK)\n\n![Image 17](https://www.documentero.com/custom/RentalSample2.png)\n\nRental Agreement\n\nAgreement that calculates Rental fee based on provided values. Optional section if client is insured\n\n[Template](https://www.documentero.com/files/sample_rental_agreement.docx) [Generate using app](https://app.documentero.com/form/53CW0Hn9mZm8Ufui6fbP)\n\n![Image 18](https://www.documentero.com/custom/InvoiceSample2.png)\n\nInvoice Template\n\nInvoice Document with dynamic table and fields that are calculated (Price with Tax, Totals)\n\n[Template](https://www.documentero.com/files/sample_invoice.docx) [Generate using app](https://app.documentero.com/form/a9AnwtaEw7vaPliAF7S6)\n\n4\n\nShareable Form Features\n-----------------------\n\n#### Gather all document required information on customizable form\n\n*   Form Designer\n*   Share Link\n*   Send Emails\n*   Embed on Website\n\n![Image 19: Form Designer Examples](https://www.documentero.com/custom/customizableForm4.PNG)\n\nForm Designer\n-------------\n\nOnce you upload your template, application automatically prepare easy to use web form.\n\nYou can customize it by changing each field/section representation (textfield, datepicker, selectbox, radio select, checkbox...), order, description, label. Feel free to re-order fields, divide them into groups, and set them as \"required fields\".\n\n**Conditional Fields Support** You can also conditionally show or hide fields based on user input and selections within the form.\n\n[Video Tutorial](https://www.youtube.com/watch?v=zSa2BESpAyE&list=PLY_ZUS_7tJGDBUaynH4ubdlEkYKSS7jkh&index=2) [Documentation](https://docs.documentero.com/documentation/forms/how-to-customize-document-form)\n\n![Image 20: Shared Link Examples](https://www.documentero.com/custom/sharedLink.PNG)\n\nShare Link\n----------\n\nFor every form, you can generate a public share link. Others can fill up your documents for you using a pre-setup form.\n\nYou have full control over messages before and after successful submission, you can also allow download documents to submitter, everything is configurable.\n\nOnce person that you share link with fill up form successfully you will be notified with email and ready to use document as attachment\n\n[Video Tutorial](https://www.youtube.com/watch?v=zSa2BESpAyE&list=PLY_ZUS_7tJGDBUaynH4ubdlEkYKSS7jkh&index=2) [Documentation](https://docs.documentero.com/documentation/forms/shared-forms)\n\n![Image 21: Email Examples](https://www.documentero.com/custom/ExampleEmail2.PNG)\n\nSend Emails\n-----------\n\nIf you use share link-filled, ready to use documents will land on your email inbox instantly, together with the submitter's email and name.\n\nYou can also email/notify the submitter with confirmation or attached document if you configure to do so.\n\n[Video Tutorial](https://www.youtube.com/watch?v=zSa2BESpAyE&list=PLY_ZUS_7tJGDBUaynH4ubdlEkYKSS7jkh&index=2) [Documentation](https://docs.documentero.com/documentation/forms/shared-forms)\n\n![Image 22: Email Examples](https://www.documentero.com/custom/embedlight.jpg)\n\nEmbeed on Website\n-----------------\n\nOnce you create and customize your shared form that can generate documents using our platform then can embed it on your website as a widget.\n\nThis dynamic form feature inherently adapts its dimensions and layout to the space allocated on your website, thereby enabling the streamlined generation of documents directly from your website.\n\n[Video Tutorial](https://www.youtube.com/watch?v=zSa2BESpAyE&list=PLY_ZUS_7tJGDBUaynH4ubdlEkYKSS7jkh&index=2) [Documentation](https://docs.documentero.com/documentation/forms/shared-forms)\n\n5\n\nCloud API Service\n-----------------\n\n#### Integrate Documentero with your system using our API Service\n\n*   API Service\n*   Generate From JSON\n\n![Image 23: Api Request Example](https://www.documentero.com/custom/apirequest2.png)\n\nCloud API Service\n-----------------\n\nYou can integrate Documentero - Document Generation Tool with your system or automated process using our Cloud Software.\n\nOnce you upload your template you can call our RESTful API with template identifier, apiKey assigned to your account, and JSON with data for individual fields in your document. Our Cloud service will generate ready-to-use documents in seconds\n\n[Video Tutorial](https://www.youtube.com/watch?v=yP8Ci8hOqhc&list=PLY_ZUS_7tJGDBUaynH4ubdlEkYKSS7jkh&index=3) [Documentation](https://docs.documentero.com/documentation/api/)\n\n![Image 24: Api Json Example](https://www.documentero.com/custom/apiJSON.PNG)\n\nGenerate from JSON\n------------------\n\nFor each document, we will generate a sample API call based on detected in template fields and sections. You just need to replace JSON values with data that should be injected into document templates.\n\nYou can call our Cloud API endpoint for your document templates using prefilled JSON Editor on our web platform.\n\n[Video Tutorial](https://www.youtube.com/watch?v=yP8Ci8hOqhc&list=PLY_ZUS_7tJGDBUaynH4ubdlEkYKSS7jkh&index=3) [Documentation](https://docs.documentero.com/documentation/api/)\n\n![Image 25: Example Email](https://www.documentero.com/custom/ExampleEmail2.PNG)\n\nSend Emails\n-----------\n\nIf you use share link-filled, ready to use documents will land on your email inbox instantly, together with the submitter's email and name.\n\nYou can also email/notify the submitter with confirmation or attached document if you configure to do so.\n\n[Learn more](https://docs.documentero.com/documentation/forms/shared-forms)\n\n6\n\nSpreadsheets\n------------\n\n#### Bulk Generate Word & PDF Documents from Spreadsheet\n\n![Image 26: Spreadsheet](https://www.documentero.com/custom/spreadsheet.png)\n\nGenerate multiple documents\n---------------------------\n\nCreate multiple documents in one click using convenient **Bulk Spreadsheet Document Generation**, you can now effortlessly produce batch of documents based on your spreadsheet data (CSV / Excel / Google Sheets).\n\nProvide or copy-paste data into spreadsheet (e.g. copy from CSV, Google Sheets or Excel). Each row represents data for one document.\n\n[Video Tutorial](https://www.youtube.com/watch?v=86I7iiQ2mkg)\n\n7\n\nAI Content Generation\n---------------------\n\n#### Integrate Documentero with AI to automate document creation\n\n![Image 27: Api Request Example](https://www.documentero.com/custom/chatgpt2.png)\n\nChatGPT Integration\n-------------------\n\nSay goodbye to the time-consuming and tedious task of crafting documents from scratch. With our advanced Integration with **OpenAI ChatGPT**, you can now effortlessly produce professional-quality documents tailored to your unique needs.\n\nSimply input what kind of document you want to generate, describe desired content for fields in your template and let ChatGPT do the heavy lifting. (OpenAI API Key required)\n\n[Video Tutorial](https://www.youtube.com/watch?v=_dHn_JSqSqI&t=320s)\n\nCreate smart, beatiful documents\n--------------------------------\n\nYou can use any docx. (Microsoft Word) format capabilities - we support them.\n\nAll styles, headers are going to be considered including replaced values. Parts of document could be conditionally hidden or calculated/formatted.\n\n![Image 28: Document Styled](https://www.documentero.com/custom/InvoiceTemplate2.png)\n\n8\n\nPricing\n-------\n\n#### We keep it simple. Start for free\n\nFree\n\nTry our service for free\n\n0 0\n\n(Billed at $0/year)\n\n*   **50** documents /once\n*   **3** templates\n*   Unlimited Pages & Fields\n*   Shareable Forms + Emails\n*   Cloud API Service\n\nMicro\n\nAffordable package for start.\n\n19 50\n\n(Billed at $600/year)\n\n*   **100** documents /month\n*   **5** templates\n*   Unlimited Pages & Fields\n*   Shareable Forms + Emails\n*   Cloud API Service\n\nMini\n\nFor smaller companies/startups\n\n29 82\n\n(Billed at $984/year)\n\n*   **300** documents /month\n*   **10** templates\n*   Unlimited Pages & Fields\n*   Shareable Forms + Emails\n*   Cloud API Service\n\nStandard\n\nFor medium companies\n\n69 0\n\n(Billed at $0/year)\n\n*   **1000** documents /month\n*   **20** templates\n*   Unlimited Pages & Fields\n*   Shareable Forms + Emails\n*   Cloud API Service\n\nPremium\n\nFor bigger companies\n\n99 50\n\n(Billed at $600/year)\n\n*   **2000** documents /month\n*   **50** templates\n*   Unlimited Pages & Fields\n*   Shareable Forms + Emails\n*   Cloud API Service\n\nEnterprise\n\nFor enterprise usage.\n\n299 82\n\n(Billed at $984/year)\n\n*   **10000** documents /month\n*   **100** templates\n*   Unlimited Pages & Fields\n*   Shareable Forms + Emails\n*   Cloud API Service\n\n9\n\nIntegrations\n------------\n\n#### Easy integrations with 5000+ Apps using [Zapier](https://zapier.com/apps/documentero/integrations), [Make.com](https://blog.documentero.com/2023/09/20/create-documents-make/) [Integrately](https://integrately.com/integrations/documentero) or [Pabbly Connect](https://www.pabbly.com/connect/integrations/Documentero/).\n\n#### Dedicated no-code app development platform integration - [Bubble.io Plugin](https://blog.documentero.com/2023/10/01/bubble-plugin/), [WebFlow App](https://blog.documentero.com/2023/11/02/webflow-app/)\n\n[Zapier Tutorial](https://blog.documentero.com/2023/03/25/create-documents-zapier/) [Make.com Tutorial](https://blog.documentero.com/2023/09/20/create-documents-make/) [Pabbly Connect Tutorial](https://blog.documentero.com/2023/05/16/create-documents-pabbly-connect/) [Bubble.io Tutorial](https://blog.documentero.com/2023/10/01/bubble-plugin/) [WebFlow Tutorial](https://blog.documentero.com/2023/11/02/webflow-app/)\n\n8\n\nLet's dive in\n-------------\n\n#### Get started right away.\n\nGet Started - It's free\n\nNo Credit Card Required\n\n### What text editors are compatible with Documentero?\n\nAny editor that supports .docx format: Microsoft Word, Google Docs, LibreWriter, OpenOffice, Mobile Office\n\n### Do I need technical knowledge to use this app?\n\nNot at all. Anyone who can create document templates in our online editor or docx format can use Documentero easily. If you want to integrate your system/solution using API technical person should be involved.\n\n### Can I use Documentero on mobile device?\n\nYes. Our application adapts to device that is used. On phone it behaves like an mobile app\n\n### Are you storing data entered to documents?\n\nNo. We use data to generate documents once. We generate a special download link that expires in a few minutes after document download. After that document and entered data is deleted from memory. It makes the process more secure for you and your data. We are storing only document templates\n\nAt Documentero, we prioritize the protection of your privacy. Our software is intentionally designed to refrain from storing documents customer data or generated documents. For further details, we encourage you to review our comprehensive Privacy Policy.\n\n[Privacy Policy](https://documentero.com/privacy-policy) [Terms & Conditions](https://documentero.com/terms-conditions)\n\nHow would you like to start ?\n\nSignup to App\n\nCreate account and start right away\n\nDocumentation\n\nCheck our documentation\n\nVideo Tutorials\n\nWatch how our application works on youtube\n\nClose\n\nTurn your documents into templates that can generate .docx or .pdf documents using shareable forms or API",
+      "error": null,
+      "pricing_data": {
+        "app_id": "documentero",
+        "app_name": "Documentero",
+        "app_slug": "documentero",
+        "pricing_url": "https://www.documentero.com/#pricing",
+        "source_url": "https://www.documentero.com/#pricing",
+        "all_pricing_urls": [
+          "https://www.documentero.com/#pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": null,
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Try our service for free",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "50 documents /once",
+              "3 templates",
+              "Unlimited Pages & Fields",
+              "Shareable Forms + Emails",
+              "Cloud API Service"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": 50,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Micro",
+            "tier_description": "Affordable package for start.",
+            "monthly_price": 50.0,
+            "annual_price": 600.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "100 documents /month",
+              "5 templates",
+              "Unlimited Pages & Fields",
+              "Shareable Forms + Emails",
+              "Cloud API Service"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": 100,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Mini",
+            "tier_description": "For smaller companies/startups",
+            "monthly_price": 82.0,
+            "annual_price": 984.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "300 documents /month",
+              "10 templates",
+              "Unlimited Pages & Fields",
+              "Shareable Forms + Emails",
+              "Cloud API Service"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": 300,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Standard",
+            "tier_description": "For medium companies",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "1000 documents /month",
+              "20 templates",
+              "Unlimited Pages & Fields",
+              "Shareable Forms + Emails",
+              "Cloud API Service"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": 1000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Premium",
+            "tier_description": "For bigger companies",
+            "monthly_price": 50.0,
+            "annual_price": 600.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "2000 documents /month",
+              "50 templates",
+              "Unlimited Pages & Fields",
+              "Shareable Forms + Emails",
+              "Cloud API Service"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": 2000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "For enterprise usage.",
+            "monthly_price": 82.0,
+            "annual_price": 984.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "10000 documents /month",
+              "100 templates",
+              "Unlimited Pages & Fields",
+              "Shareable Forms + Emails",
+              "Cloud API Service"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": 10000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:55:27.872289",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\documentero\\20250415_075528"
+}

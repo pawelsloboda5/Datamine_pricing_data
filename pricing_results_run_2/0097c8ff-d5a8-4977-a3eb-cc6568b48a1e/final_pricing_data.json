@@ -1,0 +1,47 @@
+{
+  "app_id": "simplicate",
+  "app_name": "Simplicate",
+  "app_slug": "simplicate",
+  "pricing_url": "https://www.simplicate.com/nl/tarieven/",
+  "source_url": "https://www.simplicate.com/nl/tarieven/",
+  "all_pricing_urls": [
+    "https://www.simplicate.com/nl/tarieven/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page mentions a 14-day free trial but does not provide detailed tier information.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:39:27.093119",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0097c8ff-d5a8-4977-a3eb-cc6568b48a1e",
+    "name": "Simplicate",
+    "slug": "simplicate",
+    "description": "All-in-one CRM and project software: CRM, sales, project management, planning, time registration & invoicing.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/0b32be67b144eb6fd1a1d7fce4d8e8dd.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 17,
+    "trigger_count": 18
+  }
+}

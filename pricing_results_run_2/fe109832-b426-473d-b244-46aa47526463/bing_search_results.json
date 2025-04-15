@@ -1,0 +1,19 @@
+{
+  "app_name": "PDFMonkey",
+  "app_slug": "pdfmonkey",
+  "search_term": "Find the official pricing page URL for PDFMonkey (pdfmonkey.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688406.151173,
+  "response_text": [
+    "The official URL for the pricing page of PDFMonkey is: [https://www.pdfmonkey.com/pricing](https://www.pdfmonkey.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.pdfmonkey.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 422"
+    }
+  ],
+  "results_directory": "pricing_results\\pdfmonkey\\20250414_234016"
+}

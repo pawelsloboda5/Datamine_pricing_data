@@ -1,0 +1,139 @@
+{
+  "app_name": "Gumroad",
+  "app_slug": "gumroad",
+  "search_term": "Find the official pricing page URL for Gumroad (gumroad.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744708957.5789945,
+  "response_text": [
+    "The official pricing page for Gumroad is available at https://gumroad.com/pricing\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Gumroad pricing: 10% flat fee",
+      "url": "https://gumroad.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://gumroad.com/pricing",
+      "is_accessible": true,
+      "content": "Gumroad pricing: 10% flat fee\n===============                              \n\n[![Image 1](https://assets.gumroad.com/assets/logo-0bc69a5fbe2011001b3dba6598e5b597137926af32d7d955ee1ab7ac05fd63d4.svg)](https://gumroad.com/)\n\n[Home](https://gumroad.com/)[About](https://gumroad.com/about)[Features](https://gumroad.com/features)[Pricing](https://gumroad.com/pricing)[Taxes](https://gumroad.com/taxes)\n\n[Log in](https://gumroad.com/users/sign_in)[Start selling](https://gumroad.com/users/sign_up)\n\n[Home](https://gumroad.com/)[About](https://gumroad.com/about)[Features](https://gumroad.com/features)[Pricing](https://gumroad.com/pricing)[Taxes](https://gumroad.com/taxes)\n\n[Log in](https://gumroad.com/users/sign_in)[Start selling](https://gumroad.com/users/sign_up)\n\nPricing\n\nSimple, transparent pricing\n===========================\n\nWe believe in transparent pricing that helps you grow. No hidden fees, no monthly charges.\n\n![Image 2: Decorative pricing coin 4](https://assets.gumroad.com/assets/pricing-coin-4-84a5d2209e88d26e9478c1c3ec751d7cb4c14262f9bd244b46892f877a581523.svg)\n\n![Image 3: Decorative pricing coin 5](https://assets.gumroad.com/assets/pricing-coin-5-bc80d31182b7c33922a1d0f4a41d3a0a5e329544812e5b34602dfe3006e43c1b.svg)\n\n![Image 4: Decorative pricing coin 6](https://assets.gumroad.com/assets/pricing-coin-6-a7523d8f4a39f9c2b446408ade5a46eb3bbec36c11c3c4bbf970bd45046c832d.svg)\n\n![Image 5: Decorative pricing coin 2](https://assets.gumroad.com/assets/pricing-coin-2-0c8ae69e416f1d3848fa34ddab47269acee56d826f5756bcfd2a3eccec512791.svg)\n\n![Image 6: Decorative pricing coin 1](https://assets.gumroad.com/assets/pricing-coin-1-af4c3239fd799a1c1ab1e84d9ac4904e85bc54bfa2e60d87574f2fb742f39c69.svg)\n\n![Image 7: Decorative pricing coin 3](https://assets.gumroad.com/assets/pricing-coin-3-454820ffae345ee798df5ee47a2e0892d9cde2a94cea577023d776b9ce6a0b0b.svg)\n\n### 10% + $0.50\n\nPer transaction for all sales through your profile or direct links to your customers.\n\n### 30%\n\nPer transaction when new customers find and buy from you through our discover marketplace.\n\nFrequently asked questions\n--------------------------\n\n### What can I sell on Gumroad?\n\nDigital products, e-books, courses, tutorials, and memberships\u2014almost anything! Creators in just about every industry use (and love) Gumroad, from digital artists, writers, musicians and other creative-types to business-minded entrepreneurs and tech gurus like our SaaS creators. A better question is, \"What can't I sell on Gumroad?\"\n\n### How do I get paid?\n\nGumroad's goal is to help creators make a living doing what they love, so we make it as simple as possible to get paid. How we pay creators, whether through direct deposit or PayPal, varies by country.\n\n### What are the fees?\n\nUnlike other platforms, Gumroad doesn't charge you a monthly fee. Instead, our fees are deducted as a small percentage of every sale, so we only make money when you do.\n\n### Can I use Gumroad for memberships?\n\nYes!  \n  \nWhether it's for a podcast, online course, or SaaS subscriptions, Gumroad makes it easy to manage memberships.\n\nShare your work.  \nSomeone out there needs it.\n----------------------------------------------\n\n[Start selling](https://gumroad.com/users/sign_up)\n\nSubscribe to get tips and tactics to grow the way you want.\n\n\u2192\n\n![Image 8: Gumroad icon](https://assets.gumroad.com/assets/logo-g-9ae0790a0136b136f1979c9759d2a04c051cde5f7caf59231750793e387245ca.svg)\n\n\u24b8 Gumroad, Inc.\n\n[Taxes](https://gumroad.com/taxes) [Terms of Service](https://gumroad.com/terms) [Privacy Policy](https://gumroad.com/privacy)\n\n[Features](https://gumroad.com/features) [Pricing](https://gumroad.com/pricing) [About](https://gumroad.com/about) [Jobs](https://jobs.gumroad.com/) [Board meetings](https://www.youtube.com/watch?v=st8ns96z7d4)\n\n[](https://twitter.com/gumroad)[](https://www.youtube.com/channel/UC6o7H5wr2Cf4ibntYEs4Mcg)[](https://www.instagram.com/gumroad/)[](https://www.facebook.com/gumroad)[](http://pinterest.com/gumroad)\n\nNo monthly fees, just a simple 10% cut per sale. Gumroad's pricing is transparent and creator-friendly.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "gumroad",
+        "app_name": "Gumroad",
+        "app_slug": "gumroad",
+        "pricing_url": "https://gumroad.com/pricing",
+        "source_url": "https://gumroad.com/pricing",
+        "all_pricing_urls": [
+          "https://gumroad.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Gumroad charges a percentage-based fee per transaction, with different rates for direct sales and marketplace sales.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Direct Sales",
+            "tier_description": "Sales through your profile or direct links to customers.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Transparent pricing",
+              "No monthly fees"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Marketplace Sales",
+            "tier_description": "Sales through Gumroad's discover marketplace.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Access to Gumroad's marketplace"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Transaction Fee",
+            "unit": "per transaction",
+            "base_price": 0.5,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 10.0
+              }
+            ]
+          },
+          {
+            "metric_name": "Marketplace Transaction Fee",
+            "unit": "per transaction",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 30.0
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T05:22:43.207941",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://gumroad.com/pricing\u30103:0\u2020source\u3011.",
+      "is_accessible": true,
+      "content": "![Image 1](https://gumroad.com/error_pages/comic-rock.png)\n\n* * *\n\nThe thing you were looking for doesn't exist.\n\n*   [Go home?](https://gumroad.com/)\n\nGumroad is a powerful, but simple, e-commerce platform. We make it easy to earn your first dollar online by selling digital products, memberships and more.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "gumroad",
+        "app_name": "Gumroad",
+        "app_slug": "gumroad",
+        "pricing_url": null,
+        "source_url": "https://gumroad.com/error_pages/comic-rock.png",
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page or details were not accessible from the provided content.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T05:22:52.679483",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\gumroad\\20250415_052252"
+}

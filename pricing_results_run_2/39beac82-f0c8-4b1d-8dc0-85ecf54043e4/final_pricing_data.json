@@ -1,0 +1,182 @@
+{
+  "app_id": "brighthr",
+  "app_name": "BrightHR",
+  "app_slug": "brighthr",
+  "pricing_url": "https://www.brighthr.com/pricing/",
+  "source_url": "https://www.brighthr.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.brighthr.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "GBP",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of employees and includes fixed monthly rates per employee.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Core HR Software",
+      "tier_description": "Time-saving HR software for the day-to-day running of your business.",
+      "monthly_price": 44.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Staff holiday planner & booking system",
+        "Shifts & rotas planning",
+        "Absence management software",
+        "Performance management",
+        "Overtime tracker",
+        "Payroll navigator",
+        "Time-tracking and expense-tracking apps",
+        "Learning management system with CPD-accredited e-learning",
+        "Online marketplace and employee perks",
+        "Custom reporting system"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Employees",
+            "value": "3100+"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enhanced HR Support",
+      "tier_description": "Core package plus 24/7 expert advice and HR document templates.",
+      "monthly_price": 83.5,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Staff holiday planner & booking system",
+        "Shifts & rotas planning",
+        "Absence management software",
+        "Performance management",
+        "Overtime tracker",
+        "Payroll navigator",
+        "Time-tracking and expense-tracking apps",
+        "Learning management system with CPD-accredited e-learning",
+        "Online marketplace and employee perks",
+        "Custom reporting system",
+        "24/7 HR and employment law advice line",
+        "Changing employment law updates",
+        "Unlimited and bespoke advice for your business",
+        "HR and employment law advice on the go app",
+        "Library of HR document templates"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Employees",
+            "value": "3100+"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Full HR, Health and Safety Support & EAP",
+      "tier_description": "Enhanced package plus full employee wellbeing support and advice.",
+      "monthly_price": 141.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Staff holiday planner & booking system",
+        "Shifts & rotas planning",
+        "Absence management software",
+        "Performance management",
+        "Overtime tracker",
+        "Payroll navigator",
+        "Time-tracking and expense-tracking apps",
+        "Learning management system with CPD-accredited e-learning",
+        "Online marketplace and employee perks",
+        "Custom reporting system",
+        "Accident and near-miss reporting",
+        "600+ risk assessment templates",
+        "Health & safety tasks management with reminders",
+        "Extensive library of health & safety documents",
+        "Hazardous substances management",
+        "Method statement navigator",
+        "24/7 HR and employment law advice line",
+        "Changing employment law updates",
+        "Unlimited and bespoke advice for your business",
+        "HR and employment law advice on the go app",
+        "Library of HR document templates",
+        "24/7 health & safety advice from trained professionals",
+        "Industry-specific advice",
+        "Changing health & safety law updates and guidelines",
+        "Essential information to navigate HSE spot checks",
+        "Fast-tracked wellbeing support",
+        "Improve employee relationship management",
+        "Online wellbeing portal",
+        "My Healthy Advantage app",
+        "Life and leadership coaching",
+        "Relationship management support",
+        "Personalised content, four-week plans, goal setting, and built-in rewards",
+        "Access to 20+ NHS-approved programmes, wellbeing training, and workshops",
+        "Guidance on nutrition, sleep, weight management, and more"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Employees",
+            "value": "3100+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Insurance",
+      "fee_amount": null,
+      "fee_description": "Insurance is not included in the base pricing and requires a separate quote."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:11:56.654441",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "39beac82-f0c8-4b1d-8dc0-85ecf54043e4",
+    "name": "BrightHR",
+    "slug": "brighthr",
+    "description": "BrightHR is a people management platform that saves you time, money, and effort whether you're managing shift workers at a shop or full-time staff at a large company.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/0e3eaeaec9b123f77d2193b7bfe35115_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Human Resources"
+    ],
+    "category_slugs": [
+      "human-resources"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 4
+  }
+}

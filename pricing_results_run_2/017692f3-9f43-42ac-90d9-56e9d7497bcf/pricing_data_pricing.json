@@ -1,0 +1,103 @@
+{
+  "app_id": "twist",
+  "app_name": "Twist",
+  "app_slug": "twist",
+  "pricing_url": "https://twist.com/pricing",
+  "source_url": "https://twist.com/pricing",
+  "all_pricing_urls": [
+    "https://twist.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Guests are billed differently based on their access level.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic access with limited history and integrations.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access up to 1 month of comments and messages",
+        "Up to 5 integrations",
+        "Up to 5 GB file storage",
+        "Standard support",
+        "Up to 500 internal member accounts",
+        "Up to 500 external guest accounts"
+      ],
+      "limits": {
+        "users": 500,
+        "storage": "5GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": 5,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Unlimited",
+      "tier_description": "Full access with unlimited features.",
+      "monthly_price": 6.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access full history of comments and messages",
+        "Unlimited integrations",
+        "Unlimited file storage",
+        "Priority support",
+        "Unlimited internal member accounts",
+        "Unlimited external guest accounts"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Prorated charge for new users",
+      "fee_amount": null,
+      "fee_description": "One-time charge for new users added during the billing period."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:58:33.288085",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "017692f3-9f43-42ac-90d9-56e9d7497bcf",
+    "name": "Twist",
+    "slug": "twist",
+    "description": "Twist keeps your conversations on-topic and in one place. For teams who want to make work calmer, more organized, and more productive.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/a4216759c5e794f69a23fa4c005f776c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Chat"
+    ],
+    "category_slugs": [
+      "team-chat"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 2
+  }
+}

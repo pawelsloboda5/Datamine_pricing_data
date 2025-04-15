@@ -1,0 +1,146 @@
+{
+  "app_id": "skilljar",
+  "app_name": "Skilljar",
+  "app_slug": "skilljar",
+  "pricing_url": "https://www.skilljar.com/pricing",
+  "source_url": "https://www.skilljar.com/customer-lms-pricing",
+  "all_pricing_urls": [
+    "https://www.skilljar.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription plans with tiered features and usage-based pricing for active users.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Ideal for starting your customer or partner Academy.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 Academy Site with Custom Themes",
+        "Unlimited Seats and Courses",
+        "Low Code Page Builder",
+        "Standard Integrations",
+        "Skilljar REST API",
+        "Single Sign On (SSO) for Learners",
+        "Virtual Instructor Led Training",
+        "Certifications",
+        "Automations",
+        "Custom Reports and Benchmarks"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "3 Premium",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Perfect for education teams training multiple audiences or selling courses.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Essentials",
+        "2 Academy Sites with Custom Themes",
+        "Premium Integrations",
+        "Single Sign On (SSO) for Admins",
+        "Content Syndication",
+        "External Management"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "5 Premium",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For teams scaling to thousands of learners across customers, partners, or employees.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Professional",
+        "3 Academy Sites with Custom Themes",
+        "Premium Integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "7 Premium",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "active users",
+      "unit": "per user",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Content Syndication",
+      "fee_amount": 10000.0,
+      "fee_description": "Embed courses into other learning platforms."
+    },
+    {
+      "fee_name": "Data Connector",
+      "fee_amount": 25000.0,
+      "fee_description": "Access Skilljar data in a real-time PostgreSQL database."
+    },
+    {
+      "fee_name": "Language Packs",
+      "fee_amount": 10000.0,
+      "fee_description": "Localize the Skilljar platform for global learners, starting at 5 languages."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:00:10.914271",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "36c4c41d-3ee9-4737-bda6-9f2bfecc26f5",
+    "name": "Skilljar",
+    "slug": "skilljar",
+    "description": "Skilljar's learning management system (LMS) enables businesses to create, deliver, and track online training courses.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/11b7a7a9c3b3fc2448a1ade2b0d39bc5_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

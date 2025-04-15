@@ -1,0 +1,87 @@
+{
+  "app_id": "dotloop",
+  "app_name": "Dotloop",
+  "app_slug": "dotloop",
+  "pricing_url": "https://www.dotloop.com/products/plans-pricing/?utm_content=header_menu-conv_pricing",
+  "source_url": "https://www.dotloop.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.dotloop.com/products/plans-pricing/?utm_content=header_menu-conv_pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing information includes a free tier and a subscription model starting at $29 per user per month.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for individual users.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic transaction management"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Advanced features for professional users.",
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced transaction management",
+        "Premium support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:46:36.243643",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4beead26-6fee-4c03-9379-02aff3a5e9e0",
+    "name": "Dotloop",
+    "slug": "dotloop",
+    "description": "Dotloop is the complete real estate transaction management solution that empowers agents and brokers to get deals done.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/1f59b3a05d2744244af23d6e6ca4f590.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

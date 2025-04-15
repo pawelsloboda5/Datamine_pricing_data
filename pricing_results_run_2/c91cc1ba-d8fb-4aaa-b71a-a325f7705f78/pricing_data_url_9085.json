@@ -1,0 +1,276 @@
+{
+  "app_id": "typeform",
+  "app_name": "Typeform",
+  "app_slug": "typeform",
+  "pricing_url": "https://www.typeform.com/pricing",
+  "source_url": "https://www.typeform.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.typeform.com/pricing",
+    "https://www.typeform.com/pricing/growth",
+    "https://www.typeform.com/enterprise"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Typeform offers a variety of plans tailored to different user needs, including response limits and user seats.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Create interactive forms that connect to your workflow.",
+      "monthly_price": 29.0,
+      "annual_price": 348.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "100 responses/mo included",
+        "1 user",
+        "Unlimited typeforms",
+        "Unlimited questions"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "responses",
+            "value": "100/mo"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Make your forms more beautiful and on-brand.",
+      "monthly_price": 59.0,
+      "annual_price": 708.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "1,000 responses/mo included",
+        "3 users",
+        "Everything in Basic",
+        "Remove Typeform branding",
+        "Custom subdomain"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "responses",
+            "value": "1,000/mo"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Analyze performance and do more with your data.",
+      "monthly_price": 99.0,
+      "annual_price": 1188.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "10,000 responses/mo included",
+        "5 users",
+        "Everything in Plus",
+        "Drop-off rates",
+        "Conversion tracking",
+        "Priority support and live chat"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "responses",
+            "value": "10,000/mo"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Unlock limitless growth with advanced features and support.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Tailored response limits and seats",
+        "VIP support and dedicated outcomes manager",
+        "Custom domains and branding",
+        "Single Sign-On (SSO)",
+        "HIPAA and GDPR compliance available",
+        "Select preferred data center"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "responses",
+            "value": "custom"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth Essentials",
+      "tier_description": "For individuals and small teams looking to generate and engage with leads.",
+      "monthly_price": 199.0,
+      "annual_price": 2388.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "3 seats",
+        "1k+ responses /mo",
+        "Enrich 300 responses /mo",
+        "Video questions",
+        "Video answers",
+        "reCAPTCHA",
+        "Ask AI and Smart Insights",
+        "Remove Typeform branding",
+        "Custom subdomain",
+        "Connect with 300+ integrations"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 300,
+        "custom_limits": [
+          {
+            "name": "responses",
+            "value": "1,000/mo"
+          },
+          {
+            "name": "enrichments",
+            "value": "300/mo"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth Pro",
+      "tier_description": "For growing teams that need to automate and streamline their marketing workflows.",
+      "monthly_price": 349.0,
+      "annual_price": 4188.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "5 seats",
+        "10k+ responses /mo",
+        "Enrich 1,500 responses /mo",
+        "Multi-language forms",
+        "Drop-off rates",
+        "Salesforce integration",
+        "Google Analytics",
+        "Google Tag Manager",
+        "Facebook pixel",
+        "Priority support and live chat"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "responses",
+            "value": "10,000/mo"
+          },
+          {
+            "name": "enrichments",
+            "value": "1,500/mo"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth Custom",
+      "tier_description": "For organizations that want to scale customer acquisition, with full support and security.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom number of seats",
+        "20k+ responses /mo",
+        "Enrich 3,000 responses /mo",
+        "Unlimited viewer seats",
+        "Custom domain",
+        "Single Sign-On (SSO)",
+        "Two-factor authentication",
+        "Organization activity log",
+        "HIPAA compliance available",
+        "Dedicated customer success manager"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "responses",
+            "value": "20,000/mo"
+          },
+          {
+            "name": "enrichments",
+            "value": "3,000/mo"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:13:12.025434",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c91cc1ba-d8fb-4aaa-b71a-a325f7705f78",
+    "name": "Typeform",
+    "slug": "typeform",
+    "description": "Typeform helps you ask awesomely online! If you ever need to run a survey, questionnaire, form, contest etc. Typeform will help you achieve it beautifully across all devices, every time, using its next generation platform.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d32090cec235282983aa2872a0301ca3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 5,
+    "trigger_count": 0
+  }
+}

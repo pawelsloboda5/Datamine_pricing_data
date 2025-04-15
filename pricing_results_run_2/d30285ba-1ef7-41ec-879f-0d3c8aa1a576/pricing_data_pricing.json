@@ -1,0 +1,158 @@
+{
+  "app_id": "gymdesk",
+  "app_name": "Gymdesk",
+  "app_slug": "gymdesk",
+  "pricing_url": "https://gymdesk.com/pricing",
+  "source_url": "https://gymdesk.com/pricing",
+  "all_pricing_urls": [
+    "https://gymdesk.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of active members, with all features included in each tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Micro Gym",
+      "tier_description": "Newly opened gyms up to 50 members.",
+      "monthly_price": 75.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 50 active members",
+        "Unlimited staff accounts",
+        "Responsive gym website",
+        "All features included"
+      ],
+      "limits": {
+        "users": 50,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Small Gym",
+      "tier_description": "Smaller gyms up to 100 members.",
+      "monthly_price": 100.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "51-100 active members",
+        "Unlimited staff accounts",
+        "Responsive gym website",
+        "All features included"
+      ],
+      "limits": {
+        "users": 100,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Medium Gym",
+      "tier_description": "Medium sized gym, up to 200 members.",
+      "monthly_price": 150.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "101-200 active members",
+        "Unlimited staff accounts",
+        "Responsive gym website",
+        "All features included"
+      ],
+      "limits": {
+        "users": 200,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Large Gym",
+      "tier_description": "A larger gym, up to 400 members.",
+      "monthly_price": 200.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "201-400 active members",
+        "Unlimited staff accounts",
+        "Responsive gym website",
+        "All features included"
+      ],
+      "limits": {
+        "users": 400,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for larger organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom",
+        "Unlimited staff accounts",
+        "Responsive gym website",
+        "All features included"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:07:16.527064",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d30285ba-1ef7-41ec-879f-0d3c8aa1a576",
+    "name": "Gymdesk",
+    "slug": "gymdesk",
+    "description": "Gymdesk provides modern management software to gyms, martial arts schools, yoga studios and other membership businesses.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/b3417418cc8d99d1ac51954001ceb647.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 2
+  }
+}

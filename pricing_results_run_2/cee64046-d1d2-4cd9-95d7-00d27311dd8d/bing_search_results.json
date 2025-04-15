@@ -1,0 +1,233 @@
+{
+  "app_name": "OnceHub",
+  "app_slug": "oncehub",
+  "search_term": "Find the official pricing page URL for OnceHub (oncehub.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744707566.1476002,
+  "response_text": [
+    "The official pricing page for OnceHub can be found at this URL: [https://www.oncehub.com/pricing-plans](https://www.oncehub.com/pricing-plans)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Oncehub: Free Scheduling Software | Signup Today | Pricing & Plans",
+      "url": "https://oncehub.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://oncehub.com/pricing",
+      "is_accessible": true,
+      "content": "Skip to main content\nStart now\nProduct\nSolutions\nPricing\nResources\nCompany\nSign In\nThe Best Way to Engage With Your Audience\n\nExplore advanced features with a 14 day free trial\n\nSave up to 18%\nYearly\nMonthly\nBasic\n\nFor individuals looking to get started with basic online scheduling\n\nFree\n\nStart now\n\u00a0\nOne User and One Booking Link\nWYSIWYG Booking Page Designer\nMulti-Location Availability\nCalendar Integrations:\nGoogle, Office 365, Exchange, iCloud\nVideo Integrations:\nZoom, Google, Microsoft, GTM, Webex\nEmail Integrations:\nGoogle, Office 365\nStandard Email Reminders and Follow-Ups\nKnowledge Base Support\nSchedule\n\nFor businesses looking to streamline their operations with professional scheduling\n\n$10/seat/month\n\nStart now\nBasic features, plus:\nUnlimited Booking Links and Meetings\nSingle-Host and Multi-Host Meetings\nCustomizable Email Notifications\nText Notifications\nCRM Integrations:\nSalesforce, HubSpot\nCustom Integrations:\nAPIs, Webhooks, Zapier\nBranded Booking Hubs\nWebsite Embed\n24/7 Email and Live Chat Support\nRoute\n\nFor teams looking to optimize scheduling with qualification, routing, and distribution\n\n$19/seat/month\n\nStart now\nSchedule features, plus:\nUnlimited Routing Forms and Responses\nIn-Form Scheduling Experience\nRouting Based on Form Answers and Contact Properties\nDynamic Selection for Single-Host and Multi-Host Meetings\nRound-Robin, Maximum Availability, and Priority-Based Distribution\nMeeting Reassignment\nRoom Scheduling\nBranded Routing Form Pages or Website Embed\nEngage\n\nFor teams looking to maximize engagements with AI-driven scheduling\n\n$39/seat/month\n\nStart now\nRoute features, plus:\nUnlimited Chatbots and Conversations\nAI-Driven Scheduling\nAI Conversations\nSmart Routing by AI\nAvailability-Based Routing\nLive Chat\nInstant Meetings\nAudience-Specific Targeting\nBranded Chatbot Pages or Website Embed\nADD-ON\nSecurity and Compliance Add-On\n\nEnhanced security and compliance for your account. Can be added to any paid plan.\n\n$5/seat/month\n\nFeatures:\nSingle Sign-On (SSO)\nCorporate Calendar Connection\nEmail from Corporate Account\nGuest Communication Compliance\nBooking Spam Protection\nCustom Security Policies\nHIPAA BAA Agreements\n\n\n\nEnterprise\n\nCustom agreements and advanced support for large teams (30+ users)\n\nSecurity and compliance add-on included\nAll features, plus:\nEnterprise MSA and bespoke agreements\nSecurity and legal reviews\nDedicated success manager\nVIP support\nContact us\nDetailed Feature Comparison\nScheduling Features\nPlatform Features\nCompliance, Security, and Support\nFrequently Asked Questions\n\nIf you have a question that\u2019s not answered below, please contact us.\n\nWhat happens when I sign up?\nWhat are my options during and at the end of the trial period?\nCan I add or remove users at any time?\nWho needs a user license?\nWhat payment methods do you accept?\nGet started today\nSign up for free\nProduct\nPowerful Booking Pages\nRouting & Distribution\nAI-Driven Scheduling\nOnceHub Platform\nPricing\nResources\nBlog\nIntegrations\nHelp Center\nTrust Center\nDeveloper Tools\nSystem Status\nCompany\nAbout\nPartnerships\nCareers\nContacts\nSales\nCustomer Support\nSign up for free\nPrivacy Notice\nCookie Notice\n\n\u00a9 Copyright OnceHub 2025. All rights reserved.\n\nStart today with the most generous Free Scheduling plan. Best value for money when you upgrade.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "oncehub",
+        "app_name": "OnceHub",
+        "app_slug": "oncehub",
+        "pricing_url": "https://www.oncehub.com/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://www.oncehub.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes a free tier and multiple subscription options with additional features.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic",
+            "tier_description": "For individuals looking to get started with basic online scheduling",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "One User and One Booking Link",
+              "WYSIWYG Booking Page Designer",
+              "Multi-Location Availability",
+              "Calendar Integrations: Google, Office 365, Exchange, iCloud",
+              "Video Integrations: Zoom, Google, Microsoft, GTM, Webex",
+              "Email Integrations: Google, Office 365",
+              "Standard Email Reminders and Follow-Ups",
+              "Knowledge Base Support"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Schedule",
+            "tier_description": "For businesses looking to streamline their operations with professional scheduling",
+            "monthly_price": 10.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited Booking Links and Meetings",
+              "Single-Host and Multi-Host Meetings",
+              "Customizable Email Notifications",
+              "Text Notifications",
+              "CRM Integrations: Salesforce, HubSpot",
+              "Custom Integrations: APIs, Webhooks, Zapier",
+              "Branded Booking Hubs",
+              "Website Embed",
+              "24/7 Email and Live Chat Support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Route",
+            "tier_description": "For teams looking to optimize scheduling with qualification, routing, and distribution",
+            "monthly_price": 19.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited Routing Forms and Responses",
+              "In-Form Scheduling Experience",
+              "Routing Based on Form Answers and Contact Properties",
+              "Dynamic Selection for Single-Host and Multi-Host Meetings",
+              "Round-Robin, Maximum Availability, and Priority-Based Distribution",
+              "Meeting Reassignment",
+              "Room Scheduling",
+              "Branded Routing Form Pages or Website Embed"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Engage",
+            "tier_description": "For teams looking to maximize engagements with AI-driven scheduling",
+            "monthly_price": 39.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited Chatbots and Conversations",
+              "AI-Driven Scheduling",
+              "AI Conversations",
+              "Smart Routing by AI",
+              "Availability-Based Routing",
+              "Live Chat",
+              "Instant Meetings",
+              "Audience-Specific Targeting",
+              "Branded Chatbot Pages or Website Embed"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Custom agreements and advanced support for large teams (30+ users)",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Security and compliance add-on included",
+              "Enterprise MSA and bespoke agreements",
+              "Security and legal reviews",
+              "Dedicated success manager",
+              "VIP support"
+            ],
+            "limits": {
+              "users": 30,
+              "storage": null,
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Yearly Discount",
+            "offer_description": "Save up to 18% when billed annually",
+            "discount_percentage": 18.0,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": [
+          {
+            "fee_name": "Security and Compliance Add-On",
+            "fee_amount": 5.0,
+            "fee_description": "Enhanced security and compliance for your account. Can be added to any paid plan."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T04:59:42.319436",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.oncehub.com/pricing-plans",
+      "is_accessible": true,
+      "content": "##### Oops! It seems this page doesn't exist\n\nPlease check the URL or visit [oncehub.com](https://oncehub.com/) to learn more about OnceHub",
+      "error": null,
+      "pricing_data": {
+        "app_id": "oncehub",
+        "app_name": "OnceHub",
+        "app_slug": "oncehub",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page was not accessible, and no specific pricing information could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T04:59:54.627207",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\oncehub\\20250415_045954"
+}

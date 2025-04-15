@@ -1,0 +1,12 @@
+{
+  "app_name": "Facebook Messenger",
+  "app_slug": "facebook-messenger",
+  "search_term": "Find the official pricing page URL for Facebook Messenger (facebook-messenger.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744705733.5000906,
+  "response_text": [
+    "I couldn't locate a specific official pricing page for Facebook Messenger, which is typically a free messaging service. Please clarify or provide additional details if needed."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\facebook-messenger\\20250415_042853"
+}

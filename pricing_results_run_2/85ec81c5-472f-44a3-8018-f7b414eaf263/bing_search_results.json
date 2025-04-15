@@ -1,0 +1,48 @@
+{
+  "app_name": "BatchLeads",
+  "app_slug": "batchleads",
+  "search_term": "Find the official pricing page URL for BatchLeads (batchleads.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744702994.172067,
+  "response_text": [
+    "I could not retrieve the information on BatchLeads' pricing page at the moment. I recommend visiting their official website at [https://batchleads.io/](https://batchleads.io/) and navigating to their pricing section for accurate details."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://batchleads.io/",
+      "is_accessible": true,
+      "content": "UNLOCK THE BEST DEALS WITH AI-POWERED PROPERTY SEARCH\n-----------------------------------------------------\n\nFree skip tracing, one-click lead lists, outbound campaigns, and CRM features \u2013 all from one award-winning platform.\n\n1,195 reviews on\n\n![Image 1: G2 Awards](https://batchleads.io/wp-content/uploads/2025/03/G2-1200new.png)\n\nTrusted by 10,000+ Real Estate Professionals\n--------------------------------------------\n\n![Image 2](https://batchleads.io/wp-content/uploads/2024/06/ReMax.webp)\n\n![Image 3](https://batchleads.io/wp-content/uploads/2024/06/Fairway.webp)\n\n![Image 4: ROOFERS UNITED LOGO](https://batchleads.io/wp-content/uploads/2022/02/ROOF-UNITED-LOGO.svg)\n\n![Image 5: Guild Mortgage](https://batchleads.io/wp-content/uploads/2022/08/Guild-White-Logo.png)\n\n![Image 6: Uncover-winning-investments](https://batchleads.io/wp-content/uploads/2024/05/Homepage-Image-1-521x354-1.webp)\n\n### CREATE LEAD LISTS IN SECONDS\n\nTake advantage of 1-click lead lists, BatchRankAI, 130+ filters, and APN parcel insights to zero in on high-potential prospects faster than ever.\n\n### ENGAGE YOUR MARKET\n\nIdentify and connect with ideal prospects, motivated sellers, top agents, and cash buyers in markets nationwide.\n\n![Image 7: Stand out in your market](https://batchleads.io/wp-content/uploads/2024/05/Homepage-Image-2-521x354-1.webp)\n\n![Image 8: Find a faster path to profit](https://batchleads.io/wp-content/uploads/2024/05/Homepage-Image-3-521x354-1.webp)\n\n### ANALYZE AND TAKE ACTION\n\nSharpen your marketing expansion and investment strategy \u2013 uncover new markets with exclusive real estate insights.\n\nIdentify real estate leads in seconds\n-------------------------------------\n\nThe Source for Your Lead Pipeline\n---------------------------------\n\n![Image 9: Wholesaling](https://batchleads.io/wp-content/uploads/2024/05/Homepage-Image-4-576x354-1.webp)\n\nFind motivated sellers first\n----------------------------\n\nIdentify distressed property, target motivated seller lists, and connect with cash buyers from a single platform.\n\n![Image 10: Fix and Flip](https://batchleads.io/wp-content/uploads/2024/05/Homepage-Image-5-576x354-1.webp)\n\nUncover diamonds in the rough\n-----------------------------\n\nFind your next flip using on- and off-market property insights, intuitive comping tools, and 300+ real estate filters.\n\n![Image 11: Buy and Hold](https://batchleads.io/wp-content/uploads/2024/05/Homepage-Image-6-576x354-1.webp)\n\nBuild passive real estate income\n--------------------------------\n\nGet the data you need to evaluate potential rentals, explore tired listings, and find the next property for your portfolio.\n\n![Image 12: Agent Outreach](https://batchleads.io/wp-content/uploads/2024/05/Homepage-Image-7-576x354-1.webp)\n\nPartner with top agents\n-----------------------\n\nFind on-market opportunities and establish winning partnerships with our exclusive nationwide agent directory.\n\n![Image 13: Home Services](https://batchleads.io/wp-content/uploads/2024/09/Home-Services.webp)\n\nHome Services\n-------------\n\nBlend no-tech door-door with virtual canvassing and hyper targeted lead lists.\n\n![Image 14](https://batchleads.io/wp-content/uploads/2024/09/Agent.webp)\n\nAgents\n------\n\nFind homeowners with precision to get more appointments, listing and commissions.\n\nBreak free from the 9-to-5\n--------------------------\n\nFeatured\n\nResources to help you grow your business\n----------------------------------------\n\n![Image 15: Building Self Storage Investment Portfolio with Alex Pardo](https://batchleads.io/wp-content/uploads/2025/03/Building-A-Recession-Proof-Portfolio-Through-Self-Storage-Investments-with-Alex-Padro-d2.jpg)\n\nSelf Storage Investments : Alex Pardo\u2019s Inspiring Journey from Debt to Financial Freedom.\n\nIn a world where financial stability often feels like a distant dream, Alex Pardo\u2019s story shines as\n\n![Image 16: Benefits of Investing in Vacant Land - Batchleads APN Search](https://batchleads.io/wp-content/uploads/2025/04/Vacant-Land-Blog-Image-APN-Search.jpg)\n\nBenefits of Investing in Vacant Land and How BatchLeads\u2019 New APN Search Feature Enhances Your Strategy\n\nInvesting in vacant land has long been an underappreciated strategy in real estate. Unlike residential or commercial\n\n![Image 17: The future of housing reforms and innovation unveiled](https://batchleads.io/wp-content/uploads/2025/03/The-Housing-Reform-podcast.jpg)\n\nTransforming Real Estate : AI Innovation and Industry Reform with Jason Haber\n\nThe real estate industry is at a crossroads, shaped by evolving market forces, technological breakthroughs, and the\n\n![Image 18: What is Seller financing and how is it beneficial](https://batchleads.io/wp-content/uploads/2025/03/Unlocking-Seller-Financing-for-Real-Estate-Investors.jpg)\n\nReal Estate Investors Take Note: Unlocking Growth with Seller Financing\n\nIn the ever-evolving world of real estate investing, savvy investors are continually seeking new strategies to expand\n\n![Image 19: Wholesaling Real Estate in New York in 2025](https://batchleads.io/wp-content/uploads/2023/11/A-Complete-guide-to-Wholesaling-Real-Estate-in-New-York-in-2025.jpg)\n\nThe Complete Guide to Wholesaling Real Estate in New York\n\nNew York state has been a draw for new residents from across the country and internationally for\n\nGet access to over 100M+ curated properties dedicated on market & off market filters for hassle free real estate investing experience.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "batchleads",
+        "app_name": "BatchLeads",
+        "app_slug": "batchleads",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The content provided does not include specific pricing details.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:43:17.254282",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\batchleads\\20250415_034317"
+}

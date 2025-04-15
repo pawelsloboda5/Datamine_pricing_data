@@ -1,0 +1,558 @@
+{
+  "app_name": "Userflow",
+  "app_slug": "userflow",
+  "search_term": "Find the official pricing page URL for Userflow (userflow.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744699616.1369214,
+  "response_text": [
+    "The official pricing page for Userflow can be accessed at the following URL: [https://www.userflow.com/pricing](https://www.userflow.com/pricing)\u30103:1\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | Userflow",
+      "url": "https://userflow.com/pricing?eco_features=REPORTS_ANALYTICS"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.userflow.com/pricing",
+      "is_accessible": true,
+      "content": "You'll be in great company\n--------------------------\n\n\u201cWe evaluated the top digital adoption platforms, and Userflow had the most bang for the buck. It was reasonably priced, had excellent UI, and incredibly helpful onboarding and support.\u201d\n\n![Image 1: image](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/666c2903dee7df7ba5eff57f_testimonial-1.jpg)\n\nJonathan Brink\n\nUX Lead, Streamsets\n\n\u201cUserflow is the most intuitive and well-built onboarding solution in the market. I have evaluated them all and can confidently say that you need not look beyond Userflow.\u201d\n\n![Image 2: image](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/666c290378d4ab5be9dd2f2c_testimonial-2.jpg)\n\nArpit Choudhury\n\nFounder, Data-led Academy\n\n\u201cUserflow makes it easy to iterate on onboarding experiments based on data. It's very intuitive to use and the customer service is phenomenal!\u201d\n\n![Image 3: image](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/666c29038f1a1e34efd15d94_testimonial-3.jpg)\n\nLise Lin\n\nProduct Specialist, Fleetcor\n\nTrusted by 500+ software providers\n----------------------------------\n\n![Image 4: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/666bff2dc2de63f177dc0f84_client-logo.svg)\n\n![Image 5: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/666bff2dc2de63f177dc0f84_client-logo.svg)\n\nCommon pricing questions\n------------------------\n\nWhat counts as an MAU (Monthly Active User)?\n\nA user is considered active if they visit your app where Userflow is installed within the last 1 month. This count is a rolling window, not fixed to specific calendar months. For example, if today is the 15th of April, we're looking at user activity from the 16th of March to today. So, if you have 10,000 users in your database and 6,000 of them signed into your app in the past 1 month, then you have 6,000 MAUs.\n\nIn rare cases, where your users average more than 1,000 events each (less than 1% of our customers reach this), MAUs will be calculated as the total number of events divided by 1,000.\n\nYou can add additional bundles of 5,000 MAUs at $80/month on annual billing or $100/mo on monthly billing. Additional MAU bundles above 100,000 MAUs are discounted by 50%.\n\nWhat counts as an AI message\n\nAI Assistant delivers automated answers to your users' questions within your app, leveraging your knowledge base and website, and powered by OpenAI's GPT-4.\n\nEach question/answer pair counts as a \"message\" in a given month. Each plan comes with a number of AI messages per month included.\n\nYou can add additional bundles of 500 AI messages/mo at $80/month on annual billing or $100/mo on monthly billing.\n\nWhat counts as team member?\n\nA team member is a person with access to your Userflow account. They can build flows, analyze users and manage settings. Example: If you have 3 team members, you can invite 2 other users to join you.\n\nAdditional team members cost $16/mo per seat on annual billing and $20/mo per seat on monthly billing. The Pro and Enterprise plans comes with unlimited team members.\n\nHow many views can my flows and checklists get?\n\nUnlimited!\n\nWhat happens if I exceed my plan's limits?\n\nIf you exceed the number of MAUs or AI messages that's included in your plans, you will be automatically upgraded with the additional bundles fitting to your level. The owner of the account will receive an email notification when this happens.\n\nCan I pay yearly?\n\nYes! Just choose yearly billing when entering your card details after your 14-day trial expires. You'll save 20%.\n\nWhat kind of support do you offer?\n\nYour experience is the most important thing to us! We promise expert-level support via email, live-chat and occasional video/phone. We answer questions very fast (usually within hours or minutes during business hours), and never hesitate getting into the machinery to help you.\n\nCan I upgrade or downgrade my plan?\n\nYes, you can upgrade or downgrade at any time, as long as you don't exceed the new plan's limits.\n\nDo I have to sign a long-term contract?\n\nNo. You just pay as you go \u2014 month-to-month (or year-to-year if you choose yearly billing). You can cancel anytime without penalty.\n\nWhat if I want to cancel?\n\nIf you decide that Userflow is not for you, you can easily cancel your account under Settings -\\> Billing.\n\nCan i remove the \"Made with Userflow\" branding?\n\nYes, when you buy a subscription you can remove \"Made with Userflow\" under Settings \u2192 Company. On the Pro plan and up you can remove it from all content. On Startup you can remove it from all content except the resource center..\n\nIs Userflow GDPR compliant?\n\nIs Userflow SOC 2 certified?\n\nYes! We're SOC 2 Type 2 certified. Read more in our [Security Overview](https://www.userflow.com/policies/security).\n\nWill my data be private and safe?\n\nYes! You and your users' data are yours and yours alone. They're safe with us. We do not, and will never, sell or share this data with anyone else. Our servers are hosted in Google Cloud Platform, and all communication with our service is encrypted. See also our [**Security Overview**](https://www.userflow.com/policies/security).\n\nHave more questions?\n\nFeature comparison\n------------------\n\nStartup\n\nPro\n\nEnterprise\n\nPrice (annual billing)\n\n$240/mo\n\n$680/mo\n\nChat with us\n\nPrice (monthly billing)\n\n$300/mo\n\n$850/mo\n\n\\-\n\n**Usage**\n\nMAUs (Monthly Active Users) included\n\n3,000\n\n10,000\n\nCustom\n\nAI assistant messages/mo included\n\n![Image 6: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n100\n\n100\n\nCustom\n\nUsage limits can be upgraded\n\n![Image 7: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 8: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 9: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n**Content**\n\nFlows\n\n![Image 10: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 11: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 12: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 13: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nChecklists\n\n![Image 14: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 15: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 16: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 17: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nLaunchers/Hotspots\n\n![Image 18: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 19: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 20: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 21: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nBanners\n\n![Image 22: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 23: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 24: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 25: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nAnnouncements\n\n![Image 26: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 27: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 28: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 29: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nSurvey/NPS questions\n\n![Image 30: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n2\n\n![Image 31: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 32: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nResource Center\n\n![Image 33: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n1\n\n![Image 34: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 35: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nWhite-labeled Resource Center\n\n![Image 36: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 37: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 38: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 39: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nFlow/checklist views\n\n![Image 40: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 41: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 42: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 43: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nNo-code Event Trackers\n\n![Image 44: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n1\n\n![Image 45: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 46: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nNo Userflow-branding\n\n![Image 47: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 48: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 49: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 50: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nCustom CSS\n\n![Image 51: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 52: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 53: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 54: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nAlerting\n\n![Image 55: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 56: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 57: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 58: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n**Team**\n\nTeam members\n\n![Image 59: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n3\n\n![Image 60: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 61: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nSingle sign-on (SSO)\n\n![Image 62: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 63: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n$200/mo\n\n![Image 64: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n**Features**\n\nEnvironments\n\n![Image 65: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n2\n\n3\n\nCustom\n\nCustom theming\n\n![Image 66: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 67: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 68: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 69: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nCustom user attributes\n\n![Image 70: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 71: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 72: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 73: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nCustom events\n\n![Image 74: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 75: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 76: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 77: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nUser profiles with activity feed\n\n![Image 78: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 79: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 80: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 81: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nAutomatic, segmented flow triggering\n\n![Image 82: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 83: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 84: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 85: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nVersion history\n\n![Image 86: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 87: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 88: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 89: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nCompany profiles and events\n\n![Image 90: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 91: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 92: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 93: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nLocalization\n\n![Image 94: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 95: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 96: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 97: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n**Integrations**\n\nREST API\n\n![Image 98: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 99: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 100: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nAPI rate limit (requests/min)\n\n500\n\n1000\n\nCustom\n\nWebhooks\n\n![Image 101: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 102: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 103: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nZapier integration\n\n![Image 104: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 105: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 106: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nMixpanel integration\n\n![Image 107: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 108: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 109: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nAmplitude integration\n\n![Image 110: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 111: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 112: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nSegment integration\n\n![Image 113: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 114: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 115: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nHubSpot integration\n\n![Image 116: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 117: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 118: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nSalesforce integration\n\n![Image 119: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 120: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 121: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n**Support & service**\n\nLive-chat and email support\n\n![Image 122: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 123: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 124: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nPriority support\n\n![Image 125: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 126: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 127: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nConcierge support\n\n![Image 128: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 129: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 130: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nNon-exhaustive list. Looking for more? [Ask us](https://www.userflow.com/pricing#)\n\nPrivacy Preference Center\n\nWhen you visit websites, they may store or retrieve data in your browser. This storage is often necessary for the basic functionality of the website. The storage may be used for marketing, analytics, and personalization of the site, such as storing your preferences. Privacy is important to us, so you have the option of disabling certain types of storage that may not be necessary for the basic functioning of the website. Blocking categories may impact your experience on the website.\n\nReject all cookies\n\nAllow all cookies\n\nManage Consent Preferences by Category\n\nEssential\n\n**Always Active**\n\nThese items are required to enable basic website functionality.\n\nMarketing\n\nEssential\n\nThese items are used to deliver advertising that is more relevant to you and your interests. They may also be used to limit the number of times you see an advertisement and measure the effectiveness of advertising campaigns. Advertising networks usually place them with the website operator\u2019s permission.\n\nPersonalization\n\nEssential\n\nThese items allow the website to remember choices you make (such as your user name, language, or the region you are in) and provide enhanced, more personal features. For example, a website may provide you with local weather reports or traffic news by storing data about your current location.\n\nAnalytics\n\nEssential\n\nThese items help the website operator understand how its website performs, how visitors interact with the site, and whether there may be technical issues. This storage type usually doesn\u2019t collect information that identifies a visitor.\n\nConfirm my preferences and close\n\nCosts less than dropping new users during onboarding. You'll save so many developer hours every month!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "userflow",
+        "app_name": "Userflow",
+        "app_slug": "userflow",
+        "pricing_url": "https://www.userflow.com/pricing",
+        "source_url": "https://www.userflow.com/pricing",
+        "all_pricing_urls": [
+          "https://www.userflow.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes subscription tiers and usage-based pricing for additional MAUs, AI messages, and team members.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Startup",
+            "tier_description": null,
+            "monthly_price": 300.0,
+            "annual_price": 240.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Flows",
+              "Checklists",
+              "Launchers/Hotspots",
+              "Banners",
+              "Announcements",
+              "Survey/NPS questions",
+              "Resource Center",
+              "White-labeled Resource Center",
+              "Flow/checklist views",
+              "No-code Event Trackers",
+              "No Userflow-branding",
+              "Custom CSS",
+              "Alerting",
+              "Team members",
+              "Single sign-on (SSO)",
+              "Environments",
+              "Custom theming",
+              "Custom user attributes",
+              "Custom events",
+              "User profiles with activity feed",
+              "Automatic, segmented flow triggering",
+              "Version history",
+              "Company profiles and events",
+              "Localization",
+              "REST API",
+              "API rate limit (requests/min)",
+              "Webhooks",
+              "Zapier integration",
+              "Mixpanel integration",
+              "Amplitude integration",
+              "Segment integration",
+              "HubSpot integration",
+              "Salesforce integration",
+              "Live-chat and email support",
+              "Priority support",
+              "Concierge support"
+            ],
+            "limits": {
+              "users": 3,
+              "storage": null,
+              "operations": null,
+              "api_calls": 500,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "MAUs",
+                  "value": 3000
+                },
+                {
+                  "name": "AI assistant messages/mo",
+                  "value": 100
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": null,
+            "monthly_price": 850.0,
+            "annual_price": 680.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Flows",
+              "Checklists",
+              "Launchers/Hotspots",
+              "Banners",
+              "Announcements",
+              "Survey/NPS questions",
+              "Resource Center",
+              "White-labeled Resource Center",
+              "Flow/checklist views",
+              "No-code Event Trackers",
+              "No Userflow-branding",
+              "Custom CSS",
+              "Alerting",
+              "Team members",
+              "Single sign-on (SSO)",
+              "Environments",
+              "Custom theming",
+              "Custom user attributes",
+              "Custom events",
+              "User profiles with activity feed",
+              "Automatic, segmented flow triggering",
+              "Version history",
+              "Company profiles and events",
+              "Localization",
+              "REST API",
+              "API rate limit (requests/min)",
+              "Webhooks",
+              "Zapier integration",
+              "Mixpanel integration",
+              "Amplitude integration",
+              "Segment integration",
+              "HubSpot integration",
+              "Salesforce integration",
+              "Live-chat and email support",
+              "Priority support",
+              "Concierge support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": 1000,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "MAUs",
+                  "value": 10000
+                },
+                {
+                  "name": "AI assistant messages/mo",
+                  "value": 100
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Flows",
+              "Checklists",
+              "Launchers/Hotspots",
+              "Banners",
+              "Announcements",
+              "Survey/NPS questions",
+              "Resource Center",
+              "White-labeled Resource Center",
+              "Flow/checklist views",
+              "No-code Event Trackers",
+              "No Userflow-branding",
+              "Custom CSS",
+              "Alerting",
+              "Team members",
+              "Single sign-on (SSO)",
+              "Environments",
+              "Custom theming",
+              "Custom user attributes",
+              "Custom events",
+              "User profiles with activity feed",
+              "Automatic, segmented flow triggering",
+              "Version history",
+              "Company profiles and events",
+              "Localization",
+              "REST API",
+              "API rate limit (requests/min)",
+              "Webhooks",
+              "Zapier integration",
+              "Mixpanel integration",
+              "Amplitude integration",
+              "Segment integration",
+              "HubSpot integration",
+              "Salesforce integration",
+              "Live-chat and email support",
+              "Priority support",
+              "Concierge support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": "custom",
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "MAUs",
+                  "value": "custom"
+                },
+                {
+                  "name": "AI assistant messages/mo",
+                  "value": "custom"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "MAUs",
+            "unit": "per 5,000 MAUs",
+            "base_price": 80.0,
+            "tiers": [
+              {
+                "min": 100001.0,
+                "max": "unlimited",
+                "price": 40.0
+              }
+            ]
+          },
+          {
+            "metric_name": "AI messages",
+            "unit": "per 500 messages",
+            "base_price": 80.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Team members",
+            "unit": "per seat",
+            "base_price": 16.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": true
+        },
+        "promotional_offers": [
+          {
+            "offer_name": "Annual Billing Discount",
+            "offer_description": "Save 20% with annual billing.",
+            "discount_percentage": 20.0,
+            "offer_url": "https://www.userflow.com/pricing",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": [
+          {
+            "fee_name": "Single Sign-On (SSO)",
+            "fee_amount": 200.0,
+            "fee_description": "Monthly fee for enabling SSO."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T02:47:10.154153",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://userflow.com/pricing?eco_features=REPORTS_ANALYTICS",
+      "is_accessible": true,
+      "content": "You'll be in great company\n--------------------------\n\n\u201cWe evaluated the top digital adoption platforms, and Userflow had the most bang for the buck. It was reasonably priced, had excellent UI, and incredibly helpful onboarding and support.\u201d\n\n![Image 1: image](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/666c2903dee7df7ba5eff57f_testimonial-1.jpg)\n\nJonathan Brink\n\nUX Lead, Streamsets\n\n\u201cUserflow is the most intuitive and well-built onboarding solution in the market. I have evaluated them all and can confidently say that you need not look beyond Userflow.\u201d\n\n![Image 2: image](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/666c290378d4ab5be9dd2f2c_testimonial-2.jpg)\n\nArpit Choudhury\n\nFounder, Data-led Academy\n\n\u201cUserflow makes it easy to iterate on onboarding experiments based on data. It's very intuitive to use and the customer service is phenomenal!\u201d\n\n![Image 3: image](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/666c29038f1a1e34efd15d94_testimonial-3.jpg)\n\nLise Lin\n\nProduct Specialist, Fleetcor\n\nTrusted by 500+ software providers\n----------------------------------\n\n![Image 4: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/666bff2dc2de63f177dc0f84_client-logo.svg)\n\n![Image 5: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/666bff2dc2de63f177dc0f84_client-logo.svg)\n\nCommon pricing questions\n------------------------\n\nWhat counts as an MAU (Monthly Active User)?\n\nA user is considered active if they visit your app where Userflow is installed within the last 1 month. This count is a rolling window, not fixed to specific calendar months. For example, if today is the 15th of April, we're looking at user activity from the 16th of March to today. So, if you have 10,000 users in your database and 6,000 of them signed into your app in the past 1 month, then you have 6,000 MAUs.\n\nIn rare cases, where your users average more than 1,000 events each (less than 1% of our customers reach this), MAUs will be calculated as the total number of events divided by 1,000.\n\nYou can add additional bundles of 5,000 MAUs at $80/month on annual billing or $100/mo on monthly billing. Additional MAU bundles above 100,000 MAUs are discounted by 50%.\n\nWhat counts as an AI message\n\nAI Assistant delivers automated answers to your users' questions within your app, leveraging your knowledge base and website, and powered by OpenAI's GPT-4.\n\nEach question/answer pair counts as a \"message\" in a given month. Each plan comes with a number of AI messages per month included.\n\nYou can add additional bundles of 500 AI messages/mo at $80/month on annual billing or $100/mo on monthly billing.\n\nWhat counts as team member?\n\nA team member is a person with access to your Userflow account. They can build flows, analyze users and manage settings. Example: If you have 3 team members, you can invite 2 other users to join you.\n\nAdditional team members cost $16/mo per seat on annual billing and $20/mo per seat on monthly billing. The Pro and Enterprise plans comes with unlimited team members.\n\nHow many views can my flows and checklists get?\n\nUnlimited!\n\nWhat happens if I exceed my plan's limits?\n\nIf you exceed the number of MAUs or AI messages that's included in your plans, you will be automatically upgraded with the additional bundles fitting to your level. The owner of the account will receive an email notification when this happens.\n\nCan I pay yearly?\n\nYes! Just choose yearly billing when entering your card details after your 14-day trial expires. You'll save 20%.\n\nWhat kind of support do you offer?\n\nYour experience is the most important thing to us! We promise expert-level support via email, live-chat and occasional video/phone. We answer questions very fast (usually within hours or minutes during business hours), and never hesitate getting into the machinery to help you.\n\nCan I upgrade or downgrade my plan?\n\nYes, you can upgrade or downgrade at any time, as long as you don't exceed the new plan's limits.\n\nDo I have to sign a long-term contract?\n\nNo. You just pay as you go \u2014 month-to-month (or year-to-year if you choose yearly billing). You can cancel anytime without penalty.\n\nWhat if I want to cancel?\n\nIf you decide that Userflow is not for you, you can easily cancel your account under Settings -\\> Billing.\n\nCan i remove the \"Made with Userflow\" branding?\n\nYes, when you buy a subscription you can remove \"Made with Userflow\" under Settings \u2192 Company. On the Pro plan and up you can remove it from all content. On Startup you can remove it from all content except the resource center..\n\nIs Userflow GDPR compliant?\n\nIs Userflow SOC 2 certified?\n\nYes! We're SOC 2 Type 2 certified. Read more in our [Security Overview](https://www.userflow.com/policies/security).\n\nWill my data be private and safe?\n\nYes! You and your users' data are yours and yours alone. They're safe with us. We do not, and will never, sell or share this data with anyone else. Our servers are hosted in Google Cloud Platform, and all communication with our service is encrypted. See also our [**Security Overview**](https://www.userflow.com/policies/security).\n\nHave more questions?\n\nFeature comparison\n------------------\n\nStartup\n\nPro\n\nEnterprise\n\nPrice (annual billing)\n\n$240/mo\n\n$680/mo\n\nChat with us\n\nPrice (monthly billing)\n\n$300/mo\n\n$850/mo\n\n\\-\n\n**Usage**\n\nMAUs (Monthly Active Users) included\n\n3,000\n\n10,000\n\nCustom\n\nAI assistant messages/mo included\n\n![Image 6: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n100\n\n100\n\nCustom\n\nUsage limits can be upgraded\n\n![Image 7: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 8: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 9: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n**Content**\n\nFlows\n\n![Image 10: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 11: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 12: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 13: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nChecklists\n\n![Image 14: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 15: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 16: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 17: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nLaunchers/Hotspots\n\n![Image 18: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 19: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 20: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 21: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nBanners\n\n![Image 22: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 23: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 24: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 25: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nAnnouncements\n\n![Image 26: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 27: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 28: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 29: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nSurvey/NPS questions\n\n![Image 30: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n2\n\n![Image 31: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 32: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nResource Center\n\n![Image 33: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n1\n\n![Image 34: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 35: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nWhite-labeled Resource Center\n\n![Image 36: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 37: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 38: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 39: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nFlow/checklist views\n\n![Image 40: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 41: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 42: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 43: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nNo-code Event Trackers\n\n![Image 44: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n1\n\n![Image 45: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 46: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nNo Userflow-branding\n\n![Image 47: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 48: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 49: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 50: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nCustom CSS\n\n![Image 51: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 52: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 53: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 54: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nAlerting\n\n![Image 55: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 56: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 57: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 58: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n**Team**\n\nTeam members\n\n![Image 59: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n3\n\n![Image 60: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\n![Image 61: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3662f520341fd6873_pricing-table-icon-2.svg)\n\nSingle sign-on (SSO)\n\n![Image 62: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 63: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n$200/mo\n\n![Image 64: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n**Features**\n\nEnvironments\n\n![Image 65: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n2\n\n3\n\nCustom\n\nCustom theming\n\n![Image 66: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 67: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 68: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 69: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nCustom user attributes\n\n![Image 70: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 71: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 72: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 73: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nCustom events\n\n![Image 74: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 75: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 76: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 77: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nUser profiles with activity feed\n\n![Image 78: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 79: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 80: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 81: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nAutomatic, segmented flow triggering\n\n![Image 82: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 83: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 84: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 85: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nVersion history\n\n![Image 86: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 87: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 88: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 89: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nCompany profiles and events\n\n![Image 90: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 91: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 92: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 93: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nLocalization\n\n![Image 94: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671bb1eda3c8f453b0e2cbd_pricing-table-icon-4.svg)\n\n![Image 95: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 96: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 97: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n**Integrations**\n\nREST API\n\n![Image 98: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 99: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 100: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nAPI rate limit (requests/min)\n\n500\n\n1000\n\nCustom\n\nWebhooks\n\n![Image 101: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 102: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 103: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nZapier integration\n\n![Image 104: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 105: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 106: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nMixpanel integration\n\n![Image 107: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 108: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 109: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nAmplitude integration\n\n![Image 110: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 111: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 112: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nSegment integration\n\n![Image 113: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 114: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 115: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nHubSpot integration\n\n![Image 116: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 117: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 118: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nSalesforce integration\n\n![Image 119: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 120: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 121: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n**Support & service**\n\nLive-chat and email support\n\n![Image 122: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 123: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 124: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nPriority support\n\n![Image 125: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 126: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\n![Image 127: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nConcierge support\n\n![Image 128: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 129: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b8d3e6b472f69b39c1c2_pricing-table-icon-3.svg)\n\n![Image 130: icon](https://cdn.prod.website-files.com/666bc9172254723eadc4af82/6671b461f213e30559ef63b6_pricing-table-tick.svg)\n\nNon-exhaustive list. Looking for more? [Ask us](https://userflow.com/pricing?eco_features=REPORTS_ANALYTICS#)\n\nCosts less than dropping new users during onboarding. You'll save so many developer hours every month!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "userflow",
+        "app_name": "Userflow",
+        "app_slug": "userflow",
+        "pricing_url": "https://userflow.com/pricing",
+        "source_url": "https://userflow.com/pricing",
+        "all_pricing_urls": [
+          "https://userflow.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes subscription tiers with additional usage-based costs for MAUs, AI messages, and team members.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Startup",
+            "tier_description": null,
+            "monthly_price": 300.0,
+            "annual_price": 240.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Flows",
+              "Checklists",
+              "Launchers/Hotspots",
+              "Banners",
+              "Announcements",
+              "Survey/NPS questions",
+              "Resource Center",
+              "White-labeled Resource Center",
+              "Flow/checklist views",
+              "No-code Event Trackers",
+              "No Userflow-branding",
+              "Custom CSS",
+              "Alerting",
+              "Team members",
+              "Single sign-on (SSO)",
+              "Environments",
+              "Custom theming",
+              "Custom user attributes",
+              "Custom events",
+              "User profiles with activity feed",
+              "Automatic, segmented flow triggering",
+              "Version history",
+              "Company profiles and events",
+              "Localization",
+              "REST API",
+              "API rate limit (requests/min)",
+              "Webhooks",
+              "Zapier integration",
+              "Mixpanel integration",
+              "Amplitude integration",
+              "Segment integration",
+              "HubSpot integration",
+              "Salesforce integration",
+              "Live-chat and email support"
+            ],
+            "limits": {
+              "users": 3,
+              "storage": null,
+              "operations": null,
+              "api_calls": 500,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "MAUs",
+                  "value": 3000
+                },
+                {
+                  "name": "AI assistant messages/mo",
+                  "value": 100
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": null,
+            "monthly_price": 850.0,
+            "annual_price": 680.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Flows",
+              "Checklists",
+              "Launchers/Hotspots",
+              "Banners",
+              "Announcements",
+              "Survey/NPS questions",
+              "Resource Center",
+              "White-labeled Resource Center",
+              "Flow/checklist views",
+              "No-code Event Trackers",
+              "No Userflow-branding",
+              "Custom CSS",
+              "Alerting",
+              "Team members",
+              "Single sign-on (SSO)",
+              "Environments",
+              "Custom theming",
+              "Custom user attributes",
+              "Custom events",
+              "User profiles with activity feed",
+              "Automatic, segmented flow triggering",
+              "Version history",
+              "Company profiles and events",
+              "Localization",
+              "REST API",
+              "API rate limit (requests/min)",
+              "Webhooks",
+              "Zapier integration",
+              "Mixpanel integration",
+              "Amplitude integration",
+              "Segment integration",
+              "HubSpot integration",
+              "Salesforce integration",
+              "Live-chat and email support",
+              "Priority support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": 1000,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "MAUs",
+                  "value": 10000
+                },
+                {
+                  "name": "AI assistant messages/mo",
+                  "value": 100
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Flows",
+              "Checklists",
+              "Launchers/Hotspots",
+              "Banners",
+              "Announcements",
+              "Survey/NPS questions",
+              "Resource Center",
+              "White-labeled Resource Center",
+              "Flow/checklist views",
+              "No-code Event Trackers",
+              "No Userflow-branding",
+              "Custom CSS",
+              "Alerting",
+              "Team members",
+              "Single sign-on (SSO)",
+              "Environments",
+              "Custom theming",
+              "Custom user attributes",
+              "Custom events",
+              "User profiles with activity feed",
+              "Automatic, segmented flow triggering",
+              "Version history",
+              "Company profiles and events",
+              "Localization",
+              "REST API",
+              "API rate limit (requests/min)",
+              "Webhooks",
+              "Zapier integration",
+              "Mixpanel integration",
+              "Amplitude integration",
+              "Segment integration",
+              "HubSpot integration",
+              "Salesforce integration",
+              "Live-chat and email support",
+              "Priority support",
+              "Concierge support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": "custom",
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "MAUs",
+                  "value": "custom"
+                },
+                {
+                  "name": "AI assistant messages/mo",
+                  "value": "custom"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "MAUs",
+            "unit": "per 5,000 MAUs",
+            "base_price": 80.0,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": 100000.0,
+                "price": 80.0
+              },
+              {
+                "min": 100001.0,
+                "max": "unlimited",
+                "price": 40.0
+              }
+            ]
+          },
+          {
+            "metric_name": "AI messages",
+            "unit": "per 500 messages",
+            "base_price": 80.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Team members",
+            "unit": "per seat",
+            "base_price": 16.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": true
+        },
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T02:47:30.505357",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\userflow\\20250415_024731"
+}

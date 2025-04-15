@@ -1,0 +1,53 @@
+{
+  "app_name": "Crunchbase",
+  "app_slug": "crunchbase",
+  "search_term": "Find the official pricing page URL for Crunchbase (crunchbase.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744714101.3694646,
+  "response_text": [
+    "The official pricing page for Crunchbase is located at [https://www.crunchbase.com/solutions/pricing](https://www.crunchbase.com/solutions/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Product Pricing - Crunchbase",
+      "url": "https://www.crunchbase.com/buy/select-product"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.crunchbase.com/solutions/pricing",
+      "is_accessible": true,
+      "content": "![Image 1: Icon for www.crunchbase.com](https://www.crunchbase.com/favicon.ico)www.crunchbase.com\n-------------------------------------------------------------------------------------------------\n\nVerify you are human by completing the action below.\n\nwww.crunchbase.com needs to review the security of your connection before proceeding.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "crunchbase",
+        "app_name": "Crunchbase",
+        "app_slug": "crunchbase",
+        "pricing_url": "https://www.crunchbase.com",
+        "source_url": "https://www.crunchbase.com",
+        "all_pricing_urls": [
+          "https://www.crunchbase.com"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page was not accessible due to a security verification step.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T06:48:34.437142",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\crunchbase\\20250415_064834"
+}

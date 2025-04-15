@@ -1,0 +1,97 @@
+{
+  "app_id": "hnry",
+  "app_name": "Hnry",
+  "app_slug": "hnry",
+  "pricing_url": "https://hnry.co.nz/pricing",
+  "source_url": "https://hnry.com/pricing/",
+  "all_pricing_urls": [
+    "https://hnry.co.nz/pricing"
+  ],
+  "price_model_type": [
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "NZD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Hnry charges a percentage of income with a yearly cap, offering a pay-as-you-earn model.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Pay-as-you-earn model for self-employed individuals.",
+      "monthly_price": null,
+      "annual_price": 1500.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Taxes calculated and paid automatically as you earn",
+        "Support from expert accountants",
+        "Tax returns filed (incl. GST)",
+        "Unlimited invoices and quotes",
+        "Automatic transaction reconciliation",
+        "Accept credit card payments",
+        "Automatic mileage expense tracking"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Minimum payment fee",
+            "value": "$0.50 + GST for payments under $50"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Self-employed income",
+      "unit": "percentage",
+      "base_price": 1.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 1.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "GST",
+      "fee_amount": null,
+      "fee_description": "Goods and Services Tax applied to all charges."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:52:30.094568",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3206ba0c-46af-4747-b7e3-bdb2804cf5b9",
+    "name": "Hnry",
+    "slug": "hnry",
+    "description": "Hnry is a service for contractors, freelancers, sole traders, and self-employed individuals that takes away all the hassle of tax and compliance as well as providing you with the necessary tools to manage any additional financial admin.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/4d28fe6271e64eb97d74c10a368517b7_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 7,
+    "trigger_count": 0
+  }
+}

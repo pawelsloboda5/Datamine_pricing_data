@@ -1,0 +1,45 @@
+{
+  "app_id": "beacon",
+  "app_name": "Beacon",
+  "app_slug": "beacon",
+  "pricing_url": "https://www.beacon.com/pricing",
+  "source_url": "https://www.beacon.com/pricing",
+  "all_pricing_urls": [
+    "https://www.beacon.com/pricing"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The provided content does not include specific pricing details for Beacon.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:07:42.812269",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "ead52767-23d7-47d4-a1e6-297521751395",
+    "name": "Beacon",
+    "slug": "beacon",
+    "description": "Beacon is the modern CRM for charities. It's easy to use, cloud-based, and flexible enough for anything.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c30cbfa8d0ed4e270fc801f9fde03908.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 5,
+    "trigger_count": 0
+  }
+}

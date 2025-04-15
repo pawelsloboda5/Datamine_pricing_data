@@ -1,0 +1,243 @@
+{
+  "app_name": "Netlify",
+  "app_slug": "netlify",
+  "search_term": "Find the official pricing page URL for Netlify (netlify.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744708269.7231638,
+  "response_text": [
+    "The official pricing page for Netlify can be found at: [https://www.netlify.com/pricing/](https://www.netlify.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing and Plans - Netlify",
+      "url": "https://www.netlify.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.netlify.com/pricing/",
+      "is_accessible": true,
+      "content": "*   Free & Starter\n    --------------\n    \n    Single-member plans for personal projects, prototypes, or getting started.\n    \n    Highlighted features:\n    \n    *   Single member seat\n        \n    *   Global edge network\n        \n    *   Live site previews with collaboration UI\n        \n    *   100GB bandwidth\n        \n    *   300 build minutes\n        \n    *   Instant rollbacks\n        \n    *   Secrets controller\n        \n    *   Static assets\n        \n    *   Dynamic serverless functions\n        \n    \n    Add-ons for Starter:\n    \n    *   Additional bandwidth\n        \n    *   Additional build minutes\n        \n    *   Additional function invocation\n        \n    *   Analytics\n        \n    \n*   Pro\n    ---\n    \n    Team collaboration for professional web projects.\n    \n    Everything in Starter, plus:\n    \n    *   Background functions\n        \n    *   Password-protected sites\n        \n    *   1TB bandwidth\n        \n    *   25,000 build minutes\n        \n    *   Team audit logs with 7-day history\n        \n    *   Shared environment variables\n        \n    *   Support for organization-owned private Git repos\n        \n    *   Slack & email notifications\n        \n    *   Email support\n        \n    \n    Add-ons:\n    \n    *   Additional member seats\n        \n    *   Additional bandwidth\n        \n    *   Additional build minutes\n        \n    *   Additional function invocation\n        \n    *   Analytics\n        \n    \n*   Enterprise\n    ----------\n    \n    Control, compliance, and support for large scale organizations\n    \n    Everything in Pro, plus:\n    \n    *   Secrets controller\n        \n    *   Security features\n        \n    *   Org-level SSO and SCIM\n        \n    *   Organization management\n        \n    *   Custom billing\n        \n    *   New sites from org-wide themes and components\n        \n    \n\n[See full feature comparison](https://www.netlify.com/pricing/#pricing-table)\n\nFast, dynamic web experiences powered by the Netlify platform\n-------------------------------------------------------------\n\nNetlify Feature List\n--------------------\n\n| \nFeatures on\n\nPro\n\n### View a plan\n\n### Jump to a topic\n\n*   [Scale as you grow](https://www.netlify.com/pricing/#scale-as-you-grow)\n*   [Build sites faster](https://www.netlify.com/pricing/#build-sites-faster)\n*   [Deploy & host instantly](https://www.netlify.com/pricing/#deploy-and-host-instantly)\n*   [Develop locally](https://www.netlify.com/pricing/#develop-locally)\n*   [Collaborate across larger teams](https://www.netlify.com/pricing/#collaborate-across-larger-teams)\n*   [Manage users & teams more securely](https://www.netlify.com/pricing/#manage-users-and-teams-more-securely)\n*   [Security & Compliance](https://www.netlify.com/pricing/#security-and-compliance)\n*   [Get support](https://www.netlify.com/pricing/#get-support)\n\n\n\n\n\n\n\n |\n| --- |\n|  | Free & Starter Free with fixed limits, or $0 / month and pay as you go [Start for free](https://app.netlify.com/signup)\n\n | Pro $19/month per member [Buy now](https://app.netlify.com/?upgrade_pro=true)\n\n | \n\nEnterprise Custom pricing [Contact Sales](https://www.netlify.com/enterprise/contact/?attr=pricing)\n\n\n\n |\n| --- | --- | --- | --- |\n| Scale as you grow | Scale as you grow |\n| Members\n\nTrigger deploys on Netlify or log into the Netlify platform UI. Sites connected to public repos will not have membership requirements for deploys.\n\n | \n\nLimited to 1 free member, with free & unlimited [Git Contributors](https://docs.netlify.com/accounts-and-billing/team-management/team-member-roles/#git-contributors)\n\n\n\n | \n\n$19 /month per member,  \nincluding active [Git Contributors](https://docs.netlify.com/accounts-and-billing/team-management/team-member-roles/#git-contributors)\n\n\n\n | Custom\n\n |\n| Reviewers\n\nProvide feedback with collaborative Deploy Previews.\n\n | Unlimited\n\n | Unlimited\n\n | Unlimited\n\n |\n| Concurrent builds\n\nRun more than one build at the same time so that new commits to a project are built even if existing builds aren\u2019t yet finished.\n\n | 1\n\n | 3  \n(then $40 each)\n\n | Custom\n\n |\n| Bandwidth | 100GB /month  \n(Starter only: then $55 per 100GB)\n\n | 1TB /month  \n(then $55 per 100GB)\n\n | Custom\n\n |\n| Build minutes\n\nThe time it takes Netlify to build your site \u2014 to run site generators, compile JavaScript, and perform other tasks.\n\n | 300 minutes /month  \n(Starter only: then $7 per 500)\n\n | 25k minutes /month  \n(then $7 per 500)\n\n | Custom\n\n |\n| Websites\n\nThe number of your websites that Netlify will support with a single workflow for hosting, continuous integration, and deployment pipeline.\n\n | 500 sites\n\n | 500 sites\n\n | Custom\n\n |\n| Serverless functions Invocations\n\nDeploy serverless functions directly within Netlify. They\u2019re version-controlled, built, and deployed along with the rest of your Netlify site.\n\n | 125k per site /month  \n(Starter only: $25+ when exceeded)\n\n | 125k per site /month  \n($25+ when exceeded)\n\n | Custom\n\n |\n| Edge Functions Invocations\n\nRun JavaScript in a dedicated runtime in the Netlify Edge.\n\n | 1M /month  \n(Starter only: $2/m when exceeded)\n\n | 2M /month  \n($2/m when exceeded)\n\n | Custom\n\n |\n| Forms Submissions\n\nAdd a simple attribute to any HTML form to start receiving submissions in your Netlify site admin panel, without JavaScript or any backend coding.\n\n | 100 per site /month  \n(Starter only: $19+ when exceeded)\n\n | 100 per site /month  \n($19+ when exceeded)\n\n | Custom\n\n |\n| Site Analytics\n\nData captured directly from our servers, presented simply and beautifully.\n\n | $9 per site /month  \n(Available for Starter only)\n\n | $9 per site /month\n\n | Custom\n\n |\n| Real User Metrics\n\nUnderstand site performance based on user-centric Web Vitals that rely on real user interactions with your production site.\n\n |  | 7-day history\n\n | Custom\n\n |\n| Log Drains\n\nExport site traffic, function, and edge function logs from Netlify\u2019s CDN to third-party monitoring services for analysis, alerting, and data persistence.\n\n |  |  | Unlimited\n\n |\n| Fortified bandwidth Advanced web security + Dedicated network\n\nEnhanced performance and comprehensive security with Rate Limiting, Traffic Rules, DDoS protection and Managed Rulesets\n\n |  |  | (Add-on)\n\n |\n| Build sites faster | Build sites faster |\n| Visual editor\n\nAutonomously perform content and website updates faster than ever before with an intuitive visual editor\n\n |  |  |  |\n| One-click rollbacks\n\nInstantly roll back your production environment to a previous version of your site.\n\n |  |  |  |\n| Extensions\n\nAdd powerful capabilities to every build. Click to install from a catalog of community extensions or create your own.\n\n |  |  |  |\n| Preview Servers\n\nCloud-hosted development environment for instant changes without rebuilds.\n\n | 1  \n(Starter only: then $15 each)\n\n | 1  \n(then $15 each)\n\n | Custom\n\n |\n| Scope environment variables per deploy context\n\nCustomize environment variables for different deploy contexts, i.e. staging vs. production.\n\n |  |  |  |\n| Scope environment variables per feature\n\nLimit where environment variables can be used, such as builds, functions, or post processing.\n\n |  |  |  |\n| Shared environment variables\n\nSet team-level variables that are shared by all sites owned by the team. These can be overridden by settings at the site level.\n\n |  |  |  |\n| Lighthouse scores on deploys list\n\nEasily compare Lighthouse scores for each deploy on the deploys list in the Netlify UI.\n\n |  |  |  |\n| Custom deployment options for functions\n\nIncrease execution limits, increase memory, or set a custom AWS region.\n\n |  |  |  |\n| Background Functions\n\nExecute long-running asynchronous functions for up to 15 minutes.\n\n |  |  |  |\n| Slack & email deploy notifications\n\nNotify a Slack channel or send an email when a deploy succeeds, fails, or hits other milestones. This is in addition to webhook, Zapier, & Git notifications available on all plans.\n\n |  |  |  |\n| Priority build environment\n\n5x faster processing power (10vCPUs), 6x more memory (36GB), and 4x higher concurrency than the standard build environment.\n\n |  |  |  |\n| Deploy & host instantly | Deploy & host instantly |\n| Global edge deployments\n\nGlobally distributed CDN designed for fast, low latency Jamstack sites and web apps.\n\n |  |  |  |\n| Instant cache invalidation\n\nOnce a build is uploaded for your website or web app, the changes in the build are instantly pushed to our global CDN and go live immediately.\n\n |  |  |  |\n| Visitor access control\n\nSet granular access to your site, or to specific pages. We use JSON Web Tokens (JWT), roles, and redirect rules to grant access to those sections. And it all happens at the CDN level.\n\n |  |  |  |\n| 99.99% uptime SLA |  |  |  |\n| Develop locally | Develop locally |\n| Netlify CLI & dev server\n\nDeploy sites and configure continuous deployment from the command line on your local machine.\n\n |  |  |  |\n| Collaborate across larger teams | Collaborate across larger teams |\n| Netlify SDK\n\nImprove developer productivity with streamlined integrations, gain the flexibility you need to build a composable architecture that scales, and accelerate your time-to-market.\n\n |  |  |  |\n| Branch and pull request previews\n\nDeploy a live preview of your site, enable reviewers to leave high-quality, visual feedback, and sync feedback to the pull request and productivity tools.\n\n |  |  |  |\n| Team management\n\nSet up teams of Netlify users to collaborate on specific sites. Each Netlify user can be a member of multiple teams.\n\n |  |  |  |\n| Two-factor authentication (2FA)\n\nUse one time passwords from your favorite authentication apps to secure access to your Netlify account.\n\n |  |  |  |\n| Netlify access control\n\nSet roles and permissions for every member of your team, what sites they can access and what they can do.\n\n |  |  |  |\n| Multiple owners\n\nGive more people the ability to add team members, set user permissions, transfer sites, and more.\n\n |  |  |  |\n| Audit logs\n\nA log of Netlify actions made by members of your team so you can keep track of what changes were made, when, and by whom.\n\n |  | 7-day history\n\n | Full history\n\n |\n| Deploy retention policy\n\nPreserve deploys older than 90 days for reference or one-click rollbacks.\n\n |  |  | Retention policies up to 365 days\n\n |\n| SAML single sign-on\n\nIntegrate your existing SSO provider to authenticate users to the Netlify UI.\n\n |  |  |  |\n| Billing Admin role |  |  |  |\n| Manage users & teams more securely | Manage users & teams more securely |\n| Org-level SSO\n\nEnable SAML to be implemented only once across all teams.\n\n |  |  | (Add-on)\n\n |\n| SCIM\n\nEmpower Netlify admins to automatically provision access and assign permissions in buckets in a secure environment.\n\n |  |  | (Add-on)\n\n |\n| Site-level access control\n\nProvision custom permission settings for each user.\n\n |  |  | (Add-on)\n\n |\n| Self-serve team creation\n\nProvide complete autonomy for creating, deleting, editing, and managing teams.\n\n |  |  | (Add-on)\n\n |\n| Security & Compliance | Security & Compliance |\n| Functions log retention\n\nLogs to help you observe and troubleshoot serverless functions.\n\n | 24-hour history\n\n | 7-day history\n\n | Full history\n\n |\n| Edge Functions log retention\n\nLogs to help you observe and troubleshoot edge functions.\n\n | 24-hour history\n\n | 7-day history\n\n | 7-day history\n\n |\n| Secrets controller\n\nEnvironment variable values can be marked as secret, applying a strict access policy to them and enabling sophisticated secrets scanning of code and build output.\n\n |  |  |  |\n| Support for organization-owned private repositories\n\nConnect Netlify to your private GitHub repositories owned by organization accounts.\n\n |  |  |  |\n| Password-protected websites\n\nSite-wide protection, where only visitors with a valid password have access.\n\n |  |  |  |\n| Basic authentication headers\n\nUse custom HTTP headers to password protect paths of your site or specific branch previews.\n\n |  |  |  |\n| Web application firewall\n\nShield your applications from malicious traffic with an intelligent WAF managed by Netlify that automatically blocks common attack patterns, SQL injections, and zero-day vulnerabilities.\n\n |  |  |  |\n| Rate limiting\n\nMaintain control over your traffic with customizable rate limiting rules that automatically detect and manage excessive requests, ensuring reliable performance and protection against denial of service attempts.\n\n |  |  |  |\n| HIPAA\n\nEnsure data security, privacy and regulatory adherence with Netlify's HIPAA compliant service offering.\n\n |  |  | (Add-on)\n\n |\n| SOC 2\n\nDeploy with confidence on Netlify's SOC 2 certified platform, providing independently audited security controls for your build processes, deployments, and hosting infrastructure.\n\n |  |  |  |\n| Security scorecard\n\nImprove your team\u2019s security and reduce your vulnerabilities with actionable insights on using Netlify and applying security best practices.\n\n |  |  |  |\n| Support for GitHub Enterprise Server or self-managed GitLab and Bitbucket\n\nConnect Netlify to your publicly accessible repositories in GitHub Enterprise Server or self-managed GitLab, or connect to private repositories in Bitbucket Data Center and Server.\n\n |  |  |  |\n| Password-protected private deploys\n\nNon-production deploy password protection (including deploy previews and branch deploys), where only visitors with a valid password have access.\n\n |  |  |  |\n| Team login-protected sites and deploys\n\nSite-wide or non-production deploy protection, where only visitors within your Netlify team have access (including SSO authentication).\n\n |  |  |  |\n| Private connectivity\n\nEnsure secure network connectivity while accessing Netlify\u2019s full suite of features\n\n |  |  | (Add-on)\n\n |\n| Get support | Get support |\n| Community forum\n\nGet questions answered quickly from our Netlify-staffed and community-supported forum and knowledge base.\n\n |  |  |  |\n| Email technical support\n\nGet help directly from the Netlify team.\n\n |  |  |  |\n| 24\u00d77\u00d7365 support with SLA\n\nProduction support, with anytime access to the Netlify support engineers who can help resolve issues and answer questions quickly.\n\n |  |  |  |\n\nFAQ\n---\n\nWhat happens when a Free site reaches its limits?\n\nWhen a site reaches its monthly usage limits, it enters a suspended state until the first of the next month. We\u2019ll notify you by email as you approach your limits at 50%, 75%, 90%, and 100% of usage. Please note that if one site exceeds its limits, all sites on your Free account will be suspended.\n\nYou can re-enable your sites at any time by upgrading your plan. Your sites will automatically resume normal operation after upgrading.\n\nHow does team membership affect billing?\n\nThe team Owner is billed based on the number of active members, your team plan\u2019s member limit, and your team\u2019s usage. Teams will not be charged for Reviewers.\n\nNetlify will send a notification email to Team Owners when teams approach the member limit for their current team plan.\n\nYour team will be charged for Git Contributors if you are on a Netlify Pro or Netlify Enterprise plan.\n\nVisit our documentation on [deploy permissions](https://docs.netlify.com/site-deploys/overview/#deploy-permissions) for more information.\n\nHow does billing work for metered features and extra usage packages?\n\nMetered features are priced based on your usage. When a site\u2019s usage of a metered feature reaches the limit of the current level, it triggers an automatic upgrade to the next level, or purchase of an extra usage package.\n\nWith metered features, some usage thresholds trigger an automatic upgrade to the next level, and others trigger purchase of an extra usage package.\n\nExtra usage packages increase your allowance for all metered features in the package \u2014 including ones that are still below their limit.\n\nFor more information on usage, visit our [Billing docs](https://docs.netlify.com/accounts-and-billing/billing/).\n\nCan I pay for my Pro plan annually?\n\nNo, only Netlify Enterprise plans come with an annual payment option.\n\nCan I pay with PayPal, wire transfer, crypto, or any method other than credit card?\n\nNetlify only accepts credit cards unless you have a Netlify Enterprise plan, in which case we do accept payment via ACH or wire transfer.\n\nCan I set a limit of metered features and have it shut off when the limit is reached?\n\nWhile you can\u2019t set custom usage caps, Free plan sites automatically pause if they exceed monthly limits, ensuring you never receive unexpected charges. We\u2019ll send email notifications at 50%, 75%, 90%, and 100% of your usage to help you track consumption.\n\nIf I choose to downgrade from one Netlify plan to another, how and when does the downgrade go into effect?\n\nWhen making a downgrade from one Netlify plan to another, the downgrade goes into effect immediately and will be reflected in your next billing cycle.\n\nFind the right Netlify platform plan to fit your business needs. Our plans include value for developers and enterprise teams alike.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "netlify",
+        "app_name": "Netlify",
+        "app_slug": "netlify",
+        "pricing_url": "https://www.netlify.com/pricing/",
+        "source_url": "https://www.netlify.com/pricing/",
+        "all_pricing_urls": [
+          "https://www.netlify.com/pricing/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Netlify offers a free tier with fixed limits and usage-based pricing for additional resources. Enterprise plans are custom-priced.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free & Starter",
+            "tier_description": "Single-member plans for personal projects, prototypes, or getting started.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Single member seat",
+              "Global edge network",
+              "Live site previews with collaboration UI",
+              "100GB bandwidth",
+              "300 build minutes",
+              "Instant rollbacks",
+              "Secrets controller",
+              "Static assets",
+              "Dynamic serverless functions"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Bandwidth",
+                  "value": "100GB/month"
+                },
+                {
+                  "name": "Build minutes",
+                  "value": "300 minutes/month"
+                },
+                {
+                  "name": "Serverless functions invocations",
+                  "value": "125k per site/month"
+                },
+                {
+                  "name": "Edge functions invocations",
+                  "value": "1M/month"
+                },
+                {
+                  "name": "Forms submissions",
+                  "value": "100 per site/month"
+                },
+                {
+                  "name": "Websites",
+                  "value": 500
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Team collaboration for professional web projects.",
+            "monthly_price": 19.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Background functions",
+              "Password-protected sites",
+              "1TB bandwidth",
+              "25,000 build minutes",
+              "Team audit logs with 7-day history",
+              "Shared environment variables",
+              "Support for organization-owned private Git repos",
+              "Slack & email notifications",
+              "Email support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Bandwidth",
+                  "value": "1TB/month"
+                },
+                {
+                  "name": "Build minutes",
+                  "value": "25k minutes/month"
+                },
+                {
+                  "name": "Serverless functions invocations",
+                  "value": "125k per site/month"
+                },
+                {
+                  "name": "Edge functions invocations",
+                  "value": "2M/month"
+                },
+                {
+                  "name": "Forms submissions",
+                  "value": "100 per site/month"
+                },
+                {
+                  "name": "Websites",
+                  "value": 500
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Control, compliance, and support for large scale organizations.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Secrets controller",
+              "Security features",
+              "Org-level SSO and SCIM",
+              "Organization management",
+              "Custom billing",
+              "New sites from org-wide themes and components"
+            ],
+            "limits": {
+              "users": "custom",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Bandwidth",
+                  "value": "custom"
+                },
+                {
+                  "name": "Build minutes",
+                  "value": "custom"
+                },
+                {
+                  "name": "Serverless functions invocations",
+                  "value": "custom"
+                },
+                {
+                  "name": "Edge functions invocations",
+                  "value": "custom"
+                },
+                {
+                  "name": "Forms submissions",
+                  "value": "custom"
+                },
+                {
+                  "name": "Websites",
+                  "value": "custom"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Bandwidth",
+            "unit": "per 100GB",
+            "base_price": 55.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Build minutes",
+            "unit": "per 500 minutes",
+            "base_price": 7.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Serverless functions invocations",
+            "unit": "per invocation",
+            "base_price": 25.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Edge functions invocations",
+            "unit": "per invocation",
+            "base_price": 2.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Forms submissions",
+            "unit": "per submission",
+            "base_price": 19.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T05:11:24.671616",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\netlify\\20250415_051125"
+}

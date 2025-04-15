@@ -1,0 +1,47 @@
+{
+  "app_id": "feathery",
+  "app_name": "Feathery",
+  "app_slug": "feathery",
+  "pricing_url": "https://feathery.com/pricing",
+  "source_url": "https://feathery.com/pricing\u30103:0\u2020source\u3011.",
+  "all_pricing_urls": [
+    "https://feathery.com/pricing"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page returned a 404 error, indicating that detailed pricing information is not currently accessible.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:01:57.895337",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "237da450-f4e7-42ca-b033-f25a2863c2a0",
+    "name": "Feathery",
+    "slug": "feathery",
+    "description": "Feathery is a powerful form builder for product teams.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/bdfeb1046287009062266c02ba778ef5.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools",
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "ai-tools",
+      "forms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

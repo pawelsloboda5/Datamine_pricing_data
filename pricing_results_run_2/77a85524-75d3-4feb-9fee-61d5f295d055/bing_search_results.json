@@ -1,0 +1,59 @@
+{
+  "app_name": "Chargify",
+  "app_slug": "chargify",
+  "search_term": "Find the official pricing page URL for Chargify (chargify.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744698826.1510093,
+  "response_text": [
+    "I couldn't locate an official pricing page for Chargify. You might need to check directly on their [website](https://www.chargify.com/) or contact their sales team for precise information."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.chargify.com/",
+      "is_accessible": true,
+      "content": "We rebranded!\n\nYour favorite subscription billing platform just upgraded! It\u2019s everything you loved about Chargify, now with expanded reporting, revenue recognition, and subscription management.\n\nMaxio is the billing and financial operations platform built to meet the evolving needs of fast-growth B2B SaaS.\n\n[Take a Tour](https://www.maxio.com/tour-center)\n\n![Image 1](https://www.maxio.com/wp-content/uploads/2024/05/blank.webp)\n\nSubscription billing for any product catalog\n--------------------------------------------\n\nCreate any billing scenario in minutes. Quickly customize offers without cluttering your product catalog.\n\n![Image 2](https://www.maxio.com/wp-content/uploads/2024/05/product-catalog-plans.png)\n\nStart by defining the base plans your customers will subscribe to, including price, recurrence, taxation, and an optional trial period.\n\nDiversify revenue with line items which can be added to a product as needed, such as add-ons, upsells, and [usage-based pricing](https://www.chargify.com/#v2-subscription-billing_advanced-pricing_usage-based-pricing) options.\n\nUse standardized discounts you define to personalize offers and close deals faster.\n\nFlexible pricing options\n------------------------\n\n### Consolidate variable pricing and currency calculations\n\nAdd flexibility to your product catalog by setting multiple price points for products and components.\n\nOffer your customers multiple currency options, product tiers, and scalable usage-based pricing packages, even when they\u2019re subscribed to the same product.\n\n![Image 3](blob:http://localhost/e34b29b940572d155ef0d9c45109161b)\n\n### Support a sales-led strategy with custom pricing\n\nManage your sales-led customer growth with truly custom prices. Create a unique subscription from scratch, or tailor current product and component pricing for a specific customer without affecting the base prices set on your catalog items.\n\nThis enables you to manage\u00a0[sales-negotiated contracts](https://www.maxio.com/use-cases/sales-led)\u00a0alongside\u00a0[self-service signups](https://www.chargify.com/#v2-subscription-billing_self-service)\u00a0without bloating your product catalog.\n\n![Image 4](blob:http://localhost/a061218394f0728cab88d83f48ce9179)\n\n### Scale faster with usage-based pricing\n\nGrow alongside your customers by building usage-based pricing into your product\u2019s custom price point. Automate rating and billing activities for common usage-based billing models like metered, tiered, and stair step, or get granular with [events-based billing](https://www.maxio.com/features/events-based-billing).\n\nAllow your customers to pre-pay for usage-based services or pay in arrears along with their monthly bill.\n\n![Image 5](blob:http://localhost/fe49ee0e183c37d2ad9256ef60266da3)\n\n*   ![Image 6: Gabrielle Lucero](blob:http://localhost/4104d32498ddcfebc64d9618ba9e69fd)\n    \n    Ever since implementing Maxio, our ability to collect on outstanding invoices has improved significantly. The amount of time it takes has dropped, and it saves our collections team so much time, energy, and stress.\n    \n    Gabrielle Lucero, Limble Solutions, Inc.\n    \n    Revenue Manager\n    \n    ![Image 7](blob:http://localhost/bc5bc14c78ce2ef5a0dda51f06b17f7d)\n    \n\nUser-friendly subscription management\n-------------------------------------\n\n### Customer billing portal\n\nLet your customers manage their subscriptions without writing a single line of code. Maxio\u2019s hosted billing portal allows subscribers to manage activities like updating credit cards, changing plans, and opting for upgrades or downgrades as needed\u2014providing an empowering customer experience.\n\nPick and choose what actions your subscribers can take while in the billing portal, and personalize your company branding for customer recognition.\n\n![Image 8: Product screen shot of Maxio's Billing portal](blob:http://localhost/9da82ff4f92528c29459aa76168cc27e)\n\n### Public signup pages\n\nGive your customers everything they need to get started on their own. Configure signup pages with automatic or remittance billing, specify a subscription billing cycle (with automatic proration as applicable), enable coupons, create custom fields, and more.\n\nMaxio\u2019s public signup pages are:\n\n*   PCI compliant\n*   Highly customizable with CSS and JavaScript\n*   Optimizable for your product and user experience\n\nIntegrate with our application via\u00a0[**API**](https://developers.chargify.com/docs/api-docs/7b6ea12f39549-maxio-advanced-billing-formerly-chargify-api) or leverage our no-code hosted pages to fully customize your signup pages quickly and easily.\n\n![Image 9: Screenshot of Public signup pages with background](blob:http://localhost/2fb89b661c0cef2e778acfdfd14e98ef)\n\nCollections, payments, and revenue management\n---------------------------------------------\n\nMake your billing more flexible by selecting the best payment methods for each product and component as needed.\n\n### Automatic\n\nCollect on invoices automatically from a payment method on file when an invoice is issued.\n\n### Remittance\n\nAllow customers to remit payment on invoices in the form of credit card, check, or bank draft.\n\n### Prepaid\n\nCollect an initial prepayment to fund a usage-based service; suspend services or auto-replenish once the balance reaches $0.\n\nInvoice management at scale\n---------------------------\n\nGenerate invoices for thousands of customers, and charge accurately and on time with the click of a button.\n\n![Image 10](blob:http://localhost/0f4269266902c8357400406d0091c9ee)\n\nToggle Maxio\u2019s built-in invoice fields, or create your own custom fields, to include as much detail as necessary for your clients.\n\nInvoices can be automatically created:\n\n*   On subscription signup\n*   At subscription renewal\n*   For prorated upgrades\n*   For ad hoc charges\n\nIf you choose not to automate invoice sends, you can still save time by selecting and sending multiple invoices at one time.\n\nMaxio helps you keep track of each invoice\u2019s status, so you can quickly see what\u2019s been paid and what hasn\u2019t.\n\nIf a customer has a credit balance at the time of subscription renewal, the available balance will automatically apply to their renewal invoice.\n\nStop losing revenue from late payments\n--------------------------------------\n\nRecover past due payments and retain customers with automated dunning capabilities.\n\n### Flexible dunning rules\n\nSet your dunning cadence at the global level, or choose specific rules for products individually, such as issuing retries to automatic payments and a past due notice to remittance payments.\n\n### Account status\n\nCustomer accounts can remain active while payment remains past due, or you can choose to restrict access once the dunning process resolves with no payment received.\n\n### Frequency\n\nCustomer accounts can remain active while payment remains past due, or you can choose to restrict access once the dunning process resolves with no payment received.\n\nMaxio Payments\n--------------\n\nBring your payments in-house for a complete and automated workflow from invoice to deposit.\n\nMaxio Payments minimizes risk and bridges the gap in your payments workflow, giving you a complete solution for payment processing, automated reconciliations, and reporting on the details of how customers pay.\n\n**With Maxio Payments, you get:**\n\n*   Automated bank reconciliations, batch reporting, and journal entries\n*   Integrated payment and deposit syncs with your general ledger\n*   A seamless user experience\n\n![Image 11: Maxio Payments screenshot with background](blob:http://localhost/a1e2a35693634b7fd16f199343eecd3f)\n\nReduce your developer\u2019s workload\n\n\n----------------------------------\n\nThe Maxio Advanced Billing solution can be integrated with many environments and programming languages via our REST API, and some of our users have even contributed their API wrappers in various programming languages. Check out the [API Code Overview](https://developers.chargify.com/docs/developer-docs/ZG9jOjE0NjAzNDI2-api-code-samples) for an introduction to the wrappers and available code samples.\n\n[Read developer documentation \u2192](https://developers.chargify.com/docs/api-docs/7b6ea12f39549-maxio-advanced-billing-formerly-chargify-api)\n\nOnce onboarding is complete, your team can create and manage new pricing models, design billing portals, and launch self-service signup pages\u2014no devs required.\n\nA winning combination of enterprise-grade security protects your customers, and proven reliability to keep your recurring subscription billing processes running smoothly. Maxio is compliant with SOC 1 and 2, ISO 27001, PCI DSS Level 1, and GDPR.\n\n[**Read security information \u2192**](https://www.maxio.com/security)\n\n![Image 12](blob:http://localhost/62419dcf5e3558c4d5333d6acead69fb)\n\n![Image 13](blob:http://localhost/d9de298558d799f03681bb7b36f51f9c)\n\n![Image 14](blob:http://localhost/d9de298558d799f03681bb7b36f51f9c)\n\n![Image 15](blob:http://localhost/d9de298558d799f03681bb7b36f51f9c)\n\n![Image 16](blob:http://localhost/d9de298558d799f03681bb7b36f51f9c)\n\n![Image 17](blob:http://localhost/d9de298558d799f03681bb7b36f51f9c)\n\n![Image 18](blob:http://localhost/d9de298558d799f03681bb7b36f51f9c)\n\n![Image 19](blob:http://localhost/d9de298558d799f03681bb7b36f51f9c)\n\n![Image 20](blob:http://localhost/d9de298558d799f03681bb7b36f51f9c)\n\nSee what Maxio can do\n---------------------\n\nChargify, the leader in billing and subscription management for B2B SaaS, is now Maxio. Meet the most complete financial operations platform for B2B SaaS.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "chargify",
+        "app_name": "Chargify",
+        "app_slug": "chargify",
+        "pricing_url": "https://www.maxio.com/tour-center",
+        "source_url": "https://www.maxio.com/tour-center",
+        "all_pricing_urls": [
+          "https://www.maxio.com/tour-center"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Chargify, now rebranded as Maxio, offers flexible subscription and usage-based pricing models tailored for B2B SaaS companies.",
+        "pricing_tiers": null,
+        "usage_based_pricing": [
+          {
+            "metric_name": "usage",
+            "unit": "varied",
+            "base_price": null,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T02:34:04.821982",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\chargify\\20250415_023405"
+}

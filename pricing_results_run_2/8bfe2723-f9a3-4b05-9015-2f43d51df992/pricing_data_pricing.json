@@ -1,0 +1,128 @@
+{
+  "app_id": "float",
+  "app_name": "Float",
+  "app_slug": "float",
+  "pricing_url": "https://www.float.com/pricing",
+  "source_url": "https://www.float.com/pricing",
+  "all_pricing_urls": [
+    "https://www.float.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of people scheduled, with discounts available for annual billing and non-profits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Best for smaller teams",
+      "monthly_price": 6.5,
+      "annual_price": 78.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Resource scheduling",
+        "Unlimited projects",
+        "Time off tracking",
+        "1x Placeholder"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": null,
+      "monthly_price": 10.5,
+      "annual_price": 126.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Advanced reporting",
+        "Time tracking & actuals",
+        "5x Placeholders",
+        "Single Sign On (SSO)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Best for large teams",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Priority support",
+        "A dedicated account manager for onboarding & training",
+        "SLAs & custom contracts"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Non-profit Discount",
+      "offer_description": "10% discount for qualifying non-profits.",
+      "discount_percentage": 10.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Volume Discount",
+      "fee_amount": null,
+      "fee_description": "Available for large teams, contact sales for details."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:42:52.628739",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "8bfe2723-f9a3-4b05-9015-2f43d51df992",
+    "name": "Float",
+    "slug": "float",
+    "description": "Float is the fast and friendly resource scheduling app. Keep track of who's working on what and when.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d4898cbee7ed46b6883594f5c2cfa03d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 18,
+    "trigger_count": 8
+  }
+}

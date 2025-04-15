@@ -1,0 +1,172 @@
+{
+  "app_id": "engagebay_marketing",
+  "app_name": "EngageBay Marketing",
+  "app_slug": "engagebay-marketing",
+  "pricing_url": "https://www.engagebay.com/pricing/marketing#",
+  "source_url": "https://www.engagebay.com/pricing/marketing",
+  "all_pricing_urls": [
+    "https://www.engagebay.com/pricing/marketing#"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes monthly, yearly, and biennial options with discounts for longer commitments.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Useful for solopreneurs. Free for teams of up to 15 members.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "250 Contacts",
+        "Email Broadcast",
+        "Sequences",
+        "Lead Grabbers",
+        "Landing Pages",
+        "Email Templates",
+        "Auto Responder",
+        "Custom Fields",
+        "Video Marketing",
+        "Live Chat"
+      ],
+      "limits": {
+        "users": 15,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 250
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Best suited for basic users who have a limited customer base.",
+      "monthly_price": 12.99,
+      "annual_price": 11.95,
+      "annual_discount_percentage": 8.0,
+      "setup_fee": null,
+      "features": [
+        "500 Contacts",
+        "Landing Page Builder",
+        "Lead Scoring",
+        "SMS Marketing",
+        "3rd Party Integrations",
+        "Tag Manager"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Ideal for startups to manage their business and scale faster.",
+      "monthly_price": 49.99,
+      "annual_price": 45.99,
+      "annual_discount_percentage": 8.0,
+      "setup_fee": null,
+      "features": [
+        "3000 Contacts",
+        "Site Messages",
+        "Email Broadcast A/B Testing",
+        "Code Your Own Landing",
+        "Landing Pages A/B Testing",
+        "Custom Domain",
+        "Marketing Automation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Great for teams that require additional features to grow their business 7x.",
+      "monthly_price": 79.99,
+      "annual_price": 73.59,
+      "annual_discount_percentage": 8.0,
+      "setup_fee": null,
+      "features": [
+        "10,000 Contacts",
+        "Web Analytics",
+        "SSO",
+        "Custom Reporting",
+        "Dedicated Account Manager",
+        "Uptime SLA",
+        "Phone Support",
+        "Marketing Automation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 10000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:06:51.113209",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "35ec7173-4da4-4a50-85b7-f92b26e8b016",
+    "name": "EngageBay Marketing",
+    "slug": "engagebay-marketing",
+    "description": "EngageBay is a simple, affordable all-in-one marketing and sales software built for small businesses.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/655bf8d8d9461edf47c5e023d9909de0.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 17
+  }
+}

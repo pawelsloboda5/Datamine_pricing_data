@@ -1,0 +1,12 @@
+{
+  "app_name": "Morgen",
+  "app_slug": "morgen",
+  "search_term": "Find the official pricing page URL for Morgen (morgen.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744719495.211901,
+  "response_text": [
+    "I couldn't find the official pricing page for Morgen on morgen.com. Let me know if you'd like me to refine the search or assist further!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\morgen\\20250415_081821"
+}

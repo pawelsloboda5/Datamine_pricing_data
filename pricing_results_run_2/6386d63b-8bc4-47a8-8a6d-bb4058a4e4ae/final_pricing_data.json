@@ -1,0 +1,231 @@
+{
+  "app_id": "livestorm",
+  "app_name": "Livestorm",
+  "app_slug": "livestorm",
+  "pricing_url": "https://livestorm.com/pricing",
+  "source_url": "https://livestorm.com/pricing",
+  "all_pricing_urls": [
+    "https://livestorm.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on active contacts per month, with additional features and limits varying by tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic access to Livestorm features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 30 active contacts per month",
+        "Up to 20 minutes per session",
+        "Up to 30 live attendees",
+        "Unlimited team members"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "active contacts",
+            "value": 30
+          },
+          {
+            "name": "session duration",
+            "value": "20 minutes"
+          },
+          {
+            "name": "live attendees",
+            "value": 30
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Recommended for small teams.",
+      "monthly_price": 79.0,
+      "annual_price": 948.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Up to 100 active contacts per month",
+        "Up to 4 hours per session",
+        "Up to 100 live attendees",
+        "Unlimited events",
+        "Unlimited licenses",
+        "API access",
+        "Pro features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": 10000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "active contacts",
+            "value": 100
+          },
+          {
+            "name": "session duration",
+            "value": "4 hours"
+          },
+          {
+            "name": "live attendees",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Advanced features and VIP support.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 500+ active contacts per month",
+        "Up to 4 hours per session",
+        "Up to 3,000 live attendees",
+        "Unlimited events",
+        "Unlimited licenses",
+        "API access",
+        "Business features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": 10000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "active contacts",
+            "value": "500+"
+          },
+          {
+            "name": "session duration",
+            "value": "4 hours"
+          },
+          {
+            "name": "live attendees",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Premium features, add-ons, and dedicated account manager.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 500+ active contacts per month",
+        "Up to 12 hours per session",
+        "Up to 3,000 live attendees",
+        "Unlimited events",
+        "Unlimited licenses",
+        "API access",
+        "Enterprise features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": 10000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "active contacts",
+            "value": "500+"
+          },
+          {
+            "name": "session duration",
+            "value": "12 hours"
+          },
+          {
+            "name": "live attendees",
+            "value": 3000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "active contacts",
+      "unit": "per contact",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 100.0,
+          "price": 79.0
+        },
+        {
+          "min": 101.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Discount",
+      "offer_description": "Save up to 20% with annual billing.",
+      "discount_percentage": 20.0,
+      "offer_url": "https://livestorm.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Extra Active Contacts",
+      "fee_amount": null,
+      "fee_description": "Can be purchased for Business and Enterprise plans."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:41:27.122753",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6386d63b-8bc4-47a8-8a6d-bb4058a4e4ae",
+    "name": "Livestorm",
+    "slug": "livestorm",
+    "description": "Livestorm is an end-to-end engagement platform that enables you to connect, engage, and capture actionable insights in one place.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/15c16769a8fc7952aca4743675e6753e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Webinars"
+    ],
+    "category_slugs": [
+      "webinars"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 6
+  }
+}

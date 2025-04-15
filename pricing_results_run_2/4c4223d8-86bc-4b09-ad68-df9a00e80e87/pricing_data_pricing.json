@@ -1,0 +1,152 @@
+{
+  "app_id": "paypal",
+  "app_name": "PayPal",
+  "app_slug": "paypal",
+  "pricing_url": "https://www.paypal.com/us/business/pricing",
+  "source_url": "https://www.paypal.com/us/business/pricing",
+  "all_pricing_urls": [
+    "https://www.paypal.com/us/business/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.CUSTOM"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "PayPal offers a variety of transaction-based pricing models tailored to different payment methods and business needs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Card Processing",
+      "tier_description": "Processing fees for card transactions.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Card processing"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "PayPal and Venmo",
+      "tier_description": "Processing fees for PayPal and Venmo transactions.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "PayPal and Venmo payments"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Pay Later",
+      "tier_description": "Processing fees for Pay Later transactions.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Pay Later payments"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Point of Sale",
+      "tier_description": "Processing fees for in-person transactions.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Point of Sale transactions"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Card Processing",
+      "unit": "per transaction",
+      "base_price": 2.89,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.29
+        }
+      ]
+    },
+    {
+      "metric_name": "PayPal and Venmo",
+      "unit": "per transaction",
+      "base_price": 3.49,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.49
+        }
+      ]
+    },
+    {
+      "metric_name": "Pay Later",
+      "unit": "per transaction",
+      "base_price": 4.99,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.49
+        }
+      ]
+    },
+    {
+      "metric_name": "Point of Sale",
+      "unit": "per transaction",
+      "base_price": 2.29,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.09
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Virtual Terminal Monthly Fee",
+      "fee_amount": 30.0,
+      "fee_description": "Monthly fee for using the Virtual Terminal service."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:24:50.487042",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4c4223d8-86bc-4b09-ad68-df9a00e80e87",
+    "name": "PayPal",
+    "slug": "paypal",
+    "description": "PayPal is a fast, safe way to send money, make an online payment, receive money or set up a merchant account. With over 150 million active registered accounts, PayPal helps people and businesses receive and make payments in more than 100 currencies in 203 markets.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/b364fde42f6ef5e115a5d92f17c01390.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

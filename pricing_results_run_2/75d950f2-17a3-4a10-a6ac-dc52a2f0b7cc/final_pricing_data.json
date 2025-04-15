@@ -1,0 +1,249 @@
+{
+  "app_id": "freshlearn",
+  "app_name": "FreshLearn",
+  "app_slug": "freshlearn",
+  "pricing_url": "https://freshlearn.com/pricing",
+  "source_url": "https://freshlearn.com/pricing",
+  "all_pricing_urls": [
+    "https://freshlearn.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes multiple tiers with annual and biennial discounts.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Best for new creators building and launching digital products",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "No Transaction Fee",
+        "Unlimited Digital Products",
+        "Payments Integration",
+        "Custom Branding",
+        "Video Hosting",
+        "Sales Page Builder",
+        "Checkout Pages",
+        "Blogging CMS",
+        "Testimonials",
+        "Link In Bio",
+        "25 Enrolments (Paid or Free)",
+        "1 Administrator",
+        "Email Support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Enrolments",
+            "value": 25
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Ideal for creators launching on-demand courses and workshops",
+      "monthly_price": 39.0,
+      "annual_price": 399.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Courses & Products",
+        "AI website builder",
+        "Blogging CMS",
+        "Drag and Drop Email Builder",
+        "Email Campaigns",
+        "Community",
+        "Assessments",
+        "Coupons",
+        "Drip Content",
+        "Custom Domain",
+        "Unlimited enrolments",
+        "1 Administrator",
+        "0% Transaction fee",
+        "Integrations",
+        "Email and live chat support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Email Credits",
+            "value": "3K/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "No Brainer",
+      "tier_description": "Designed for growing creators offering certifications and live cohorts",
+      "monthly_price": 69.0,
+      "annual_price": 599.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited courses and products",
+        "Email Campaigns",
+        "Assignments",
+        "Certificates",
+        "Custom Language",
+        "Live Classes",
+        "Gamification",
+        "Question Bank",
+        "Affiliate Program",
+        "Bulk Actions",
+        "Clone Courses & Sales Pages",
+        "Unlimited Enrolments",
+        "3 Administrators",
+        "0% Transaction fee",
+        "Free Migration",
+        "Remove branding",
+        "Call, Email and Live Chat Support"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Email Credits",
+            "value": "5K/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "No Brainer+",
+      "tier_description": "Built for creators scaling work with advanced customization and access control",
+      "monthly_price": 149.0,
+      "annual_price": 1399.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Courses & Products",
+        "Email Campaigns",
+        "Unlimited Workflows",
+        "Unlimited Automations",
+        "Custom Fields",
+        "Custom Roles",
+        "Custom Certificates",
+        "Native Integrations",
+        "Advanced Assessments",
+        "Personalized Emails",
+        "Custom Themes",
+        "302 Page Redirects",
+        "7 Administrators",
+        "0% Transaction fee",
+        "Free Migration",
+        "API access",
+        "Customer success manager",
+        "Call, Email and Live Chat Support (On Priority)"
+      ],
+      "limits": {
+        "users": 7,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Email Credits",
+            "value": "12K/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Built for businesses scaling to thousands of learners",
+      "monthly_price": 249.0,
+      "annual_price": 1999.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Partner Organisation Groups",
+        "Single Sign-On for Learners",
+        "Multi-Factor Authentication",
+        "Auto Language Translation",
+        "Custom Reports",
+        "Custom Integrations",
+        "Sandbox Instance"
+      ],
+      "limits": {
+        "users": 100,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Email Credits",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Discount",
+      "offer_description": "Save up to 25% on annual billing",
+      "discount_percentage": 25.0,
+      "offer_url": "https://freshlearn.com/pricing",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Biennial Discount",
+      "offer_description": "Save up to 50% on biennial billing",
+      "discount_percentage": 50.0,
+      "offer_url": "https://freshlearn.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:59:02.856836",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "75d950f2-17a3-4a10-a6ac-dc52a2f0b7cc",
+    "name": "FreshLearn",
+    "slug": "freshlearn",
+    "description": "FreshLearn is a learning platform that lets you build your own online schools to create and sell courses as well as LMS for your organizations.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/7698534d3793703463f1168d61bc0acc.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 3
+  }
+}

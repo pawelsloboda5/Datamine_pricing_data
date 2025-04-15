@@ -1,0 +1,61 @@
+{
+  "app_name": "HOVER",
+  "app_slug": "hover",
+  "search_term": "Find the official pricing page URL for HOVER (hover.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744710102.1869571,
+  "response_text": [
+    "The official pricing page for HOVER is: [https://www.hover.com/domain-prices](https://www.hover.com/domain-prices)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Domain Name Prices | Find A Website Domain at Hover",
+      "url": "https://www.hover.com/domain-pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.hover.com/domain-pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://www.hover.com/domain-prices",
+      "is_accessible": true,
+      "content": "Domain Names | Buy Domains & Email At Hover.com\n===============\n                                    \n\n[![Image 2: Hover Logo](https://www.hover.com/packs/static/src/application/images/common/hv-logo-2020-4a136057f777be722f4f.svg)](https://www.hover.com/ \"Return to home page\")\n\n[Domains](https://www.hover.com/domains \"Domains\") [Email](https://www.hover.com/email \"Email\") [About Us](https://www.hover.com/about \"About Us\") [Blog](https://hover.blog/ \"Blog\")\n\n[Help](https://help.hover.com/) [Sign In](https://www.hover.com/signin)\n\n[Control Panel View and manage domains, email, and features for your account.](https://www.hover.com/signin)[Webmail Access your email inbox from your web browser.](https://mail.hover.com/)[Need an account? Sign up](https://www.hover.com/signup)\n\n[](https://www.hover.com/cart)\n\n[Domains](https://www.hover.com/domains) [Email](https://www.hover.com/email) [About Us](https://www.hover.com/about) [Blog](https://hover.blog/)\n\n[Help](https://help.hover.com/) [Webmail](https://mail.hover.com/) [Sign In](https://www.hover.com/signin)\n\n*   Your Account\n\n![Image 3](https://www.hover.com/packs/static/src/application/images/404-4eb7fad29f73f8785e5c.svg)\n\nis a great number...but not a page at Hover.com.\n================================================\n\n[![Image 4](https://hover-assets.s3.ca-central-1.amazonaws.com/images/logo.svg)](https://www.hover.com/)\n\n[](https://www.facebook.com/hover)[](https://www.linkedin.com/showcase/hover-domains-and-email/)[](https://www.tiktok.com/@hoverdomainnames)[](https://mastodon.social/@hover)\n\nProducts\n\n[Domains](https://www.hover.com/domains) [Transfer](https://www.hover.com/transfer-in) [Renew](https://www.hover.com/renew) [Pricing](https://www.hover.com/domain-pricing) [Email](https://www.hover.com/email) [Realnames](https://www.hover.com/email/realnames)\n\nCompany\n\n[About Us](https://www.hover.com/about) [Blog](https://hover.blog/) [Jobs](https://www.tucows.com/careers/)\n\nResources\n\n[Help Center](https://support.hover.com/) [Service Status](https://hoverstatus.com/) [Partner Program](https://www.hover.com/hover-connect) [Affiliates](https://www.hover.com/affiliates)\n\nAccount\n\n[Sign In](https://www.hover.com/signin) [Webmail](https://mail.hover.com/)\n\n[Terms of Service](https://www.hover.com/tos) [Privacy Policy](https://www.hover.com/privacy)\n\nCopyright \u00a9 2025 Hover\n\nFind the perfect domain name for your idea at Hover. All domains come with industry-leading customer support and free WHOIS privacy. Name your passion today!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "hover",
+        "app_name": "HOVER",
+        "app_slug": "hover",
+        "pricing_url": "https://www.hover.com/domain-pricing",
+        "source_url": "https://www.hover.com/",
+        "all_pricing_urls": [
+          "https://www.hover.com/domain-pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing details for domain registration and email services are available on the specified pricing page.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T05:42:06.183279",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\hover\\20250415_054207"
+}

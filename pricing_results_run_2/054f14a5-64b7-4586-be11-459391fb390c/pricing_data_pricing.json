@@ -1,0 +1,233 @@
+{
+  "app_id": "zenkit",
+  "app_name": "Zenkit",
+  "app_slug": "zenkit",
+  "pricing_url": "https://zenkit.com/en/pricing/",
+  "source_url": "https://zenkit.com/pricing",
+  "all_pricing_urls": [
+    "https://zenkit.com/en/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer up to 16% savings compared to monthly plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Personal",
+      "tier_description": "For individuals or small teams to stay organized",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Recurring Tasks",
+        "2-Factor-Authentification",
+        "Automation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "1 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Workspaces",
+            "value": 10
+          },
+          {
+            "name": "Lists",
+            "value": 25
+          },
+          {
+            "name": "Items",
+            "value": 500
+          },
+          {
+            "name": "Comments per Month",
+            "value": 200
+          },
+          {
+            "name": "Automation Runs per Month",
+            "value": "10 per seat"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "For growing teams to gain projects overviews",
+      "monthly_price": 8.0,
+      "annual_price": null,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "All Personal features",
+        "Gantt Chart",
+        "Advanced Access Control",
+        "Custom Fields",
+        "Password Restrictions",
+        "User Roles",
+        "Email to Project",
+        "Theme Customization",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "6 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Workspaces",
+            "value": 100
+          },
+          {
+            "name": "Lists",
+            "value": 100
+          },
+          {
+            "name": "Items",
+            "value": 50000
+          },
+          {
+            "name": "Comments per Month",
+            "value": "1,000 per seat"
+          },
+          {
+            "name": "Automation Runs per Month",
+            "value": "300 per seat"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For companies to align goals and manage multi-projects",
+      "monthly_price": 21.0,
+      "annual_price": null,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "All Plus features",
+        "Advanced Gantt Features",
+        "API Access",
+        "User Group Management",
+        "Central User Management",
+        "Activity Auditing",
+        "Provisioning (SCIM)",
+        "SSO (SAML)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "50 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Workspaces",
+            "value": 500
+          },
+          {
+            "name": "Lists",
+            "value": 1000
+          },
+          {
+            "name": "Items",
+            "value": 150000
+          },
+          {
+            "name": "Comments per Month",
+            "value": "10,000 per seat"
+          },
+          {
+            "name": "Automation Runs per Month",
+            "value": "3,000 per seat"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For companies that need scalable project management",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Business features",
+        "Unlimited Quotas",
+        "Dedicated Success Management",
+        "Enterprise API",
+        "Tailored Onboarding",
+        "Service-Level-Agreement",
+        "Additional Payment Options",
+        "Early Access to New Features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Workspaces",
+            "value": "unlimited"
+          },
+          {
+            "name": "Lists",
+            "value": "unlimited"
+          },
+          {
+            "name": "Items",
+            "value": "unlimited"
+          },
+          {
+            "name": "Comments per Month",
+            "value": "unlimited"
+          },
+          {
+            "name": "Automation Runs per Month",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:37:26.531489",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "054f14a5-64b7-4586-be11-459391fb390c",
+    "name": "Zenkit",
+    "slug": "zenkit",
+    "description": "Zenkit is a flexible workspace you can use to organize the things you care about, in the way that suits you best.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/ba35d4a5385b8c925e9092a8c9fc5291.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "todo-lists"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 3
+  }
+}

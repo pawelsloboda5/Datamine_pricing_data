@@ -1,0 +1,113 @@
+{
+  "app_id": "zulip",
+  "app_name": "Zulip",
+  "app_slug": "zulip",
+  "pricing_url": null,
+  "source_url": "https://zulip.com/plans/",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Zulip offers a free tier and managed cloud solutions, with additional features and services available on a quote-based model.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for small teams or individuals.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Message history search (limited)",
+        "5 GB total file sharing and storage",
+        "Mobile push notifications (limited)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "5GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Advanced features and support for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "SSO with OpenID Connect",
+        "Compliance customization and support",
+        "Implementation consulting",
+        "Training sessions",
+        "Custom feature development"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Compliance customization and support",
+      "fee_amount": null,
+      "fee_description": "Billed hourly for compliance-related customization and support."
+    },
+    {
+      "fee_name": "Implementation consulting",
+      "fee_amount": null,
+      "fee_description": "Billed hourly for consulting services."
+    },
+    {
+      "fee_name": "Training sessions",
+      "fee_amount": null,
+      "fee_description": "Billed hourly for training sessions."
+    },
+    {
+      "fee_name": "Custom feature development",
+      "fee_amount": null,
+      "fee_description": "Billed hourly for custom feature development."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:47:56.280921",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "18812e8f-7e23-41e1-8e93-9a5ebc8cc9c8",
+    "name": "Zulip",
+    "slug": "zulip",
+    "description": "Zulip provides a rich chat interface for real-time and asynchronous team communication.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/739f92420b08a0f38c1ca0a8964da611.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Chat"
+    ],
+    "category_slugs": [
+      "team-chat"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

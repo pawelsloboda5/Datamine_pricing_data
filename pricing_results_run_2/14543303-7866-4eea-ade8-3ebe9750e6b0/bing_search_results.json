@@ -1,0 +1,12 @@
+{
+  "app_name": "GoTo Webinar",
+  "app_slug": "gotowebinar",
+  "search_term": "Find the official pricing page URL for GoTo Webinar (gotowebinar.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688324.0749135,
+  "response_text": [
+    "I couldn\u2019t locate the official pricing page for GoTo Webinar. You might want to navigate directly on gotowebinar.com or contact their support team for accurate information. Let me know if you need further assistance!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\gotowebinar\\20250414_233844"
+}

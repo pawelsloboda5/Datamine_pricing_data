@@ -1,0 +1,145 @@
+{
+  "app_id": "cloudinary",
+  "app_name": "Cloudinary",
+  "app_slug": "cloudinary",
+  "pricing_url": "https://cloudinary.com/pricing",
+  "source_url": "https://cloudinary.com/pricing",
+  "all_pricing_urls": [
+    "https://cloudinary.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Cloudinary offers a free tier with generous usage limits and subscription-based plans for extended features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Start exploring Image and Video APIs today.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Upload widget, API, and search",
+        "Remote fetch, auto-backup, and revision tracking",
+        "Image and video transformations",
+        "Video transcoding and adaptive streaming",
+        "High performance delivery through a CDN",
+        "Support \u2014 forums, tickets, and email",
+        "Access to free add-ons"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "25GB",
+        "operations": null,
+        "api_calls": "25 monthly credits",
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Extend your team\u2019s digital media capabilities for websites & apps.",
+      "monthly_price": 99.0,
+      "annual_price": 89.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Backup to your own S3 bucket",
+        "Auto-tagging based search",
+        "Access to free and paid add-ons",
+        "Expedited support",
+        "Allowlist/Blocklist asset access",
+        "Video Bandwidth Boost 2:1",
+        "Role-based multi-user administration"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": "225 monthly credits",
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Engaging visual experiences with advanced features.",
+      "monthly_price": 249.0,
+      "annual_price": 224.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Custom domain (CNAME) support",
+        "Optional HTTPS SSL Certificate",
+        "Authentication Options"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": "600 monthly credits",
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "For organizations requiring digital media at scale.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Backup to your own S3 bucket",
+        "Auto-tagging based search",
+        "Access to free and paid add-ons",
+        "Expedited support",
+        "Allowlist/Blocklist asset access",
+        "Video Bandwidth Boost 2:1",
+        "Role-based multi-user administration",
+        "Security and compliance review",
+        "Multi-CDN and enterprise grade infrastructure",
+        "Enterprise SLAs and support",
+        "Designated customer success manager",
+        "Custom contracts and invoicing",
+        "User management (SSO, provisioning API)"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:09:06.316022",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0d189a4e-7813-48f8-9e46-d13450be0a2c",
+    "name": "Cloudinary",
+    "slug": "cloudinary",
+    "description": "Cloudinary makes it easy to upload, store, manage, manipulate and deliver images and videos efficiently and effectively.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/83fd9301ea17bb2af6b92e841b282201.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Developer Tools"
+    ],
+    "category_slugs": [
+      "developer-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 1
+  }
+}

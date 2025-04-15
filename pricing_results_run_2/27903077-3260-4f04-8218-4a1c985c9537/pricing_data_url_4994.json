@@ -1,0 +1,112 @@
+{
+  "app_id": "invoice_ninja",
+  "app_name": "Invoice Ninja",
+  "app_slug": "invoice-ninja",
+  "pricing_url": "https://www.invoiceninja.com/pricing-plans/",
+  "source_url": "https://www.invoiceninja.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.invoiceninja.com/pricing-plans/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Invoice Ninja offers a free tier and subscription plans with a free trial period.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic invoicing features for small businesses.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic invoicing",
+        "Client management",
+        "Payment tracking"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "limited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced features for growing businesses.",
+      "monthly_price": 10.0,
+      "annual_price": 100.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Advanced invoicing",
+        "Custom templates",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "All features for large businesses.",
+      "monthly_price": 20.0,
+      "annual_price": 200.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "All Pro features",
+        "Dedicated account manager",
+        "Custom integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:23:45.319929",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "27903077-3260-4f04-8218-4a1c985c9537",
+    "name": "Invoice Ninja",
+    "slug": "invoice-ninja",
+    "description": "Create. Send. Get Paid. Invoice Ninja is a free, code-available suite of apps to invoice clients, accept payments, track expenses & time billable-tasks. Designed for freelancers and small to medium-sized businesses to increase efficiency, Invoice Ninja will help you get paid!",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/0f9aff01367f0a0c69773d25ca16ef35.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Proposal & Invoice Management"
+    ],
+    "category_slugs": [
+      "invoices"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 23,
+    "trigger_count": 11
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "app_name": "Strava",
+  "app_slug": "strava",
+  "search_term": "Find the official pricing page URL for Strava (strava.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725310.3162572,
+  "response_text": [
+    "The official pricing page URL for Strava is: [https://www.strava.com/pricing](https://www.strava.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Strava",
+      "url": "https://www.strava.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.strava.com/pricing",
+      "is_accessible": true,
+      "content": "Strava | Pricing\n===============\n\n[Strava](https://www.strava.com/)\n\n[Menu](https://www.strava.com/pricing#container-nav)\n\n*   [Mobile](https://www.strava.com/mobile)\n*   [Features](https://www.strava.com/features)\n*   [Subscription](https://www.strava.com/subscribe?cta=premium&element=nav&origin=logged_out_global_nav)\n*   [Maps](https://www.strava.com/maps)\n*   [Stories](https://stories.strava.com/?utm_source=website-header)\n*   [Give a Gift](https://www.strava.com/gift)\n*   [Sign Up](https://www.strava.com/register?cta=sign-up&element=global-header&plan=free&source=website_pricing)\n    \n    [Log In](https://www.strava.com/login?cta=log-in&element=global-header&source=website_pricing)\n    \n\nUpdating Subscription Prices\n============================\n\n_Updated: July 10, 2024_\n\nStrava is moving to consistent subscription pricing by country \u2013 this means that all subscribers in a country will pay the same monthly or annual price. Subscribers will get an email from Strava 30 days prior to their renewal date with the updated price they will pay and instructions to update their subscription.\n\n#### United States\n\n*   Subscribers pay $11.99/month or $79.99/year plus applicable taxes.\n*   Subscribers on a Family Plan pay $139.99/year plus applicable taxes.\n\n[Learn More](https://www.strava.com/subscribe?origin=pricing) about the Strava subscription and see [What's New](https://www.strava.com/whats-new) or [Manage your account](https://www.strava.com/account)\n\nNeed help updating your country? [Contact us.](https://support.strava.com/requests/new)\n\n_Note: Prices are displayed in local currency_\n\n  \n  \n\u00a9\u00a0 2025 Strava\n\n#### Our Community\n\n*   [About](https://www.strava.com/about)\n*   [Strava Community Standards](https://www.strava.com/community-standards)\n*   [Careers](https://www.strava.com/careers)\n*   [Press](https://press.strava.com/)\n\n#### Follow\n\n*   [Stories](https://stories.strava.com/)\n*   [Facebook](https://www.facebook.com/Strava/)\n*   [Instagram](https://instagram.com/strava)\n*   [Twitter](http://twitter.com/strava)\n\n#### Support\n\n*   [Contact](https://strava.zendesk.com/entries/61608110-How-to-contact-Strava-Support-Submit-a-ticket)\n*   [Community Forum](https://communityhub.strava.com/)\n*   [About Our Maps](https://support.strava.com/hc/en-us/articles/216917717-About-Strava-Maps)\n\n#### [Business](https://partners.strava.com/business?utm_source=footer&utm_medium=referral)\n\n#### [Mobile](https://www.strava.com/mobile)\n\n#### [Subscription](https://www.strava.com/subscribe?origin=global_footer)\n\n#### [Family Plan](https://www.strava.com/family?origin=global_footer)\n\n#### [Student Discount](https://www.strava.com/student?origin=global_footer)\n\n#### [Discount Programs (US Only)](https://www.strava.com/subscribe?origin=global_footer#discount-plans)\n\n#### [Send a Gift](https://www.strava.com/gift?origin=global_footer)\n\n#### More\n\n*   [Mobile](https://www.strava.com/mobile)\n*   [Subscription](https://www.strava.com/premium)\n*   [Business](https://partners.strava.com/business?utm_source=footer&utm_medium=referral)\n\n[Privacy Policy](https://www.strava.com/legal/privacy) | [Terms](https://www.strava.com/legal/terms)\n\n\u00a9 2025 Strava",
+      "error": null,
+      "pricing_data": {
+        "app_id": "strava",
+        "app_name": "Strava",
+        "app_slug": "strava",
+        "pricing_url": "https://www.strava.com/pricing",
+        "source_url": "https://www.strava.com/pricing",
+        "all_pricing_urls": [
+          "https://www.strava.com/pricing",
+          "https://www.strava.com/subscribe"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is consistent within each country and includes applicable taxes.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Individual Monthly",
+            "tier_description": "Monthly subscription for individual users.",
+            "monthly_price": 11.99,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": null,
+            "limits": null
+          },
+          {
+            "tier_name": "Individual Annual",
+            "tier_description": "Annual subscription for individual users.",
+            "monthly_price": null,
+            "annual_price": 79.99,
+            "annual_discount_percentage": 33.33,
+            "setup_fee": null,
+            "features": null,
+            "limits": null
+          },
+          {
+            "tier_name": "Family Plan",
+            "tier_description": "Annual subscription for family users.",
+            "monthly_price": null,
+            "annual_price": 139.99,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": null,
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:55:16.086019",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\strava\\20250415_095516"
+}

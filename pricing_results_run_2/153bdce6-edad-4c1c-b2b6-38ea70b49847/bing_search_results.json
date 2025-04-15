@@ -1,0 +1,12 @@
+{
+  "app_name": "Eduzz",
+  "app_slug": "eduzz",
+  "search_term": "Find the official pricing page URL for Eduzz (eduzz.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744720752.1376812,
+  "response_text": [
+    "I couldn't find a direct URL to an official pricing page for Eduzz on their website at this time."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\eduzz\\20250415_083912"
+}

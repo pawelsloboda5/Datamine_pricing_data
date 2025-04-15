@@ -1,0 +1,43 @@
+{
+  "app_id": "realscout",
+  "app_name": "RealScout",
+  "app_slug": "realscout",
+  "pricing_url": null,
+  "source_url": "https://www.realscout.com/pricing\u30103:1\u2020source\u3011.",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page for RealScout was not accessible, and no specific pricing information could be extracted.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:39:14.148575",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "5e10ba30-4239-43c9-9e68-cbecc8227849",
+    "name": "RealScout",
+    "slug": "realscout",
+    "description": "RealScout is a collaborative listing alert platform that delivers automated, high-performing listing alerts to your clients based on their unique home search preferences.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/187afb40b07a1454be75aff786e5eede.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "app_id": "campaign_monitor",
+  "app_name": "Campaign Monitor",
+  "app_slug": "campaign-monitor",
+  "pricing_url": "https://www.campaignmonitor.com/pricing/",
+  "source_url": "https://www.campaignmonitor.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.campaignmonitor.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Campaign Monitor offers a free tier and subscription-based pricing with detailed feature descriptions.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic email features with a 30-day free trial.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Drag-and-drop builder",
+        "Customizable template library",
+        "Custom coded templates",
+        "Branded templates",
+        "Segmentation tools",
+        "Free image gallery",
+        "Signup forms",
+        "Mobile optimization tools",
+        "A/B testing",
+        "Preference Center",
+        "Real-time reporting analytics",
+        "Worldview reporting"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 500
+          },
+          {
+            "name": "Monthly send volume",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Lite",
+      "tier_description": "Core features for getting started.",
+      "monthly_price": 12.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Drag-and-drop builder",
+        "Customizable template library",
+        "Custom coded templates",
+        "Branded templates",
+        "Segmentation tools",
+        "Free image gallery",
+        "Signup forms",
+        "Mobile optimization tools",
+        "A/B testing",
+        "Preference Center",
+        "Real-time reporting analytics",
+        "Worldview reporting"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Unlimited emails for frequent senders.",
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Drag-and-drop builder",
+        "Customizable template library",
+        "Custom coded templates",
+        "Branded templates",
+        "Segmentation tools",
+        "Free image gallery",
+        "Signup forms",
+        "Mobile optimization tools",
+        "A/B testing",
+        "Preference Center",
+        "Real-time reporting analytics",
+        "Worldview reporting"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Essentials First Month Discount",
+      "offer_description": "90% off the first month for Essentials plan.",
+      "discount_percentage": 90.0,
+      "offer_url": "https://www.campaignmonitor.com/signup/?sv=pricing-USD&planSelected=essentials",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:14:59.817581",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7b10f804-6d5b-42dd-a516-ac98ad447b10",
+    "name": "Campaign Monitor",
+    "slug": "campaign-monitor",
+    "description": "Campaign Monitor is an email marketing tool built for designers. Campaign Monitor makes it easy to send beautiful emails, manage lists and subscribers, and track the results of your campaigns.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/e3fcbad40d19b86eb7c3e6a3bddacacf.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 7
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "app_id": "123FormBuilder",
+  "app_name": "123FormBuilder",
+  "app_slug": "123formbuilder",
+  "pricing_url": null,
+  "source_url": "https://www.123formbuilder.com/signup.html",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual pricing offers a 50% discount compared to monthly pricing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Free tier with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 forms",
+        "100 monthly submissions",
+        "10 fields per form",
+        "1,000 form views",
+        "Conditional logic",
+        "Basic form analytics",
+        "GDPR compliance"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": 100,
+        "integrations": 3,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Gold",
+      "tier_description": "Paid tier with extended features.",
+      "monthly_price": 37.0,
+      "annual_price": 18.5,
+      "annual_discount_percentage": 50.0,
+      "setup_fee": null,
+      "features": [
+        "25 forms",
+        "5,000 monthly submissions",
+        "250 fields per form",
+        "Unlimited form views",
+        "Advanced form analytics",
+        "Custom reports",
+        "10+ platforms integration"
+      ],
+      "limits": {
+        "users": "1+",
+        "storage": "1GB",
+        "operations": null,
+        "api_calls": "Unlimited",
+        "integrations": 23,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Platinum",
+      "tier_description": "Advanced tier for larger needs.",
+      "monthly_price": 49.0,
+      "annual_price": 24.5,
+      "annual_discount_percentage": 50.0,
+      "setup_fee": null,
+      "features": [
+        "100 forms",
+        "20,000 monthly submissions",
+        "500 fields per form",
+        "Unlimited form views",
+        "Integration with 15+ payment gateways",
+        "Custom submission limits"
+      ],
+      "limits": {
+        "users": "1+",
+        "storage": "10GB",
+        "operations": null,
+        "api_calls": "Unlimited",
+        "integrations": 42,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Diamond",
+      "tier_description": "Premium tier for extensive usage.",
+      "monthly_price": 99.0,
+      "annual_price": 49.5,
+      "annual_discount_percentage": 50.0,
+      "setup_fee": null,
+      "features": [
+        "200 forms",
+        "100,000 monthly submissions",
+        "800 fields per form",
+        "Unlimited form views",
+        "Certified HIPAA compliance",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "1+",
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": "Unlimited",
+        "integrations": 44,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom solutions for enterprises.",
+      "monthly_price": 225.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited forms",
+        "Unlimited submissions",
+        "Unlimited fields per form",
+        "In-depth integration with Salesforce",
+        "Dedicated account manager"
+      ],
+      "limits": {
+        "users": "1+",
+        "storage": "100GB+",
+        "operations": null,
+        "api_calls": "Unlimited",
+        "integrations": 45,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Discount",
+      "offer_description": "50% discount on annual billing.",
+      "discount_percentage": 50.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:04:40.485692",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f5841485-eb82-44cd-8689-7682c65c01f7",
+    "name": "123FormBuilder",
+    "slug": "123formbuilder",
+    "description": "123FormBuilder is an easy way to create and use free html forms for your website using their online contact form generator!",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/0584e76a060ece26192175cc192cb58f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

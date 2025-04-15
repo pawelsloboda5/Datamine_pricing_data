@@ -1,0 +1,12 @@
+{
+  "app_name": "Keller Williams Command",
+  "app_slug": "kwcommand",
+  "search_term": "Find the official pricing page URL for Keller Williams Command (kwcommand.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744712719.9690495,
+  "response_text": [
+    "I couldn\u2019t find the exact pricing page for Keller Williams Command at kwcommand.com. It might require further investigation or a login through their official site. Let me know if I can assist in another way."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\kwcommand\\20250415_062523"
+}

@@ -1,0 +1,295 @@
+{
+  "app_name": "Quickbase",
+  "app_slug": "quickbase",
+  "search_term": "Find the official pricing page URL for Quickbase (quickbase.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744686262.609277,
+  "response_text": [
+    "The exact URL for the official Quickbase pricing page is: [https://www.quickbase.com/pricing](https://www.quickbase.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Plans and Pricing - Quickbase",
+      "url": "https://www.quickbase.com/plans-and-pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.quickbase.com/plans-and-pricing",
+      "is_accessible": true,
+      "content": "![Image 1: A graphic with squares breaking off of multicolored lines](https://assets.marketing.quickbase.com/brand/Illustrations/_1320x1023_crop_center-center_82_line/brand-illustrations-exit-intent.png)\n\n### Not quite ready to buy? Start your free trial now.\n\nTake a look at Quickbase in action to see how it can help your team solve complex projects.\n\n[Get started](https://www.quickbase.com/trial-register?regType=new)\n\nFree trial\n----------\n\n0\n\nFree for 30 days.\n\n**Let your team discover (and love!) the benefits of Quickbase before you commit**\n\n*   All business features\n    \n\nTeam\n----\n\nStarts at  \n35/user/mo\n\nPriced annually\n\n**Make teamwork faster, easier & more secure**\n\n*   Personalized dashboards & 13+ report types\n    \n*   Communication & file management integrations\n    \n*   Workflow automation\n    \n*   User & data security controls\n    \n*   Data encryption\n    \n*   Audit logs\n    \n*   \\+ Team Enhanced Services\n    \n\n_Cost shown does not include reoccurring Enhanced Services. [Learn more.](https://www.quickbase.com/services)_\n\nBusiness\n--------\n\nStarts at  \n55/user/mo\n\nPriced annually\n\nGet a quote\n\n**Connect people and tools effortlessly**\n\n*   All Team features +\n    \n*   Single sign-on & SCIM provisioning\n    \n*   Point solution & workflow enhancement channels\n    \n*   External collaboration tools\n    \n*   Gantt charts\n    \n*   Sandbox\n    \n*   FDA & HIPAA compliance\n    \n*   \\+ Business Enhanced Services\n    \n\n_Cost shown does not include Enhanced Services. [Learn more.](https://www.quickbase.com/services)_\n\nEnterprise\n----------\n\nFully customizable\n\nFully customizable\n\n**Optimize operations across your entire organization**\n\n*   All Team & Business features +\n    \n*   Advanced performance tools\n    \n*   Advanced data encryption\n    \n*   On-prem connectivity & data warehouse integrations\n    \n*   Advanced security controls\n    \n*   Governance APIs\n    \n*   AI-powered sensitive data scanning\n    \n*   \\+ Enterprise Enhanced Services\n    \n\n_Cost shown does not include Enhanced Services. [Learn more.](https://www.quickbase.com/services)_\n\n*   [Full Plan Comparison](https://www.quickbase.com/plans-and-pricing#tab-section-2-full-plan-comparison)\n*   [Integrations](https://www.quickbase.com/plans-and-pricing#tab-section-2-integrations)\n*   [Add-ons](https://www.quickbase.com/plans-and-pricing#tab-section-2-add-ons)\n\n|  | Team | Business | Enterprise |  |\n| --- | --- | --- | --- | --- |\n| Builder: App Builder |\n| AI Smart BuilderMore Information\nAI-assisted app, report and pipeline building to help you build and customize your applications faster\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Data storage | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Field-level roles and permissions | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Custom branding (per app)More Information\n\nBrand your Quickbase interface on an app-by-app basis by featuring your organization's logo and colors\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Custom branding (account-wide)More Information\n\nBrand the Quickbase interface across your entire account by featuring your organization's logo and colors\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Builder: Template Library |\n| Starter appsMore Information\n\nAccess to hundreds of sample apps from the Quickbase Exchange.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| ComponentsMore Information\n\nAccess to pre-built app components like formulas to accelerate app development.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Plugins | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Integrations |\n| Communication and file management channelsMore Information\n\nPlease refer to the Integrations tab for full list of connectors available by plan.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Point solution and workflow enhancement channelsMore Information\n\nPlease refer to the Integrations tab for full list of connectors available by plan.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Enterprise system integration channelsMore Information\n\nPlease refer to the Integrations tab for full list of connectors available by plan.\n\n | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Insights |\n| Personalized dashboards | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Reports and charts | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Gantt chartsMore Information\n\nTrack delivery timelines for your complex projects with a fully interactive Gantt view.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Automations |\n| Workflow automations | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Email notifications | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Email subscriptions | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Share publicly (everyone on the internet)More Information\n\nSet up public access to a Quickbase app, with the option to create a publicly-accessible link to selected information within Quickbase for members of the public to view\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Email anyone (email non-users)More Information\n\nSet up automatic notifications and email subscriptions to non-Quickbase users without granting them a user license within Quickbase\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Mobile |\n| Quickbase mobile app | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Admin: Account Governance |\n| Admin consoleMore Information\n\nOne central location for all aspects of control and governance within your account.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Platform analyticsMore Information\n\nGovern and understand your Quickbase ecosystem of apps, users, and integrations with a dashboard that provides administrators complete visibility into the usage of Quickbase across your organization.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| FDA & HIPAA complianceMore Information\n\nQuickbase enables its customers to build FDA- and HIPAA-compliant applications and can provide customers the documentation needed to show that the platform meets the requirements for use cases that fall under US FDA CFR Title 21 Part 11. Quickbase will sign Business Associate Agreements (BAAs) with customers on qualified plans.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Admin: Data Protection |\n| Strong encryptionMore Information\n\nQuickbase encrypts all data at the application layer both at rest with AES-256 bit encryption, as well as in transit with TLS using a shared key.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Advanced data encryptionMore Information\n\nEncrypt your proprietary data with a customer-specific encryption key and change it on your own schedule.\n\n | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n| AI-powered sensitive data scannerMore Information\n\nPerform powerful, AI-powered data scans on a regular basis to comply with your data governance policies.\n\n | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n| Data classificationMore Information\n\nMitigate risk and comply with data governance policies by applying data classification labels for your apps.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Data backup & recoveryMore Information\n\nQuickbase keeps 14 days\u2019 worth of daily backups and 6 months\u2019 worth of weekly backups which can be restored by customer request.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Advanced authentication controlsMore Information\n\nEnforce stricter security controls through custom password policies, controlling user sessions, and more.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Advanced security controlsMore Information\n\nControl how data is secured, who can invite new users, who has access to specific integration connectors.\n\n | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Admin: Identity & Access Management |\n| SAML authenticationMore Information\n\nControl who has access to Quickbase through your corporate directory and enable users to login with their existing credentials.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Role-based authorizationMore Information\n\nControl who can create apps, create integrations, manage your Quickbase account, etc.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| SCIM provisioningMore Information\n\nSimplify user provisioning by synchronizing access to Quickbase from a central identity management provider such as Okta, One Login and others.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| AuditingMore Information\n\nGain visibility into your users' activities and changes to their data and apps, and meet your organization's security and compliance policies.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Admin: Audit Log Management |\n| Collect and centralize (CSV) | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| API access to audit logs | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n| Data retention | 6 months | 1 year | 3 years | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Admin: Network Access Control |\n| IP filtering for apps | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Static IPs for Pipelines | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Admin: Performance Tools |\n| Performance optimizerMore Information\n\nScan an app for performance optimizations, then apply them with a single click.\n\n | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n| Performance insightsMore Information\n\nIdentifies performance hotspots and makes recommendations for remediation.\n\n | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Admin: Application Lifecycle Management |\n| Sandbox | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Versioning & rollbackMore Information\n\nCreate schema snapshots for your apps and pipelines, and roll back to a previous version if needed.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Solution APIsMore Information\n\nGroup your apps and workflows together into solutions, allowing you to create multiple environments. This makes it easy to safely manage and deploy changes to your solutions at scale.\n\n | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Support and Enablement Services |\n| Self-paced eLearningMore Information\n\nLearn how to build applications with confidence through online training courses that enable you to learn on-demand.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Community supportMore Information\n\nFind answers, support, and inspiration from other Quickbase users.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Case-based supportMore Information\n\nWhen you need assistance, submit a request to our expert technical support team, and a real person will respond with the help you need.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Enablement servicesMore Information\n\nIn addition to the basic support included with every annual Quickbase subscription, we offer several advanced support packages (Essential, Premium, Ultimate) that feature a mix of training and onboarding support, technical consulting, best practices around governance, ongoing CSM engagement for success planning and business impact analysis and of course access to our best-in-class customer Care support.\n\n | Extra cost\n\nThis feature is available as an add-on. For pricing information, please [contact us](https://www.quickbase.com/contact-us).\n\n | Extra cost\n\nThis feature is available as an add-on. For pricing information, please [contact us](https://www.quickbase.com/contact-us).\n\n | Extra cost\n\nThis feature is available as an add-on. For pricing information, please [contact us](https://www.quickbase.com/contact-us).\n\n | Not included\n\n |\n| App restore assistanceMore Information\n\nEnsure business continuity and peace of mind by restoring your apps and data from our backups in the event of an accidental deletion.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n\n|  | Team | Business | Enterprise |  |\n| --- | --- | --- | --- | --- |\n| Communication |\n| Outlook | Included\n | Included\n\n | Included\n\n | Not included\n\n |\n| Gmail | Included\n\n | Included\n\n | Included\n\n | Included\n\n |\n| Microsoft Teams | Included\n\n | Included\n\n | Included\n\n | Included\n\n |\n| Slack | Included\n\n | Included\n\n | Included\n\n | Included\n\n |\n| Google Calendar | Included\n\n | Included\n\n | Included\n\n | Included\n\n |\n| Google Contacts | Included\n\n | Included\n\n | Included\n\n | Included\n\n |\n| Mailgun | Not included\n\n | Included\n\n | Included\n\n | Included\n\n |\n| Twilio | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Mailparser | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Mailchimp | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Pushbullet | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Marketo | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Document Creation & Storage |\n| Box | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Dropbox | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Google Docs | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Google Drive | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| OneDrive | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Sharepoint | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Formstack Documents | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Amazon S3 | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Project Management |\n| Asana | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| JIRA | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Trello | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Workflow Enhancement |\n| FastField | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| PowerBI | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Lucidchart | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Zapier | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Google Sheets | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| G Suite | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Zendesk | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Clearbit | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Docusign | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Formstack Forms | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Shipstation | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Financial Software |\n| Bill.com | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Intacct | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Quickbooks Online | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Back-end Systems of Record |\n| Netsuite | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Salesforce | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Zuora | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Autodesk | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Procore | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| ServiceNow | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n| Snowflake | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n| On-prem connectivity | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n\nAudit logs\n\nEnsure your security standards and compliance policies are upheld. Store rolling audit logs for 3, 5, or 7 years.\n\nApp restore assistance\n\nEnsure business continuity and peace of mind by restoring your apps and data from our backups in the event of an accidental deletion.\n\nUsers\n\nExtend the Quickbase platform to more people through purchasing additional users.\n\nReads\n\nPay for what you need, increasing your users access to key insights and information without sacrificing budget.\n\nFrequently asked questions\n--------------------------\n\nThere are no limits to the number of users you can buy on any plan. Quickbase can support thousands of people and apps across your organization.\n\nWe recognize that not all of our customers use Quickbase the same way. In order to accommodate scenarios where every user leverages the platform differently, we have a usage-based pricing option underneath each of our plans. The pricing under this option is based on the collective usage of all users instead of the number of users. Please reach out if you have questions. We're happy to provide more details and discuss options.\n\nEach plan comes with different quantities of application space as well as storage space for your presentations, contracts, photos, recordings \u2014 whichever assets are important to you.\n\nAs part of our Enablement Services Packages, we do offer different models that offer a range of guided app development, collaborative app development, and rapid app development.\n\nAs a part of our Project Services, we do offer SOW based work to support customer needs with the intent the customer owns their applications long term.\n\nIf your organization is looking to have someone completely build and maintain your applications for the long term, we are happy to refer you to one of our expert qualified service partners.\n\nAll users must be on the same plan.\n\nEvery annual account includes basic support, including access to Quickbase University, help documentation, customer care support and the Qrew.\n\nIn addition to the basic support, we recognize that our customers are often in need of additional capacity and expertise to build, support or scale Quickbase applications. We offer additional services that provide pre-defined solutions, flexible build options, and best-in-class support. By offering tailored building, consulting, training and managed services, we can help customers overcome technical or platform knowledge barriers and find success within Quickbase!\n\nChat with us by clicking the conversation bubble icon at the bottom right of your screen, or call [1-855-725-2293](tel:+18557252293). We will be happy to assist you.\n\nSee plans and pricing for the Quickbase platform and choose the right fit for your business, or chat with an expert to receive guidance on which package is best for you.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "quickbase",
+        "app_name": "Quickbase",
+        "app_slug": "quickbase",
+        "pricing_url": "https://www.quickbase.com/plans-and-pricing",
+        "source_url": "https://www.quickbase.com/plans-and-pricing",
+        "all_pricing_urls": [
+          "https://www.quickbase.com/plans-and-pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes user-based subscription and usage-based options. Enhanced services incur additional costs.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free Trial",
+            "tier_description": "Free trial for 30 days.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "All business features"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Team",
+            "tier_description": "Make teamwork faster, easier & more secure.",
+            "monthly_price": 35.0,
+            "annual_price": 420.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Personalized dashboards & 13+ report types",
+              "Communication & file management integrations",
+              "Workflow automation",
+              "User & data security controls",
+              "Data encryption",
+              "Audit logs",
+              "Team Enhanced Services"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "Connect people and tools effortlessly.",
+            "monthly_price": 55.0,
+            "annual_price": 660.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "All Team features",
+              "Single sign-on & SCIM provisioning",
+              "Point solution & workflow enhancement channels",
+              "External collaboration tools",
+              "Gantt charts",
+              "Sandbox",
+              "FDA & HIPAA compliance",
+              "Business Enhanced Services"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Optimize operations across your entire organization.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "All Team & Business features",
+              "Advanced performance tools",
+              "Advanced data encryption",
+              "On-prem connectivity & data warehouse integrations",
+              "Advanced security controls",
+              "Governance APIs",
+              "AI-powered sensitive data scanning",
+              "Enterprise Enhanced Services"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Reads",
+            "unit": "per read",
+            "base_price": null,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Enhanced Services",
+            "fee_amount": null,
+            "fee_description": "Recurring Enhanced Services are not included in the base cost."
+          }
+        ],
+        "extraction_timestamp": "2025-04-14T23:04:30.256358",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.quickbase.com/pricing",
+      "is_accessible": true,
+      "content": "![Image 1: A graphic with squares breaking off of multicolored lines](https://assets.marketing.quickbase.com/brand/Illustrations/_1320x1023_crop_center-center_82_line/brand-illustrations-exit-intent.png)\n\n### Not quite ready to buy? Start your free trial now.\n\nTake a look at Quickbase in action to see how it can help your team solve complex projects.\n\n[Get started](https://www.quickbase.com/trial-register?regType=new)\n\nFree trial\n----------\n\n0\n\nFree for 30 days.\n\n**Let your team discover (and love!) the benefits of Quickbase before you commit**\n\n*   All business features\n    \n\nTeam\n----\n\nStarts at  \n35/user/mo\n\nPriced annually\n\n**Make teamwork faster, easier & more secure**\n\n*   Personalized dashboards & 13+ report types\n    \n*   Communication & file management integrations\n    \n*   Workflow automation\n    \n*   User & data security controls\n    \n*   Data encryption\n    \n*   Audit logs\n    \n*   \\+ Team Enhanced Services\n    \n\n_Cost shown does not include reoccurring Enhanced Services. [Learn more.](https://www.quickbase.com/services)_\n\nBusiness\n--------\n\nStarts at  \n55/user/mo\n\nPriced annually\n\nGet a quote\n\n**Connect people and tools effortlessly**\n\n*   All Team features +\n    \n*   Single sign-on & SCIM provisioning\n    \n*   Point solution & workflow enhancement channels\n    \n*   External collaboration tools\n    \n*   Gantt charts\n    \n*   Sandbox\n    \n*   FDA & HIPAA compliance\n    \n*   \\+ Business Enhanced Services\n    \n\n_Cost shown does not include Enhanced Services. [Learn more.](https://www.quickbase.com/services)_\n\nEnterprise\n----------\n\nFully customizable\n\nFully customizable\n\n**Optimize operations across your entire organization**\n\n*   All Team & Business features +\n    \n*   Advanced performance tools\n    \n*   Advanced data encryption\n    \n*   On-prem connectivity & data warehouse integrations\n    \n*   Advanced security controls\n    \n*   Governance APIs\n    \n*   AI-powered sensitive data scanning\n    \n*   \\+ Enterprise Enhanced Services\n    \n\n_Cost shown does not include Enhanced Services. [Learn more.](https://www.quickbase.com/services)_\n\n*   [Full Plan Comparison](https://www.quickbase.com/pricing#tab-section-2-full-plan-comparison)\n*   [Integrations](https://www.quickbase.com/pricing#tab-section-2-integrations)\n*   [Add-ons](https://www.quickbase.com/pricing#tab-section-2-add-ons)\n\n|  | Team | Business | Enterprise |  |\n| --- | --- | --- | --- | --- |\n| Builder: App Builder |\n| AI Smart BuilderMore Information\nAI-assisted app, report and pipeline building to help you build and customize your applications faster\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Data storage | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Field-level roles and permissions | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Custom branding (per app)More Information\n\nBrand your Quickbase interface on an app-by-app basis by featuring your organization's logo and colors\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Custom branding (account-wide)More Information\n\nBrand the Quickbase interface across your entire account by featuring your organization's logo and colors\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Builder: Template Library |\n| Starter appsMore Information\n\nAccess to hundreds of sample apps from the Quickbase Exchange.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| ComponentsMore Information\n\nAccess to pre-built app components like formulas to accelerate app development.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Plugins | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Integrations |\n| Communication and file management channelsMore Information\n\nPlease refer to the Integrations tab for full list of connectors available by plan.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Point solution and workflow enhancement channelsMore Information\n\nPlease refer to the Integrations tab for full list of connectors available by plan.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Enterprise system integration channelsMore Information\n\nPlease refer to the Integrations tab for full list of connectors available by plan.\n\n | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Insights |\n| Personalized dashboards | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Reports and charts | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Gantt chartsMore Information\n\nTrack delivery timelines for your complex projects with a fully interactive Gantt view.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Automations |\n| Workflow automations | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Email notifications | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Email subscriptions | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Share publicly (everyone on the internet)More Information\n\nSet up public access to a Quickbase app, with the option to create a publicly-accessible link to selected information within Quickbase for members of the public to view\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Email anyone (email non-users)More Information\n\nSet up automatic notifications and email subscriptions to non-Quickbase users without granting them a user license within Quickbase\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Mobile |\n| Quickbase mobile app | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Admin: Account Governance |\n| Admin consoleMore Information\n\nOne central location for all aspects of control and governance within your account.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Platform analyticsMore Information\n\nGovern and understand your Quickbase ecosystem of apps, users, and integrations with a dashboard that provides administrators complete visibility into the usage of Quickbase across your organization.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| FDA & HIPAA complianceMore Information\n\nQuickbase enables its customers to build FDA- and HIPAA-compliant applications and can provide customers the documentation needed to show that the platform meets the requirements for use cases that fall under US FDA CFR Title 21 Part 11. Quickbase will sign Business Associate Agreements (BAAs) with customers on qualified plans.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Admin: Data Protection |\n| Strong encryptionMore Information\n\nQuickbase encrypts all data at the application layer both at rest with AES-256 bit encryption, as well as in transit with TLS using a shared key.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Advanced data encryptionMore Information\n\nEncrypt your proprietary data with a customer-specific encryption key and change it on your own schedule.\n\n | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n| AI-powered sensitive data scannerMore Information\n\nPerform powerful, AI-powered data scans on a regular basis to comply with your data governance policies.\n\n | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n| Data classificationMore Information\n\nMitigate risk and comply with data governance policies by applying data classification labels for your apps.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Data backup & recoveryMore Information\n\nQuickbase keeps 14 days\u2019 worth of daily backups and 6 months\u2019 worth of weekly backups which can be restored by customer request.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Advanced authentication controlsMore Information\n\nEnforce stricter security controls through custom password policies, controlling user sessions, and more.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Advanced security controlsMore Information\n\nControl how data is secured, who can invite new users, who has access to specific integration connectors.\n\n | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Admin: Identity & Access Management |\n| SAML authenticationMore Information\n\nControl who has access to Quickbase through your corporate directory and enable users to login with their existing credentials.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Role-based authorizationMore Information\n\nControl who can create apps, create integrations, manage your Quickbase account, etc.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| SCIM provisioningMore Information\n\nSimplify user provisioning by synchronizing access to Quickbase from a central identity management provider such as Okta, One Login and others.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| AuditingMore Information\n\nGain visibility into your users' activities and changes to their data and apps, and meet your organization's security and compliance policies.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Admin: Audit Log Management |\n| Collect and centralize (CSV) | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| API access to audit logs | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n| Data retention | 6 months | 1 year | 3 years | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Admin: Network Access Control |\n| IP filtering for apps | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Static IPs for Pipelines | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Admin: Performance Tools |\n| Performance optimizerMore Information\n\nScan an app for performance optimizations, then apply them with a single click.\n\n | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n| Performance insightsMore Information\n\nIdentifies performance hotspots and makes recommendations for remediation.\n\n | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Admin: Application Lifecycle Management |\n| Sandbox | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Versioning & rollbackMore Information\n\nCreate schema snapshots for your apps and pipelines, and roll back to a previous version if needed.\n\n | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Solution APIsMore Information\n\nGroup your apps and workflows together into solutions, allowing you to create multiple environments. This makes it easy to safely manage and deploy changes to your solutions at scale.\n\n | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Support and Enablement Services |\n| Self-paced eLearningMore Information\n\nLearn how to build applications with confidence through online training courses that enable you to learn on-demand.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Community supportMore Information\n\nFind answers, support, and inspiration from other Quickbase users.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Case-based supportMore Information\n\nWhen you need assistance, submit a request to our expert technical support team, and a real person will respond with the help you need.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Enablement servicesMore Information\n\nIn addition to the basic support included with every annual Quickbase subscription, we offer several advanced support packages (Essential, Premium, Ultimate) that feature a mix of training and onboarding support, technical consulting, best practices around governance, ongoing CSM engagement for success planning and business impact analysis and of course access to our best-in-class customer Care support.\n\n | Extra cost\n\nThis feature is available as an add-on. For pricing information, please [contact us](https://www.quickbase.com/contact-us).\n\n | Extra cost\n\nThis feature is available as an add-on. For pricing information, please [contact us](https://www.quickbase.com/contact-us).\n\n | Extra cost\n\nThis feature is available as an add-on. For pricing information, please [contact us](https://www.quickbase.com/contact-us).\n\n | Not included\n\n |\n| App restore assistanceMore Information\n\nEnsure business continuity and peace of mind by restoring your apps and data from our backups in the event of an accidental deletion.\n\n | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n\n|  | Team | Business | Enterprise |  |\n| --- | --- | --- | --- | --- |\n| Communication |\n| Outlook | Included\n | Included\n\n | Included\n\n | Not included\n\n |\n| Gmail | Included\n\n | Included\n\n | Included\n\n | Included\n\n |\n| Microsoft Teams | Included\n\n | Included\n\n | Included\n\n | Included\n\n |\n| Slack | Included\n\n | Included\n\n | Included\n\n | Included\n\n |\n| Google Calendar | Included\n\n | Included\n\n | Included\n\n | Included\n\n |\n| Google Contacts | Included\n\n | Included\n\n | Included\n\n | Included\n\n |\n| Mailgun | Not included\n\n | Included\n\n | Included\n\n | Included\n\n |\n| Twilio | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Mailparser | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Mailchimp | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Pushbullet | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Marketo | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Document Creation & Storage |\n| Box | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Dropbox | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Google Docs | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Google Drive | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| OneDrive | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Sharepoint | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Formstack Documents | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Amazon S3 | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Project Management |\n| Asana | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| JIRA | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Trello | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Workflow Enhancement |\n| FastField | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| PowerBI | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Lucidchart | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Zapier | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Google Sheets | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| G Suite | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Zendesk | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Clearbit | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Docusign | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Formstack Forms | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Shipstation | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Financial Software |\n| Bill.com | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Intacct | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Quickbooks Online | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n|  | Team | Business | Enterprise |  |\n| Back-end Systems of Record |\n| Netsuite | Included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Salesforce | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Zuora | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Autodesk | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| Procore | Not included\n\n | Included\n\n | Included\n\n | Not included\n\n |\n| ServiceNow | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n| Snowflake | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n| On-prem connectivity | Not included\n\n | Not included\n\n | Included\n\n | Not included\n\n |\n\nAudit logs\n\nEnsure your security standards and compliance policies are upheld. Store rolling audit logs for 3, 5, or 7 years.\n\nApp restore assistance\n\nEnsure business continuity and peace of mind by restoring your apps and data from our backups in the event of an accidental deletion.\n\nUsers\n\nExtend the Quickbase platform to more people through purchasing additional users.\n\nReads\n\nPay for what you need, increasing your users access to key insights and information without sacrificing budget.\n\nFrequently asked questions\n--------------------------\n\nThere are no limits to the number of users you can buy on any plan. Quickbase can support thousands of people and apps across your organization.\n\nWe recognize that not all of our customers use Quickbase the same way. In order to accommodate scenarios where every user leverages the platform differently, we have a usage-based pricing option underneath each of our plans. The pricing under this option is based on the collective usage of all users instead of the number of users. Please reach out if you have questions. We're happy to provide more details and discuss options.\n\nEach plan comes with different quantities of application space as well as storage space for your presentations, contracts, photos, recordings \u2014 whichever assets are important to you.\n\nAs part of our Enablement Services Packages, we do offer different models that offer a range of guided app development, collaborative app development, and rapid app development.\n\nAs a part of our Project Services, we do offer SOW based work to support customer needs with the intent the customer owns their applications long term.\n\nIf your organization is looking to have someone completely build and maintain your applications for the long term, we are happy to refer you to one of our expert qualified service partners.\n\nAll users must be on the same plan.\n\nEvery annual account includes basic support, including access to Quickbase University, help documentation, customer care support and the Qrew.\n\nIn addition to the basic support, we recognize that our customers are often in need of additional capacity and expertise to build, support or scale Quickbase applications. We offer additional services that provide pre-defined solutions, flexible build options, and best-in-class support. By offering tailored building, consulting, training and managed services, we can help customers overcome technical or platform knowledge barriers and find success within Quickbase!\n\nChat with us by clicking the conversation bubble icon at the bottom right of your screen, or call [1-855-725-2293](tel:+18557252293). We will be happy to assist you.\n\nSee plans and pricing for the Quickbase platform and choose the right fit for your business, or chat with an expert to receive guidance on which package is best for you.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "quickbase",
+        "app_name": "Quickbase",
+        "app_slug": "quickbase",
+        "pricing_url": "https://www.quickbase.com/pricing",
+        "source_url": "https://www.quickbase.com/pricing",
+        "all_pricing_urls": [
+          "https://www.quickbase.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes subscription-based and usage-based options. Enhanced services are available at additional costs.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free Trial",
+            "tier_description": "Free trial for 30 days.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "All business features"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Team",
+            "tier_description": "Make teamwork faster, easier & more secure.",
+            "monthly_price": 35.0,
+            "annual_price": 420.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Personalized dashboards & 13+ report types",
+              "Communication & file management integrations",
+              "Workflow automation",
+              "User & data security controls",
+              "Data encryption",
+              "Audit logs",
+              "Team Enhanced Services"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "Connect people and tools effortlessly.",
+            "monthly_price": 55.0,
+            "annual_price": 660.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "All Team features",
+              "Single sign-on & SCIM provisioning",
+              "Point solution & workflow enhancement channels",
+              "External collaboration tools",
+              "Gantt charts",
+              "Sandbox",
+              "FDA & HIPAA compliance",
+              "Business Enhanced Services"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Optimize operations across your entire organization.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "All Team & Business features",
+              "Advanced performance tools",
+              "Advanced data encryption",
+              "On-prem connectivity & data warehouse integrations",
+              "Advanced security controls",
+              "Governance APIs",
+              "AI-powered sensitive data scanning",
+              "Enterprise Enhanced Services"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Users",
+            "unit": "per user",
+            "base_price": 35.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Users",
+            "unit": "per user",
+            "base_price": 55.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Enhanced Services",
+            "fee_amount": null,
+            "fee_description": "Recurring Enhanced Services available at additional costs."
+          }
+        ],
+        "extraction_timestamp": "2025-04-14T23:04:38.353018",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\quickbase\\20250414_230438"
+}

@@ -1,0 +1,12 @@
+{
+  "app_name": "Facebook Pages",
+  "app_slug": "facebook-pages",
+  "search_term": "Find the official pricing page URL for Facebook Pages (facebook-pages.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744721152.550738,
+  "response_text": [
+    "I couldn\u2019t find an official pricing page URL specifically for Facebook Pages. It seems that Facebook Pages themselves do not have a direct pricing model but rather facilitate features for businesses or ad-related expenses. Let me know if you'd like help with other details."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\facebook-pages\\20250415_084552"
+}

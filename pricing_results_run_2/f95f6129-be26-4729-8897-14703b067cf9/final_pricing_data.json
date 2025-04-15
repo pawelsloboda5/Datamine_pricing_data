@@ -1,0 +1,43 @@
+{
+  "app_id": "anydo_workspace",
+  "app_name": "Any.do Workspace",
+  "app_slug": "anydo-workspace",
+  "pricing_url": null,
+  "source_url": "https://www.anydo.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not accessible, and no details could be extracted.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:31:30.659798",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "f95f6129-be26-4729-8897-14703b067cf9",
+    "name": "Any.do Workspace",
+    "slug": "anydo-workspace",
+    "description": "Any.do is a productivity app to help you organize your tasks, to-do lists, and schedule in one place as well as collaborate with your team.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/61b852266b12ca1eb1394f2dfeca7a0b_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 12
+  }
+}

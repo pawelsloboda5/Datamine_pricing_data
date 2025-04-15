@@ -1,0 +1,19 @@
+{
+  "app_name": "Disciple",
+  "app_slug": "disciple",
+  "search_term": "Find the official pricing page URL for Disciple (disciple.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744720657.1112955,
+  "response_text": [
+    "The official pricing page URL for Disciple is: [https://www.disciplemedia.com/pricing/](https://www.disciplemedia.com/pricing/) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.disciplemedia.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\disciple\\20250415_083752"
+}

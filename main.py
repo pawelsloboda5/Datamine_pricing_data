@@ -412,12 +412,13 @@ def process_single_app_enhanced(app_name, app_slug, output_dir):
 def run_mongodb_processing(args):
     """
     Process apps directly from MongoDB collection apicus-processed-apps,
-    filtering for apps that have at least one action or trigger.
+    filtering for apps that have at least one action or trigger AND
+    do not already have an entry in the apicus-apps-prices collection.
     
     Args:
         args: Command line arguments
     """
-    print("Starting MongoDB app processing pipeline...")
+    print("Starting MongoDB app processing pipeline (skipping apps with existing pricing)...")
     
     # Create output directory if it doesn't exist
     os.makedirs(args.output_dir, exist_ok=True)
@@ -425,20 +426,59 @@ def run_mongodb_processing(args):
     # Connect to MongoDB
     db = scrape_w_jina_ai.connect_to_mongodb()
     
-    # Query apps with at least one action OR trigger
-    query = {
-        "$or": [
-            {"has_actions": True},
-            {"has_triggers": True}
-        ]
-    }
-    
-    print(f"Retrieving apps from MongoDB (limit: {args.limit}, skip: {args.skip})...")
     apps_collection = db["apicus-processed-apps"]
     pricing_collection = db["apicus-apps-prices"]
     
-    # Find apps with actions/triggers, skipping already processed ones if needed
-    apps_cursor = apps_collection.find(query).skip(args.skip).limit(args.limit)
+    # Aggregation pipeline to find apps with actions/triggers AND no existing pricing data
+    pipeline = [
+        {
+            '$match': {
+                '$or': [
+                    {'has_actions': True},
+                    {'has_triggers': True}
+                ]
+            }
+        },
+        {
+            '$lookup': {
+                'from': pricing_collection.name,
+                'localField': 'app_id',
+                'foreignField': 'app_id',
+                'as': 'existing_pricing'
+            }
+        },
+        {
+            '$match': {
+                'existing_pricing': {'$size': 0}  # Only include apps with no existing pricing data
+            }
+        },
+        {
+            '$skip': args.skip
+        },
+        {
+            '$limit': args.limit
+        },
+        {
+             '$project': { # Project only necessary fields after filtering
+                 'app_id': 1,
+                 'name': 1,
+                 'slug': 1,
+                 'description': 1,
+                 'has_actions': 1,
+                 'has_triggers': 1,
+                 'action_count': 1,
+                 'trigger_count': 1,
+                 'logo_url': 1,
+                 'normalized_categories': 1,
+                 'category_slugs': 1
+             }
+        }
+    ]
+    
+    print(f"Retrieving apps from MongoDB (limit: {args.limit}, skip: {args.skip}) that need pricing data...")
+    
+    # Execute the aggregation pipeline
+    apps_cursor = apps_collection.aggregate(pipeline)
     apps = list(apps_cursor)
     
     print(f"Retrieved {len(apps)} apps for processing")
@@ -850,7 +890,7 @@ def run_indexing():
     """Create vector indexes for pricing data (placeholder for future implementation)."""
     print("Indexing functionality not yet implemented")
     print("This would create vector indexes in MongoDB for similarity search")
-
+# Local Deployment Configuration
 def main():
     """Main entry point for the script."""
     # Load environment variables

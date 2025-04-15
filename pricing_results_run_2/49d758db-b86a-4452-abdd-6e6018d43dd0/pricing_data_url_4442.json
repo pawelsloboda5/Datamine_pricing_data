@@ -1,0 +1,141 @@
+{
+  "app_id": "servicetrade",
+  "app_name": "ServiceTrade",
+  "app_slug": "servicetrade",
+  "pricing_url": "https://servicetrade.com/pricing/",
+  "source_url": "https://servicetrade.com/pricing/",
+  "all_pricing_urls": [
+    "https://servicetrade.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of technicians, with unlimited office users included.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Select",
+      "tier_description": "Improve your service operations",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Starts at 5 techs",
+        "Unlimited office users",
+        "QuickBooks integration",
+        "Live support 9 am \u2013 7 pm ET",
+        "Certification Program"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Technicians",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Grow your service business",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Best for 10-20 techs",
+        "Unlimited office users",
+        "Service Portal",
+        "Asset maintenance tasking",
+        "Project management",
+        "Salesperson assignments",
+        "Subcontract work",
+        "Multiple Terms & Conditions",
+        "Support for contract price lists",
+        "Support for custom integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Technicians",
+            "value": "10-20"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Build a premium brand",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Best for 20+ techs",
+        "Unlimited office users",
+        "Recurring contract invoices",
+        "Business Analytics reporting",
+        "Smart AI capabilities",
+        "Tech time tracking & capacity planning",
+        "Multiple brands",
+        "Geographical regions"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Technicians",
+            "value": "20+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:05:52.618964",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "49d758db-b86a-4452-abdd-6e6018d43dd0",
+    "name": "ServiceTrade",
+    "slug": "servicetrade",
+    "description": "ServiceTrade is a customer service and sales application for commercial service contractors. Convert more of your contract work into repair revenue. Educate customers about the work you did for them with media-rich online service reports. Manage your service operations and connect your customer service data with other business applications.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/827cc9f8e564827efd55f47e166055c2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 38,
+    "trigger_count": 17
+  }
+}

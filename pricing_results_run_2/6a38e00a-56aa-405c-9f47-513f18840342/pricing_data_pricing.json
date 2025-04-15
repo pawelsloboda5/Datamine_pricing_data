@@ -1,0 +1,199 @@
+{
+  "app_id": "ptminder",
+  "app_name": "PTminder",
+  "app_slug": "ptminder",
+  "pricing_url": "https://www.ptminder.com/pricing",
+  "source_url": "https://www.ptminder.com/pricing",
+  "all_pricing_urls": [
+    "https://www.ptminder.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers a 10% discount compared to monthly billing. Additional costs apply for SMS packages and branded mobile apps.",
+  "pricing_tiers": [
+    {
+      "tier_name": "50 Client Plan",
+      "tier_description": "For 0-50 clients",
+      "monthly_price": 67.78,
+      "annual_price": 61.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Client Management",
+        "Bookings, Calendar, Scheduling",
+        "Online Payments",
+        "Workout & Nutrition Planners",
+        "Reporting",
+        "24 x 7 Live Chat Help"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Active Clients",
+            "value": "0-50"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "100 Client Plan",
+      "tier_description": "For 51-100 clients",
+      "monthly_price": 82.22,
+      "annual_price": 74.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Client Management",
+        "Bookings, Calendar, Scheduling",
+        "Online Payments",
+        "Workout & Nutrition Planners",
+        "Reporting",
+        "24 x 7 Live Chat Help"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Active Clients",
+            "value": "51-100"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "150 Client Plan",
+      "tier_description": "For 101-150 clients",
+      "monthly_price": 136.67,
+      "annual_price": 123.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Client Management",
+        "Bookings, Calendar, Scheduling",
+        "Online Payments",
+        "Workout & Nutrition Planners",
+        "Reporting",
+        "24 x 7 Live Chat Help"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Active Clients",
+            "value": "101-150"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "200 Client Plan",
+      "tier_description": "For 151-200 clients",
+      "monthly_price": 167.78,
+      "annual_price": 151.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Client Management",
+        "Bookings, Calendar, Scheduling",
+        "Online Payments",
+        "Workout & Nutrition Planners",
+        "Reporting",
+        "24 x 7 Live Chat Help"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Active Clients",
+            "value": "151-200"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Unlimited Plan",
+      "tier_description": "For 200+ clients",
+      "monthly_price": 241.11,
+      "annual_price": 217.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Client Management",
+        "Bookings, Calendar, Scheduling",
+        "Online Payments",
+        "Workout & Nutrition Planners",
+        "Reporting",
+        "24 x 7 Live Chat Help"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Active Clients",
+            "value": "200+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Branded Mobile Apps",
+      "fee_amount": 36.0,
+      "fee_description": "Custom branded apps for your business (iOS and Android)."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:25:51.093259",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6a38e00a-56aa-405c-9f47-513f18840342",
+    "name": "PTminder",
+    "slug": "ptminder",
+    "description": "PTminder is a business management platform designed for Personal Trainers",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/34470a091567f456769a3fe1df88d5a3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 11
+  }
+}

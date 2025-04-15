@@ -1,0 +1,88 @@
+{
+  "app_id": "boldsign",
+  "app_name": "BoldSign",
+  "app_slug": "boldsign",
+  "pricing_url": "https://boldsign.com/electronic-signature-pricing/",
+  "source_url": "https://www.boldsign.com/pricing/",
+  "all_pricing_urls": [
+    "https://boldsign.com/electronic-signature-pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing starts from $5 per month, with a free tier available.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic eSignature features for individuals.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic eSignature features"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "limited",
+        "operations": "limited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Paid",
+      "tier_description": "Advanced features for professionals and teams.",
+      "monthly_price": 5.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced eSignature features",
+        "Team collaboration"
+      ],
+      "limits": {
+        "users": "multiple",
+        "storage": "extended",
+        "operations": "extended",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:43:50.055775",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4c13efdf-9c66-4b66-821a-88d4b94f53bb",
+    "name": "BoldSign",
+    "slug": "boldsign",
+    "description": "BoldSign is an electronic signature solution that lets you collect legally binding eSignatures online from any device.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/00cb54ddb4da494c6e5d7095ceab7341.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Signatures"
+    ],
+    "category_slugs": [
+      "signatures"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

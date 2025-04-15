@@ -1,0 +1,12 @@
+{
+  "app_name": "Tango",
+  "app_slug": "tango",
+  "search_term": "Find the official pricing page URL for Tango (tango.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744705917.3749044,
+  "response_text": [
+    "I couldn't locate an official pricing page for Tango on tango.com. Please check their website directly or provide more details to refine the search."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\tango\\20250415_043158"
+}

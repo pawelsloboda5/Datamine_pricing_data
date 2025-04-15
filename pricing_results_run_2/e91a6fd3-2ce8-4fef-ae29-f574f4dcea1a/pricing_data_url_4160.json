@@ -1,0 +1,204 @@
+{
+  "app_id": "thinkific",
+  "app_name": "Thinkific",
+  "app_slug": "thinkific",
+  "pricing_url": "https://www.thinkific.com/get-started/select-a-plan&country_code=US",
+  "source_url": "https://www.thinkific.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.thinkific.com/get-started/select-a-plan&country_code=US"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual pricing offers a discount compared to monthly pricing. Thinkific+ requires a custom quote.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Start making money on your expertise. Get the foundational features, tools, and support to monetize your learning business.",
+      "monthly_price": 49.0,
+      "annual_price": 36.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited students",
+        "Unlimited courses",
+        "1 community",
+        "5 digital downloads",
+        "5 coaching and webinars",
+        "Email and chat support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Communities",
+            "value": 1
+          },
+          {
+            "name": "Digital Downloads",
+            "value": 5
+          },
+          {
+            "name": "Coaching and Webinars",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Start",
+      "tier_description": "For creator-educators ready to scale up, unlock features to drive student engagement and grow your business.",
+      "monthly_price": 99.0,
+      "annual_price": 74.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited students",
+        "Unlimited courses",
+        "1 community",
+        "Unlimited digital downloads",
+        "Unlimited coaching and webinars",
+        "Email and chat support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Communities",
+            "value": 1
+          },
+          {
+            "name": "Digital Downloads",
+            "value": "unlimited"
+          },
+          {
+            "name": "Coaching and Webinars",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Grow",
+      "tier_description": "Level up your learning business with more support, more learning products, and advanced features to help you sell more.",
+      "monthly_price": 199.0,
+      "annual_price": 149.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited students",
+        "Unlimited courses",
+        "3 communities",
+        "Unlimited digital downloads",
+        "Unlimited coaching and webinars",
+        "Phone and priority email support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Communities",
+            "value": 3
+          },
+          {
+            "name": "Digital Downloads",
+            "value": "unlimited"
+          },
+          {
+            "name": "Coaching and Webinars",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Thinkific+",
+      "tier_description": "Designed for high-growth businesses and teams. Includes enterprise-level features, advanced integrations, and tailored support.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited students",
+        "Unlimited courses",
+        "Unlimited communities",
+        "Unlimited digital downloads",
+        "Unlimited coaching and webinars",
+        "Dedicated Customer Success Team"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Communities",
+            "value": "unlimited"
+          },
+          {
+            "name": "Digital Downloads",
+            "value": "unlimited"
+          },
+          {
+            "name": "Coaching and Webinars",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Third-party payment gateway fee",
+      "fee_amount": null,
+      "fee_description": "Applies to customers using Stripe or PayPal in supported countries."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:51:42.088330",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e91a6fd3-2ce8-4fef-ae29-f574f4dcea1a",
+    "name": "Thinkific",
+    "slug": "thinkific",
+    "description": "The all-in-one platform to create, market & sell your online courses. Deliver beautiful courses on your own site, with no technical or design experience required!",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/bf6ec88bd8e251507a3bcdb44f020a8b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 8
+  }
+}

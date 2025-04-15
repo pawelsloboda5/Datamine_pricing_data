@@ -1,0 +1,59 @@
+{
+  "app_id": "personal_ai",
+  "app_name": "Personal AI",
+  "app_slug": "personal-ai",
+  "pricing_url": null,
+  "source_url": "https://www.personal-ai.com",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "one_time"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The service offers a one-time setup starting at $10,000 for a personalized AI solution.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Elevate",
+      "tier_description": "A private and personal AI solution tailored for commercial needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 10000.0,
+      "features": [
+        "End-to-end memory training",
+        "Commercial use capabilities"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:55:49.594177",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "f0ec437f-2456-4901-baac-63dddc1fcc88",
+    "name": "Personal AI",
+    "slug": "personal-ai",
+    "description": "Personal AI, your digital mind for enhanced living. Unlock AI's power as it recalls memories and engages in meaningful conversations.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/bf4b26a188ad206c42297b7d29770bea.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools"
+    ],
+    "category_slugs": [
+      "ai-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 8,
+    "trigger_count": 0
+  }
+}

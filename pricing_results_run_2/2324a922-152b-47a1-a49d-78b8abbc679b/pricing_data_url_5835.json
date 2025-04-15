@@ -1,0 +1,176 @@
+{
+  "app_id": "bookingkoala",
+  "app_name": "BookingKoala",
+  "app_slug": "bookingkoala",
+  "pricing_url": "https://www.bookingkoala.com/pricing/",
+  "source_url": "https://www.bookingkoala.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.bookingkoala.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing increases based on the number of Providers, Storage, or Contacts required.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "For starting businesses with essential tools.",
+      "monthly_price": 27.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 Providers or 5 GB",
+        "Advanced theme builder",
+        "Your own domain",
+        "Booking forms & customization",
+        "Smart scheduling",
+        "Mobile access",
+        "Leads"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "5 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Providers",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growing",
+      "tier_description": "For growing businesses with more customization and automation.",
+      "monthly_price": 57.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "15 Providers or 15 GB",
+        "Advanced reports",
+        "Referral & rating system",
+        "Gift cards",
+        "GPS & clocking In/Out",
+        "Prospects",
+        "SMS notification"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "15 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Providers",
+            "value": 15
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "For advanced businesses with all marketing features and automation capabilities.",
+      "monthly_price": 197.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "50 Providers or 50 GB",
+        "Campaigns (5,000 Contacts)",
+        "Multi-Step forms",
+        "Daily discounts",
+        "Onboarding and Additional Options",
+        "Multilingual",
+        "Funnels and Additional Options"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "50 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Providers",
+            "value": 50
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Providers",
+      "unit": "per provider",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 51.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    },
+    {
+      "metric_name": "Storage",
+      "unit": "per GB",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 51.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    },
+    {
+      "metric_name": "Contacts",
+      "unit": "per contact",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 5001.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:26:50.606031",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "2324a922-152b-47a1-a49d-78b8abbc679b",
+    "name": "BookingKoala",
+    "slug": "bookingkoala",
+    "description": "BookingKoala is a booking platform for service businesses such as cleaning, dog walking, spa, and tutoring services.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/1c2075c074c3e547b22b36c6e219ba66.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 18
+  }
+}

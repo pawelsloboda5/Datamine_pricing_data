@@ -1,0 +1,104 @@
+{
+  "app_id": "ortto",
+  "app_name": "Ortto",
+  "app_slug": "ortto",
+  "pricing_url": "https://www.ortto.com/pricing/",
+  "source_url": "https://www.ortto.com/pricing",
+  "all_pricing_urls": [
+    "https://www.ortto.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of contacts and includes features tailored to marketing automation.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Professional",
+      "tier_description": null,
+      "monthly_price": 509.0,
+      "annual_price": 6108.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "24/6 support (live chat and email)",
+        "Journey builder",
+        "Email & SMS marketing",
+        "Web push notifications",
+        "Form & pop-up builder",
+        "AI suggestions & predictions",
+        "Report & dashboard builder",
+        "Google and Microsoft SSO"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": null,
+      "monthly_price": 1699.0,
+      "annual_price": 20388.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Everything from Professional",
+        "Priority support",
+        "Dedicated success manager & professional onboarding",
+        "Custom user roles & permissions",
+        "Transactional emails & SMS",
+        "Dedicated email IPs",
+        "Dedicated success manager",
+        "Email deliverability consultant",
+        "Quarterly business reviews",
+        "Service level agreement (SLA)",
+        "Multiple workspaces & partitions"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:45:38.615058",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f8c4403b-7c46-42ae-ad83-af6d3515b62b",
+    "name": "Ortto",
+    "slug": "ortto",
+    "description": "Grow your brand faster with a customer data and marketing automation platform designed for businesses who sell online.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d478b2179da5f7daab4742c4d4e42073.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 3
+  }
+}

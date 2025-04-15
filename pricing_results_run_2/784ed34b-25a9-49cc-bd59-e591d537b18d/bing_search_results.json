@@ -1,0 +1,53 @@
+{
+  "app_name": "Kiwify",
+  "app_slug": "kiwify",
+  "search_term": "Find the official pricing page URL for Kiwify (kiwify.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744701235.3698552,
+  "response_text": [
+    "The official pricing page for Kiwify is located at this URL: [https://kiwify.com/pricing](https://kiwify.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Kiwify",
+      "url": "https://kiwify.com/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://kiwify.com/pricing",
+      "is_accessible": true,
+      "content": "Page not found \u2013 Kiwify\n===============\n\n[![Image 1: Kiwify](https://kiwify.com/.netlify/images?url=_astro%2Flogo.0cuMVBav.png&w=400&h=110)](https://kiwify.com/)\n\n*   [Pricing](https://kiwify.com/#pricing)\n*   [Help](https://help.kiwify.com/)\n*   [FAQ](https://kiwify.com/#faq)\n\n[Login](https://dashboard.kiwify.com/login?lang=en) [Get Started](https://dashboard.kiwify.com.br/signup?lang=en)\n\n[![Image 2: Kiwify](https://kiwify.com/.netlify/images?url=_astro%2Flogo.0cuMVBav.png&w=400&h=110)](https://kiwify.com/)\n\n*   [Pricing](https://kiwify.com/#pricing)\n*   [Help](https://help.kiwify.com/)\n*   [FAQ](https://kiwify.com/#faq)\n*   [Login](https://dashboard.kiwify.com/login?lang=en)\n*   [Get Started](https://dashboard.kiwify.com.br/signup?lang=en)\n\n* * *\n\n[](https://www.instagram.com/kiwify)[](https://www.youtube.com/c/KiwifyBrasil)[](https://www.tiktok.com/@kiwify.oficial)[](https://facebook.com/kiwify.br)\n\n404\n===\n\n`/pricing`\n\nPage not found.\n---------------\n\nThe page you are looking for does not exist.\n\n[Go back to the home page](https://kiwify.com/)\n\n\u00a9 2025 All rights reserved\n\nKiwify US, Inc.\n\n2423 Southwest 147th Avenue #2079 Miami Florida\n\nZIP Code: 33185\n\nKiwify Ireland Limited.\n\nBldg 1000, Units 1201 & 1202, City Gate, Mahon, Cork\n\nZIP Code: T12W7CV\n\nContact:\n\nIf you are a creator: [help@kiwify.com](mailto:help@kiwify.com)\n\n### Platform\n\n*   [Pricing](https://kiwify.com/#pricing)\n*   [FAQ](https://kiwify.com/#faq)\n*   [Help](https://help.kiwify.com/)\n*   [Status Page](https://status.kiwify.com.br/)\n\n### About the company\n\n*   [Contact](https://kiwify.com/contact)\n\n### Legal\n\n*   [Terms and Conditions for Buyers and Vendors](https://kiwify.com/terms-and-conditions-buyers-and-vendors)\n*   [Content Policy](https://kiwify.com/content-policy)\n*   [Privacy Policy](https://kiwify.com/privacy-policy)\n\n* * *\n\n[](https://www.instagram.com/kiwify)[](https://www.youtube.com/c/KiwifyBrasil)[](https://www.tiktok.com/@kiwify.oficial)[](https://facebook.com/kiwify.br)\n\n![Image 3: Kiwify](https://kiwify.com/.netlify/images?url=_astro%2Flogo.0cuMVBav.png&w=400&h=110)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "kiwify",
+        "app_name": "Kiwify",
+        "app_slug": "kiwify",
+        "pricing_url": "https://kiwify.com/#pricing",
+        "source_url": "https://kiwify.com/#pricing",
+        "all_pricing_urls": [
+          "https://kiwify.com/#pricing"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page for Kiwify was not accessible, and no detailed pricing information could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:14:04.040037",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\kiwify\\20250415_031404"
+}

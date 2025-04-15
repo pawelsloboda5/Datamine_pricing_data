@@ -1,0 +1,19 @@
+{
+  "app_name": "Sierra Interactive",
+  "app_slug": "sierra-interactive",
+  "search_term": "Find the official pricing page URL for Sierra Interactive (sierra-interactive.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688314.419229,
+  "response_text": [
+    "I couldn\u2019t locate a direct pricing page on the Sierra Interactive website. Please check their official site at [https://www.sierra-interactive.com](https://www.sierra-interactive.com) for further assistance or contact them directly for pricing."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.sierra-interactive.com",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\sierra-interactive\\20250414_233835"
+}

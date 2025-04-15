@@ -1,0 +1,194 @@
+{
+  "app_name": "Creatomate",
+  "app_slug": "creatomate",
+  "search_term": "Find the official pricing page URL for Creatomate (creatomate.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744700904.5438972,
+  "response_text": [
+    "The official pricing page URL for Creatomate is: [https://creatomate.com/pricing](https://creatomate.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Creatomate",
+      "url": "https://creatomate.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://creatomate.com/pricing",
+      "is_accessible": true,
+      "content": "Pricing - Creatomate\n===============\n\n[Creatomate](https://creatomate.com/)\n\n*   Product\n    \n    [No-code Video Creation](https://creatomate.com/no-code-integration)[Video Generation API](https://creatomate.com/developers)[Spreadsheet to Video](https://creatomate.com/bulk-generation)[Form to Video](https://creatomate.com/shareable-forms)[URL to Video](https://creatomate.com/url-to-video)[JavaScript Preview SDK](https://creatomate.com/javascript-video-sdk)[Template Editor](https://creatomate.com/template-editor)\n    \n*   [Templates](https://creatomate.com/templates)\n*   [Pricing](https://creatomate.com/pricing)\n*   Resources\n    \n    [Tutorials & Guides](https://creatomate.com/blog)[API Documentation](https://creatomate.com/docs/api/introduction)[Knowledge Base](https://creatomate.com/docs/getting-started)\n    \n\nGet started\n\nStart automating today\n\n\n==========================\n\nStart with a full-featured trial with 50 credits \u2013 no credit card required.\n---------------------------------------------------------------------------\n\nMonthly\n\nAnnually\n\n2 months free!\n\nEssential\n\nBest for individuals.  \n\u00a0\n\n$ 41\n\n/ mo\n\nBilled annually as $490\n\nStart free trial\n\n200+ videos or 2,000 images\n\n2,000 credits\n\n5 GB storage\n\n1,000 feed rows\n\nNo-code & API access\n\nJS Preview SDK\n\nProject sharing\n\nPriority email support\n\nMost Popular\n\nGrowth\n\nBest for startups and small teams.\n\n$ 99\n\n/ mo\n\nBilled annually as $1,190\n\nStart free trial\n\n1,000\\+ videos or 10,000 images\n\n50 GB storage\n\n10,000 feed rows\n\nNo-code & API access\n\nJS Preview SDK\n\nProject sharing\n\nPriority email support\n\nBeyond\n\nBest for scale-ups and fast-growing companies.\n\n$ 249\n\n/ mo\n\nBilled annually as $2,990\n\nStart free trial\n\n5,000\\+ videos or 50,000 images\n\n500 GB storage\n\n100,000 feed rows\n\nNo-code & API access\n\nJS Preview SDK\n\nProject sharing\n\nPriority email support\n\nNeed a bigger plan? [Contact us](mailto:support@creatomate.com)\n\nFrequently asked questions\n--------------------------\n\nHow many credits do I need?\n\nOne image is always one credit. One minute of video at 720p (25 fps) is about 14 credits, so Growth (10,000) gets you about 12 hours of video. In our [documentation](https://creatomate.com/docs/account-billing/credit-calculation), we explain how many credits a video costs based on its resolution, frame rate, and length.\n\nWhat counts as storage?\n\nThe media (such as images, videos, audio clips) in your templates and feeds is considered storage. Renders you generate are not considered storage, but they are automatically deleted after 30 days.\n\nWhat are feed rows?\n\nWith Creatomate, you are able to bulk-generate videos & banners [using spreadsheets](https://creatomate.com/bulk-generation), which are also referred to as feeds. Your subscription plan determines the maximum number of rows you can have in your account.\n\nWhat is project sharing?\n\nProject sharing allows you to add team members to a single paid subscription. Team members can be restricted from accessing feeds or templates. It's also possible to restrict credit usage per project.\n\nWhat is the JS Preview SDK?\n\nThe [JavaScript Preview SDK](https://creatomate.com/javascript-video-sdk) allows you to embed Creatomate's renderer in your own web applications. By doing so, you'll be able to provide your users with the ability to preview or edit videos before rendering. This feature is available starting with the Growth plans. Note that the [API](https://creatomate.com/developers) is available on all plans.\n\nHow does the free trial work?\n\nYou can try out Creatomate and all its features for free with 50 API credits. No credit card or additional information is required. Simply create your account and start right away.\n\nHow do I get more credits if I run out?\n\nIf you temporarily need additional credits, you may upgrade to a higher plan, and then downgrade whenever you want. The higher plan will remain in effect for the remainder of the billing period.\n\nCan I change my plan anytime?\n\nYes. Changing your subscription can be done at any time through your dashboard, whether you want to upgrade, downgrade, or cancel.\n\nWhere can I find more information?\n\nOur [documentation](https://creatomate.com/docs/getting-started) may contain the answer to your question. In addition, please feel free to contact us at [support@creatomate.com](mailto:support@creatomate.com) whenever you need assistance.\n\nStart automating today\n----------------------\n\nStart with a full-featured trial with 50 credits, no credit card required.\n\nGet started for free\n\nCreatomate\n\nCreatomate is the media automation platform for developers and no-code users.\n\nHave a question?\n\n[support@creatomate.com](mailto:support@creatomate.com)\n\n[](https://twitter.com/creatomate)[](https://youtube.com/@creatomate)[](https://www.linkedin.com/company/creatomate/)[](https://github.com/creatomate)\n\n[Tutorials & Guides](https://creatomate.com/blog/all)[All Tutorials & Guides](https://creatomate.com/blog)[Video Automation: 3 Ways to Automate Video Creation](https://creatomate.com/blog/video-automation-3-ways-to-automate-video-creation)[Create Many Videos in Bulk using a Spreadsheet](https://creatomate.com/blog/how-to-create-many-videos-in-bulk-using-a-spreadsheet)[How to Create Personalized Videos At Scale](https://creatomate.com/blog/how-to-create-personalized-videos-at-scale)[How to Batch-Create Videos for Shorts, Stories, and Reels](https://creatomate.com/blog/how-to-batch-create-videos-for-shorts-stories-and-reels)[How to Automate Video Creation with Zapier](https://creatomate.com/blog/how-to-automate-video-creation-with-zapier)[How to Automate Video Creation with Make (Integromat)](https://creatomate.com/blog/how-to-automate-video-creation-with-make)[How to Automatically Add Subtitles to Videos using Zapier](https://creatomate.com/blog/how-to-automatically-add-subtitles-to-videos-using-zapier)[How to Automatically Create and Post YouTube Shorts using Zapier](https://creatomate.com/blog/how-to-automatically-create-and-post-youtube-shorts-using-zapier)[How to Automatically Create and Post TikTok Videos using Zapier](https://creatomate.com/blog/how-to-automatically-create-and-post-tiktok-videos-using-zapier)[How to Automatically Create Instagram Posts using Make](https://creatomate.com/blog/how-to-automatically-create-instagram-posts-using-make)[Get Started Creating Videos by Code (using the API)](https://creatomate.com/blog/get-started-with-creatomate-video-generation-api)[How to Create Video with PHP](https://creatomate.com/blog/how-to-create-and-edit-video-with-php)[Using Node.js to Generate Instagram, YouTube, or TikTok Videos](https://creatomate.com/blog/use-nodejs-to-generate-instagram-youtube-or-tiktok-videos)[How to Build a Video Editor in JavaScript](https://creatomate.com/blog/how-to-build-a-video-editor-in-javascript)\n\n[How-tos](https://creatomate.com/how-to)[Create Video using Code](https://creatomate.com/how-to/create-video-using-code)[Create Video in the Browser](https://creatomate.com/how-to/create-video-in-the-browser)[Dynamic Video Creation](https://creatomate.com/how-to/create-dynamic-video)[Edit Video by API](https://creatomate.com/how-to/edit-video-by-api)[YouTube Shorts by API](https://creatomate.com/how-to/create-youtube-shorts-by-api)[TikTok Videos by API](https://creatomate.com/how-to/create-tiktok-videos-by-api)[Instagram Stories by API](https://creatomate.com/how-to/create-instagram-stories-by-api)[Instagram Reels by API](https://creatomate.com/how-to/create-instagram-reels-by-api)[Social Media Posts by API](https://creatomate.com/how-to/create-social-media-posts-by-api)[Real Estate Video by API](https://creatomate.com/how-to/create-real-estate-video-by-api)[Personalized Video by API](https://creatomate.com/how-to/create-personalized-video-by-api)[Text to Video by API](https://creatomate.com/how-to/convert-text-to-video-by-api)[Banner Ads by API](https://creatomate.com/how-to/generate-banners-by-api)[Animated GIFs by API](https://creatomate.com/how-to/create-animated-gifs-by-api)[Create Images by API](https://creatomate.com/how-to/create-images-by-api)[Create Instagram Stories with Zapier](https://creatomate.com/how-to/create-instagram-stories-with-zapier)[Create Instagram Reels with Zapier](https://creatomate.com/how-to/create-instagram-reels-with-zapier)[Create Images with Zapier](https://creatomate.com/how-to/create-images-with-zapier)[AI-Generated Videos with Zapier](https://creatomate.com/how-to/create-ai-generated-videos-with-zapier)[AI-Generated Videos by API](https://creatomate.com/how-to/create-ai-generated-videos-by-api)\n\nAutomate using No-Code\n\n[Videos & Images with Zapier](https://creatomate.com/blog/tag/zapier/page/1)[Videos & Images with Make](https://creatomate.com/blog/tag/make/page/1)[Videos & Images with Pabbly](https://creatomate.com/blog/how-to-automate-video-creation-with-pabbly)\n\nAutomate using Code\n\n[Videos & Images with Node.js](https://creatomate.com/how-to/nodejs)[Videos & Images with PHP](https://creatomate.com/how-to/php)[Videos & Images with Python](https://creatomate.com/how-to/python)[Videos & Images with an API](https://creatomate.com/how-to/api)\n\nAutomate using AI\n\n[AI Video Automation](https://creatomate.com/blog/how-to-use-ai-to-automate-videos-for-shorts-stories-and-reels)[AI Voiceovers with Zapier](https://creatomate.com/blog/how-to-create-videos-with-ai-voice-overs-using-zapier)[AI Voiceovers with an API](https://creatomate.com/blog/how-to-create-voice-over-videos-using-an-api)[Videos by ChatGPT and Zapier](https://creatomate.com/blog/use-chatgpt-to-auto-create-social-media-content-with-zapier)[Videos by ChatGPT and Code](https://creatomate.com/blog/using-chatgpt-api-to-auto-create-social-media-videos-by-code)[Generative Text AI (GPT-4)](https://creatomate.com/blog/how-to-automatically-turn-blogs-and-articles-into-videos-using-ai)[Generative Image AI (DALL\u00b7E)](https://creatomate.com/blog/how-to-use-ai-images-from-dalle-to-create-videos-with-zapier)[Generative Video AI (Stable Diffusion)](https://creatomate.com/blog/how-to-use-stable-diffusion-to-create-videos-with-zapier)\n\nProduct\n\n[No-code Automation](https://creatomate.com/no-code-integration)[Video & Image Editing API](https://creatomate.com/developers)[Spreadsheet to Videos & Images](https://creatomate.com/bulk-generation)[Form to Videos & Images](https://creatomate.com/shareable-forms)[URL to Videos & Images](https://creatomate.com/url-to-video)[JavaScript Preview SDK](https://creatomate.com/javascript-video-sdk)[Template Editor](https://creatomate.com/template-editor)[Pricing](https://creatomate.com/pricing)\n\nCompany & Resources\n\n[Tutorials & Guides](https://creatomate.com/blog)[API Documentation](https://creatomate.com/docs/api/introduction)[Knowledge Base](https://creatomate.com/docs/getting-started)[Terms and Conditions](https://creatomate.com/terms-of-service)[Privacy Policy](https://creatomate.com/privacy-policy)[About Us](https://creatomate.com/about-us)\n\nHow We Compare\n\n[The Best Video APIs Compared](https://creatomate.com/blog/the-best-video-generation-apis)[Alternative to Shotstack](https://creatomate.com/compare/shotstack-alternative)[Alternative to Bannerbear](https://creatomate.com/compare/bannerbear-alternative)\n\n\u00a9 2025 Creatomate. All rights reserved.\n\nCreatomate is a registered company from the Netherlands #90174356",
+      "error": null,
+      "pricing_data": {
+        "app_id": "creatomate",
+        "app_name": "Creatomate",
+        "app_slug": "creatomate",
+        "pricing_url": "https://creatomate.com/pricing",
+        "source_url": "https://creatomate.com/pricing",
+        "all_pricing_urls": [
+          "https://creatomate.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes subscription tiers with usage-based credits and storage limits.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Essential",
+            "tier_description": "Best for individuals.",
+            "monthly_price": 41.0,
+            "annual_price": 490.0,
+            "annual_discount_percentage": 16.67,
+            "setup_fee": null,
+            "features": [
+              "200+ videos or 2,000 images",
+              "2,000 credits",
+              "5 GB storage",
+              "1,000 feed rows",
+              "No-code & API access",
+              "JS Preview SDK",
+              "Project sharing",
+              "Priority email support"
+            ],
+            "limits": {
+              "users": null,
+              "storage": "5GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "videos",
+                  "value": "200+"
+                },
+                {
+                  "name": "images",
+                  "value": "2000"
+                },
+                {
+                  "name": "feed rows",
+                  "value": "1000"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Growth",
+            "tier_description": "Best for startups and small teams.",
+            "monthly_price": 99.0,
+            "annual_price": 1190.0,
+            "annual_discount_percentage": 16.67,
+            "setup_fee": null,
+            "features": [
+              "1,000+ videos or 10,000 images",
+              "50 GB storage",
+              "10,000 feed rows",
+              "No-code & API access",
+              "JS Preview SDK",
+              "Project sharing",
+              "Priority email support"
+            ],
+            "limits": {
+              "users": null,
+              "storage": "50GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "videos",
+                  "value": "1000+"
+                },
+                {
+                  "name": "images",
+                  "value": "10000"
+                },
+                {
+                  "name": "feed rows",
+                  "value": "10000"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Beyond",
+            "tier_description": "Best for scale-ups and fast-growing companies.",
+            "monthly_price": 249.0,
+            "annual_price": 2990.0,
+            "annual_discount_percentage": 16.67,
+            "setup_fee": null,
+            "features": [
+              "5,000+ videos or 50,000 images",
+              "500 GB storage",
+              "100,000 feed rows",
+              "No-code & API access",
+              "JS Preview SDK",
+              "Project sharing",
+              "Priority email support"
+            ],
+            "limits": {
+              "users": null,
+              "storage": "500GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "videos",
+                  "value": "5000+"
+                },
+                {
+                  "name": "images",
+                  "value": "50000"
+                },
+                {
+                  "name": "feed rows",
+                  "value": "100000"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "credits",
+            "unit": "per credit",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": null,
+                "price": null
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Annual Billing Discount",
+            "offer_description": "Two months free with annual billing.",
+            "discount_percentage": 16.67,
+            "offer_url": "https://creatomate.com/pricing",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:08:35.845734",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\creatomate\\20250415_030836"
+}

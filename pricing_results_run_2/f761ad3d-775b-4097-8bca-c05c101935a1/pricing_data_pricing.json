@@ -1,0 +1,172 @@
+{
+  "app_id": "callfire",
+  "app_name": "CallFire",
+  "app_slug": "callfire",
+  "pricing_url": "https://www.callfire.com/pricing#main-content",
+  "source_url": "https://www.callfire.com/pricing",
+  "all_pricing_urls": [
+    "https://www.callfire.com/pricing#main-content"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "All plans include unlimited contacts and additional features. Minutes and texts are billed in sixty-second increments.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pro",
+      "tier_description": null,
+      "monthly_price": 599.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "20000 minutes/texts",
+        "$1.75 phone numbers",
+        "$10 keywords"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 20000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Grow",
+      "tier_description": "Best Value",
+      "monthly_price": 299.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10000 minutes/texts",
+        "$2.00 phone numbers",
+        "$13 keywords"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 10000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Startup",
+      "tier_description": null,
+      "monthly_price": 199.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5500 minutes/texts",
+        "$2.25 phone numbers",
+        "$15 keywords"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 5500,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Lite",
+      "tier_description": null,
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2500 minutes/texts",
+        "$2.50 phone numbers",
+        "$20 keywords"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 2500,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pay as you go",
+      "tier_description": null,
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "6\u00a2 per minute/text",
+        "$10.00 phone numbers",
+        "$25 keywords"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "minutes/texts",
+      "unit": "per minute/text",
+      "base_price": 0.06,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Phone numbers",
+      "fee_amount": null,
+      "fee_description": "$1.75 to $10.00 per number depending on the plan"
+    },
+    {
+      "fee_name": "Keywords",
+      "fee_amount": null,
+      "fee_description": "$10 to $25 per keyword depending on the plan"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:40:44.199721",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f761ad3d-775b-4097-8bca-c05c101935a1",
+    "name": "CallFire",
+    "slug": "callfire",
+    "description": "CallFire is a cloud telephony platform. Easily fire off an SMS or Call. You can trigger events when your phone number is called or texted as well.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/3ab7fe0ea98c7d27b672758363a3b808.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 1
+  }
+}

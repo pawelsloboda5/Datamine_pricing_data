@@ -1,0 +1,135 @@
+{
+  "app_id": "scoop_it",
+  "app_name": "Scoop.it",
+  "app_slug": "scoop-it",
+  "pricing_url": "https://www.scoop.it/pricing",
+  "source_url": "https://www.scoop.it/pricing",
+  "all_pricing_urls": [
+    "https://www.scoop.it/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual pricing offers discounts compared to monthly payments. Enterprise tier requires custom quotation.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic access to Scoop.it features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic content curation",
+        "Limited topic pages",
+        "Limited scoops"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "limited",
+        "operations": "limited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Enhanced features for individual users.",
+      "monthly_price": 17.99,
+      "annual_price": 179.88,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Advanced content curation",
+        "More topic pages",
+        "More scoops",
+        "Custom branding"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "limited",
+        "operations": "limited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Features for small teams.",
+      "monthly_price": 79.0,
+      "annual_price": 804.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Team collaboration",
+        "Advanced analytics",
+        "More integrations"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "limited",
+        "operations": "limited",
+        "api_calls": null,
+        "integrations": 10,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom solutions for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom integrations",
+        "Unlimited users",
+        "Premium support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:59:29.380975",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c4cc9487-f506-4a07-8031-4bdec4ef1f55",
+    "name": "Scoop.it",
+    "slug": "scoopit",
+    "description": "You are the content you publish. Discover, curate and publish great content to get visibility online.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/bc5f6cba94df57dc22d9fd2fb7bd14f2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Social Media Marketing"
+    ],
+    "category_slugs": [
+      "social-marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 1
+  }
+}

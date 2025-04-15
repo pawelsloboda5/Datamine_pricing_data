@@ -1,0 +1,209 @@
+{
+  "app_id": "memberstack",
+  "app_name": "Memberstack",
+  "app_slug": "memberstack",
+  "pricing_url": "https://www.memberstack.com/pricing",
+  "source_url": "https://www.memberstack.com/pricing",
+  "all_pricing_urls": [
+    "https://www.memberstack.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Memberstack offers a free trial for an unlimited time in test mode. Discounts are available for non-profits, students, and startups.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": null,
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Social Logins",
+        "Stripe Payments",
+        "Custom SSO",
+        "Branded Emails",
+        "Everything Else"
+      ],
+      "limits": {
+        "users": 1000,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": null,
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Social Logins",
+        "Stripe Payments",
+        "Custom SSO",
+        "Branded Emails",
+        "Everything Else"
+      ],
+      "limits": {
+        "users": 5000,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": null,
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Social Logins",
+        "Stripe Payments",
+        "Custom SSO",
+        "Branded Emails",
+        "Everything Else"
+      ],
+      "limits": {
+        "users": "10,000+",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional Members",
+            "value": "$49/mo per additional 20,000 members"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Established",
+      "tier_description": null,
+      "monthly_price": 499.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Social Logins",
+        "Stripe Payments",
+        "Custom SSO",
+        "Branded Emails",
+        "Everything Else"
+      ],
+      "limits": {
+        "users": "10,000+",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional Members",
+            "value": "$49/mo per additional 20,000 members"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Transaction Fees",
+      "unit": "percentage",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 1000.0,
+          "price": 4.0
+        },
+        {
+          "min": 1001.0,
+          "max": 5000.0,
+          "price": 2.0
+        },
+        {
+          "min": 5001.0,
+          "max": 10000.0,
+          "price": 0.9
+        },
+        {
+          "min": 10001.0,
+          "max": "unlimited",
+          "price": 0.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Welcome Discount",
+      "offer_description": "50% off your first month",
+      "discount_percentage": 50.0,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Non-Profit Discount",
+      "offer_description": "50% discount for 12 months for non-profits",
+      "discount_percentage": 50.0,
+      "offer_url": "https://www.memberstack.com/nonprofit",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Student Discount",
+      "offer_description": "100% discount for young professionals aged 18-22",
+      "discount_percentage": 100.0,
+      "offer_url": "https://www.memberstack.com/student",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Startup Discount",
+      "offer_description": "Special discount for startups with less than $1 million in funding",
+      "discount_percentage": null,
+      "offer_url": "https://www.memberstack.com/startups",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:39:22.642554",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "862570f2-77ba-475f-b54c-e9900af77ee1",
+    "name": "Memberstack",
+    "slug": "memberstack",
+    "description": "Simple Auth & Payments for Webflow Developers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/85e62ab343ca4edaa7e8a033d9de8ca5.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Developer Tools"
+    ],
+    "category_slugs": [
+      "developer-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 5
+  }
+}

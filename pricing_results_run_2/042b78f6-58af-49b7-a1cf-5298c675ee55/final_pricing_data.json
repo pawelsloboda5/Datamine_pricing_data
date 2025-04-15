@@ -1,0 +1,43 @@
+{
+  "app_id": "device_magic",
+  "app_name": "Device Magic",
+  "app_slug": "device-magic",
+  "pricing_url": null,
+  "source_url": "https://www.devicemagic.com/pricing/",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The provided content does not include specific pricing details for Device Magic.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:46:39.290204",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "042b78f6-58af-49b7-a1cf-5298c675ee55",
+    "name": "Device Magic",
+    "slug": "devicemagic",
+    "description": "Build custom forms to capture important data through your mobile device with Device Magic. Save time, get better data, and automate your business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/4bb05cf64060d184f221fd25eb1fb614.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

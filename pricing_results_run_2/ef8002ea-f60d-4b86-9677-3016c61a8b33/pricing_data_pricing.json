@@ -1,0 +1,157 @@
+{
+  "app_id": "vidalytics",
+  "app_name": "Vidalytics",
+  "app_slug": "vidalytics",
+  "pricing_url": null,
+  "source_url": "https://www.vidalytics.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.CUSTOM"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Additional charges apply for video storage beyond included limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Jumpstart your video strategy with powerful features for growth",
+      "monthly_price": 24.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unbranded player",
+        "5 Videos Stored Free",
+        "Smart Playback Features",
+        "Video Engagement Analytics",
+        "Basic Integrations"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "5 videos",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "basic",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced conversion driving features for experienced video marketers",
+      "monthly_price": 79.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Starter Features",
+        "20 Videos Stored Free",
+        "Vid Conditions",
+        "Heatmaps & Segmentation",
+        "Conversion Tracking",
+        "Advanced Integrations"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "20 videos",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "advanced",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Extra space, volume & tools for teams scaling with video",
+      "monthly_price": 149.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Pro Features",
+        "50 Videos Stored Free",
+        "Interactive Smart Vids",
+        "AI Closed Captions",
+        "Multiple Users",
+        "Vidalytics API",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": "multiple",
+        "storage": "50 videos",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "advanced",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Unlimited analytics & eCommerce features for established brands",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Premium Features",
+        "Scalable Video Storage",
+        "Unlimited Users",
+        "Unlimited Video Analytics",
+        "Concierge Service",
+        "Dedicated Account Manager",
+        "Advanced Customizations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "scalable",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "advanced",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Video Storage",
+      "unit": "per video",
+      "base_price": 0.25,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Additional Video Storage",
+      "fee_amount": 0.25,
+      "fee_description": "Charge per video stored beyond included limits"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:51:40.163727",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ef8002ea-f60d-4b86-9677-3016c61a8b33",
+    "name": "Vidalytics",
+    "slug": "vidalytics",
+    "description": "Video hosting & analytics for marketers. See conversions in videos, mobile auto-play, in video Call-to-Actions, custom pause screens & more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/d345570ca796e3b5eed49c8d3d128231.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Video & Audio"
+    ],
+    "category_slugs": [
+      "video"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

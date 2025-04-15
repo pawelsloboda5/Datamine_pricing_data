@@ -1,0 +1,12 @@
+{
+  "app_name": "Zapier Tables",
+  "app_slug": "zapier-tables",
+  "search_term": "Find the official pricing page URL for Zapier Tables (zapier-tables.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744719937.733896,
+  "response_text": [
+    "I couldn't locate the official pricing page for Zapier Tables. You might need to check the official site manually."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\zapier-tables\\20250415_082538"
+}

@@ -1,0 +1,234 @@
+{
+  "app_name": "Discourse",
+  "app_slug": "discourse",
+  "search_term": "Find the official pricing page URL for Discourse (discourse.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688864.811711,
+  "response_text": [
+    "The official pricing page for Discourse is: [https://discourse.org/buy/](https://discourse.org/buy/) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://discourse.org/buy/",
+      "is_accessible": true,
+      "content": "_Change plans anytime. All prices in USD._\n\n#### Starter\n\n$20 per month\n\nA great place to start a community\n\n#### Standard\n\n$100 per month\n\nConnect with your community and grow together\n\n#### Business\n\n$500 per month\n\nScale your business and help your customers and users connect with each other\n\n#### Enterprise\n\nOur most customizable and scalable plan, tailored to your needs and brand\n\nDiscourse is 100% free, open source forum software. Forever. [Install from GitHub](https://github.com/discourse/discourse).\n\n[Compare plans and features](https://discourse.org/buy/#plans-features)\n\n### Compare plans & features\n\n| Community |\n| --- |\n| Community | Starter | Standard | Business | Enterprise |\n| --- | --- | --- | --- | --- |\n| \u00a0 | Members |\n| Members | Unlimited | Unlimited | Unlimited | Unlimited |\n| \u00a0 | StaffThese are members of the Discourse site with admin and/or moderator permissions\n |\n| StaffThese are members of the Discourse site with admin and/or moderator permissions\n\n | 2 | 5 | 15 | Unlimited |\n| \u00a0 | Monthly page viewsAll page views made by visitors and members using a web browser. Other non-browser traffic sources like bots and crawlers are not counted as page views.\n\n |\n| Monthly page viewsAll page views made by visitors and members using a web browser. Other non-browser traffic sources like bots and crawlers are not counted as page views.\n\n | 20k | 100k | 500k | 1M+ |\n| \u00a0 | Monthly emails |\n| Monthly emails | 20k | 100k | 300k | 1.5M+ |\n| \u00a0 | StorageStorage for uploads including images, videos, and files\n\n |\n| StorageStorage for uploads including images, videos, and files\n\n | 5GB | 20GB | 100GB | 200GB+ |\n| \u00a0 | Public access |\n| Public access | ![Image 1: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 2: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 3: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 4: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Secure web access |\n| Secure web access | ![Image 5: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 6: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 7: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 8: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Mobile appDownload the free [Discourse iOS app](https://itunes.apple.com/us/app/discourse-app/id1173672076?mt=8) and the [Discourse Android app](https://play.google.com/store/apps/details?id=com.discourse&hl=en), with full push notification support for our hosted communities\n\n |\n| Mobile appDownload the free [Discourse iOS app](https://itunes.apple.com/us/app/discourse-app/id1173672076?mt=8) and the [Discourse Android app](https://play.google.com/store/apps/details?id=com.discourse&hl=en), with full push notification support for our hosted communities\n\n | ![Image 9: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 10: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 11: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 12: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | ChatAdds chat functionality so it can natively support both long-form and short-form communication. [Learn more](https://www.discourse.org/plugins/chat)\n\n |\n| ChatAdds chat functionality so it can natively support both long-form and short-form communication. [Learn more](https://www.discourse.org/plugins/chat)\n\n | ![Image 13: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 14: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 15: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 16: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | AI spam detectionFight spam with Discourse AI, a powerful tool that automatically detects and flags spam posts using advanced AI models. [Learn more](https://meta.discourse.org/t/discourse-ai-spam-detection/343541)\n\n |\n| AI spam detectionFight spam with Discourse AI, a powerful tool that automatically detects and flags spam posts using advanced AI models. [Learn more](https://meta.discourse.org/t/discourse-ai-spam-detection/343541)\n\n | ![Image 17: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 18: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 19: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 20: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Global CDN |\n| Global CDN | ![Image 21: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 22: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 23: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 24: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Custom themes and components |\n| Custom themes and components |  | ![Image 25: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 26: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 27: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Custom domain |\n| Custom domain |  | ![Image 28: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 29: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 30: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | API and Webhook access |\n| API and Webhook access |  | ![Image 31: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 32: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 33: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n\n| Support |\n| --- |\n| Support | Starter | Standard | Business | Enterprise |\n| --- | --- | --- | --- | --- |\n| \u00a0 | [Community support](https://meta.discourse.org/) |\n| [Community support](https://meta.discourse.org/) | ![Image 34: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 35: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 36: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 37: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Dedicated email support |\n| Dedicated email support | ![Image 38: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 39: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 40: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 41: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Priority email supportPriority email support from a team spanning 15 timezones\n |\n| Priority email supportPriority email support from a team spanning 15 timezones\n\n |  |  | ![Image 42: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 43: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n\n| Professional Services |\n| --- |\n| Professional Services | Starter | Standard | Business | Enterprise |\n| --- | --- | --- | --- | --- |\n| \u00a0 | [Migration](https://www.discourse.org/migrations) |\n| [Migration](https://www.discourse.org/migrations) |  |  | ![Image 44: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 45: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | [Custom design work](https://www.discourse.org/enterprise-services) |\n| [Custom design work](https://www.discourse.org/enterprise-services) |  |  |  | ![Image 46: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n\n| Authentication |\n| --- |\n| Authentication | Starter | Standard | Business | Enterprise |\n| --- | --- | --- | --- | --- |\n| \u00a0 | Local loginLet your users log in with a password, via a link sent to them by email, or a [passkey](https://meta.discourse.org/t/285589).\n |\n| Local loginLet your users log in with a password, via a link sent to them by email, or a [passkey](https://meta.discourse.org/t/285589).\n\n | ![Image 47: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 48: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 49: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 50: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Discord |\n| Discord |  | ![Image 51: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 52: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 53: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Facebook |\n| Facebook |  | ![Image 54: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 55: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 56: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | GitHub |\n| GitHub |  | ![Image 57: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 58: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 59: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Twitter |\n| Twitter |  | ![Image 60: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 61: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 62: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Google |\n| Google |  | ![Image 63: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 64: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 65: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | AppleSupport user authentication via Sign in with Apple. [Learn more](https://www.discourse.org/plugins/apple-login)\n\n |\n| AppleSupport user authentication via Sign in with Apple. [Learn more](https://www.discourse.org/plugins/apple-login)\n\n |  | ![Image 66: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 67: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 68: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | DiscourseConnect (SSO)Integrate your community with Single Sign On (SSO). [Learn more](https://meta.discourse.org/t/13045)\n\n |\n| DiscourseConnect (SSO)Integrate your community with Single Sign On (SSO). [Learn more](https://meta.discourse.org/t/13045)\n\n |  | ![Image 69: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 70: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 71: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | AmazonSupport user authentication via Amazon, LinkedIn, or Microsoft. [Learn more](https://www.discourse.org/plugins/amazon-microsoft-login)\n\n |\n| AmazonSupport user authentication via Amazon, LinkedIn, or Microsoft. [Learn more](https://www.discourse.org/plugins/amazon-microsoft-login)\n\n |  |  | ![Image 72: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 73: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Learning Management Systems IntegrationSupport the LTI 1.3 standard for authentication, allowing integration with a number of learning management systems. [Learn more](https://www.discourse.org/plugins/lti)\n\n |\n| Learning Management Systems IntegrationSupport the LTI 1.3 standard for authentication, allowing integration with a number of learning management systems. [Learn more](https://www.discourse.org/plugins/lti)\n\n |  |  | ![Image 74: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 75: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | LinkedInSupport user authentication via Amazon, LinkedIn, or Microsoft. [Learn more](https://www.discourse.org/plugins/amazon-microsoft-login)\n\n |\n| LinkedInSupport user authentication via Amazon, LinkedIn, or Microsoft. [Learn more](https://www.discourse.org/plugins/amazon-microsoft-login)\n\n |  |  | ![Image 76: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 77: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | MicrosoftSupport user authentication via Amazon, LinkedIn, or Microsoft. [Learn more](https://www.discourse.org/plugins/amazon-microsoft-login)\n\n |\n| MicrosoftSupport user authentication via Amazon, LinkedIn, or Microsoft. [Learn more](https://www.discourse.org/plugins/amazon-microsoft-login)\n\n |  |  | ![Image 78: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 79: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | OAuth2 and OpenID ConnectSupport authentication with a custom external provider via OAuth 2.0 or OpenID Connect. [Learn more](https://www.discourse.org/plugins/oauth)\n\n |\n| OAuth2 and OpenID ConnectSupport authentication with a custom external provider via OAuth 2.0 or OpenID Connect. [Learn more](https://www.discourse.org/plugins/oauth)\n\n |  |  | ![Image 80: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 81: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | SAMLIntegrate your community with SAML authentication. [Learn more](https://www.discourse.org/plugins/saml)\n\n |\n| SAMLIntegrate your community with SAML authentication. [Learn more](https://www.discourse.org/plugins/saml)\n\n |  |  |  | ![Image 82: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | _\\* Installed upon request_ |\n\n| Plugins |\n| --- |\n| Plugins | Starter | Standard | Business | Enterprise |\n| --- | --- | --- | --- | --- |\n| \u00a0 | AIFull suite of AI features designed to enhance community engagement and management. [Learn more](https://www.discourse.org/ai)\n |\n| AIFull suite of AI features designed to enhance community engagement and management. [Learn more](https://www.discourse.org/ai)\n\n | ![Image 83: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 84: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 85: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 86: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | CakedayShow a birthday cake emoji beside the names of members on their join anniversary or birthday. [Learn more](https://www.discourse.org/plugins/cakeday)\n\n |\n| CakedayShow a birthday cake emoji beside the names of members on their join anniversary or birthday. [Learn more](https://www.discourse.org/plugins/cakeday)\n\n | ![Image 87: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 88: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 89: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 90: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Chat integrationSend notifications about new topics and posts to your favorite chat provider. [Learn more](https://www.discourse.org/plugins/chat-integration)\n\n |\n| Chat integrationSend notifications about new topics and posts to your favorite chat provider. [Learn more](https://www.discourse.org/plugins/chat-integration)\n\n |  | ![Image 91: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 92: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 93: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | ChecklistAdd interactive checklists to your posts. [Learn more](https://www.discourse.org/plugins/checklist)\n\n |\n| ChecklistAdd interactive checklists to your posts. [Learn more](https://www.discourse.org/plugins/checklist)\n\n | ![Image 94: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 95: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 96: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 97: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | FootnoteInsert expandable footnotes into your posts. [Learn more](https://www.discourse.org/plugins/footnote)\n\n |\n| FootnoteInsert expandable footnotes into your posts. [Learn more](https://www.discourse.org/plugins/footnote)\n\n | ![Image 98: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 99: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 100: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 101: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | GitHubAssign badges to contributors, create permalinks, and create linkbacks for commits on GitHub. [Learn more](https://www.discourse.org/plugins/github)\n\n |\n| GitHubAssign badges to contributors, create permalinks, and create linkbacks for commits on GitHub. [Learn more](https://www.discourse.org/plugins/github)\n\n |  | ![Image 102: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 103: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 104: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | GraphvizBuild your own custom graphs within posts. [Learn more](https://www.discourse.org/plugins/graphviz)\n\n |\n| GraphvizBuild your own custom graphs within posts. [Learn more](https://www.discourse.org/plugins/graphviz)\n\n |  | ![Image 105: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 106: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 107: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | hCaptchaIntegrate hCaptcha into the sign-up form. [Learn more](https://www.discourse.org/plugins/hcaptcha)\n\n |\n| hCaptchaIntegrate hCaptcha into the sign-up form. [Learn more](https://www.discourse.org/plugins/hcaptcha)\n\n | ![Image 108: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 109: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 110: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 111: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | MathDisplay mathematical notation in posts using LaTeX. [Learn more](https://www.discourse.org/plugins/math)\n\n |\n| MathDisplay mathematical notation in posts using LaTeX. [Learn more](https://www.discourse.org/plugins/math)\n\n | ![Image 112: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 113: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 114: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 115: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | PatreonReward your patrons with Discourse access including group synchronization and Patreon Social Login. [Learn more](https://www.discourse.org/plugins/patreon)\n\n |\n| PatreonReward your patrons with Discourse access including group synchronization and Patreon Social Login. [Learn more](https://www.discourse.org/plugins/patreon)\n\n |  | ![Image 116: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 117: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 118: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | ReactionsEnable multiple reactions that can be selected in addition to likes. [Learn more](https://www.discourse.org/plugins/reactions)\n\n |\n| ReactionsEnable multiple reactions that can be selected in addition to likes. [Learn more](https://www.discourse.org/plugins/reactions)\n\n | ![Image 119: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 120: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 121: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 122: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | SolvedGreat answer? Solved allows users to accept solutions to their topics. [Learn more](https://www.discourse.org/plugins/solved)\n\n |\n| SolvedGreat answer? Solved allows users to accept solutions to their topics. [Learn more](https://www.discourse.org/plugins/solved)\n\n |  | ![Image 123: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 124: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 125: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Spoiler alertHide content in posts behind a spoiler tag. [Learn more](https://www.discourse.org/plugins/spoiler)\n\n |\n| Spoiler alertHide content in posts behind a spoiler tag. [Learn more](https://www.discourse.org/plugins/spoiler)\n\n | ![Image 126: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 127: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 128: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 129: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | SubscriptionsSell recurring and one-time subscriptions that grant access to Discourse groups. [Learn more](https://www.discourse.org/plugins/subscriptions)\n\n |\n| SubscriptionsSell recurring and one-time subscriptions that grant access to Discourse groups. [Learn more](https://www.discourse.org/plugins/subscriptions)\n\n |  | ![Image 130: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 131: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 132: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Yearly reviewCreate a topic summarizing the previous year\u2019s community activity. [Learn more](https://www.discourse.org/plugins/yearly-review)\n\n |\n| Yearly reviewCreate a topic summarizing the previous year\u2019s community activity. [Learn more](https://www.discourse.org/plugins/yearly-review)\n\n |  | ![Image 133: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 134: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 135: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | AdvertisingDisplay ads on your site using Google Adsense, Google Ad Manager, Amazon Affiliates, and more. [Learn more](https://www.discourse.org/plugins/ads)\n\n |\n| AdvertisingDisplay ads on your site using Google Adsense, Google Ad Manager, Amazon Affiliates, and more. [Learn more](https://www.discourse.org/plugins/ads)\n\n |  | ![Image 136: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 137: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 138: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | AssignEnsure topics are handled by assigning them to your staff. [Learn more](https://www.discourse.org/plugins/assign)\n\n |\n| AssignEnsure topics are handled by assigning them to your staff. [Learn more](https://www.discourse.org/plugins/assign)\n\n |  |  | ![Image 139: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 140: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | AutomationAutomate complex workflows with predefined scripts and triggers. [Learn more](https://www.discourse.org/plugins/automation)\n\n |\n| AutomationAutomate complex workflows with predefined scripts and triggers. [Learn more](https://www.discourse.org/plugins/automation)\n\n |  |  | ![Image 141: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 142: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | CalendarCreate and update a dynamic event calendar within a topic. [Learn more](https://www.discourse.org/plugins/calendar)\n\n |\n| CalendarCreate and update a dynamic event calendar within a topic. [Learn more](https://www.discourse.org/plugins/calendar)\n\n |  |  | ![Image 143: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 144: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Data explorerRun SQL queries against your database, allowing for instant stats reporting. [Learn more](https://www.discourse.org/plugins/data-explorer)\n\n |\n| Data explorerRun SQL queries against your database, allowing for instant stats reporting. [Learn more](https://www.discourse.org/plugins/data-explorer)\n\n |  |  | ![Image 145: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 146: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | GamificationAdd points and leaderboards to your community. [Learn more](https://www.discourse.org/plugins/gamification)\n\n |\n| GamificationAdd points and leaderboards to your community. [Learn more](https://www.discourse.org/plugins/gamification)\n\n |  |  | ![Image 147: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 148: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | PolicyCreate policies and require members to accept them. [Learn more](https://www.discourse.org/plugins/policy)\n\n |\n| PolicyCreate policies and require members to accept them. [Learn more](https://www.discourse.org/plugins/policy)\n\n |  |  | ![Image 149: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 150: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | TemplatesCreate and save common replies for repeated use. [Learn more](https://www.discourse.org/plugins/templates)\n\n |\n| TemplatesCreate and save common replies for repeated use. [Learn more](https://www.discourse.org/plugins/templates)\n\n |  |  | ![Image 151: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 152: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Topic votingLet your community vote on their favorite topics. [Learn more](https://www.discourse.org/plugins/topic-voting)\n\n |\n| Topic votingLet your community vote on their favorite topics. [Learn more](https://www.discourse.org/plugins/topic-voting)\n\n |  |  | ![Image 153: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 154: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | User notesAttach notes to users for all staff to see. [Learn more](https://www.discourse.org/plugins/user-notes)\n\n |\n| User notesAttach notes to users for all staff to see. [Learn more](https://www.discourse.org/plugins/user-notes)\n\n |  |  | ![Image 155: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 156: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | ZendeskIntegrate your community with Zendesk. [Learn more](https://www.discourse.org/plugins/zendesk)\n\n |\n| ZendeskIntegrate your community with Zendesk. [Learn more](https://www.discourse.org/plugins/zendesk)\n\n |  |  | ![Image 157: Included](https://www.discourse.org/a/img/icon-check-black.svg) | ![Image 158: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Code reviewReview GitHub commits on Discourse. [Learn more](https://www.discourse.org/plugins/code-review)\n\n |\n| Code reviewReview GitHub commits on Discourse. [Learn more](https://www.discourse.org/plugins/code-review)\n\n |  |  |  | ![Image 159: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Google PerspectiveUse machine learning to automatically detect and flag toxic posts. [Learn more](https://www.discourse.org/plugins/perspective)\n\n |\n| Google PerspectiveUse machine learning to automatically detect and flag toxic posts. [Learn more](https://www.discourse.org/plugins/perspective)\n\n |  |  |  | ![Image 160: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Saved searchSave search queries and get notifications for new matches. [Learn more](https://www.discourse.org/plugins/saved-search)\n\n |\n| Saved searchSave search queries and get notifications for new matches. [Learn more](https://www.discourse.org/plugins/saved-search)\n\n |  |  |  | ![Image 161: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | TranslatorAutomatically translate community content. [Learn more](https://www.discourse.org/plugins/translator)\n\n |\n| TranslatorAutomatically translate community content. [Learn more](https://www.discourse.org/plugins/translator)\n\n |  |  |  | ![Image 162: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Topic tooltipsPreview the content of a topic by hovering. [Learn more](https://www.discourse.org/plugins/tooltips)\n\n |\n| Topic tooltipsPreview the content of a topic by hovering. [Learn more](https://www.discourse.org/plugins/tooltips)\n\n |  |  |  | ![Image 163: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | _\\* Installed upon request and any other [official plugin](https://meta.discourse.org/tags/c/plugin/official)_ |\n\n| Add-ons |\n| --- |\n| Add-ons |  | Standard $50/m |  | Enterprise [Talk to us](mailto:sales@discourse.org) |\n| --- | --- | --- | --- | --- |\n| \u00a0 | Extra page views |\n| Extra page views |  | 100k |  |  |\n| \u00a0 | Extra storage |\n| Extra storage |  | 20GB |  |  |\n| \u00a0 | Extra emails |\n| Extra emails |  | 50k |  |  |\n| \u00a0 | Extra staff users |\n| Extra staff users |  | 5 |  |  |\n| \u00a0 | Security & legal agreements |\n| Security & legal agreements |  |  |  | ![Image 164: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Dedicated cloud hosting on AWS |\n| Dedicated cloud hosting on AWS |  |  |  | ![Image 165: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Staging sites |\n| Staging sites |  |  |  | ![Image 166: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Custom styling and configuration support |\n| Custom styling and configuration support |  |  |  | ![Image 167: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Custom outgoing email addressOn Enterprise plans, a custom outgoing email address can be configured at an added cost. On other plans, emails are sent from notifications@sitename.discoursemail.com where \"sitename\" can be changed on request.\n |\n| Custom outgoing email addressOn Enterprise plans, a custom outgoing email address can be configured at an added cost. On other plans, emails are sent from notifications@sitename.discoursemail.com where \"sitename\" can be changed on request.\n\n |  |  |  | ![Image 168: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Unofficial & custom plugins |\n| Unofficial & custom plugins |  |  |  | ![Image 169: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n| \u00a0 | Subfolder support |\n| Subfolder support |  |  |  | ![Image 170: Included](https://www.discourse.org/a/img/icon-check-black.svg) |\n\nFrequently asked questions\n--------------------------\n\nCan\u2019t find the answer you\u2019re looking for? [Get in touch with us](https://www.discourse.org/contact).\n\nAre there educational or non-profit discounts?Yes! If you are legally recognized as an educational institution we offer an 85% discount. If you are legally recognized as a non-profit organization that is exempt from federal taxes, we offer a 50% discount. These discounts apply only to our Standard and Business plans, cannot be combined with other discounts, and must be paid through a debit/credit card monthly or annually. [Please contact us](https://www.discourse.org/contact) after starting your trial and we\u2019ll add the discount to your account.\n\nWhat if none of these plans fit my budget?Good news! Discourse is, and will always be, [100% free and open source](https://github.com/discourse/discourse) software. You may also want to self-host for reasons other than budget, including privacy or full control over the free software that you\u2019ve installed. [Here\u2019s how you can install it yourself](https://blog.discourse.org/2014/04/install-discourse-in-under-30-minutes/) on your own server.\n\nAlternatively, the community can install or host Discourse in the cloud for you. [Check out our list of trusted partners you can work with.](https://www.discourse.org/partners)\n\nCan I switch plans?Change plans any time for any reason. To upgrade instantly, visit your admin dashboard. To downgrade your plan, [please contact us](https://www.discourse.org/contact) and we\u2019ll make it happen.\n\nCan I transition from self-install to hosted, or vice-versa?Yes. Migrating from Discourse to Discourse using a backup is easy, and we\u2019ll take care of everything if you are moving to our hosting.\n\nWhat happens if I go over the plan limits?Your site will never stop working! If limits are exceeded for an extended period of time, we will get in touch with you to discuss flexible upgrade options.\n\nAnd, by the way, you can upgrade your plan at any time with a few clicks on your admin dashboard.\n\nCan I switch to a different host?Your data always belongs to you. Back up all your Discourse data right from your web browser, any time. Migrate to or from any cloud provider with ease.\n\nWho are your customers?We might be a little biased, but we think they\u2019re some of the finest companies and organizations in the world. [Browse our customer list.](https://www.discourse.org/customers)\n\nOfficial Discourse hosting plans for communities of every size.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "discourse",
+        "app_name": "Discourse",
+        "app_slug": "discourse",
+        "pricing_url": "https://discourse.org/buy/#plans-features",
+        "source_url": "https://discourse.org/buy/#plans-features",
+        "all_pricing_urls": [
+          "https://discourse.org/buy/#plans-features"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Discourse offers a free open-source version alongside subscription-based hosting plans.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Starter",
+            "tier_description": "A great place to start a community",
+            "monthly_price": 20.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited members",
+              "2 staff members",
+              "20k monthly page views",
+              "20k monthly emails",
+              "5GB storage",
+              "Public access",
+              "Secure web access",
+              "Mobile app",
+              "Chat",
+              "AI spam detection",
+              "Global CDN"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "5GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Staff members",
+                  "value": 2
+                },
+                {
+                  "name": "Monthly page views",
+                  "value": "20k"
+                },
+                {
+                  "name": "Monthly emails",
+                  "value": "20k"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Standard",
+            "tier_description": "Connect with your community and grow together",
+            "monthly_price": 100.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited members",
+              "5 staff members",
+              "100k monthly page views",
+              "100k monthly emails",
+              "20GB storage",
+              "Public access",
+              "Secure web access",
+              "Mobile app",
+              "Chat",
+              "AI spam detection",
+              "Global CDN",
+              "Custom themes and components",
+              "Custom domain",
+              "API and Webhook access"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "20GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Staff members",
+                  "value": 5
+                },
+                {
+                  "name": "Monthly page views",
+                  "value": "100k"
+                },
+                {
+                  "name": "Monthly emails",
+                  "value": "100k"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "Scale your business and help your customers and users connect with each other",
+            "monthly_price": 500.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited members",
+              "15 staff members",
+              "500k monthly page views",
+              "300k monthly emails",
+              "100GB storage",
+              "Public access",
+              "Secure web access",
+              "Mobile app",
+              "Chat",
+              "AI spam detection",
+              "Global CDN",
+              "Custom themes and components",
+              "Custom domain",
+              "API and Webhook access",
+              "Priority email support",
+              "Migration"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "100GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Staff members",
+                  "value": 15
+                },
+                {
+                  "name": "Monthly page views",
+                  "value": "500k"
+                },
+                {
+                  "name": "Monthly emails",
+                  "value": "300k"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Our most customizable and scalable plan, tailored to your needs and brand",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited members",
+              "Unlimited staff members",
+              "1M+ monthly page views",
+              "1.5M+ monthly emails",
+              "200GB+ storage",
+              "Public access",
+              "Secure web access",
+              "Mobile app",
+              "Chat",
+              "AI spam detection",
+              "Global CDN",
+              "Custom themes and components",
+              "Custom domain",
+              "API and Webhook access",
+              "Priority email support",
+              "Migration",
+              "Custom design work"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "200GB+",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Staff members",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "Monthly page views",
+                  "value": "1M+"
+                },
+                {
+                  "name": "Monthly emails",
+                  "value": "1.5M+"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:48:01.888681",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\discourse\\20250414_234802"
+}

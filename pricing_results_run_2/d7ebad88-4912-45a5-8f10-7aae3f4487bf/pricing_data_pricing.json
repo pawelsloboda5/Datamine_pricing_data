@@ -1,0 +1,97 @@
+{
+  "app_id": "deputy",
+  "app_name": "Deputy",
+  "app_slug": "deputy",
+  "pricing_url": "https://www.deputy.com/au/pricing",
+  "source_url": "https://www.deputy.com/au/pricing",
+  "all_pricing_urls": [
+    "https://www.deputy.com/au/pricing",
+    "https://www.deputy.com/au/hr-software",
+    "https://www.deputy.com/au/payroll-software"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "AUD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes add-ons and usage-based charges for SMS.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Deputy HR Add-on",
+      "tier_description": "Add-on for HR functionalities.",
+      "monthly_price": 2.5,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Personalized career hub",
+        "Paperless onboarding",
+        "Secure document management",
+        "Staff feedback surveys and reports"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Payroll Add-on",
+      "tier_description": "Add-on for payroll functionalities.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Multi-entity payroll solution"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS",
+      "unit": "per 160 characters",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.05
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Minimum Monthly Spend",
+      "fee_amount": 25.0,
+      "fee_description": "Minimum monthly spend for Premium, Scheduling, and Time & Attendance plans."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:11:17.769769",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d7ebad88-4912-45a5-8f10-7aae3f4487bf",
+    "name": "Deputy",
+    "slug": "deputy",
+    "description": "Deputy is an all-in-one employee scheduling, timesheets, tasking and communication platform. Used by thousands of businesses around the world it will improve profitability, staff culture and operational accountability.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c4bf55b302e68e9e18864f008c50c7ce.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 14
+  }
+}

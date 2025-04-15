@@ -1,0 +1,73 @@
+{
+  "app_name": "Paperbell",
+  "app_slug": "paperbell",
+  "search_term": "Find the official pricing page URL for Paperbell (paperbell.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744703464.4691224,
+  "response_text": [
+    "https://paperbell.com/pricing"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://paperbell.com/pricing",
+      "is_accessible": true,
+      "content": "The Platform Successful Coaches Choose\n--------------------------------------\n\n$57/ month\n----------\n\nPerfect for getting started or staying flexible.\n\n$684 $570 / year (2 Mo Free!)\n-----------------------------\n\n**\ud83c\udfc6 Your coaching site handled for the next year!**\n\n![Image 1: loved by coaches](https://paperbell.com/wp-content/uploads/2025/03/loved-by-coaches.png)\n\n![Image 2: paperbell ratings style3](https://paperbell.com/wp-content/uploads/2025/03/paperbell-ratings-style3.png)\n\n### All Plans Include:\n\n\u2705\u00a0**Unlimited clients and sessions** \u2013 grow without limits\n\n\u2705\u00a0\u00a0**All features included** \u2013 no upsells or hidden add-ons\n\n\u2705\u00a0\u00a0**Unlimited files, packages, and traffic** \u2013 no caps, no stress\n\n\u2705\u00a0\u00a0**Cancel anytime** \u2013 you\u2019re in control\n\n\u2705\u00a0\u00a0**No additional transaction fees** \u2013 keep what you earn\n\n\u2705\u00a0\u00a0**Everything you need from day one** \u2013 it\u2019s all built in\n\nCoaching Sessions Booked\n\nMillion Dollars Paid Out to Coaches Like You\n\nCoaching Clients Served\n\nYears Helping Coaches Succeed\n\nWhat\u2019s included? Absolutely everything.\n---------------------------------------\n\n\ue052\n\n\ue052\n\n\ue052\n\n\ue052\n\n\ue052\n\n\ue052\n\n\ue052\n\n\ue052\n\n\ue052\n\n\ue052\n\n\ue052\n\n\ue052\n\n\ue052\n\n\ue052\n\n\ue052\n\nMake Life Simple with Paperbell\n-------------------------------\n\nWhy piece together different tools when you can have it all in one place? Here\u2019s what you\u2019d typically spend elsewhere:\n\nN\n\nN\n\nN\n\nN\n\nN\n\nN\n\nN\n\n![Image 3: paperbell coaching software](https://paperbell.com/wp-content/uploads/2020/10/Paperbell-darkbgbell.png)\n\n**VS**\n------\n\n\uf52c\n\nMake Life Simple with Paperbell\n-------------------------------\n\nWhy piece together different tools when you can have it all in one place? Here\u2019s what you\u2019d typically spend elsewhere:\n\nN\n\nN\n\nN\n\nN\n\nN\n\nN\n\nN\n\n\uf52c\n\n**VS**\n------\n\n![Image 4: paperbell coaching software](https://paperbell.com/wp-content/uploads/2020/10/Paperbell-darkbgbell.png)\n\n![Image 5: Money Back Guarantee Circle Sticker](https://paperbell.com/wp-content/uploads/2023/11/Money-Back-Guarantee-Circle-Sticker.png)\n\nZero Risk, Zero Pressure\n------------------------\n\nTry Paperbell risk-free with our 30-day money-back guarantee. Just send us an email in the first 30 days and we\u2019ll refund you in full with zero hassle. Plus, you can cancel anytime in-app: no awkward conversations required.\n\nThe Results Are In: Coaches Love Paperbell!\u00a0\n--------------------------------------------\n\n\ue06a\n\n\ue06a\n\n\ue06a\n\n\ue06a\n\n\ue06a\n\n\ue06a\n\n\ue06a\n\n\ue06a\n\nWe \u2764\ufe0f Coaches\n-------------\n\n##### Have questions? Wondering if Paperbell is right for you? Email us at [hello@paperbell.com](mailto:%20hello@paperbell.com) \u2013 we\u2019re real humans who love helping coaches succeed!\n\n$57/ month\n----------\n\nPerfect for getting started or staying flexible.\n\n$684 $570 / year (2 Mo Free!)\n-----------------------------\n\n**\ud83c\udfc6 Your coaching site handled for the next year!**\n\n![Image 6: 20232024 badges 800 x 175 px 1](https://paperbell.com/wp-content/uploads/2025/01/20232024-badges-800-x-175-px-1.png)\n\nThe affordable coaching software that handles your payments, contract signing, scheduling, client admin and more.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "paperbell",
+        "app_name": "Paperbell",
+        "app_slug": "paperbell",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Annual pricing offers a discount equivalent to two free months.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Standard",
+            "tier_description": "Perfect for getting started or staying flexible.",
+            "monthly_price": 57.0,
+            "annual_price": 570.0,
+            "annual_discount_percentage": 16.67,
+            "setup_fee": null,
+            "features": [
+              "Unlimited clients and sessions",
+              "All features included",
+              "Unlimited files, packages, and traffic",
+              "Cancel anytime",
+              "No additional transaction fees",
+              "Everything you need from day one"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:51:11.379314",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\paperbell\\20250415_035112"
+}

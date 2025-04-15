@@ -1,0 +1,179 @@
+{
+  "app_name": "Updown.io",
+  "app_slug": "updownio",
+  "search_term": "Find the official pricing page URL for Updown.io (updownio.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725675.5192456,
+  "response_text": [
+    "https://updown.io/#pricing"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://updown.io/#pricing",
+      "is_accessible": true,
+      "content": "![Image 1](https://updown.io/assets/background-e619687a9106f44e8ec2a75f28713428bc41a241815a94b32d67a68ce9b15a16.jpg)\n\n70053918191\n\n  \nrequests\u00a0performed\n\n*   ### HTTP(S), TCP(S), ICMP\n    \n    Five check types to cover most of your online services (not just web).\n    \n*   ### Pulse/cron Monitoring\n    \n    Keep an eye on your periodic tasks and cron jobs. [How?](https://updown.io/doc/how-pulse-cron-monitoring-works)\n    \n*   ### Dual-Stack\n    \n    Zero configuration dual-stack monitoring (IPv4/v6), same price.\n    \n*   ### Fast checks, fair price\n    \n    Set the check frequency between 15s and 1h. The [pricing](https://updown.io/#pricing) scales linearly.\n    \n*   ### TLS/SSL testing\n    \n    Receive alerts in case of invalid or expiring soon certificate.\n    \n*   ### Domain expiration alerts\n    \n    Receive alerts when your domains are about to expire (RDAP/WHOIS).\n    \n*   ### Double-check\n    \n    Downtimes are confirmed from at least two different [locations.](https://updown.io/about)\n    \n*   ### Text search\n    \n    Match the presence of a string instead of the regular HTTP status.\n    \n*   ### Various notification channels\n    \n    Email, Webhook, Slack, Teams, Telegram, SMS, Statuspage, Zapier.\n    \n*   ### Hosted status pages\n    \n    Provides [single-site](https://meta.updown.io/) and [multi-site](https://demo.updown.io/) availability & performance reports.\n    \n*   ### Crypto, Paypal, Cards, SEPA\n    \n    We accept credit cards, Paypal, SEPA transfers, and many cryptocurrencies.\n    \n*   ### REST API & WebHooks\n    \n    Hack and integrate updown.io with the [REST & WebHook APIs.](https://updown.io/api)\n    \n\n*   200 OK\n    \n    v6\n    \n    v4\n    \n    h2\n    \n    ![Image 2](blob:http://localhost/be5b6927d85e1dc77a43d5881c3585af)\n    \n    uptime\n    \n    apdex(0.25)\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _.99_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _.99_\n    \n    _1.0_\n    \n    _.99_\n    \n    _.94_\n    \n    _.93_\n    \n    _.96_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _.99_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    30 secs\n    \n    0.99\n    \n    100%\n    \n*   200 OK\n    \n    v6\n    \n    v4\n    \n    h2\n    \n    uptime\n    \n    apdex(0.5)\n    \n    _1.0_\n    \n    _.99_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _.99_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _.98_\n    \n    _.99_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    1 min\n    \n    1.0\n    \n    100%\n    \n*   200 OK\n    \n    v6\n    \n    v4\n    \n    h2\n    \n    ![Image 3](blob:http://localhost/d657a6467356337554dcc81c1c0cc808)\n    \n    uptime\n    \n    apdex(0.5)\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _.98_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    1 min\n    \n    1.0\n    \n    100%\n    \n*   200 OK\n    \n    v6\n    \n    v4\n    \n    h2\n    \n    ![Image 4](blob:http://localhost/e0236227a2644b37681843794badf2ab)\n    \n    uptime\n    \n    apdex(1.0)\n    \n    _.94_\n    \n    _.98_\n    \n    _.98_\n    \n    _.93_\n    \n    _.95_\n    \n    _.99_\n    \n    _.97_\n    \n    _.93_\n    \n    _.96_\n    \n    _.93_\n    \n    _.99_\n    \n    _.98_\n    \n    _.94_\n    \n    _.97_\n    \n    _.98_\n    \n    _.97_\n    \n    _.95_\n    \n    _.97_\n    \n    _.98_\n    \n    _.97_\n    \n    _1.0_\n    \n    _.97_\n    \n    _.98_\n    \n    _.97_\n    \n    1 min\n    \n    0.96\n    \n    100%\n    \n*   200 OK\n    \n    v6\n    \n    v4\n    \n    h2\n    \n    ![Image 5](blob:http://localhost/40cfafe1e81b4196bd63262f978264ea)\n    \n    uptime\n    \n    apdex(0.5)\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _.98_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    _1.0_\n    \n    2 mins\n    \n    1.0\n    \n    100%\n    \n\nPricing\n-------\n\nYou only pay for what you use, check\u00a0by\u00a0check. 1\u00a0credit\u00a0\\=\u00a01\u00a0check.\n\nFor example, check10 websitesevery2 minutesfrom\u00a0\n\n1.83\n\n\u00a0\u20ac/month\u00a0(up\u00a0to\u00a0\n\n5.49\n\n\u00a0\u20ac/m):\n\n| Pack |  | Forecast |  | Price |\n| --- | --- | --- | --- | --- |\n| Number of requests included in the pack. |  | How long will it last at  \n5.0\n\nrequests/minute. |  | Excluding VAT  \nNo commitment. |\n| --- | --- | --- | --- | --- |\n| 200_,000_ |  | \n\n0\n\n\u00a0months\u00a0\n\n27\n\n\u00a0days |  | 5\u00a0\u20ac \u2248\n\n5.49\u00a0\u20ac\n\n/m |\n| 500_,000_ |  | \n\n2\n\n\u00a0months\u00a0\n\n8\n\n\u00a0days |  | 10\u00a0\u20ac \u2248\n\n4.39\u00a0\u20ac\n\n/m |\n| 1,500_,000_ |  | \n\n6\n\n\u00a0months\u00a0\n\n25\n\n\u00a0days |  | 25\u00a0\u20ac \u2248\n\n3.66\u00a0\u20ac\n\n/m |\n| 3,000_,000_ |  | \n\n13\n\n\u00a0months\u00a0\n\n20\n\n\u00a0days |  | 40\u00a0\u20ac \u2248\n\n2.93\u00a0\u20ac\n\n/m |\n| 10,000_,000_ |  | \n\n45\n\n\u00a0months\u00a0\n\n16\n\n\u00a0days |  | 100\u00a0\u20ac \u2248\n\n2.20\u00a0\u20ac\n\n/m |\n| 60,000_,000_ |  | \n\n273\n\n\u00a0months\u00a0\n\n6\n\n\u00a0days |  | 500\u00a0\u20ac \u2248\n\n1.83\u00a0\u20ac\n\n/m |\n\nSave up by purchasing more credits upfront\n\nWe accept credit cards, Paypal, crypto and more.\n\nExtra: SMS alerts costs 7500 credits (\u2248\u00a00.10\u20ac) per message.\n\nTry\u00a0**now**\u00a0with **100,000\u00a0free\u00a0credits**: [Sign in](https://updown.io/users/sign_in)\n\n> [@updownio](https://twitter.com/updownio?ref_src=twsrc%5Etfw) PERFECT, you guys rock. this tool has been so helpful to us this past month with some DDoS issues on Linode.\n> \n> \u2014 Matt Heerema (@mheerema) [January 9, 2016](https://twitter.com/mheerema/status/685874567051522048?ref_src=twsrc%5Etfw)\n\n> [@updownio](https://twitter.com/updownio?ref_src=twsrc%5Etfw) Perfect alternative to pingdom. You will have 2 paying customers soon plus more. Beautiful job!\n> \n> \u2014 Kacper Wikie\u0142 (@kacperwikiel) [October 23, 2016](https://twitter.com/kacperwikiel/status/790335057017860096?ref_src=twsrc%5Etfw)\n\n> I really like the simplicity of [@updownio](https://twitter.com/updownio?ref_src=twsrc%5Etfw)! And their support is great too :)\n> \n> \u2014 Lo\u00efc Mathaud (@loicmathaud) [March 1, 2016](https://twitter.com/loicmathaud/status/704677528603123713?ref_src=twsrc%5Etfw)\n\n> Really digging the [@updownio](https://twitter.com/updownio?ref_src=twsrc%5Etfw) uptime monitoring. Simple, elegant, great price and super quick to setup. Highly recommended!\n> \n> \u2014 Greg Ratner (@GregRatner) [May 9, 2016](https://twitter.com/GregRatner/status/729799544293199873?ref_src=twsrc%5Etfw)\n\n> Couldn't recommend [@updownio](https://twitter.com/updownio?ref_src=twsrc%5Etfw) any more. I love that they do a single thing, really well. I don't always want something as complex as others.\n> \n> \u2014 Pete Heslop (@Pwheslop) [June 23, 2016](https://twitter.com/Pwheslop/status/745911645046718464?ref_src=twsrc%5Etfw)\n\n> [@updownio](https://twitter.com/updownio?ref_src=twsrc%5Etfw) SSL expiration warnings emails are a nice touch. Great to find out we get more than we paid for!\n> \n> \u2014 Jean-Michel Lacroix (@jmlacroix) [May 11, 2017](https://twitter.com/jmlacroix/status/862655210308734977?ref_src=twsrc%5Etfw)\n\n> [@updownio](https://twitter.com/updownio?ref_src=twsrc%5Etfw) has now replaced pingdom as my monitoring tool of choice. Simple, clean. Straightforward billing terms and they accept BITCOIN!\n> \n> \u2014 pinacodelada (@pinacodelada) [January 17, 2015](https://twitter.com/pinacodelada/status/556538047677075457?ref_src=twsrc%5Etfw)\n\n> Oooooooh per site webhooks! Neat! :D\n> \n> \u2014 Matt Cavanagh (@Maelstromeous) [August 16, 2017](https://twitter.com/Maelstromeous/status/897847485250535425?ref_src=twsrc%5Etfw)\n\n> [@updownio](https://twitter.com/updownio?ref_src=twsrc%5Etfw) Really loving your monitoring service! The status pages are very, very sweet as well! Miles better and cleaner than Pingdom.\n> \n> \u2014 Matt Cavanagh (@Maelstromeous) [January 3, 2016](https://twitter.com/Maelstromeous/status/683453586517409793?ref_src=twsrc%5Etfw)\n\n> Good job to you! Updown.io is simply the nicest looking uptime checker on earth \ud83d\udc85\ud83c\udffc \ud83d\ude80\ud83d\ude80 And pricing is really good :)\n> \n> \u2014 Gladys Project (@gladysproject) [July 30, 2017](https://twitter.com/gladysproject/status/891751914664337408?ref_src=twsrc%5Etfw)\n\n> Love using [@updownio](https://twitter.com/updownio?ref_src=twsrc%5Etfw) as one of our server monitoring providers, easily the best interface in the business and always had top notch support the rare time I have needed it.\n> \n> \u2014 Ollie Castle (@olliecastle) [November 30, 2017](https://twitter.com/olliecastle/status/936323876841246720?ref_src=twsrc%5Etfw)\n\n> [@updownio](https://twitter.com/updownio?ref_src=twsrc%5Etfw) Just started using you. Love the service - super slick, friendly, and well executed! Thank you :)\n> \n> \u2014 ErgoDox EZ (@ErgoDoxEZ) [September 16, 2016](https://twitter.com/ErgoDoxEZ/status/776762908084764672?ref_src=twsrc%5Etfw)\n\n> Wow!! [@updownio](https://twitter.com/updownio?ref_src=twsrc%5Etfw) you are truly awesome.. I got exactly what I needed.\n> \n> \u2014 Aditya Patadia (@adityapatadia) [March 10, 2017](https://twitter.com/adityapatadia/status/840070252763332612?ref_src=twsrc%5Etfw)\n\n> This simple yet powerful and very good uptime monitoring service updown.io just added a new feature. Recommended! [https://t.co/vg8DUILsOb](https://t.co/vg8DUILsOb)\n> \n> \u2014 Pietari Heino (@PietariHeino) [June 28, 2016](https://twitter.com/PietariHeino/status/747710883640545280?ref_src=twsrc%5Etfw)\n\n> If you are looking around for a web monitoring tool, check [@updownio](https://twitter.com/updownio?ref_src=twsrc%5Etfw). Great service with plenty of free credit to try it out!\n> \n> \u2014 Thanasis Delenikas (@TDelenikas) [May 14, 2017](https://twitter.com/TDelenikas/status/863698574886023168?ref_src=twsrc%5Etfw)\n\n> If you need a simple, cost effective Website Uptime and speed monitor, try [@updownio](https://twitter.com/updownio?ref_src=twsrc%5Etfw)\n> \n> Great service. Simple to setup. Nice GUI for status.\n> \n> \u2014 TopHatDeveloper (@indiealexh) [November 18, 2016](https://twitter.com/indiealexh/status/799532215830978561?ref_src=twsrc%5Etfw)\n\n> And damned awesome, switched from Pingdom a few years ago and have never looked back. \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\n> \n> \u2014 Ben Everard (@\\_beneverard) [August 15, 2017](https://twitter.com/_beneverard/status/897477588318388224?ref_src=twsrc%5Etfw)\n\n> I was looking for a [@goserverless](https://twitter.com/goserverless?ref_src=twsrc%5Etfw) alternative to [@updownio](https://twitter.com/updownio?ref_src=twsrc%5Etfw) so I can check many different websites for few $ a month but it was just before checking the pricing page.  \n> Signup.  \n> It's really an \"inexpensive website monitoring\" \ud83d\udc4c\n> \n> \u2014 J\u00e9r\u00e9my (@j0k) [January 1, 2018](https://twitter.com/j0k/status/947885948347518980?ref_src=twsrc%5Etfw)\n\n> There are few tools I aspire to when building my own - this is one of them!\n> \n> \u2014 Pete Heslop (@Pwheslop) [August 3, 2016](https://twitter.com/Pwheslop/status/760780752036499456?ref_src=twsrc%5Etfw)\n\n\u03df Website monitoring \u2014 beautiful, simple and inexpensive.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "updown_io",
+        "app_name": "Updown.io",
+        "app_slug": "updown-io",
+        "pricing_url": "https://updown.io/#pricing",
+        "source_url": "https://updown.io/#pricing",
+        "all_pricing_urls": [
+          "https://updown.io/#pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "EUR",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is based on credits, with 1 credit equaling 1 check. Users can purchase credits in packs, and the cost per check decreases with larger packs.",
+        "pricing_tiers": [
+          {
+            "tier_name": "200,000 credits",
+            "tier_description": "Suitable for small-scale monitoring.",
+            "monthly_price": 5.49,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "200,000 checks included"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 200000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "500,000 credits",
+            "tier_description": "Ideal for medium-scale monitoring.",
+            "monthly_price": 4.39,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "500,000 checks included"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 500000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "1,500,000 credits",
+            "tier_description": "For larger monitoring needs.",
+            "monthly_price": 3.66,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "1,500,000 checks included"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 1500000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "3,000,000 credits",
+            "tier_description": "For extensive monitoring requirements.",
+            "monthly_price": 2.93,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "3,000,000 checks included"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 3000000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "10,000,000 credits",
+            "tier_description": "For very large-scale monitoring.",
+            "monthly_price": 2.2,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "10,000,000 checks included"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 10000000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "60,000,000 credits",
+            "tier_description": "For enterprise-level monitoring.",
+            "monthly_price": 1.83,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "60,000,000 checks included"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": 60000000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "SMS alerts",
+            "unit": "per message",
+            "base_price": 0.1,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "SMS alerts",
+            "fee_amount": 0.1,
+            "fee_description": "Cost per SMS alert message."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T10:01:27.747781",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\updownio\\20250415_100128"
+}

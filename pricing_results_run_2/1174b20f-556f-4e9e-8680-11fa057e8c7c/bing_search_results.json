@@ -1,0 +1,156 @@
+{
+  "app_name": "Pure Chat",
+  "app_slug": "pure-chat",
+  "search_term": "Find the official pricing page URL for Pure Chat (pure-chat.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744699425.2204242,
+  "response_text": [
+    "The official pricing page for Pure Chat can be found at: https://www.purechat.com/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.purechat.com/pricing",
+      "is_accessible": true,
+      "content": "The easiest & fastest way to add live chat to your website. Try the PRO plan for FREE for 30 days!\n--------------------------------------------------------------------------------------------------\n\n| Features | Growth | PRO |\n| --- | --- | --- |\n| Price (paid annually) | $39/mo | $79/mo |\n| Price (paid monthly) | $49/mo | $99/mo |\n| Additional Users/Operators (paid annually) | $13/mo | $8/mo |\n| Additional Users/Operators (paid monthly) | $15/mo | $10/mo |\n| Max Websites | 1 | Unlimited |\n| Users/Operators Included | 4 | 10 |\n| SMS Notifications | 100 | 1,000 |\n| Remove Pure Chat Branding |  |  |\n| Unlimited Chats |  |  |\n| Advanced Widget Customization |  |  |\n| All Integrations |  |  |\n| Engagement Hub |  |  |\n| iOS and Android Mobile Apps |  |  |\n| Security Roles (Admin, Power Users, and Operators) |  |  |\n| Unlimited Chat History Transcripts |  |  |\n| Canned Responses |  |  |\n| Chat Notifications |  |  |\n| File Transfer |  |  |\n| Trigger-Based Actions and Alerts |  |  |\n| Realtime Analytics |  |  |\n| Visitor Tracking |  |  |\n| Comprehensive Account Statistics and Reports |  |  |\n| CSV exports for Reports & Contacts |  |  |\n| Support |  |  |\n\nTry Pure Chat FREE for 30 days!\n-------------------------------\n\nKnow about Live Chat Software pricing with Pure Chat. Get powerful communication tools to engage customers and boost conversions with us. Call us!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "pure_chat",
+        "app_name": "Pure Chat",
+        "app_slug": "pure-chat",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes options for annual and monthly billing, with additional fees for extra users/operators.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Growth",
+            "tier_description": null,
+            "monthly_price": 49.0,
+            "annual_price": 468.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Max Websites: 1",
+              "Users/Operators Included: 4",
+              "SMS Notifications: 100"
+            ],
+            "limits": {
+              "users": 4,
+              "storage": null,
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Max Websites",
+                  "value": 1
+                },
+                {
+                  "name": "SMS Notifications",
+                  "value": 100
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "PRO",
+            "tier_description": null,
+            "monthly_price": 99.0,
+            "annual_price": 948.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Max Websites: Unlimited",
+              "Users/Operators Included: 10",
+              "SMS Notifications: 1,000",
+              "Remove Pure Chat Branding",
+              "Unlimited Chats",
+              "Advanced Widget Customization",
+              "All Integrations",
+              "Engagement Hub",
+              "iOS and Android Mobile Apps",
+              "Security Roles (Admin, Power Users, and Operators)",
+              "Unlimited Chat History Transcripts",
+              "Canned Responses",
+              "Chat Notifications",
+              "File Transfer",
+              "Trigger-Based Actions and Alerts",
+              "Realtime Analytics",
+              "Visitor Tracking",
+              "Comprehensive Account Statistics and Reports",
+              "CSV exports for Reports & Contacts",
+              "Support"
+            ],
+            "limits": {
+              "users": 10,
+              "storage": null,
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Max Websites",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "SMS Notifications",
+                  "value": 1000
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Additional Users/Operators",
+            "unit": "per user",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": null,
+                "price": 15.0
+              },
+              {
+                "min": 1.0,
+                "max": null,
+                "price": 13.0
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Additional Users/Operators (paid monthly)",
+            "fee_amount": 15.0,
+            "fee_description": "Cost per additional user/operator for monthly billing"
+          },
+          {
+            "fee_name": "Additional Users/Operators (paid annually)",
+            "fee_amount": 13.0,
+            "fee_description": "Cost per additional user/operator for annual billing"
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T02:44:00.614808",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\pure-chat\\20250415_024401"
+}

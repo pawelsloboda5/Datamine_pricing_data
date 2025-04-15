@@ -1,0 +1,169 @@
+{
+  "app_id": "chartmogul",
+  "app_name": "ChartMogul",
+  "app_slug": "chartmogul",
+  "pricing_url": "https://chartmogul.com/pricing",
+  "source_url": "https://chartmogul.com/pricing/",
+  "all_pricing_urls": [
+    "https://chartmogul.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing varies based on ARR tiers and includes a free tier for early-stage companies.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For founders with less than $120K ARR.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "SaaS metrics and dashboards",
+        "Connect with Stripe, Intercom, Slack and more",
+        "Unlimited users"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For teams on the journey to $10M ARR.",
+      "monthly_price": 99.0,
+      "annual_price": 1188.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Add multiple billing sources",
+        "Build and share custom reports",
+        "Connect your data warehouse"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For teams scaling to $100M ARR and beyond.",
+      "monthly_price": null,
+      "annual_price": 19900.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full access to sources and destinations",
+        "One-on-one training",
+        "Solutions engineering support and SLA"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "ARR",
+      "unit": "USD",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 500000.0,
+          "price": 99.0
+        },
+        {
+          "min": 500001.0,
+          "max": 1000000.0,
+          "price": 174.0
+        },
+        {
+          "min": 1000001.0,
+          "max": 1500000.0,
+          "price": 249.0
+        },
+        {
+          "min": 1500001.0,
+          "max": 3000000.0,
+          "price": 449.0
+        },
+        {
+          "min": 3000001.0,
+          "max": 5000000.0,
+          "price": 699.0
+        },
+        {
+          "min": 5000001.0,
+          "max": 7000000.0,
+          "price": 949.0
+        },
+        {
+          "min": 7000001.0,
+          "max": 10000000.0,
+          "price": 1199.0
+        },
+        {
+          "min": 10000001.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Startup Program Discount",
+      "offer_description": "$50 monthly discount for eligible startups for the first year.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:54:55.862369",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0a52d2fa-8501-442a-a88b-476a9d6a49df",
+    "name": "ChartMogul",
+    "slug": "chartmogul",
+    "description": "ChartMogul helps you measure, understand and grow your subscription business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/7de8463194fc2997c5b073e3af57eb6c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Ads & Conversion"
+    ],
+    "category_slugs": [
+      "ads-conversion"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 19,
+    "trigger_count": 0
+  }
+}

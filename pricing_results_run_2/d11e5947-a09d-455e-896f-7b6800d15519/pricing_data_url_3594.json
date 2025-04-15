@@ -1,0 +1,168 @@
+{
+  "app_id": "aloware",
+  "app_name": "Aloware",
+  "app_slug": "aloware",
+  "pricing_url": "https://aloware.com/pricing",
+  "source_url": "https://aloware.com/pricing/",
+  "all_pricing_urls": [
+    "https://aloware.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes unlimited inbound and outbound agent minutes and SMS. Additional charges apply for automated usage and certain add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "iPro + AI",
+      "tier_description": "Best for speed to lead",
+      "monthly_price": 30.0,
+      "annual_price": null,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Core calling & texting features",
+        "Native integrations: HubSpot, Pipedrive, Zoho",
+        "1000 AloAi Voice Analytics minutes",
+        "IVRs, call recording, live wallboard",
+        "Chrome extension, desktop and mobile apps",
+        "Bulk SMS/MMS broadcasting",
+        "Mandatory tags & dispositions",
+        "Voicemail drops & SMS templates",
+        "Zapier integrations: 100+",
+        "Lead API & Webhooks",
+        "Dial in CRM",
+        "Call & transcription sync to CRM",
+        "Clean, dedicated numbers"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    },
+    {
+      "tier_name": "uPro + AI",
+      "tier_description": "Maximize rep performance",
+      "monthly_price": 60.0,
+      "annual_price": null,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in iPro",
+        "HubSpot workflows integration",
+        "5000 AloAi Voice Analytics minutes",
+        "Power Dialer",
+        "AI call transcriptions",
+        "AI call summaries",
+        "AI sentiment analysis",
+        "HubSpot dynamic lists",
+        "Dedicated success manager",
+        "Call coaching, listen & barge",
+        "Call & text sequences",
+        "Full API access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    },
+    {
+      "tier_name": "xPro + AI",
+      "tier_description": "Best for enterprise",
+      "monthly_price": 85.0,
+      "annual_price": null,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in uPro",
+        "Salesforce integration",
+        "Unlimited AloAi Voice Analytics minutes",
+        "AI keyword detection & search",
+        "AI trending topics",
+        "AI call scoring",
+        "AI agent monitoring",
+        "White-glove onboarding",
+        "Guaranteed 99.99% SLA",
+        "Managed 10DLC compliance",
+        "Lowest SMS marketing rates",
+        "3x Agent training sessions"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "AloAi Voice Analytics",
+      "unit": "per minute",
+      "base_price": 0.03,
+      "tiers": null
+    },
+    {
+      "metric_name": "Outbound SMS via automations",
+      "unit": "per segment",
+      "base_price": 0.02,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": true,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Managed A2P 10DLC registration",
+      "fee_amount": 500.0,
+      "fee_description": "One-time fee for managed A2P 10DLC registration."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:48:03.195691",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d11e5947-a09d-455e-896f-7b6800d15519",
+    "name": "Aloware",
+    "slug": "aloware",
+    "description": "Aloware is a Cloud-based contact center software that offers call, text, and workflow automation and is fit for any team.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/76e73b999cdaf0663131b72f2a12f55d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 7
+  }
+}

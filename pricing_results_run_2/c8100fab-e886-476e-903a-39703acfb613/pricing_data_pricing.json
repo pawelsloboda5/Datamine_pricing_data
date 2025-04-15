@@ -1,0 +1,170 @@
+{
+  "app_id": "front",
+  "app_name": "Front",
+  "app_slug": "front",
+  "pricing_url": "https://front.com/pricing",
+  "source_url": "https://front.com/pricing",
+  "all_pricing_urls": [
+    "https://front.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on a per-seat model with additional features and limits varying by tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Real-time collaboration to resolve customer service inquiries",
+      "monthly_price": null,
+      "annual_price": 19.0,
+      "annual_discount_percentage": 34.0,
+      "setup_fee": null,
+      "features": [
+        "Shared inboxes",
+        "Collaborate on email, chat, and more",
+        "Live chat & chatbots",
+        "Ticketing",
+        "Knowledge Base",
+        "Analytics"
+      ],
+      "limits": {
+        "users": "10",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Rules",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "No-code automation and reporting to streamline support processes",
+      "monthly_price": null,
+      "annual_price": 59.0,
+      "annual_discount_percentage": 34.0,
+      "setup_fee": null,
+      "features": [
+        "Shared inboxes",
+        "Collaborate on email, chat, and more",
+        "Live chat & chatbots",
+        "Ticketing",
+        "Knowledge Base",
+        "Analytics",
+        "AI Summarize & AI Compose"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Rules",
+            "value": 20
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "Total workflow flexibility and advanced user management",
+      "monthly_price": null,
+      "annual_price": 99.0,
+      "annual_discount_percentage": 34.0,
+      "setup_fee": null,
+      "features": [
+        "Shared inboxes",
+        "Collaborate on email, chat, and more",
+        "Live chat & chatbots",
+        "Ticketing",
+        "Knowledge Base",
+        "Analytics",
+        "AI Summarize & AI Compose",
+        "Advanced team controls"
+      ],
+      "limits": {
+        "users": "2",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Rules",
+            "value": 200
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premier",
+      "tier_description": "Professional services to meet enterprise needs",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Shared inboxes",
+        "Collaborate on email, chat, and more",
+        "Live chat & chatbots",
+        "Ticketing",
+        "Knowledge Base",
+        "Analytics",
+        "AI Summarize & AI Compose",
+        "Advanced team controls",
+        "Onboarding and solution design"
+      ],
+      "limits": {
+        "users": "20+",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Rules",
+            "value": 1000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:27:28.727230",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c8100fab-e886-476e-903a-39703acfb613",
+    "name": "Front",
+    "slug": "front-app",
+    "description": "Front is the AI-powered customer service platform built for collaboration that enables 9,000 businesses to deliver five-star service at scale.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/2f57a7827efdb15b4b7c370eecefd9ba.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 28,
+    "trigger_count": 4
+  }
+}

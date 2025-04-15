@@ -1,0 +1,171 @@
+{
+  "app_id": "zenler",
+  "app_name": "Zenler",
+  "app_slug": "zenler",
+  "pricing_url": null,
+  "source_url": "https://www.newzenler.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Zenler offers a free plan and subscription-based pricing with detailed feature differentiation between Pro and Premium tiers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pro",
+      "tier_description": "Includes essential features for course creation and marketing.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Courses",
+        "Unlimited Students",
+        "25,000 Leads",
+        "100,000 Emails/month",
+        "100 Marketing Funnels",
+        "3 Sites",
+        "Live Classes",
+        "Live Webinars",
+        "Live Interactive Webinars",
+        "Live Streams",
+        "Zenler AI",
+        "10 Site Admins",
+        "20 Instructors/Course Admins",
+        "10 Assistants",
+        "10 Support",
+        "3 Custom Domains",
+        "Coupons Advanced",
+        "Advanced Page HTML/CSS Editing",
+        "Page Editor Design Blocks",
+        "Advanced Quiz/Survey",
+        "Assignment",
+        "Blog",
+        "Priority Support",
+        "Import & Export Users",
+        "Bulk Enrollments",
+        "Drip Schedule",
+        "Automations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Emails per month",
+            "value": 100000
+          },
+          {
+            "name": "Marketing Funnels",
+            "value": 100
+          },
+          {
+            "name": "Sites",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Advanced features for larger operations and enhanced marketing.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Courses",
+        "Unlimited Students",
+        "Unlimited Leads",
+        "500,000 Emails/month",
+        "Unlimited Marketing Funnels",
+        "10 Sites",
+        "Live Classes",
+        "Live Webinars",
+        "Live Interactive Webinars",
+        "Live Streams",
+        "Zenler AI",
+        "20 Site Admins",
+        "100 Instructors/Course Admins",
+        "50 Assistants",
+        "50 Support",
+        "10 Custom Domains",
+        "Coupons Advanced",
+        "Advanced Page HTML/CSS Editing",
+        "Page Editor Design Blocks",
+        "Advanced Quiz/Survey",
+        "Assignment",
+        "Blog",
+        "Priority Support",
+        "Import & Export Users",
+        "Bulk Enrollments",
+        "Drip Schedule",
+        "Automations",
+        "Single Sign-on/API"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Emails per month",
+            "value": 500000
+          },
+          {
+            "name": "Marketing Funnels",
+            "value": "unlimited"
+          },
+          {
+            "name": "Sites",
+            "value": 10
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Founding Members Discount",
+      "offer_description": "Exclusive discounts for founding members before the launch.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:33:03.294958",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3af3c2c6-c344-4613-ac2a-73b2052208f8",
+    "name": "Zenler",
+    "slug": "zenler",
+    "description": "Zenler is a super easy platform that lets you start your own branded website. It allows you to make money teaching your own courses online.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/b10952141d11e44a740bca937cf485af_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders"
+    ],
+    "category_slugs": [
+      "cms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 6
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "app_name": "Membership.io",
+  "app_slug": "membershipio",
+  "search_term": "Find the official pricing page URL for Membership.io (membershipio.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744715998.5967033,
+  "response_text": [
+    "I could not find the official pricing page for Membership.io."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\membershipio\\20250415_071958"
+}

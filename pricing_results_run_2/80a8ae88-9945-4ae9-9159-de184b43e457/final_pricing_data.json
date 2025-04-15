@@ -1,0 +1,99 @@
+{
+  "app_id": "rezdy",
+  "app_name": "Rezdy",
+  "app_slug": "rezdy",
+  "pricing_url": null,
+  "source_url": "https://rezdy.com/pricing/",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Prices are exclusive of GST in Australia. A 3% fee applies to online bookings.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Foundation",
+      "tier_description": "For businesses looking to get bookings online.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Online booking engine",
+        "Mobile experience",
+        "Guest manifest",
+        "TripAdvisor Review Express"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Accelerate",
+      "tier_description": "For businesses looking to step up growth.",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Offer packages & extras",
+        "Manage gift cards & vouchers",
+        "Automate customer notifications",
+        "Add advanced selling plug ins"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Expansion",
+      "tier_description": "For businesses looking for greater control and insight.",
+      "monthly_price": 249.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced reporting",
+        "Bulk session management tools",
+        "API access",
+        "Webhooks"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "online booking",
+      "unit": "percentage",
+      "base_price": 3.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:21:44.765813",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "80a8ae88-9945-4ae9-9159-de184b43e457",
+    "name": "Rezdy",
+    "slug": "rezdy",
+    "description": "Rezdy is a cloud-based reservation software and booking system, designed especially for tour, activity, shuttle bus, rental and sightseeing operators.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/8e935a59cebc2b8d38cda640bbff3487_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

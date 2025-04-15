@@ -1,0 +1,45 @@
+{
+  "app_id": "redtail_crm",
+  "app_name": "Redtail CRM",
+  "app_slug": "redtail-crm",
+  "pricing_url": null,
+  "source_url": "https://www.redtailtechnology.com/how-the-heck-much/",
+  "all_pricing_urls": [
+    "https://corporate.redtailtechnology.com/"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page could not be located, and no specific pricing details are available.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:22:43.588509",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "6f134138-410e-4872-9328-6e068ef1b5d3",
+    "name": "Redtail CRM",
+    "slug": "redtailcrm",
+    "description": "Redtail CRM is cost-effective, easy to use, cloud based solution for today\u2019s financial professional. Packed with powerful features for activity management, office automation, and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/cfc3ec1648238cd494ed4605fc00cc11.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 10
+  }
+}

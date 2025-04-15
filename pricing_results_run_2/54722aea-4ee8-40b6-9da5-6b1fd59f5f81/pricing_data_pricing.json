@@ -1,0 +1,191 @@
+{
+  "app_id": "big_cartel",
+  "app_name": "Big Cartel",
+  "app_slug": "big-cartel",
+  "pricing_url": "https://www.bigcartel.com/pricing",
+  "source_url": "https://www.bigcartel.com/pricing",
+  "all_pricing_urls": [
+    "https://www.bigcartel.com/pricing",
+    "https://www.bigcartel.com/product/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 20% discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Gold",
+      "tier_description": "The basics of everything you need to sell online and in-person.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 product listings",
+        "1 image per product",
+        "Product variant groups",
+        "Sell online",
+        "Accept cards, PayPal, and more",
+        "Mobile apps for iOS & Android",
+        "Sales tax autopilot",
+        "Import products from Etsy, Squarespace, & Shopify",
+        "Free, SEO-optimized templates",
+        "Real-time sales dashboard"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Product Listings",
+            "value": 5
+          },
+          {
+            "name": "Images per Product",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Platinum",
+      "tier_description": "For a growing business with more inventory and shipments to manage.",
+      "monthly_price": 15.0,
+      "annual_price": 144.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "50 product listings",
+        "5 images per product",
+        "Product variant groups",
+        "Sell online & in person",
+        "Accept cards, PayPal, Afterpay, and more",
+        "Offer discounts & run promos",
+        "Unlimited label printing + up to 90% off shipping",
+        "Shipment tracking",
+        "Mobile apps for iOS & Android",
+        "Sales tax autopilot",
+        "Inventory tracking",
+        "Bulk editing",
+        "Easy-install apps for print-on-demand, product reviews, & more",
+        "Ads support for Google, Facebook, and more",
+        "Import products from Etsy, Squarespace, & Shopify",
+        "Use a custom domain",
+        "Free, SEO-optimized templates",
+        "Advanced template customization",
+        "Real-time sales dashboard",
+        "Google Analytics"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Product Listings",
+            "value": 50
+          },
+          {
+            "name": "Images per Product",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Diamond",
+      "tier_description": "The support you need for your scaling business with over 50 products ready to go.",
+      "monthly_price": 30.0,
+      "annual_price": 288.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "500 product listings",
+        "25 images per product",
+        "Product variant groups",
+        "Sell online & in person",
+        "Accept cards, PayPal, Afterpay, and more",
+        "Offer discounts & run promos",
+        "Unlimited label printing + up to 90% off shipping",
+        "Shipment tracking",
+        "Mobile apps for iOS & Android",
+        "Sales tax autopilot",
+        "Inventory tracking",
+        "Bulk editing",
+        "Easy-install apps for print-on-demand, product reviews, & more",
+        "Ads with audience targeting for Google, Facebook and more",
+        "Import products from Etsy, Squarespace, & Shopify",
+        "Prioritized support",
+        "Abandoned cart recovery",
+        "Use a custom domain",
+        "Free, SEO-optimized templates",
+        "Advanced template customization",
+        "Real-time sales dashboard",
+        "Advanced Google Analytics reporting"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Product Listings",
+            "value": 500
+          },
+          {
+            "name": "Images per Product",
+            "value": 25
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Save 20% with an annual plan.",
+      "discount_percentage": 20.0,
+      "offer_url": "https://www.bigcartel.com/product/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:11:54.525339",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "54722aea-4ee8-40b6-9da5-6b1fd59f5f81",
+    "name": "Big Cartel",
+    "slug": "bigcartel",
+    "description": "We make simple tools to help creative people build unique online stores.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/4d7fdea2a52680c7aecbfb94d9cb687b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 23,
+    "trigger_count": 6
+  }
+}

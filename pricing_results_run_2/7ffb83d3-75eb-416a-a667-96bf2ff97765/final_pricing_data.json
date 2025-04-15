@@ -1,0 +1,188 @@
+{
+  "app_id": "agile_crm",
+  "app_name": "Agile CRM",
+  "app_slug": "agile-crm",
+  "pricing_url": "https://www.agilecrm.com/pricing",
+  "source_url": "https://www.agilecrm.com/pricing",
+  "all_pricing_urls": [
+    "https://www.agilecrm.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Agile CRM offers a free tier for up to 10 users and provides various subscription plans with increasing features and limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For up to 10 users.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1,000 Contacts & Companies",
+        "Custom Data Fields",
+        "Lead Scoring",
+        "Unlimited Deals, Tasks & Documents",
+        "Appointment Scheduling",
+        "Custom Deal Milestones",
+        "Email Tracking"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": 500,
+        "integrations": 1,
+        "custom_limits": [
+          {
+            "name": "Campaign Workflows",
+            "value": 1
+          },
+          {
+            "name": "Nodes Per Campaign",
+            "value": 5
+          },
+          {
+            "name": "Automation Rules (Triggers)",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "For small teams.",
+      "monthly_price": 8.99,
+      "annual_price": 107.88,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10,000 Contacts & Companies",
+        "Marketing Automation",
+        "Social Monitoring"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": 5000,
+        "integrations": 3,
+        "custom_limits": [
+          {
+            "name": "Campaign Workflows",
+            "value": 5
+          },
+          {
+            "name": "Nodes Per Campaign",
+            "value": 10
+          },
+          {
+            "name": "Automation Rules (Triggers)",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Regular",
+      "tier_description": "For growing businesses.",
+      "monthly_price": 29.99,
+      "annual_price": 359.88,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "50,000 Contacts & Companies",
+        "Mobile Marketing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": 10000,
+        "integrations": "50+",
+        "custom_limits": [
+          {
+            "name": "Campaign Workflows",
+            "value": 10
+          },
+          {
+            "name": "Nodes Per Campaign",
+            "value": 25
+          },
+          {
+            "name": "Automation Rules (Triggers)",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For enterprises.",
+      "monthly_price": 47.99,
+      "annual_price": 575.88,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Contacts & Companies",
+        "Dedicated Account Rep",
+        "Onboarding Coach"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": 25000,
+        "integrations": "50+",
+        "custom_limits": [
+          {
+            "name": "Campaign Workflows",
+            "value": "unlimited"
+          },
+          {
+            "name": "Nodes Per Campaign",
+            "value": 50
+          },
+          {
+            "name": "Automation Rules (Triggers)",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:52:45.582880",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7ffb83d3-75eb-416a-a667-96bf2ff97765",
+    "name": "Agile CRM",
+    "slug": "agile-crm",
+    "description": "Agile CRM offers contact management, marketing automation, telephony, analytics, web engagement, real-time alerts and social suite. Track, nurture, and sell like a pro.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/4c0d2b3023b1d1520cbfb1ee698807e8.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 8
+  }
+}

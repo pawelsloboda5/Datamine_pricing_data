@@ -1,0 +1,145 @@
+{
+  "app_id": "axonaut",
+  "app_name": "Axonaut",
+  "app_slug": "axonaut",
+  "pricing_url": "https://axonaut.com/content/prix",
+  "source_url": "https://axonaut.com/#prices",
+  "all_pricing_urls": [
+    "https://axonaut.com/content/prix"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 15,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes options for monthly, annual, and biennial subscriptions with discounts for longer commitments.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Monthly Plan",
+      "tier_description": "Monthly subscription plan.",
+      "monthly_price": 69.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features included in the subscription."
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Annual Plan",
+      "tier_description": "Annual subscription plan with a 10% discount.",
+      "monthly_price": 62.99,
+      "annual_price": 755.88,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "All features included in the subscription."
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Biennial Plan",
+      "tier_description": "Two-year subscription plan with a 20% discount.",
+      "monthly_price": 55.99,
+      "annual_price": 1343.76,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All features included in the subscription."
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Referral Plan",
+      "tier_description": "Free subscription through referral.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features included in the subscription."
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "10% discount for annual subscription.",
+      "discount_percentage": 10.0,
+      "offer_url": "https://axonaut.com/onboarding/?preset=fromPrice1Year",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Biennial Plan Discount",
+      "offer_description": "20% discount for two-year subscription.",
+      "discount_percentage": 20.0,
+      "offer_url": "https://axonaut.com/onboarding/?preset=fromPrice2Years",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Additional User Fee",
+      "fee_amount": 29.99,
+      "fee_description": "Monthly fee per additional user."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:03:55.036887",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1b41b3c9-b72f-4042-af28-224242375d3d",
+    "name": "Axonaut",
+    "slug": "axonaut",
+    "description": "Axonaut is a CRM and more: follow your customer from before the first contact, beginning at the marketing campaign, though negotiations, billing, bank reconciliation.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/efbebd0c3b86eb10c14473b020cbabf6.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 21,
+    "trigger_count": 12
+  }
+}

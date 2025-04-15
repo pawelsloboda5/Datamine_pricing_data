@@ -1,0 +1,162 @@
+{
+  "app_id": "webinarjam_everwebinar",
+  "app_name": "WebinarJam / EverWebinar",
+  "app_slug": "webinarjam-everwebinar",
+  "pricing_url": null,
+  "source_url": "https://home.webinarjam.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are tiered based on attendee limits and webinar duration.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Host webinars with up to 100 attendees",
+        "Webinars up to 1 hour in length"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Attendees per webinar",
+            "value": 100
+          },
+          {
+            "name": "Webinar duration",
+            "value": "1 hour"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Host webinars with up to 500 attendees",
+        "Webinars up to 2 hours in length"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Attendees per webinar",
+            "value": 500
+          },
+          {
+            "name": "Webinar duration",
+            "value": "2 hours"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Host webinars with up to 2000 attendees",
+        "Webinars up to 3 hours in length"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Attendees per webinar",
+            "value": 2000
+          },
+          {
+            "name": "Webinar duration",
+            "value": "3 hours"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Ultimate",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Host webinars with up to 5000 attendees",
+        "Webinars up to 4 hours in length"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Attendees per webinar",
+            "value": 5000
+          },
+          {
+            "name": "Webinar duration",
+            "value": "4 hours"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:54:42.295710",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4efaad57-a76d-4ae3-9931-2da27c5b5ce8",
+    "name": "WebinarJam / EverWebinar",
+    "slug": "webinarjam",
+    "description": "WebinarJam is a webinar and live broadcasting program allowing for live and prerecorded events.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/4c49548efe2181d5f9c0d8fe38bc622d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Webinars"
+    ],
+    "category_slugs": [
+      "webinars"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 7
+  }
+}

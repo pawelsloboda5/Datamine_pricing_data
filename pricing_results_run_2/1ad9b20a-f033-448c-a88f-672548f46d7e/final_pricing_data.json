@@ -1,0 +1,47 @@
+{
+  "app_id": "hubstaff",
+  "app_name": "Hubstaff",
+  "app_slug": "hubstaff",
+  "pricing_url": "https://hubstaff.com/pricing",
+  "source_url": "https://hubstaff.com/pricing",
+  "all_pricing_urls": [
+    "https://hubstaff.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Hubstaff offers a free 14-day trial without requiring a credit card. They also provide a 30-day money-back guarantee for paid plans.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:18:43.789098",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1ad9b20a-f033-448c-a88f-672548f46d7e",
+    "name": "Hubstaff",
+    "slug": "hubstaff",
+    "description": "Hubstaff is a time tracking tool that helps distributed teams boost productivity while streamlining admin tasks like timesheets, to-do and project management, and payroll.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/c58561e642a8c9e574bb72a312cc8ad5.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Productivity"
+    ],
+    "category_slugs": [
+      "productivity"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 15
+  }
+}

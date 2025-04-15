@@ -1,0 +1,53 @@
+{
+  "app_name": "Crmble",
+  "app_slug": "crmble",
+  "search_term": "Find the official pricing page URL for Crmble (crmble.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744706423.744122,
+  "response_text": [
+    "The official pricing page for Crmble can be found at: [https://www.crmble.com/pricing/](https://www.crmble.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Crmble Pricing explained \u2013 Crmble",
+      "url": "https://crmble.com/trello/crmble-pricing-explained/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.crmble.com/pricing/",
+      "is_accessible": true,
+      "content": "Page not found \u2013 Crmble \u2013 The Easy-Peasy CRM\n===============    \n\n[Skip to content](https://www.crmble.com/pricing/#content)\n\n[![Image 1: Crmble \u2013 The Easy-Peasy CRM](https://crmble.com/wp-content/uploads/2024/07/crmble-app-icon.png)](https://crmble.com/)\n\nfor Atlassian products\n\nThe page can\u2019t be found.\n========================\n\nIt looks like nothing was found at this location.\n\n[![Image 2: Crmble \u2013 The Easy-Peasy CRM](https://crmble.com/wp-content/uploads/2024/07/crmble-app-icon.png)](https://crmble.com/)\n\nfor Atlassian products\n\nAll rights reserved",
+      "error": null,
+      "pricing_data": {
+        "app_id": "crmble",
+        "app_name": "Crmble",
+        "app_slug": "crmble",
+        "pricing_url": "https://www.crmble.com/pricing/",
+        "source_url": "https://www.crmble.com/pricing/",
+        "all_pricing_urls": [
+          "https://www.crmble.com/pricing/"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page was not accessible, and no pricing information could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T04:40:32.847928",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\crmble\\20250415_044033"
+}

@@ -1,0 +1,99 @@
+{
+  "app_id": "teachery",
+  "app_name": "Teachery",
+  "app_slug": "teachery",
+  "pricing_url": "https://www.teachery.co/pricing",
+  "source_url": "https://www.teachery.co/pricing",
+  "all_pricing_urls": [
+    "https://www.teachery.co/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "one_time",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Teachery offers a subscription model with a limited-time one-time payment option. Pricing is locked in forever for subscribers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard Plan",
+      "tier_description": "One simple plan with all features included.",
+      "monthly_price": 49.0,
+      "annual_price": 588.0,
+      "annual_discount_percentage": 14.71,
+      "setup_fee": null,
+      "features": [
+        "Unlimited courses",
+        "Unlimited students",
+        "Unlimited landing pages",
+        "Custom domains",
+        "Customer analytics",
+        "Lesson drip scheduling",
+        "Zapier integration",
+        "Style editor",
+        "Add Custom CSS",
+        "Flexible payment pages",
+        "Upsells & bundles",
+        "Promo codes",
+        "Course gifting",
+        "Live Course Editor",
+        "Autosave",
+        "Embed blocks",
+        "Comments & community",
+        "Hubs & memberships",
+        "Unlimited Everything",
+        "Sales pages",
+        "Custom domains",
+        "SSL certificates",
+        "Real human support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Limited Time One-Time Payment",
+      "offer_description": "Pay once for Teachery and avoid monthly payments.",
+      "discount_percentage": null,
+      "offer_url": "https://www.teachery.co/limited-time?v=1",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:30:41.165716",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a53536ca-3aa5-4aa3-b1ec-af954e1ff21b",
+    "name": "Teachery",
+    "slug": "teachery",
+    "description": "Teachery is an online course building platform. Create and sell beautiful online courses in minutes with no transaction fees!",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/7dd0bb1c1ec46bf4a5b8a182f2e7f394.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 2
+  }
+}

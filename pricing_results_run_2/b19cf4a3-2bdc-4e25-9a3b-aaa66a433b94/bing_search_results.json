@@ -1,0 +1,19 @@
+{
+  "app_name": "Customer Fields",
+  "app_slug": "customer-fields",
+  "search_term": "Find the official pricing page URL for Customer Fields (customer-fields.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744694298.6337988,
+  "response_text": [
+    "The official pricing page URL for Customer Fields is: [https://customer-fields.com/pricing](https://customer-fields.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://customer-fields.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\customer-fields\\20250415_011819"
+}

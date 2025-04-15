@@ -1,0 +1,165 @@
+{
+  "app_name": "Agolix",
+  "app_slug": "agolix",
+  "search_term": "Find the official pricing page URL for Agolix (agolix.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744722762.8181615,
+  "response_text": [
+    "The official pricing page URL for Agolix is: [https://app.agolix.com/pricing](https://app.agolix.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Plans and Pricing - Agolix",
+      "url": "https://app.agolix.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://app.agolix.com/pricing",
+      "is_accessible": true,
+      "content": "Plans and Pricing\n-----------------\n\nAgolix offers a range of plans designed to fit the diverse needs of coaches, consultants, and small business owners. Choose the plan that best aligns with your goals and start transforming your business.\n\nBasic\n\nPerfect if you're just getting started with assessments\n\n$29\n\nper month (billed annually)\n\n5 Active Assessments  \n5,000 Responses per month\n\n[GET STARTED](https://app.agolix.com/purchase?plan=BASIC&period=annual)\n\n*   Unlimited Questions\n*   Free Email Support\n*   Mobile Friendly\n*   Customize Colors and Logos\n*   Multiple Question Types\n*   Use AI to generate questions\n*   Score in multiple categories\n*   Provide Results Dynamically\n*   Generate PDF Report \u00a0\u00a0\u24d8\n*   Export Responses\n*   Group Responses\n*   Social Media Branding\n\nMost Popular\n\nAdvanced\n\nBest for a more customized client experience and the opportunity to monetize assessments\n\n$41\n\nper month (billed annually)\n\n10 Active Assessments  \n10,000 Responses per month\n\n[GET STARTED](https://app.agolix.com/purchase?plan=ADVANCED&period=annual)\n\nEverything in Basic plus:\n\n*   Free Priority Support\n*   Enhanced PDF Reporting \u00a0\u00a0\u24d8\n*   Google Font Support\n*   CRM Integration\n*   Redirect based on score\n*   Support for Custom Plugins\n*   Regulate Assessment Access\n*   Monetize your Assessments\n*   Conditional Logic\n*   Save and Resume\n\nPrivate Label\n\nFor those who want to showcase their brand with custom urls and branded emails\n\n$66\n\nper month (billed annually)\n\n15 Active Assessments  \n50,000 Responses per month\n\n[GET STARTED](https://app.agolix.com/purchase?plan=PRIVATE&period=annual)\n\nEverything in Advanced plus:\n\n*   Removal of Agolix branding\n*   Support for custom subdomain\n*   Branded Emails\n*   Use Custom Fonts\n*   Alert by Group\n\nNeed more? [Contact Us](https://app.agolix.com/contactus?subject=Enterprise%20Accounts) for a custom quote.\n\nAll prices are in US Dollars.\n\nAgolix offers a choice of pricing plans to meet your needs.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "agolix",
+        "app_name": "Agolix",
+        "app_slug": "agolix",
+        "pricing_url": "https://app.agolix.com/pricing",
+        "source_url": "https://app.agolix.com/pricing",
+        "all_pricing_urls": [
+          "https://app.agolix.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is structured around subscription tiers with annual billing.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic",
+            "tier_description": "Perfect if you're just getting started with assessments",
+            "monthly_price": 29.0,
+            "annual_price": 348.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited Questions",
+              "Free Email Support",
+              "Mobile Friendly",
+              "Customize Colors and Logos",
+              "Multiple Question Types",
+              "Use AI to generate questions",
+              "Score in multiple categories",
+              "Provide Results Dynamically",
+              "Generate PDF Report",
+              "Export Responses",
+              "Group Responses",
+              "Social Media Branding"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Active Assessments",
+                  "value": 5
+                },
+                {
+                  "name": "Responses per month",
+                  "value": 5000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Advanced",
+            "tier_description": "Best for a more customized client experience and the opportunity to monetize assessments",
+            "monthly_price": 41.0,
+            "annual_price": 492.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Free Priority Support",
+              "Enhanced PDF Reporting",
+              "Google Font Support",
+              "CRM Integration",
+              "Redirect based on score",
+              "Support for Custom Plugins",
+              "Regulate Assessment Access",
+              "Monetize your Assessments",
+              "Conditional Logic",
+              "Save and Resume"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Active Assessments",
+                  "value": 10
+                },
+                {
+                  "name": "Responses per month",
+                  "value": 10000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Private Label",
+            "tier_description": "For those who want to showcase their brand with custom urls and branded emails",
+            "monthly_price": 66.0,
+            "annual_price": 792.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Removal of Agolix branding",
+              "Support for custom subdomain",
+              "Branded Emails",
+              "Use Custom Fonts",
+              "Alert by Group"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Active Assessments",
+                  "value": 15
+                },
+                {
+                  "name": "Responses per month",
+                  "value": 50000
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:12:53.964422",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\agolix\\20250415_091254"
+}

@@ -1,0 +1,43 @@
+{
+  "app_id": "bonjoro",
+  "app_name": "Bonjoro",
+  "app_slug": "bonjoro",
+  "pricing_url": null,
+  "source_url": "https://www.bonjoro.com/plans",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page returned a 404 error, so no pricing details could be extracted.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:31:10.177096",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "0329c28c-c83a-408b-9034-0d6347195b84",
+    "name": "Bonjoro",
+    "slug": "bonjoro",
+    "description": "Bonjoro lets you send personalised welcome videos to your customers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/7c2487bc7a6ff76042202543eb60b217_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Appreciation"
+    ],
+    "category_slugs": [
+      "customer-appreciation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 12
+  }
+}

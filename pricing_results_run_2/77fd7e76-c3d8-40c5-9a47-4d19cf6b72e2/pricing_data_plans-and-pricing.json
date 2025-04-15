@@ -1,0 +1,47 @@
+{
+  "app_id": "trint",
+  "app_name": "Trint",
+  "app_slug": "trint",
+  "pricing_url": "https://app.trint.com/plans",
+  "source_url": "https://trint.com/plans-and-pricing",
+  "all_pricing_urls": [
+    "https://app.trint.com/plans"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page was not accessible, and no specific pricing details were found in the provided content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:14:47.720607",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "77fd7e76-c3d8-40c5-9a47-4d19cf6b72e2",
+    "name": "Trint",
+    "slug": "trint",
+    "description": "Trint is an automated transcription (speech to text) service that allows users to upload audio and video media and receive a searchable, publishable transcript.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ac41a1f0d19f33c298722e44aae7ff0c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Transcription"
+    ],
+    "category_slugs": [
+      "transcription"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 3
+  }
+}

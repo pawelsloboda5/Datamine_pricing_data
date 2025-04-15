@@ -1,0 +1,54 @@
+{
+  "app_name": "MoreApp",
+  "app_slug": "moreapp",
+  "search_term": "Find the official pricing page URL for MoreApp (moreapp.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744707782.156254,
+  "response_text": [
+    "The official pricing page for MoreApp is located at: [https://moreapp.com/en/pricing/](https://moreapp.com/en/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | MoreApp Forms",
+      "url": "https://moreapp.com/en/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://moreapp.com/en/pricing/",
+      "is_accessible": true,
+      "content": "We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.\n\nThe cookies that are categorised as \"Necessary\" are stored on your browser as they are essential for enabling the basic functionalities of the site. ...\n\n*   Cookie\n    \n    \\_\\_cf\\_bm\n    \n*   Duration\n    \n    1 hour\n    \n*   Description\n    \n    This cookie, set by Cloudflare, is used to support Cloudflare Bot Management.\n    \n\n*   Cookie\n    \n    \\_cfuvid\n    \n*   Duration\n    \n    session\n    \n*   Description\n    \n    Calendly sets this cookie to track users across sessions to optimize user experience by maintaining session consistency and providing personalized services\n    \n\n*   Cookie\n    \n    \\_\\_hssrc\n    \n*   Duration\n    \n    session\n    \n*   Description\n    \n    This cookie is set by Hubspot whenever it changes the session cookie. The \\_\\_hssrc cookie set to 1 indicates that the user has restarted the browser, and if the cookie does not exist, it is assumed to be a new session.\n    \n\n*   Cookie\n    \n    \\_\\_hssc\n    \n*   Duration\n    \n    1 hour\n    \n*   Description\n    \n    HubSpot sets this cookie to keep track of sessions and to determine if HubSpot should increment the session number and timestamps in the \\_\\_hstc cookie.\n    \n\n*   Cookie\n    \n    \\_\\_hstc\n    \n*   Duration\n    \n    6 months\n    \n*   Description\n    \n    Hubspot set this main cookie for tracking visitors. It contains the domain, initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session).\n    \n\n*   Cookie\n    \n    hubspotutk\n    \n*   Duration\n    \n    6 months\n    \n*   Description\n    \n    HubSpot sets this cookie to keep track of the visitors to the website. This cookie is passed to HubSpot on form submission and used when deduplicating contacts.\n    \n\n*   Cookie\n    \n    messagesUtk\n    \n*   Duration\n    \n    6 months\n    \n*   Description\n    \n    HubSpot sets this cookie to recognize visitors who chat via the chatflows tool.\n    \n\n*   Cookie\n    \n    cookieyes-consent\n    \n*   Duration\n    \n    1 year\n    \n*   Description\n    \n    CookieYes sets this cookie to remember users' consent preferences so that their preferences are respected on subsequent visits to this site. It does not collect or store any personal information about the site visitors.\n    \n\n*   Cookie\n    \n    \\_\\_Secure-ROLLOUT\\_TOKEN\n    \n*   Duration\n    \n    6 months\n    \n*   Description\n    \n    Used by YouTube to manage the phased rollout of new features and updates.\n    \n\n*   Cookie\n    \n    yt-remote-device-id\n    \n*   Duration\n    \n    Never Expires\n    \n*   Description\n    \n    YouTube sets this cookie to store the user's video preferences using embedded YouTube videos.\n    \n\n*   Cookie\n    \n    ytidb::LAST\\_RESULT\\_ENTRY\\_KEY\n    \n*   Duration\n    \n    Never Expires\n    \n*   Description\n    \n    The cookie ytidb::LAST\\_RESULT\\_ENTRY\\_KEY is used by YouTube to store the last search result entry that was clicked by the user. This information is used to improve the user experience by providing more relevant search results in the future.\n    \n\n*   Cookie\n    \n    yt-remote-connected-devices\n    \n*   Duration\n    \n    Never Expires\n    \n*   Description\n    \n    YouTube sets this cookie to store the user's video preferences using embedded YouTube videos.\n    \n\n*   Cookie\n    \n    yt-remote-session-app\n    \n*   Duration\n    \n    session\n    \n*   Description\n    \n    The yt-remote-session-app cookie is used by YouTube to store user preferences and information about the interface of the embedded YouTube video player.\n    \n\n*   Cookie\n    \n    yt-remote-cast-installed\n    \n*   Duration\n    \n    session\n    \n*   Description\n    \n    The yt-remote-cast-installed cookie is used to store the user's video player preferences using embedded YouTube video.\n    \n\n*   Cookie\n    \n    yt-remote-session-name\n    \n*   Duration\n    \n    session\n    \n*   Description\n    \n    The yt-remote-session-name cookie is used by YouTube to store the user's video player preferences using embedded YouTube video.\n    \n\n*   Cookie\n    \n    yt-remote-fast-check-period\n    \n*   Duration\n    \n    session\n    \n*   Description\n    \n    The yt-remote-fast-check-period cookie is used by YouTube to store the user's video player preferences for embedded YouTube videos.\n    \n\n*   Cookie\n    \n    li\\_gc\n    \n*   Duration\n    \n    6 months\n    \n*   Description\n    \n    Linkedin set this cookie for storing visitor's consent regarding using cookies for non-essential purposes.\n    \n\n*   Cookie\n    \n    lidc\n    \n*   Duration\n    \n    1 day\n    \n*   Description\n    \n    LinkedIn sets the lidc cookie to facilitate data center selection.\n    \n\n*   Cookie\n    \n    ph\\_phc\\_rZELfXbsC6BpgdhfoCFJY8izgJEHDfkdD87awxHomsu\\_posthog\n    \n*   Duration\n    \n    1 year\n    \n*   Description\n    \n    Used by Posthog Analytics to get insights into user behavior\n    \n\n*   Cookie\n    \n    \\_gcl\\_au\n    \n*   Duration\n    \n    3 months\n    \n*   Description\n    \n    Google Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services.\n    \n\n*   Cookie\n    \n    dmn\\_chk\\_\\*\n    \n*   Duration\n    \n    session\n    \n*   Description\n    \n    Used by Posthog Analytics to get insights into user behavior\n    \n\n*   Cookie\n    \n    ph\\_phc\\_OEoxhbH4gsFLvVN1IJbJY99FayRMaZug7XjtonQJGu1\\_posthog\n    \n*   Duration\n    \n    1 year\n    \n*   Description\n    \n    Used by Posthog Analytics to get insights into user behavior\n    \n\nNo cookies to display.\n\n*   Cookie\n    \n    test\\_cookie\n    \n*   Duration\n    \n    15 minutes\n    \n*   Description\n    \n    doubleclick.net sets this cookie to determine if the user's browser supports cookies.\n    \n\n*   Cookie\n    \n    IDE\n    \n*   Duration\n    \n    1 year 24 days\n    \n*   Description\n    \n    Google DoubleClick IDE cookies store information about how the user uses the website to present them with relevant ads according to the user profile.\n    \n\n*   Cookie\n    \n    YSC\n    \n*   Duration\n    \n    session\n    \n*   Description\n    \n    Youtube sets this cookie to track the views of embedded videos on Youtube pages.\n    \n\n*   Cookie\n    \n    VISITOR\\_INFO1\\_LIVE\n    \n*   Duration\n    \n    6 months\n    \n*   Description\n    \n    YouTube sets this cookie to measure bandwidth, determining whether the user gets the new or old player interface.\n    \n\n*   Cookie\n    \n    VISITOR\\_PRIVACY\\_METADATA\n    \n*   Duration\n    \n    6 months\n    \n*   Description\n    \n    YouTube sets this cookie to store the user's cookie consent state for the current domain.\n    \n\n*   Cookie\n    \n    yt.innertube::requests\n    \n*   Duration\n    \n    Never Expires\n    \n*   Description\n    \n    YouTube sets this cookie to register a unique ID to store data on what videos from YouTube the user has seen.\n    \n\n*   Cookie\n    \n    yt.innertube::nextId\n    \n*   Duration\n    \n    Never Expires\n    \n*   Description\n    \n    YouTube sets this cookie to register a unique ID to store data on what videos from YouTube the user has seen.\n    \n\n*   Cookie\n    \n    bcookie\n    \n*   Duration\n    \n    1 year\n    \n*   Description\n    \n    LinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser IDs.\n    \n\nNo cookies to display.\n\nSelect the monthly pricing plan that fits your business. Start your 14 day free trial. No credit card required.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "moreapp",
+        "app_name": "MoreApp",
+        "app_slug": "moreapp",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The content mentions a 14-day free trial without requiring a credit card.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T05:03:11.694603",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\moreapp\\20250415_050311"
+}

@@ -1,0 +1,137 @@
+{
+  "app_id": "maximizer_crm",
+  "app_name": "Maximizer CRM",
+  "app_slug": "maximizer-crm",
+  "pricing_url": "https://www.maximizer.com/pricing",
+  "source_url": "https://www.maximizer.com/pricing",
+  "all_pricing_urls": [
+    "https://www.maximizer.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user and billed annually with minimum user requirements.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Base",
+      "tier_description": "The essentials for sales management.",
+      "monthly_price": 65.0,
+      "annual_price": 780.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "100,000 Contacts",
+        "100GB Database Size",
+        "Advanced Contact & Task Management",
+        "Microsoft Outlook Integration"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Sales Insights",
+      "tier_description": "AI-powered insights to guide sales teams.",
+      "monthly_price": 79.0,
+      "annual_price": 948.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Sales Intelligence Reports",
+        "Advanced Pipeline Management",
+        "Activity Tracking",
+        "Revenue & Activity Targets"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Client Relationships",
+      "tier_description": "Build long-lasting client relationships.",
+      "monthly_price": 79.0,
+      "annual_price": 948.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced Account Management",
+        "Activity Tracking",
+        "Target Setting",
+        "Reporting & Analytics"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "On-Premise",
+      "tier_description": "Deployed and housed on your own web server.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced Contact & Task Management",
+        "Activity Tracking",
+        "Advanced Pipeline & Case Management",
+        "Basic Dashboards & Reporting"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:58:07.860978",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6b5f3243-bdab-4bd0-b2f6-500731216eac",
+    "name": "Maximizer CRM",
+    "slug": "maximizer",
+    "description": "Maximizer has fully integrated sales, marketing and customer service modules making it easy to gain deep customer insight and drive retention and loyalty within a single, affordable CRM solution.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/5c559e46eacdc9fd945723dff81a882f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 31,
+    "trigger_count": 14
+  }
+}

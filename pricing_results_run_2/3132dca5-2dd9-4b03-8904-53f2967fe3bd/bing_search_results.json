@@ -1,0 +1,19 @@
+{
+  "app_name": "Happy Scribe",
+  "app_slug": "happy-scribe",
+  "search_term": "Find the official pricing page URL for Happy Scribe (happy-scribe.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744704793.8237214,
+  "response_text": [
+    "The official pricing page for Happy Scribe can be found at: https://www.happy-scribe.com/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.happy-scribe.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\happy-scribe\\20250415_041314"
+}

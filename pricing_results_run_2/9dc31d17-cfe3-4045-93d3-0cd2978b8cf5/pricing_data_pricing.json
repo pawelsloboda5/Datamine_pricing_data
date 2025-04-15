@@ -1,0 +1,145 @@
+{
+  "app_id": "wetravel",
+  "app_name": "WeTravel",
+  "app_slug": "wetravel",
+  "pricing_url": "https://product.wetravel.com/pricing",
+  "source_url": "https://product.wetravel.com/pricing",
+  "all_pricing_urls": [
+    "https://product.wetravel.com/pricing",
+    "https://www.wetravel.com/plans"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on transaction fees for payment processing, varying by region and payment method.",
+  "pricing_tiers": null,
+  "usage_based_pricing": [
+    {
+      "metric_name": "ACH",
+      "unit": "percentage",
+      "base_price": 0.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Visa/Mastercard (US)",
+      "unit": "percentage",
+      "base_price": 2.9,
+      "tiers": null
+    },
+    {
+      "metric_name": "AMEX (US)",
+      "unit": "percentage",
+      "base_price": 3.9,
+      "tiers": null
+    },
+    {
+      "metric_name": "SEPA Direct Debit (EUR)",
+      "unit": "percentage",
+      "base_price": 0.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Visa/Mastercard (EUR)",
+      "unit": "percentage",
+      "base_price": 1.5,
+      "tiers": null
+    },
+    {
+      "metric_name": "AMEX (EUR)",
+      "unit": "percentage",
+      "base_price": 2.9,
+      "tiers": null
+    },
+    {
+      "metric_name": "Visa/Mastercard (GBP)",
+      "unit": "percentage",
+      "base_price": 1.5,
+      "tiers": null
+    },
+    {
+      "metric_name": "AMEX (GBP)",
+      "unit": "percentage",
+      "base_price": 2.9,
+      "tiers": null
+    },
+    {
+      "metric_name": "Visa/Mastercard (CAD)",
+      "unit": "percentage",
+      "base_price": 2.7,
+      "tiers": null
+    },
+    {
+      "metric_name": "AMEX (CAD)",
+      "unit": "percentage",
+      "base_price": 2.9,
+      "tiers": null
+    },
+    {
+      "metric_name": "Visa/Mastercard (AUD)",
+      "unit": "percentage",
+      "base_price": 1.7,
+      "tiers": null
+    },
+    {
+      "metric_name": "AMEX (AUD)",
+      "unit": "percentage",
+      "base_price": 2.9,
+      "tiers": null
+    },
+    {
+      "metric_name": "Visa/Mastercard (MXN)",
+      "unit": "percentage",
+      "base_price": 3.5,
+      "tiers": null
+    },
+    {
+      "metric_name": "Visa/Mastercard (CHF)",
+      "unit": "percentage",
+      "base_price": 2.9,
+      "tiers": null
+    },
+    {
+      "metric_name": "AMEX (CHF)",
+      "unit": "percentage",
+      "base_price": 2.9,
+      "tiers": null
+    },
+    {
+      "metric_name": "Visa/Mastercard (SEK)",
+      "unit": "percentage",
+      "base_price": 1.5,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:38:53.498892",
+  "schema_validated": true,
+  "confidence_score": 70,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9dc31d17-cfe3-4045-93d3-0cd2978b8cf5",
+    "name": "WeTravel",
+    "slug": "wetravel",
+    "description": "WeTravel is the leading global payment & booking platform for multi-day tour operators and group travel companies.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/dad8b83275327921f5474cff45f0e342.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 4
+  }
+}

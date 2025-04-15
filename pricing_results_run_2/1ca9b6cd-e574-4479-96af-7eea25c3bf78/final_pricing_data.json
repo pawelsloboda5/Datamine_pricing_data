@@ -1,0 +1,154 @@
+{
+  "app_id": "toggl_track",
+  "app_name": "Toggl Track",
+  "app_slug": "toggl-track",
+  "pricing_url": "https://toggl.com/track/pricing/",
+  "source_url": "https://toggl.com/track/pricing/",
+  "all_pricing_urls": [
+    "https://toggl.com/track/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 10% discount compared to monthly plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Seamless time tracking and reporting designed with freelancers in mind",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited time tracking",
+        "Unlimited projects, clients and tags",
+        "Exportable reports",
+        "Web app, mobile apps, and desktop apps",
+        "Automated time tracking",
+        "Track time in 100+ popular tools",
+        "Google and Outlook Calendar integration",
+        "Inactive data storage for 6 months"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Built for small teams to work at a fast pace without a lot of overhead",
+      "monthly_price": 10.0,
+      "annual_price": 9.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Free +",
+        "Billable rates",
+        "Time rounding for reports",
+        "Save customized reports for quick viewing",
+        "Project time estimates and alerts",
+        "Tasks (Sub-projects)",
+        "Pre-populated project templates",
+        "Inactive data storage for unlimited time"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Powerful tools to keep growing teams aligned and agile",
+      "monthly_price": 20.0,
+      "annual_price": 18.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Starter +",
+        "Fixed fee projects",
+        "Timesheet approvals",
+        "Team time tracking reminders",
+        "Schedule report emails",
+        "Project forecasts and analysis",
+        "Team labor costs",
+        "Advanced time tracking data integrity features",
+        "Native Jira and Salesforce integrations",
+        "Single sign-on (SSO)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Tailored solutions for your large or complex organization",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Premium +",
+        "Dedicated customer success manager with onboarding assistance",
+        "Access to Toggl Custom Solutions: enterprise-level time tracking system customizations",
+        "Multiple workspaces under one Organization",
+        "Priority support",
+        "Volume discounts for large teams on our annual plan"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:28:49.006127",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1ca9b6cd-e574-4479-96af-7eea25c3bf78",
+    "name": "Toggl Track",
+    "slug": "toggl-track",
+    "description": "Toggl Track provides time tracking and productivity tools to help businesses move away from traditional work models towards flexible and remote work.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/b90228fe68f65bf0f676cc23cded96be.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Time Tracking Software"
+    ],
+    "category_slugs": [
+      "time-tracking"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 17,
+    "trigger_count": 6
+  }
+}

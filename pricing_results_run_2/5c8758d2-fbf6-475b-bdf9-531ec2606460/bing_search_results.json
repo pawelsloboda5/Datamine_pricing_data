@@ -1,0 +1,12 @@
+{
+  "app_name": "CINC",
+  "app_slug": "cinc",
+  "search_term": "Find the official pricing page URL for CINC (cinc.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744714562.8697224,
+  "response_text": [
+    "I couldn't find a direct URL for the official pricing page of CINC. Let me know if you'd like further assistance."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\cinc\\20250415_065603"
+}

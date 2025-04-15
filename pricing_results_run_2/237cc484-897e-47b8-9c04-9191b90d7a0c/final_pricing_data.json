@@ -1,0 +1,113 @@
+{
+  "app_id": "dnsfilter",
+  "app_name": "DNSFilter",
+  "app_slug": "dnsfilter",
+  "pricing_url": "https://www.dnsfilter.com/pricing",
+  "source_url": "https://www.dnsfilter.com/pricing",
+  "all_pricing_urls": [
+    "https://www.dnsfilter.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription plans with additional per-user fees for certain features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Real-time threat detection, content filtering, malicious domain protection, scheduled reporting, and more.",
+      "monthly_price": 1.15,
+      "annual_price": 1.001,
+      "annual_discount_percentage": 13.0,
+      "setup_fee": null,
+      "features": [
+        "Real-time threat detection",
+        "Content filtering",
+        "Malicious domain protection",
+        "Scheduled reporting"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Everything in the Basic plan PLUS: AppAware, Windows & macOS Roaming Clients, Active Directory Support, Zapier Integration, API Access, and more.",
+      "monthly_price": 2.3,
+      "annual_price": 2.102,
+      "annual_discount_percentage": 8.7,
+      "setup_fee": null,
+      "features": [
+        "AppAware",
+        "Windows & macOS Roaming Clients",
+        "Active Directory Support",
+        "Zapier Integration",
+        "API Access"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Everything in the Pro plan PLUS: iOS and Android Roaming Clients, 90-day report retention, 9-day query log retention, and add-ons.",
+      "monthly_price": 3.0,
+      "annual_price": 2.703,
+      "annual_discount_percentage": 9.9,
+      "setup_fee": null,
+      "features": [
+        "iOS and Android Roaming Clients",
+        "90-day report retention",
+        "9-day query log retention",
+        "Add-ons"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Per-user fee",
+      "unit": "per user per month",
+      "base_price": 0.25,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Education Plan",
+      "fee_amount": 4.0,
+      "fee_description": "Annual fee per student and staff member for qualified educational institutions, with a minimum of 125 users."
+    },
+    {
+      "fee_name": "MSP Pricing",
+      "fee_amount": 150.0,
+      "fee_description": "Monthly minimum spend for Managed Service Providers with tiered plans available."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T10:11:56.889384",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "237cc484-897e-47b8-9c04-9191b90d7a0c",
+    "name": "DNSFilter",
+    "slug": "dnsfilter",
+    "description": "DNSFilter is a cloud-based, AI-driven content filtering and threat protection service.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/bc2c0afb03f913c14d2530f1c6e65cd7.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Security & Identity Tools"
+    ],
+    "category_slugs": [
+      "security-identity"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 5
+  }
+}

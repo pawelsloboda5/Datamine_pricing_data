@@ -1,0 +1,58 @@
+{
+  "app_id": "fathom",
+  "app_name": "Fathom",
+  "app_slug": "fathom",
+  "pricing_url": "https://www.fathomhq.com/",
+  "source_url": "https://www.fathom.com/signup",
+  "all_pricing_urls": [
+    "https://www.fathomhq.com/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "A promotional offer of 10% off for the first 12 months was mentioned, valid until January 1, 2022.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "AU QBO ProAdvisor Offer",
+      "offer_description": "Get 10% off any new Fathom plan for your first 12 months",
+      "discount_percentage": 10.0,
+      "offer_url": null,
+      "valid_until": "2022-01-01"
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T10:10:29.067245",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "54c86bbd-4785-44ea-96c8-3fe93e31fcba",
+    "name": "Fathom",
+    "slug": "fathom",
+    "description": "Fathom combines an AI meeting assistant that improves the productivity of your team with a conversational intelligence platform.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/fc69910bffdcc54a77026060d6131c99_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools",
+      "Transcription"
+    ],
+    "category_slugs": [
+      "ai-tools",
+      "transcription"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 5
+  }
+}

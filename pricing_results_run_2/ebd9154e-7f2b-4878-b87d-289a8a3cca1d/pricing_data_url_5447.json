@@ -1,0 +1,127 @@
+{
+  "app_id": "jackrabbit_class",
+  "app_name": "Jackrabbit Class",
+  "app_slug": "jackrabbit-class",
+  "pricing_url": "https://www.jackrabbitclass.com/pricing/",
+  "source_url": "https://www.jackrabbitclass.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.jackrabbitclass.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on student count for most tiers, except Enterprise.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Flexible pricing based on student count.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All core software features",
+        "Product Coach",
+        "Unlimited support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Student Count",
+            "value": "Based on total student count at the end of each month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Jackrabbit Plus",
+      "tier_description": "Includes branded app and dashboard.",
+      "monthly_price": 89.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All core software features",
+        "Custom-branded mobile app",
+        "App management dashboard"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Student Count",
+            "value": "Based on total student count at the end of each month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Advanced features for enterprise clients.",
+      "monthly_price": 245.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All core software features",
+        "Enterprise Coach",
+        "Business Intelligence Dashboard"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Student Count",
+            "value": "Not based on student count"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:21:14.509125",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ebd9154e-7f2b-4878-b87d-289a8a3cca1d",
+    "name": "Jackrabbit Class",
+    "slug": "jackrabbit-class",
+    "description": "Jackrabbit is the #1 class management software for gymnastics, dance, swim, cheer, and music businesses.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/0c9d79b0e04dce7a071177cfccc7862c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 8
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "app_id": "skool",
+  "app_name": "Skool",
+  "app_slug": "skool",
+  "pricing_url": null,
+  "source_url": "https://www.skool.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Skool offers a single pricing plan with all features included and a low transaction fee.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Single plan with all features included.",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited courses",
+        "Unlimited members",
+        "All features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Transaction Fee",
+            "value": "2.9%"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Transaction Fee",
+      "fee_amount": 2.9,
+      "fee_description": "Percentage fee applied to transactions."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:11:01.374766",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "7bbbd1c8-b401-4be6-9ca7-e5427e1b8e62",
+    "name": "Skool",
+    "slug": "skool",
+    "description": "Skool is a simple to use community platform that allows you to put your community, course, and event schedule together in one place.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/b86319caa96966631c79e85303f12a90.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Education"
+    ],
+    "category_slugs": [
+      "education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 1
+  }
+}

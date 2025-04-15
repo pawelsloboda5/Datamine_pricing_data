@@ -1,0 +1,181 @@
+{
+  "app_id": "postscript",
+  "app_name": "Postscript",
+  "app_slug": "postscript",
+  "pricing_url": "https://postscript.io/pricing",
+  "source_url": "https://postscript.io/pricing",
+  "all_pricing_urls": [
+    "https://postscript.io/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Carrier fees are additional and vary by message type and region.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Brands just getting started with SMS",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Campaigns and automations",
+        "Unlimited segments",
+        "Dedicated toll-free number",
+        "Reporting",
+        "Integrations",
+        "Subscriber acquisition tools, with 2 opt-in Keywords",
+        "Help center access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "opt-in Keywords",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Brands building up their SMS program",
+      "monthly_price": 100.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited opt-in Keywords",
+        "Live chat and email support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "opt-in Keywords",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Established brands scaling up SMS as a top revenue channel",
+      "monthly_price": 500.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Onboarding Launch Specialist",
+        "Priority live chat/email support",
+        "API access for custom integrations",
+        "\"Powered by Postscript\" removed from opt-in",
+        "Branded short link subdomain",
+        "Tier 1 engineering support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Infinity Testing",
+      "tier_description": "Beta program for advanced AI features",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to Postscript\u2019s Brand Center",
+        "Custom AI Dashboards and Analytics",
+        "Setup and strategy support",
+        "Early access to upcoming AI features"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS",
+      "unit": "per message",
+      "base_price": 0.015,
+      "tiers": null
+    },
+    {
+      "metric_name": "MMS",
+      "unit": "per message",
+      "base_price": 0.045,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Free Trial Credit",
+      "offer_description": "Receive a $1,000 credit during the first 30 days of the free trial.",
+      "discount_percentage": null,
+      "offer_url": "https://postscript.io/try-postscript",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Carrier fees",
+      "fee_amount": null,
+      "fee_description": "Average US Carrier fees are $0.00289 for SMS and $0.00758 for MMS."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:41:27.633491",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b5ecf9e1-3a42-4e10-8afe-853e1a3eeadd",
+    "name": "Postscript",
+    "slug": "postscript-1",
+    "description": "Postscript is a platform for SMS marketing for Shopify stores.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/1e384313d0fe02f9d1ed3db56048cb19.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 3
+  }
+}

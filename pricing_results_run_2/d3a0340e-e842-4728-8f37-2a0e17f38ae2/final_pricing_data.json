@@ -1,0 +1,56 @@
+{
+  "app_id": "ezlynx",
+  "app_name": "EZLynx",
+  "app_slug": "ezlynx",
+  "pricing_url": "https://www.ezlynx.com/get-started/special-deals-on-ezlynx-software/",
+  "source_url": "https://www.ezlynx.com/",
+  "all_pricing_urls": [
+    "https://www.ezlynx.com/get-started/special-deals-on-ezlynx-software/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Special pricing is available for a limited time.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Special Pricing",
+      "offer_description": "Special pricing for a limited time.",
+      "discount_percentage": null,
+      "offer_url": "https://www.ezlynx.com/get-started/special-deals-on-ezlynx-software/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:10:47.186944",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "d3a0340e-e842-4728-8f37-2a0e17f38ae2",
+    "name": "EZLynx",
+    "slug": "ezlynx",
+    "description": "EZLynx provides innovative insurance software that helps streamline your agency\u2019s workflow.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/f762904d3411328aa7aac61f94e5605f_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 12
+  }
+}

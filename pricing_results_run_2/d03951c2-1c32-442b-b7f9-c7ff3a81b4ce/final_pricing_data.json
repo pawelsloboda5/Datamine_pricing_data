@@ -1,0 +1,190 @@
+{
+  "app_id": "capsule_crm",
+  "app_name": "Capsule CRM",
+  "app_slug": "capsule-crm",
+  "pricing_url": "https://capsulecrm.com/pricing",
+  "source_url": "https://capsulecrm.com/pricing/",
+  "all_pricing_urls": [
+    "https://capsulecrm.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user per month, billed annually. Free tier is available with limited features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic CRM features for small teams.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "250 Contacts",
+        "1 Sales Pipeline",
+        "1 Project Board",
+        "25 Custom Fields",
+        "10 AI Content Assists",
+        "Email Sending"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 250
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Effective lead nurturing plus premium integrations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "30,000 Contacts",
+        "Email Templates",
+        "AI-Powered Email Assistant",
+        "Shared Mailbox",
+        "Basic Reporting",
+        "Premium Integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 30000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Scale your business with advanced features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "60,000 Contacts",
+        "Workflow Automations",
+        "Advanced Sales Reporting",
+        "Multiple Sales Pipelines",
+        "Multiple Project Boards",
+        "Project Management",
+        "Team & Access Controls",
+        "Business Enrichment"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 60000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Enhanced targeting and customization.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "120,000 Contacts",
+        "Contact Enrichment"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 120000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Ultimate",
+      "tier_description": "Ideal for scaling teams with dedicated support.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "240,000 Contacts",
+        "Dedicated Account Manager",
+        "Custom Training",
+        "Ongoing Priority Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 240000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:38:23.642335",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d03951c2-1c32-442b-b7f9-c7ff3a81b4ce",
+    "name": "Capsule CRM",
+    "slug": "capsulecrm",
+    "description": "Capsule is an online CRM for managing contacts, tasks and sales opportunities. Add tasks, track communication logs, and close deals in your pipeline faster with Capsule.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/be28c1dd251bfeb76afe26d4e2e071aa.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 17,
+    "trigger_count": 3
+  }
+}

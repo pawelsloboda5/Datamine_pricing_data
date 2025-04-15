@@ -1,0 +1,179 @@
+{
+  "app_id": "cleverreach",
+  "app_name": "CleverReach",
+  "app_slug": "cleverreach",
+  "pricing_url": "https://www.cleverreach.com/en-de/plans-and-pricing/",
+  "source_url": "https://www.cleverreach.com/en/pricing/",
+  "all_pricing_urls": [
+    "https://www.cleverreach.com/en-de/plans-and-pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and various subscription plans with additional features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lite",
+      "tier_description": "Free plan for testing and beginners.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 1,000 emails per month",
+        "Up to 250 recipients",
+        "Limited range of functions"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "5MB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Emails per month",
+            "value": 1000
+          },
+          {
+            "name": "Recipients",
+            "value": 250
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Ideal for growing companies.",
+      "monthly_price": 15.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Small price plan levels to suit your needs",
+        "Address each recipient up to 4 times a month",
+        "Basic features included"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "256MB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Recipients",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For frequent senders and professional email marketing.",
+      "monthly_price": 18.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free trial month",
+        "Send unlimited emails",
+        "All premium features included"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "1024MB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Emails per month",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Individual offer for major customers.",
+      "monthly_price": 499.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited number of recipients",
+        "Monthly new email quota",
+        "Premium features included"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "1024MB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Emails per month",
+            "value": 250000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Email quota",
+      "unit": "per email",
+      "base_price": 24.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 1000.0,
+          "price": 24.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Black Friday Discount",
+      "offer_description": "20% discount on all plans.",
+      "discount_percentage": 20.0,
+      "offer_url": "https://www.cleverreach.com/en-de/plans-and-pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:35:30.792749",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "88840e39-1e5b-4929-b2eb-be0880e5ccd5",
+    "name": "CleverReach",
+    "slug": "cleverreach",
+    "description": "CleverReach is an email marketing solution that lets you easily create newsletters online and send them to your customers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/284f30672417fb24ac6296db56bd2781.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 3
+  }
+}

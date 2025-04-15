@@ -1,0 +1,179 @@
+{
+  "app_id": "embedsocial",
+  "app_name": "EmbedSocial",
+  "app_slug": "embedsocial",
+  "pricing_url": "https://embedsocial.com/pricing/",
+  "source_url": "https://embedsocial.com/pricing/",
+  "all_pricing_urls": [
+    "https://embedsocial.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing includes a free trial for all plans and a bundle option for all products.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Reviews Management Software",
+      "tier_description": "Manage and display reviews from various platforms.",
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 Source",
+        "Unlimited widgets",
+        "Google reviews",
+        "Facebook reviews",
+        "\u2018Wall of Love\u2019 page",
+        "Email requests",
+        "Google snippet code",
+        "Collect reviews form"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "UGC Social Media Aggregator",
+      "tier_description": "Aggregate and display social media content.",
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "3 Sources",
+        "15 Widgets",
+        "5000 views/month",
+        "TikTok widgets",
+        "Facebook widgets",
+        "Instagram stories widgets",
+        "Instagram feed widgets",
+        "Update in 3 hours"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Google Business Profile Manager",
+      "tier_description": "Manage Google Business Profiles.",
+      "monthly_price": 9.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2 Locations",
+        "GBP Dashboard",
+        "GBP Edits Tracker",
+        "Bulk Profile Editing",
+        "GBP Posts Scheduling",
+        "Analytics & Reports",
+        "Reviews Responder",
+        "Response automation"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "All Products Plan (Monthly)",
+      "tier_description": "Access all products in one plan.",
+      "monthly_price": 64.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "EmbedReviews PRO Plan [1 source]",
+        "EmbedFeed PRO Plan [3 sources]",
+        "Feedlink PRO Plan",
+        "EmbedForms PRO Plan"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "All Products Plan (Yearly)",
+      "tier_description": "Access all products in one plan with yearly billing.",
+      "monthly_price": 53.0,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "EmbedReviews PRO Plan [1 source]",
+        "EmbedFeed PRO Plan [3 sources]",
+        "EmbedForms PRO Plan",
+        "Feedlink PRO Plan"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "NGO Discount",
+      "offer_description": "50% discount for nonprofit organizations.",
+      "discount_percentage": 50.0,
+      "offer_url": "https://embedsocial.com/nonprofits/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:32:03.036213",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7c3f117b-e504-4a90-aeeb-768fed6cbc11",
+    "name": "EmbedSocial",
+    "slug": "embedsocial",
+    "description": "EmbedSocial helps you manage your online reviews and other user generated content.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/4d1a84ef6233bb51075e0e27603dc5cf.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 2
+  }
+}

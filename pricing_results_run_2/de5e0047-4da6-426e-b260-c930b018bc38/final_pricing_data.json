@@ -1,0 +1,166 @@
+{
+  "app_id": "shift4shop",
+  "app_name": "Shift4Shop",
+  "app_slug": "shift4shop",
+  "pricing_url": "https://www.shift4shop.com/pricing",
+  "source_url": "https://www.shift4shop.com/plans.html?country=us",
+  "all_pricing_urls": [
+    "https://www.shift4shop.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The free tier is only available for US merchants.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": null,
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Products",
+        "Unlimited Bandwidth",
+        "API Access",
+        "No additional transaction fees"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": null,
+      "monthly_price": 79.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Products",
+        "Unlimited Bandwidth",
+        "API Access",
+        "No additional transaction fees"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": null,
+      "monthly_price": 229.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Products",
+        "Unlimited Bandwidth",
+        "API Access",
+        "No additional transaction fees"
+      ],
+      "limits": {
+        "users": 15,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "End-to-End",
+      "tier_description": "Free plan available only for US merchants.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Products",
+        "Unlimited Bandwidth",
+        "API Access",
+        "No additional transaction fees"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Free Domain for 1 Year",
+      "offer_description": "Free domain registration for one year.",
+      "discount_percentage": null,
+      "offer_url": "https://www.shift4shop.com/free-domain-name.html",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Avalara Sales Tax Free for 60 Days",
+      "offer_description": "Free Avalara sales tax service for 60 days.",
+      "discount_percentage": null,
+      "offer_url": "https://www.shift4shop.com",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Snapchat $150 Ads Credit",
+      "offer_description": "$150 credit for Snapchat ads.",
+      "discount_percentage": null,
+      "offer_url": "https://www.shift4shop.com",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Save on FedEx Shipping",
+      "offer_description": "Discounts on FedEx shipping.",
+      "discount_percentage": null,
+      "offer_url": "https://www.shift4shop.com",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:49:34.760337",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "de5e0047-4da6-426e-b260-c930b018bc38",
+    "name": "Shift4Shop",
+    "slug": "shift4shop",
+    "description": "Shift4Shop is an all-in-one eCommerce platform for online retailers of any size. It includes a full range of website building and business management features.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/44a50c4e41b2dec29604eaf4ac94a1df.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 6
+  }
+}

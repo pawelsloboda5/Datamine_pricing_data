@@ -1,0 +1,53 @@
+{
+  "app_name": "Foxy.io",
+  "app_slug": "foxy-io",
+  "search_term": "Find the official pricing page URL for Foxy.io (foxy-io.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744687949.9566734,
+  "response_text": [
+    "Here is the official pricing page URL for Foxy.io: [https://www.foxy.io/pricing](https://www.foxy.io/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | Foxy.io",
+      "url": "https://www.foxy.io/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.foxy.io/pricing",
+      "is_accessible": true,
+      "content": "Forbidden\n===============\n\n[Skip to content](https://www.foxy.io/pricing#content)\n\n[![Image 2: Foxy.io](https://www.foxy.io/static/svg/logo-color.svg)](https://www.foxy.io/)\n\n*   [Tour](javascript:void(0);)\n    \n    Latest Update[![Image 3](https://a-us.storyblok.com/f/1001040/1200x800/a881d8dc8a/product-roundup-february-2025.jpg) February 2025 Product Roundup Product link & form builder, Foxy Automations, and more. Here's what happened in February.](https://www.foxy.io/blog/february-2025-product-roundup/)\n    \n    Overview[How Foxy Works](https://www.foxy.io/how-foxy-works/)[Features](https://www.foxy.io/features/)[Foxy For Good](https://www.foxy.io/for-good/)[Compare](https://www.foxy.io/compare/)[What's Next](https://www.foxy.io/whats-next/)[Product Updates](https://www.foxy.io/blog/product-updates/)[PCI Compliance](https://www.foxy.io/pci/)\n    \n    For[Merchants](https://www.foxy.io/audiences/merchants/)[Developers](https://www.foxy.io/audiences/developers/)[SaaS & Platforms](https://www.foxy.io/audiences/saas-and-platforms/)[Service Providers](https://www.foxy.io/audiences/service-providers/)\n    \n    Integrations[![Image 4](https://a-us.storyblok.com/f/1001040/1080x674/afc3b46ec9/webflow-icon-color.png) Webflow](https://www.foxy.io/integrations/webflow/)[![Image 5](https://a-us.storyblok.com/f/1001040/198x159/d2097c2e89/squarespace-icon-color.png) Squarespace](https://www.foxy.io/integrations/squarespace/)[![Image 6](https://a-us.storyblok.com/f/1001040/692x267/e36c781afb/wix-logo-color.png) Wix](https://www.foxy.io/integrations/wix/)[![Image 7](https://a-us.storyblok.com/f/1001040/340x340/10b272d407/wordpress-icon-color.png) WordPress](https://www.foxy.io/integrations/wordpress/)[![Image 8](https://a-us.storyblok.com/f/1001040/281x199/408199ae41/make-icon-color.png) Make](https://www.foxy.io/integrations/make/)[![Image 9](https://a-us.storyblok.com/f/1001040/60x60/c49b4c2e78/zapier-icon-color.png) Zapier](https://www.foxy.io/integrations/zapier/)\n    \n    [View All](https://www.foxy.io/integrations)\n    \n    Payment Methods[![Image 10](https://a-us.storyblok.com/f/1001040/399x399/440aea2f97/stripe-icon-color.png) Stripe](https://www.foxy.io/payment-methods/stripe/)[![Image 11](https://a-us.storyblok.com/f/1001040/130x159/6b218ee16c/paypal-icon-color.png) PayPal](https://www.foxy.io/payment-methods/paypal/)[![Image 12](https://a-us.storyblok.com/f/1001040/166x106/dfab3ecdec/apple-pay-logo-color.svg) Apple Pay](https://www.foxy.io/payment-methods/apple-pay/)[![Image 13](https://a-us.storyblok.com/f/1001040/217x217/8866ba8394/square-icon-color.png) Square](https://www.foxy.io/payment-methods/square/)[![Image 14](https://a-us.storyblok.com/f/1001040/611x632/f0497ce8ad/authorize-icon-color.png) Authorize.net](https://www.foxy.io/payment-methods/authorize-net/)[![Image 15](https://a-us.storyblok.com/f/1001040/914x791/7d5ed3600e/ideal-logo-color.png) iDEAL](https://www.foxy.io/payment-methods/ideal/)\n    \n    [View All](https://www.foxy.io/payment-methods)\n    \n\n*   [Success Stories](https://www.foxy.io/success-stories/)\n\n*   [Pricing](https://www.foxy.io/pricing/)\n\n*   [Blog](https://www.foxy.io/blog/)\n\n*   Support\n    \n    [Help Center](https://www.foxy.io/help/)[Documentation](https://wiki.foxycart.com/)[API Documentation](https://api.foxycart.com/)[System Status](https://status.foxy.io/)[Contact Us](https://www.foxy.io/contact/)\n    \n\n[Login](https://www.foxy.io/admin-selection/)[Login](https://www.foxy.io/admin-selection/)\n\n[Try Foxy Free](https://admin.foxy.io/sign-up)\n\n[![Image 16: Foxy.io](https://www.foxy.io/static/svg/logo-color.svg)](https://www.foxy.io/)\n\n[](javascript:void(0); \"Open Main Navigation\")\n\n![Image 17: 404](https://www.foxy.io/static/svg/logo-background.svg)\n\nForbidden\n=========\n\nYou shall not pass! You don't have permission to access this resource.\n\n[Go back home](https://www.foxy.io/) or [contact us](https://www.foxy.io/contact)\n\n\u00a9 2025 Foxy.io\n\n*   [Terms of Service](https://www.foxy.io/terms-of-service/)\n*   [Privacy Policy](https://www.foxy.io/privacy-policy/)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "foxy_io",
+        "app_name": "Foxy.io",
+        "app_slug": "foxy-io",
+        "pricing_url": "https://www.foxy.io/pricing/",
+        "source_url": "https://www.foxy.io/pricing/",
+        "all_pricing_urls": [
+          "https://www.foxy.io/pricing/"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page was not accessible, and detailed pricing information could not be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:32:33.953935",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": true,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\foxy-io\\20250414_233234"
+}

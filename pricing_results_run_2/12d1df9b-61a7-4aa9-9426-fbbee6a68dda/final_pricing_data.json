@@ -1,0 +1,106 @@
+{
+  "app_id": "savvycal",
+  "app_name": "SavvyCal",
+  "app_slug": "savvycal",
+  "pricing_url": "https://savvycal.com/pricing",
+  "source_url": "https://savvycal.com/pricing",
+  "all_pricing_urls": [
+    "https://savvycal.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a discount equivalent to two months free. Discounts available for students, educators, and non-profits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Great for individuals & small teams with simple scheduling needs.",
+      "monthly_price": 12.0,
+      "annual_price": 120.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited calendars",
+        "Unlimited links",
+        "Team scheduling"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Ideal for businesses who need a bit more control over their scheduling flows.",
+      "monthly_price": 20.0,
+      "annual_price": 200.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Whitelabeled booking pages",
+        "Delegate to an assistant",
+        "Custom domains",
+        "Paid bookings"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Two months free with annual plan.",
+      "discount_percentage": 16.67,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Student/Educator/Non-Profit Discount",
+      "offer_description": "25% discount for students, educators, and non-profits.",
+      "discount_percentage": 25.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:17:52.696789",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "12d1df9b-61a7-4aa9-9426-fbbee6a68dda",
+    "name": "SavvyCal",
+    "slug": "savvycal",
+    "description": "SavvyCal is scheduling software that makes it easy for both parties to find the best time to meet.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/9060d3e57667671e452fcb8461174663.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

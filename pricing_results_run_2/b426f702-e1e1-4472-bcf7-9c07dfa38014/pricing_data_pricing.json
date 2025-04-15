@@ -1,0 +1,128 @@
+{
+  "app_id": "leadsimple",
+  "app_name": "LeadSimple",
+  "app_slug": "leadsimple",
+  "pricing_url": null,
+  "source_url": "https://www.leadsimple.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a base subscription fee and additional usage-based charges for certain features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "CRM",
+      "tier_description": "Customer Relationship Management features.",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Communication tools",
+        "Inbound & Outbound Call Tracking",
+        "Internal Notes",
+        "@Mention Users in Notes",
+        "Connect Direct & Shared Email Addresses"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Operations",
+      "tier_description": "Operational workflow management.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Process Types",
+        "Process Stages",
+        "Customizable Process Workflows",
+        "Access To Pre-Built Process Template Library"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Comms",
+      "tier_description": "Communication tools and features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Shared Inbox Module",
+        "Snooze/Resolve Conversations",
+        "Start Processes from Inbound Messages",
+        "Conversation Tags",
+        "Email Blocklist"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Operations",
+      "unit": "unit",
+      "base_price": 1.35,
+      "tiers": null
+    },
+    {
+      "metric_name": "Comms",
+      "unit": "unit",
+      "base_price": 2.2,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:22:54.792209",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b426f702-e1e1-4472-bcf7-9c07dfa38014",
+    "name": "LeadSimple",
+    "slug": "leadsimple",
+    "description": "LeadSimple is the CRM that property management and real estate companies use to scale and grow.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/5c3cb27c13e96d096fbf4ec02be296ad.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 20,
+    "trigger_count": 14
+  }
+}

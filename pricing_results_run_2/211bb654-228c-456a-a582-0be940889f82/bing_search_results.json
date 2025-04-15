@@ -1,0 +1,12 @@
+{
+  "app_name": "Community",
+  "app_slug": "community",
+  "search_term": "Find the official pricing page URL for Community (community.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744709013.5565941,
+  "response_text": [
+    "I couldn't find a direct URL to the official pricing page for Community.com. You may need to explore their website further or contact them for pricing details. Let me know if you'd like help with anything else!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\community\\20250415_052333"
+}

@@ -1,0 +1,69 @@
+{
+  "app_id": "agentfire",
+  "app_name": "AgentFire",
+  "app_slug": "agentfire",
+  "pricing_url": "https://agentfire.com/pricing/",
+  "source_url": "https://agentfire.com/pricing/",
+  "all_pricing_urls": [
+    "https://agentfire.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The base monthly fee includes IDX integration, access to support, site hosting fees, feature upgrades, and more.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Base Plan",
+      "tier_description": "Includes IDX integration, access to support, site hosting fees, feature upgrades, and more.",
+      "monthly_price": 149.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "IDX integration",
+        "Access to support",
+        "Site hosting fees",
+        "Feature upgrades"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "MLS pass-through fees",
+      "fee_amount": null,
+      "fee_description": "Not included in the IDX fees."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:50:44.952730",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "534cfa5a-7632-45a0-a857-237b50ae9bb9",
+    "name": "AgentFire",
+    "slug": "agentfire",
+    "description": "AgentFire is a revolutionary real estate website and marketing platform that helps agents maximize digital opportunities.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/203b05636adae92a9f5830d803129593.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 4
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "app_id": "folk",
+  "app_name": "Folk",
+  "app_slug": "folk",
+  "pricing_url": null,
+  "source_url": "https://help.folk.app/pricing-plans/",
+  "all_pricing_urls": [
+    "https://help.folk.app/pricing-plans/#main-content"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page was not accessible, and no pricing information could be extracted.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:07:02.045716",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b020dda9-926b-4ea0-bdf2-4c4c7d88d51a",
+    "name": "folk",
+    "slug": "folk",
+    "description": "folk is the next generation CRM for teams",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/dbb26b1e29ee172c9ca8dbc4877e671a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 7
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "app_id": "gong",
+  "app_name": "Gong",
+  "app_slug": "gong",
+  "pricing_url": "https://www.gong.io/pricing/",
+  "source_url": "https://www.gong.io/pricing/",
+  "all_pricing_urls": [
+    "https://www.gong.io/pricing/"
+  ],
+  "price_model_type": [
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is customized based on team size and user count. Platform fees apply.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Platform Fee",
+      "fee_amount": null,
+      "fee_description": "Based on the number of users supported"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:49:51.886722",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d937c032-3c97-4764-837c-81bcdb1b1baf",
+    "name": "Gong",
+    "slug": "gong",
+    "description": "Gong has helped thousands of sales pros have better sales conversations every day.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/6ec110948d88c0d28dec1c24bdc14578.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

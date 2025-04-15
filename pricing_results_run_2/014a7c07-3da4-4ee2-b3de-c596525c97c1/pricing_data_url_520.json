@@ -1,0 +1,45 @@
+{
+  "app_id": "mailbox_power",
+  "app_name": "Mailbox Power",
+  "app_slug": "mailbox-power",
+  "pricing_url": null,
+  "source_url": "https://www.mailboxpower.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.mailboxpower.com/"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not accessible, and no detailed pricing information could be extracted.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:57:32.803053",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "014a7c07-3da4-4ee2-b3de-c596525c97c1",
+    "name": "Mailbox Power",
+    "slug": "mailbox-power",
+    "description": "Mailbox Power enables you to engage your customers and stay top of mind with your clients by sending personalized cards and gifts.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/70b6fab97d51253dba064c2ca3ee4558.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 2
+  }
+}

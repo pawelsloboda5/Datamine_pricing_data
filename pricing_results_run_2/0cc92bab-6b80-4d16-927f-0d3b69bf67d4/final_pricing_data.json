@@ -1,0 +1,45 @@
+{
+  "app_id": "limo_anywhere",
+  "app_name": "Limo Anywhere",
+  "app_slug": "limo-anywhere",
+  "pricing_url": "https://www.limoanywhere.com/pricing",
+  "source_url": "https://www.limoanywhere.com/pricing\u30103:0\u2020source\u3011.",
+  "all_pricing_urls": [
+    "https://www.limoanywhere.com/pricing"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page for Limo Anywhere was not accessible, and no specific pricing details could be extracted.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:39:47.534474",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0cc92bab-6b80-4d16-927f-0d3b69bf67d4",
+    "name": "Limo Anywhere",
+    "slug": "limo-anywhere",
+    "description": "Limo Anywhere is a mobile app platform in the limousine and livery industry, with over 4,000 happy customers across the globe.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/d2dacd31938ccc2038d7d97199d6193a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 9
+  }
+}

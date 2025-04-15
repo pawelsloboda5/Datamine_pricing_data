@@ -1,0 +1,47 @@
+{
+  "app_id": "webinarfuel",
+  "app_name": "WebinarFuel",
+  "app_slug": "webinarfuel",
+  "pricing_url": "https://www.webinarfuel.com/pricing/",
+  "source_url": "https://www.webinarfuel.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.webinarfuel.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.CUSTOM"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing details are not yet available as the platform is in beta and has not launched.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:47:21.163370",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ea6bf497-8268-4de7-82b1-f057d6e0b73e",
+    "name": "WebinarFuel",
+    "slug": "webinarfuel",
+    "description": "WebinarFuel is an automated webinar platform for sales, education, training, and presentations.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/7071401fe74e5ca87dafb1f0c42c0a7a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Webinars"
+    ],
+    "category_slugs": [
+      "webinars"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 11
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "app_id": "easybroker",
+  "app_name": "EasyBroker",
+  "app_slug": "easybroker",
+  "pricing_url": "https://www.easybroker.com/en-mx/plans",
+  "source_url": "https://www.easybroker.com/plans?lang=en",
+  "all_pricing_urls": [
+    "https://www.easybroker.com/en-mx/plans"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "MXN",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 20% discount compared to monthly plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "PlanFree",
+      "tier_description": "Free plan for up to 20 users.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Personalize MLS listings",
+        "Easily manage your contacts and leads with a sales pipeline",
+        "Earn commissions collaborating with other agents",
+        "Send personalized listings via WhatsApp or email",
+        "Create search alerts and receive emails with new options for your clients"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "PlanAgent",
+      "tier_description": "Paid plan for individual agents.",
+      "monthly_price": 490.0,
+      "annual_price": 392.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Find the property you need in the MLS with advanced filters",
+        "Add unlimited listings and manage your inventory online",
+        "Publish your listings on the MLS and other real estate websites",
+        "Automatically track listing leads in your Inbox",
+        "Download personalized listings in PDF",
+        "Create comparative market reports"
+      ],
+      "limits": {
+        "users": "per user",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "PlanAgent + Website",
+      "tier_description": "Includes website and agent features.",
+      "monthly_price": 990.0,
+      "annual_price": 792.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Use your own domain",
+        "Secure your site with an SSL certificate at no extra cost",
+        "Automatically publish your listings and listings from the agents you collaborate with on your website",
+        "Personalize the design and content without a web designer"
+      ],
+      "limits": {
+        "users": "per user",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Additional user fee for PlanAgent",
+      "fee_amount": 392.0,
+      "fee_description": "Cost per additional user for annual billing."
+    },
+    {
+      "fee_name": "Additional user fee for PlanAgent + Website",
+      "fee_amount": 392.0,
+      "fee_description": "Cost per additional user for annual billing."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:41:30.719901",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "cf0e738d-6d31-4ded-b5f2-bdda0d544fc5",
+    "name": "EasyBroker",
+    "slug": "easybroker-archive",
+    "description": "The EasyBroker integration allows you to access your company's properties, register or check potential clients, among other operations.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/0a847a7c4de1341ba4a3b8dc7af7779e_4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 1
+  }
+}

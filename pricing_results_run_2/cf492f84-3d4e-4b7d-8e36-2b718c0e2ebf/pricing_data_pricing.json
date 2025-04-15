@@ -1,0 +1,123 @@
+{
+  "app_id": "payhip",
+  "app_name": "Payhip",
+  "app_slug": "payhip",
+  "pricing_url": "https://payhip.com/pricing",
+  "source_url": "https://payhip.com/pricing",
+  "all_pricing_urls": [
+    "https://payhip.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "All plans include the same features, with differences in transaction fees.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Forever",
+      "tier_description": "Free plan with transaction fees.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features",
+        "Unlimited products",
+        "Unlimited revenue"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Paid plan with reduced transaction fees.",
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features",
+        "Unlimited products",
+        "Unlimited revenue"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Paid plan with no transaction fees.",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features",
+        "Unlimited products",
+        "Unlimited revenue"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Transaction Fee",
+      "fee_amount": 5.0,
+      "fee_description": "Transaction fee for Free Forever plan."
+    },
+    {
+      "fee_name": "Transaction Fee",
+      "fee_amount": 2.0,
+      "fee_description": "Transaction fee for Plus plan."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:14:54.217702",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "cf492f84-3d4e-4b7d-8e36-2b718c0e2ebf",
+    "name": "Payhip",
+    "slug": "payhip",
+    "description": "Payhip is an e-commerce platform that enables anyone to sell digital products or memberships directly to their fans and followers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/84ed8852824086c0426a5e21c284bc42.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Commerce"
+    ],
+    "category_slugs": [
+      "commerce"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 4
+  }
+}

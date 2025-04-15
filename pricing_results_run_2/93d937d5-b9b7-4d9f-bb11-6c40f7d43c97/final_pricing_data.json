@@ -1,0 +1,188 @@
+{
+  "app_id": "funnelcockpit",
+  "app_name": "FunnelCockpit",
+  "app_slug": "funnelcockpit",
+  "pricing_url": "https://funnelcockpit.com/pricing/",
+  "source_url": "https://funnelcockpit.com/pricing/",
+  "all_pricing_urls": [
+    "https://funnelcockpit.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a 14-day trial for 1 EUR. Annual plans offer a 15% discount.",
+  "pricing_tiers": [
+    {
+      "tier_name": "LITE",
+      "tier_description": null,
+      "monthly_price": 47.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "FunnelBuilder",
+        "Seiten-Vorlagen",
+        "AI Generator NEU",
+        "Video Player",
+        "Video Funnels",
+        "Blog-System",
+        "DSGVO-Funktionen",
+        "E-Mail Marketing",
+        "1 Mitgliederbereich",
+        "1 Umfrage",
+        "\u221e Splittests",
+        "1 Formular",
+        "Webinare",
+        "CRM System",
+        "Maustracking",
+        "Bounce-Tool",
+        "Team-Funktion"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projekte",
+            "value": 5
+          },
+          {
+            "name": "Traffic",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "STANDARD",
+      "tier_description": "Most popular tier",
+      "monthly_price": 97.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "FunnelBuilder",
+        "Seiten-Vorlagen",
+        "AI Generator NEU",
+        "Video Player",
+        "Video Funnels",
+        "Blog-System",
+        "DSGVO-Funktionen",
+        "E-Mail Marketing",
+        "3 Mitgliederbereiche",
+        "\u221e Umfragen",
+        "\u221e Splittests",
+        "3 Formulare",
+        "3 Webinare",
+        "CRM System",
+        "Maustracking",
+        "Bounce-Tool",
+        "Team-Funktion"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projekte",
+            "value": 10
+          },
+          {
+            "name": "Traffic",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "BUSINESS",
+      "tier_description": null,
+      "monthly_price": 297.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "FunnelBuilder",
+        "Seiten-Vorlagen",
+        "AI Generator NEU",
+        "Video Player",
+        "Video Funnels",
+        "Blog-System",
+        "DSGVO-Funktionen",
+        "E-Mail Marketing",
+        "\u221e Mitgliederbereiche",
+        "\u221e Umfragen",
+        "\u221e Splittests",
+        "\u221e Formulare",
+        "\u221e Webinare",
+        "CRM System",
+        "Maustracking",
+        "Bounce-Tool",
+        "Team-Funktion"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projekte",
+            "value": "unlimited"
+          },
+          {
+            "name": "Traffic",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Save 15% on annual plans.",
+      "discount_percentage": 15.0,
+      "offer_url": "https://funnelcockpit.com/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:09:52.196508",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "93d937d5-b9b7-4d9f-bb11-6c40f7d43c97",
+    "name": "FunnelCockpit",
+    "slug": "funnelcockpit",
+    "description": "FunnelCockpit is your all-in-one marketing solution.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/6ff0777961807fa01b2a7e3d3c0660d6.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Contact Management"
+    ],
+    "category_slugs": [
+      "contacts"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 4
+  }
+}

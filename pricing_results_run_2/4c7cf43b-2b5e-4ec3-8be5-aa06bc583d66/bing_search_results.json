@@ -1,0 +1,72 @@
+{
+  "app_name": "Loops",
+  "app_slug": "loops",
+  "search_term": "Find the official pricing page URL for Loops (loops.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744715629.416978,
+  "response_text": [
+    "The official pricing page for Loops can be found at https://www.loops.so/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.loops.so/pricing",
+      "is_accessible": true,
+      "content": "Pricing\n-------\n\nOne price, all the things\n-------------------------\n\nSend product, marketing, and transactional emails with\n\nflawless deliverability and a design-first approach.\n\nCalculate your pricing\n----------------------\n\n100 subscribers\n\nYour plan\n---------\n\n### Free\n\nOur free allows up to 4,000 sends a month, enough to email your audience every week. All features are included. A small \"Powered by Loops\" footer will be attached.\n\n[Get started](https://app.loops.so/register)\n\nFAQ\n---\n\nYou may be wondering\n--------------------\n\nWait, what's your price again?\n\nHow is a subscriber defined?\n\nWhat does the free plan include?\n\nDo you charge for team seats?\n\nDo you charge for email sends?\n\nHow are you different from X, Y, Z competitors?\n\n*   ![Image 1](https://framerusercontent.com/images/Q3084HvXbqZtF20SzAKYboh4tM.png?lossless=1)\n    \n*   ![Image 2](https://framerusercontent.com/images/ijRL9ZNtygmgpNWzanyuTFqNPg.png?lossless=1)\n    \n*   ![Image 3](https://framerusercontent.com/images/r74yKYRhCtU9J991UIhWt9Bypq0.png?lossless=1)\n    \n*   ![Image 4](https://framerusercontent.com/images/FRIgKpboLUO3oNAfAEKhLZVypw.png?lossless=1)\n    \n*   ![Image 5](https://framerusercontent.com/images/0RdfvF027Gk8qKUQGa8e0XFOjg.png?lossless=1)\n    \n*   ![Image 6](https://framerusercontent.com/images/Xgvqvu5q6bKGH90mQSH9UhNg.svg?lossless=1)\n    \n*   ![Image 7](https://framerusercontent.com/images/5GbgfGBfycwaxT2CnQy6CDBjZI.png?lossless=1)\n    \n*   ![Image 8](https://framerusercontent.com/images/sHSCG6nrSQ4qo0O88qog3UXMo.png?lossless=1)\n    \n*   ![Image 9](https://framerusercontent.com/images/gb6vp25RcQ07xUY0YOkFeLKxzFY.svg?lossless=1)\n    \n*   ![Image 10](https://framerusercontent.com/images/Tm0M1VtsdmRS5A5J2lR56Lk6yA.svg?lossless=1)\n    \n\nReady to get started?\n\nImport your contacts,\n\nget started in seconds.\n\nLoops is the modern email platform for SaaS. Create and send marketing email, product email and transactional email in just a few minutes.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "loops",
+        "app_name": "Loops",
+        "app_slug": "loops",
+        "pricing_url": "https://app.loops.so/register",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://app.loops.so/register"
+        ],
+        "price_model_type": [
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The free tier includes all features with a limit of 4,000 sends per month and a 'Powered by Loops' footer.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Allows up to 4,000 sends a month with all features included. A 'Powered by Loops' footer is attached.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "All features included",
+              "4,000 sends per month",
+              "'Powered by Loops' footer"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": 4000,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:14:01.675421",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\loops\\20250415_071401"
+}

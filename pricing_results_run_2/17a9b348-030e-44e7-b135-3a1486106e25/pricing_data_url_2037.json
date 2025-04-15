@@ -1,0 +1,128 @@
+{
+  "app_id": "hive",
+  "app_name": "Hive",
+  "app_slug": "hive",
+  "pricing_url": null,
+  "source_url": "https://www.hive.com/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details include multiple tiers with varying features and limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Entry-level plan with limited features.",
+      "monthly_price": 12.0,
+      "annual_price": 120.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Up to 10 users",
+        "200MB storage",
+        "Unlimited tasks",
+        "10 projects"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "200MB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced plan with additional features.",
+      "monthly_price": 24.0,
+      "annual_price": 240.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited users",
+        "Unlimited storage",
+        "Unlimited tasks",
+        "Unlimited projects"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom integrations",
+        "Dedicated support",
+        "Advanced analytics"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "AI Assists",
+      "unit": "per assist",
+      "base_price": 0.01,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:08:50.247984",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "17a9b348-030e-44e7-b135-3a1486106e25",
+    "name": "Hive",
+    "slug": "hive",
+    "description": "Hive provides simple automated workflow for teams. It brings all your different tools onto one dashboard and makes it easy to see progress and bottlenecks.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/92a473a3b5d253346ff48562746a9345.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Collaboration"
+    ],
+    "category_slugs": [
+      "team-collaboration"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 1
+  }
+}

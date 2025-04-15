@@ -1,0 +1,224 @@
+{
+  "app_id": "nethunt_crm",
+  "app_name": "NetHunt CRM",
+  "app_slug": "nethunt-crm",
+  "pricing_url": "https://nethunt.com/web/?rg=GLOBAL&l=en",
+  "source_url": "https://nethunt.com/pricing/",
+  "all_pricing_urls": [
+    "https://nethunt.com/web/?rg=GLOBAL&l=en"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers a 20% discount compared to monthly billing. Additional automation actions can be purchased separately.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Essential CRM tools for small teams.",
+      "monthly_price": 30.0,
+      "annual_price": 24.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Leads & deals management",
+        "Multiple pipelines",
+        "Tasks",
+        "Google Workspace integration",
+        "1 messenger account"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basic Plus",
+      "tier_description": "Advanced features for growing teams.",
+      "monthly_price": 42.0,
+      "annual_price": 34.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Mass email campaigns & analytics",
+        "Personalized emails",
+        "Extra folders and views",
+        "2 custom roles",
+        "Personal messengers",
+        "WhatsApp integration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Multichannel sales and automation tools.",
+      "monthly_price": 60.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Sales automation",
+        "Contact enrichment",
+        "Multi-channel sequences",
+        "VoIP integrations",
+        "Professional Network integration",
+        "Sales & team activity reports",
+        "API Access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": 1000,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Plus",
+      "tier_description": "Deep automation for scaling businesses.",
+      "monthly_price": 84.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Extra automation workflows & actions",
+        "Extra email campaigns",
+        "Extra custom roles",
+        "NetHunt logo removal (web forms)",
+        "Hourly Google Contacts Sync",
+        "Dedicated account manager",
+        "Business consulting"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": 10000,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Tailor-made plan for your business.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom features selection"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "custom",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Automation Actions",
+      "unit": "per action",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 5000.0,
+          "max": 10000.0,
+          "price": 20.0
+        },
+        {
+          "min": 10000.0,
+          "max": 20000.0,
+          "price": 30.0
+        },
+        {
+          "min": 20000.0,
+          "max": 50000.0,
+          "price": 45.0
+        },
+        {
+          "min": 50000.0,
+          "max": 100000.0,
+          "price": 85.0
+        },
+        {
+          "min": 100000.0,
+          "max": 500000.0,
+          "price": 128.0
+        },
+        {
+          "min": 500000.0,
+          "max": 1000000.0,
+          "price": 480.0
+        },
+        {
+          "min": 1000000.0,
+          "max": "unlimited",
+          "price": 720.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Startup Discount",
+      "offer_description": "75% discount on the Business plan for startups founded less than 3 years ago.",
+      "discount_percentage": 75.0,
+      "offer_url": "https://nethunt.com/crm-for-startups",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Non-Profit Discount",
+      "offer_description": "25% discount for non-profit organizations.",
+      "discount_percentage": 25.0,
+      "offer_url": "mailto:sales@nethunt.com",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:40:21.599966",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0c0980eb-7219-4f49-aba0-539f69a5a37f",
+    "name": "NetHunt CRM",
+    "slug": "nethunt-crm",
+    "description": "NetHunt CRM is a customer relationship management system for Gmail and Google Apps.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/7b04730f929634b98b9f14ca4634f028_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 7
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "app_id": "spotify",
+  "app_name": "Spotify",
+  "app_slug": "spotify",
+  "pricing_url": "https://www.spotify.com/us/premium/",
+  "source_url": "https://www.spotify.com/premium/",
+  "all_pricing_urls": [
+    "https://www.spotify.com/us/premium/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Spotify offers various subscription plans with a free tier and a free trial for new users.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Individual",
+      "tier_description": "Single user plan.",
+      "monthly_price": 11.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Ad-free music listening",
+        "Download to listen offline",
+        "Play songs in any order",
+        "High audio quality",
+        "15 hours/month of audiobook listening time"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Audiobook listening time",
+            "value": "15 hours/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Student",
+      "tier_description": "Discounted plan for eligible students.",
+      "monthly_price": 5.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Ad-free music listening",
+        "Download to listen offline",
+        "Play songs in any order",
+        "High audio quality",
+        "Access to Hulu"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Duo",
+      "tier_description": "Plan for two users residing at the same address.",
+      "monthly_price": 16.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Ad-free music listening",
+        "Download to listen offline",
+        "Play songs in any order",
+        "High audio quality",
+        "15 hours/month of audiobook listening time (plan manager only)"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Audiobook listening time",
+            "value": "15 hours/month (plan manager only)"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Family",
+      "tier_description": "Plan for up to six family members residing at the same address.",
+      "monthly_price": 19.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Ad-free music listening",
+        "Download to listen offline",
+        "Play songs in any order",
+        "High audio quality",
+        "Control content marked as explicit",
+        "Access to Spotify Kids",
+        "15 hours/month of audiobook listening time (plan manager only)"
+      ],
+      "limits": {
+        "users": 6,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Audiobook listening time",
+            "value": "15 hours/month (plan manager only)"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Audiobooks Access",
+      "tier_description": "Plan for audiobook listening only.",
+      "monthly_price": 9.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "15 hours/month of audiobook listening time"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Audiobook listening time",
+            "value": "15 hours/month"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Free Trial for New Users",
+      "offer_description": "Free trial for 1 month for new users who haven't tried Premium before.",
+      "discount_percentage": 100.0,
+      "offer_url": "https://www.spotify.com/us/legal/paid-subscription-terms/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:27:49.255497",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d5b1e4ff-e7d9-4a26-8eab-d4bbc36fb804",
+    "name": "Spotify",
+    "slug": "spotify",
+    "description": "Spotify is a music streaming service that provides digital content from record labels and media companies.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/7a34cf4279c6f8f8c97a1250ccce40a4_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Video & Audio"
+    ],
+    "category_slugs": [
+      "video"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 18,
+    "trigger_count": 4
+  }
+}

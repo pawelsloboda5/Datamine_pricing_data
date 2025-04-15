@@ -1,0 +1,145 @@
+{
+  "app_id": "accredible_certificates",
+  "app_name": "Accredible Certificates",
+  "app_slug": "accredible-certificates",
+  "pricing_url": "https://www.accredible.com/pricing",
+  "source_url": "https://www.accredible.com/pricing",
+  "all_pricing_urls": [
+    "https://www.accredible.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of unique recipients per year, with unlimited credentials per recipient.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Launch",
+      "tier_description": "Everything you need to start issuing verifiable digital credentials to your learners.",
+      "monthly_price": 83.0,
+      "annual_price": 996.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 250 unique recipients",
+        "Design badges & certificates",
+        "Unlimited credentials to each recipient",
+        "Blockchain credentials",
+        "Self-serve knowledge-base access",
+        "Email support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "unique recipients",
+            "value": 250
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Connect",
+      "tier_description": "Integrate, automate, and succeed with digital credentials using advanced features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom number of recipients",
+        "Advanced credential features",
+        "Primary branding",
+        "Standard integrations",
+        "API Access",
+        "Insights reporting",
+        "Onboarding & training",
+        "Dedicated customer success manager",
+        "Pathways",
+        "Up to 3 Departments",
+        "Digital Wallet Cards"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "standard",
+        "custom_limits": [
+          {
+            "name": "departments",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Scale your brand, drive program growth, increase productivity, and meet branding needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom number of recipients",
+        "Access to advanced integrations",
+        "Custom whitelabeling",
+        "Program marketing analytics",
+        "Spotlight Directory",
+        "Priority support",
+        "Up to 5 departments",
+        "Single sign-on",
+        "Job Market Insights",
+        "Program growth success support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "advanced",
+        "custom_limits": [
+          {
+            "name": "departments",
+            "value": 5
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:08:39.124132",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "106cb975-d25f-4303-bf93-2f733c11217f",
+    "name": "Accredible Certificates",
+    "slug": "accredible",
+    "description": "Easily create and manage digital certificates & open badges for your events or courses. Let your alumni market your organisation.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/35f9c7e9be58f4efe7e837d32711d43b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 1
+  }
+}

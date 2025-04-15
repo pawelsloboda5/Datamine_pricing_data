@@ -55,7 +55,7 @@ def fetch_content_with_jina(url):
         
         print(f"Fetching content using Jina.ai Reader API: {url}")
         # Add a 5-second timeout for the Jina.ai API call
-        response = requests.get(reader_url, headers=headers, timeout=5)
+        response = requests.get(reader_url, headers=headers, timeout=15)
         
         if response.status_code == 200:
             try:

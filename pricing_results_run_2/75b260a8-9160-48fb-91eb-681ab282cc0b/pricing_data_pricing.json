@@ -1,0 +1,152 @@
+{
+  "app_id": "activecollab",
+  "app_name": "Active Collab",
+  "app_slug": "active-collab",
+  "pricing_url": "https://activecollab.com/pricing",
+  "source_url": "https://activecollab.com/pricing",
+  "all_pricing_urls": [
+    "https://activecollab.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer up to 15% discount compared to monthly plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Plus",
+      "tier_description": "Perfect for small teams with more than a few projects.",
+      "monthly_price": 11.0,
+      "annual_price": 9.5,
+      "annual_discount_percentage": 13.64,
+      "setup_fee": null,
+      "features": [
+        "Up to 3 Members",
+        "Unlimited Clients for Free",
+        "Unlimited Projects and Tasks",
+        "Integrated Project and Task Time Tracking and Stopwatch",
+        "Edit Time Entries and Add Them Manually",
+        "Personal Timesheets",
+        "Project Templates",
+        "Unlimited Discussions and Notes",
+        "Recurring Tasks",
+        "Task Dependencies with Automated Updating",
+        "Subtasks",
+        "3 Task Views (List, Kanban, Gantt)",
+        "Integrated Chat App",
+        "10GB storage",
+        "Dropbox and Google Workspace Integrations"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "10GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Growing teams needing clarity on expenses, time, and advanced reporting.",
+      "monthly_price": 9.0,
+      "annual_price": 8.0,
+      "annual_discount_percentage": 11.11,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Members",
+        "100GB Storage (Upgradeable)",
+        "125GB Storage (Upgradeable)",
+        "Team Timesheets",
+        "Time Reporting",
+        "Expense Tracking",
+        "Expense Reporting",
+        "Advanced Reporting",
+        "Zapier, Slack, and Webhooks Integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro+Get Paid",
+      "tier_description": "The right place for running the entire business. From an idea to an invoice.",
+      "monthly_price": 14.0,
+      "annual_price": 11.75,
+      "annual_discount_percentage": 16.07,
+      "setup_fee": null,
+      "features": [
+        "Workload Management",
+        "Capacity Planning",
+        "Holidays / Days-Off Management",
+        "User Availability",
+        "Time Estimates",
+        "Company-Wide Timesheet",
+        "Integrated Invoicing",
+        "Project Budgeting",
+        "Budget vs. Cost Tracking",
+        "Project Profitability",
+        "Online Payment Gateways (PayPal and Stripe)",
+        "QuickBooks Integration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "125GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Educational and Non-Profit Discount",
+      "offer_description": "50% discount for educational institutions and non-profit organizations.",
+      "discount_percentage": 50.0,
+      "offer_url": "https://activecollab.com/non-profit-discount",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Get Paid Bundle",
+      "fee_amount": 3.0,
+      "fee_description": "Additional features for Pro plan, charged per user per month for annual plans."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:10:56.796471",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "75b260a8-9160-48fb-91eb-681ab282cc0b",
+    "name": "Active Collab",
+    "slug": "activecollab",
+    "description": "Active Collab is a popular, all-in-one tool for project management, team collaboration and billing. Available both in cloud and self hosted versions.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c8ba821d19d809a03f6a7c481130d09b_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 6
+  }
+}

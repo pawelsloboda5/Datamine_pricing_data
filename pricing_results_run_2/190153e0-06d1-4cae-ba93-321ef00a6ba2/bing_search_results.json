@@ -1,0 +1,12 @@
+{
+  "app_name": "Shape",
+  "app_slug": "shape",
+  "search_term": "Find the official pricing page URL for Shape (shape.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744706809.8294559,
+  "response_text": [
+    "I couldn't locate an official pricing page for Shape.com. Let me know if you'd like assistance with something else!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\shape\\20250415_044650"
+}

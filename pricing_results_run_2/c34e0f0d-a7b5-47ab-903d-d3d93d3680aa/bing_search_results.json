@@ -1,0 +1,177 @@
+{
+  "app_name": "SalesViewer",
+  "app_slug": "salesviewer",
+  "search_term": "Find the official pricing page URL for SalesViewer (salesviewer.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725384.2060766,
+  "response_text": [
+    "The official pricing page for SalesViewer can be found at: [https://www.salesviewer.com/pricing](https://www.salesviewer.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - SalesViewer\u00ae",
+      "url": "https://www.salesviewer.com/en/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.salesviewer.com/en/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://www.salesviewer.com/pricing",
+      "is_accessible": true,
+      "content": "Pricing\n===============      \n\n![Image 12](https://www.salesviewer.com/wp-content/themes/salesviewer/assets/images/shared/phone.svg) Contact sales: [+49 2327 6029190](tel:+4923276029190)\n\n[](https://www.salesviewer.com/en/)\n\n[Try now](https://www.salesviewer.com/en/free-trial/)\n\n*   [Start](https://www.salesviewer.com/en/)\n*   [Features](https://www.salesviewer.com/en/features/)\n*   Platform\n    \n    1.  [USPs](https://www.salesviewer.com/en/platform/usps/)\n    2.  [What is SalesViewer\u00ae?](https://www.salesviewer.com/en/platform/website-visitor-identification/)\n    3.  [Data protection](https://www.salesviewer.com/en/platform/data-protection/)\n    4.  [Integrations](https://www.salesviewer.com/en/platform/integrations/)\n    5.  [Free trial](https://www.salesviewer.com/en/free-trial/)\n    6.  [Helpcenter](https://www.salesviewer.com/en/help/)\n*   [Customers](https://www.salesviewer.com/en/customers/)\n*   Pricing\n    \n*   Company\n    \n    1.  [About us](https://www.salesviewer.com/en/about-us/company/)\n    2.  [Careers](https://www.salesviewer.com/en/about-us/careers/)\n    3.  [Partners](https://www.salesviewer.com/en/about-us/partners/)\n*   [Contact](https://www.salesviewer.com/en/contact/)\n\n[Free Trial ![Image 13](https://www.salesviewer.com/wp-content/themes/salesviewer/assets/images/arrow-right-darkblue-desktop.svg)](https://www.salesviewer.com/en/free-trial/)[Login ![Image 14](blob:http://localhost/4f49c2c95cddd91c945f88b4186b543a) ![Image 15](blob:http://localhost/4f49c2c95cddd91c945f88b4186b543a)](https://app.salesviewer.com/login) \n\n![Image 16: English](https://www.salesviewer.com/wp-content/themes/salesviewer/assets/images/languages/en.svg)\n\n*    [![Image 17: English](blob:http://localhost/344e6bea39796d7acb6453115ce58bc9) English](https://www.salesviewer.com/en/pricing/?)\n*    [![Image 18: German](blob:http://localhost/34a963c33717ad6441a86916ff7caaa0) German](https://www.salesviewer.com/de/preise/?)\n\nTransparent. Scalable.  \nMade for you.\n======================================\n\nPay for what you really need. Our plans scale with your business growth. Monthly subscriptions. No hidden costs!\n\nChoose plan or select number of detections:\n\n![Image 19](http://www.salesviewer.com/wp-content/uploads/2022/03/Vector-1-1.png)\n\n![Image 20](http://www.salesviewer.com/wp-content/uploads/2022/03/Vector-2-1.png)\n\n![Image 21](http://www.salesviewer.com/wp-content/uploads/2022/03/Vector-3.png)\n\n![Image 22](http://www.salesviewer.com/wp-content/uploads/2022/03/Vector-1-2.png)\n\n![Image 23](http://www.salesviewer.com/wp-content/uploads/2022/03/Vector-2-2.png)\n\n![Image 24](http://www.salesviewer.com/wp-content/uploads/2022/03/Vector-4.png)\n\n*   Pro\n    \n    All you need\n    \n*   Premium\n    \n    The power pack\n    \n    Topseller\n    \n*   Individual\n    \n    Enterprise level\n    \n\nMonthly leads ?\n\n50\n\nAnnual billing with 20% discount\n\n*   ### SalesViewer\u00ae Pro 50\n    \n    Essential features for small teams and businesses. All you need!\n    \n    79\n    \n    00\u20ac\n    \n    per month\n    \n    50\u00a0company detections\n    \n    1 website  \n    \n    * * *\n    \n    Company ID\n    \n    Behavior analytics\n    \n    Smart categories\n    \n    Instant notifications\n    \n    Interest spotlight\n    \n    Campaigns & keywords\n    \n    iOS & Android app\n    \n    Export & full data access\n    \n    Drag and drop integrations\n    \n    Unlimited users\n    \n    Individual support\n    \n    No contract. Monthly payment. Cancel at any time.\n    \n    Annual billing. 20% discount.\n    \n    [Free Trial](https://www.salesviewer.com/en/free-trial/)\n    \n    All prices excluding VAT.\n    \n*   ### SalesViewer\u00ae Premium 250\n    \n    All premium features to supercharge your sales. The power pack!\n    \n    269\n    \n    00\u20ac\n    \n    per month\n    \n    250\u00a0company detections\n    \n    5 websites\n    \n    * * *\n    \n    **All Pro features**\n    \n    Video (session recording)\n    \n    Filters & automations\n    \n    Custom reports\n    \n    Scoring\n    \n    Offline campaigns\n    \n    Google Ads integration\n    \n    Standalone integrations\n    \n    API\n    \n    Premium support\n    \n    No contract. Monthly payment. Cancel at any time.\n    \n    Annual billing. 20% discount.\n    \n    [Free Trial](https://www.salesviewer.com/en/free-trial/)\n    \n    All prices excluding VAT.\n    \n*   ### SalesViewer\u00ae Individual 750\n    \n    Extended support and individual services for enterprise customers.\n    \n    499\n    \n    00\u20ac\n    \n    per month\n    \n    750 company detections\n    \n    Unlimited websites\n    \n    * * *\n    \n    **All Pro + Premium features**\n    \n    Event tracking\n    \n    Google Ads premium integration\n    \n    Enterprise support\n    \n    No contract. Monthly payment. Cancel at any time.\n    \n    Annual billing. 20% discount.\n    \n    [Free Trial](https://www.salesviewer.com/en/free-trial/)\n    \n    All prices excluding VAT.\n    \n\n![Image 25](blob:http://localhost/bc931f55cd3adddfd3b921ef6aa0646a) ![Image 26](blob:http://localhost/bc931f55cd3adddfd3b921ef6aa0646a)\n\nIndividual as you\n\nOur pricing:  \nmade for your business!\n--------------------------------------\n\n*   ![Image 27](blob:http://localhost/1b9a9c92552bf295d9423fb388673cac)\n    \n    ### Pay what you need\n    \n    Plans that match your individual business needs. Full cost control. No automatic upgrades.\n    \n*   ![Image 28](blob:http://localhost/2bb541aa4063989a44aa95c67bb91691)\n    \n    ### Transparent pricing\n    \n    Public pricing. Easy options. No hidden fees. Transparency at a glance.\n    \n*   ![Image 29](blob:http://localhost/7a809828b16e3907463b6e8896d8830b)\n    \n    ### Monthly subscriptions\n    \n    No contracts. Cancel anytime. Risk-free new business development.\n    \n*   ![Image 30](blob:http://localhost/9f583a3090f653abfd52ba2e9d4e71ed)\n    \n    ### Flexible and scalable\n    \n    Always in control. Downgrade anytime, upgrade anytime. SalesViewer\u00ae scales with your business growth.\n    \n*   ![Image 31](blob:http://localhost/5ac9e397ab8438880949770b18bd48ee)\n    \n    ### Annual discounts\n    \n    Happiness pays off. Save 20% by choosing our annual plans.\n    \n*   ![Image 32](blob:http://localhost/5f2fb29aefe88200094b61ca8ad47a2b)\n    \n    ### Outstanding lead generation costs\n    \n    Starting at 51 cents per qualified lead. SalesViewer\u00ae is a highly cost-efficient way to grow your business compared to other marketing channels and lead generation costs.\n    \n\n![Image 33: Young female with headset](blob:http://localhost/88d84facfff35485242b65ef471d85db)\n\n![Image 34](blob:http://localhost/bc931f55cd3adddfd3b921ef6aa0646a)\n\ndon\u2019t be shy to ask\n\nFrequently Asked Questions\n--------------------------\n\n*   What is a company detection and how are they counted?\n    \n    One detection is the identification of a company. SalesViewer\u00ae will show you all visits of that company, but will only consume one detection (credit) per month for that company.\n    \n*   What happens if I reach my limit?\n    \n    SalesViewer\u00ae will automatically pause and notify you, to prevent any hidden costs. It is your choice to decide weather you want to extend your limit or not.\n    \n*   How flexible is my plan?\n    \n    You can always change or pause your plan, because of our short 14 day cancellation period.\n    \n*   What is the difference between the 3 plans?\n    \n    The 3 versions offer different features and amounts of company detections. You can find the perfect fit for you in our 14 day trial.\n    \n*   Which plan is the best fit for us?\n    \n    To find the optimal plan for you, our SalesViewer\u00ae-Experts will help you evaluate your trial to find the best fit for you.\n    \n\n![Image 35](blob:http://localhost/bc931f55cd3adddfd3b921ef6aa0646a)\n\n*   \u201eTop tool: visitor identification, lead intelligence, sales intelligence\u201c\n\nOMR Reviews\n\n*   SalesViewer\u00ae\n    \n    1.  [Start](https://www.salesviewer.com/en/)\n    2.  [Free trial](https://www.salesviewer.com/en/free-trial/)\n    3.  [Contact](https://www.salesviewer.com/en/contact/)\n*   Platform\n    \n    1.  [Features](https://www.salesviewer.com/en/features/)\n    2.  [USPs](https://www.salesviewer.com/en/platform/usps/)\n    3.  [Data protection](https://www.salesviewer.com/en/platform/data-protection/)\n    4.  [Integrations](https://www.salesviewer.com/en/platform/integrations/)\n    5.  [Helpcenter](https://www.salesviewer.com/en/help/)\n*   Customers\n    \n    1.  [Case studies](https://www.salesviewer.com/en/customers/)\n    2.  [Reviews](https://www.salesviewer.com/en/customers/#googlereviews)\n*   Company\n    \n    1.  [About us](https://www.salesviewer.com/en/about-us/company/)\n    2.  [Careers](https://www.salesviewer.com/en/about-us/careers/)\n    3.  [Partners](https://www.salesviewer.com/en/about-us/partners/)\n    4.  [Contact](https://www.salesviewer.com/en/contact/)\n\n*   ![Image 36: SalesViewer\u00ae](blob:http://localhost/aa428981e5439b57693696d3c80813c4)\n*   ![Image 37: Made in Germany](blob:http://localhost/d920c81cda38018cf5da4ee9b5ed6e73)\n\nSalesViewer\u00ae\n\n*   [Start](https://www.salesviewer.com/en/)\n*   [Free trial](https://www.salesviewer.com/en/free-trial/)\n*   [Contact](https://www.salesviewer.com/en/contact/)\n\nPlatform\n\n*   [Features](https://www.salesviewer.com/en/features/)\n*   [USPs](https://www.salesviewer.com/en/platform/usps/)\n*   [Data protection](https://www.salesviewer.com/en/platform/data-protection/)\n*   [Integrations](https://www.salesviewer.com/en/platform/integrations/)\n*   [Helpcenter](https://www.salesviewer.com/en/help/)\n\nCustomers\n\n*   [Case studies](https://www.salesviewer.com/en/customers/)\n*   [Reviews](https://www.salesviewer.com/en/customers#googlereviews)\n\nCompany\n\n*   [About us](https://www.salesviewer.com/en/about-us/company/)\n*   [Careers](https://www.salesviewer.com/en/about-us/careers/)\n*   [Partners](https://www.salesviewer.com/en/about-us/partners/)\n\n*   [GTC](https://www.salesviewer.com/en/gtc/)\n*   [Privacy policy](https://www.salesviewer.com/en/privacy-policy/)\n*   [Opt-out](https://www.salesviewer.com/en/opt-out/)\n*   [Imprint](https://www.salesviewer.com/en/imprint/)\n\nSalesViewer\u00ae is a protected trademark.\n\nDownload our app:\n\n[![Image 38: Get our app on Google Play](blob:http://localhost/8525ab3e8e4239b9894ff434d1226d2d)](https://play.google.com/store/apps/details?id=com.salesviewer)\n\n[![Image 39: Download our app on the App Store](blob:http://localhost/add2156237647eb907ac5b349efbd55a)](https://apps.apple.com/de/app/salesviewer/id1481631763)\n\n![Image 40: Map](blob:http://localhost/9645c2130f35c53578278449e4927329)\n\n![Image 41: Phone numbers](blob:http://localhost/c0b2fcd4efcb33bb87363e8aa6e69b78) Europe / North America\n\n*   [+49 2327 6029190](tel:+4923276029190)\n*   [+1 646-586-9078](tel:+16465869078)\n\n\u00a92025 SalesViewer GmbH\n\n*   ![Image 42: SalesViewer\u00ae](blob:http://localhost/aa428981e5439b57693696d3c80813c4)\n*   ![Image 43: Made in Germany](blob:http://localhost/d920c81cda38018cf5da4ee9b5ed6e73)\n\nDownload our app:\n\n[![Image 44: Get our app on Google Play](blob:http://localhost/8525ab3e8e4239b9894ff434d1226d2d)](https://play.google.com/store/apps/details?id=com.salesviewer)\n\n[![Image 45: Download our app on the App Store](blob:http://localhost/add2156237647eb907ac5b349efbd55a)](https://apps.apple.com/de/app/salesviewer/id1481631763)\n\n![Image 46: Phone numbers](blob:http://localhost/c0b2fcd4efcb33bb87363e8aa6e69b78) Europe / North America\n\n*   [+49 2327 6029190](tel:+4923276029190)\n*   [+1 646-586-9078](tel:+16465869078)\n\n\u00a92025 SalesViewer GmbH\n\nSalesViewer\u00ae\n\n*   [Start](https://www.salesviewer.com/en/)\n*   [Free trial](https://www.salesviewer.com/en/free-trial/)\n*   [Contact](https://www.salesviewer.com/en/contact/)\n\nPlatform\n\n*   [Features](https://www.salesviewer.com/en/features/)\n*   [USPs](https://www.salesviewer.com/en/platform/usps/)\n*   [Data protection](https://www.salesviewer.com/en/platform/data-protection/)\n*   [Integrations](https://www.salesviewer.com/en/platform/integrations/)\n*   [Helpcenter](https://www.salesviewer.com/en/help/)\n\nCustomers\n\n*   [Case studies](https://www.salesviewer.com/en/customers/)\n*   [Reviews](https://www.salesviewer.com/en/customers#googlereviews)\n\nCompany\n\n*   [About us](https://www.salesviewer.com/en/about-us/company/)\n*   [Careers](https://www.salesviewer.com/en/about-us/careers/)\n*   [Partners](https://www.salesviewer.com/en/about-us/partners/)\n\n*   [GTC](https://www.salesviewer.com/en/gtc/)\n*   [Privacy policy](https://www.salesviewer.com/en/privacy-policy/)\n*   [Opt-out](https://www.salesviewer.com/en/opt-out/)\n*   [Imprint](https://www.salesviewer.com/en/imprint/)\n\nSalesViewer\u00ae is a protected trademark.\n\n![Image 47: Map](blob:http://localhost/9645c2130f35c53578278449e4927329)\n\n![Image 48](blob:http://localhost/bc931f55cd3adddfd3b921ef6aa0646a)\n\n![Image 49: English](blob:http://localhost/344e6bea39796d7acb6453115ce58bc9) English\n\n*    [![Image 50: English](blob:http://localhost/344e6bea39796d7acb6453115ce58bc9) English](https://www.salesviewer.com/en/pricing/?)\n*    [![Image 51: German](blob:http://localhost/34a963c33717ad6441a86916ff7caaa0) German](https://www.salesviewer.com/de/preise/?)\n\n[+49 (2327) 602919 - 0](tel:+4923276029190)\n\n*   [![Image 52](blob:http://localhost/8525ab3e8e4239b9894ff434d1226d2d)](https://apps.apple.com/de/app/salesviewer/id1481631763)\n*   [![Image 53](blob:http://localhost/531c96a5f5f7de06d4f62f53cfe914e9)](https://play.google.com/store/apps/details?id=com.salesviewer)\n\n![Image 54: SalesViewer.com](blob:http://localhost/5de946fab8db7d483ceef6d44b8f421f)\n\nCopyright \u00a9 2025 SalesViewer GmbH\n\n[Imprint](https://www.salesviewer.com/en/imprint/) \u2022 [Data privacy](https://www.salesviewer.com/en/privacy-policy/) \u2022 [Opt-out](https://www.salesviewer.com/en/opt-out/)\n\n![Image 55: Privacy Preference](https://www.salesviewer.com/wp-content/uploads/2021/06/logo-pointer-blue.svg) Privacy Preference\n\nOur website uses cookies and other technologies to personalize content and advertisements, provide social media features and analyze traffic on our website. We also share information about your usage of our website with our social media, advertising and analytics partners. Our partners may combine this information with other information that you have provided to them or that they have collected about you using their services. Please read our privacy policy for more details.  \n  \nSalesViewer\u00ae is a cookieless/cookie-free technology and a service without the use of cookies that can be rejected at any time .  \n  \nYou can revoke or adjust your selection at any time under Settings.\n\nPrivacy Preference\n\n*   Essential \n*   Customer-Service \n*   Statistics \n*   Marketing \n*   External Media \n\n[Accept all](https://www.salesviewer.com/pricing#)\n\n[Save](https://www.salesviewer.com/pricing#)\n\n[Accept only essential cookies](https://www.salesviewer.com/pricing#)\n\n[Settings](https://www.salesviewer.com/pricing#)\n\n[Cookie Details](https://www.salesviewer.com/pricing#) [Privacy Policy](https://www.salesviewer.com/en/privacy-policy/) [Imprint](https://www.salesviewer.com/en/imprint/)\n\n![Image 56: Privacy Preference](https://www.salesviewer.com/wp-content/uploads/2021/06/logo-pointer-blue.svg) Privacy Preference\n\nHere you will find an overview of all cookies used. You can give your consent to whole categories or display further information and select certain cookies.\n\n[Accept all](https://www.salesviewer.com/pricing#) [Save](https://www.salesviewer.com/pricing#)\n\n[Back](https://www.salesviewer.com/pricing#) [Accept only essential cookies](https://www.salesviewer.com/pricing#)\n\nPrivacy Preference\n\nEssential (3)\n\nEssential cookies enable basic functions and are necessary for the proper function of the website.\n\n[Show Cookie Information Hide Cookie Information](https://www.salesviewer.com/pricing#)\n\n<table><tbody><tr><th>Name</th><td><label>Borlabs Cookie</label></td></tr><tr><th>Provider</th><td>Owner of this website<span>, </span><a href=\"https://www.salesviewer.com/en/imprint/\">Imprint</a></td></tr><tr><th>Purpose</th><td>Saves the visitors preferences selected in the Cookie Box of Borlabs Cookie.</td></tr><tr><th>Cookie Name</th><td>borlabs-cookie</td></tr><tr><th>Cookie Expiry</th><td>1 Year</td></tr></tbody></table>\n\n<table><tbody><tr><th>Name</th><td><label>Matomo (selfhosted Analytics)</label></td></tr><tr><th>Provider</th><td>Owner of this website (SalesViewer GmbH)</td></tr><tr><th>Purpose</th><td>Cookie by Matomo used for website analytics. Generates statistical data on how the visitor uses the website.</td></tr><tr><th>Privacy Policy</th><td class=\"_brlbs-pp-url\"><a href=\"https://www.salesviewer.com/privacy-policy/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.salesviewer.com/privacy-policy/</a></td></tr><tr><th>Cookie Name</th><td>_pk_*.*</td></tr><tr><th>Cookie Expiry</th><td>13 months</td></tr></tbody></table>\n\n<table><tbody><tr><th>Name</th><td><label>Google Tag Manager</label></td></tr><tr><th>Provider</th><td>Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland</td></tr><tr><th>Purpose</th><td>Cookie von Google zur Steuerung der erweiterten Script- und Ereignisbehandlung.</td></tr><tr><th>Privacy Policy</th><td class=\"_brlbs-pp-url\"><a href=\"https://policies.google.com/privacy?hl=de\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://policies.google.com/privacy?hl=de</a></td></tr><tr><th>Cookie Name</th><td>_ga,_gat,_gid</td></tr><tr><th>Cookie Expiry</th><td>2 Jahre</td></tr></tbody></table>\n\nCustomer-Service (1)\n\nCustomer-Service \n\n[Show Cookie Information Hide Cookie Information](https://www.salesviewer.com/pricing#)\n\n<table><tbody><tr><th>Accept</th><td><label class=\"_brlbs-btn-switch _brlbs-btn-switch--textRight\"><span class=\"sr-only\">Tawk.to</span> <input id=\"borlabs-cookie-tawkto\" tabindex=\"0\" type=\"checkbox\" data-cookie-group=\"service\" name=\"cookies[service][]\" value=\"tawkto\" data-borlabs-cookie-switch=\"\"><span class=\"_brlbs-slider\"></span><span class=\"_brlbs-btn-switch-status\" data-active=\"On\" data-inactive=\"Off\" aria-hidden=\"true\"></span></label></td></tr><tr><th>Name</th><td><label>Tawk.to</label></td></tr><tr><th>Provider</th><td>tawk.to inc.</td></tr><tr><th>Purpose</th><td>Live chat software to answer service and customer inquiries on the website.</td></tr><tr><th>Privacy Policy</th><td class=\"_brlbs-pp-url\"><a href=\"https://www.tawk.to/privacy-policy\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.tawk.to/privacy-policy</a></td></tr><tr><th>Host(s)</th><td>embed.tawk.to, va.tawk.to, vsa104.tawk.to</td></tr><tr><th>Cookie Name</th><td>twk_*,TawkConn*,twk_uuid_*</td></tr></tbody></table>\n\nStatistics (2)\n\nStatistics \n\nStatistics cookies collect information anonymously. This information helps us to understand how our visitors use our website.\n\n[Show Cookie Information Hide Cookie Information](https://www.salesviewer.com/pricing#)\n\n<table><tbody><tr><th>Accept</th><td><label class=\"_brlbs-btn-switch _brlbs-btn-switch--textRight\"><span class=\"sr-only\">Google Analytics</span> <input id=\"borlabs-cookie-google-analytics\" tabindex=\"0\" type=\"checkbox\" data-cookie-group=\"statistics\" name=\"cookies[statistics][]\" value=\"google-analytics\" data-borlabs-cookie-switch=\"\"><span class=\"_brlbs-slider\"></span><span class=\"_brlbs-btn-switch-status\" data-active=\"On\" data-inactive=\"Off\" aria-hidden=\"true\"></span></label></td></tr><tr><th>Name</th><td><label>Google Analytics</label></td></tr><tr><th>Provider</th><td>Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland</td></tr><tr><th>Purpose</th><td>Cookie by Google used for website analytics. Generates statistical data on how the visitor uses the website.</td></tr><tr><th>Privacy Policy</th><td class=\"_brlbs-pp-url\"><a href=\"https://policies.google.com/privacy?hl=en\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://policies.google.com/privacy?hl=en</a></td></tr><tr><th>Cookie Name</th><td>_ga,_gat,_gid</td></tr><tr><th>Cookie Expiry</th><td>2 Months</td></tr></tbody></table>\n\n<table><tbody><tr><th>Accept</th><td><label class=\"_brlbs-btn-switch _brlbs-btn-switch--textRight\"><span class=\"sr-only\">Matomo</span> <input id=\"borlabs-cookie-matomo_consent\" tabindex=\"0\" type=\"checkbox\" data-cookie-group=\"statistics\" name=\"cookies[statistics][]\" value=\"matomo_consent\" data-borlabs-cookie-switch=\"\"><span class=\"_brlbs-slider\"></span><span class=\"_brlbs-btn-switch-status\" data-active=\"On\" data-inactive=\"Off\" aria-hidden=\"true\"></span></label></td></tr><tr><th>Name</th><td><label>Matomo</label></td></tr><tr><th>Provider</th><td>SalesViewer\u00ae</td></tr><tr><th>Purpose</th><td>Cookie by Matomo used for website analytics. Generates statistical data on how the visitor uses the website.</td></tr><tr><th>Privacy Policy</th><td class=\"_brlbs-pp-url\"><a href=\"https://www.salesviewer.com/en/privacy-policy/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.salesviewer.com/en/privacy-policy/</a></td></tr><tr><th>Cookie Name</th><td>_pk_*.*</td></tr><tr><th>Cookie Expiry</th><td>13 Months</td></tr></tbody></table>\n\nMarketing (5)\n\nMarketing \n\nMarketing cookies are used by third-party advertisers or publishers to display personalized ads. They do this by tracking visitors across websites.\n\n[Show Cookie Information Hide Cookie Information](https://www.salesviewer.com/pricing#)\n\n<table><tbody><tr><th>Accept</th><td><label class=\"_brlbs-btn-switch _brlbs-btn-switch--textRight\"><span class=\"sr-only\">Google Ads</span> <input id=\"borlabs-cookie-google-ads\" tabindex=\"0\" type=\"checkbox\" data-cookie-group=\"marketing\" name=\"cookies[marketing][]\" value=\"google-ads\" data-borlabs-cookie-switch=\"\"><span class=\"_brlbs-slider\"></span><span class=\"_brlbs-btn-switch-status\" data-active=\"On\" data-inactive=\"Off\" aria-hidden=\"true\"></span></label></td></tr><tr><th>Name</th><td><label>Google Ads</label></td></tr><tr><th>Provider</th><td>Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland</td></tr><tr><th>Purpose</th><td>Cookie by Google used for conversion tracking of Google Ads.</td></tr><tr><th>Privacy Policy</th><td class=\"_brlbs-pp-url\"><a href=\"https://policies.google.com/privacy?hl=en\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://policies.google.com/privacy?hl=en</a></td></tr><tr><th>Cookie Expiry</th><td>12 months</td></tr></tbody></table>\n\n<table><tbody><tr><th>Accept</th><td><label class=\"_brlbs-btn-switch _brlbs-btn-switch--textRight\"><span class=\"sr-only\">Facebook Pixel</span> <input id=\"borlabs-cookie-facebook-pixel\" tabindex=\"0\" type=\"checkbox\" data-cookie-group=\"marketing\" name=\"cookies[marketing][]\" value=\"facebook-pixel\" data-borlabs-cookie-switch=\"\"><span class=\"_brlbs-slider\"></span><span class=\"_brlbs-btn-switch-status\" data-active=\"On\" data-inactive=\"Off\" aria-hidden=\"true\"></span></label></td></tr><tr><th>Name</th><td><label>Facebook Pixel</label></td></tr><tr><th>Provider</th><td>Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Ireland</td></tr><tr><th>Purpose</th><td>Cookie by Facebook used for website analytics, ad targeting, and ad measurement.</td></tr><tr><th>Privacy Policy</th><td class=\"_brlbs-pp-url\"><a href=\"https://www.facebook.com/policies/cookies\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.facebook.com/policies/cookies</a></td></tr><tr><th>Cookie Name</th><td>_fbp,act,c_user,datr,fr,m_pixel_ration,pl,presence,sb,spin,wd,xs</td></tr><tr><th>Cookie Expiry</th><td>Session / 1 Year</td></tr></tbody></table>\n\n<table><tbody><tr><th>Accept</th><td><label class=\"_brlbs-btn-switch _brlbs-btn-switch--textRight\"><span class=\"sr-only\">LinkedIn Insight Tag</span> <input id=\"borlabs-cookie-linkedin-insight-tag\" tabindex=\"0\" type=\"checkbox\" data-cookie-group=\"marketing\" name=\"cookies[marketing][]\" value=\"linkedin-insight-tag\" data-borlabs-cookie-switch=\"\"><span class=\"_brlbs-slider\"></span><span class=\"_brlbs-btn-switch-status\" data-active=\"On\" data-inactive=\"Off\" aria-hidden=\"true\"></span></label></td></tr><tr><th>Name</th><td><label>LinkedIn Insight Tag</label></td></tr><tr><th>Provider</th><td>LinkedIn Ireland Unlimited Company</td></tr><tr><th>Purpose</th><td>Advertising service from LinkedIn for detailed campaign reporting, website visitor information, conversion tracking, retargeting and ad reporting.</td></tr><tr><th>Privacy Policy</th><td class=\"_brlbs-pp-url\"><a href=\"https://www.linkedin.com/legal/privacy-policy\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://www.linkedin.com/legal/privacy-policy</a></td></tr></tbody></table>\n\n<table><tbody><tr><th>Accept</th><td><label class=\"_brlbs-btn-switch _brlbs-btn-switch--textRight\"><span class=\"sr-only\">Bing Ads</span> <input id=\"borlabs-cookie-bing-ads\" tabindex=\"0\" type=\"checkbox\" data-cookie-group=\"marketing\" name=\"cookies[marketing][]\" value=\"bing-ads\" data-borlabs-cookie-switch=\"\"><span class=\"_brlbs-slider\"></span><span class=\"_brlbs-btn-switch-status\" data-active=\"On\" data-inactive=\"Off\" aria-hidden=\"true\"></span></label></td></tr><tr><th>Name</th><td><label>Bing Ads</label></td></tr><tr><th>Provider</th><td>Microsoft Corporation</td></tr><tr><th>Purpose</th><td>Advertising system of the company Microsoft to measure conversions and remarketing events.</td></tr><tr><th>Privacy Policy</th><td class=\"_brlbs-pp-url\"><a href=\"https://privacy.microsoft.com/de-de/privacystatement\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://privacy.microsoft.com/de-de/privacystatement</a></td></tr></tbody></table>\n\n<table><tbody><tr><th>Accept</th><td><label class=\"_brlbs-btn-switch _brlbs-btn-switch--textRight\"><span class=\"sr-only\">Opt-in-Monster</span> <input id=\"borlabs-cookie-opt-in-monster\" tabindex=\"0\" type=\"checkbox\" data-cookie-group=\"marketing\" name=\"cookies[marketing][]\" value=\"opt-in-monster\" data-borlabs-cookie-switch=\"\"><span class=\"_brlbs-slider\"></span><span class=\"_brlbs-btn-switch-status\" data-active=\"On\" data-inactive=\"Off\" aria-hidden=\"true\"></span></label></td></tr><tr><th>Name</th><td><label>Opt-in-Monster</label></td></tr><tr><th>Provider</th><td>Retyp LLC</td></tr><tr><th>Purpose</th><td>Information banner for customers with service or marketing content.</td></tr><tr><th>Privacy Policy</th><td class=\"_brlbs-pp-url\"><a href=\"https://optinmonster.com/privacy/\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://optinmonster.com/privacy/</a></td></tr></tbody></table>\n\nExternal Media (1)\n\nExternal Media \n\nContent from video platforms and social media platforms is blocked by default. If External Media cookies are accepted, access to those contents no longer requires manual consent.\n\n[Show Cookie Information Hide Cookie Information](https://www.salesviewer.com/pricing#)\n\n<table><tbody><tr><th>Accept</th><td><label class=\"_brlbs-btn-switch _brlbs-btn-switch--textRight\"><span class=\"sr-only\">YouTube</span> <input id=\"borlabs-cookie-youtube\" tabindex=\"0\" type=\"checkbox\" data-cookie-group=\"external-media\" name=\"cookies[external-media][]\" value=\"youtube\" data-borlabs-cookie-switch=\"\"><span class=\"_brlbs-slider\"></span><span class=\"_brlbs-btn-switch-status\" data-active=\"On\" data-inactive=\"Off\" aria-hidden=\"true\"></span></label></td></tr><tr><th>Name</th><td><label>YouTube</label></td></tr><tr><th>Provider</th><td>Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland</td></tr><tr><th>Purpose</th><td>Used to unblock YouTube content.</td></tr><tr><th>Privacy Policy</th><td class=\"_brlbs-pp-url\"><a href=\"https://policies.google.com/privacy?hl=en&gl=en\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://policies.google.com/privacy?hl=en&amp;gl=en</a></td></tr><tr><th>Host(s)</th><td>google.com</td></tr><tr><th>Cookie Name</th><td>NID</td></tr><tr><th>Cookie Expiry</th><td>6 Month</td></tr></tbody></table>\n\n[![Image 57: Borlabs Cookie](https://www.salesviewer.com/wp-content/plugins/borlabs-cookie/assets/images/borlabs-cookie-icon-black.svg) powered by Borlabs Cookie](https://borlabs.io/borlabs-cookie/)\n\n[Privacy Policy](https://www.salesviewer.com/en/privacy-policy/) [Imprint](https://www.salesviewer.com/en/imprint/)\n\nPay only for what you really need \u2713 Monthly subscriptions \u2713 No contracts \u2713 100% flexible and scalable \u2713 Free 14 day Trial",
+      "error": null,
+      "pricing_data": {
+        "app_id": "salesviewer",
+        "app_name": "SalesViewer",
+        "app_slug": "salesviewer",
+        "pricing_url": "https://www.salesviewer.com/en/pricing/",
+        "source_url": "https://www.salesviewer.com/en/pricing/",
+        "all_pricing_urls": [
+          "https://www.salesviewer.com/en/pricing/",
+          "https://www.salesviewer.com/de/preise/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "EUR",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is based on monthly subscriptions with an option for annual billing at a 20% discount. Plans are scalable based on the number of company detections.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Pro",
+            "tier_description": "Essential features for small teams and businesses.",
+            "monthly_price": 79.0,
+            "annual_price": 758.4,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Company ID",
+              "Behavior analytics",
+              "Smart categories",
+              "Instant notifications",
+              "Interest spotlight",
+              "Campaigns & keywords",
+              "iOS & Android app",
+              "Export & full data access",
+              "Drag and drop integrations",
+              "Unlimited users",
+              "Individual support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "company detections",
+                  "value": 50
+                },
+                {
+                  "name": "websites",
+                  "value": 1
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Premium",
+            "tier_description": "All premium features to supercharge your sales.",
+            "monthly_price": 269.0,
+            "annual_price": 2584.8,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "All Pro features",
+              "Video (session recording)",
+              "Filters & automations",
+              "Custom reports",
+              "Scoring",
+              "Offline campaigns",
+              "Google Ads integration",
+              "Standalone integrations",
+              "API",
+              "Premium support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "company detections",
+                  "value": 250
+                },
+                {
+                  "name": "websites",
+                  "value": 5
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Individual",
+            "tier_description": "Extended support and individual services for enterprise customers.",
+            "monthly_price": 499.0,
+            "annual_price": 4780.8,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "All Pro + Premium features",
+              "Event tracking",
+              "Google Ads premium integration",
+              "Enterprise support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "company detections",
+                  "value": 750
+                },
+                {
+                  "name": "websites",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "qualified lead",
+            "unit": "per lead",
+            "base_price": 0.51,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:56:55.578435",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\salesviewer\\20250415_095656"
+}

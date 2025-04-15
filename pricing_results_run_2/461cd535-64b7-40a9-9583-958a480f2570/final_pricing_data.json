@@ -1,0 +1,75 @@
+{
+  "app_id": "intaker",
+  "app_name": "Intaker",
+  "app_slug": "intaker",
+  "pricing_url": null,
+  "source_url": "https://www.intaker.com",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "one_time"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing is a one-time fee for unlimited access to all products for a year.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Unlimited Access",
+      "tier_description": "Yearly access to all products with training and onboarding included.",
+      "monthly_price": null,
+      "annual_price": 149.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Build CSS grid\u2013powered layouts visually",
+        "Responsive images",
+        "Design and develop at the same time",
+        "Training and onboarding",
+        "All updates for one year"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "VAT",
+      "fee_amount": null,
+      "fee_description": "The standard VAT rate may be charged, following the law of your country"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:27:34.402015",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "461cd535-64b7-40a9-9583-958a480f2570",
+    "name": "Intaker",
+    "slug": "intaker",
+    "description": "Intaker is a website chat, two-way texting, follow-up automation, client intake and lead management tool built for forward looking law firms",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/4956b10597b4367858c56f0ff3093cf1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Dashboards"
+    ],
+    "category_slugs": [
+      "dashboards"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 7
+  }
+}

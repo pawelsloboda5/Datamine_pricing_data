@@ -1,0 +1,108 @@
+{
+  "app_id": "recruiterflow",
+  "app_name": "Recruiterflow",
+  "app_slug": "recruiterflow",
+  "pricing_url": null,
+  "source_url": "https://recruiterflow.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual pricing discounts are available, and plans can be mixed between annual and monthly licenses.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Base",
+      "tier_description": "Best suited for emerging agencies beginning their recruitment operations journey.",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Jobs",
+        "Unlimited Candidates and Contacts",
+        "Branded Careers Page",
+        "Click to Call and Texting",
+        "Reports"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Great for agencies aiming to streamline and scale their recruitment operations.",
+      "monthly_price": 109.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Base Plan Features",
+        "Sourcing using Chrome Extension",
+        "Access Control",
+        "Custom Activity",
+        "Campaign Templates",
+        "Multi-Channel Email and SMS Campaigns",
+        "API Access",
+        "RF GPT"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Created for agencies requiring a complete and sophisticated recruitment operations solution.",
+      "monthly_price": 129.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Pro Plan Features",
+        "Recruitment Automation",
+        "Sales Automation",
+        "Bulk Import Using Chrome Extension",
+        "Auto Disqualification",
+        "Automation Templates",
+        "AI-powered Candidate Matching",
+        "Find Similar Candidates Using AI",
+        "Custom User Teams"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Email Lookups",
+      "unit": "per 100 lookups",
+      "base_price": 20.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T02:38:12.184256",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "942f0b5e-382f-405f-9a13-754a807eba3b",
+    "name": "Recruiterflow",
+    "slug": "recruiterflow",
+    "description": "Recruiterflow is a modern recruiting software that helps ambitious recruiting and staffing businesses to be productive.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/6094878a90d58317ae5f1a2caee60e6c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 9
+  }
+}

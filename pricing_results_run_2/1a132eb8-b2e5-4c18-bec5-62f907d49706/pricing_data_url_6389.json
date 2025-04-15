@@ -1,0 +1,137 @@
+{
+  "app_id": "crisp",
+  "app_name": "Crisp",
+  "app_slug": "crisp",
+  "pricing_url": "https://crisp.chat/en/pricing/",
+  "source_url": "https://crisp.chat/en/pricing/",
+  "all_pricing_urls": [
+    "https://crisp.chat/en/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Crisp offers a flat pricing model per workspace, not per agent, with additional features and seats available for extra costs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Entry-level plan for small teams.",
+      "monthly_price": 25.0,
+      "annual_price": 240.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "2 seats included",
+        "100 user profiles",
+        "Chat widget",
+        "Shared inbox",
+        "Contact form",
+        "Mobile applications",
+        "Unlimited conversations",
+        "E-Commerce integrations"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced plan for growing teams.",
+      "monthly_price": 95.0,
+      "annual_price": 900.0,
+      "annual_discount_percentage": 21.0,
+      "setup_fee": null,
+      "features": [
+        "10 seats included",
+        "50,000 user profiles",
+        "Omnichannel AI Chatbot",
+        "Internal data AI training",
+        "Writing tools",
+        "Email & chat campaigns",
+        "Knowledge base",
+        "Omnichannel inbox",
+        "Phone call integration",
+        "Real-time message translation",
+        "Co-browsing & screen sharing",
+        "Routing rules & Assignment",
+        "Analytics",
+        "No-code workflow builder",
+        "CRM integrations"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for large-scale companies.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Dedicated onboarding",
+        "Personalized SLA",
+        "Enhanced rate limits",
+        "Custom features",
+        "Team training"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Additional seats",
+      "fee_amount": 10.0,
+      "fee_description": "Cost per additional agent per month."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:25:25.037306",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1a132eb8-b2e5-4c18-bec5-62f907d49706",
+    "name": "Crisp",
+    "slug": "crisp",
+    "description": "Crisp is a messaging app that unifies your user communication from Crisp Live Chat, Email, Messenger, Twitter, and SMS into one platform",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/bf14f27848cdab2b8bf0f91573e53a06.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 7
+  }
+}

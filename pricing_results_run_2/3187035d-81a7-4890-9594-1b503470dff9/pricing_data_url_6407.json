@@ -1,0 +1,46 @@
+{
+  "app_id": "moreapp",
+  "app_name": "MoreApp",
+  "app_slug": "moreapp",
+  "pricing_url": null,
+  "source_url": "https://moreapp.com/en/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The service offers a 14-day free trial without requiring a credit card.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:03:16.041421",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "3187035d-81a7-4890-9594-1b503470dff9",
+    "name": "MoreApp",
+    "slug": "moreapp",
+    "description": "MoreApp is a tool to automate work processes. Save time with Digital Work Orders, Inspections, Reports, and more!",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/4a572e59e58545f667e425ac466971ea.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 1
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "app_id": "transistor_fm",
+  "app_name": "Transistor.fm",
+  "app_slug": "transistor-fm",
+  "pricing_url": "https://transistor.fm/pricing/",
+  "source_url": "https://transistor.fm/pricing/",
+  "all_pricing_urls": [
+    "https://transistor.fm/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a discount equivalent to two months free.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": null,
+      "monthly_price": 19.0,
+      "annual_price": 190.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited podcasts",
+        "Unlimited Team members/collaborators",
+        "50 Private podcast subscribers",
+        "20K Monthly downloads",
+        "Live customer support",
+        "Advanced analytics",
+        "Built-in podcast website",
+        "Podcast network website"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Private podcast subscribers",
+            "value": 50
+          },
+          {
+            "name": "Monthly downloads",
+            "value": "20K"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": null,
+      "monthly_price": 49.0,
+      "annual_price": 490.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited podcasts",
+        "Unlimited Team members/collaborators",
+        "500 Private podcast subscribers",
+        "100K Monthly downloads",
+        "Live customer support",
+        "Advanced analytics",
+        "Built-in podcast website",
+        "Podcast network website",
+        "Dynamic ads (pre-roll, mid-roll, post-roll)",
+        "Dynamic show notes",
+        "Auto-post to YouTube"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Private podcast subscribers",
+            "value": 500
+          },
+          {
+            "name": "Monthly downloads",
+            "value": "100K"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": null,
+      "monthly_price": 99.0,
+      "annual_price": 990.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited podcasts",
+        "Unlimited Team members/collaborators",
+        "3K Private podcast subscribers",
+        "250K Monthly downloads",
+        "Live customer support",
+        "Advanced analytics",
+        "Built-in podcast website",
+        "Podcast network website",
+        "Dynamic ads (pre-roll, mid-roll, post-roll)",
+        "Dynamic show notes",
+        "Auto-post to YouTube",
+        "Remove branding"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Private podcast subscribers",
+            "value": 3000
+          },
+          {
+            "name": "Monthly downloads",
+            "value": "250K"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plans for high-volume users.",
+      "monthly_price": 199.0,
+      "annual_price": 1990.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom download limits",
+        "Custom private podcast subscribers",
+        "Dedicated support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly downloads",
+            "value": "custom"
+          },
+          {
+            "name": "Private podcast subscribers",
+            "value": "custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Transcription",
+      "unit": "per month",
+      "base_price": 5.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 5.0,
+          "price": 5.0
+        },
+        {
+          "min": 6.0,
+          "max": 20.0,
+          "price": 20.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:10:02.285980",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "33e193e2-ebbb-4b3c-9d94-dc5568711647",
+    "name": "Transistor.fm",
+    "slug": "transistorfm",
+    "description": "Transistor provides podcast hosting and analytics for thousands of organizations, brands, and creatives around the world.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/c945300c424cad59b484e2e5cc6bdbbb.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Video & Audio"
+    ],
+    "category_slugs": [
+      "video"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 3
+  }
+}

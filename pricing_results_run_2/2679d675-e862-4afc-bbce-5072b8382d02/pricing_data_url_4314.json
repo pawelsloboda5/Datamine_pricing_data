@@ -1,0 +1,47 @@
+{
+  "app_id": "zoho_books",
+  "app_name": "Zoho Books",
+  "app_slug": "zoho-books",
+  "pricing_url": null,
+  "source_url": "https://www.zoho.com/books/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The provided content does not include specific pricing details for Zoho Books.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:24:13.229239",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "2679d675-e862-4afc-bbce-5072b8382d02",
+    "name": "Zoho Books",
+    "slug": "zoho-books",
+    "description": "Zoho Books is cloud-based accounting software in which you can record, audit and analyze all financial transactions easily. With secure data storage, easy navigation and customizable features, Zoho Books provide a head start in accounting for small businesses.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/652f0a797d166a02037d84f688457512_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting",
+      "Zoho"
+    ],
+    "category_slugs": [
+      "accounting",
+      "zoho"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 4
+  }
+}

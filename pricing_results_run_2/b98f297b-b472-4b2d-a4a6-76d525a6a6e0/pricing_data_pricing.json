@@ -1,0 +1,199 @@
+{
+  "app_id": "ragic",
+  "app_name": "Ragic",
+  "app_slug": "ragic",
+  "pricing_url": "https://www.ragic.com/intl/en/pricing",
+  "source_url": "https://www.ragic.com/intl/en/pricing",
+  "all_pricing_urls": [
+    "https://www.ragic.com/intl/en/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Ragic offers a free tier with limited features and a 30-day free trial for all plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free all-in-one software for your business.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "3 custom sheets with 1000 records each",
+        "Unlimited templates with unlimited records",
+        "Unlimited users"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Records per custom sheet",
+            "value": 1000
+          },
+          {
+            "name": "Maximum Amounts of Emails Sent per day",
+            "value": "100/day"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Lite",
+      "tier_description": "Tons of records, light customization.",
+      "monthly_price": 5.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited records",
+        "5 custom sheets",
+        "Unlimited templates"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10GB/user",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Maximum Amounts of Emails Sent per day",
+            "value": "250 x Internal Users/day"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Make every employee a data expert.",
+      "monthly_price": 19.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited records",
+        "Unlimited custom sheets",
+        "Unlimited templates",
+        "On-premises option"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "30GB/user",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Maximum Amounts of Emails Sent per day",
+            "value": "1000 x Internal Users/day"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Concurrent Users",
+      "tier_description": "For big companies with lots of users.",
+      "monthly_price": 499.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited records",
+        "Unlimited custom sheets",
+        "Unlimited templates",
+        "On-premises option",
+        "Unlimited users"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB/concurrent user",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Maximum Amounts of Emails Sent per day",
+            "value": "1000 x Concurrent users/day"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Dedicated, managed VM, SSO, SLA.",
+      "monthly_price": 550.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited records",
+        "Unlimited custom sheets",
+        "Unlimited templates",
+        "On-premises option",
+        "Includes 10 users",
+        "Concurrent user option",
+        "Uptime SLAs",
+        "Dedicated managed VM"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "100GB/user",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Maximum Amounts of Emails Sent per day",
+            "value": "1000 x Internal Users/day"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "One month free with a one-year subscription",
+      "offer_description": "Receive one month free when subscribing annually.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:08:00.148152",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b98f297b-b472-4b2d-a4a6-76d525a6a6e0",
+    "name": "Ragic",
+    "slug": "ragic",
+    "description": "Ragic is an online database builder for creating real-world business applications using a simple Excel-like interface.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/abb62f74f78d39a7596e986655b1f8b0_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "App Builder"
+    ],
+    "category_slugs": [
+      "app-builder"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 1
+  }
+}

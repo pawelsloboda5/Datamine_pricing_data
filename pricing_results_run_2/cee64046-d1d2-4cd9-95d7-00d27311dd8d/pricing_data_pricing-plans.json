@@ -1,0 +1,43 @@
+{
+  "app_id": "oncehub",
+  "app_name": "OnceHub",
+  "app_slug": "oncehub",
+  "pricing_url": null,
+  "source_url": "https://www.oncehub.com/pricing-plans",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not accessible, and no specific pricing information could be extracted.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:00:06.911258",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "cee64046-d1d2-4cd9-95d7-00d27311dd8d",
+    "name": "OnceHub",
+    "slug": "oncehub",
+    "description": "Capture, qualify, and engage with inbound leads using ScheduleOnce, ChatOnce, FormOnce and SubmitOnce.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/72444733a3781782829e900c39d208ca.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 13
+  }
+}

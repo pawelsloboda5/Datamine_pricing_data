@@ -1,0 +1,144 @@
+{
+  "app_id": "livechat",
+  "app_name": "LiveChat",
+  "app_slug": "livechat",
+  "pricing_url": "https://www.livechat.com/pricing/",
+  "source_url": "https://www.livechat.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.livechat.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user and varies based on billing frequency (monthly or annually).",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Small business",
+      "monthly_price": 24.0,
+      "annual_price": 20.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Basic chat features",
+        "Predefined surveys"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Full-time support team",
+      "monthly_price": 49.0,
+      "annual_price": 41.0,
+      "annual_discount_percentage": 16.33,
+      "setup_fee": null,
+      "features": [
+        "Everything in Starter",
+        "Advanced chat routing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Customer service department",
+      "monthly_price": 69.0,
+      "annual_price": 59.0,
+      "annual_discount_percentage": 14.49,
+      "setup_fee": null,
+      "features": [
+        "Everything in Team",
+        "Custom reporting"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Global company, global reach",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Business",
+        "Dedicated account manager"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "ChatBot Add-on",
+      "fee_amount": 52.0,
+      "fee_description": "Optional AI chatbot feature for routine tasks."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T10:16:49.469563",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d7fe5e08-a656-4c78-b58a-e07993bc6656",
+    "name": "LiveChat",
+    "slug": "livechat",
+    "description": "LiveChat is the faster way to contact your customers. It is a web-based chat tool that lets you chat with your website visitors.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/f124a26a98b5f32270259618f0e6d9f4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 4
+  }
+}

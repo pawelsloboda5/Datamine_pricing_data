@@ -1,0 +1,151 @@
+{
+  "app_id": "google_groups",
+  "app_name": "Google Groups",
+  "app_slug": "google-groups",
+  "pricing_url": "https://workspace.google.com/pricing.html",
+  "source_url": "https://workspace.google.com/pricing.html",
+  "all_pricing_urls": [
+    "https://workspace.google.com/pricing.html"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on Google Workspace plans, which include Google Groups as part of their suite.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Business Starter",
+      "tier_description": "Basic plan for small teams.",
+      "monthly_price": 8.4,
+      "annual_price": 84.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "30 GB pooled storage per user",
+        "Secure custom business email",
+        "Gemini AI assistant in Gmail",
+        "100 participant video meetings",
+        "Security and management controls",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 300,
+        "storage": "30GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Standard",
+      "tier_description": "Enhanced plan with more storage and features.",
+      "monthly_price": 16.8,
+      "annual_price": 168.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "2 TB pooled storage per user",
+        "Secure custom business email",
+        "Gemini AI assistant in Gmail, Docs, Meet, and more",
+        "150 participant video meetings with recording",
+        "eSignature with Docs and PDFs",
+        "Appointment booking pages",
+        "Collaborative video creator and editor",
+        "Email layouts and mail merge",
+        "Security and management controls",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 300,
+        "storage": "2TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Plus",
+      "tier_description": "Advanced plan with additional security and management features.",
+      "monthly_price": 26.4,
+      "annual_price": 264.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "5 TB pooled storage per user",
+        "Secure custom business email with eDiscovery and retention",
+        "Gemini AI assistant in Gmail, Docs, Meet, and more",
+        "500 participant video meetings with recording and attendance tracking",
+        "Enhanced security and management controls",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 300,
+        "storage": "5TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 TB pooled storage per user with ability to request more",
+        "Secure custom business email with eDiscovery and retention",
+        "Gemini AI assistant in Gmail, Docs, Meet, and more",
+        "1000 participant video meetings with recording and live streaming",
+        "Advanced security, management, and compliance controls",
+        "Enhanced Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "5TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:07:42.224787",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "47c4d91f-9c93-4087-9648-f1cc86bc24c5",
+    "name": "Google Groups",
+    "slug": "google-groups",
+    "description": "Google Groups allows you to create and participate in online forums and email-based groups with a rich experience for community conversations.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/55bc0a4b5377943d5f277325884f7968.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Google",
+      "Team Collaboration"
+    ],
+    "category_slugs": [
+      "google",
+      "team-collaboration"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

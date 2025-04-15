@@ -1,0 +1,93 @@
+{
+  "app_id": "ecologi",
+  "app_name": "Ecologi",
+  "app_slug": "ecologi",
+  "pricing_url": "https://ecologi.com/plan",
+  "source_url": "https://ecologi.com/plan",
+  "all_pricing_urls": [
+    "https://ecologi.com/plan"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "GBP",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The plans focus on environmental impact through tree planting and carbon offsetting.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Ultimate",
+      "tier_description": "Double your positive impact for the planet with this plan.",
+      "monthly_price": 18.8,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "8 trees funded every month",
+        "16 tonnes CO2 avoided every year (~2x footprint)"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Essential",
+      "tier_description": "The perfect plan to help you give back to the planet.",
+      "monthly_price": 9.4,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "4 trees funded every month",
+        "8 tonnes CO2 avoided every year (~1x footprint)"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Take your first steps into climate action with this plan.",
+      "monthly_price": 4.7,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2 trees funded every month",
+        "2.64 tonnes CO2 avoided every year (~1/3x footprint)"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Plant extra trees in the UK",
+      "fee_amount": 5.0,
+      "fee_description": "Support a tree planting project in the UK."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:40:10.660427",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0d81972a-90e8-42e8-8678-c8ea45971eed",
+    "name": "Ecologi",
+    "slug": "ecologi",
+    "description": "Give back to the planet by planting trees.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/b4f635f2759138cb860a4b9675f6f354.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fundraising"
+    ],
+    "category_slugs": [
+      "fundraising"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

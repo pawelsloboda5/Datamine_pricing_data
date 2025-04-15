@@ -1,0 +1,157 @@
+{
+  "app_name": "thanks.io",
+  "app_slug": "thanksio",
+  "search_term": "Find the official pricing page URL for thanks.io (thanksio.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744693026.2321084,
+  "response_text": [
+    "The official pricing page URL for Thanks.io is: [https://info.thanks.io/pricing](https://info.thanks.io/pricing)\u30103:1\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Thanks.io Pricing",
+      "url": "https://info.thanks.io/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://info.thanks.io/pricing",
+      "is_accessible": true,
+      "content": "### Domestic Pricing\n\nAll prices includes printing and first class postage.\n\n_Prices with \\* are for \"standard\" mail which is a bit slower than first class._\n\n|  | $0/Mo, No # Limits Pay As You Go | $49/Mo, No # Limits Business | $499/Mo, No # Limits Enterprise |\n| --- | --- | --- | --- |\n| 4x6 Postcard | $1.13 | $.73 / $.69\\* | $.53 / $.49\\* |\n| 6x9 Postcard | $1.56 | $.91 / $.87\\* | $.61 / $.57\\* |\n| 6x11 Postcard | $1.78 | $1.13 / $1.09\\* | $.81 / $.77\\* |\n| Windowed Letter | $2.17 | $1.17 / $.97\\* | $.85 / $.65\\* |\n| Windowless Letter | $2.47 | $1.47 / $1.27\\*\u00a0 | $1.05/ $.95\\* |\n| Additional Letter Pages | $.20 | $.20\u00a0 | $.20\u00a0 |\n| Notecard | $2.95 | $1.95 / $1.75\\* | $1.55 | $1.35\\* |\n| Giftcard | $2.95 + Gift Amount | $1.95 + Gift Amount\u00a0 | $1.55 + Gift Amount |\n| Better Pricing? |  | Up To 50% Off\u00a0 | Wholesale |\n| Automation Campaigns |  |  |  |\n| QR Code Tracking |  |  |  |\n| Dynamic Personalization |  |  |  |\n| Remove Thanks.io Branding |  |  |  |\n| Website Retargeting |  |  |  |\n| API Access |  |  |  |\n| User Sub-Accounts |  |  |  |\n| Done For You, Concierge Implementation Services |  |  |  |\n|  |\n\nInternational Pricing\n---------------------\n\nIncludes Printing & 1st Class Postage\n\nScroll up for domestic pricing.\n\n|  | Pay As You Go | Business | Enterprise |\n| --- | --- | --- | --- |\n| 4x6 Postcard | $2.28 | $1.88 | $1.73 |\n| 6x11 Postcard | $2.98 | $2.33 | $1.99 |\n| Windowed Letter | $3.10 | $2.29 | $2.03 |\n| Windowless Letter | $3.64 | $2.64 | $2.23 |\n| Notecards | $4.26 | $3.26 | $2.73 |\n\nData Services\n-------------\n\n|  | FREE | (Most Popular) Business | Enterprise |\n| --- | --- | --- | --- |\n| Email to Address Append | $.07 | $.07 | $.07 |\n| Ip to Address Lookup | $.20 | $.20 | $.20 |\n| Address To Email/Phone Append | $.20 | $.20 | $.20 |\n| Radius Address Search | $.05/address | $.05/address | $.05/address |",
+      "error": null,
+      "pricing_data": {
+        "app_id": "thanks_io",
+        "app_name": "Thanks.io",
+        "app_slug": "thanks-io",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes printing and postage costs. Additional features are available at higher tiers.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Pay As You Go",
+            "tier_description": "No monthly fee, pay per usage.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Printing and postage included"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "Monthly subscription with discounted rates.",
+            "monthly_price": 49.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Discounted rates for mail services",
+              "Better pricing up to 50% off"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Monthly subscription with wholesale rates.",
+            "monthly_price": 499.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Wholesale pricing",
+              "Additional enterprise features"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Domestic Mail Services",
+            "unit": "per item",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": "unlimited",
+                "price": 1.13
+              }
+            ]
+          },
+          {
+            "metric_name": "International Mail Services",
+            "unit": "per item",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": "unlimited",
+                "price": 2.28
+              }
+            ]
+          },
+          {
+            "metric_name": "Data Services",
+            "unit": "per lookup",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": "unlimited",
+                "price": 0.07
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Additional Letter Pages",
+            "fee_amount": 0.2,
+            "fee_description": "Cost per additional page for letters."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T00:57:17.738277",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\thanksio\\20250415_005718"
+}

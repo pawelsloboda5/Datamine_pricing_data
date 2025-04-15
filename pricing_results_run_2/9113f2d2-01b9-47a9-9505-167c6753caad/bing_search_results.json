@@ -1,0 +1,280 @@
+{
+  "app_name": "Flock",
+  "app_slug": "flock",
+  "search_term": "Find the official pricing page URL for Flock (flock.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744719436.3383005,
+  "response_text": [
+    "The official pricing page for Flock is: [https://www.flock.com/pricing/](https://www.flock.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Flock Pricing \u2013 Simple Plans for Everyone",
+      "url": "https://www.flock.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.flock.com/pricing/",
+      "is_accessible": true,
+      "content": "Start for free, buy it when you \ud83d\udc9a it\n\nBilled Monthly Billed Annually\n\n### Starter\n\nFor teams with 1-20 members\n\nFree Free\n\n*   Unlimited 1-1 & Group messages\n*   10,000 Searchable messages\n*   10 Public channels\n*   5 GB total per team\n*   Single team admin\n*   1-1 Video calls\n\n### Enterprise\n\nFor organizations with 100+ members\n\nGet a quote Get a quote\n\n*   Organizational mapping\n*   Custom on-boarding\n*   Integration with internal LMS, HRMS and other systems\n*   Unlimited 1-1 & Group messages\n*   Unlimited Searchable messages\n*   Unlimited Private & Public channels\n*   20 GB per team member\n*   Active Directory Sync\n*   Multiple team admins\n*   Group Video calls\n*   Screen Sharing\n*   Single Sign-On\n*   24\\*7 Dedicated Support\n\n### PRO\n\nIdeal for teams with 20-100 members\n\n$6 /user/month $4.50 /user/month\n\n*   Unlimited 1-1 & Group messages\n*   Unlimited Searchable messages\n*   Unlimited Private & Public channels\n*   10 GB per team member\n*   Multiple team admins\n*   Group Video calls\n*   Screen Sharing\n*   24\\*7 Priority Support\n\n### Features\n\n| \u00a0 | STARTER PLAN | PRO PLAN | ENTERPRISE |\n| --- | --- | --- | --- |\n| Messages |\n| Direct messages & Channels | Unlimited | Unlimited | Unlimited |\n| Search for messages | 10k messages | Unlimited | Unlimited |\n| Channels |\n| Public Channels | 10 | Unlimited | Unlimited |\n| Private Channels |  | Unlimited | Unlimited |\n| Smart Channels (with custom fields) |  |  | ![Image 1: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Auto-join Channels | 1 channel | 1 channel | Unlimited |\n| Announcement Channels | 1 channel | 1 channel | Unlimited |\n\n|  |  |  |  |\n| --- | --- | --- | --- |\n|  |\n| Calls |\n| Audio conferencing (outside India) |  | ![Image 2: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 3: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| 1-1 Video calls | ![Image 4: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 5: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 6: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Group video calls |  | Up to 20 participants | Up to 20 participants |\n| Screen sharing |  | ![Image 7: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 8: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Apps and integrations |\n| ToDos - Project management |  | Unlimited | Unlimited |\n| Polls | Unlimited | Unlimited | Unlimited |\n| Reminders | Unlimited | Unlimited | Unlimited |\n| Notes | Unlimited | Unlimited | Unlimited |\n| Third-party apps & integrations | Unlimited | Unlimited | Unlimited |\n| Admin controls |\n| Team admins | 1 | Unlimited | Unlimited |\n| Approved domains\nAll users with email on these domains can sign up & join your Flock team without approval\n\n | 1 | Unlimited | Unlimited |\n| Control who invite members |  | ![Image 9: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 10: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Can join team | 1 domain | Multiple domains | Multiple domains |\n| Auto join team | 1 domain | Multiple domains | Multiple domains |\n| Block domains\n\nRestrict users that do not belong to the 'approved domains' list from joining your team\n\n |  | ![Image 11: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 12: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Custom Fields & User Groups |  |  | ![Image 13: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Manage who can create Channels |  | ![Image 14: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 15: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Manage file sharing permissions |  | ![Image 16: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 17: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Manage Channels\n\nAdmins can manage all the channels that are created in the team.\n\n |  |  | ![Image 18: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Compliance export of all messages |  |  | ![Image 19: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Active Directory sync with Microsoft Azure |  |  | ![Image 20: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Real-time Active Directory sync with OneLogin, Okta and Ping |  |  | ![Image 21: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Security |\n| OAuth with Google | ![Image 22: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 23: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 24: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Google Auth | ![Image 25: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 26: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 27: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| SSO |  |  | ![Image 28: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| External Access |\n| Multi-channel & multi-contact guests\n\nFree for 90 days from date of invitation. After 90 days, you will be charged for guests at the same rate as other team members.\n\n |  | ![Image 29: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 30: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Process Automation |\n| Process Templates\n\nA process template is a sequence of steps/tasks. e.g., A reimbursement process template may have 3 tasks - claim submission, manager approval, and finance processing.\n\n | 3 | Unlimited | Unlimited |\n| Process Runs\n\nA process run is when you use a process template. e.g., If 2 team members submit reimbursement claims then 2 process runs are counted for the template.\n\n | 5 Runs per Template | Unlimited | Unlimited |\n| Other Features |\n| File Storage | 5 GB total | 10 GB per team member | 20 GB per team member |\n| Mailcast | Unlimited | Unlimited | Unlimited |\n| support |\n| Support | Normal | Priority | Dedicated |\n| Uptime |  |  | 99.9% uptime |\n|  | Get Started | Get PRO | Chat Now |\n\n### Don\u2019t believe us? See for yourself.\n\nMove the slider to select your team size and find out how much you can save with Flock.\n\n1user\n\n100+users\n\nYour business can save $792.00 /month with Flock!\n\n![Image 31: Flock Icon](https://www.flock.com/hubfs/Flock_April2019/images/flock-thumbnail-logo-ba902436-1.png) $445.50/month $4.50/mo x 99 users\n\n![Image 32: Slack Icon](https://www.flock.com/hubfs/Flock%20Website%20Media/slack-img.png) $1237.50/month $12.50/mo x 99 users\n\nWant to compare with other tools?\n\nChat with us\n\n##### Frequently Asked Questions\n\nHow do I pay for the PRO plan?\n\nYou can pay with a credit card or via net banking (if you\u2019re in India). We will renew your subscription automatically at the end of every billing cycle.\n\nWhat is the Guest policy for PRO and Enterprise plans?\n\nYou can invite multiple guests for Free on Flock for 90 days (from the date of the invitation). After 90 days, you will be charged for guests at the same rate as regular team members.\n\nCan I cancel my PRO plan subscription at any time?\n\nYes, you can cancel your PRO plan subscription at any time. But, we\u2019ll be sad to see you go!\n\nWhat is the billing cycle?\n\nFlock offers you the option of monthly and yearly billing. In the yearly billing option, you pay as little as $4.50 per licensed user.\n\nDo you offer special pricing for non-profits?\n\nFlock proudly supports thousands of non-profit organizations around the world with special pricing based on geography and area of work. Start a live chat to get a quote.\n\n### We take Security Seriously\n\n![Image 33: Soc Image](https://pages.flock.com/hubfs/Flock_April2019/images/soc2-03d8f833.png)\n\n##### SOC 2 Compliant\n\nFlock is now SOC 2 compliant. This means Flock follows very strict, best-in-class, audited processes to ensure the safety and integrity of user information.\n\n*   Data encryption using TLS 1.2\n*   Hosted in the cloud by Amazon Web Services (AWS)\n*   Privacy of messages and profile data\n*   Strict controls over data access and user rights\n\nRead about [Flock\u2019s security practices](https://www.flock.com/security?hsLang=en)\n\nRead about [Flock\u2019s security practices](https://www.flock.com/security?hsLang=en)\n\n![Image 34: Soc Image](https://pages.flock.com/hubfs/Flock_April2019/images/soc2-03d8f833.png)\n\n##### SOC 2 Compliant\n\nFlock is now SOC 2 compliant. This means Flock follows very strict, best-in-class, audited processes to ensure the safety and integrity of user information.\n\nEffortless team messaging that just works.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "flock",
+        "app_name": "Flock",
+        "app_slug": "flock",
+        "pricing_url": "https://www.flock.com/pricing",
+        "source_url": "https://www.flock.com/pricing",
+        "all_pricing_urls": [
+          "https://www.flock.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 90,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Flock offers a free tier and subscription-based pricing with discounts for annual billing. Enterprise pricing is quote-based.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Starter",
+            "tier_description": "For teams with 1-20 members",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited 1-1 & Group messages",
+              "10,000 Searchable messages",
+              "10 Public channels",
+              "5 GB total per team",
+              "Single team admin",
+              "1-1 Video calls"
+            ],
+            "limits": {
+              "users": 20,
+              "storage": "5GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "PRO",
+            "tier_description": "Ideal for teams with 20-100 members",
+            "monthly_price": 6.0,
+            "annual_price": 4.5,
+            "annual_discount_percentage": 25.0,
+            "setup_fee": null,
+            "features": [
+              "Unlimited 1-1 & Group messages",
+              "Unlimited Searchable messages",
+              "Unlimited Private & Public channels",
+              "10 GB per team member",
+              "Multiple team admins",
+              "Group Video calls",
+              "Screen Sharing",
+              "24/7 Priority Support"
+            ],
+            "limits": {
+              "users": 100,
+              "storage": "10GB per team member",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "For organizations with 100+ members",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Organizational mapping",
+              "Custom on-boarding",
+              "Integration with internal LMS, HRMS and other systems",
+              "Unlimited 1-1 & Group messages",
+              "Unlimited Searchable messages",
+              "Unlimited Private & Public channels",
+              "20 GB per team member",
+              "Active Directory Sync",
+              "Multiple team admins",
+              "Group Video calls",
+              "Screen Sharing",
+              "Single Sign-On",
+              "24/7 Dedicated Support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "20GB per team member",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Non-profit Discount",
+            "offer_description": "Special pricing for non-profits based on geography and area of work.",
+            "discount_percentage": null,
+            "offer_url": "https://www.flock.com/pricing",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": [
+          {
+            "fee_name": "Guest User Fee",
+            "fee_amount": null,
+            "fee_description": "Guests are free for 90 days, then charged at the same rate as regular team members."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T08:17:27.447347",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.flock.com/pricing",
+      "is_accessible": true,
+      "content": "Start for free, buy it when you \ud83d\udc9a it\n\nBilled Monthly Billed Annually\n\n### Starter\n\nFor teams with 1-20 members\n\nFree Free\n\n*   Unlimited 1-1 & Group messages\n*   10,000 Searchable messages\n*   10 Public channels\n*   5 GB total per team\n*   Single team admin\n*   1-1 Video calls\n\n### Enterprise\n\nFor organizations with 100+ members\n\nGet a quote Get a quote\n\n*   Organizational mapping\n*   Custom on-boarding\n*   Integration with internal LMS, HRMS and other systems\n*   Unlimited 1-1 & Group messages\n*   Unlimited Searchable messages\n*   Unlimited Private & Public channels\n*   20 GB per team member\n*   Active Directory Sync\n*   Multiple team admins\n*   Group Video calls\n*   Screen Sharing\n*   Single Sign-On\n*   24\\*7 Dedicated Support\n\n### PRO\n\nIdeal for teams with 20-100 members\n\n$6 /user/month $4.50 /user/month\n\n*   Unlimited 1-1 & Group messages\n*   Unlimited Searchable messages\n*   Unlimited Private & Public channels\n*   10 GB per team member\n*   Multiple team admins\n*   Group Video calls\n*   Screen Sharing\n*   24\\*7 Priority Support\n\n### Features\n\n| \u00a0 | STARTER PLAN | PRO PLAN | ENTERPRISE |\n| --- | --- | --- | --- |\n| Messages |\n| Direct messages & Channels | Unlimited | Unlimited | Unlimited |\n| Search for messages | 10k messages | Unlimited | Unlimited |\n| Channels |\n| Public Channels | 10 | Unlimited | Unlimited |\n| Private Channels |  | Unlimited | Unlimited |\n| Smart Channels (with custom fields) |  |  | ![Image 1: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Auto-join Channels | 1 channel | 1 channel | Unlimited |\n| Announcement Channels | 1 channel | 1 channel | Unlimited |\n\n|  |  |  |  |\n| --- | --- | --- | --- |\n|  |\n| Calls |\n| Audio conferencing (outside India) |  | ![Image 2: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 3: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| 1-1 Video calls | ![Image 4: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 5: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 6: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Group video calls |  | Up to 20 participants | Up to 20 participants |\n| Screen sharing |  | ![Image 7: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 8: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Apps and integrations |\n| ToDos - Project management |  | Unlimited | Unlimited |\n| Polls | Unlimited | Unlimited | Unlimited |\n| Reminders | Unlimited | Unlimited | Unlimited |\n| Notes | Unlimited | Unlimited | Unlimited |\n| Third-party apps & integrations | Unlimited | Unlimited | Unlimited |\n| Admin controls |\n| Team admins | 1 | Unlimited | Unlimited |\n| Approved domains\nAll users with email on these domains can sign up & join your Flock team without approval\n\n | 1 | Unlimited | Unlimited |\n| Control who invite members |  | ![Image 9: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 10: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Can join team | 1 domain | Multiple domains | Multiple domains |\n| Auto join team | 1 domain | Multiple domains | Multiple domains |\n| Block domains\n\nRestrict users that do not belong to the 'approved domains' list from joining your team\n\n |  | ![Image 11: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 12: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Custom Fields & User Groups |  |  | ![Image 13: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Manage who can create Channels |  | ![Image 14: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 15: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Manage file sharing permissions |  | ![Image 16: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 17: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Manage Channels\n\nAdmins can manage all the channels that are created in the team.\n\n |  |  | ![Image 18: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Compliance export of all messages |  |  | ![Image 19: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Active Directory sync with Microsoft Azure |  |  | ![Image 20: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Real-time Active Directory sync with OneLogin, Okta and Ping |  |  | ![Image 21: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Security |\n| OAuth with Google | ![Image 22: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 23: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 24: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Google Auth | ![Image 25: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 26: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 27: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| SSO |  |  | ![Image 28: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| External Access |\n| Multi-channel & multi-contact guests\n\nFree for 90 days from date of invitation. After 90 days, you will be charged for guests at the same rate as other team members.\n\n |  | ![Image 29: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) | ![Image 30: Right Tick image](https://www.flock.com/hubfs/Flock_April2019/images/right-tick-5447a8a0.png) |\n| Process Automation |\n| Process Templates\n\nA process template is a sequence of steps/tasks. e.g., A reimbursement process template may have 3 tasks - claim submission, manager approval, and finance processing.\n\n | 3 | Unlimited | Unlimited |\n| Process Runs\n\nA process run is when you use a process template. e.g., If 2 team members submit reimbursement claims then 2 process runs are counted for the template.\n\n | 5 Runs per Template | Unlimited | Unlimited |\n| Other Features |\n| File Storage | 5 GB total | 10 GB per team member | 20 GB per team member |\n| Mailcast | Unlimited | Unlimited | Unlimited |\n| support |\n| Support | Normal | Priority | Dedicated |\n| Uptime |  |  | 99.9% uptime |\n|  | Get Started | Get PRO | Chat Now |\n\n### Don\u2019t believe us? See for yourself.\n\nMove the slider to select your team size and find out how much you can save with Flock.\n\n1user\n\n100+users\n\nYour business can save $792.00 /month with Flock!\n\n![Image 31: Flock Icon](https://www.flock.com/hubfs/Flock_April2019/images/flock-thumbnail-logo-ba902436-1.png) $445.50/month $4.50/mo x 99 users\n\n![Image 32: Slack Icon](https://www.flock.com/hubfs/Flock%20Website%20Media/slack-img.png) $1237.50/month $12.50/mo x 99 users\n\nWant to compare with other tools?\n\nChat with us\n\n##### Frequently Asked Questions\n\nHow do I pay for the PRO plan?\n\nYou can pay with a credit card or via net banking (if you\u2019re in India). We will renew your subscription automatically at the end of every billing cycle.\n\nWhat is the Guest policy for PRO and Enterprise plans?\n\nYou can invite multiple guests for Free on Flock for 90 days (from the date of the invitation). After 90 days, you will be charged for guests at the same rate as regular team members.\n\nCan I cancel my PRO plan subscription at any time?\n\nYes, you can cancel your PRO plan subscription at any time. But, we\u2019ll be sad to see you go!\n\nWhat is the billing cycle?\n\nFlock offers you the option of monthly and yearly billing. In the yearly billing option, you pay as little as $4.50 per licensed user.\n\nDo you offer special pricing for non-profits?\n\nFlock proudly supports thousands of non-profit organizations around the world with special pricing based on geography and area of work. Start a live chat to get a quote.\n\n### We take Security Seriously\n\n![Image 33: Soc Image](https://pages.flock.com/hubfs/Flock_April2019/images/soc2-03d8f833.png)\n\n##### SOC 2 Compliant\n\nFlock is now SOC 2 compliant. This means Flock follows very strict, best-in-class, audited processes to ensure the safety and integrity of user information.\n\n*   Data encryption using TLS 1.2\n*   Hosted in the cloud by Amazon Web Services (AWS)\n*   Privacy of messages and profile data\n*   Strict controls over data access and user rights\n\nRead about [Flock\u2019s security practices](https://www.flock.com/security?hsLang=en)\n\nRead about [Flock\u2019s security practices](https://www.flock.com/security?hsLang=en)\n\n![Image 34: Soc Image](https://pages.flock.com/hubfs/Flock_April2019/images/soc2-03d8f833.png)\n\n##### SOC 2 Compliant\n\nFlock is now SOC 2 compliant. This means Flock follows very strict, best-in-class, audited processes to ensure the safety and integrity of user information.\n\nEffortless team messaging that just works.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "flock",
+        "app_name": "Flock",
+        "app_slug": "flock",
+        "pricing_url": "https://www.flock.com/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://www.flock.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing structure includes a free tier, a subscription-based Pro plan, and a quote-based Enterprise plan.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Starter",
+            "tier_description": "For teams with 1-20 members",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited 1-1 & Group messages",
+              "10,000 Searchable messages",
+              "10 Public channels",
+              "5 GB total per team",
+              "Single team admin",
+              "1-1 Video calls"
+            ],
+            "limits": {
+              "users": 20,
+              "storage": "5GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Ideal for teams with 20-100 members",
+            "monthly_price": 6.0,
+            "annual_price": 4.5,
+            "annual_discount_percentage": 25.0,
+            "setup_fee": null,
+            "features": [
+              "Unlimited 1-1 & Group messages",
+              "Unlimited Searchable messages",
+              "Unlimited Private & Public channels",
+              "10 GB per team member",
+              "Multiple team admins",
+              "Group Video calls",
+              "Screen Sharing",
+              "24/7 Priority Support"
+            ],
+            "limits": {
+              "users": 100,
+              "storage": "10GB per user",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "For organizations with 100+ members",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Organizational mapping",
+              "Custom on-boarding",
+              "Integration with internal LMS, HRMS and other systems",
+              "Unlimited 1-1 & Group messages",
+              "Unlimited Searchable messages",
+              "Unlimited Private & Public channels",
+              "20 GB per team member",
+              "Active Directory Sync",
+              "Multiple team admins",
+              "Group Video calls",
+              "Screen Sharing",
+              "Single Sign-On",
+              "24/7 Dedicated Support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "20GB per user",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Guest charges after 90 days",
+            "fee_amount": null,
+            "fee_description": "Guests are free for 90 days from the date of invitation. After 90 days, they are charged at the same rate as regular team members."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T08:17:42.693443",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\flock\\20250415_081742"
+}

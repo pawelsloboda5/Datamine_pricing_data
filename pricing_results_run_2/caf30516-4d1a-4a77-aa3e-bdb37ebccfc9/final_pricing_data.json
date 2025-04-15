@@ -1,0 +1,147 @@
+{
+  "app_id": "zoom",
+  "app_name": "Zoom",
+  "app_slug": "zoom",
+  "pricing_url": "https://zoom.us/pricing",
+  "source_url": "https://explore.zoom.us/pricing/",
+  "all_pricing_urls": [
+    "https://zoom.us/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Zoom offers various subscription tiers for meetings, webinars, and other services. Free tier includes basic features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Free tier with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Host up to 100 participants",
+        "Unlimited group meetings up to 40 minutes",
+        "Unlimited one-on-one meetings",
+        "3 Whiteboards",
+        "Team Chat"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Paid tier for small teams.",
+      "monthly_price": 14.99,
+      "annual_price": 149.9,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Host up to 100 participants",
+        "Unlimited group meetings",
+        "Unlimited one-on-one meetings",
+        "3 Whiteboards",
+        "Team Chat",
+        "Cloud recording"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Paid tier for small and medium businesses.",
+      "monthly_price": 19.99,
+      "annual_price": 199.9,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Host up to 300 participants",
+        "Unlimited group meetings",
+        "Unlimited one-on-one meetings",
+        "Unlimited Whiteboards",
+        "Team Chat",
+        "Cloud recording",
+        "Company branding"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Paid tier for large enterprises.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Host up to 500 participants",
+        "Unlimited group meetings",
+        "Unlimited one-on-one meetings",
+        "Unlimited Whiteboards",
+        "Team Chat",
+        "Cloud recording",
+        "Company branding",
+        "Dedicated customer success manager"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:55:25.478348",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "caf30516-4d1a-4a77-aa3e-bdb37ebccfc9",
+    "name": "Zoom",
+    "slug": "zoom",
+    "description": "Zoom brings teams together to get more done in a frictionless environment. Zoom's reliable, video-first unified communications platform provides video meetings, voice, webinars, and chat across desktops, phones, mobile devices, and conference systems",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/472b2b8aba2dc38d4ef605c955341739_6.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Video Conferencing"
+    ],
+    "category_slugs": [
+      "video-calls"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 7
+  }
+}

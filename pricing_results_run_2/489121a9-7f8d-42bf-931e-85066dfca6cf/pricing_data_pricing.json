@@ -1,0 +1,96 @@
+{
+  "app_id": "pivotal_tracker",
+  "app_name": "Pivotal Tracker",
+  "app_slug": "pivotal-tracker",
+  "pricing_url": "https://www.pivotaltracker.com/pricing",
+  "source_url": "https://www.pivotaltracker.com/pricing",
+  "all_pricing_urls": [
+    "https://www.pivotaltracker.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The Enterprise plan is currently unavailable. Free plans are available for public projects, educators, and nonprofits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For small teams and individuals.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited core features",
+        "Unlimited read-only seats",
+        "5 project limit"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For organizations with advanced needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited core features",
+        "Unlimited read-only seats",
+        "Unlimited projects",
+        "Custom price structure",
+        "Volume discounts",
+        "Single sign-on",
+        "Org-visible projects",
+        "Full project history"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:40:59.404172",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "489121a9-7f8d-42bf-931e-85066dfca6cf",
+    "name": "Pivotal Tracker",
+    "slug": "pivotal-tracker",
+    "description": "Pivotal Tracker is a collaborative, project management tool for developers and agile product management teams.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/84172dde558de382873cf72a00c92818.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 2
+  }
+}

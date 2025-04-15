@@ -1,0 +1,12 @@
+{
+  "app_name": "Ignition",
+  "app_slug": "ignition",
+  "search_term": "Find the official pricing page URL for Ignition (ignition.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744710217.2635021,
+  "response_text": [
+    "I couldn't find this page among results. You may directly navigate ignition.com for further details."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\ignition\\20250415_054337"
+}

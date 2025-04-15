@@ -1,0 +1,212 @@
+{
+  "app_id": "acumbamail",
+  "app_name": "Acumbamail",
+  "app_slug": "acumbamail",
+  "pricing_url": "https://acumbamail.com/en/pricing/",
+  "source_url": "https://acumbamail.com/en/pricing/",
+  "all_pricing_urls": [
+    "https://acumbamail.com/en/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of emails or SMS sent per month, with additional options for prepay credits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Plan",
+      "tier_description": "Basic features for limited usage.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email marketing editor",
+        "Up to 250 subscribers",
+        "Up to 2,000 mails per month",
+        "Content sources (1, 1 item/source)",
+        "No minimum-term contract"
+      ],
+      "limits": {
+        "users": 250,
+        "storage": null,
+        "operations": 2000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basic Plan",
+      "tier_description": "Includes additional features for small businesses.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "+850 customisable templates",
+        "Telephone support",
+        "Automations",
+        "Websites",
+        "A/B Testing",
+        "Complete reports",
+        "SMTP"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Pro Plan",
+      "tier_description": "Advanced features for professional use.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Priority support",
+        "Email marketing consulting",
+        "Account manager",
+        "Unlimited campaign previews",
+        "Dedicated IP"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Emails",
+      "unit": "per email",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 20000.0,
+          "price": null
+        },
+        {
+          "min": 20001.0,
+          "max": 40000.0,
+          "price": null
+        },
+        {
+          "min": 40001.0,
+          "max": 100000.0,
+          "price": null
+        },
+        {
+          "min": 100001.0,
+          "max": 300000.0,
+          "price": null
+        },
+        {
+          "min": 300001.0,
+          "max": 700000.0,
+          "price": null
+        },
+        {
+          "min": 700001.0,
+          "max": 1000000.0,
+          "price": null
+        },
+        {
+          "min": 1000001.0,
+          "max": 2000000.0,
+          "price": null
+        },
+        {
+          "min": 2000001.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    },
+    {
+      "metric_name": "SMS",
+      "unit": "per SMS",
+      "base_price": 0.0463,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 250.0,
+          "price": null
+        },
+        {
+          "min": 251.0,
+          "max": 700.0,
+          "price": null
+        },
+        {
+          "min": 701.0,
+          "max": 1600.0,
+          "price": null
+        },
+        {
+          "min": 1601.0,
+          "max": 3400.0,
+          "price": null
+        },
+        {
+          "min": 3401.0,
+          "max": 7500.0,
+          "price": null
+        },
+        {
+          "min": 7501.0,
+          "max": 10000.0,
+          "price": null
+        },
+        {
+          "min": 10001.0,
+          "max": 15000.0,
+          "price": null
+        },
+        {
+          "min": 15001.0,
+          "max": 25000.0,
+          "price": null
+        },
+        {
+          "min": 25001.0,
+          "max": 50000.0,
+          "price": null
+        },
+        {
+          "min": 50001.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T02:02:04.116087",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9620f70e-0ec0-46ba-8c24-b60bffc0b03b",
+    "name": "Acumbamail",
+    "slug": "acumbamail",
+    "description": "Acumbamail is a simple and effective Email Marketing tool for everyone.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/3f683f31f0a9c2658803bf5f4501f982.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 3
+  }
+}

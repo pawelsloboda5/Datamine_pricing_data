@@ -1,0 +1,140 @@
+{
+  "app_id": "printavo",
+  "app_name": "Printavo",
+  "app_slug": "printavo",
+  "pricing_url": "https://www.printavo.com/pricing/",
+  "source_url": "https://www.printavo.com/pricing",
+  "all_pricing_urls": [
+    "https://www.printavo.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Family Bundle Discounts available when subscribing to both Printavo and InkSoft.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lite",
+      "tier_description": null,
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Automations for repetitive tasks",
+        "Order Tracking",
+        "Mobile App",
+        "Tasks",
+        "Sales Reports"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": null,
+      "monthly_price": 229.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Automations for repetitive tasks",
+        "Order Tracking",
+        "Mobile App",
+        "Tasks",
+        "Sales Reports",
+        "Shipping",
+        "Packing Slips"
+      ],
+      "limits": {
+        "users": 15,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Automations for repetitive tasks",
+        "Order Tracking",
+        "Mobile App",
+        "Tasks",
+        "Sales Reports",
+        "Shipping",
+        "Packing Slips"
+      ],
+      "limits": {
+        "users": 30,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional Users",
+            "value": "30 for $15/mo"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Family Bundle Discounts",
+      "offer_description": "Discounts available when subscribing to both Printavo and InkSoft.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Shipping Labels",
+      "fee_amount": 0.01,
+      "fee_description": "Shipping labels powered by EasyPost, priced at 1\u00a2 per label."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:44:54.712414",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e2c9d895-d4f6-452f-868a-a46a7e54ed60",
+    "name": "Printavo",
+    "slug": "printavo",
+    "description": "Printavo is a simple tool for print, embroidery, promotional, digital, large format and sign shops to manage their business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/51a0b5cb65490c7474f610644b7ad63c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Printing"
+    ],
+    "category_slugs": [
+      "printing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 16,
+    "trigger_count": 11
+  }
+}

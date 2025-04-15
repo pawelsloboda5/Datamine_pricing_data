@@ -1,0 +1,169 @@
+{
+  "app_id": "jobber",
+  "app_name": "Jobber",
+  "app_slug": "jobber",
+  "pricing_url": "https://www.getjobber.com/pricing/",
+  "source_url": "https://getjobber.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.getjobber.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer discounts compared to monthly billing. Additional fees apply for certain features and services.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Core",
+      "tier_description": "Essential tools to grow your reputation as a professional home service business.",
+      "monthly_price": 39.0,
+      "annual_price": 29.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Online booking and job scheduling",
+        "Send professional quotes",
+        "Send invoices and receive online payments",
+        "Access the app marketplace",
+        "Reporting"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Connect",
+      "tier_description": "Automations and must-have integrations to reduce admin work and impress customers.",
+      "monthly_price": 169.0,
+      "annual_price": 129.0,
+      "annual_discount_percentage": 23.67,
+      "setup_fee": null,
+      "features": [
+        "Send automated reminders & payments",
+        "Document work on job forms",
+        "Automate invoice follow-ups",
+        "Connect QuickBooks Online",
+        "Start tracking time and expenses"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Grow",
+      "tier_description": "Advanced tools to win bigger jobs, scale efficiently, and take back your admin time.",
+      "monthly_price": 349.0,
+      "annual_price": 249.0,
+      "annual_discount_percentage": 28.65,
+      "setup_fee": null,
+      "features": [
+        "Advanced quote customization",
+        "Track costs with job costing",
+        "Automated quote follow-ups",
+        "Connect with customers through two-way SMS",
+        "Build custom workflow automations"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "All features backed with premium support to maximize efficiency and profits.",
+      "monthly_price": 599.0,
+      "annual_price": 449.0,
+      "annual_discount_percentage": 25.04,
+      "setup_fee": null,
+      "features": [
+        "Jobber Marketing Suite",
+        "Book leads with AI Receptionist",
+        "Onboarding with a dedicated specialist",
+        "Premium Support",
+        "Guided API walkthrough for custom integrations"
+      ],
+      "limits": {
+        "users": 15,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Save up to 25% when billed annually.",
+      "discount_percentage": 25.0,
+      "offer_url": "https://www.getjobber.com/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Additional Users",
+      "fee_amount": 29.0,
+      "fee_description": "Fee per additional user beyond the included limit."
+    },
+    {
+      "fee_name": "Credit Card Processing",
+      "fee_amount": null,
+      "fee_description": "2.9% + $0.30 per transaction."
+    },
+    {
+      "fee_name": "Bank Payments",
+      "fee_amount": 1.0,
+      "fee_description": "Fee for bank payments."
+    },
+    {
+      "fee_name": "Instant Payout",
+      "fee_amount": 1.0,
+      "fee_description": "Additional fee for instant payouts."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:48:33.344263",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4deaf3d0-0412-41f7-9c6e-0f93a3aa79e1",
+    "name": "Jobber",
+    "slug": "jobber",
+    "description": "Jobber is the command centre for home service businesses. Our easy-to-use app powers sales, operations, and customer service\u2014all in one place.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c5d6e99fb9d0bbbd164b35b959542392.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 10
+  }
+}

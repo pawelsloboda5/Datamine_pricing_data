@@ -1,0 +1,173 @@
+{
+  "app_id": "canny",
+  "app_name": "Canny",
+  "app_slug": "canny",
+  "pricing_url": "https://canny.io/pricing",
+  "source_url": "https://canny.io/pricing",
+  "all_pricing_urls": [
+    "https://canny.io/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Discounts available for startups and specific industries.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Set up your feedback portal with just the basics.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited users",
+        "Private Boards",
+        "Changelog",
+        "One integration",
+        "Single sign-on"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 1,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Get more out of your feedback with advanced tools.",
+      "monthly_price": 79.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited posts",
+        "Custom domain",
+        "Prioritization roadmap",
+        "Two integrations",
+        "Content translations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 2,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Scale insights across your team with integrations and automations.",
+      "monthly_price": 359.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited integrations",
+        "Custom board access",
+        "Advanced AI features",
+        "User segmentation",
+        "Admin roles"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Deploy additional permissions, compliance, and customizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Authentication integrations",
+        "Salesforce integration",
+        "HubSpot integration",
+        "White label",
+        "Security review"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Startup Discount",
+      "offer_description": "Discounts on the Growth plan for early-stage companies: 75% off for the first year, 50% off for the second.",
+      "discount_percentage": 75.0,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Annual Discount",
+      "offer_description": "Save up to 20% by paying for a year upfront.",
+      "discount_percentage": 20.0,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Special Industry Plans",
+      "offer_description": "Discounts for companies in healthcare, non-profit, and education.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:48:24.677679",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "2ccfc576-57e8-4132-acbe-f51a1a57ab82",
+    "name": "Canny",
+    "slug": "canny",
+    "description": "Canny is a user feedback tool that lets you keep track of all of your user feedback in one organized place.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/243675ab8777ce6e95542c89caec544c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Product Management"
+    ],
+    "category_slugs": [
+      "product-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 4
+  }
+}

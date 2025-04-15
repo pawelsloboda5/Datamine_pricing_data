@@ -1,0 +1,51 @@
+{
+  "app_name": "MailUp",
+  "app_slug": "mailup",
+  "search_term": "Find the official pricing page URL for MailUp (mailup.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744692765.9332132,
+  "response_text": [
+    "The official pricing page for MailUp can be found at: https://www.mailup.com/pricing\u30103:1\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Compare MailUp editions Mailup Official Site",
+      "url": "https://mailup.com/compare-editions/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.mailup.com/pricing\u30103:1\u2020source\u3011.",
+      "is_accessible": true,
+      "content": "Technology, consultancy, and know-how: MailUp is the powerful, scalable, and integrated marketing solution for creating quality relationships with your customers.\n\n![Image 1: logo a2a smartcity MailUp_white](https://mailup-en.kleecks-cdn.com/app/uploads/logo-a2a-smartcity-MailUp_white.svg)\n\n![Image 2: logo coin MailUp white 24_last](https://mailup-en.kleecks-cdn.com/app/uploads/logo-coin-MailUp-white-24_last.svg)\n\n![Image 3: logo iperal MailUp_white](https://mailup-en.kleecks-cdn.com/app/uploads/logo-iperal-MailUp_white.svg)\n\n![Image 4: logo italo MailUp white 24](https://mailup-en.kleecks-cdn.com/app/uploads/logo-italo-MailUp-white-24.svg)\n\n[![Image 5: logo moby MailUp white 24](https://mailup-en.kleecks-cdn.com/app/uploads/logo-moby-MailUp-white-24.svg)](https://www.mobylines.com/?utm_source=mailup&utm_medium=logo&utm_campaign=clienti-importanti)\n\nAt your side, every step of the way\n-----------------------------------\n\nIntegration development, strategic support, concept creation, and results optimization\u2014together, we build your ideal solution so that you can effectively achieve your goals.\n\n![Image 6: content al tuo fianco per crescere mailup 24@2x](https://mailup-en.kleecks-cdn.com/app/uploads/content-al-tuo-fianco-per-crescere-mailup-24@2x.webp)\n\nNEW\n\nCreate emails in no time with Artificial Intelligence\n\nThe AI Assistant is a ChatGPT-based Artificial Intelligence feature found in MailUp\u2019s drag-and-drop editor. You can use it to create headlines, paragraphs, lists, and CTAs, but also to revise, translate, and re-purpose your texts: effortlessly and in just a few clicks!\n\n![Image 7: content crea email intelligenza artificiale 1@2x](https://mailup-en.kleecks-cdn.com/app/uploads/content-crea-email-intelligenza-artificiale-1@2x.webp)\n\n42:1\n\nEmail Marketing return on investment\n\n4,5\n\nBillions email users expected by 2025\n\n+86 %\n\nConversions generated thanks to Marketing Automation\n\nBreaking through with Marketing Automation\n\nIn just a few clicks, set up automatic cross-channel workflows with the intuitive drag & drop interface and schedule automatic campaigns on Messenger and Telegram. You can combine advanced segmentation filters to send the right content at the right time to each recipient.\n\n![Image 8: content marketing automation mailup 24@2x](https://mailup-en.kleecks-cdn.com/app/uploads/content-marketing-automation-mailup-24@2x.webp)\n\nShape your marketing stack\n\nIntegrate MailUp with CRM, external databases, e-commerce, CMS, ERP, Business Intelligence systems, and much more. Bring data into circulation and create an integrated digital ecosystem to shape unique customer experiences.\n\n![Image 9: Integra la tua applicazione con MailUp@2x](https://mailup-en.kleecks-cdn.com/app/uploads/Integra-la-tua-applicazione-con-MailUp@2x.webp)\n\nGuaranteed security, privacy and deliverability\n\nAlgorithms, certifications, IP, and consignment monitoring let us guarantee delivery rates that are among the best on the market. Our infrastructure and security policies undergo regular assessments in order to guarantee their compliance with data protection regulations.\n\n![Image 10: content sicurezza deliverability garantite mailup 24@2x](https://mailup-en.kleecks-cdn.com/app/uploads/content-sicurezza-deliverability-garantite-mailup-24@2x.webp)\n\n![Image 11: alessandro marchesini 300x300](https://mailup-en.kleecks-cdn.com/app/uploads/2022/02/alessandro-marchesini-300x300.jpg)\n\n![Image 12: logo_iperal_mailup](https://mailup-en.kleecks-cdn.com/app/uploads/2022/02/logo_iperal_mailup.svg)\n\nIperal\n\nProgressively evolving to offer increasingly targeted communications in line with the customers needs. Thanks to MailUp's workflows, one-to-one relationship is possible.\n\nAlessandro Marchesini\n\nDigital Marketing Director, Iperal\n\n[Read the Case Study](https://mailup.com/customers/iperal/ \"iperal\")\n\n![Image 13: img_testimonial_MaxiSport](https://mailup-en.kleecks-cdn.com/app/uploads/2022/02/img_testimonial_MaxiSport.jpg)\n\n![Image 14: logo_MaxiSport](https://mailup-en.kleecks-cdn.com/app/uploads/2022/02/logo_MaxiSport.png)\n\nMaxi Sport\n\nIn all marketing activities, we put the customer at the center of every strategy. We plan every action with the aim of providing outstanding service and an experience that goes beyond expectations. MailUp\u2019s contribution was critical in making Maxi Sport an ideal online shopping partner for so many Italians.\n\nEster Sala\n\nHead of marketing and e-commerce, Maxi Sport\n\n[Read the Case Study](https://mailup.com/customers/maxi-sport/ \"maxi sport\")\n\nSimple, powerful, effective\n\nDiscover MailUp\u2019s platform full potential and give a boost to your multichannel marketing.\n\nMailUp is your complete email and SMS delivery solution that combines powerful email marketing tools with SMTP relay and plugins for e-commerce, CRM, and CMS systems",
+      "error": null,
+      "pricing_data": {
+        "app_id": "mailup",
+        "app_name": "MailUp",
+        "app_slug": "mailup",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The provided content does not include specific pricing details or tier information.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T00:52:56.665463",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\mailup\\20250415_005256"
+}

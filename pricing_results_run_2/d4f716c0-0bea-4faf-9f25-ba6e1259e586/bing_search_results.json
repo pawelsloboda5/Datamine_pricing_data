@@ -1,0 +1,19 @@
+{
+  "app_name": "Halo Service Solutions",
+  "app_slug": "halo-service-solutions",
+  "search_term": "Find the official pricing page URL for Halo Service Solutions (halo-service-solutions.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744723900.3491488,
+  "response_text": [
+    "I found the official pricing page URL for Halo Service Solutions: https://www.halo.help/price-list ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.halo.help/price-list",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\halo-service-solutions\\20250415_093141"
+}

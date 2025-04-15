@@ -1,0 +1,363 @@
+{
+  "app_name": "eSignatures",
+  "app_slug": "esignatures",
+  "search_term": "Find the official pricing page URL for eSignatures (esignatures.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744713800.925919,
+  "response_text": [
+    "Here is the official pricing page URL for eSignatures: [https://esignatures.com/pricing](https://esignatures.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "eSignatures - Pricing page",
+      "url": "https://esignatures.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://esignatures.com/pricing",
+      "is_accessible": true,
+      "content": "eSignatures - Pricing page\n===============\n\n[![Image 1](https://cdncf.esignatures.com/assets/esignatures-logo-with-text-20241117-92d666aea36e672c1cb419e3f3aeef8f30bcf8a8bebaea5de3e6ea5ebbcae914.png)](https://esignatures.com/)\n\n[Sign in](https://esignatures.com/login)\n\n[Free trial](https://esignatures.com/#signup)\n\n[Free trial](https://esignatures.com/#signup)\n\nSimple, transparent pricing\n\n$0.49 per contract\n\n$0.04 per SMS (optional)\n\nNo monthly fees\n\nNo limits\n\nAll features included\n\nSay goodbye to confusing pricing and shady fine print. At eSignatures.com, we believe in fair play - straightforward, good-value pricing that\u2019s fast, efficient, and reliable. Whether you\u2019re signing fifty contracts or fifty thousand, you\u2019ll get everything you need with no limits, no negative surprises, and credits that never expire. This is how pricing should be.\n\nDiscounts on bulk purchases\n\nPayment\n\nExtra credits\n\nEffective fee\n\nVolume\n\n$50\n\n\\-\n\n$0.49\n\n~ 100\n\n$100\n\n\\-\n\n$0.49\n\n~ 200\n\n$500\n\n+5%\n\n$0.47\n\n~ 1,100\n\n$1,000\n\n+10%\n\n$0.45\n\n~ 2,200\n\n$2,000\n\n+15%\n\n$0.43\n\n~ 4,700\n\n$5,000\n\n+20%\n\n$0.41\n\n~ 12,000\n\n$10,000\n\n+50%\n\n$0.33\n\n~ 31,000\n\n$20,000\n\n+100%\n\n$0.24\n\n~ 82,000\n\n$50,000\n\n+150%\n\n$0.20\n\n~ 260,000\n\n$100,000\n\n+200%\n\n$0.16\n\n~ 610,000\n\n\\> $150,000\n\n[contact us...](https://esignatures.com/support)\n\nThe credits you purchase never expire.\n\nAll features included\n\nUnlimited templates\n\nUnlimited users\n\nAPI integration\n\nGoogle Drive auto upload\n\nZapier, Make integration\n\nContract links (forms)\n\nSigner attachments\n\nEmbedded signing\n\nCustom branding\n\nSMS contracts\n\nBulk send\n\nWordPress signing\n\nMulti factor signer identification\n\nCustom contract expiry period\n\nEmail reminders, notifications\n\nAmending sent contracts\n\nTemplate collaboration\n\nUser permissions\n\nAudit trail\n\nCustom data center location\n\n24 supported languages\n\neIDAS, GDPR compliant\n\nESIGN, UETA compliant\n\nISO 27001 certified\n\nHIPAA compliant\n\nSupport response time\n\n< 2 business days\n\nand more ...\n\nEnterprise plan\n\n(optional)\n\n$0.49 per contract\n\n$4,999 per month\n\n24/7 support with SLA\n\nDedicated account manager\n\nZoom meetings\n\n[Free trial](https://esignatures.com/#signup)[Support](https://esignatures.com/support)\n\neSignatures",
+      "error": null,
+      "pricing_data": {
+        "app_id": "esignatures",
+        "app_name": "eSignatures",
+        "app_slug": "esignatures",
+        "pricing_url": "https://esignatures.com/pricing",
+        "source_url": "https://esignatures.com/pricing",
+        "all_pricing_urls": [
+          "https://esignatures.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Credits purchased never expire, and all features are included without limits.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Pay-as-you-go",
+            "tier_description": "Usage-based pricing for contracts and optional SMS.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited templates",
+              "Unlimited users",
+              "API integration",
+              "Google Drive auto upload",
+              "Zapier, Make integration",
+              "Contract links (forms)",
+              "Signer attachments",
+              "Embedded signing",
+              "Custom branding",
+              "SMS contracts",
+              "Bulk send",
+              "WordPress signing",
+              "Multi factor signer identification",
+              "Custom contract expiry period",
+              "Email reminders, notifications",
+              "Amending sent contracts",
+              "Template collaboration",
+              "User permissions",
+              "Audit trail",
+              "Custom data center location",
+              "24 supported languages",
+              "eIDAS, GDPR compliant",
+              "ESIGN, UETA compliant",
+              "ISO 27001 certified",
+              "HIPAA compliant"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Subscription plan with additional support and management features.",
+            "monthly_price": 4999.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "24/7 support with SLA",
+              "Dedicated account manager",
+              "Zoom meetings"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Contract",
+            "unit": "per contract",
+            "base_price": 0.49,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": 100.0,
+                "price": 0.49
+              },
+              {
+                "min": 101.0,
+                "max": 200.0,
+                "price": 0.49
+              },
+              {
+                "min": 201.0,
+                "max": 1100.0,
+                "price": 0.47
+              },
+              {
+                "min": 1101.0,
+                "max": 2200.0,
+                "price": 0.45
+              },
+              {
+                "min": 2201.0,
+                "max": 4700.0,
+                "price": 0.43
+              },
+              {
+                "min": 4701.0,
+                "max": 12000.0,
+                "price": 0.41
+              },
+              {
+                "min": 12001.0,
+                "max": 31000.0,
+                "price": 0.33
+              },
+              {
+                "min": 31001.0,
+                "max": 82000.0,
+                "price": 0.24
+              },
+              {
+                "min": 82001.0,
+                "max": 260000.0,
+                "price": 0.2
+              },
+              {
+                "min": 260001.0,
+                "max": 610000.0,
+                "price": 0.16
+              }
+            ]
+          },
+          {
+            "metric_name": "SMS",
+            "unit": "per SMS",
+            "base_price": 0.04,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T06:43:28.574416",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://esignatures.com/pricing/",
+      "is_accessible": true,
+      "content": "eSignatures - Pricing page\n===============\n\n[![Image 1](https://cdncf.esignatures.com/assets/esignatures-logo-with-text-20241117-92d666aea36e672c1cb419e3f3aeef8f30bcf8a8bebaea5de3e6ea5ebbcae914.png)](https://esignatures.com/)\n\n[Sign in](https://esignatures.com/login)\n\n[Free trial](https://esignatures.com/#signup)\n\n[Free trial](https://esignatures.com/#signup)\n\nSimple, transparent pricing\n\n$0.49 per contract\n\n$0.04 per SMS (optional)\n\nNo monthly fees\n\nNo limits\n\nAll features included\n\nSay goodbye to confusing pricing and shady fine print. At eSignatures.com, we believe in fair play - straightforward, good-value pricing that\u2019s fast, efficient, and reliable. Whether you\u2019re signing fifty contracts or fifty thousand, you\u2019ll get everything you need with no limits, no negative surprises, and credits that never expire. This is how pricing should be.\n\nDiscounts on bulk purchases\n\nPayment\n\nExtra credits\n\nEffective fee\n\nVolume\n\n$50\n\n\\-\n\n$0.49\n\n~ 100\n\n$100\n\n\\-\n\n$0.49\n\n~ 200\n\n$500\n\n+5%\n\n$0.47\n\n~ 1,100\n\n$1,000\n\n+10%\n\n$0.45\n\n~ 2,200\n\n$2,000\n\n+15%\n\n$0.43\n\n~ 4,700\n\n$5,000\n\n+20%\n\n$0.41\n\n~ 12,000\n\n$10,000\n\n+50%\n\n$0.33\n\n~ 31,000\n\n$20,000\n\n+100%\n\n$0.24\n\n~ 82,000\n\n$50,000\n\n+150%\n\n$0.20\n\n~ 260,000\n\n$100,000\n\n+200%\n\n$0.16\n\n~ 610,000\n\n\\> $150,000\n\n[contact us...](https://esignatures.com/support)\n\nThe credits you purchase never expire.\n\nAll features included\n\nUnlimited templates\n\nUnlimited users\n\nAPI integration\n\nGoogle Drive auto upload\n\nZapier, Make integration\n\nContract links (forms)\n\nSigner attachments\n\nEmbedded signing\n\nCustom branding\n\nSMS contracts\n\nBulk send\n\nWordPress signing\n\nMulti factor signer identification\n\nCustom contract expiry period\n\nEmail reminders, notifications\n\nAmending sent contracts\n\nTemplate collaboration\n\nUser permissions\n\nAudit trail\n\nCustom data center location\n\n24 supported languages\n\neIDAS, GDPR compliant\n\nESIGN, UETA compliant\n\nISO 27001 certified\n\nHIPAA compliant\n\nSupport response time\n\n< 2 business days\n\nand more ...\n\nEnterprise plan\n\n(optional)\n\n$0.49 per contract\n\n$4,999 per month\n\n24/7 support with SLA\n\nDedicated account manager\n\nZoom meetings\n\n[Free trial](https://esignatures.com/#signup)[Support](https://esignatures.com/support)\n\neSignatures",
+      "error": null,
+      "pricing_data": {
+        "app_id": "esignatures",
+        "app_name": "eSignatures",
+        "app_slug": "esignatures",
+        "pricing_url": "https://esignatures.com/pricing",
+        "source_url": "https://esignatures.com/pricing",
+        "all_pricing_urls": [
+          "https://esignatures.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Credits purchased never expire. Bulk discounts are available for high-volume purchases.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Standard",
+            "tier_description": "Pay-per-use pricing for contracts and SMS.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited templates",
+              "Unlimited users",
+              "API integration",
+              "Google Drive auto upload",
+              "Zapier, Make integration",
+              "Contract links (forms)",
+              "Signer attachments",
+              "Embedded signing",
+              "Custom branding",
+              "SMS contracts",
+              "Bulk send",
+              "WordPress signing",
+              "Multi factor signer identification",
+              "Custom contract expiry period",
+              "Email reminders, notifications",
+              "Amending sent contracts",
+              "Template collaboration",
+              "User permissions",
+              "Audit trail",
+              "Custom data center location",
+              "24 supported languages",
+              "eIDAS, GDPR compliant",
+              "ESIGN, UETA compliant",
+              "ISO 27001 certified",
+              "HIPAA compliant"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Subscription plan for enterprise users.",
+            "monthly_price": 4999.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "24/7 support with SLA",
+              "Dedicated account manager",
+              "Zoom meetings"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Contracts",
+            "unit": "per contract",
+            "base_price": 0.49,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": 100.0,
+                "price": 0.49
+              },
+              {
+                "min": 101.0,
+                "max": 200.0,
+                "price": 0.49
+              },
+              {
+                "min": 201.0,
+                "max": 1100.0,
+                "price": 0.47
+              },
+              {
+                "min": 1101.0,
+                "max": 2200.0,
+                "price": 0.45
+              },
+              {
+                "min": 2201.0,
+                "max": 4700.0,
+                "price": 0.43
+              },
+              {
+                "min": 4701.0,
+                "max": 12000.0,
+                "price": 0.41
+              },
+              {
+                "min": 12001.0,
+                "max": 31000.0,
+                "price": 0.33
+              },
+              {
+                "min": 31001.0,
+                "max": 82000.0,
+                "price": 0.24
+              },
+              {
+                "min": 82001.0,
+                "max": 260000.0,
+                "price": 0.2
+              },
+              {
+                "min": 260001.0,
+                "max": 610000.0,
+                "price": 0.16
+              },
+              {
+                "min": 610001.0,
+                "max": "unlimited",
+                "price": 0.16
+              }
+            ]
+          },
+          {
+            "metric_name": "SMS",
+            "unit": "per SMS",
+            "base_price": 0.04,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "SMS",
+            "fee_amount": 0.04,
+            "fee_description": "Optional fee for SMS notifications."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T06:43:36.700846",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\esignatures\\20250415_064337"
+}

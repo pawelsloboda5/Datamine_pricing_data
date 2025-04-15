@@ -1,0 +1,12 @@
+{
+  "app_name": "Softr",
+  "app_slug": "softr",
+  "search_term": "Find the official pricing page URL for Softr (softr.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744716786.3184757,
+  "response_text": [
+    "Unfortunately, I couldn't retrieve any relevant information about the Softr pricing page."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\softr\\20250415_073306"
+}

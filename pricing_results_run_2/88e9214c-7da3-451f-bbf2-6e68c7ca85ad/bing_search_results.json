@@ -1,0 +1,170 @@
+{
+  "app_name": "Better Stack",
+  "app_slug": "better-stack",
+  "search_term": "Find the official pricing page URL for Better Stack (better-stack.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688532.257329,
+  "response_text": [
+    "The official pricing page for Better Stack can be found at: [https://betterstack.com/pricing/](https://betterstack.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | Better Stack",
+      "url": "https://betterstack.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://betterstack.com/pricing/",
+      "is_accessible": true,
+      "content": "Users\n-----\n\nIncident resolution is a multi-player game. Invite your team and investigate & resolve incidents faster.\n\nUnlimited team members\n\nFree access to [Telemetry](https://betterstack.com/telemetry).\n\n$0\n\nper member per month\n\nResponder\n\nAccess to [Uptime](https://betterstack.com/uptime) with incident management, on-call, monitoring and status pages with unlimited phone call and SMS alerts.\n\n$34\n\n$29\n\nper license per month\n\nMonitoring\n----------\n\n* * *\n\n### Monitors\n\nThe most advanced external monitoring that checks any URL, IP\u00a0address, and port. Whether it's your landing page, monolith application, SPA, REST API, or a bare metal server, you can monitor everything.\n\nMonitors\n\n10 monitors included\n\nAdditional 50 monitors\n\n$25 per month\n\n$21 per month\n\n*   Unlimited phone call alerts\n*   Up to 30 seconds check frequency\n*   Screenshots of errors\n*   Unlimited SMS\n*   HTTP(s) keyword checks\n*   Multi-location & Geo-specific checks\n*   Push notifications\n*   TCP/UDP port monitoring\n*   Multi-step incident verification\n*   E-mail alerts\n*   POP3/IMAP/SMTP\n*   AI post-mortem analysis\n*   Slack integration\n*   SSL monitoring\n*   Uptime SLA reporting\n*   MS Teams integration\n*   TLD expiration monitoring\n*   Response time tracking\n*   Zapier integration\n*   DNS server monitoring\n*   Traceroute & MTR diagnosis\n*   REST API\n*   Ping monitoring\n*   Maintenance windows\n*   Terraform provider\n*   IPv6 support\n*   Status pages\n*   Webhooks\n\n* * *\n\n### Transaction monitoring\n\nPlaywright-based transaction checks let you monitor vital website interactions by running a real browser instance.\n\n10,000 playwright executions\n\n$4 per month\n\n*   Unlimited phone call alerts\n*   Interactive Playwright Snapshots\n*   Multi-location & Geo-specific checks\n*   Unlimited SMS\n*   Generate with Playwright Codegen\n*   Multi-step incident verification\n*   Push notifications\n*   Inspect Playwright artifacts\n*   AI post-mortem analysis\n*   E-mail alerts\n*   Up to 30 seconds check frequency\n*   Traceroute & MTR diagnosis\n*   Slack integration\n*   Screenshots of errors\n*   Uptime SLA reporting\n*   MS Teams integration\n*   Maintenance windows\n*   REST API\n*   Zapier integration\n*   IPv6 support\n*   Terraform provider\n*   Webhooks\n\n* * *\n\n### Heartbeats (Cron job monitoring)\n\nHeartbeats let you monitor scheduled jobs like cron jobs or serverless workers. Never lose a database backup again.\n\nHeartbeats\n\n10 heartbeats included\n\nAdditional 10 heartbeats\n\n$20 per month\n\n$17 per month\n\n*   Unlimited phone call alerts\n*   Up to 1 second check resolution\n*   AI post-mortem analysis\n*   Unlimited SMS\n*   Configurable grace period\n*   Uptime SLA reporting\n*   Push notifications\n*   IPv6 support\n*   REST API\n*   E-mail alerts\n*   Zapier integration\n*   Terraform provider\n*   Slack integration\n*   Maintenance windows\n*   Status pages\n*   MS Teams integration\n*   Webhook notifications\n\n* * *\n\n### Status pages\n\nGet a branded status.yourdomain.com and build credibility with customers. Monitoring and incident management is fully-integrated.\n\nStatus pages\n\n1 status page included\n\nAdditional public status page\n\n$15 per month\n\n$12 per month\n\nCustom CSS & JavaScript\n\n$15 per page per month\n\n$12 per page per month\n\nWhite-label by removing \"Powered by Better Stack\" footer\n\n$250 per page per month\n\n$208 per page per month\n\nPassword-protected status page\n\n$50 per page per month\n\n$42 per page per month\n\nIP address restricted status page\n\n$250 per page per month\n\n$208 per page per month\n\nSingle Sign-On status page authentication\n\n$250 per page per month\n\n$208 per page per month\n\nSubscribers\n\n1,000 subscribers included\n\nAdditional 1,000 subscribers\n\n$40 per month\n\n$40 per page per month\n\nSend e-mails from your own domain\n\n$250 per page per month\n\n$208 per page per month\n\n*   Custom sub-domain with HTTP(s)\n*   Migration support\n*   Embeddable image badge\n*   Private status pages\n*   Importing existing subscribers\n*   Embeddable system status notice\n*   White-labeling\n*   Screenshots & error logs\n*   Google Search opt-out\n*   Embedded charts & metrics\n*   Password-protected status page\n*   Google Analytics pixel\n*   Public status subscriptions\n*   IP address restrictions\n*   Integrate with customer service chat\n*   Send e-mails from your domain\n*   Single Sign-on status page  \n    authentication\n*   Integrates with Mixpanel\n*   Customizable design\n*   Maintenance notices\n*   Integrates with Intercom\n*   Custom CSS\n*   Multi-language i18n support (beta)\n*   Integrates with Front\n*   Custom JavaScript\n*   REST API\n*   Integrates with Drift\n*   Terraform provider\n\n* * *\n\n### Reporting & analytics\n\nAdvanced analytics let you track team KPIs easily. Analyze incident metrics, on-call duties, and advanced SLAs/SLIs.\n\nReporting & analytics\n\n$5 per member per month\n\n$4 per member per month\n\n*   Historical uptime SLA\n*   AI post-mortems\n*   MTTA, MTTR and other incident KPIs\n*   Incident cause synthesis\n*   On-call duty reports\n*   SLA & SLI indicators\n*   CSV exportable\n*   Team member-based performance\n\nIncident management\n-------------------\n\n* * *\n\n### On-call & incident management\n\nOn-call scheduling & alerting is built-in. Set up duties, get flexible alerting options, and resolve incidents collaboratively.\n\nOn-call scheduling for responders\n\nincluded\n\n*   Unlimited phone call alerts\n*   [Countless integrations](https://betterstack.com/integrations)\n*   AI post-mortems\n*   Unlimited SMS\n*   Second by second incident timeline\n*   Manual post-mortems\n*   Push notifications\n*   On-call calendar & scheduling\n*   Collaboration built-in\n*   E-mail alerts\n*   Smart incident merging\n*   Google & Outlook calendar integration\n*   Zapier integration\n*   Slack incident management\n*   On-call calendar ICS export\n*   Webhooks\n*   Advanced incident escalation rules\n*   Reporting & analytics\n*   Terraform provider\n*   Call routing to current  \n    on-call person\n*   Unlimited incident history\n*   REST API\n\n* * *\n\n### AI incident silencing\n\nGet your team a good night sleep. Machine learning powered incident silencing automatically snoozes irrelevant incidents, reduces noise, prevents alert fatigue, and improves the team performance.\n\n500 silenced incidents\n\n$50 per month\n\n* * *\n\n### Slack-based incident management\n\nAutomate your incident resolution process with powerful templated workflows directly in Slack.\n\nBasic single-channel integration\n\nincluded\n\nChannel-based & Thread-based workflows\n\n$9 per responder license per month\n\n*   `/incident` command from Slack\n*   Basic single-channel integration\n*   AI post-mortems\n*   Manage on-call schedules\n*   Channel per incident\n*   Share dashboards, not screenshots\n*   Assemble the team,  \n    assign ownership\n*   Private channel per incident\n*   Reporting & analytics\n*   Advanced incident workflows\n*   Thread per incident\n*   Track MTTA, MTTR and more\n*   Quick status page updates\n*   Automated user synchronization\n\n* * *\n\n### Call routing\n\nRoute incoming phone calls to the current on-call person to create incidents automatically.\n\nPer phone number\n\n$250 per month\n\n$208 per month\n\n*   Available in the USA, CA, EU & UK\n*   Customizable welcome message\n*   Call transcripts\n*   Allow-listing phone numbers\n*   No paperwork required\n*   Reporting & analytics\n*   Available in 50+ languages\n*   Advanced incident workflows\n*   AI post-mortems\n\nTelemetry\n---------\n\n* * *\n\n### Pre-paid bundles (optional)\n\nAll bundles include 30 day logs retention and 13 month metrics retention. Reserve data and save.\n\nHobby\n\n$\n\n25\n\n19% OFF\n\n$\n\n30\n\n3% OFF\n\nper month billed yearly\n\nper month\n\n35 GB\n\nLogs\n\n2.5B\n\nMetrics\n\n35 GB\n\nLogs\n\n2.5B\n\nMetrics\n\n$0.36 per ingested GB of logs\n\n$0.43 per ingested GB of logs\n\nIndie hacker\n\n$\n\n100\n\n25% OFF\n\n$\n\n120\n\n10% OFF\n\nper month billed yearly\n\nper month\n\n150 GB\n\nLogs\n\n11B\n\nMetrics\n\n150 GB\n\nLogs\n\n11B\n\nMetrics\n\n$0.33 per ingested GB of logs\n\n$0.40 per ingested GB of logs\n\nStaging\n\n$\n\n210\n\n37% OFF\n\n$\n\n250\n\n25% OFF\n\nper month billed yearly\n\nper month\n\n350 GB\n\nLogs\n\n30B\n\nMetrics\n\n350 GB\n\nLogs\n\n30B\n\nMetrics\n\n$0.30 per ingested GB of logs\n\n$0.36 per ingested GB of logs\n\nSmall team\n\n$\n\n420\n\n45% OFF\n\n$\n\n500\n\n35% OFF\n\nper month billed yearly\n\nper month\n\n800 GB\n\nLogs\n\n70B\n\nMetrics\n\n800 GB\n\nLogs\n\n70B\n\nMetrics\n\n$0.26 per ingested GB of logs\n\n$0.31 per ingested GB of logs\n\nProduction\n\n$\n\n850\n\n52% OFF\n\n$\n\n1,000\n\n44% OFF\n\nper month billed yearly\n\nper month\n\n2.05 TB\n\nLogs\n\n150B\n\nMetrics\n\n2.05 TB\n\nLogs\n\n150B\n\nMetrics\n\n$0.21 per ingested GB of logs\n\n$0.25 per ingested GB of logs\n\n* * *\n\n### Logs\n\nAggregate all your logs into structured data you can query like a single database with SQL.\n\nIncluded in Pay as you go\n\n30 GB per month retained for 7 days\n\nIngestion\n\n$0.45 per extra GB\n\nRetention\n\n$0.025 per GB per extra week\n\nMulti-tenant querying at regular speed\n\nincluded\n\nSingle-tenant querying at cloud-scale speed\n\nHost data in your own bucket\n\n*   Schema-less storage\n*   Anomaly detection alerts\n*   Real-time live tail\n*   Unlimited querying\n*   Drag & drop query builder\n*   One-click filter by context\n*   Cloud-scale querying speed\n*   Query logs with SQL\n*   Unstructed data parsing & enrichment\n*   Integrated incident management\n*   Transform data with JavaScript\n*   Host data in your own S3 bucket\n*   Integrated on-call\n*   Long-term archival to S3\n*   Built-in collaboration\n*   Embed charts into status page\n*   Convert logs to metrics\n*   Shareable dashboards\n\n* * *\n\n### Metrics\n\nVisualize metrics with pre-made [collaborative dashboards](https://betterstack.com/dashboards). Generate metrics from logs or collect them via Prometheus, OpenTelemetry or others.\n\n2B included\n\nAdditional 1B data points retained\n\n$5\n\nQuerying at regular speed\n\nincluded\n\nQuerying at cloud-scale speed\n\n*   Unlimited querying\n*   Anomaly detection alerts\n*   Shareable dashboards\n*   Cloud-scale querying speed\n*   Drag & drop query builder\n*   Built-in collaboration\n*   Integrated incident management\n*   Query metrics with SQL\n*   Embed charts into status page\n*   Integrated on-call\n*   Transform data with JavaScript\n\nEnterprise-ready\n----------------\n\n* * *\n\n### Security\n\nKeep your data secure and control your costs by having visibility into your usage. Stay compliant with SOC 2, GDPR, and more.\n\nSingle Sign-On with Google\n\nincluded\n\nSingle Sign-On with Azure\n\n$5 per user per month\n\nSingle Sign-On with Okta\n\n$5 per user per month\n\nGeneric SAML SSO\n\nAudit logs\n\n$250 per month\n\n$208 per month\n\n*   SOC 2 Type II-compliant\n*   Single Sign-On\n*   Two-factor authentication\n*   SOC 2 report under NDA\n*   SSO enforcement\n*   2FA enforcement\n*   GDPR-compliant\n*   SCIM\n*   Custom Telemetry data residency\n*   Role-based access control\n*   Team-level isolation\n*   Custom VPC deployment\n\n* * *\n\n### Customer success\n\nOur technical customer team is here to serve you with the tailored experience you're looking for: reach out about migration assistance options or onboarding coaching sessions.\n\n*   E-mail support\n*   Shared Slack channel\n*   Dedicated customer success manager\n*   Chat support\n*   [Comprehensive documentation](https://betterstack.com/docs)\n*   Service Level Agreement (SLA)\n*   Phone support\n*   Product strategy session\n\n* * *\n\n### Payment\n\nWe make the process simple for your legal, finance, and procurement teams.\n\n*   Pay by card\n*   Pay by wire for enterprise contracts\n\n#### Enterprise-ready\n\nReach out for a custom quote.\n\nFind out why the best teams rely on Better Stack.\n\nStarts at $29 per month. All plans come with a 60-day money-back guarantee. Get started in 2 minutes.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "better_stack",
+        "app_name": "Better Stack",
+        "app_slug": "better-stack",
+        "pricing_url": "https://betterstack.com/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://betterstack.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes various subscription tiers and usage-based options for additional features.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Users",
+            "tier_description": "Unlimited team members with free access to Telemetry.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited team members",
+              "Free access to Telemetry"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Responder",
+            "tier_description": "Access to Uptime with incident management and monitoring.",
+            "monthly_price": 34.0,
+            "annual_price": 29.0,
+            "annual_discount_percentage": 14.71,
+            "setup_fee": null,
+            "features": [
+              "Incident management",
+              "Monitoring",
+              "Unlimited phone call and SMS alerts"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Monitors",
+            "unit": "per monitor",
+            "base_price": 25.0,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": 50.0,
+                "price": 21.0
+              }
+            ]
+          },
+          {
+            "metric_name": "Transaction monitoring",
+            "unit": "per 10,000 executions",
+            "base_price": 4.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Heartbeats",
+            "unit": "per 10 heartbeats",
+            "base_price": 20.0,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": 10.0,
+                "price": 17.0
+              }
+            ]
+          },
+          {
+            "metric_name": "Status pages",
+            "unit": "per page",
+            "base_price": 15.0,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": 1.0,
+                "price": 12.0
+              }
+            ]
+          },
+          {
+            "metric_name": "Logs",
+            "unit": "per GB",
+            "base_price": 0.45,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": "unlimited",
+                "price": 0.36
+              }
+            ]
+          },
+          {
+            "metric_name": "Metrics",
+            "unit": "per 1B data points",
+            "base_price": 5.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Custom CSS & JavaScript",
+            "fee_amount": 15.0,
+            "fee_description": "Per page per month for custom styling."
+          },
+          {
+            "fee_name": "White-labeling",
+            "fee_amount": 250.0,
+            "fee_description": "Per page per month to remove branding."
+          }
+        ],
+        "extraction_timestamp": "2025-04-14T23:42:34.527176",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://betterstack.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\better-stack\\20250414_234250"
+}

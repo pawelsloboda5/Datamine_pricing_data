@@ -1,0 +1,12 @@
+{
+  "app_name": "Microsoft Outlook",
+  "app_slug": "microsoft-outlook",
+  "search_term": "Find the official pricing page URL for Microsoft Outlook (microsoft-outlook.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744719276.3009226,
+  "response_text": [
+    "I couldn't find a direct URL for the Microsoft Outlook pricing on microsoft-outlook.com. Let me know if you need further assistance!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\microsoft-outlook\\20250415_081436"
+}

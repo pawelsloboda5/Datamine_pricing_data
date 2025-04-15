@@ -1,0 +1,186 @@
+{
+  "app_id": "screenshotone",
+  "app_name": "ScreenshotOne",
+  "app_slug": "screenshotone",
+  "pricing_url": "https://dash.screenshotone.com/sign-up",
+  "source_url": "https://screenshotone.com/pricing",
+  "all_pricing_urls": [
+    "https://dash.screenshotone.com/sign-up"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "ScreenshotOne offers a free tier with limited usage and subscription plans with additional features and usage limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "The essentials to start rendering screenshots today.",
+      "monthly_price": 17.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2,000 screenshots",
+        "40 requests per minute",
+        "Block ads and cookie banners",
+        "Render PDFs",
+        "PNG, WebP, JPEG, or even HTML",
+        "Full page screenshots",
+        "Cache and CDN",
+        "Upload to S3",
+        "Zapier, webhooks, and signed links"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 2000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "requests per minute",
+            "value": 40
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "A plan that scales with your rapidly growing business.",
+      "monthly_price": 79.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10,000 screenshots",
+        "80 requests per minute",
+        "Block ads and cookie banners",
+        "Render PDFs",
+        "PNG, WebP, JPEG, or even HTML",
+        "Full page screenshots",
+        "Cache and CDN",
+        "Upload to S3",
+        "Zapier, webhooks, and signed links",
+        "Choose IP location",
+        "Scrolling screenshots",
+        "Generate videos",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 10000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "requests per minute",
+            "value": 80
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "Prioritized support and infrastructure for your company.",
+      "monthly_price": 259.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "50,000 screenshots",
+        "150 requests per minute",
+        "Block ads and cookie banners",
+        "Render PDFs",
+        "PNG, WebP, JPEG, or even HTML",
+        "Full page screenshots",
+        "Cache and CDN",
+        "Upload to S3",
+        "Zapier, webhooks, and signed links",
+        "Choose IP location",
+        "Scrolling screenshots",
+        "Generate videos",
+        "GPU rendering",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 50000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "requests per minute",
+            "value": 150
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "extra screenshots",
+      "unit": "per screenshot",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 2000.0,
+          "price": 0.009
+        },
+        {
+          "min": 2001.0,
+          "max": 10000.0,
+          "price": 0.006
+        },
+        {
+          "min": 10001.0,
+          "max": "unlimited",
+          "price": 0.004
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "2 months free",
+      "offer_description": "Receive 2 months free when subscribing to an annual plan.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:50:03.878282",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "09b62431-4b08-4bb8-9a1e-3116430eb0b7",
+    "name": "ScreenshotOne",
+    "slug": "screenshotone",
+    "description": "ScreenshotOne allows you to turn websites, HTML or Markdown into screenshots or PDF via API in seconds.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/05a8ba4db20914a36a2ebb9496dcdf5f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Developer Tools"
+    ],
+    "category_slugs": [
+      "developer-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

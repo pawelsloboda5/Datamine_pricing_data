@@ -1,0 +1,145 @@
+{
+  "app_id": "gocardless",
+  "app_name": "GoCardless",
+  "app_slug": "gocardless",
+  "pricing_url": "https://gocardless.com/pricing/",
+  "source_url": "https://gocardless.com/pricing/",
+  "all_pricing_urls": [
+    "https://gocardless.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 90,
+  "currency": "GBP",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is primarily transaction-based with additional features available at higher tiers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Core features for collecting payments.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Collect one-off and recurring payments seamlessly",
+        "Collect international payments from 30+ countries with the real exchange rate (powered by Wise)",
+        "Use GoCardless with an API, dashboard, or integrate with 350+ partner softwares",
+        "Include branding on the customer sign-up form"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Enhanced payment protection.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Standard benefits",
+        "Reduce failed payments through intelligent retries",
+        "Verify new customers' bank account details instantly at checkout",
+        "Design a tailored customer experience, from payment pages to email notifications"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "End-to-end fraud protection.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Standard and Advanced benefits",
+        "Prevent fraud by identifying and verifying risky payers",
+        "Resolve fraud by monitoring and challenging chargebacks"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Fully customized package for large payment volumes.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Standard, Advanced, and Pro benefits",
+        "Dedicated end-to-end customer success",
+        "Unlock discounts as transaction volume scales",
+        "Option to commit volume or pay as you go"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Transaction fees",
+      "unit": "per transaction",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": null,
+          "max": "\u00a32,000",
+          "price": 0.01
+        },
+        {
+          "min": null,
+          "max": "\u00a32,000",
+          "price": 0.0125
+        },
+        {
+          "min": null,
+          "max": "\u00a32,000",
+          "price": 0.014
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "90 days no fees",
+      "offer_description": "Join today and pay no fees for 90 days.",
+      "discount_percentage": null,
+      "offer_url": "https://gocardless.com/g/no-fees-terms/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Refund fees",
+      "fee_amount": 0.5,
+      "fee_description": "Fee for processing refunds."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:52:37.798008",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d73b432d-920e-41f7-a36b-2e2578460416",
+    "name": "GoCardless",
+    "slug": "gocardless",
+    "description": "GoCardless is a payments platform helping businesses collect payments directly from customer bank accounts.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/a583119f64f17ecfc4ea1dfd5c65c227.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 6
+  }
+}

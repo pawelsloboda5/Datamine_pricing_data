@@ -1,0 +1,111 @@
+{
+  "app_id": "referrizer",
+  "app_name": "Referrizer",
+  "app_slug": "referrizer",
+  "pricing_url": "https://business.referrizer.com/pricing",
+  "source_url": "https://business.referrizer.com/pricing",
+  "all_pricing_urls": [
+    "https://business.referrizer.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and subscription plans with annual and monthly payment options.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For companies just starting out that need a boost in their marketing.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage & Track Reviews",
+        "Import Contacts with CSV",
+        "Email-Based Campaigns",
+        "CRM"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Reputation LITE",
+      "tier_description": "For growth-driven companies that want real results in less time.",
+      "monthly_price": 99.0,
+      "annual_price": 79.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Add Integration",
+        "Use AI",
+        "Reputation Widget",
+        "Boost Reviews Email Campaign"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Reputation MAX",
+      "tier_description": "For power users who want maximum support with every tool.",
+      "monthly_price": 199.0,
+      "annual_price": 119.0,
+      "annual_discount_percentage": 40.0,
+      "setup_fee": null,
+      "features": [
+        "SMS Campaigns",
+        "Check-in based SMS",
+        "ROI Dashboard",
+        "1000 SMS review requests per month"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "For power users who want maximum support with every tool.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Offers & Referrals",
+        "Loyalty",
+        "Smart Line",
+        "Pipeline",
+        "AI Assistant (beta)"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:52:13.519076",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1437f639-6a57-4b7f-9905-499fb1ec0367",
+    "name": "Referrizer",
+    "slug": "referrizer",
+    "description": "Referrizer combines CRM and all aspects of marketing automation into a single and easy-to-use platform, making customer acquisition and retention easy.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/dd06bfb024cb3ea5b7e8dfaa2503d074.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 1
+  }
+}

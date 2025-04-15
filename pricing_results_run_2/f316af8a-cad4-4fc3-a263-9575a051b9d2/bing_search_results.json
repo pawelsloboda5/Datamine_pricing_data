@@ -1,0 +1,19 @@
+{
+  "app_name": "The Events Calendar",
+  "app_slug": "the-events-calendar",
+  "search_term": "Find the official pricing page URL for The Events Calendar (the-events-calendar.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744703286.123094,
+  "response_text": [
+    "The official pricing page for The Events Calendar can be found at: https://theeventscalendar.com/pricing/  "
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://theeventscalendar.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\the-events-calendar\\20250415_034821"
+}

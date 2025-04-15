@@ -1,0 +1,19 @@
+{
+  "app_name": "touchSMS",
+  "app_slug": "touchsms",
+  "search_term": "Find the official pricing page URL for touchSMS (touchsms.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744726885.8010385,
+  "response_text": [
+    "The official pricing page URL for touchSMS is: https://touchsms.com/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://touchsms.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\touchsms\\20250415_102141"
+}

@@ -1,0 +1,137 @@
+{
+  "app_id": "simpletexting",
+  "app_name": "SimpleTexting",
+  "app_slug": "simpletexting",
+  "pricing_url": "https://simpletexting.com/pricing/",
+  "source_url": "https://simpletexting.com/pricing/",
+  "all_pricing_urls": [
+    "https://simpletexting.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription plans with additional usage-based fees for extra credits and features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Basic plan for small businesses.",
+      "monthly_price": 39.0,
+      "annual_price": 398.4,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": 4.0,
+      "features": [
+        "Mass texting",
+        "Two-way messaging",
+        "Free SMS replies and incoming messages",
+        "Auto-replies and drip campaigns",
+        "Picture messaging (MMS)",
+        "AI Assist message generator",
+        "API access",
+        "Reporting and analytics",
+        "Rollover credits",
+        "Unlimited contacts",
+        "Advanced audience segments",
+        "Unlimited text-to-join keywords",
+        "Seamless Mailchimp and Zapier integrations",
+        "Opt-in forms and pop-ups",
+        "Live support 7 days per week",
+        "Enterprise-grade deliverability",
+        "3 users included",
+        "Two-factor authentication",
+        "Personalized onboarding consultation",
+        "Dedicated customer success manager"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Credits",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Tailored plan for specific business needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom integrations",
+        "Dedicated support"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Credits",
+      "unit": "per credit",
+      "base_price": 0.055,
+      "tiers": [
+        {
+          "min": 501.0,
+          "max": "unlimited",
+          "price": 0.055
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Nonprofit Discount",
+      "offer_description": "15% discount for nonprofits, churches, and tax-exempt organizations.",
+      "discount_percentage": 15.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Additional teammates",
+      "fee_amount": 20.0,
+      "fee_description": "Per user per month for additional team members."
+    },
+    {
+      "fee_name": "Additional numbers",
+      "fee_amount": 10.0,
+      "fee_description": "Per number per month for additional phone numbers."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:08:25.808069",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d8fd0221-eb4d-4da5-861c-7a99b3b6c1cc",
+    "name": "SimpleTexting",
+    "slug": "simpletexting",
+    "description": "SimpleTexting is a text messaging platform that helps you reach your customers using one of the most effective channels: their text inbox. Send promotions, alerts, polls or reminders to your entire list in a matter of seconds.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/a9aa21d4a46f5d1563065a21982a2672_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 4
+  }
+}

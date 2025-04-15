@@ -1,0 +1,174 @@
+{
+  "app_id": "nationbuilder",
+  "app_name": "NationBuilder",
+  "app_slug": "nationbuilder",
+  "pricing_url": "https://nationbuilder.com/pricing",
+  "source_url": "https://nationbuilder.com/pricing",
+  "all_pricing_urls": [
+    "https://nationbuilder.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription plans with optional add-ons for enhanced functionality.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Essential starter kit for small organizations.",
+      "monthly_price": 34.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Integrated people database starting at 500 contacts and up to 5K contacts",
+        "Website with standard templates",
+        "Email blast functionality",
+        "Payment and donation processing",
+        "Events and ticketing",
+        "ActionButton Basic included",
+        "Check voter registration (US Only)"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contact capacity",
+            "value": "5,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced features for growing organizations.",
+      "monthly_price": 160.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Integrated people database starting at 500 contacts and up to 15K contacts",
+        "Custom fields and permissions",
+        "Membership management",
+        "Drip email automations and A/B testing",
+        "Address geocoding and turf cutting",
+        "Walk and call sheets",
+        "Autodistricting",
+        "Precinct point people",
+        "Contact lawmakers with ActionButton Plus"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contact capacity",
+            "value": "15,000"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Customizable plan for large-scale organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom database capacity and unlimited email sends",
+        "Dedicated Enterprise Account Manager",
+        "Enhanced automations",
+        "Maximum custom fields, permission sets, and memberships",
+        "Access to developer API and single sign-on",
+        "Unlimited access to all ActionButton Plus actions"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contact capacity",
+            "value": "Custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Text messages",
+      "unit": "per message",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 1650.0,
+          "price": null
+        },
+        {
+          "min": 1651.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Starter Add-ons",
+      "fee_amount": 9.0,
+      "fee_description": "Additional website"
+    },
+    {
+      "fee_name": "Pro Add-ons",
+      "fee_amount": 29.0,
+      "fee_description": "Customization pack"
+    },
+    {
+      "fee_name": "Enterprise Add-ons",
+      "fee_amount": null,
+      "fee_description": "NationBuilder Insights"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:24:36.003107",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f5374416-9e02-441b-bd16-7f8faaebb09a",
+    "name": "NationBuilder",
+    "slug": "nationbuilder",
+    "description": "NationBuilder is designed to power your organizations, movements, and campaigns.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/1b076b739e3bcffb5f9562515687bee9.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 19,
+    "trigger_count": 7
+  }
+}

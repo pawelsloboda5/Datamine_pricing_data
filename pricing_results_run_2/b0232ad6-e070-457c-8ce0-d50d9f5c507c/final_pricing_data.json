@@ -1,0 +1,134 @@
+{
+  "app_id": "fattura24",
+  "app_name": "Fattura24",
+  "app_slug": "fattura24",
+  "pricing_url": "https://www.fattura24.com/prezzi",
+  "source_url": "https://www.fattura24.com/prezzi/",
+  "all_pricing_urls": [
+    "https://www.fattura24.com/prezzi"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 15,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The Professional plan offers a promotional price for the first year.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Professional",
+      "tier_description": "Ideal for freelancers and small businesses.",
+      "monthly_price": 1.0,
+      "annual_price": 96.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Sales and purchase cycle",
+        "Invoices and quotes",
+        "Orders, DTT, and more",
+        "Data submission to TS system",
+        "Customer support"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": 3000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Essential for online sellers or those with inventory.",
+      "monthly_price": 16.0,
+      "annual_price": 192.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Professional plan features",
+        "5 users",
+        "Inventory management",
+        "Public APIs",
+        "E-commerce integrations",
+        "Zapier integration"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": 6000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Complete",
+      "tier_description": "For those focused on management control.",
+      "monthly_price": 32.0,
+      "annual_price": 384.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Business plan features",
+        "Unlimited users",
+        "Unlimited products",
+        "Tree-structured chart of accounts",
+        "Balance sheet processing",
+        "Budget vs Actual"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 10000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "First Year Promo",
+      "offer_description": "Professional plan at \u20ac1/month for the first year.",
+      "discount_percentage": null,
+      "offer_url": "https://www.fattura24.com/prezzi",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Document Limit Exceedance",
+      "fee_amount": null,
+      "fee_description": "Additional charges apply if document limits are exceeded."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T10:21:15.673242",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b0232ad6-e070-457c-8ce0-d50d9f5c507c",
+    "name": "Fattura24",
+    "slug": "fattura24",
+    "description": "Fattura24 is an application available for web and mobile that helps entrepreneurs send invoices, track expenses, manage their clients and do many other things.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/4bf435089f0effe0deb61ae5930ce9af.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

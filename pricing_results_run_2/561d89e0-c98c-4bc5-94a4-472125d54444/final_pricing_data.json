@@ -1,0 +1,118 @@
+{
+  "app_id": "zoho_recruit",
+  "app_name": "Zoho Recruit",
+  "app_slug": "zoho-recruit",
+  "pricing_url": "https://www.zoho.com/recruit/pricing.html",
+  "source_url": "https://www.zoho.com/recruit/pricing.html",
+  "all_pricing_urls": [
+    "https://www.zoho.com/recruit/pricing.html"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 15,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are structured into tiers with specific features and limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Basic features for recruitment.",
+      "monthly_price": 25.0,
+      "annual_price": 240.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Candidate sourcing",
+        "Job advertising",
+        "Careers site",
+        "Social Recruiting",
+        "Employee referral"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Advanced features for recruitment.",
+      "monthly_price": 50.0,
+      "annual_price": 480.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Hiring pipeline",
+        "Resume management",
+        "Manage Submissions",
+        "Background screening",
+        "Hiring analytics"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "50GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Comprehensive features for recruitment.",
+      "monthly_price": 75.0,
+      "annual_price": 720.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Blueprint",
+        "AI Recruitment",
+        "Offer letter",
+        "Onboarding"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:36:15.583568",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "561d89e0-c98c-4bc5-94a4-472125d54444",
+    "name": "Zoho Recruit",
+    "slug": "zoho-recruit",
+    "description": "The all-in-one applicant tracking system for the modern recruiter. Share your job openings with the world! Publish job openings to your company's website and the most popular job boards to increase exposure and start sourcing top talent.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/fc68af9f6e29e081a153b21ac5e686fc.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "HR Talent & Recruitment",
+      "Zoho"
+    ],
+    "category_slugs": [
+      "hr",
+      "zoho"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 2
+  }
+}

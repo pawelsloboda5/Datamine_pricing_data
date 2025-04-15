@@ -1,0 +1,48 @@
+{
+  "app_id": "iris_crm",
+  "app_name": "IRIS CRM",
+  "app_slug": "iris-crm",
+  "pricing_url": "https://www.iriscrm.com/pricing",
+  "source_url": "https://www.iriscrm.com/pricing",
+  "all_pricing_urls": [
+    "https://www.iriscrm.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Detailed pricing information is not explicitly listed on the provided content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:27:27.614031",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3bacb50a-b18f-47ee-b193-2a1fbf244067",
+    "name": "IRIS CRM",
+    "slug": "iris-crm",
+    "description": "IRIS CRM is a payments platform for tracking leads, merchants and calculating residuals for processors such as First Data, TSYS and WorldPay.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/fd6697a4cf3279dc36219b16075fed3e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 12,
+    "trigger_count": 13
+  }
+}

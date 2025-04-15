@@ -1,0 +1,43 @@
+{
+  "app_id": "baselinker",
+  "app_name": "BaseLinker",
+  "app_slug": "baselinker",
+  "pricing_url": null,
+  "source_url": "https://baselinker.com/cennik/",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "No pricing information was found in the provided content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:06:27.490978",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bfd90b77-1248-40e1-8388-707b90ef04b3",
+    "name": "BaseLinker",
+    "slug": "baselinker",
+    "description": "BaseLinker is a cloud-based system integrating 1000+ marketplaces, stores, carriers, accounting and many more. Handle orders 10x faster!",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/4bd8c14deb91c759e4221b10587a0c0e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 2
+  }
+}

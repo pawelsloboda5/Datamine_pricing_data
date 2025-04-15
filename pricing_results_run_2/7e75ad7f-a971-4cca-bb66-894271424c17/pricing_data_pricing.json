@@ -1,0 +1,43 @@
+{
+  "app_id": "freedcamp",
+  "app_name": "Freedcamp",
+  "app_slug": "freedcamp",
+  "pricing_url": null,
+  "source_url": "https://freedcamp.com/Freedcamp_Love/Pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page could not be accessed, and no details were available.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:22:53.033901",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "7e75ad7f-a971-4cca-bb66-894271424c17",
+    "name": "Freedcamp",
+    "slug": "freedcamp",
+    "description": "Freedcamp is a project management tool equipt with all the tools you need to work with your team and organize any project.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/e1d103359cdcd72039e46e82f576d40e_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 3
+  }
+}

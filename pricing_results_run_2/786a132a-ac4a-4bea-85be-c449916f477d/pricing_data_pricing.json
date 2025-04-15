@@ -1,0 +1,156 @@
+{
+  "app_id": "referral_factory",
+  "app_name": "Referral Factory",
+  "app_slug": "referral-factory",
+  "pricing_url": "https://referral-factory.com/pricing",
+  "source_url": "https://referral-factory.com/pricing",
+  "all_pricing_urls": [
+    "https://referral-factory.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 20% discount compared to monthly plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": null,
+      "monthly_price": 76.0,
+      "annual_price": 912.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "500 users",
+        "1 live referral program",
+        "Basic rewards",
+        "Integrations",
+        "Templates",
+        "Fraud alerts",
+        "ReCaptcha verification"
+      ],
+      "limits": {
+        "users": 500,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": null,
+      "monthly_price": 160.0,
+      "annual_price": 1920.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "20,000 users",
+        "Unlimited referral programs",
+        "Everything in Starter",
+        "Teammate access",
+        "Video call support",
+        "Webhooks & API",
+        "Referral analytics",
+        "Rewards and payouts"
+      ],
+      "limits": {
+        "users": 20000,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": null,
+      "monthly_price": 320.0,
+      "annual_price": 3840.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "40,000 users",
+        "Unlimited referral programs",
+        "Everything in Basic",
+        "User verification",
+        "100% white label",
+        "Add your own domain",
+        "2FA secure account",
+        "Dedicated support"
+      ],
+      "limits": {
+        "users": 40000,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": null,
+      "monthly_price": 800.0,
+      "annual_price": 9600.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "100,000+ users",
+        "Unlimited referral programs",
+        "Everything in Pro",
+        "Upload your own HTML",
+        "Pay by Invoice",
+        "Enable SSO",
+        "Host your own data (+$400)"
+      ],
+      "limits": {
+        "users": "100,000+",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Host your own data",
+      "fee_amount": 400.0,
+      "fee_description": "Set up your own server and database. Referral Factory does not see or host any of your user data."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:49:08.520972",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "786a132a-ac4a-4bea-85be-c449916f477d",
+    "name": "Referral Factory",
+    "slug": "referral-factory",
+    "description": "The Easy Way To Build A Referral Program",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/2b010852c4ccb6c71953d94d75533cc6.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 4
+  }
+}

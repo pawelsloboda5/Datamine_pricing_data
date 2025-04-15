@@ -1,0 +1,222 @@
+{
+  "app_id": "dealmachine",
+  "app_name": "DealMachine",
+  "app_slug": "dealmachine",
+  "pricing_url": "https://dealmachine.com/pricing",
+  "source_url": "https://dealmachine.com/pricing",
+  "all_pricing_urls": [
+    "https://dealmachine.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription tiers with additional usage-based options for AI-powered features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Just getting started? Want to try things out? Start here.",
+      "monthly_price": 99.0,
+      "annual_price": 1190.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "1 user",
+        "Unlimited contact info, phone numbers, and email addresses",
+        "Up to 20,000 leads",
+        "10,000 leads exported per month",
+        "Driving for dollars",
+        "AI-Powered Dialer access",
+        "AI Voicemail drops",
+        "1 call tracking number",
+        "MLS & county comps",
+        "Daily data updates",
+        "Mail as low as 67\u00a2"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Leads",
+            "value": 20000
+          },
+          {
+            "name": "Monthly Exports",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Built for small teams with big goals.",
+      "monthly_price": 149.0,
+      "annual_price": 1790.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Everything included in Starter",
+        "3 users",
+        "Up to 60,000 leads",
+        "30,000 exported leads per month",
+        "3 call tracking numbers",
+        "Real estate AI assistant",
+        "Route planning",
+        "Mail sequences",
+        "Custom mail designer",
+        "Curbside view of properties from Google street view on your mail.",
+        "10 Custom Fields",
+        "Mail as low as 62\u00a2"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Leads",
+            "value": 60000
+          },
+          {
+            "name": "Monthly Exports",
+            "value": 30000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro Plus",
+      "tier_description": "Built for pros who need that extra edge to win.",
+      "monthly_price": 232.0,
+      "annual_price": 2790.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Everything included in Pro",
+        "6 users",
+        "Up to 120,000 leads",
+        "60,000 exported leads per month",
+        "6 call tracking number",
+        "Driver recruitment tools",
+        "Custom deal pipeline",
+        "25 custom fields",
+        "Mail as low as 57\u00a2"
+      ],
+      "limits": {
+        "users": 6,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Leads",
+            "value": 120000
+          },
+          {
+            "name": "Monthly Exports",
+            "value": 60000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "AI-Powered Dialer",
+      "unit": "per minute",
+      "base_price": 0.06,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 1000.0,
+          "price": 0.06
+        },
+        {
+          "min": 1001.0,
+          "max": 5000.0,
+          "price": 0.05
+        },
+        {
+          "min": 5001.0,
+          "max": "unlimited",
+          "price": 0.04
+        }
+      ]
+    },
+    {
+      "metric_name": "AI Voicemail Drop",
+      "unit": "per drop",
+      "base_price": 0.08,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 1000.0,
+          "price": 0.08
+        },
+        {
+          "min": 1001.0,
+          "max": 5000.0,
+          "price": 0.07
+        },
+        {
+          "min": 5001.0,
+          "max": "unlimited",
+          "price": 0.06
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Bulk Mail Deposit",
+      "fee_amount": 10000.0,
+      "fee_description": "Discounted mail pricing for bulk deposits."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T10:08:23.552174",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a8294876-46d7-48ee-bc17-4e42cc81f483",
+    "name": "DealMachine",
+    "slug": "dealmachine",
+    "description": "DealMachine intelligently automates your REI marketing process. Simply take a picture of a property with your smartphone and DealMachine looks up the owner and sends highly personalized mail.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/70a77de1f5f6725ec0a70dcd68532adf.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 12,
+    "trigger_count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "app_name": "Email Parser by Zapier",
+  "app_slug": "email-parser",
+  "search_term": "Find the official pricing page URL for Email Parser by Zapier (email-parser.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744720071.5039613,
+  "response_text": [
+    "I couldn't find an official pricing page for Email Parser by Zapier on its website. Let me know if you'd like me to assist further!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\email-parser\\20250415_082751"
+}

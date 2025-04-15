@@ -1,0 +1,199 @@
+{
+  "app_id": "unbounce",
+  "app_name": "Unbounce",
+  "app_slug": "unbounce",
+  "pricing_url": "https://unbounce.com/pricing/",
+  "source_url": "https://unbounce.com/pricing/",
+  "all_pricing_urls": [
+    "https://unbounce.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers a 25% discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Build",
+      "tier_description": "Create unlimited landing pages quickly and easily.",
+      "monthly_price": 99.0,
+      "annual_price": 74.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Drag-and-drop builder",
+        "Unlimited pages",
+        "Traffic volume: up to 20k",
+        "Users: 1",
+        "Root domains: 1",
+        "Popups and sticky bars",
+        "AI copywriting",
+        "Over 100 high-converting templates",
+        "1,000+ integrations",
+        "Custom scripts and pixels",
+        "Custom code",
+        "Custom styling",
+        "Phone, email, and live chat customer support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Traffic volume",
+            "value": "up to 20k"
+          },
+          {
+            "name": "Root domains",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Experiment",
+      "tier_description": "Perform A/B tests and optimize conversions.",
+      "monthly_price": 149.0,
+      "annual_price": 112.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited A/B testing",
+        "Unlimited pages",
+        "Traffic volume: up to 30k",
+        "Users: 3",
+        "Root domains: 2",
+        "Unlimited variants",
+        "Manual traffic allocation",
+        "Confidence intervals",
+        "Dynamic Text Replacement",
+        "Custom scripts and pixels",
+        "Custom code",
+        "Custom styling",
+        "Conversion insights & reporting"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Traffic volume",
+            "value": "up to 30k"
+          },
+          {
+            "name": "Root domains",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Optimize",
+      "tier_description": "Boost ROI with AI traffic optimization and insights.",
+      "monthly_price": 249.0,
+      "annual_price": 187.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "AI traffic optimization",
+        "Unlimited pages",
+        "Traffic volume: up to 50k",
+        "Users: 5",
+        "Root domains: 3",
+        "Page, popup, & sticky bar scheduling",
+        "Advanced triggers",
+        "Advanced targeting",
+        "Industry benchmarking",
+        "Audience insights"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Traffic volume",
+            "value": "up to 50k"
+          },
+          {
+            "name": "Root domains",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Agency",
+      "tier_description": "Run campaigns across multiple teams and clients.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited collaborations",
+        "Unlimited pages",
+        "Traffic volume: starting at 100k",
+        "Users: starting at 5",
+        "Root domains: starting at 20",
+        "Access to implementation services",
+        "Listing in our agency partner directory"
+      ],
+      "limits": {
+        "users": "starting at 5",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Traffic volume",
+            "value": "starting at 100k"
+          },
+          {
+            "name": "Root domains",
+            "value": "starting at 20"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:34:29.587407",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "19cc5a5b-cdf0-4705-8fd9-c720a3c3f085",
+    "name": "Unbounce",
+    "slug": "unbounce",
+    "description": "Unbounce is a landing page platform that helps you convert more visitors into leads, sales, and customers. Unbounce Conversion IntelligenceTM is AI powered-functionality that works with your marketing intuition to ensure the best campaign performance every time.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/606c1e825057f5bf9c13aab28c0b50d3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

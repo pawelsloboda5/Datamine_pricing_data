@@ -1,0 +1,12 @@
+{
+  "app_name": "Curb Hero",
+  "app_slug": "curb-hero",
+  "search_term": "Find the official pricing page URL for Curb Hero (curb-hero.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744690568.4348376,
+  "response_text": [
+    "I couldn't locate the requested pricing page for Curb Hero."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\curb-hero\\20250415_001608"
+}

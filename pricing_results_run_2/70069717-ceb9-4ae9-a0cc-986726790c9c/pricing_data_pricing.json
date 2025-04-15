@@ -1,0 +1,170 @@
+{
+  "app_id": "github",
+  "app_name": "GitHub",
+  "app_slug": "github",
+  "pricing_url": "https://github.com/pricing",
+  "source_url": "https://github.com/pricing",
+  "all_pricing_urls": [
+    "https://github.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "GitHub offers a free tier with unlimited repositories and additional tiers with advanced features. Usage-based pricing applies to certain add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "The basics for individuals and organizations",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited public/private repositories",
+        "Dependabot security and version updates",
+        "2,000 CI/CD minutes/month",
+        "500MB of Packages storage",
+        "Issues & Projects",
+        "Community support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "500MB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Advanced collaboration for individuals and organizations",
+      "monthly_price": 4.0,
+      "annual_price": 48.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything included in Free",
+        "Access to GitHub Codespaces",
+        "Protected branches",
+        "Multiple reviewers in pull requests",
+        "Draft pull requests",
+        "Code owners",
+        "Required reviewers",
+        "Pages and Wikis",
+        "Environment deployment branches and secrets",
+        "3,000 CI/CD minutes/month",
+        "2GB of Packages storage",
+        "Web-based support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "2GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Security, compliance, and flexible deployment",
+      "monthly_price": 21.0,
+      "annual_price": 252.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything included in Team",
+        "Data residency",
+        "Enterprise Managed Users",
+        "User provisioning through SCIM",
+        "Enterprise Account to centrally manage multiple organizations",
+        "Environment protection rules",
+        "Repository rules",
+        "Audit Log API",
+        "SOC1, SOC2, type 2 reports annually",
+        "FedRAMP Tailored Authority to Operate (ATO)",
+        "SAML single sign-on",
+        "Advanced auditing",
+        "GitHub Connect",
+        "50,000 CI/CD minutes/month",
+        "50GB of Packages storage"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "50GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "GitHub Codespaces",
+      "unit": "per hour of compute",
+      "base_price": 0.18,
+      "tiers": null
+    },
+    {
+      "metric_name": "Git Large File Storage",
+      "unit": "per month",
+      "base_price": 5.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "GitHub Advanced Security",
+      "fee_amount": 19.0,
+      "fee_description": "Secret Protection per committer per month"
+    },
+    {
+      "fee_name": "GitHub Advanced Security",
+      "fee_amount": 30.0,
+      "fee_description": "Code Security per committer per month"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:14:59.881205",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "70069717-ceb9-4ae9-a0cc-986726790c9c",
+    "name": "GitHub",
+    "slug": "github",
+    "description": "GitHub is the perfect place to share code and work collaboratively on private and open source software.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c63f7c57dc0afb733535a5adccce4d01.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Developer Tools"
+    ],
+    "category_slugs": [
+      "developer-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 17,
+    "trigger_count": 18
+  }
+}

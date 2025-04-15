@@ -1,0 +1,50 @@
+{
+  "app_id": "zoho_bookings",
+  "app_name": "Zoho Bookings",
+  "app_slug": "zoho-bookings",
+  "pricing_url": "https://www.zoho.com/bookings/pricing.html",
+  "source_url": "https://www.zoho.com/bookings/",
+  "all_pricing_urls": [
+    "https://www.zoho.com/bookings/pricing.html"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page provides details on subscription plans and features.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:46:25.701061",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1c56dfe5-4300-4769-b56d-fe88d780c91f",
+    "name": "Zoho Bookings",
+    "slug": "zoho-bookings",
+    "description": "Zoho Bookings is an appointment scheduler that lets you find the perfect time with your customers. Book quality meetings and increase sales.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/b4cd5183845ec878a22d59f42e2939c2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking",
+      "Zoho"
+    ],
+    "category_slugs": [
+      "scheduling",
+      "zoho"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

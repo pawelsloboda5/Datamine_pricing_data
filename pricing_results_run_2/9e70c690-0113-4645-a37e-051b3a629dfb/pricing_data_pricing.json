@@ -1,0 +1,154 @@
+{
+  "app_id": "roofr",
+  "app_name": "Roofr",
+  "app_slug": "roofr",
+  "pricing_url": null,
+  "source_url": "https://roofr.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes both subscription and usage-based models. Specific features and limits vary by tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic access to Roofr features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Send up to 5 proposals for free",
+        "Basic job management features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "limited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Proposals",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Enhanced features for professionals.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced job management",
+        "Custom workflows",
+        "Performance dashboard"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "limited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "File uploads",
+            "value": 50
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Comprehensive tools for businesses.",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Pro features",
+        "Priority support",
+        "Additional automations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "limited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "File uploads",
+            "value": 500
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Roofr Reports",
+      "unit": "per report",
+      "base_price": 19.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 10.0,
+          "price": 19.0
+        },
+        {
+          "min": 11.0,
+          "max": "unlimited",
+          "price": 13.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Material Calculations",
+      "unit": "per report",
+      "base_price": 5.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Expedited Delivery",
+      "fee_amount": 5.0,
+      "fee_description": "Additional fee for guaranteed delivery within 12 hours."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:38:23.513887",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9e70c690-0113-4645-a37e-051b3a629dfb",
+    "name": "Roofr",
+    "slug": "roofr",
+    "description": "Roofr: spend less time on admin and more time growing your roofing business. Manage reports, proposals, invoicing, payments, and more, on our easy-to-use platform.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/68822cae1ac9daed1e49e37e082b15f0.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 6
+  }
+}

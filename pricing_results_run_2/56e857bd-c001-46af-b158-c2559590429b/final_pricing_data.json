@@ -1,0 +1,179 @@
+{
+  "app_id": "donately",
+  "app_name": "Donately",
+  "app_slug": "donately",
+  "pricing_url": "https://donately.com/pricing",
+  "source_url": "https://donately.com/pricing",
+  "all_pricing_urls": [
+    "https://donately.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier",
+    "custom"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Platform fees are additional to payment processing fees by Stripe and PayPal.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Core",
+      "tier_description": "Basic plan for live donation forms.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Live donation forms"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Embed giving into your website.",
+      "monthly_price": 19.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Embed donation forms",
+        "Basic customization"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Customization for small teams.",
+      "monthly_price": 69.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced customization",
+        "Team fundraising"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Tailored pricing for high-volume organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom rates",
+        "Priority support",
+        "Strategic guidance"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Platform Fee",
+      "unit": "percentage",
+      "base_price": 4.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": null,
+          "price": 4.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Platform Fee",
+      "unit": "percentage",
+      "base_price": 3.5,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": null,
+          "price": 3.5
+        }
+      ]
+    },
+    {
+      "metric_name": "Platform Fee",
+      "unit": "percentage",
+      "base_price": 2.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": null,
+          "price": 2.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Stripe Credit Card Processing",
+      "fee_amount": 2.9,
+      "fee_description": "Percentage fee for credit card transactions."
+    },
+    {
+      "fee_name": "Stripe ACH Processing",
+      "fee_amount": 0.8,
+      "fee_description": "Percentage fee for ACH transactions, capped at $5."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:04:52.316978",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "56e857bd-c001-46af-b158-c2559590429b",
+    "name": "Donately",
+    "slug": "donately",
+    "description": "Donately makes online donations dead simple and provides a space for non-profits to manage their donors and online giving activity with ease.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/b55f37be2096f15792b76e9a000b1cd1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fundraising"
+    ],
+    "category_slugs": [
+      "fundraising"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 6
+  }
+}

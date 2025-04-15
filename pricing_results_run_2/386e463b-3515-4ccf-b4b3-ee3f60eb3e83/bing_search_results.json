@@ -1,0 +1,104 @@
+{
+  "app_name": "Pocket",
+  "app_slug": "pocket",
+  "search_term": "Find the official pricing page URL for Pocket (pocket.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744705691.696442,
+  "response_text": [
+    "The official pricing page for Pocket can be found here: https://www.pocket.com/premium/ ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.pocket.com/premium/",
+      "is_accessible": true,
+      "content": "Your path to ideas, inspiration, and focus.\n-------------------------------------------\n\nIt\u2019s a wild internet out there. Pocket Premium gives you a beautiful, ad-free space to absorb stories at your own pace\u2014and keep them for however long you\u2019d like.\n\nBuild a permanent library of everything you\u2019ve saved\n\nRead in a custom, ad\u2011free space\n\nFind content quickly with enhanced searching & tagging\n\nCapture ideas with unlimited highlights\n\nPocket\n\nFree Account\n\n*   Save, read, watch & listen\n\nSave 25%\n\nPremium\n\nAnnual Membership\n\n$44.99/year\n\n*   Save, read, watch & listen\n*   Permanent library of everything you\u2019ve saved\n*   Suggested tags\n*   Full-text search\n*   Unlimited highlights\n*   Premium fonts\n\nPremium\n\nMonthly Membership\n\n$4.99/month\n\n*   Save, read, watch & listen\n*   Permanent library of everything you\u2019ve saved\n*   Suggested tags\n*   Full-text search\n*   Unlimited highlights\n*   Premium fonts\n\n### A forever home for your collection\n\nPocket becomes your permanent library\u2014so even if a page you\u2019ve saved is taken down, you\u2019ll still have a copy of it in Pocket.\n\n### Focused attention\n\nA calm, ad-free reading environment gives your mind the peace and quiet it deserves.\n\n### Stories at your fingertips\n\nLong list? No problem. Quickly find anything you\u2019ve saved with access to our premium search engine. Look up articles by keyword, topic, author, tag, and more.\n\n### Smart tags\n\nWe\u2019ll suggest tags from your list each time you save a story\u2014the more you tag, the more helpful the suggestions become. Finding content becomes a cinch.\n\n### Your ideas, highlighted\n\nWith unlimited highlighting in every article, you\u2019ll have a permanent record of all those \u201cAha!\u201d moments.\n\n### Custom reading experience\n\nLike rounder fonts, wider spacing, or condensed text? Tailor Pocket to suit your reading style with custom text settings.\n\nHear from current members:\n--------------------------\n\n\u201c Permanent library is a valuable feature for me. I work in journalism. There\u2019s always a risk that a site will shut down with no notice and I'll lose access to something I want to read (or something I wrote!).\u201d\n\nLisa, Saint Petersburg, FL\n\n\u201cIt\u2019s hard enough to navigate information; knowing my experience is ad-free helps me concentrate on consuming content versus finding it.\u201d\n\nPriyanka, Toronto, Ontario\n\n\u201c I read actively on Pocket using tags and search. This allows me to go back to articles from previous months and make connections to newer articles.\u201d\n\nMatt, New York, NY\n\n*   \u201cPermanent library is a valuable feature for me. I work in journalism. There\u2019s always a risk that a site will shut down with no notice and I'll lose access to something I want to read (or something I wrote!).\u201d\n    \n    Lisa, Saint Petersburg, FL\n    \n*   \u201cIt\u2019s hard enough to navigate information; knowing my experience is ad-free helps me concentrate on consuming content versus finding it.\u201d\n    \n    Priyanka, Toronto, Ontario\n    \n*   \u201cI read actively on Pocket using tags and search. This allows me to go back to articles from previous months and make connections to newer articles.\u201d\n    \n    Matt, New York, NY\n    \n\nPremium perks by the numbers:\n-----------------------------\n\nPremium members read\n\n2.6x\n\nmore stories than non-premium members\n\nIdeal Sans\n\nmost popular font exclusive to premium members\n\nPremium members highlight\n\n360%\n\nmore ideas thanks to unlimited highlighting\n\nSave 25%\n\nAnnual Membership\n\n$44.99/year\n\nMonthly Membership\n\n$4.99/month",
+      "error": null,
+      "pricing_data": {
+        "app_id": "pocket",
+        "app_name": "Pocket",
+        "app_slug": "pocket",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": null,
+        "pricing_tiers": [
+          {
+            "tier_name": "Free Account",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Save, read, watch & listen"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Premium - Monthly Membership",
+            "tier_description": null,
+            "monthly_price": 4.99,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Save, read, watch & listen",
+              "Permanent library of everything you\u2019ve saved",
+              "Suggested tags",
+              "Full-text search",
+              "Unlimited highlights",
+              "Premium fonts"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Premium - Annual Membership",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": 44.99,
+            "annual_discount_percentage": 25.0,
+            "setup_fee": null,
+            "features": [
+              "Save, read, watch & listen",
+              "Permanent library of everything you\u2019ve saved",
+              "Suggested tags",
+              "Full-text search",
+              "Unlimited highlights",
+              "Premium fonts"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Save 25%",
+            "offer_description": "Discount on annual membership.",
+            "discount_percentage": 25.0,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T04:28:23.640997",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\pocket\\20250415_042823"
+}

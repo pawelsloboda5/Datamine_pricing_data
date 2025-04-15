@@ -1,0 +1,43 @@
+{
+  "app_id": "justcall",
+  "app_name": "JustCall",
+  "app_slug": "justcall",
+  "pricing_url": null,
+  "source_url": "https://justcall.io/pricing\u30103:0\u2020source\u3011.",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "Pricing information was not accessible or provided in the content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:38:49.789423",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "ce7be397-b6ad-45e4-9927-f672ab63b117",
+    "name": "JustCall",
+    "slug": "justcall",
+    "description": "JustCall helps sales and support teams to connect easily with their leads & customers. We provide a cloud based service that allows you to make calls and send text messages.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c5d9653bf6e722f19953b5d037d93698.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 14,
+    "trigger_count": 21
+  }
+}

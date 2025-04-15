@@ -1,0 +1,274 @@
+{
+  "app_name": "Zenkit",
+  "app_slug": "zenkit",
+  "search_term": "Find the official pricing page URL for Zenkit (zenkit.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744699006.658345,
+  "response_text": [
+    "The official pricing page for Zenkit can be found at this URL: [https://zenkit.com/pricing](https://zenkit.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Zenkit",
+      "url": "https://zenkit.com/en/suite/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://zenkit.com/pricing",
+      "is_accessible": true,
+      "content": "Features\nPricing\nBook a free consultation\nLog in\nGet started\nUnleash the Full Power of Projects\nHolistic team collaboration for any team size\nSave up to 16% with the annual plan\nMonthly\nAnnually\nEuro\nDollar\nPersonal\n\nFor individuals or small teams to stay organized\n\nFree\n\nfor personal use\n\nWhat\u2019s included\nRecurring Tasks\n2-Factor-Authentification\nAutomation\nStart free\nPlus\n\nFor growing teams to gain projects overviews\n\n\u20ac 8,00\n\nper month / seat\n\nAll Personal features, and\nGantt Chart\nAdvanced Access Control\nCustom Fields\nPassword Restrictions\nUser Roles\nEmail to Project\nTheme Customization\nPriority Support\nMost popular\nStart free\nBusiness\n\nFor companies to align goals and manage multi-projects\n\n\u20ac 21,00\n\nper month / seat\n\nAll Plus features, and\nAdvanced Gantt Features\nAPI Access\nUser Group Management\nCentral User Management\nActivity Auditing\nProvisioning (SCIM)\nSSO (SAML)\nStart free\nEnterprise\n\nFor companies that need scalable project management\n\nIndividually\n\nper month / seat\n\nAll Business features, and\nUnlimited Quotas\nDedicated Success Management\nEnterprise API\nTailored Onboarding\nService-Level-Agreement\nAdditional Payment Options\nEarly Access to New Features\nStart free\nPlan Comparison\nFind the best plan for you\nPersonal\nPlus\nBusiness\nEnterprise\nWorkspaces \nWorkspaces are folders of collections.\n10\n100\n500\nUnlimited\nLists \nCollections are lists of items, e.g. a list of clients or tasks.\n25\n100\n1000\nUnlimited\nItems\n500\n50.000\n150.000\nUnlimited\nComments per Month\n200\n1.000 per seat\n10.000 per seat\nUnlimited\nAutomation Runs per Month\n10 per seat\n300 per seat\n3.000 per seat\nUnlimited\nFiles \nTotal storage space for files attached to items and comments.\n1 GB\n6 GB\n50 GB\nUnlimited\nDashboards\n2-Factor Authentication\nRecurring Tasks\niCal Integration\n-\nForm Editor View\n-\nGantt Chart\n-\nAdvanced Access Control\n-\nPassword Restrictions\n-\nUser Roles\n-\nEmail to Project\n-\nTheme Customization\n-\nPriority Support\n-\nCustom Fields\n-\nAdvanced Gantt Features\n-\n-\nUser Group Management\n-\n-\nProvisioning (SCIM)\n-\n-\nSSO (SAML)\n-\n-\nAPI Access\n-\n-\nActivity Auditing\n-\n-\nCentral User Management\n-\n-\nUnlimited Quotas\n-\n-\n-\nDedicated Success Management\n-\n-\n-\nEnterprise API\n-\n-\n-\nTailored Onboarding\n-\n-\n-\nService-Level-Agreement\n-\n-\n-\nAdditional Payment Options\n-\n-\n-\nEarly Access to New Features\n-\n-\n-\nRead more\nZenkit\nZenkit is the multi-project management solution for agile and classical projects.\n \nProducts\nFeatures\nPricing\nPlatforms\nSolutions (Zenkit)\nAlternatives\nIntegrations\nBlog\nDocumentation\nBook a Live Demo\nCompany\nAbout Us\nNewsroom\nPress Kit\nAcademy\nCareers\nCustomer Stories\nTestimonials\nFor Enterprise\nFind a Partner\nRoadmap\nAll Products\nService\nTutorials\nNewsletter\nAffiliate\nGDPR\nSecurity Practices\nKnowledge Base\nContact\nAny questions about Zenkit Projects? Give us a call.\n +49 721 35 28 375\nDeutsch\nEnglish\nFran\u00e7ais\nEspa\u00f1ol\nItaliano\nPortugu\u00eas\n\ud55c\uad6d\uc5b4\n\u0420\u0443\u0441\u0441\u043a\u0438\u0439\n\u7e41\u9ad4\u4e2d\u6587\n\u65e5\u672c\u8a9e\n\u00a9 2025 Zenkit. A venture of Axonic GmbH.\n\nAll rights reserved. Read our Legal Notice, Privacy Policy and Terms of Service\nNotice\n\nWe and selected third parties use cookies or similar technologies for technical purposes and, with your consent, for functionality, experience, measurement and \u201cmarketing (personalized ads)\u201d as specified in the cookie policy.\n\nYou can freely give, deny, or withdraw your consent at any time by accessing the preferences panel. Denying consent may make related features unavailable.\n\nUse the \u201cAccept\u201d button to consent.\n\nLearn more and customize\nAccept\n\nLearn more about pricing in Zenkit Projects and launch your project. Start with the free plan or choose to upgrade for even more features!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "zenkit",
+        "app_name": "Zenkit",
+        "app_slug": "zenkit",
+        "pricing_url": "https://zenkit.com/en/pricing/",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://zenkit.com/en/pricing/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "EUR",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Annual plans offer up to 16% savings compared to monthly plans.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Personal",
+            "tier_description": "For individuals or small teams to stay organized",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Recurring Tasks",
+              "2-Factor-Authentification",
+              "Automation"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "1 GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Workspaces",
+                  "value": 10
+                },
+                {
+                  "name": "Lists",
+                  "value": 25
+                },
+                {
+                  "name": "Items",
+                  "value": 500
+                },
+                {
+                  "name": "Comments per Month",
+                  "value": 200
+                },
+                {
+                  "name": "Automation Runs per Month",
+                  "value": "10 per seat"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Plus",
+            "tier_description": "For growing teams to gain projects overviews",
+            "monthly_price": 8.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "All Personal features",
+              "Gantt Chart",
+              "Advanced Access Control",
+              "Custom Fields",
+              "Password Restrictions",
+              "User Roles",
+              "Email to Project",
+              "Theme Customization",
+              "Priority Support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "6 GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Workspaces",
+                  "value": 100
+                },
+                {
+                  "name": "Lists",
+                  "value": 100
+                },
+                {
+                  "name": "Items",
+                  "value": 50000
+                },
+                {
+                  "name": "Comments per Month",
+                  "value": "1000 per seat"
+                },
+                {
+                  "name": "Automation Runs per Month",
+                  "value": "300 per seat"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "For companies to align goals and manage multi-projects",
+            "monthly_price": 21.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "All Plus features",
+              "Advanced Gantt Features",
+              "API Access",
+              "User Group Management",
+              "Central User Management",
+              "Activity Auditing",
+              "Provisioning (SCIM)",
+              "SSO (SAML)"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "50 GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Workspaces",
+                  "value": 500
+                },
+                {
+                  "name": "Lists",
+                  "value": 1000
+                },
+                {
+                  "name": "Items",
+                  "value": 150000
+                },
+                {
+                  "name": "Comments per Month",
+                  "value": "10000 per seat"
+                },
+                {
+                  "name": "Automation Runs per Month",
+                  "value": "3000 per seat"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "For companies that need scalable project management",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "All Business features",
+              "Unlimited Quotas",
+              "Dedicated Success Management",
+              "Enterprise API",
+              "Tailored Onboarding",
+              "Service-Level-Agreement",
+              "Additional Payment Options",
+              "Early Access to New Features"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Workspaces",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "Lists",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "Items",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "Comments per Month",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "Automation Runs per Month",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T02:37:08.842349",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://zenkit.com/en/suite/pricing/",
+      "is_accessible": true,
+      "content": "# Pricing | Zenkit\n\n\n\nWhether for a small business, solo work, or as part of a larger enterprise, find your plan here with the Zenkit Suite's pricing options.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "zenkit",
+        "app_name": "Zenkit",
+        "app_slug": "zenkit",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The content provided does not include specific pricing details.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T02:37:13.818688",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\zenkit\\20250415_023714"
+}

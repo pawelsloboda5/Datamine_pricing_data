@@ -1,0 +1,43 @@
+{
+  "app_id": "placetel",
+  "app_name": "Placetel",
+  "app_slug": "placetel",
+  "pricing_url": null,
+  "source_url": "https://www.placetel.com",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "No pricing information was found in the provided content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:01:37.496721",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0eaff922-cbbc-4ce4-8940-0726fe660a56",
+    "name": "Placetel",
+    "slug": "placetel",
+    "description": "The PBX from the cloud. Modern business telephony with more than 150 telephone system functions.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/ff2832830da98ba07acad85a3ced6cb1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Call Tracking"
+    ],
+    "category_slugs": [
+      "call-tracking"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 4
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "app_id": "cloudconvert",
+  "app_name": "CloudConvert",
+  "app_slug": "cloudconvert",
+  "pricing_url": "https://cloudconvert.com/pricing",
+  "source_url": "https://cloudconvert.com/pricing",
+  "all_pricing_urls": [
+    "https://cloudconvert.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on conversion credits, with specific base credits required for different conversion types. Enterprise plans are custom-tailored.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Subscription",
+      "tier_description": "Monthly subscription with credits for conversions.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Monthly credits for conversions",
+        "Auto refill option",
+        "Team billing available"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Conversion Credits",
+            "value": "Based on subscription plan"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Package",
+      "tier_description": "One-time purchase of conversion credits.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "One-time credits for conversions",
+        "Auto refill option",
+        "Team billing available"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Conversion Credits",
+            "value": "Based on package size"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom-tailored plans for large-scale needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Metered billing",
+        "Invoicing",
+        "Custom contracts and NDAs",
+        "Dedicated capacity",
+        "Custom fonts",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Conversion Credits",
+      "unit": "per minute",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:34:30.905756",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d5e6bafc-35c1-48be-a12e-f835d3324622",
+    "name": "CloudConvert",
+    "slug": "cloudconvert",
+    "description": "CloudConvert converts files between more than 200 supported formats: documents, image, spreadsheet, presentation, audio, video and more!",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/4d4104ab84653209e77056478ca21223.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "File Management & Storage"
+    ],
+    "category_slugs": [
+      "files"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 2
+  }
+}

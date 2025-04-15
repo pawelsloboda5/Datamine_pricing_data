@@ -1,0 +1,130 @@
+{
+  "app_id": "personio",
+  "app_name": "Personio",
+  "app_slug": "personio",
+  "pricing_url": "https://www.personio.com/pricing/",
+  "source_url": "https://www.personio.com/pricing",
+  "all_pricing_urls": [
+    "https://www.personio.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is customized based on company size and selected features. Discounts are available for annual subscriptions.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Core",
+      "tier_description": "Everything you need for a foundation of HR excellence.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Employee Profiles, List & Org Chart",
+        "Legal Entity Management (1 legal entity)",
+        "Salary Management",
+        "Position Management",
+        "Time Tracking (1 legal entity)",
+        "Absence Management (Unlimited)",
+        "Preliminary Payroll (Unlimited)",
+        "Analytics & Reporting",
+        "Documents & eSignature (Limited)",
+        "Workflow Automations",
+        "Secure Login",
+        "Role-Based Data Access Control",
+        "Personio Mobile App"
+      ],
+      "limits": {
+        "users": "10-2000",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Core Pro",
+      "tier_description": "Limitless features of Core with advanced settings.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Employee Profiles, List & Org Chart",
+        "Legal Entity Management (Unlimited)",
+        "Salary Management",
+        "Position Management",
+        "Time Tracking (Unlimited)",
+        "Absence Management (Unlimited)",
+        "Preliminary Payroll (Unlimited)",
+        "Analytics & Reporting",
+        "Documents & eSignature (Unlimited)",
+        "Workflow Automations",
+        "Secure Login",
+        "Google Single Sign-On (SSO)",
+        "Role-Based Data Access Control",
+        "Access to Public API",
+        "Open Authorisation (OAuth)",
+        "Okta & Microsoft Entra ID integrations",
+        "Personio Marketplace",
+        "Personio Mobile App"
+      ],
+      "limits": {
+        "users": "10-2000",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Subscription Discount",
+      "offer_description": "Annual subscription with annual upfront payment benefit from a 10% discount on software services.",
+      "discount_percentage": 10.0,
+      "offer_url": "https://www.personio.com/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Setup Fee",
+      "fee_amount": null,
+      "fee_description": "One-time fee dependent on company size."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:53:13.273752",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ef2d13cf-cbc0-42a2-83ed-d7a657da8e5a",
+    "name": "Personio",
+    "slug": "personio",
+    "description": "Personio is a holistic HR software for companies from 10 - 2000 employees.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/e80e7048543c7560f672a92f20fb765c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Human Resources"
+    ],
+    "category_slugs": [
+      "human-resources"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 14,
+    "trigger_count": 10
+  }
+}

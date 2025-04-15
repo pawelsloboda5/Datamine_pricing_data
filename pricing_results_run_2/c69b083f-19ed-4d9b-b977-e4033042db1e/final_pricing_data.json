@@ -1,0 +1,130 @@
+{
+  "app_id": "teamgantt",
+  "app_name": "TeamGantt",
+  "app_slug": "teamgantt",
+  "pricing_url": "https://www.teamgantt.com/pricing",
+  "source_url": "https://www.teamgantt.com/pricing",
+  "all_pricing_urls": [
+    "https://www.teamgantt.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of managers, with collaborators being free. Annual billing offers a discount.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Plan",
+      "tier_description": "For personal projects and small teams.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 manager",
+        "2 collaborators",
+        "1 project",
+        "60 tasks"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For teams needing advanced features.",
+      "monthly_price": 49.0,
+      "annual_price": 588.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited tasks",
+        "Unlimited collaborators",
+        "Core gantt features",
+        "Calendar",
+        "List",
+        "Integrations",
+        "Project boards",
+        "Priority support",
+        "Workloads",
+        "Baselines",
+        "Time tracking",
+        "Hourly estimating",
+        "Portfolio management",
+        "Teams",
+        "Lock milestones",
+        "RACI"
+      ],
+      "limits": {
+        "users": "per manager",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Unlimited Everything",
+      "tier_description": "For large teams needing unlimited access.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited managers",
+        "Unlimited projects",
+        "Unlimited tasks",
+        "RACI",
+        "Project health",
+        "Custom boards",
+        "3 custom training sessions"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:44:49.690723",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c69b083f-19ed-4d9b-b977-e4033042db1e",
+    "name": "TeamGantt",
+    "slug": "teamgantt",
+    "description": "TeamGantt is an intuitive project planning & management service.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/ec9e603bfeaa4a8338d97919330e2ba2_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 12,
+    "trigger_count": 9
+  }
+}

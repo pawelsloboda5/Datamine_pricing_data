@@ -1,0 +1,94 @@
+{
+  "app_id": "amazon_s3",
+  "app_name": "Amazon S3",
+  "app_slug": "amazon-s3",
+  "pricing_url": "https://aws.amazon.com/s3/pricing/",
+  "source_url": "https://aws.amazon.com/s3/pricing/",
+  "all_pricing_urls": [
+    "https://aws.amazon.com/s3/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Amazon S3 pricing is based on usage metrics such as storage, requests, and data transfer.",
+  "pricing_tiers": null,
+  "usage_based_pricing": [
+    {
+      "metric_name": "storage",
+      "unit": "per GB",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 50000.0,
+          "price": 0.023
+        },
+        {
+          "min": 50001.0,
+          "max": 500000.0,
+          "price": 0.022
+        },
+        {
+          "min": 500001.0,
+          "max": "unlimited",
+          "price": 0.021
+        }
+      ]
+    },
+    {
+      "metric_name": "data transfer",
+      "unit": "per GB",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 1.0,
+          "price": 0.0
+        },
+        {
+          "min": 2.0,
+          "max": 10.0,
+          "price": 0.09
+        },
+        {
+          "min": 11.0,
+          "max": "unlimited",
+          "price": 0.085
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:44:46.023327",
+  "schema_validated": true,
+  "confidence_score": 70,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "518a671a-3aa0-4964-a3fe-0bc8b2ca4abe",
+    "name": "Amazon S3",
+    "slug": "amazon-s3",
+    "description": "Amazon Simple Storage Service is a fully redundant data storage system. It makes it easy to store and retrieve any amount of data, anytime, from anywhere.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/148f220f00f8765bf6ddb97266727c33.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Amazon",
+      "File Management & Storage"
+    ],
+    "category_slugs": [
+      "aws",
+      "files"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 1
+  }
+}

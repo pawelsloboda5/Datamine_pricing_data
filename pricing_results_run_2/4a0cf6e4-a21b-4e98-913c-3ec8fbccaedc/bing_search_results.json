@@ -1,0 +1,165 @@
+{
+  "app_name": "Salestrekker",
+  "app_slug": "salestrekker",
+  "search_term": "Find the official pricing page URL for Salestrekker (salestrekker.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744702625.6605868,
+  "response_text": [
+    "The official Salestrekker pricing page can be found at: [https://salestrekker.com/pricing](https://salestrekker.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Salestrekker Pricing",
+      "url": "https://salestrekker.com/prices"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://salestrekker.com/prices",
+      "is_accessible": true,
+      "content": "[![Image 1: Salestrekker](https://salestrekker.com/_next/static/media/logo_128h.c4b04d92.png)](https://salestrekker.com/)\n\nPricing to fit your business needs\n----------------------------------\n\nPlan options for Salestrekker 2.0 are displayed below\n\n*   ### $89.99\n    \n    #### user/monthly (+GST)\n    \n    BROKER SUPPORT\n    \n    For admin staff and loan processors, without products and calculators\n    \n    *   FEATURES\n    \n    *   \\- Deal tracking and reporting\n    *   \\- Task management\n    *   \\- Partner Portal access\n    *   \\- Client Portal access\n    *   \\- Workflow automation\n    *   \\- Dynamic templates\n    *   \\- Email to Deal notes\n    *   \\- Merge documents\n    \n    *   Customer support\n    \n    *   \\- Business days, 6AM to 10PM AEST\n    *   \\- Saturday, 8AM to 3PM AEST\n    *   \\- Via Live chat and email\n    *   \\- Video tutorials and Knowledge base\n    \n*   ### $249.99\n    \n    #### user/monthly (+GST)\n    \n    PREMIUM BROKER\n    \n    For mortgage brokers that require products and calculators\n    \n    *   FEATURES\n    \n    *   \\- BROKER SUPPORT package plus:\n    *   \\- Broker tools\n    *   \\- Home Loans\n    *   \\- Asset Finance\n    *   \\- Commercial Finance\n    *   \\- Compliance Documents\n    *   \\- Quick calculators\n    *   \\- Lender policy search\n    \n    *   Customer support\n    \n    *   \\- Business days, 6AM to 10PM AEST\n    *   \\- Saturday, 8AM to 3PM AEST\n    *   \\- Via Live chat and email\n    *   \\- Video tutorials and Knowledge base\n    \n*   ### $149.99\n    \n    #### user/monthly (+GST)\n    \n    PARABROKER\n    \n    For broker support that require calculators and policy tools\n    \n    *   FEATURES\n    \n    *   \\- BROKER SUPPORT package plus:\n    *   \\- Quick calculators\n    *   \\- Lender policy search\n    *   \\- Property data & reports\n    *   \\- Customisable client portal\n    *   \\- API access\n    \n    *   Customer support\n    \n    *   \\- Business days, 6AM to 10PM AEST\n    *   \\- Saturday, 8AM to 3PM AEST\n    *   \\- Via Live chat and email\n    *   \\- Video tutorials and Knowledge base\n    \n\nThis site uses cookies, including from third parties, to guarantee you the best experience on our site, analyze traffic on our site, show you personalized ads on third-party websites and to provide you with social media features. You can change your preference at any time by acessing the cookie settings. For more information, read our Privacy Policy and our Terms of Use (see site footer).\n\nAutomate your finance pipeline and keep in touch with your clients and referral partners.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "salestrekker",
+        "app_name": "Salestrekker",
+        "app_slug": "salestrekker",
+        "pricing_url": "https://salestrekker.com/",
+        "source_url": "https://salestrekker.com/",
+        "all_pricing_urls": [
+          "https://salestrekker.com/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "AUD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Prices are listed per user per month and exclude GST.",
+        "pricing_tiers": [
+          {
+            "tier_name": "BROKER SUPPORT",
+            "tier_description": "For admin staff and loan processors, without products and calculators",
+            "monthly_price": 89.99,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Deal tracking and reporting",
+              "Task management",
+              "Partner Portal access",
+              "Client Portal access",
+              "Workflow automation",
+              "Dynamic templates",
+              "Email to Deal notes",
+              "Merge documents"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "PREMIUM BROKER",
+            "tier_description": "For mortgage brokers that require products and calculators",
+            "monthly_price": 249.99,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "BROKER SUPPORT package plus",
+              "Broker tools",
+              "Home Loans",
+              "Asset Finance",
+              "Commercial Finance",
+              "Compliance Documents",
+              "Quick calculators",
+              "Lender policy search"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "PARABROKER",
+            "tier_description": "For broker support that require calculators and policy tools",
+            "monthly_price": 149.99,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "BROKER SUPPORT package plus",
+              "Quick calculators",
+              "Lender policy search",
+              "Property data & reports",
+              "Customisable client portal",
+              "API access"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:37:17.354143",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://salestrekker.com/pricing",
+      "is_accessible": true,
+      "content": "`AccessDenied`Access DeniedG9G6P3GA07DXHWB6AJT5tPonBviHzYBFZfajQeDKn1JyDs0Oii8gfY3Ir0GKl3oUAdpOJdlK5jMZ07ghTFOguN13kJY=\n\nThis XML file does not appear to have any style information associated with it. The document tree is shown below.  \n\n<Error\\>\n\n<Code\\>AccessDenied</Code\\>\n\n<Message\\>Access Denied</Message\\>\n\n<RequestId\\>G9G6P3GA07DXHWB6</RequestId\\>\n\n<HostId\\>AJT5tPonBviHzYBFZfajQeDKn1JyDs0Oii8gfY3Ir0GKl3oUAdpOJdlK5jMZ07ghTFOguN13kJY=</HostId\\>\n\n...\n\n</Error\\>",
+      "error": null,
+      "pricing_data": {
+        "app_id": "salestrekker",
+        "app_name": "Salestrekker",
+        "app_slug": "salestrekker",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing information could not be accessed due to restrictions on the source page.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:37:24.197146",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": true,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\salestrekker\\20250415_033724"
+}

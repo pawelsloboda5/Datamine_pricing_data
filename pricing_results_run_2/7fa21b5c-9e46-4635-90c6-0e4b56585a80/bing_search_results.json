@@ -1,0 +1,24 @@
+{
+  "app_name": "Asana",
+  "app_slug": "asana",
+  "search_term": "Find the official pricing page URL for Asana (asana.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744719747.7482066,
+  "response_text": [
+    "The official pricing page for Asana is located at: [https://asana.com/pricing](https://asana.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Asana Pricing | Personal, Starter, Advanced, & Enterprise plans \u2022 Asana",
+      "url": "https://asana.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://asana.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\asana\\20250415_082243"
+}

@@ -1,0 +1,94 @@
+{
+  "app_id": "crelate",
+  "app_name": "Crelate",
+  "app_slug": "crelate",
+  "pricing_url": "https://www.crelate.com/pricing",
+  "source_url": "https://www.crelate.com/pricing",
+  "all_pricing_urls": [
+    "https://www.crelate.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on per-user subscription model, billed annually.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Business",
+      "tier_description": "Designed for growing recruiting/staffing teams.",
+      "monthly_price": 99.0,
+      "annual_price": 1188.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full sales and recruitment CRM with Analytics",
+        "Premium Resume Parsing",
+        "Basic Client Portals",
+        "Branded Job Portal",
+        "Resume Toolbox",
+        "Advanced Reports and Analytics"
+      ],
+      "limits": {
+        "users": "multi-seat pricing only",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Plus",
+      "tier_description": "For scaling organizations to increase efficiencies and manage robust processes.",
+      "monthly_price": 144.0,
+      "annual_price": 1728.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Premium Client Portals",
+        "Increased Data Storage",
+        "Increased Limits",
+        "Automation & Sequencing"
+      ],
+      "limits": {
+        "users": "multi-seat pricing only",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:51:16.846039",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0fcbc964-d1a0-4cbe-8344-8195cf3b53bd",
+    "name": "Crelate",
+    "slug": "crelate",
+    "description": "Crelate is modern Talent Relationship Management platform paired with simple, flexible Applicant Tracking and delivered with white-glove service.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/7e708cf9b23c49a2540e6ebb5bd83074.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "HR Talent & Recruitment"
+    ],
+    "category_slugs": [
+      "hr"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 12,
+    "trigger_count": 5
+  }
+}

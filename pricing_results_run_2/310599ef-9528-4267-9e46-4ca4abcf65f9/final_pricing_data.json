@@ -1,0 +1,165 @@
+{
+  "app_id": "airmeet",
+  "app_name": "Airmeet",
+  "app_slug": "airmeet",
+  "pricing_url": "https://www.airmeet.com/hub/pricing/",
+  "source_url": "https://www.airmeet.com/hub/pricing/",
+  "all_pricing_urls": [
+    "https://www.airmeet.com/hub/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Airmeet offers subscription-based pricing for webinars and events, with additional managed event services available via custom quotes.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Premium Webinars",
+      "tier_description": "Webinars that perform big on engagement and ROI.",
+      "monthly_price": 167.0,
+      "annual_price": 199.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Live, simulive & on-demand webinars",
+        "In-depth analytics with report builder",
+        "Immersive stage with instant replays",
+        "Multi-format audience engagement tools",
+        "Auto-branded customizable experiences",
+        "Multilingual closed captions & transcripts",
+        "One-click registration & CRM integrations",
+        "Advanced networking features",
+        "Monetization with ticketing & sponsorship",
+        "iOS & Android apps for seamless access",
+        "Setup team alerts for high intent actions",
+        "Content repurposing"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Webinars",
+            "value": "unlimited"
+          },
+          {
+            "name": "Attendees per webinar",
+            "value": "100 (scalable up to 10,000)"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Events",
+      "tier_description": "Branded and engaging virtual and hybrid events that maximize ROI.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "In-person, virtual & hybrid event formats",
+        "Multi-track events with parallel sessions",
+        "Customizable welcome & reception",
+        "Live video announcements",
+        "Personalized attendee experiences",
+        "Custom email domain",
+        "Early Event Access",
+        "Scheduled private meetings",
+        "Comprehensive support services",
+        "Mobile app for on-site check-ins",
+        "Dedicated customer success manager",
+        "Content hubs"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Events",
+            "value": "unlimited"
+          },
+          {
+            "name": "Attendees per event",
+            "value": "100 (scalable up to 10,000)"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Managed Events",
+      "tier_description": "Airmeet Event Experts manage your events end-to-end.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full-service event planning",
+        "Custom landing page design & setup",
+        "End-to-end registration management",
+        "Promotional content creation",
+        "Virtual event setup & management",
+        "Speaker preparation & dry-runs",
+        "Professional event hosting",
+        "Detailed insights & analytics reporting",
+        "CRM synchronization",
+        "Post-event engagement strategies"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Events",
+            "value": "quoted as per event cost"
+          },
+          {
+            "name": "Attendees per event",
+            "value": "100 (scalable up to 10,000)"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:39:12.779606",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "310599ef-9528-4267-9e46-4ca4abcf65f9",
+    "name": "Airmeet",
+    "slug": "airmeet",
+    "description": "Airmeet is an all-in-one platform for communities & organizations to host immersive events and build real connections, online.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/b6aca9de5b1e807a3defe0414adcffac.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 12,
+    "trigger_count": 26
+  }
+}

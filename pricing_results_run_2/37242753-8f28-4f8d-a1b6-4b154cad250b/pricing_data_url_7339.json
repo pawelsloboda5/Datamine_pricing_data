@@ -1,0 +1,132 @@
+{
+  "app_id": "azure_devops",
+  "app_name": "Azure DevOps",
+  "app_slug": "azure-devops",
+  "pricing_url": "https://azure.microsoft.com/en-us/pricing/details/devops/",
+  "source_url": "https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services/",
+  "all_pricing_urls": [
+    "https://azure.microsoft.com/en-us/pricing/details/devops/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes free tiers for certain services and usage-based pricing for additional resources.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic Plan",
+      "tier_description": "First 5 users free, then $6 per user per month.",
+      "monthly_price": 6.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Azure Pipelines: Includes the free offer from INDIVIDUAL SERVICES",
+        "Azure Boards: Work item tracking and Kanban"
+      ],
+      "limits": {
+        "users": "5 free, then $6 per user",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "GitHub Advanced Security for Azure DevOps",
+      "tier_description": "$49 per committer per month.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full suite of security tools native to Azure DevOps",
+        "Secret scanning",
+        "Code scanning",
+        "Dependency scanning"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Microsoft-hosted CI/CD",
+      "unit": "per parallel job",
+      "base_price": 40.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Self-hosted CI/CD",
+      "unit": "per parallel job",
+      "base_price": 15.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Azure Artifacts Storage",
+      "unit": "per GiB",
+      "base_price": 2.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 2.0,
+          "price": 0.0
+        },
+        {
+          "min": 2.0,
+          "max": 10.0,
+          "price": 2.0
+        },
+        {
+          "min": 10.0,
+          "max": 100.0,
+          "price": 1.0
+        },
+        {
+          "min": 100.0,
+          "max": 1000.0,
+          "price": 0.5
+        },
+        {
+          "min": 1000.0,
+          "max": "unlimited",
+          "price": 0.25
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:53:52.387648",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "37242753-8f28-4f8d-a1b6-4b154cad250b",
+    "name": "Azure DevOps",
+    "slug": "azure-devops",
+    "description": "Azure DevOps is where teams manage, develop, and deliver software in the cloud. Azure DevOps provides free, private Git project hosting for up to 5 users, project and test management tools, build and CI, and team collaboration. Connect using the development tools of your choice, including Visual Studio, Eclipse, Xcode, and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/c0406ca422240916d98dc61fc5acb6dc.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Developer Tools",
+      "Microsoft"
+    ],
+    "category_slugs": [
+      "developer-tools",
+      "microsoft"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 5
+  }
+}

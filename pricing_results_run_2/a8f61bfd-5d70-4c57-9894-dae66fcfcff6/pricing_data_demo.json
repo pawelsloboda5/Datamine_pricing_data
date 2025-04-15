@@ -1,0 +1,53 @@
+{
+  "app_id": "servicetitan",
+  "app_name": "ServiceTitan",
+  "app_slug": "servicetitan",
+  "pricing_url": null,
+  "source_url": "https://www.servicetitan.com/demo",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing information is not publicly disclosed and appears to be based on personalized quotes.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Free Beats Studio Buds",
+      "offer_description": "Earn FREE Beats Studio Buds by requesting a free demo and attending an intro call.",
+      "discount_percentage": null,
+      "offer_url": "https://www.servicetitan.com/legal/gc-apr25-terms-and-conditions",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:16:40.332280",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "a8f61bfd-5d70-4c57-9894-dae66fcfcff6",
+    "name": "ServiceTitan",
+    "slug": "servicetitan",
+    "description": "ServiceTitan is a mobile, cloud-based software platform that helps home services companies streamline operations, improve customer service, and increase sales.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/eeb79a5f267706f656d35ba4d1144bb2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 79,
+    "trigger_count": 18
+  }
+}

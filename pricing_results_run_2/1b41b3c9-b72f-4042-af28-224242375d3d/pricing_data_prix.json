@@ -1,0 +1,117 @@
+{
+  "app_id": "axonaut",
+  "app_name": "Axonaut",
+  "app_slug": "axonaut",
+  "pricing_url": "https://axonaut.com/pricing",
+  "source_url": "https://axonaut.com/content/prix",
+  "all_pricing_urls": [
+    "https://axonaut.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of users, with discounts for annual and biennial payments.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Single User",
+      "tier_description": "Base pricing for one user.",
+      "monthly_price": 69.99,
+      "annual_price": 755.88,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "All features included",
+        "Unlimited invoices and quotes",
+        "Electronic invoicing compliance",
+        "Recurring invoices",
+        "Electronic signature",
+        "Online payment options"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Additional Users",
+      "tier_description": "Cost per additional user.",
+      "monthly_price": 29.99,
+      "annual_price": 323.88,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "All features included for additional users"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Payment Discount",
+      "offer_description": "10% discount for annual payment.",
+      "discount_percentage": 10.0,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Biennial Payment Discount",
+      "offer_description": "20% discount for biennial payment.",
+      "discount_percentage": 20.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Online Payment Processing",
+      "fee_amount": null,
+      "fee_description": "Fees for online payment processing vary based on card type and region."
+    },
+    {
+      "fee_name": "Account Overdraft Management",
+      "fee_amount": 8.0,
+      "fee_description": "Fee per overdraft operation, capped at 80\u20ac per month."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:03:45.158948",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1b41b3c9-b72f-4042-af28-224242375d3d",
+    "name": "Axonaut",
+    "slug": "axonaut",
+    "description": "Axonaut is a CRM and more: follow your customer from before the first contact, beginning at the marketing campaign, though negotiations, billing, bank reconciliation.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/efbebd0c3b86eb10c14473b020cbabf6.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 21,
+    "trigger_count": 12
+  }
+}

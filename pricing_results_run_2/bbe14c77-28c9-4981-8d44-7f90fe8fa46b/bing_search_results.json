@@ -1,0 +1,193 @@
+{
+  "app_name": "Feedly",
+  "app_slug": "feedly",
+  "search_term": "Find the official pricing page URL for Feedly (feedly.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744709257.130749,
+  "response_text": [
+    "The official pricing page for Feedly is: [https://feedly.com/i/pricing](https://feedly.com/i/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | Feedly Market Intelligence",
+      "url": "https://feedly.com/market-intelligence/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://feedly.com/i/pricing",
+      "is_accessible": true,
+      "content": "Feedly: Track the topics and trends that matter to you\n===============\n\n \n\nFeedly uses cookies to deliver its service and analyze traffic\n\n[Got it](javascript:void(0);)\n\n[![Image 4: Feedly](https://s1.feedly.com/marketing/_next/static/media/feedly-logo.b8daba29.png)![Image 5: Feedly](https://s1.feedly.com/marketing/_next/static/media/feedly-logo.b8daba29.png)](https://feedly.com/homepage)\n\n[Threat Intelligence](https://feedly.com/threat-intelligence)[Threat Intelligence](https://feedly.com/threat-intelligence)[Market Intelligence](https://feedly.com/market-intelligence)[Market Intelligence](https://feedly.com/market-intelligence)[News Reader](https://feedly.com/news-reader)[News Reader](https://feedly.com/news-reader)\n\n[Threat Intelligence](https://feedly.com/threat-intelligence)[Threat Intelligence](https://feedly.com/threat-intelligence)[Market Intelligence](https://feedly.com/market-intelligence)[Market Intelligence](https://feedly.com/market-intelligence)[News Reader](https://feedly.com/news-reader)[News Reader](https://feedly.com/news-reader)\n\n[Log in](https://feedly.com/i/back?gate=%2Fhomepage)\n\nResourcesResources[Changelog](https://feedly.com/changelog)[Changelog](https://feedly.com/changelog)\n\nResourcesResources[Changelog](https://feedly.com/changelog)[Changelog](https://feedly.com/changelog)\n\n[Log in](https://feedly.com/i/back?gate=%2Fhomepage)\n\n[Log in](https://feedly.com/i/back?gate=%2Fhomepage)\n\n[Get Started for Free](https://feedly.com/i/newAccountSetup?gate=%2Fhomepage)\n\n[Get Started for Free](https://feedly.com/i/newAccountSetup?gate=%2Fhomepage)\n\n[![Image 6: Feedly](https://s1.feedly.com/marketing/_next/static/media/feedly-logo.b8daba29.png)![Image 7: Feedly](https://s1.feedly.com/marketing/_next/static/media/feedly-logo.b8daba29.png)](https://feedly.com/homepage)\n\n[Threat Intelligence](https://feedly.com/threat-intelligence)[Threat Intelligence](https://feedly.com/threat-intelligence)[Market Intelligence](https://feedly.com/market-intelligence)[Market Intelligence](https://feedly.com/market-intelligence)[News Reader](https://feedly.com/news-reader)[News Reader](https://feedly.com/news-reader)\n\n[Threat Intelligence](https://feedly.com/threat-intelligence)[Threat Intelligence](https://feedly.com/threat-intelligence)[Market Intelligence](https://feedly.com/market-intelligence)[Market Intelligence](https://feedly.com/market-intelligence)[News Reader](https://feedly.com/news-reader)[News Reader](https://feedly.com/news-reader)\n\n[Log in](https://feedly.com/i/back?gate=%2Fhomepage)\n\nResourcesResources[Changelog](https://feedly.com/changelog)[Changelog](https://feedly.com/changelog)\n\nResourcesResources[Changelog](https://feedly.com/changelog)[Changelog](https://feedly.com/changelog)\n\n[Log in](https://feedly.com/i/back?gate=%2Fhomepage)\n\n[Log in](https://feedly.com/i/back?gate=%2Fhomepage)\n\n[Get Started for Free](https://feedly.com/i/newAccountSetup?gate=%2Fhomepage)\n\n[Get Started for Free](https://feedly.com/i/newAccountSetup?gate=%2Fhomepage)\n\nTeam\n\nThreat  \nIntelligence\n---------------------\n\nCollect, analyze, and share actionable open source threat intelligence faster\n\n[Get Started for Free](https://feedly.com/i/newAccountSetup?accountType=Work&gate=%2Fhomepage&useCase=cyberThreatIntelligence)[Learn More](https://feedly.com/threat-intelligence)\n\n![Image 8: Illustration of an article about cyber attacks and ransomware. AI has identified a CVSS score of 8.5, 8 IoCs, and 6 TTPs.](https://s1.feedly.com/marketing/_next/static/chunks/images/homepage-ti.826aff1e_3840.png)\n\nTeam\n\nMarket  \nIntelligence\n---------------------\n\nFind, synthesize, and share industry and competitive intelligence faster\n\n[Get Started for Free](https://feedly.com/market-intelligence/request-trial?gate=%2Fhomepage)[Learn More](https://feedly.com/market-intelligence)\n\n![Image 9: Illustration of an article about a product launch in the finance industry. A tooltip points out an AI Summary and an icon to \u201csave to board\u201d](https://s1.feedly.com/marketing/_next/static/chunks/images/homepage-mi.1ead1e89_3840.png)\n\nPersonal\n\nNews  \nReader\n-------------\n\nRead all your favorite blogs, news sites, and newsletters in one place\n\n[Get Started for Free](https://feedly.com/i/newAccountSetup?accountType=Personal&gate=%2Fhomepage)[Learn More](https://feedly.com/news-reader)\n\n![Image 10: A screenshot of the Feedly news reader interface showing the \u201cToday\u201d page and a list of articles.](https://s1.feedly.com/marketing/_next/static/chunks/images/homepage-reader.9699a41a_3840.png)\n\n![Image 11: Canada Media Fund](https://s1.feedly.com/marketing/_next/static/media/logo-CanadaMediaFund.7f07bc36.svg)\n\n![Image 12: DB Schenker](https://s1.feedly.com/marketing/_next/static/media/logo-DBSchenker.1678b4a3.svg)\n\n![Image 13: Cloudflare](https://s1.feedly.com/marketing/_next/static/media/logo-Cloudflare.e603cb17.svg)\n\n![Image 14: Lufthansa](https://s1.feedly.com/marketing/_next/static/media/logo-Lufthansa.91f887cb.svg)\n\n![Image 15: Sopra Steria](https://s1.feedly.com/marketing/_next/static/media/logo-SopraSteria.07e9d34d.svg)\n\n![Image 16: Agenus](https://s1.feedly.com/marketing/_next/static/media/logo-Agenus.a9f35f27.svg)\n\n![Image 17: Insider Intelligence](https://s1.feedly.com/marketing/_next/static/media/logo-InsiderIntelligence.3c1a39c1.svg)\n\n![Image 18: Netskope](https://s1.feedly.com/marketing/_next/static/media/logo-Netskope.fc0f8dc3.svg)\n\n![Image 19: Secure Cyber Defense](https://s1.feedly.com/marketing/_next/static/media/logo-SecureCyberDefense.f8b091d8.svg)\n\n![Image 20: Danone](https://s1.feedly.com/marketing/_next/static/media/logo-Danone.cdac3ddf.svg)\n\n![Image 21: Verizon](https://s1.feedly.com/marketing/_next/static/media/logo-Verizon.aef4c76d.svg)\n\n![Image 22: Airbus](https://s1.feedly.com/marketing/_next/static/media/logo-Airbus.503fcc8f.svg)\n\n![Image 23: Openfields](https://s1.feedly.com/marketing/_next/static/media/logo-Openfields.6ff27b43.svg)\n\n![Image 24: Royal Bank of Scotland](https://s1.feedly.com/marketing/_next/static/media/logo-RoyalBankofScotland.909b7135.svg)\n\n![Image 25: Delta Dental](https://s1.feedly.com/marketing/_next/static/media/logo-DeltaDental.ee144373.svg)\n\n![Image 26: River Cap](https://s1.feedly.com/marketing/_next/static/media/logo-RiverCap.1718ba1c.svg)\n\n![Image 27: Canada Media Fund](https://s1.feedly.com/marketing/_next/static/media/logo-CanadaMediaFund.7f07bc36.svg)\n\n![Image 28: DB Schenker](https://s1.feedly.com/marketing/_next/static/media/logo-DBSchenker.1678b4a3.svg)\n\n![Image 29: Cloudflare](https://s1.feedly.com/marketing/_next/static/media/logo-Cloudflare.e603cb17.svg)\n\n![Image 30: Lufthansa](https://s1.feedly.com/marketing/_next/static/media/logo-Lufthansa.91f887cb.svg)\n\n![Image 31: Sopra Steria](https://s1.feedly.com/marketing/_next/static/media/logo-SopraSteria.07e9d34d.svg)\n\n![Image 32: Agenus](https://s1.feedly.com/marketing/_next/static/media/logo-Agenus.a9f35f27.svg)\n\n![Image 33: Insider Intelligence](https://s1.feedly.com/marketing/_next/static/media/logo-InsiderIntelligence.3c1a39c1.svg)\n\n![Image 34: Netskope](https://s1.feedly.com/marketing/_next/static/media/logo-Netskope.fc0f8dc3.svg)\n\n![Image 35: Secure Cyber Defense](https://s1.feedly.com/marketing/_next/static/media/logo-SecureCyberDefense.f8b091d8.svg)\n\n![Image 36: Danone](https://s1.feedly.com/marketing/_next/static/media/logo-Danone.cdac3ddf.svg)\n\n![Image 37: Verizon](https://s1.feedly.com/marketing/_next/static/media/logo-Verizon.aef4c76d.svg)\n\n![Image 38: Airbus](https://s1.feedly.com/marketing/_next/static/media/logo-Airbus.503fcc8f.svg)\n\n![Image 39: Openfields](https://s1.feedly.com/marketing/_next/static/media/logo-Openfields.6ff27b43.svg)\n\n![Image 40: Royal Bank of Scotland](https://s1.feedly.com/marketing/_next/static/media/logo-RoyalBankofScotland.909b7135.svg)\n\n![Image 41: Delta Dental](https://s1.feedly.com/marketing/_next/static/media/logo-DeltaDental.ee144373.svg)\n\n![Image 42: River Cap](https://s1.feedly.com/marketing/_next/static/media/logo-RiverCap.1718ba1c.svg)\n\n![Image 43: Feedly logo](https://s1.feedly.com/marketing/_next/static/media/feedly-logo.7665bd9e.svg)Stay ahead of the curve\n\nProducts\n--------\n\n[Market Intelligence](https://feedly.com/market-intelligence)[Threat Intelligence](https://feedly.com/threat-intelligence)[News Reader](https://feedly.com/news-reader)\n\nResources\n---------\n\n[Changelog](https://feedly.com/changelog)[AI Library](https://feedly.com/ai)[Case Studies](https://feedly.com/customers)[CVE Insights Cards](https://feedly.com/cve)[TI Essentials](https://feedly.com/ti-essentials)[Blog](https://feedly.com/resources)[Documentation](https://docs.feedly.com/)[Slack Community](https://feedly.com/slack)\n\nDownloads\n---------\n\n[iOS](https://itunes.apple.com/app/id396069556)[Android](https://play.google.com/store/apps/details?id=com.devhd.feedly)[Chrome extension](https://chromewebstore.google.com/detail/feedly-mini/ndhinffkekpekljifjkkkkkhopnjodja)[Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/feedly_mini/)\n\nLearn More\n----------\n\n[Advertise on Feedly](https://discover.buysellads.com/tech/feedly)[Discover Top Blogs](https://feedly.com/i/top)\n\n\u00a9 2025\n\n\u2022\n\n[Privacy](https://feedly.com/i/legal/privacy)\u2022\n\n[Terms of Use](https://feedly.com/i/legal)\n\n[](https://twitter.com/feedly)[](https://www.linkedin.com/company/feedly)\n\nFeedly is the fastest way to research the topics and trends that matter to you. Solutions for cybersecurity teams, market intel teams, or curious individuals.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "feedly",
+        "app_name": "Feedly",
+        "app_slug": "feedly",
+        "pricing_url": "https://feedly.com/pricing",
+        "source_url": "https://feedly.com/homepage",
+        "all_pricing_urls": [
+          "https://feedly.com/pricing",
+          "https://feedly.com/homepage"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Feedly offers free access to its News Reader product and free trials for its Market Intelligence and Threat Intelligence solutions.",
+        "pricing_tiers": [
+          {
+            "tier_name": "News Reader",
+            "tier_description": "Personal use for reading blogs, news sites, and newsletters.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Access to blogs, news sites, and newsletters in one place"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Market Intelligence",
+            "tier_description": "For synthesizing and sharing industry and competitive intelligence.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Industry and competitive intelligence synthesis",
+              "AI summaries"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Threat Intelligence",
+            "tier_description": "For collecting and analyzing open source threat intelligence.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Open source threat intelligence analysis",
+              "AI insights"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T05:27:51.214871",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://feedly.com/market-intelligence/pricing",
+      "is_accessible": true,
+      "content": "Simple pricing for the whole team\n---------------------------------\n\nStandard\n--------\n\n*   Market Intelligence AI Models\n    \n*   100 AI Feeds\n    \n*   Company and Trend Insights Cards\n    \n*   Team collaboration\n    \n*   5 Newsletter Templates\n    \n*   Up to 10 seats\n    \n*   Dedicated Customer Service Manager\n    \n\nAdvanced\n--------\n\n*   Everything in **Standard**, and\n    \n*   200 AI Feeds\n    \n*   Emerging Trends Dashboards\n    \n    Beta\n*   Ask AI\n    \n*   20 Newsletter Templates\n    \n*   Up to 25 seats\n    \n*   API Access\n    \n*   Single Sign-On\n    \n*   Unlimited workshops & training\n    \n*   Multilingual AI\n    \n*   Large Company Lists\n    \n    Add-on\n\n![Image 1: Canada Media Fund](https://s1.feedly.com/marketing/_next/static/media/logo-CanadaMediaFund.7f07bc36.svg)\n\n![Image 2: DB Schenker](https://s1.feedly.com/marketing/_next/static/media/logo-DBSchenker.1678b4a3.svg)\n\n![Image 3: Lufthansa](https://s1.feedly.com/marketing/_next/static/media/logo-Lufthansa.91f887cb.svg)\n\n![Image 4: Agenus](https://s1.feedly.com/marketing/_next/static/media/logo-Agenus.a9f35f27.svg)\n\n![Image 5: Insider Intelligence](https://s1.feedly.com/marketing/_next/static/media/logo-InsiderIntelligence.3c1a39c1.svg)\n\n![Image 6: Danone](https://s1.feedly.com/marketing/_next/static/media/logo-Danone.cdac3ddf.svg)\n\n![Image 7: Verizon](https://s1.feedly.com/marketing/_next/static/media/logo-Verizon.aef4c76d.svg)\n\n![Image 8: Airbus](https://s1.feedly.com/marketing/_next/static/media/logo-Airbus.503fcc8f.svg)\n\n![Image 9: Openfields](https://s1.feedly.com/marketing/_next/static/media/logo-Openfields.6ff27b43.svg)\n\n![Image 10: Royal Bank of Scotland](https://s1.feedly.com/marketing/_next/static/media/logo-RoyalBankofScotland.909b7135.svg)\n\n![Image 11: Delta Dental](https://s1.feedly.com/marketing/_next/static/media/logo-DeltaDental.ee144373.svg)\n\n![Image 12: River Cap](https://s1.feedly.com/marketing/_next/static/media/logo-RiverCap.1718ba1c.svg)\n\n![Image 13: Sopra Steria](https://s1.feedly.com/marketing/_next/static/media/logo-SopraSteria.07e9d34d.svg)\n\n![Image 14: Canada Media Fund](https://s1.feedly.com/marketing/_next/static/media/logo-CanadaMediaFund.7f07bc36.svg)\n\n![Image 15: DB Schenker](https://s1.feedly.com/marketing/_next/static/media/logo-DBSchenker.1678b4a3.svg)\n\n![Image 16: Lufthansa](https://s1.feedly.com/marketing/_next/static/media/logo-Lufthansa.91f887cb.svg)\n\n![Image 17: Agenus](https://s1.feedly.com/marketing/_next/static/media/logo-Agenus.a9f35f27.svg)\n\n![Image 18: Insider Intelligence](https://s1.feedly.com/marketing/_next/static/media/logo-InsiderIntelligence.3c1a39c1.svg)\n\n![Image 19: Danone](https://s1.feedly.com/marketing/_next/static/media/logo-Danone.cdac3ddf.svg)\n\n![Image 20: Verizon](https://s1.feedly.com/marketing/_next/static/media/logo-Verizon.aef4c76d.svg)\n\n![Image 21: Airbus](https://s1.feedly.com/marketing/_next/static/media/logo-Airbus.503fcc8f.svg)\n\n![Image 22: Openfields](https://s1.feedly.com/marketing/_next/static/media/logo-Openfields.6ff27b43.svg)\n\n![Image 23: Royal Bank of Scotland](https://s1.feedly.com/marketing/_next/static/media/logo-RoyalBankofScotland.909b7135.svg)\n\n![Image 24: Delta Dental](https://s1.feedly.com/marketing/_next/static/media/logo-DeltaDental.ee144373.svg)\n\n![Image 25: River Cap](https://s1.feedly.com/marketing/_next/static/media/logo-RiverCap.1718ba1c.svg)\n\n![Image 26: Sopra Steria](https://s1.feedly.com/marketing/_next/static/media/logo-SopraSteria.07e9d34d.svg)\n\n![Image 27: DBSchenker](https://s1.feedly.com/marketing/_next/static/chunks/images/logo-DBSchenker.a7d665e4_3840.png)\n\n\u201cFeedly helps us collect better intelligence faster and saves 25 hours per week across the team\u201d\n\nJacek Pucher\n\nInnovation Manager\n\nSee Feedly Market Intelligence in action\n----------------------------------------\n\nDiscover new trends sooner\n\nMonitor competitors and tech innovation\n\nSynthesize articles quickly using AI\n\nAutomate newsletters to stakeholders\n\n![Image 28: Aaron O'Maley of Feedly is smiling and seems ready to speak](https://s1.feedly.com/marketing/_next/static/chunks/images/mi-video-preview.70188938_3840.png)\n\n2 min\n\n**Get Started**\n\nStart discovering new market insights in minutes\n------------------------------------------------",
+      "error": null,
+      "pricing_data": {
+        "app_id": "feedly",
+        "app_name": "Feedly",
+        "app_slug": "feedly",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": null,
+        "pricing_tiers": [
+          {
+            "tier_name": "Standard",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Market Intelligence AI Models",
+              "100 AI Feeds",
+              "Company and Trend Insights Cards",
+              "Team collaboration",
+              "5 Newsletter Templates",
+              "Up to 10 seats",
+              "Dedicated Customer Service Manager"
+            ],
+            "limits": {
+              "users": 10,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Advanced",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Everything in Standard",
+              "200 AI Feeds",
+              "Emerging Trends Dashboards",
+              "Ask AI",
+              "20 Newsletter Templates",
+              "Up to 25 seats",
+              "API Access",
+              "Single Sign-On",
+              "Unlimited workshops & training",
+              "Multilingual AI",
+              "Large Company Lists"
+            ],
+            "limits": {
+              "users": 25,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T05:28:03.960195",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\feedly\\20250415_052804"
+}

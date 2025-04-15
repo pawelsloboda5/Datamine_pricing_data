@@ -1,0 +1,171 @@
+{
+  "app_id": "podia",
+  "app_name": "Podia",
+  "app_slug": "podia",
+  "pricing_url": "https://www.podia.com/pricing",
+  "source_url": "https://www.podia.com/pricing",
+  "all_pricing_urls": [
+    "https://www.podia.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Podia offers a free tier and subscription plans with additional features. Email marketing is included in all plans, with usage-based pricing for subscriber limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free forever plan with basic features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Website",
+        "Online store",
+        "Email marketing",
+        "Unlimited products",
+        "Blog",
+        "Custom domain",
+        "7-days-a-week support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Subscribers",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Mover",
+      "tier_description": "Subscription plan with additional features.",
+      "monthly_price": 39.0,
+      "annual_price": 390.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Website",
+        "Online store",
+        "Email marketing",
+        "Unlimited products",
+        "Blog",
+        "Custom domain",
+        "7-days-a-week support",
+        "Affiliate marketing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Transaction fees",
+            "value": "5%"
+          },
+          {
+            "name": "Product migrations",
+            "value": 20
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Shaker",
+      "tier_description": "Advanced subscription plan with premium features.",
+      "monthly_price": 79.0,
+      "annual_price": 790.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Website",
+        "Online store",
+        "Email marketing",
+        "Unlimited products",
+        "Blog",
+        "Custom domain",
+        "7-days-a-week support",
+        "Affiliate marketing",
+        "Zapier actions",
+        "PayPal integration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Transaction fees",
+            "value": "0%"
+          },
+          {
+            "name": "Product migrations",
+            "value": 30
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Subscribers",
+      "unit": "per subscriber",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 101.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Transaction fees",
+      "fee_amount": 5.0,
+      "fee_description": "Applicable only for the Mover plan."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:29:23.825485",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c776a3e4-b2ec-4291-b460-3142c7185368",
+    "name": "Podia",
+    "slug": "podia",
+    "description": "Podia is a platform that lets anyone sell memberships, online courses and digital downloads online.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/dcd12cedc41fddf21fc087827905e316.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 5
+  }
+}

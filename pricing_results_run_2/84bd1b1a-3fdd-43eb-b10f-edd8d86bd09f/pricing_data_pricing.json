@@ -1,0 +1,180 @@
+{
+  "app_id": "castmagic",
+  "app_name": "Castmagic",
+  "app_slug": "castmagic",
+  "pricing_url": "https://www.castmagic.io/pricing",
+  "source_url": "https://www.castmagic.io/pricing",
+  "all_pricing_urls": [
+    "https://www.castmagic.io/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription tiers with additional usage-based costs for exceeding included minutes.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Hobby",
+      "tier_description": null,
+      "monthly_price": 23.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Users Included",
+        "300 mins included",
+        "Unlimited File Uploads",
+        "Multiple Workspaces",
+        "All Content Outputs",
+        "Custom Prompts",
+        "iOS App",
+        "Team Collaboration",
+        "Clips & Audiograms",
+        "Agency Support",
+        "Unlimited Prompts"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Minutes per month",
+            "value": 300
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": null,
+      "monthly_price": 59.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Users Included",
+        "800 mins included",
+        "Unlimited File Uploads",
+        "Multiple Workspaces",
+        "All Content Outputs",
+        "Custom Prompts",
+        "iOS App",
+        "Team Collaboration",
+        "Clips & Audiograms",
+        "Agency Support",
+        "Unlimited Prompts"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Minutes per month",
+            "value": 800
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Rising Star",
+      "tier_description": null,
+      "monthly_price": 179.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Users Included",
+        "2500 mins included",
+        "Unlimited File Uploads",
+        "Multiple Workspaces",
+        "API Access",
+        "Custom Prompts",
+        "iOS App",
+        "Team Collaboration",
+        "Clips & Audiograms",
+        "Agency Support",
+        "Unlimited Prompts"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Minutes per month",
+            "value": 2500
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional minutes",
+      "unit": "per minute",
+      "base_price": 0.2,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 300.0,
+          "price": 0.2
+        },
+        {
+          "min": 301.0,
+          "max": 800.0,
+          "price": 0.15
+        },
+        {
+          "min": 801.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Additional team members",
+      "fee_amount": 11.0,
+      "fee_description": "Cost per additional team member beyond included seats."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:54:31.478883",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "84bd1b1a-3fdd-43eb-b10f-edd8d86bd09f",
+    "name": "Castmagic",
+    "slug": "castmagic",
+    "description": "Castmagic helps you turn audio into content, like magic.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/99d072a9d773203f8c7ca8f950822510.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Productivity"
+    ],
+    "category_slugs": [
+      "productivity"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

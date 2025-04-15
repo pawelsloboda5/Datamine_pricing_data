@@ -1,0 +1,231 @@
+{
+  "app_id": "discourse",
+  "app_name": "Discourse",
+  "app_slug": "discourse",
+  "pricing_url": "https://discourse.org/buy/#plans-features",
+  "source_url": "https://discourse.org/buy/",
+  "all_pricing_urls": [
+    "https://discourse.org/buy/#plans-features"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Discourse offers a free, open-source version for self-hosting.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "A great place to start a community",
+      "monthly_price": 20.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited members",
+        "2 staff members",
+        "20k monthly page views",
+        "20k monthly emails",
+        "5GB storage",
+        "Public access",
+        "Secure web access",
+        "Mobile app",
+        "Chat",
+        "AI spam detection",
+        "Global CDN"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "5GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Staff members",
+            "value": 2
+          },
+          {
+            "name": "Monthly page views",
+            "value": "20k"
+          },
+          {
+            "name": "Monthly emails",
+            "value": "20k"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Connect with your community and grow together",
+      "monthly_price": 100.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited members",
+        "5 staff members",
+        "100k monthly page views",
+        "100k monthly emails",
+        "20GB storage",
+        "Public access",
+        "Secure web access",
+        "Mobile app",
+        "Chat",
+        "AI spam detection",
+        "Global CDN",
+        "Custom themes and components",
+        "Custom domain",
+        "API and Webhook access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "20GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Staff members",
+            "value": 5
+          },
+          {
+            "name": "Monthly page views",
+            "value": "100k"
+          },
+          {
+            "name": "Monthly emails",
+            "value": "100k"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Scale your business and help your customers and users connect with each other",
+      "monthly_price": 500.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited members",
+        "15 staff members",
+        "500k monthly page views",
+        "300k monthly emails",
+        "100GB storage",
+        "Public access",
+        "Secure web access",
+        "Mobile app",
+        "Chat",
+        "AI spam detection",
+        "Global CDN",
+        "Custom themes and components",
+        "Custom domain",
+        "API and Webhook access",
+        "Priority email support",
+        "Migration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Staff members",
+            "value": 15
+          },
+          {
+            "name": "Monthly page views",
+            "value": "500k"
+          },
+          {
+            "name": "Monthly emails",
+            "value": "300k"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Our most customizable and scalable plan, tailored to your needs and brand",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited members",
+        "Unlimited staff members",
+        "1M+ monthly page views",
+        "1.5M+ monthly emails",
+        "200GB+ storage",
+        "Public access",
+        "Secure web access",
+        "Mobile app",
+        "Chat",
+        "AI spam detection",
+        "Global CDN",
+        "Custom themes and components",
+        "Custom domain",
+        "API and Webhook access",
+        "Priority email support",
+        "Migration",
+        "Custom design work"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "200GB+",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Staff members",
+            "value": "unlimited"
+          },
+          {
+            "name": "Monthly page views",
+            "value": "1M+"
+          },
+          {
+            "name": "Monthly emails",
+            "value": "1.5M+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:48:13.978784",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fbf2b28e-4285-48c7-9472-a1724172ed9a",
+    "name": "Discourse",
+    "slug": "discourse",
+    "description": "Discourse is an open source discussion platform used as a mailing list, discussion forum, long-form chat room, and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/df239233c57e7a982cea996436e651b3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Social Media Accounts"
+    ],
+    "category_slugs": [
+      "social"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

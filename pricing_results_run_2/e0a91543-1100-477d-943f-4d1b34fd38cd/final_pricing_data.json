@@ -1,0 +1,97 @@
+{
+  "app_id": "harness",
+  "app_name": "Harness",
+  "app_slug": "harness",
+  "pricing_url": "https://www.harness.io/pricing",
+  "source_url": "https://www.harness.io/pricing",
+  "all_pricing_urls": [
+    "https://www.harness.io/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are modular and require contacting sales for specifics beyond the free tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For individual developers and small teams",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to basic modules"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Essentials",
+      "tier_description": "For growing organizations with small to mid-size teams",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Packaged modules",
+        "Continuous software delivery",
+        "Standard support"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large-scale organizations with complex needs",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Pick any module(s) based on needs",
+        "Advanced features",
+        "Premium support and dedicated account manager"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:07:49.971968",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e0a91543-1100-477d-943f-4d1b34fd38cd",
+    "name": "Harness",
+    "slug": "harness",
+    "description": "Raise More + Stress Less with the Harness Fundraising Platform - Nonprofit Industry Leader in Recurring Giving and Donor Experience Automation Tools",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d4dc33baa65d3335f179c27a1316b019.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fundraising"
+    ],
+    "category_slugs": [
+      "fundraising"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 7
+  }
+}

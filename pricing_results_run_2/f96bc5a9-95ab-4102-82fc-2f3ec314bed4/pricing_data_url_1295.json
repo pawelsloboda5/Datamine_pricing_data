@@ -1,0 +1,186 @@
+{
+  "app_id": "moosend",
+  "app_name": "Moosend",
+  "app_slug": "moosend",
+  "pricing_url": "https://moosend.com/pricing/",
+  "source_url": "https://moosend.com/pricing/",
+  "all_pricing_urls": [
+    "https://moosend.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing varies based on the number of contacts and includes options for custom plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Trial",
+      "tier_description": "Access core features for 30 days without a credit card.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email Marketing",
+        "Marketing Automation",
+        "Landing Pages",
+        "Subscription Forms",
+        "SMTP Server",
+        "Transactional Emails"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Marketing Automation Workflows",
+            "value": "1 Published"
+          },
+          {
+            "name": "Subscription Forms",
+            "value": "1 Published"
+          },
+          {
+            "name": "Landing Pages",
+            "value": "1 Published"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Affordable email marketing plan.",
+      "monthly_price": 7.0,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "All Free Trial features",
+        "Transactional Emails",
+        "Dedicated IPs",
+        "Hosted Files",
+        "Custom Reports",
+        "SSO & SAML",
+        "Audience Discovery",
+        "Additional Team Members",
+        "CC & BCC Functionality"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Moosend+",
+      "tier_description": "Customizable plan based on business needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Pro features",
+        "Customizable add-ons"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Advanced features for large-scale operations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Pro features",
+        "Priority Support",
+        "Deliverability & Strategy Optimization",
+        "Custom Reports",
+        "Transactional Emails"
+      ],
+      "limits": {
+        "users": "10+",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Email credits",
+      "unit": "per credit",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 350000.0,
+          "max": 500000.0,
+          "price": 350.0
+        },
+        {
+          "min": 500000.0,
+          "max": 750000.0,
+          "price": 500.0
+        },
+        {
+          "min": 750000.0,
+          "max": 1000000.0,
+          "price": 750.0
+        },
+        {
+          "min": 1000000.0,
+          "max": "unlimited",
+          "price": 1000.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:16:14.519182",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f96bc5a9-95ab-4102-82fc-2f3ec314bed4",
+    "name": "Moosend",
+    "slug": "moosend",
+    "description": "Moosend is an email marketing & automations platform that helps you ease the burden of sending your email campaigns and managing your mailing lists.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/1a1b354d84b07597bf51b09b5452d5bc.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 2
+  }
+}

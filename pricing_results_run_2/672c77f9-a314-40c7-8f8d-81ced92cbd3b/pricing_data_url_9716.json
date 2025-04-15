@@ -1,0 +1,45 @@
+{
+  "app_id": "zoho_billing",
+  "app_name": "Zoho Billing",
+  "app_slug": "zoho-billing",
+  "pricing_url": null,
+  "source_url": "https://www.zoho.com/us/billing/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The provided content does not include specific pricing information for Zoho Billing.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:41:32.143343",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "672c77f9-a314-40c7-8f8d-81ced92cbd3b",
+    "name": "Zoho Billing",
+    "slug": "zoho-billing",
+    "description": "Zoho Billing is a recurring billing and subscription management app that helps manage the entire life cycle of your customers - from billing and charging to managing their subscriptions.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/de7b6b55ac7da8d89011bda71e0a5b32.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing",
+      "Zoho"
+    ],
+    "category_slugs": [
+      "payment-processing",
+      "zoho"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 15
+  }
+}

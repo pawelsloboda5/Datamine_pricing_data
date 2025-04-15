@@ -1,0 +1,24 @@
+{
+  "app_name": "Transkriptor",
+  "app_slug": "transkriptor",
+  "search_term": "Find the official pricing page URL for Transkriptor (transkriptor.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744697610.2148917,
+  "response_text": [
+    "Here is the official pricing page for Transkriptor: [https://transkriptor.com/pricing/](https://transkriptor.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Transkriptor",
+      "url": "https://transkriptor.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://transkriptor.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\transkriptor\\20250415_021345"
+}

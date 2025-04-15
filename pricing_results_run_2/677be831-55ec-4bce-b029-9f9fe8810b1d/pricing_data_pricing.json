@@ -1,0 +1,89 @@
+{
+  "app_id": "givingfuel",
+  "app_name": "GivingFuel",
+  "app_slug": "givingfuel",
+  "pricing_url": "https://www.givingfuel.com/pricing",
+  "source_url": "https://www.givingfuel.com/pricing",
+  "all_pricing_urls": [
+    "https://www.givingfuel.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "GivingFuel offers a free tier with optional transaction fees for donors.",
+  "pricing_tiers": [
+    {
+      "tier_name": "All-In Plan",
+      "tier_description": "Includes all features offered by GivingFuel.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Donation Form / Page Builder",
+        "Donor Management & CRM",
+        "Marketing & Donor Engagement",
+        "Payment Processing for Nonprofits",
+        "Digital Payments (Coming Soon)",
+        "Recurring Payment Auto Updater (Coming Soon)",
+        "Customizable Reporting & Analytics",
+        "Events, Registration & Ticketing",
+        "Integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Platform Fee",
+      "unit": "percentage",
+      "base_price": 1.5,
+      "tiers": null
+    },
+    {
+      "metric_name": "Standard Credit Card Fees",
+      "unit": "percentage",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:23:41.420799",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "677be831-55ec-4bce-b029-9f9fe8810b1d",
+    "name": "GivingFuel",
+    "slug": "givingfuel",
+    "description": "GivingFuel helps people and organizations fundraise to change the world. We are the world\u2019s simplest and most affordable donation platform",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/86ea69dc2411e300699f33bb13c6b039.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fundraising"
+    ],
+    "category_slugs": [
+      "fundraising"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

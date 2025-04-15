@@ -1,0 +1,172 @@
+{
+  "app_id": "ringcentral",
+  "app_name": "RingCentral",
+  "app_slug": "ringcentral",
+  "pricing_url": "https://www.ringcentral.com/office/plansandpricing.html",
+  "source_url": "https://www.ringcentral.com/office/plansandpricing.html",
+  "all_pricing_urls": [
+    "https://www.ringcentral.com/office/plansandpricing.html"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer discounts compared to monthly pricing. Additional features and services are available as add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Core",
+      "tier_description": "Basic communication tools for small organizations.",
+      "monthly_price": 30.0,
+      "annual_price": 20.0,
+      "annual_discount_percentage": 33.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited domestic calling",
+        "Business SMS and MMS",
+        "Call menu (IVR)",
+        "HD video meetings (100 participants)",
+        "Google, Microsoft integrations",
+        "Single sign-on",
+        "Shared voicemail",
+        "Real-time Quality of Service (QoS) Analytics",
+        "Developer platform, custom integrations, access to APIs",
+        "AI Assistant"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Enhanced tools for customer experience and multi-site management.",
+      "monthly_price": 35.0,
+      "annual_price": 25.0,
+      "annual_discount_percentage": 28.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Core",
+        "Auto call recording",
+        "Advanced call monitoring and handling",
+        "Connect multiple sites",
+        "Unlimited internet fax",
+        "CRM integrations (Salesforce, Hubspot, and 300+ apps)",
+        "Adoption and usage analytics with 6 months of storage",
+        "Archiver for cloud storage back-up",
+        "Custom roles and permissions",
+        "AI Assistant additional features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Ultra",
+      "tier_description": "Comprehensive features for large organizations.",
+      "monthly_price": 45.0,
+      "annual_price": 35.0,
+      "annual_discount_percentage": 22.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Advanced",
+        "Customizable analytics and reporting",
+        "12 months of analytics and reporting history",
+        "HD video meetings (200 participants)",
+        "Device analytics and alerts",
+        "Unlimited storage for files and recordings",
+        "AI Assistant additional features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "High Volume SMS",
+      "unit": "per message",
+      "base_price": 0.01,
+      "tiers": null
+    },
+    {
+      "metric_name": "Additional international numbers",
+      "unit": "per user/month",
+      "base_price": 5.99,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": null,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": null,
+    "has_fine_tuning_pricing": null,
+    "has_training_pricing": null,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Save up to 33% by paying annually.",
+      "discount_percentage": 33.0,
+      "offer_url": "https://www.ringcentral.com/office/plansandpricing.html",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Additional vanity numbers",
+      "fee_amount": 30.0,
+      "fee_description": "One-time fee for vanity numbers."
+    },
+    {
+      "fee_name": "RingCentral Rooms license",
+      "fee_amount": 49.0,
+      "fee_description": "Monthly fee per room."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:47:40.024935",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ff3e72c5-f1cd-4c24-85c7-52c31ba25f2b",
+    "name": "RingCentral",
+    "slug": "ringcentral",
+    "description": "RingCentral provides cloud-based communication system to modern businesses of all sizes. The system enables companies with voice, SMS, video, Fax, and team collaboration services on all major desktop and mobile platforms. All devices, services, and users can be managed through our PBX and administrative capability designed for Enterprise IT.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/1c800f273ffd5164fc4032e8698153c7.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 8
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "app_name": "Google Vertex AI",
+  "app_slug": "google-vertex-ai",
+  "search_term": "Find the official pricing page URL for Google Vertex AI (google-vertex-ai.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744706699.1545587,
+  "response_text": [
+    "I couldn't find the official pricing page for Google Vertex AI under the domain \"google-vertex-ai.com\". You may verify the domain or specify if it's under a different one like cloud.google.com."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\google-vertex-ai\\20250415_044459"
+}

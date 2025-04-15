@@ -1,0 +1,172 @@
+{
+  "app_id": "fillout_forms",
+  "app_name": "Fillout Forms",
+  "app_slug": "fillout-forms",
+  "pricing_url": "https://www.fillout.com/pricing",
+  "source_url": "https://www.fillout.com/pricing",
+  "all_pricing_urls": [
+    "https://www.fillout.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Discounts available for non-profits, students, startups, and educational institutions.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For individuals who need basic forms.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited forms",
+        "Unlimited seats",
+        "1000 responses/mo",
+        "All the basics"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "responses",
+            "value": "1000/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "The basics to create any form with Fillout.",
+      "monthly_price": 15.0,
+      "annual_price": 144.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Free",
+        "All question types",
+        "2000 responses/mo",
+        "Custom endings",
+        "Custom themes",
+        "Redirect on completion"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "responses",
+            "value": "2000/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Make your forms on-brand and unlock powerful features.",
+      "monthly_price": 40.0,
+      "annual_price": 384.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Starter",
+        "Custom emails",
+        "5000 responses/mo",
+        "Remove all branding",
+        "Custom share links",
+        "Custom CSS"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "responses",
+            "value": "5000/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Analyze performance and scale your data intake.",
+      "monthly_price": 75.0,
+      "annual_price": 720.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Pro",
+        "Form analytics",
+        "Unlimited responses",
+        "Custom domain",
+        "Partial submissions",
+        "Custom code",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "responses",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Discount Program",
+      "offer_description": "Discounts available for non-profits, students, startups, and educational institutions.",
+      "discount_percentage": null,
+      "offer_url": "https://fill.fillout.com/discount-program",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:24:15.562807",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "cca97152-e2d1-4c55-95e6-d730471c4352",
+    "name": "Fillout Forms",
+    "slug": "fillout",
+    "description": "Create powerful forms, surveys and quizzes your audience will answer with Fillout Forms. Store responses directly where you need them.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/4d9d5c56ca58671538c0f2b8b2d3d48c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

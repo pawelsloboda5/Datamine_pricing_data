@@ -1,0 +1,287 @@
+{
+  "app_id": "hunter",
+  "app_name": "Hunter",
+  "app_slug": "hunter",
+  "pricing_url": "https://hunter.io/pricing",
+  "source_url": "https://hunter.io/pricing",
+  "all_pricing_urls": [
+    "https://hunter.io/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 30% discount compared to monthly plans. Additional usage-based pricing applies for searches, verifications, and email accounts.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic access to Hunter's features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email searches & verifications",
+        "CSV exports",
+        "Browser extensions",
+        "Google Sheets add-on",
+        "CRM Integrations",
+        "API",
+        "Unlimited team members"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Yearly Searches",
+            "value": "25/month"
+          },
+          {
+            "name": "Yearly Verifications",
+            "value": "50/month"
+          },
+          {
+            "name": "Connected Email Accounts",
+            "value": 1
+          },
+          {
+            "name": "Recipients per Campaign",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "For small teams and businesses.",
+      "monthly_price": 34.0,
+      "annual_price": 408.0,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "Email searches & verifications",
+        "CSV exports",
+        "Browser extensions",
+        "Google Sheets add-on",
+        "CRM Integrations",
+        "API",
+        "Unlimited team members",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Yearly Searches",
+            "value": "6,000"
+          },
+          {
+            "name": "Yearly Verifications",
+            "value": "12,000"
+          },
+          {
+            "name": "Connected Email Accounts",
+            "value": 3
+          },
+          {
+            "name": "Recipients per Campaign",
+            "value": 2500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "For growing businesses.",
+      "monthly_price": 104.0,
+      "annual_price": 1248.0,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "Email searches & verifications",
+        "CSV exports",
+        "Browser extensions",
+        "Google Sheets add-on",
+        "CRM Integrations",
+        "API",
+        "Unlimited team members",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Yearly Searches",
+            "value": "60,000"
+          },
+          {
+            "name": "Yearly Verifications",
+            "value": "120,000"
+          },
+          {
+            "name": "Connected Email Accounts",
+            "value": 10
+          },
+          {
+            "name": "Recipients per Campaign",
+            "value": 5000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "For large-scale operations.",
+      "monthly_price": 209.0,
+      "annual_price": 2508.0,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "Email searches & verifications",
+        "CSV exports",
+        "Browser extensions",
+        "Google Sheets add-on",
+        "CRM Integrations",
+        "API",
+        "Unlimited team members",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Yearly Searches",
+            "value": "120,000"
+          },
+          {
+            "name": "Yearly Verifications",
+            "value": "120,000"
+          },
+          {
+            "name": "Connected Email Accounts",
+            "value": 20
+          },
+          {
+            "name": "Recipients per Campaign",
+            "value": 15000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom solutions for enterprises.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Dedicated account manager",
+        "Higher rate limit",
+        "On-Demand quotas",
+        "Flexible quotas"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional Searches",
+      "unit": "per 100 credits",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": null,
+          "max": null,
+          "price": 10.0
+        },
+        {
+          "min": null,
+          "max": null,
+          "price": 3.0
+        },
+        {
+          "min": null,
+          "max": null,
+          "price": 2.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Additional Verifications",
+      "unit": "per 100 credits",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": null,
+          "max": null,
+          "price": 5.0
+        },
+        {
+          "min": null,
+          "max": null,
+          "price": 1.5
+        },
+        {
+          "min": null,
+          "max": null,
+          "price": 1.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Additional Email Accounts",
+      "unit": "per account per month",
+      "base_price": 10.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:01:29.907943",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "de0fb852-9836-4424-8840-7a37f507cf77",
+    "name": "Hunter",
+    "slug": "hunter",
+    "description": "Hunter lets you find professional email addresses in seconds and connect with the people that matter for your business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/3ccf84bf195febc3837e3082683df882.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Contact Management"
+    ],
+    "category_slugs": [
+      "contacts"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 3
+  }
+}

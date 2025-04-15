@@ -1,0 +1,156 @@
+{
+  "app_id": "google_slides",
+  "app_name": "Google Slides",
+  "app_slug": "google-slides",
+  "pricing_url": null,
+  "source_url": "https://workspace.google.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Google Slides is part of Google Workspace, and its pricing is included in the Workspace plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Business Starter",
+      "tier_description": "Basic plan for small businesses.",
+      "monthly_price": 8.4,
+      "annual_price": 84.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "30 GB pooled storage per user",
+        "Secure custom business email",
+        "Gemini AI assistant in Gmail",
+        "100 participant video meetings",
+        "Security and management controls",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 300,
+        "storage": "30GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Standard",
+      "tier_description": "Most popular plan with enhanced features.",
+      "monthly_price": 16.8,
+      "annual_price": 168.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "2 TB pooled storage per user",
+        "Secure custom business email",
+        "Gemini AI assistant in Gmail, Docs, Meet, and more",
+        "150 participant video meetings with recording and noise cancellation",
+        "eSignature with Docs and PDFs",
+        "Appointment booking pages",
+        "Collaborative video creator and editor",
+        "Email layouts and mail merge",
+        "Security and management controls",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 300,
+        "storage": "2TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Plus",
+      "tier_description": "Advanced plan for growing businesses.",
+      "monthly_price": 26.4,
+      "annual_price": 264.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "5 TB pooled storage per user",
+        "Secure custom business email with eDiscovery and retention",
+        "Gemini AI assistant in Gmail, Docs, Meet, and more",
+        "500 participant video meetings with recording, attendance tracking, and noise cancellation",
+        "eSignature with Docs and PDFs",
+        "Appointment booking pages",
+        "Collaborative video creator and editor",
+        "Email layouts and mail merge",
+        "Enhanced security and management controls",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 300,
+        "storage": "5TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 TB pooled storage per user with ability to request more",
+        "Secure custom business email with eDiscovery and retention",
+        "Gemini AI assistant in Gmail, Docs, Meet, and more",
+        "1000 participant video meetings with recording, attendance tracking, noise cancellation, and in-domain live streaming",
+        "eSignature with Docs and PDFs",
+        "Appointment booking pages",
+        "Collaborative video creator and editor",
+        "Email layouts and mail merge",
+        "Advanced security, management, and compliance controls",
+        "Enhanced Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "5TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:20:49.859393",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "591ccba7-ff40-4b00-9b88-26098ea1e8f4",
+    "name": "Google Slides",
+    "slug": "google-slides",
+    "description": "Google Slides allows you to create, edit, and share presentations with anyone, online, for free.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/d7cd7cd9ffcf2dab9f0333f7d7f61e45.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Documents",
+      "Google"
+    ],
+    "category_slugs": [
+      "documents",
+      "google"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 4,
+    "trigger_count": 0
+  }
+}

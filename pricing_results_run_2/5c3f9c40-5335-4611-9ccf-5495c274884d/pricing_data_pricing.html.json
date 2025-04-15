@@ -1,0 +1,70 @@
+{
+  "app_id": "zoho_crm",
+  "app_name": "Zoho CRM",
+  "app_slug": "zoho-crm",
+  "pricing_url": "https://www.zoho.com/crm/pricing.html",
+  "source_url": "https://www.zoho.com/crm/pricing.html",
+  "all_pricing_urls": [
+    "https://www.zoho.com/crm/pricing.html"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The free tier is available for up to 3 users.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free tier for up to 3 users.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic CRM functionalities"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:21:34.183501",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5c3f9c40-5335-4611-9ccf-5495c274884d",
+    "name": "Zoho CRM",
+    "slug": "zoho-crm",
+    "description": "Zoho CRM is a web-based CRM designed to attract, retain, and satisfy customers to grow your business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/8b222e5e2d52e0b827a02ba8c3162de1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)",
+      "Zoho"
+    ],
+    "category_slugs": [
+      "crm",
+      "zoho"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 7
+  }
+}

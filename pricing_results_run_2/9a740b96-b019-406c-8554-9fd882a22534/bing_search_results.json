@@ -1,0 +1,192 @@
+{
+  "app_name": "Bannerbear",
+  "app_slug": "bannerbear",
+  "search_term": "Find the official pricing page URL for Bannerbear (bannerbear.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744691523.082918,
+  "response_text": [
+    "The official pricing page for Bannerbear can be found at: [https://www.bannerbear.com/pricing/](https://www.bannerbear.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Bannerbear",
+      "url": "https://www.bannerbear.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.bannerbear.com/pricing/",
+      "is_accessible": true,
+      "content": "Product\nDemos\nResources\nPricing\nSign In\nStart Automating Today\n\nStart a free trial with 30 API Credits \u2014 no credit card required\n\nOn all plans\n\n\u2713Upgrade anytime\n\n\u2713Downgrade anytime\n\n\u2713Cancel anytime\n\n\t\nAutomate\n$\n49\nUSD / month\nStart a Free Trial\nAutomate your marketing\n\t\nScale\n$\n149\nUSD / month\nStart a Free Trial\nScale your marketing\n\t\nEnterprise\n$\n299\nUSD / month\nStart a Free Trial\nHigh volume access\n\nQuotas\t\nImage & Video API Credits\t\n1,000\n\t\n10,000\n20,000\n30,000\n40,000\n\t\n50,000\n100,000\n500,000\n1,000,000\n2,000,000\n\nBandwidth (GB)\t10\t50\t100\nIntegrations\t\nREST API\t\u2713\t\u2713\t\u2713\nZapier\t\u2713\t\u2713\t\u2713\nMake.com\t\u2713\t\u2713\t\u2713\nAirtable\t\u2713\t\u2713\t\u2713\nForms\t\u2713\t\u2713\t\u2713\nSimple URLs\t\n\u2014\n\t\u2713\t\u2713\nSigned URLs\t\n\u2014\n\t\u2713\t\u2713\nTeam\t\nMembers\t\n\u2014\n\t\u2713\t\u2713\nRoles\t\n\u2014\n\t\u2713\t\u2713\nSecurity\t\n2FA\t\u2713\t\u2713\t\u2713\nCompliance\t\nDPA\t\u2713\t\u2713\t\u2713\nBYO Storage\t\n\u2014\n\t\n\u2014\n\t\u2713\nSupport\t\nEmail\t\u2713\t\u2713\t\u2713\nPriority\t\n\u2014\n\t\u2713\t\u2713\nZoom\t\n\u2014\n\t\n\u2014\n\t\u2713\nFrequently Asked Questions\n\nPopular questions about Bannerbear\n\nAPI\nWhat can I use Bannerbear for?\nHow long do images take to render?\nWhere can I find the API documentation?\nCan I generate images synchronously?\nAccount / Billing\nHow does the free trial work?\nHow do I upgrade / downgrade my plan?\nHow do I cancel my plan?\nWhat happens when my plan is canceled?\nWhat happens if my payment fails?\nAPI Credits\nWhat if I go over my API Credits limit?\nDo all API requests count against my credits?\nHow many API Credits will I need?\nTeam\nCan I invite my team to collaborate with me?\nCan I limit team member permissions?\nCan I transfer ownership of a project?\nTemplate Editor\nWhat is a template?\nCan I use custom fonts?\nHow many templates can I create?\nIs there a maximum size limit?\nDoes Bannerbear work with Chinese, Arabic, Thai (and other languages)?\nStripe Climate Partner\n1% of your Bannerbear purchase will contribute to removing CO\u2082 from the atmosphere\nHave a question?\n\nBrowse the help docs or get in touch with our customer support team anytime\n\nBrowse Help Docs\nBannerbear\n\nImage Generation API for marketing automation\n\nFollow Bannerbear on \ud835\udd4f\n\nSign Up for our Newsletter\n\nPrivacy Policy\n\nTerms and Conditions\n\n\u00a9 2025\u00a0Bannerbear\n\nZooSaaS\n\nProduct\nImage Generation API\nMulti Image Generation API\nVideo Generation API\nPDF Generation API\nTemplate Library\nBannerbear for Enterprise\nIntegrations\nAirtable Integration\nZapier Integration\nIntegromat Integration\nForms\nURLs\nWordPress\nDemos\nMulti Image Demo\nAI Face Detect Demo\nTwitter to Instagram\nReal Estate Demo\nGithub Social\nOpen Graph\nSmart Crop Demo\nGenerators\nOnline Certificate Maker\nOnline Wedding Invite Maker\nOnline Event ID Card Maker\nOnline Photo Collage Maker\nOnline Invoice Maker\nUse Cases\nGenerate Images via API\nWatermark Videos via API\nGenerate PDFs via API\nGenerate Images with Zapier\nWatermark Videos with Zapier\nGenerate PDFs with Zapier\nMore Use Cases\nDocs & Guides\nHelp Articles\nBlog\neBooks\nAPI Quick Start\nAPI Reference\nFree Tools\nFacebook Preview Tool\nTwitter Preview Tool\nPretty Screenshot Tool\nOther\nSystem Status\nAbout Bannerbear\nOpen Startup\n\u2937 $10K MRR SaaS Journey\n\u2937 $10K to $20K MRR\n\u2937 Journey to $1MM ARR\nAffiliate Program\nChangelog\nPricing\nBannerbear Alternatives\n\nBannerbear turns your graphic templates into an API so that you can generate variations automatically",
+      "error": null,
+      "pricing_data": {
+        "app_id": "bannerbear",
+        "app_name": "Bannerbear",
+        "app_slug": "bannerbear",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Bannerbear offers a free trial with 30 API credits and no credit card required.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Automate",
+            "tier_description": "Automate your marketing",
+            "monthly_price": 49.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "REST API",
+              "Zapier",
+              "Make.com",
+              "Airtable",
+              "Forms",
+              "2FA",
+              "DPA",
+              "Email support"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": "1,000",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Bandwidth",
+                  "value": "10GB"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Scale",
+            "tier_description": "Scale your marketing",
+            "monthly_price": 149.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "REST API",
+              "Zapier",
+              "Make.com",
+              "Airtable",
+              "Forms",
+              "Simple URLs",
+              "Signed URLs",
+              "Team Members",
+              "Roles",
+              "2FA",
+              "DPA",
+              "Email support",
+              "Priority support"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": "10,000",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Bandwidth",
+                  "value": "50GB"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "High volume access",
+            "monthly_price": 299.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "REST API",
+              "Zapier",
+              "Make.com",
+              "Airtable",
+              "Forms",
+              "Simple URLs",
+              "Signed URLs",
+              "Team Members",
+              "Roles",
+              "2FA",
+              "DPA",
+              "BYO Storage",
+              "Email support",
+              "Priority support",
+              "Zoom support"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": "50,000",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Bandwidth",
+                  "value": "100GB"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "API Credits",
+            "unit": "per credit",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": "1,000",
+                "price": null
+              },
+              {
+                "min": 1.0,
+                "max": "10,000",
+                "price": null
+              },
+              {
+                "min": 1.0,
+                "max": "50,000",
+                "price": null
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Stripe Climate Partner",
+            "offer_description": "1% of your Bannerbear purchase will contribute to removing CO\u2082 from the atmosphere",
+            "discount_percentage": null,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T00:32:13.315726",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\bannerbear\\20250415_003213"
+}

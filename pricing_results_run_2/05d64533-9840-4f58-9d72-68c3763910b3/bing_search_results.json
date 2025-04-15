@@ -1,0 +1,51 @@
+{
+  "app_name": "Acuity Scheduling",
+  "app_slug": "acuity-scheduling",
+  "search_term": "Find the official pricing page URL for Acuity Scheduling (acuity-scheduling.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744687477.220433,
+  "response_text": [
+    "The official URL for Acuity Scheduling's pricing page is: https://acuityscheduling.com/signup "
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://acuityscheduling.com/signup",
+      "is_accessible": true,
+      "content": "Online Appointment Scheduling Software :: Free Scheduler for Appointments\n=============== \n\n[![Image 1: Acuity Scheduling a Squarespace Company](https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/acuity-logo-final.svg)](https://acuityscheduling.com/)\n\n*   [Create account](https://acuityscheduling.com/signup.php?action=form&type=professional&freeTrial=1&lite=1&btn=nav)\n\n [![Image 2: Acuity Scheduling a Squarespace Company](https://cdn-marketing.acuityscheduling.com/img/marketing/squarespace/acuity-logo-final.svg)](https://acuityscheduling.com/)Close\n\n*   [Pricing](https://acuityscheduling.com/signup.php?entry_point=acuity&btn=nav)\n*   [Help](https://help.acuityscheduling.com/)\n*   [Log in](https://secure.acuityscheduling.com/login.php?nav=1&btn=nav-bar)\n*   [Try scheduling](https://acuityscheduling.com/signup.php?action=form&type=professional&freeTrial=1&lite=1&btn=nav-menu)\n\nCookies must be enabled for you to log in\n\nLog in to Acuity Scheduling\n---------------------------\n\nEmail address \n\nYou haven\u2019t started an Acuity Scheduling trial. [Get started now](https://secure.acuityscheduling.com/signup.php?action=form&type=professional&freeTrial=1&lite=1&btn=login-error)\n\n \n\nWe noticed you have separate Acuity Scheduling and Squarespace accounts. Which credentials would you like to log in with?\n\nContinue with Acuity Scheduling Continue with Squarespace\n\n[Forgot Password?](https://acuityscheduling.com/forgotpass.php)\n\n        \n\n![Image 3](https://bat.bing.com/action/0?ti=5625326&tm=gtm002&Ver=2&mid=7b17542d-8d32-4cce-bb8a-b7631120477f&bo=1&sid=28c7a24019a911f0828aabed3a100f15&vid=28c8a9c019a911f09cd9a56394c5b9c2&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&tl=Online%20Appointment%20Scheduling%20Software%20%3A%3A%20Free%20Scheduler%20for%20Appointments&p=https%3A%2F%2Facuityscheduling.com%2Fhome.php%3FwebsiteId%3D&r=&lt=504&evt=pageLoad&sv=1&cdb=ARoR&rn=449902)\n\nAcuity Scheduling is an appointment booking software and a scheduling app, offering scheduling automation and full customization. Start a free trial today!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "acuity_scheduling",
+        "app_name": "Acuity Scheduling",
+        "app_slug": "acuity-scheduling",
+        "pricing_url": "https://acuityscheduling.com/signup.php?entry_point=acuity&btn=nav",
+        "source_url": "https://acuityscheduling.com/",
+        "all_pricing_urls": [
+          "https://acuityscheduling.com/signup.php?entry_point=acuity&btn=nav"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The application offers a free trial and a free tier for users.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:24:46.068321",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\acuity-scheduling\\20250414_232446"
+}

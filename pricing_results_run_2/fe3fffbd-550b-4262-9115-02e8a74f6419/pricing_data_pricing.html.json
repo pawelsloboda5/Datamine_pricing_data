@@ -1,0 +1,156 @@
+{
+  "app_id": "zoho_desk",
+  "app_name": "Zoho Desk",
+  "app_slug": "zoho-desk",
+  "pricing_url": "https://www.zoho.com/desk/pricing.html",
+  "source_url": "https://www.zoho.com/desk/pricing.html",
+  "all_pricing_urls": [
+    "https://www.zoho.com/desk/pricing.html"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 15,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual pricing offers discounts compared to monthly subscriptions. Local taxes are additional.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Easy email ticketing, right out of the box! Zoho Desk's free plan offers three user licenses to help you start small and grow your support team.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email ticketing"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Express",
+      "tier_description": "Small business essentials.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 34.0,
+      "setup_fee": null,
+      "features": [
+        "Email support",
+        "Social media integration",
+        "Web forms",
+        "Direct assignment",
+        "Workflows",
+        "Custom domain",
+        "Multi-level escalations",
+        "Ticket timeline & history",
+        "Contact management"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Everything in Express + additional features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 34.0,
+      "setup_fee": null,
+      "features": [
+        "Live chat",
+        "Instant messaging",
+        "Community forum",
+        "Knowledge base",
+        "Work modes",
+        "Generative AI",
+        "ASAP self-service widget",
+        "Customer happiness ratings",
+        "Custom reports and dashboards"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Everything in Standard + additional features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 34.0,
+      "setup_fee": null,
+      "features": [
+        "Telephony",
+        "Blueprints",
+        "Multi-department",
+        "Round-robin assignment",
+        "Custom lookup fields",
+        "Multilingual help center",
+        "Parent-child ticketing",
+        "Custom actions",
+        "Webhooks"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Everything in Professional + advanced features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 34.0,
+      "setup_fee": null,
+      "features": [
+        "Answer bot",
+        "Advanced AI assistant",
+        "Guided conversations",
+        "Skill-based assignment",
+        "Multi-level IVR",
+        "Multi-brand help center",
+        "Custom modules",
+        "Validation rules",
+        "Sandbox"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Local taxes",
+      "fee_amount": null,
+      "fee_description": "Local taxes (VAT, GST, etc.) will be charged in addition to the prices mentioned."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:25:58.055116",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fe3fffbd-550b-4262-9115-02e8a74f6419",
+    "name": "Zoho Desk",
+    "slug": "zoho-desk",
+    "description": "Zoho Desk is web-based customer service software designed to help you focus more on creating customer happiness every day.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/30ba0f708961c84e803b231c5648e4f9.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support",
+      "Zoho"
+    ],
+    "category_slugs": [
+      "customer-support",
+      "zoho"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 8
+  }
+}

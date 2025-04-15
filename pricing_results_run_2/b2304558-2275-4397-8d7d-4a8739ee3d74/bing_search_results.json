@@ -1,0 +1,53 @@
+{
+  "app_name": "Tave",
+  "app_slug": "tave",
+  "search_term": "Find the official pricing page URL for Tave (tave.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744692353.6273172,
+  "response_text": [
+    "The official pricing page for Tave can be found at: [https://hello.tave.com/plans-and-pricing](https://hello.tave.com/plans-and-pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "T\u00e1ve Plans & Pricing - Tave",
+      "url": "https://hello.tave.com/tave-plans"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://hello.tave.com/plans-and-pricing",
+      "is_accessible": true,
+      "content": "The page you are looking for doesn't exist or has been moved.\n\n[Back to T\u00e1ve Home](https://hello.tave.com/plans-and-pricing#)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "tave",
+        "app_name": "Tave",
+        "app_slug": "tave",
+        "pricing_url": "https://hello.tave.com/plans-and-pricing#",
+        "source_url": "https://hello.tave.com/plans-and-pricing#",
+        "all_pricing_urls": [
+          "https://hello.tave.com/plans-and-pricing#"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page was not accessible, and no detailed pricing information could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T00:46:06.805344",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\tave\\20250415_004607"
+}

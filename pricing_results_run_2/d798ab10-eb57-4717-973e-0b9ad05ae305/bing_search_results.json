@@ -1,0 +1,19 @@
+{
+  "app_name": "Sembly AI",
+  "app_slug": "sembly-ai",
+  "search_term": "Find the official pricing page URL for Sembly AI (sembly-ai.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744698922.4697316,
+  "response_text": [
+    "The official pricing page for Sembly AI can be found at: [https://www.sembly-ai.com/pricing/](https://www.sembly-ai.com/pricing/) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.sembly-ai.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 422"
+    }
+  ],
+  "results_directory": "pricing_results\\sembly-ai\\20250415_023527"
+}

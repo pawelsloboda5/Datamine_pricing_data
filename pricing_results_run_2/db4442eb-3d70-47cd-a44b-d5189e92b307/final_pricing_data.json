@@ -1,0 +1,43 @@
+{
+  "app_id": "habitify",
+  "app_name": "Habitify",
+  "app_slug": "habitify",
+  "pricing_url": null,
+  "source_url": "https://habitify.me/pricing\u30103:0\u2020source\u3011.",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page could not be accessed as it returned a 'Page Not Found' error.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:26:51.632660",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "db4442eb-3d70-47cd-a44b-d5189e92b307",
+    "name": "Habitify",
+    "slug": "habitify",
+    "description": "Habitify is a habit tracker that helps you form habits that actually stick. It\u2019s designed to motivate you every day and reward you with beautiful streaks.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/6082dd934ec908fcd4d63fca8dec4b5a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "todo-lists"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 3
+  }
+}

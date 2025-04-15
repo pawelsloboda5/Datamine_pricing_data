@@ -1,0 +1,54 @@
+{
+  "app_name": "Clearstream",
+  "app_slug": "clearstream",
+  "search_term": "Find the official pricing page URL for Clearstream (clearstream.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744700025.683232,
+  "response_text": [
+    "The official pricing page (fee schedule) for Clearstream can be found here: [https://www.clearstream.com/clearstream-en/prices-and-fees/clearstream-banking-fee-schedule](https://www.clearstream.com/clearstream-en/prices-and-fees/clearstream-banking-fee-schedule)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Clearstream Banking Fee Schedule",
+      "url": "https://www.clearstream.com/clearstream-en/keydocuments-1-/icsd-1-/fee-schedule/clearstream-banking-fee-schedule-1275552"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.clearstream.com/clearstream-en/prices-and-fees/clearstream-banking-fee-schedule",
+      "is_accessible": true,
+      "content": "Error - Not Found (404)\n-----------------------\n\nSorry - The page or file couldn't be found on the site.\n\nwww.clearstream.com and www.luxcsd.com have been relaunched and their respective architecture have changed. It is possible that the content you are looking for either no longer exists or has been moved.\n\nCustomer Announcements are available under Products & Services, in the Operational Information area of the relevant sections. They are also available on the Clearstream homepage.\n\nKey Documents is a new section containing Customer Handbooks, Fee Schedules and all the information formerly stored under Customer Information in the Information Centre.\n\nAlternatively, you may use our new search - it offers you improved functionalities to filter and quickly find the desired information:\n\n[Search clearstream.com](https://www.clearstream.com/clearstream-en/search)\n\n[Search luxcsd.com](https://www.clearstream.com/luxcsd-en/search)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "clearstream",
+        "app_name": "Clearstream",
+        "app_slug": "clearstream",
+        "pricing_url": null,
+        "source_url": "https://www.clearstream.com/clearstream-en/search",
+        "all_pricing_urls": [
+          "https://www.clearstream.com/clearstream-en/search",
+          "https://www.clearstream.com/luxcsd-en/search"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page or file could not be found on the site. The content may have been moved or no longer exists.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T02:53:53.420352",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": true,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\clearstream\\20250415_025353"
+}

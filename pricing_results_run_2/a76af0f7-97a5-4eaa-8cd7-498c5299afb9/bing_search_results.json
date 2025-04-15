@@ -1,0 +1,19 @@
+{
+  "app_name": "Zengine",
+  "app_slug": "zengine",
+  "search_term": "Find the official pricing page URL for Zengine (zengine.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744693621.0462031,
+  "response_text": [
+    "It seems that I couldn\u2019t locate the official Zengine pricing page at this time. I recommend visiting [zengine.com](https://www.zengine.com) directly for accurate pricing details."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.zengine.com",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\zengine\\20250415_010716"
+}

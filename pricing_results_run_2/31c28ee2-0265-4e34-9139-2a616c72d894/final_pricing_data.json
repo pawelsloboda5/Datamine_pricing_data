@@ -1,0 +1,159 @@
+{
+  "app_id": "beamer",
+  "app_name": "Beamer",
+  "app_slug": "beamer",
+  "pricing_url": "https://www.getbeamer.com/pricing",
+  "source_url": "https://www.getbeamer.com/pricing",
+  "all_pricing_urls": [
+    "https://www.getbeamer.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Additional MAUs can be added at a rate of $50/month per 5,000 MAUs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for small teams.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1,000 Monthly Active Users",
+        "Basic analytics",
+        "Beamer branding",
+        "1 language"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": 0,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Best for small teams. Get started quickly drafting and publishing product communications and company news.",
+      "monthly_price": 59.0,
+      "annual_price": 49.0,
+      "annual_discount_percentage": 16.95,
+      "setup_fee": null,
+      "features": [
+        "5,000 Monthly Active Users",
+        "In-app and standalone changelog",
+        "Boosted announcements",
+        "Appearance customization options",
+        "Analytics",
+        "Feedback Add on",
+        "NPS Add On"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": 2000,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Best for growing teams. Communicate your product velocity and get crucial feedback from your users.",
+      "monthly_price": 119.0,
+      "annual_price": 99.0,
+      "annual_discount_percentage": 16.81,
+      "setup_fee": null,
+      "features": [
+        "10,000 Monthly Active Users",
+        "Everything in Starter",
+        "Dedicated Inbox",
+        "Comments & reactions",
+        "Basic segmentation",
+        "Feedback Add on",
+        "NPS Add On"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": 20000,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "Best for large or rapidly scaling teams. Layer in advanced features like segmentation and user activities to optimize for engagement and adoption.",
+      "monthly_price": 299.0,
+      "annual_price": 249.0,
+      "annual_discount_percentage": 16.72,
+      "setup_fee": null,
+      "features": [
+        "50,000 Monthly Active Users",
+        "Everything in Pro",
+        "Advanced segmentation",
+        "User activities",
+        "Staging account",
+        "Feedback Add on",
+        "NPS Add On"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": 100000,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Monthly Active Users (MAUs)",
+      "unit": "per 5,000 MAUs",
+      "base_price": 50.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Additional MAUs",
+      "fee_amount": 50.0,
+      "fee_description": "Additional MAUs can be added at a rate of $50/month per 5,000 MAUs."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:13:43.421340",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "31c28ee2-0265-4e34-9139-2a616c72d894",
+    "name": "Beamer",
+    "slug": "beamer",
+    "description": "Beamer is an easy to use newsfeed and changelog for your website or app. Use it to announce news and features, and improve user engagement.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/938b259e68044a1828d99c9cbe8552e6_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Product Management"
+    ],
+    "category_slugs": [
+      "product-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 8
+  }
+}

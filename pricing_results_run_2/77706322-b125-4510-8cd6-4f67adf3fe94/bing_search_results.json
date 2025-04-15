@@ -1,0 +1,48 @@
+{
+  "app_name": "Zoho People",
+  "app_slug": "zoho-people",
+  "search_term": "Find the official pricing page URL for Zoho People (zoho-people.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744706648.0293999,
+  "response_text": [
+    "The official pricing page for Zoho People is: [https://www.zoho.com/people/pricing.html](https://www.zoho.com/people/pricing.html)."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.zoho.com/people/pricing.html",
+      "is_accessible": true,
+      "content": "Zoho - Page Not Found\n===============\n\n[![Image 1: Zoho](https://www.zohowebstatic.com/sites/zweb/images/commonroot/zoho-logo-web.svg)](https://www.zoho.com/)\n\n[Get Started](https://www.zoho.com/signup.html)\n\n[![Image 2: Zoho](https://www.zohowebstatic.com/sites/zweb/images/commonroot/zoho-logo-web.svg)](https://www.zoho.com/)\n\nWe can't seem to find the page you are looking for.\n===================================================\n\n*   Go Back to\n*   [Zoho people](https://www.zoho.com/people)\n*   / [Features](https://www.zoho.com/people/features.html)\n*   / [Pricing](https://www.zoho.com/people/pricing.html)\n\nvisit [zoho.com](https://www.zoho.com/)\n\n![Image 3: zoho-404-video](https://www.zoho.com/images/zoho-404-video.gif)\n\n*   [Terms of Service](https://www.zoho.com/terms.html)\n*   [Privacy Policy](https://www.zoho.com/privacy.html)\n\n\u00a9 2025, Zoho Corporation Pvt. Ltd. All Rights Reserved.\n\n\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0 [Sign Up for Free](https://www.zoho.com/signup.html) Access Zoho home\n\n search\n\n[Sign In](https://accounts.zoho.com/signin?servicename=ZohoHome&signupurl=https://www.zoho.com/signup.html) [All Zoho Products](https://www.zoho.com/all-products.html)\n\n       \n\nChat with our Sales team\n\nHow may I help you today?\n\nZoho - Page Not Found",
+      "error": null,
+      "pricing_data": {
+        "app_id": "zoho_people",
+        "app_name": "Zoho People",
+        "app_slug": "zoho-people",
+        "pricing_url": "https://www.zoho.com/people/pricing.html",
+        "source_url": "https://www.zoho.com/people/pricing.html",
+        "all_pricing_urls": [
+          "https://www.zoho.com/people/pricing.html"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page for Zoho People was not accessible, and detailed pricing information could not be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T04:44:15.860641",
+        "schema_validated": true,
+        "confidence_score": 80,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\zoho-people\\20250415_044416"
+}

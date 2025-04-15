@@ -1,0 +1,87 @@
+{
+  "app_id": "strava",
+  "app_name": "Strava",
+  "app_slug": "strava",
+  "pricing_url": "https://www.strava.com/pricing",
+  "source_url": "https://www.strava.com/pricing",
+  "all_pricing_urls": [
+    "https://www.strava.com/pricing",
+    "https://www.strava.com/subscribe"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is consistent within countries and displayed in local currency. Family plan and student discounts are available.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Individual Monthly",
+      "tier_description": "Monthly subscription for individual users.",
+      "monthly_price": 11.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": null,
+      "limits": null
+    },
+    {
+      "tier_name": "Individual Annual",
+      "tier_description": "Annual subscription for individual users.",
+      "monthly_price": null,
+      "annual_price": 79.99,
+      "annual_discount_percentage": 33.33,
+      "setup_fee": null,
+      "features": null,
+      "limits": null
+    },
+    {
+      "tier_name": "Family Plan",
+      "tier_description": "Annual subscription for family users.",
+      "monthly_price": null,
+      "annual_price": 139.99,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": null,
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Student Discount",
+      "offer_description": "Discounted subscription for students.",
+      "discount_percentage": null,
+      "offer_url": "https://www.strava.com/student?origin=global_footer",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:55:21.916062",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bc7fa071-c9ae-4d56-9f5c-a6c0de4211de",
+    "name": "Strava",
+    "slug": "strava",
+    "description": "Strava is a fitness tracking application.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/0bff80269156ba892a084e0fcf8eb841.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fitness"
+    ],
+    "category_slugs": [
+      "fitness"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 2
+  }
+}

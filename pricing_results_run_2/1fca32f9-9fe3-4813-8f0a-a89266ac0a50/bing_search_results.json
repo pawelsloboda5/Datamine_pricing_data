@@ -1,0 +1,177 @@
+{
+  "app_name": "Affinity",
+  "app_slug": "affinity",
+  "search_term": "Find the official pricing page URL for Affinity (affinity.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744686535.1537669,
+  "response_text": [
+    "The official pricing page for Affinity products can be found at: [https://affinity.serif.com/purchase/](https://affinity.serif.com/purchase/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Affinity \u2013 Purchase options and pricing",
+      "url": "https://affinity.serif.com/en-us/affinity-pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://affinity.serif.com/en-us/affinity-pricing/",
+      "is_accessible": true,
+      "content": "We offer a range of affordable, subscription-free buying options for individuals, businesses and educational institutions. Please select the relevant section below for further details on pricing and available volume discounts.\n\n![Image 1: Affinity V2 Universal License logo](https://cdn.serif.com/affinity/img/global/logos/universal-logo-180320221056.png)\n\nAffinity V2 Universal License\n\nFor macOS, Windows & iPadOS\n\nUSD$164.99\n\nOne-off paymentexcl. tax\n\nGet Version 2 of Affinity Designer, Affinity Photo and Affinity Publisher on all operating systems, including iPad, for one low bundle price.\n\n![Image 2: Affinity Designer 2 logo](https://cdn.serif.com/affinity/img/global/logos/affinity-designer-2-020520191502.svg)\n\n*   **Affinity Designer 2** | macOS\n*   **Affinity Designer 2** | Windows\n*   **Affinity Designer 2** | iPadOS\n\n![Image 3: Affinity Photo 2 logo](https://cdn.serif.com/affinity/img/global/logos/affinity-photo-2-020520191502.svg)\n\n*   **Affinity Photo 2** | macOS\n*   **Affinity Photo 2** | Windows\n*   **Affinity Photo 2** | iPadOS\n\n![Image 4: Affinity Publisher 2 logo](https://cdn.serif.com/affinity/img/global/logos/affinity-publisher-2-020520191502.svg)\n\n*   **Affinity Publisher 2** | macOS\n*   **Affinity Publisher 2** | Windows\n*   **Affinity Publisher 2** | iPadOS\n\nAll apps. All platforms.No subscription.\n\nDesktop apps\n\nAffinity Designer 2\n\nFor macOS or Windows\n\nUSD$69.99\n\nOne-off payment | excl. tax\n\nCreate a range of unique designs, from concept art to logos and web mock-ups.\n\nAffinity Photo 2\n\nFor macOS or Windows\n\nUSD$69.99\n\nOne-off payment | excl. tax\n\nEdit and retouch images, create multi-layered compositions and so much more.\n\nAffinity Publisher 2\n\nFor macOS or Windows\n\nUSD$69.99\n\nOne-off payment | excl. tax\n\nCreate stunning page layouts for brochures, posters, reports and other projects.\n\niPad apps\n\nAffinity Designer 2 for iPad\n\nFor iPadOS\n\nUSD$18.49\n\nOne-off payment | excl. tax\n\nCreate a range of unique designs, from concept art to logos and web mock-ups.\n\nAffinity Photo 2 for iPad\n\nFor iPadOS\n\nUSD$18.49\n\nOne-off payment | excl. tax\n\nEdit and retouch images, create multi-layered compositions and so much more.\n\nAffinity Publisher 2 for iPad\n\nFor iPadOS\n\nUSD$18.49\n\nOne-off payment | excl. tax\n\nCreate stunning page layouts for brochures, posters, reports and other projects.\n\nCreative software used by professionals all over the world. See our complete list of purchase and trial options to find the one that suits you best.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "affinity",
+        "app_name": "Affinity",
+        "app_slug": "affinity",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.ONE_TIME"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Affinity offers one-time payment options for its software products without subscription requirements.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Affinity V2 Universal License",
+            "tier_description": "Includes Affinity Designer, Affinity Photo, and Affinity Publisher for macOS, Windows, and iPadOS.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Affinity Designer 2",
+              "Affinity Photo 2",
+              "Affinity Publisher 2"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Affinity Designer 2 (Desktop)",
+            "tier_description": "Available for macOS or Windows.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Design creation for concept art, logos, and web mock-ups"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Affinity Photo 2 (Desktop)",
+            "tier_description": "Available for macOS or Windows.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Image editing and retouching",
+              "Multi-layered compositions"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Affinity Publisher 2 (Desktop)",
+            "tier_description": "Available for macOS or Windows.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Page layout creation for brochures, posters, and reports"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Affinity Designer 2 (iPad)",
+            "tier_description": "Available for iPadOS.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Design creation for concept art, logos, and web mock-ups"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Affinity Photo 2 (iPad)",
+            "tier_description": "Available for iPadOS.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Image editing and retouching",
+              "Multi-layered compositions"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Affinity Publisher 2 (iPad)",
+            "tier_description": "Available for iPadOS.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Page layout creation for brochures, posters, and reports"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:09:09.210530",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://affinity.serif.com/purchase/",
+      "is_accessible": true,
+      "content": "Error 404 - Sorry this page doesn\u2019t exist\n===============                 \n\nOur cookies\n\nWe use cookies to improve your experience on our website and to show you personalised content. You can accept all or manage them individually.\n\nReject non-essentialAccept allManage cookies\n\n[Skip to main content](https://affinity.serif.com/purchase/#content)\n\n[![Image 1: Affinity brand logo](https://cdn.serif.com/affinity/img/global/logos/affinity-logo-190920160826.svg)](https://affinity.serif.com/en-us/)\n\n*   [Designer](https://affinity.serif.com/en-us/designer/)\n*   [Photo](https://affinity.serif.com/en-us/photo/)\n*   [Publisher](https://affinity.serif.com/en-us/publisher/)\n*   [Add-ons](https://affinity.serif.com/en-us/store/)\n*   [Learn](https://affinity.serif.com/en-us/learn/)\n\n*   *   Your account\n        \n    *   [Account home](https://store.serif.com/en-us/account/)\n    *   [Order history](https://store.serif.com/en-us/account/orders/)\n    *   [V2 licenses & downloads](https://store.serif.com/en-us/account/licences/)\n    *   [Downloads & product keys](https://store.serif.com/en-us/account/downloads/)\n    *   [Account details](https://store.serif.com/en-us/account/details/)\n    *   [Help & support](https://store.serif.com/en-us/help/)\n    *   [Sign out](https://store.serif.com/sign-out/?r=https%3A%2F%2Faffinity.serif.com%2Fpurchase%2F)\n    \n*   Basket\n    \n    Your basket is empty.\n    \n*   Menu\n\nError 404 - Page Not Found\n==========================\n\nSorry this page doesn\u2019t exist\n-----------------------------\n\nWe are sorry, the page you requested cannot be found. The URL may be misspelled or the page you\u2019re looking for is no longer available.\n\nGo to the [homepage](https://affinity.serif.com/)\n\nOur Apps\n\n*   [Affinity Designer 2](https://affinity.serif.com/en-us/designer/)\n*   [Affinity Photo 2](https://affinity.serif.com/en-us/photo/)\n*   [Affinity Publisher 2](https://affinity.serif.com/en-us/publisher/)\n*   [Universal License](https://affinity.serif.com/en-us/universal-licence/)\n*   [What\u2019s New](https://affinity.serif.com/en-us/whats-new/)\n*   [Purchase Options](https://affinity.serif.com/en-us/affinity-pricing/)\n*   [Upgrade from V1](https://affinity.serif.com/en-us/store/upgrade-offer/)\n*   [Beta Software Program](https://affinity.serif.com/en-us/affinity-beta-program/)\n*   [Add-ons](https://affinity.serif.com/en-us/store/)\n\nVolume Licensing\n\n*   [Business](https://affinity.serif.com/en-us/business/)\n*   [Education](https://affinity.serif.com/en-us/education/)\n\nCompany\n\n*   [About Us](https://affinity.serif.com/en-us/about/)\n*   [Press Newsroom](https://affinity.serif.com/en-us/press/)\n*   [Press Kits](https://affinity.serif.com/en-us/press/press-kits/)\n*   [Contact](https://affinity.serif.com/en-us/contact/)\n*   [Careers](https://affinity.serif.com/en-us/careers/)\n\nHelp & Support\n\n*   [Learn](https://affinity.serif.com/en-us/learn/)\n*   [FAQ](https://affinity.serif.com/en-us/affinity-2-faq/)\n*   [Affinity Spotlight](https://affinityspotlight.com/)\n*   [Forum](https://forum.affinity.serif.com/)\n*   [Store & Account Help](https://store.serif.com/en-us/help/)\n*   [Returns & Refunds](https://store.serif.com/en-us/help/#returns)\n*   [Reviews](https://affinity.serif.com/en-us/reviews/)\n\nInformation\n\n*   [Privacy Policy](https://affinity.serif.com/en-us/privacy/)\n*   [Terms & Conditions](https://affinity.serif.com/en-us/terms/)\n*   [Cookies Policy](https://affinity.serif.com/en-us/cookies-policy/)\n*   Manage Cookies\n\nFollow us\n\n*   [Twitter](https://affin.co/tw)\n*   [Facebook](https://affin.co/fb)\n*   [YouTube](https://affin.co/yt)\n*   [Instagram](https://affin.co/insta)\n*   [TikTok](https://affin.co/tiktok)\n*   [Threads](https://affin.co/th)\n\n![Image 2: Feefo Gold Trusted Service Award 2025 logo](https://cdn.serif.com/affinity/img/global/logos/feefo-award-badge-white-060220250927.svg)\n\n*   ![Image 3](https://cdn.serif.com/affinity/img/global/flags/en-us-031220151207.svg) [United States - English](https://affinity.serif.com/en-us/locale/)\n    \n\n![Image 4: Serif - Inspiring creativity](https://cdn.serif.com/affinity/img/global/logos/serif-logo-black-110920201451.svg)\n\n\u00a9 2025 Serif (Europe) Ltd, All rights reserved\n\n[![Image 5: Feefo logo](https://cdn.serif.com/affinity/img/global/logos/feefo-logo-white-yellow-030420251453.svg)](https://www.feefo.com/reviews/affinity-serif-us)\n\n1.  \u201cSerif\u201d and \u201cAffinity\u201d are both registered trademarks of Serif Europe Ltd.\n2.  Apple, the Apple logo, MacBook Pro, iPad, and iMac are trademarks of Apple Inc., registered in the U.S. and other countries.\n3.  Mac App Store is a service mark of Apple Inc.\n4.  Microsoft, Windows, and the Windows logo are registered trademarks of Microsoft Corporation.\n\n[This browser is no longer supported. Please upgrade your browser to improve your experience. Find out more.](https://browsehappy.com/)\n\nWe are sorry, the page you requested cannot be found. The URL may be misspelled or the page you\u2019re looking for is no longer available.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "affinity",
+        "app_name": "Affinity",
+        "app_slug": "affinity",
+        "pricing_url": "https://affinity.serif.com/en-us/affinity-pricing/",
+        "source_url": "https://affinity.serif.com/purchase/#content",
+        "all_pricing_urls": [
+          "https://affinity.serif.com/en-us/affinity-pricing/"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page was not accessible, and no specific pricing information could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:09:19.274800",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\affinity\\20250414_230919"
+}

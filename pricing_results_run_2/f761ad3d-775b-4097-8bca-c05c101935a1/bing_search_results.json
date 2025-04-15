@@ -1,0 +1,374 @@
+{
+  "app_name": "CallFire",
+  "app_slug": "callfire",
+  "search_term": "Find the official pricing page URL for CallFire (callfire.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744709987.3054614,
+  "response_text": [
+    "The official pricing page for CallFire can be found at this URL: [https://www.callfire.com/pricing](https://www.callfire.com/pricing)\u30103:0\u2020source\u3011\u30103:6\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "CallFire's Flexible, Affordable Pricing",
+      "url": "https://www.callfire.com/pricing-plans"
+    },
+    {
+      "title": "Pricing on Call Tracking, SMS Text Messaging, IVR & More - CallFire",
+      "url": "https://www.callfire.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.callfire.com/pricing-plans",
+      "is_accessible": true,
+      "content": "[](https://www.callfire.com/pricing-plans#main-content)\n\nPro\n---\n\n$599/month\n\n20000 minutes/texts\n\n[More](https://www.callfire.com/pricing-plans#plan-item-pro) [Less](https://www.callfire.com/pricing-plans#hide-details) [Sign Up Now!](https://www.callfire.com/ui/register?p=59003&f=25003)\n\n*   $1.75 phone numbers\n*   $10 keywords\n\nBest Value\n\nGrow\n----\n\n$299/month\n\n10000 minutes/texts\n\n[More](https://www.callfire.com/pricing-plans#plan-item-grow) [Less](https://www.callfire.com/pricing-plans#hide-details) [Sign Up Now!](https://www.callfire.com/ui/register?p=60003&f=25003)\n\n*   $2.00 phone numbers\n*   $13 keywords\n\nStartup\n-------\n\n$199/month\n\n5500 minutes/texts\n\n[More](https://www.callfire.com/pricing-plans#plan-item-startup) [Less](https://www.callfire.com/pricing-plans#hide-details) [Sign Up Now!](https://www.callfire.com/ui/register?p=61003&f=25003)\n\n*   $2.25 phone numbers\n*   $15 keywords\n\nLite\n----\n\n$99/month\n\n2500 minutes/texts\n\n[More](https://www.callfire.com/pricing-plans#plan-item-lite) [Less](https://www.callfire.com/pricing-plans#hide-details) [Sign Up Now!](https://www.callfire.com/ui/register?p=62003&f=25003)\n\n*   $2.50 phone numbers\n*   $20 keywords\n\nPay as you go\n-------------\n\n5\u00a2 per minute/text\n\nno monthly fee\n\n[More](https://www.callfire.com/pricing-plans#plan-item-mini) [Less](https://www.callfire.com/pricing-plans#hide-details) [Sign Up Now!](https://www.callfire.com/ui/register?f=25003)\n\n*   $10.00 phone numbers\n*   $25 keywords\n\nLooking for higher volume? Call us at **877.897.3473** for a quote.\n\n### All Plans Include\n\n*   Unlimited Contacts\n*   Text-to-Speech Support\n*   Record inbound calls for free\n\n*   Simple \"Do Not Call\" list setup\n*   6am - 5pm PT Customer Support\n*   Extensive real-time reporting\n\nPricing FAQs\n------------\n\n### [How much do I pay per contact?](https://www.callfire.com/pricing-plans#)\n\nCallFire allows unlimited contacts. You can add as many contacts as you like. CallFire will never charge you a per contact fee.\n\n### [How are calls billed?](https://www.callfire.com/pricing-plans#)\n\nAll calls are billed in sixty-second increments, from pickup to hang-up. We bill the length of the call, and not the length of the message that you are sending. This means, for example, that messages left with answering machines will last longer than calls that are answered live. The per-minute cost of the call will depend on the billing plan that you choose.\n\n### [What happens if I call over my plan allowance?](https://www.callfire.com/pricing-plans#)\n\nIf your allowance reaches 0 credits, your calls and texts will stop. You can upgrade your plan to resume calling, or purchase additional credits at 5\u00a2 per credit.\n\n### [Can I upgrade my plan?](https://www.callfire.com/pricing-plans#)\n\nOf course! When you select a plan upgrade from our basic pay-as-you-go level, the new plan will take effect immediately. If your account is already on a monthly plan, the new rates will take effect at the beginning of your next billing period. In the interim you can still purchase additional credits at your current plan rate.\n\n### [Can I downgrade my plan?](https://www.callfire.com/pricing-plans#)\n\nIf you choose to downgrade your plan, it will take effect at the start of the next billing cycle. Until then, you will continue to be billed at your current plan rate.\n\n### [Does my allowance of minutes expire?](https://www.callfire.com/pricing-plans#)\n\nYes. The allowance of minutes you purchase each cycle will expire at the end of the cycle.\n\n### [Does my plan include international calls and texting?](https://www.callfire.com/pricing-plans#)\n\nYour plan includes calls to the US and Canada. Our legacy platform supports international dialing. For international rates, view our [international pricing](https://www.callfire.com/products/international) page for more information. CallFire does not currently support international text messages.\n\n@media (max-width: 767px) { .section-pricing .pricing-plans .col-12 col-md-3:last-child h2.plan-name span {font-size: 11px;} } @media (max-width: 767px) { .section-pricing .pricing-plans .col-12 col-md-3:last-child h2.plan-name span {font-size: 11px;} } .page #hero { background: #f6f6f6; padding-top: 40px; padding-bottom: 365px; text-align: center; } .page #hero h1 { font-size: 54px; margin-bottom: 20px; color: #252525; } .page .benefits { display: none; } .section-pricing-plans #hero, .section-precios #hero { background",
+      "error": null,
+      "pricing_data": {
+        "app_id": "callfire",
+        "app_name": "CallFire",
+        "app_slug": "callfire",
+        "pricing_url": "https://www.callfire.com/pricing-plans#main-content",
+        "source_url": "https://www.callfire.com/pricing-plans#main-content",
+        "all_pricing_urls": [
+          "https://www.callfire.com/pricing-plans#main-content"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "CallFire offers subscription plans with fixed allowances and a pay-as-you-go option. Additional credits can be purchased if allowances are exceeded.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Pro",
+            "tier_description": null,
+            "monthly_price": 599.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "20000 minutes/texts",
+              "$1.75 phone numbers",
+              "$10 keywords"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "minutes/texts",
+                  "value": 20000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Grow",
+            "tier_description": "Best Value",
+            "monthly_price": 299.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "10000 minutes/texts",
+              "$2.00 phone numbers",
+              "$13 keywords"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "minutes/texts",
+                  "value": 10000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Startup",
+            "tier_description": null,
+            "monthly_price": 199.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "5500 minutes/texts",
+              "$2.25 phone numbers",
+              "$15 keywords"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "minutes/texts",
+                  "value": 5500
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Lite",
+            "tier_description": null,
+            "monthly_price": 99.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "2500 minutes/texts",
+              "$2.50 phone numbers",
+              "$20 keywords"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "minutes/texts",
+                  "value": 2500
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pay as you go",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "5\u00a2 per minute/text",
+              "no monthly fee",
+              "$10.00 phone numbers",
+              "$25 keywords"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "minutes/texts",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "minutes/texts",
+            "unit": "per minute/text",
+            "base_price": 0.05,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "phone numbers",
+            "fee_amount": null,
+            "fee_description": "Varies by plan: $1.75 to $10.00"
+          },
+          {
+            "fee_name": "keywords",
+            "fee_amount": null,
+            "fee_description": "Varies by plan: $10 to $25"
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T05:40:02.954833",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.callfire.com/pricing",
+      "is_accessible": true,
+      "content": "[](https://www.callfire.com/pricing#main-content)\n\nPro\n---\n\n$599/month\n\n20000 minutes/texts\n\n[More](https://www.callfire.com/pricing#plan-item-pro) [Less](https://www.callfire.com/pricing#hide-details) [Sign Up Now!](https://www.callfire.com/ui/register?p=59003&f=25003)\n\n*   $1.75 phone numbers\n*   $10 keywords\n\nBest Value\n\nGrow\n----\n\n$299/month\n\n10000 minutes/texts\n\n[More](https://www.callfire.com/pricing#plan-item-grow) [Less](https://www.callfire.com/pricing#hide-details) [Sign Up Now!](https://www.callfire.com/ui/register?p=60003&f=25003)\n\n*   $2.00 phone numbers\n*   $13 keywords\n\nStartup\n-------\n\n$199/month\n\n5500 minutes/texts\n\n[More](https://www.callfire.com/pricing#plan-item-startup) [Less](https://www.callfire.com/pricing#hide-details) [Sign Up Now!](https://www.callfire.com/ui/register?p=61003&f=25003)\n\n*   $2.25 phone numbers\n*   $15 keywords\n\nLite\n----\n\n$99/month\n\n2500 minutes/texts\n\n[More](https://www.callfire.com/pricing#plan-item-lite) [Less](https://www.callfire.com/pricing#hide-details) [Sign Up Now!](https://www.callfire.com/ui/register?p=62003&f=25003)\n\n*   $2.50 phone numbers\n*   $20 keywords\n\nPay as you go\n-------------\n\n6\u00a2 per minute/text\n\nno monthly fee\n\n[More](https://www.callfire.com/pricing#plan-item-mini) [Less](https://www.callfire.com/pricing#hide-details) [Sign Up Now!](https://www.callfire.com/ui/register?f=25003)\n\n*   $10.00 phone numbers\n*   $25 keywords\n\n### All Plans Include\n\n*   Unlimited Contacts\n*   Text-to-Speech Support\n*   Record inbound calls for free\n\n*   Simple \"Do Not Call\" list setup\n*   6am - 5pm PT Customer Support\n*   Extensive real-time reporting\n\nPricing FAQs\n------------\n\n### [How much do I pay per contact?](https://www.callfire.com/pricing#)\n\nCallFire allows unlimited contacts. You can add as many contacts as you like. CallFire will never charge you a per contact fee.\n\n### [How are calls billed?](https://www.callfire.com/pricing#)\n\nAll calls are billed in sixty-second increments, from pickup to hang-up. We bill the length of the call, and not the length of the message that you are sending. This means, for example, that messages left with answering machines will last longer than calls that are answered live. The per-minute cost of the call will depend on the billing plan that you choose.\n\n### [What happens if I call over my plan allowance?](https://www.callfire.com/pricing#)\n\nIf your allowance reaches 0 credits, your calls and texts will stop. You can upgrade your plan to resume calling, or purchase additional credits at 6\u00a2 per credit.\n\n### [Can I upgrade my plan?](https://www.callfire.com/pricing#)\n\nOf course! When you select a plan upgrade from our basic pay-as-you-go level, the new plan will take effect immediately. If your account is already on a monthly plan, the new rates will take effect at the beginning of your next billing period. In the interim you can still purchase additional credits at your current plan rate.\n\n### [Can I downgrade my plan?](https://www.callfire.com/pricing#)\n\nIf you choose to downgrade your plan, it will take effect at the start of the next billing cycle. Until then, you will continue to be billed at your current plan rate.\n\n### [Does my allowance of minutes expire?](https://www.callfire.com/pricing#)\n\nYes. The allowance of minutes you purchase each cycle will expire at the end of the cycle.\n\n### [Does my plan include international calls and texting?](https://www.callfire.com/pricing#)\n\nYour plan includes calls to the US and Canada. Our legacy platform supports international dialing. For international rates, view our [international pricing](https://www.callfire.com/products/international) page for more information. CallFire does not currently support international text messages.\n\nFind flexible, affordable pricing from CallFire with 3 plan types or pay as you go. Plans include unlimited contacts, free transfers and many more features.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "callfire",
+        "app_name": "CallFire",
+        "app_slug": "callfire",
+        "pricing_url": "https://www.callfire.com/pricing#main-content",
+        "source_url": "https://www.callfire.com/pricing#main-content",
+        "all_pricing_urls": [
+          "https://www.callfire.com/pricing#main-content"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes subscription plans with fixed allowances and a pay-as-you-go option.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Pro",
+            "tier_description": null,
+            "monthly_price": 599.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "20000 minutes/texts",
+              "$1.75 phone numbers",
+              "$10 keywords"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": 20000,
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Grow",
+            "tier_description": "Best Value",
+            "monthly_price": 299.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "10000 minutes/texts",
+              "$2.00 phone numbers",
+              "$13 keywords"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": 10000,
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Startup",
+            "tier_description": null,
+            "monthly_price": 199.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "5500 minutes/texts",
+              "$2.25 phone numbers",
+              "$15 keywords"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": 5500,
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Lite",
+            "tier_description": null,
+            "monthly_price": 99.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "2500 minutes/texts",
+              "$2.50 phone numbers",
+              "$20 keywords"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": 2500,
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pay as you go",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "6\u00a2 per minute/text",
+              "no monthly fee",
+              "$10.00 phone numbers",
+              "$25 keywords"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "minutes/texts",
+            "unit": "per minute/text",
+            "base_price": 0.06,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Phone numbers",
+            "fee_amount": null,
+            "fee_description": "Varies by plan: $1.75-$10.00"
+          },
+          {
+            "fee_name": "Keywords",
+            "fee_amount": null,
+            "fee_description": "Varies by plan: $10-$25"
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T05:40:20.793820",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\callfire\\20250415_054021"
+}

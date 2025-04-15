@@ -1,0 +1,12 @@
+{
+  "app_name": "Reddit",
+  "app_slug": "reddit",
+  "search_term": "Find the official pricing page URL for Reddit (reddit.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744705926.8424258,
+  "response_text": [
+    "I could not locate an official Reddit pricing page. Reddit\u2019s services primarily consist of free content access, and premium plans, but you might have to check directly on their official website or accounts for options like Reddit Premium. Let me know if you\u2019d like further help!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\reddit\\20250415_043207"
+}

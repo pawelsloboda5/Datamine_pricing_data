@@ -1,0 +1,147 @@
+{
+  "app_id": "bugherd",
+  "app_name": "BugHerd",
+  "app_slug": "bugherd",
+  "pricing_url": null,
+  "source_url": "https://bugherd.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a discount equivalent to two months free.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Ideal for freelancers and small teams.",
+      "monthly_price": 49.0,
+      "annual_price": 41.0,
+      "annual_discount_percentage": 16.33,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Client users",
+        "Unlimited Projects",
+        "Feedback on websites, Figma designs, PDFs, images",
+        "Capture screenshots & technical metadata",
+        "Video feedback",
+        "Standard integrations (Trello, Slack, GitHub + 12 more)"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "10GB",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Studio",
+      "tier_description": "Perfect for growing agencies needing to manage multiple projects and clients effectively.",
+      "monthly_price": 79.0,
+      "annual_price": 66.0,
+      "annual_discount_percentage": 16.46,
+      "setup_fee": null,
+      "features": [
+        "Everything in Standard",
+        "More Members",
+        "More storage"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "25GB",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Tailored for agencies and larger teams who want to deliver an exceptional project experience for clients.",
+      "monthly_price": 149.0,
+      "annual_price": 124.0,
+      "annual_discount_percentage": 16.78,
+      "setup_fee": null,
+      "features": [
+        "Everything in Studio",
+        "Custom branding",
+        "Enhanced client collaboration",
+        "Share member feedback with clients",
+        "Private Team commenting",
+        "Client project board",
+        "Premium integrations (Jira, Asana, Linear, ClickUp, Monday.com)"
+      ],
+      "limits": {
+        "users": 25,
+        "storage": "50GB",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Designed for enterprises with complex workflows and dedicated support needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Premium",
+        "Custom limit on Members",
+        "Dedicated Success Manager",
+        "Onboarding & Training Support",
+        "Secure single sign-on (SSO)"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional members",
+      "unit": "per user",
+      "base_price": 80.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:02:43.435080",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "aec9d9aa-c89c-431a-9863-86ee357e37ed",
+    "name": "BugHerd",
+    "slug": "bugherd",
+    "description": "A visual feedback tool for websites. It's like using sticky-notes to pin client feedback and track bugs directly on a page.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/e570e2914f55c0293d6eee1e7bd7e6ab.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Developer Tools"
+    ],
+    "category_slugs": [
+      "developer-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 3
+  }
+}

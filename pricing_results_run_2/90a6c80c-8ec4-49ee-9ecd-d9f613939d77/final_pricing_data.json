@@ -1,0 +1,133 @@
+{
+  "app_id": "twilio",
+  "app_name": "Twilio",
+  "app_slug": "twilio",
+  "pricing_url": "https://www.twilio.com/en-us/pricing",
+  "source_url": "https://www.twilio.com/en-us/pricing",
+  "all_pricing_urls": [
+    "https://www.twilio.com/en-us/pricing",
+    "https://www.twilio.com/en-us/pricing/messaging",
+    "https://www.twilio.com/en-us/pricing/voice",
+    "https://www.twilio.com/en-us/pricing/video",
+    "https://www.twilio.com/en-us/pricing/verify",
+    "https://www.twilio.com/en-us/pricing/lookup",
+    "https://www.twilio.com/en-us/pricing/serverless",
+    "https://www.twilio.com/en-us/flex/pricing",
+    "https://segment.com/pricing/",
+    "https://sendgrid.com/en-us/pricing"
+  ],
+  "price_model_type": [
+    "usage_based",
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Twilio offers a variety of pricing models including usage-based and subscription options. Detailed pricing is available for specific services like messaging, voice, and video.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Messaging",
+      "tier_description": "Send and receive multichannel text and media messages.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "SMS",
+        "WhatsApp",
+        "Conversations",
+        "RCS"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Voice",
+      "tier_description": "Make, receive, and monitor calls.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "PSTN",
+        "SIP Trunking",
+        "SDK"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Verify",
+      "tier_description": "Multichannel 2FA and passwordless authentication.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2FA",
+        "Passwordless authentication"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Video",
+      "tier_description": "Secure, high-quality video calling.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Video calling",
+        "Global scale"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS",
+      "unit": "per message",
+      "base_price": 0.0075,
+      "tiers": null
+    },
+    {
+      "metric_name": "Voice",
+      "unit": "per minute",
+      "base_price": 0.013,
+      "tiers": null
+    },
+    {
+      "metric_name": "Video",
+      "unit": "per participant minute",
+      "base_price": 0.004,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:20:18.398748",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "90a6c80c-8ec4-49ee-9ecd-d9f613939d77",
+    "name": "Twilio",
+    "slug": "twilio",
+    "description": "An easy tool for developers to send and receive SMS and voice calls.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/304e0410159880592f94af8c8772642d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 4
+  }
+}

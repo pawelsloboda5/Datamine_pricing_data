@@ -1,0 +1,297 @@
+{
+  "app_id": "outgrow",
+  "app_name": "Outgrow",
+  "app_slug": "outgrow",
+  "pricing_url": "https://app.outgrow.co/",
+  "source_url": "https://outgrow.co/pricing/",
+  "all_pricing_urls": [
+    "https://app.outgrow.co/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes multiple tiers with varying features and limits. Custom plans are available for enterprises.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Freelancer Limited",
+      "tier_description": "Basic plan for individual users.",
+      "monthly_price": 22.0,
+      "annual_price": 14.0,
+      "annual_discount_percentage": 36.36,
+      "setup_fee": null,
+      "features": [
+        "Access to 5 content types",
+        "3,000 leads per year",
+        "5 content pieces",
+        "1 user",
+        "Standard layouts",
+        "Embed anywhere",
+        "No access to charts, tables, and graphs",
+        "Standard branding",
+        "Standard integrations",
+        "Standard formula and logic jump",
+        "Standard analytics and tracking",
+        "Standard support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 1,
+        "custom_limits": [
+          {
+            "name": "Leads",
+            "value": "3,000 per year"
+          },
+          {
+            "name": "Content Pieces",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Freelancer Pro",
+      "tier_description": "Enhanced plan for individual users.",
+      "monthly_price": 45.0,
+      "annual_price": 25.0,
+      "annual_discount_percentage": 44.44,
+      "setup_fee": null,
+      "features": [
+        "Access to 7 content types",
+        "12,000 leads per year",
+        "7 content pieces",
+        "1 user",
+        "Standard layouts",
+        "Embed anywhere",
+        "No access to charts, tables, and graphs",
+        "Standard branding",
+        "Standard integrations",
+        "Standard formula and logic jump",
+        "Standard analytics and tracking",
+        "Standard support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 1,
+        "custom_limits": [
+          {
+            "name": "Leads",
+            "value": "12,000 per year"
+          },
+          {
+            "name": "Content Pieces",
+            "value": 7
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Plan for small teams.",
+      "monthly_price": 115.0,
+      "annual_price": 95.0,
+      "annual_discount_percentage": 17.39,
+      "setup_fee": null,
+      "features": [
+        "Access to 8 content types",
+        "90,000 leads per year",
+        "Unlimited content pieces",
+        "3 users",
+        "Standard and default layouts",
+        "Embed anywhere",
+        "Full access to charts, tables, and graphs",
+        "Standard branding",
+        "Advanced integrations with SMB offer",
+        "Full formula and logic jump",
+        "Standard analytics and tracking",
+        "Basic support"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 1,
+        "custom_limits": [
+          {
+            "name": "Leads",
+            "value": "90,000 per year"
+          },
+          {
+            "name": "Content Pieces",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Plan for larger teams and businesses.",
+      "monthly_price": 720.0,
+      "annual_price": 600.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Access to all content types",
+        "600,000 leads per year",
+        "Unlimited content pieces",
+        "10 users",
+        "Premium, standard, and default layouts",
+        "Embed and custom domain",
+        "Full access to charts, tables, and graphs",
+        "Full branding",
+        "Advanced integrations",
+        "Full formula and logic jump",
+        "Advanced analytics and tracking",
+        "Priority support"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Leads",
+            "value": "600,000 per year"
+          },
+          {
+            "name": "Content Pieces",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Startup Special",
+      "tier_description": "Special plan for startups and small businesses.",
+      "monthly_price": 85.0,
+      "annual_price": 55.0,
+      "annual_discount_percentage": 35.29,
+      "setup_fee": null,
+      "features": [
+        "Access to 6 content types",
+        "12,000 leads per year",
+        "6 content pieces",
+        "1 user",
+        "Standard layouts",
+        "Embed anywhere",
+        "Full access to charts, tables, and graphs with SMB offer",
+        "Standard branding",
+        "Advanced integrations with SMB offer",
+        "Full formula and logic jump with SMB offer",
+        "Standard analytics and tracking",
+        "Support docs"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 1,
+        "custom_limits": [
+          {
+            "name": "Leads",
+            "value": "12,000 per year"
+          },
+          {
+            "name": "Content Pieces",
+            "value": 6
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Customizable plan for enterprises and agencies.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Fully customizable features",
+        "Access to all content types",
+        "Custom leads and content pieces",
+        "Custom users",
+        "Custom layouts",
+        "Embed and custom domain",
+        "Full access to charts, tables, and graphs",
+        "Full branding",
+        "Custom integrations",
+        "Full formula and logic jump",
+        "Advanced analytics and tracking",
+        "Dedicated support"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "custom",
+        "custom_limits": [
+          {
+            "name": "Leads",
+            "value": "custom"
+          },
+          {
+            "name": "Content Pieces",
+            "value": "custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Discount",
+      "offer_description": "Save up to 44% on annual plans.",
+      "discount_percentage": 44.0,
+      "offer_url": "https://app.outgrow.co/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Custom Build",
+      "fee_amount": 250.0,
+      "fee_description": "Starting price per content piece for custom builds."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:37:43.287172",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d3ca32fa-16e9-47bd-bdee-9a9d766bfece",
+    "name": "Outgrow",
+    "slug": "outgrow",
+    "description": "Outgrow allows you to easily build interactive content like quizzes, calculators, polls, surveys/forms, assessments, chatbots, contests.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/2f48188e1a0cb878939d3c46634ac67d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

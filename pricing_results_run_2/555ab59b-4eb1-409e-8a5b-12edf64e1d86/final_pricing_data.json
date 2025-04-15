@@ -1,0 +1,48 @@
+{
+  "app_id": "benchmarkone",
+  "app_name": "BenchmarkONE",
+  "app_slug": "benchmarkone",
+  "pricing_url": "https://www.benchmarkone.com/pricing/",
+  "source_url": "https://www.benchmarkone.com/agencies/pricing",
+  "all_pricing_urls": [
+    "https://www.benchmarkone.com/pricing/",
+    "https://www.benchmarkone.com/agencies/pricing/"
+  ],
+  "price_model_type": [
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are not publicly available and require contacting the company for a quote.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:35:32.649946",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "555ab59b-4eb1-409e-8a5b-12edf64e1d86",
+    "name": "BenchmarkONE",
+    "slug": "benchmarkone",
+    "description": "Keep tabs on your contacts, automatically follow up on them, and track your marketing with smart insights in BenchmarkONE's simple CRM.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/dafe9455d72f2f0897b1548b588714f4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

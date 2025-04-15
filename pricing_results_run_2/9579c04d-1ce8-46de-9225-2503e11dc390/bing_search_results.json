@@ -1,0 +1,176 @@
+{
+  "app_name": "Docusign",
+  "app_slug": "docusign",
+  "search_term": "Find the official pricing page URL for Docusign (docusign.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744704812.935293,
+  "response_text": [
+    "The official pricing page for Docusign is available at: [https://docusign.com/pricing](https://docusign.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Docusign Pricing | eSignature Plans for Personal & Business",
+      "url": "https://ecom.docusign.com/plans-and-pricing/esignature"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://ecom.docusign.com/plans-and-pricing/esignature",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://docusign.com/pricing",
+      "is_accessible": true,
+      "content": "Agreements made effortless\n--------------------------\n\nSave up to 40% on annual plan\n\nSave up to 40% on annual plan\n\n### IAM Starter\n\nFor individuals who need to manage agreements with AI.\n\n$\n\n40\n\n/month per user\n\nBilled annually\n\n[Buy Now](https://ecom.docusign.com/en-US/checkout?PLAN_BILLING_ID=080b4b49-4a00-47ce-adaa-4edaa6c4bfb7&planGroup=iam)\n\n$480 annually\n\nAdditional tax may apply\n\n*   100\n    \n\n*   1\n    \n*   AI\n    \n*   1-50 users\n    \n\nFeatured\n\n### IAM Standard\n\nFor small teams who need complex workflows and an AI repository.\n\n$\n\n45\n\n/month per user\n\nBilled annually\n\n[Buy Now](https://ecom.docusign.com/en-US/checkout?PLAN_BILLING_ID=b97c326d-1c87-4375-8b56-7b53056d92fd&planGroup=iam)\n\n3-user minimum \u2192 $1,620 annually\n\nAdditional tax may apply\n\n*   Unlimited\n    \n\n*   3\n    \n*   AI\n    \n*   3-50 users\n    \n\n### IAM Professional\n\nFor larger teams scaling workflows with forms, automation, and AI.\n\n$\n\n75\n\n/month per user\n\nBilled annually\n\n[Buy Now](https://ecom.docusign.com/en-US/checkout?PLAN_BILLING_ID=bc4bb212-219b-4f1b-a193-75908d5e8ad3&planGroup=iam)\n\n3-user minimum \u2192 $2,700 annually\n\nAdditional tax may apply\n\n*   Unlimited\n    \n\n*   10\n    \n*   AI\n    \n*   3-50 users\n    \n\n### Enhanced plans\n\nSpeak with an expert to get a plan that meets your exact needs.\n\nAll IAM Professional features, plus:\n\n*   Reflect multiple brand variants through email and web\n*   Control what each signer can see with document visibility\n*   Reduce complexity with signing groups\n\n### Speak with an expert to get a plan that meets your exact needs.\n\n### Select an IAM plan by category\n\nSpeak with an expert to customize an eSignature or IAM plan that meets your exact business needs.\n\n[+1 877-351-8580](tel:+1 877-351-8580 \"+1 877-351-8580\")\n\n[Contact Sales](https://www.docusign.com/contact-sales?freferral=ecom.docusign.com/plans-and-pricing/iam/ \"Contact Sales\")\n\nAll IAM Professional features, plus:\n\n*   Reflect multiple brand variants through email and web\n*   Control what each signer can see with document visibility\n*   Reduce complexity with signing groups\n\nUnlock (much) more agreement value with IAM\n-------------------------------------------\n\nDocusign Intelligent Agreement Management (IAM) is an AI-assisted platform that connects and optimizes every step of your agreement process. With an IAM plan, you can automate workflows without code, manage and analyze documents with AI, and seamlessly connect agreement data across systems.\n\n![Image 1: IAM features](https://images.ctfassets.net/qzrx2id7enw1/56RgJkdXu4OdAdnrc0BkB8/473b5eafcc660ffbb9e88caf555fd97d/3_2.png?fm=avif)\n\nEnhance your plan with these add-ons\n------------------------------------\n\nThese can be added to your subscription once you purchase an IAM plan.\n\n### Reach signers where they are\n\nDeliver real-time agreement notifications to signers by SMS or WhatsApp. \u2028(Unlimited Multi-channel Delivery via web app sends is included in IAM Professional plans.)\n\nStarting at $0.40/delivery in IAM Starter and Standard plans\n\n### Verify recipient identity\n\nEnhance security and reduce risk by requiring recipients to confirm their identity.\n\nStarting at $2.50/ID verification attempt\n\nDocusign IAM plans and pricing FAQ\n----------------------------------\n\nWhat is Intelligent Agreement Management (IAM)?Intelligent Agreement Management (IAM) is a new software category that transforms how organizations create, commit to, and manage their agreements, and the relationships they define. Docusign IAM is a portfolio of applications built for the specific needs of individuals, teams, lines of business, and industries. These applications empower people to accelerate revenue, reduce risk, and unlock value from the agreements that run their organization.\n\nHow do Intelligent Agreement Management (IAM) applications differ from eSignature plans?\n\nIntelligent Agreement Management (IAM) applications include more functionality than eSignature plans, and provide an opportunity for eSignature customers to upgrade and enhance their current set of capabilities. With IAM, you can customize workflows with modular capabilities with Docusign Maestro. IAM enables you to centrally store, manage, and analyze signed agreements with Docusign Navigator, a smart repository powered by Docusign Artificial Intelligence (AI). IAM applications include IAM for Sales and IAM for Customer Experience, structured to meet end-to-end agreement needs for lines of business. The IAM Core application has multiple plans\u2014Standard, Professional, and Enterprise\u2014available for all audiences, structured to solve the end-to-end agreement needs of organizations of all sizes and specialties.\n\nCan I switch from an eSignature plan to an IAM plan?Yes, you can upgrade from your existing eSignature plan to an IAM plan by contacting our sales team. Some restrictions may apply based on your region.\n\nWhat are \u2018Envelopes\u2019 and how do they relate to my service subscription plan?An \u2018Envelope\u2019 is an electronic record containing one or more documents uploaded to the Docusign eSignature service for signature processing, and the unit by which usage allowances with Docusign eSignature plans are measured. An Envelope can have one or many signers. Envelopes have statuses (e.g., sent, delivered, completed, voided) and also contain information about the sender and timestamps that indicate the progress of the delivery procedure. Regardless of how many documents, fields and signers a given envelope contains, it still counts only once towards your eSignature plan\u2019s Envelope allowance once it is sent out for signature.\n\nHow many envelopes can I send each month or year with my IAM plan?\n\nThe number of allowances you can send depends on your method of sending envelopes. Envelopes send through web app\u2028 For IAM Standard or Professional, you can send unlimited envelopes using the Docusign web application or mobile application. IAM Starter envelope limits apply to envelopes sent through the web app and all other sending methods. For annual IAM Starter plans, you can send 100 envelopes per user per year and for monthly IAM Starter plans, you can send 10 envelopes per user per month. Automation Sends Annual IAM Standard or IAM Professional plans include a total of 100 automation sends per user per year across Web Forms, PowerForms, Bulk Send, and envelopes sent with custom and partner API integrations. Monthly IAM Standard or IAM Professional plans include an automation send allowance of up to 10 sends per user per month. Learn more about feature allowances. [Learn more about feature allowances.](https://www.docusign.com/iam/plan-allowances)\n\nAre AI-powered data extractions available in every language?This feature is currently available in English, French, and German. We\u2019re actively working on making it available in more languages. View [Docusign AI-Powered Data Extractions FAQ](https://support.docusign.com/s/document-item?language=en_US&bundleId=pqz1702943441912&topicId=uwk1702945852405.html&_LANG=enus) for more information.\n\nHow do I upgrade, downgrade, or cancel my plan?Will my subscription renew automatically?Yes, your subscription will automatically renew each month for monthly plans, and each year for annual plans.\n\nDoes everyone signing an agreement need to have a Docusign account?No, recipients of your agreements do not need an account to sign with Docusign. Your agreement will be sent by email from dse@docusign.net. Recipients can review the document, adopt a signature, and complete the signing process without having a Docusign account.\n\nHow does Docusign protect my data?Does Docusign offer a money-back guarantee?Yes, for annual subscription plans purchased on Docusign.com (Personal, REALTORS\u00ae, Real Estate, Standard and Business Pro) we offer a refund within 30 days of purchase. For monthly subscription plans, you can cancel your account at any time and you will not be charged for the next month.[\u00a7](https://docusign.com/pricing#footnote-%C2%A7)\n\nDocusign pricing plans are customized for personal and business uses\u2014individuals, professionals, enterprises & more. Try Docusign IAM free.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "docusign",
+        "app_name": "Docusign",
+        "app_slug": "docusign",
+        "pricing_url": "https://www.docusign.com/pricing",
+        "source_url": "https://www.docusign.com/pricing",
+        "all_pricing_urls": [
+          "https://www.docusign.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes options for individual and team plans with AI features and additional usage-based pricing for specific services.",
+        "pricing_tiers": [
+          {
+            "tier_name": "IAM Starter",
+            "tier_description": "For individuals who need to manage agreements with AI.",
+            "monthly_price": 40.0,
+            "annual_price": 480.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "AI-assisted agreement management",
+              "100 envelopes per year"
+            ],
+            "limits": {
+              "users": "1-50",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Envelopes per year",
+                  "value": 100
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "IAM Standard",
+            "tier_description": "For small teams who need complex workflows and an AI repository.",
+            "monthly_price": 45.0,
+            "annual_price": 1620.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "AI repository",
+              "Unlimited envelopes",
+              "Complex workflows"
+            ],
+            "limits": {
+              "users": "3-50",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Automation sends per year",
+                  "value": 100
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "IAM Professional",
+            "tier_description": "For larger teams scaling workflows with forms, automation, and AI.",
+            "monthly_price": 75.0,
+            "annual_price": 2700.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Forms and automation",
+              "AI-enhanced workflows",
+              "Unlimited envelopes"
+            ],
+            "limits": {
+              "users": "3-50",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Automation sends per year",
+                  "value": 100
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "SMS or WhatsApp delivery",
+            "unit": "per delivery",
+            "base_price": 0.4,
+            "tiers": null
+          },
+          {
+            "metric_name": "ID verification",
+            "unit": "per attempt",
+            "base_price": 2.5,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": true
+        },
+        "promotional_offers": [
+          {
+            "offer_name": "Annual Plan Discount",
+            "offer_description": "Save up to 40% on annual plans.",
+            "discount_percentage": 40.0,
+            "offer_url": "https://www.docusign.com/pricing",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": [
+          {
+            "fee_name": "Tax",
+            "fee_amount": null,
+            "fee_description": "Additional tax may apply."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T04:14:05.276247",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\docusign\\20250415_041405"
+}

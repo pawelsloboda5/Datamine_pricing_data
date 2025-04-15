@@ -1,0 +1,43 @@
+{
+  "app_id": "rd_station",
+  "app_name": "RD Station",
+  "app_slug": "rd-station",
+  "pricing_url": null,
+  "source_url": "https://www.rdstation.com/marketing/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page could not be accessed, and no details were available.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:12:29.955501",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "3059ed28-905a-46b1-bc4d-954558e140e4",
+    "name": "RD Station",
+    "slug": "rd-station",
+    "description": "RD Station is a complete digital marketing platform to help you generate more results in traffic generation, leads, sales for your business, and to build a solid digital marketing presence. This app is available only in Portuguese.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/296615bf728093324a3b8b714173cb37.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 1
+  }
+}

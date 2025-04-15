@@ -1,0 +1,147 @@
+{
+  "app_name": "CloudConvert",
+  "app_slug": "cloudconvert",
+  "search_term": "Find the official pricing page URL for CloudConvert (cloudconvert.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744702448.8031554,
+  "response_text": [
+    "The official pricing page for CloudConvert is: [https://cloudconvert.com/pricing](https://cloudconvert.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - CloudConvert",
+      "url": "https://cloudconvert.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://cloudconvert.com/pricing",
+      "is_accessible": true,
+      "content": "### What are conversion credits?\n\nThe longer a conversion takes, the more resources it consumes and the more expensive it is. Our packages and subscriptions do typically consume **one credit per minute of conversion time**.\n\nDepending on the conversion type, every conversion takes **a base amount of conversion credits**. By default, conversions consume **at least one conversion credit** and consume accordingly more credits for every additional minute if the conversion takes longer than one minute. We do offer a few premium conversion types which do consume more resources on our end and therefore do consume two conversion credits as minimum base. Of course, only successful conversions are counted.\n\n| Conversion Type | Base Credits |\n| --- | --- |\n| General | **1** |\n| Office to PDF | **2** |\n| iWork to PDF | **2** |\n| PDF to Office | **4** |\n| Calculator |\n\n### Why do I have to pay for a base amount of credits per conversion?\n\nNinety-five percent of our conversions take only a few seconds and we are already taking this into account. To make costs more predictable, our pricing is based on a mixed calculation of a minimum consumed conversion credits per conversion type and the total conversion time.\n\n### Can I combine packages and subscriptions?\n\nYes! Your credits from your monthly subscription will be consumed first, and then your package credits will be consumed.\n\n### How can I make sure my account never runs out of credits?\n\nAn **auto refill** option for packages is available. When you use this option, your account will be automatically refilled as soon as it runs out of credits. You can activate this option in the [billing settings](https://cloudconvert.com/settings/billing/plan).\n\n### Can I share my package/subscription with multiple accounts?\n\nYes, there is Team billing available. Organizations such as companies or schools can use one central billing account with unlimited team members. Only the billing is shared among the accounts and files/conversions remain private.\n\n### When can I cancel/change my subscription?\n\nYou can cancel your subscription at any time. There is no minimum term. You can also change your subscription to a different plan at any time, but your remaining conversion credits will expire.\n\n### Which payment methods are available?\n\nWe accept all major credit cards including Visa, MasterCard, and American Express.\n\n### Do you offer Enterprise plans?\n\nYes, we do offer custom-tailored Enterprise plans based on your needs:\n\n*   Metered billing\n*   Invoicing\n*   Custom contracts and NDAs\n\n*   Dedicated, reserved capacity\n*   Custom fonts\n*   Priority support\n\nPlease [contact us](https://cloudconvert.com/contact) with details about your usage for a custom Enterprise plan.\n\n>One API to handle them all. The feature-rich and scalable CloudConvert API supports more than 200 formats.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "cloudconvert",
+        "app_name": "CloudConvert",
+        "app_slug": "cloudconvert",
+        "pricing_url": "https://cloudconvert.com/pricing",
+        "source_url": "https://cloudconvert.com/pricing",
+        "all_pricing_urls": [
+          "https://cloudconvert.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is based on conversion credits, which are consumed per minute of conversion time and vary by conversion type.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Subscription",
+            "tier_description": "Monthly subscription with conversion credits.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Monthly conversion credits",
+              "Auto refill option",
+              "Team billing"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Conversion Credits",
+                  "value": "Based on subscription plan"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Package",
+            "tier_description": "One-time purchase of conversion credits.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "One-time conversion credits",
+              "Auto refill option",
+              "Team billing"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Conversion Credits",
+                  "value": "Based on package"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Custom-tailored plans for large-scale needs.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Metered billing",
+              "Invoicing",
+              "Custom contracts and NDAs",
+              "Dedicated reserved capacity",
+              "Custom fonts",
+              "Priority support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Conversion Credits",
+            "unit": "per minute",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": "unlimited",
+                "price": null
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:34:21.102849",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\cloudconvert\\20250415_033421"
+}

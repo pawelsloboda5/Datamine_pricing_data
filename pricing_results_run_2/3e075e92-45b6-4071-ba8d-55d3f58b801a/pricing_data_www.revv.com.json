@@ -1,0 +1,114 @@
+{
+  "app_id": "revv",
+  "app_name": "Revv",
+  "app_slug": "revv",
+  "pricing_url": "https://revv.com/pricing",
+  "source_url": "https://www.revv.com",
+  "all_pricing_urls": [
+    "https://revv.com/pricing",
+    "https://revv.com/features"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Revv offers a free tier with basic features and a Pro tier for $49/month. Enterprise pricing is custom and requires contact.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Access to basic fundraising features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic fundraising features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Full suite of tools and integrations for power fundraisers.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full suite of tools",
+        "Integrations for power fundraisers"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Best suited for large organizations with multiple chapters and agencies.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom solutions for large organizations"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Credit Card Processing Fee",
+      "unit": "per transaction",
+      "base_price": 4.3,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Credit Card Processing Fee",
+      "fee_amount": 4.3,
+      "fee_description": "Fee per transaction including 4% + $0.30"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:28:35.202772",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3e075e92-45b6-4071-ba8d-55d3f58b801a",
+    "name": "Revv",
+    "slug": "revv",
+    "description": "Revv is a donation platform that will help your cause, non-profit, or political campaign raise more money.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/5b7615fcf6b9327517ea30dda48e1d54.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fundraising"
+    ],
+    "category_slugs": [
+      "fundraising"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 6
+  }
+}

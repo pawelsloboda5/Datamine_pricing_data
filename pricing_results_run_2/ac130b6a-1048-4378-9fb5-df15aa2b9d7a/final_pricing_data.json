@@ -1,0 +1,207 @@
+{
+  "app_id": "updown_io",
+  "app_name": "Updown.io",
+  "app_slug": "updown-io",
+  "pricing_url": "https://updown.io/#pricing",
+  "source_url": "https://updown.io/#pricing",
+  "all_pricing_urls": [
+    "https://updown.io/#pricing"
+  ],
+  "price_model_type": [
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on usage with no commitment. Users can purchase credits for checks, and the cost per check decreases with larger credit packs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "200,000 requests",
+      "tier_description": "Pack includes 200,000 requests.",
+      "monthly_price": 5.49,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "No commitment"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 200000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "500,000 requests",
+      "tier_description": "Pack includes 500,000 requests.",
+      "monthly_price": 4.39,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "No commitment"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 500000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "1,500,000 requests",
+      "tier_description": "Pack includes 1,500,000 requests.",
+      "monthly_price": 3.66,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "No commitment"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 1500000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "3,000,000 requests",
+      "tier_description": "Pack includes 3,000,000 requests.",
+      "monthly_price": 2.93,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "No commitment"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 3000000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "10,000,000 requests",
+      "tier_description": "Pack includes 10,000,000 requests.",
+      "monthly_price": 2.2,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "No commitment"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 10000000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "60,000,000 requests",
+      "tier_description": "Pack includes 60,000,000 requests.",
+      "monthly_price": 1.83,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "No commitment"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 60000000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "requests",
+      "unit": "per request",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 200000.0,
+          "price": 5.49
+        },
+        {
+          "min": 200001.0,
+          "max": 500000.0,
+          "price": 4.39
+        },
+        {
+          "min": 500001.0,
+          "max": 1500000.0,
+          "price": 3.66
+        },
+        {
+          "min": 1500001.0,
+          "max": 3000000.0,
+          "price": 2.93
+        },
+        {
+          "min": 3000001.0,
+          "max": 10000000.0,
+          "price": 2.2
+        },
+        {
+          "min": 10000001.0,
+          "max": 60000000.0,
+          "price": 1.83
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "SMS alerts",
+      "fee_amount": 0.1,
+      "fee_description": "Cost per SMS alert message."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T10:01:39.128359",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ac130b6a-1048-4378-9fb5-df15aa2b9d7a",
+    "name": "Updown.io",
+    "slug": "updownio",
+    "description": "updown.io is an online service that checks your website's status by periodically sending an HTTP request. It then notifies you by Slack, Telegram, email or SMS when your website is not responding correctly, your SSL certificate is invalid or about to expire, and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/a71ad4542de7e1528651c601c4e63035.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Server Monitoring"
+    ],
+    "category_slugs": [
+      "server-monitoring"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 8
+  }
+}

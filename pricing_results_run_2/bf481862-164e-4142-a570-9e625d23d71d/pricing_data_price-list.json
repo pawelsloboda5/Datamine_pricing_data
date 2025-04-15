@@ -1,0 +1,47 @@
+{
+  "app_id": "smsapi",
+  "app_name": "SMSAPI",
+  "app_slug": "smsapi",
+  "pricing_url": "https://www.smsapi.com/price-list",
+  "source_url": "https://www.smsapi.com/price-list",
+  "all_pricing_urls": [
+    "https://www.smsapi.com/price-list"
+  ],
+  "price_model_type": [
+    "PriceModelType.CUSTOM"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was inaccessible, and no specific pricing details were retrievable.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:22:25.915314",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bf481862-164e-4142-a570-9e625d23d71d",
+    "name": "SMSAPI",
+    "slug": "smsapi",
+    "description": "SMSAPI allows you to send text messages automatically. Messages can be fully personalized. You can set a custom sender name up to 11 characters long.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/77c757876d7127b91297acd641d582bc.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 4,
+    "trigger_count": 0
+  }
+}

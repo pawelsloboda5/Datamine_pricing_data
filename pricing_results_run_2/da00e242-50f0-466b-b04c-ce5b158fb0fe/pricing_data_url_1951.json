@@ -1,0 +1,220 @@
+{
+  "app_id": "instamojo",
+  "app_name": "Instamojo",
+  "app_slug": "instamojo",
+  "pricing_url": "https://www.instamojo.com/pricing/",
+  "source_url": "https://www.instamojo.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.instamojo.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "INR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "GST is charged in addition to the mentioned prices.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lite",
+      "tier_description": "Get a fully customisable website, perfect for businesses that are just starting out.",
+      "monthly_price": null,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5% + \u20b93 transaction fee",
+        "Shopping Cart",
+        "Unlimited Products",
+        "Cash on Delivery",
+        "Shipping Integrations",
+        "Order Management",
+        "Google Shopping Integration",
+        "Categories and Variants"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Get a professional looking website that impresses your customers.",
+      "monthly_price": null,
+      "annual_price": 6999.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5% + \u20b93 transaction fee",
+        "Custom Domain Linking",
+        "19+ Premium Themes",
+        "No Instamojo branding",
+        "3 Images per product",
+        "3 Banner images"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Lower transaction fees and powerful features for a growing business.",
+      "monthly_price": 2999.0,
+      "annual_price": 14999.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2% + \u20b93 transaction fee",
+        "Abandoned Cart Recovery",
+        "Discount Coupons",
+        "Whatsapp Integration",
+        "10 images per product",
+        "10 Banner Images",
+        "SEO Options",
+        "Advanced Analytics",
+        "Benefits worth \u20b92000"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Do-It-For-Me",
+      "tier_description": "We create your online store for you. All you need to do is relax.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Store set-up by our team",
+        "Dedicated eCommerce advisor",
+        "Dashboard training",
+        "Regular catalog updates",
+        "Personalised feature recommendations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Unlimited landing pages and integrated payments.",
+      "monthly_price": null,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited landing pages",
+        "Integrated Payments at 5%+\u20b93",
+        "Themes and colour customisation",
+        "Unlimited testimonials",
+        "Unlimited FAQs",
+        "Thank you page",
+        "Discount codes",
+        "Up to 3 pricing options",
+        "Profile display",
+        "Collect required information from customers"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced features for professional landing pages.",
+      "monthly_price": 2499.0,
+      "annual_price": 12999.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2% + \u20b9 3 transaction fee",
+        "Custom Domain Linking",
+        "Enquiry Form",
+        "No Instamojo Branding",
+        "Facebook Tracking Pixel",
+        "Google Analytics Integration",
+        "Whatsapp and Calendly Add-ons",
+        "Webhooks",
+        "Custom Code and Widgets",
+        "Advanced Analytics"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Free Domain",
+      "offer_description": "Get domains worth \u20b91,000 for free.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "GST",
+      "fee_amount": null,
+      "fee_description": "GST will be charged in addition to mentioned prices."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:32:53.750460",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "da00e242-50f0-466b-b04c-ce5b158fb0fe",
+    "name": "Instamojo",
+    "slug": "instamojo",
+    "description": "Instamojo is a payments solution that allows businesses to collect payments from their customers with ease.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/f0baccaa48c08bf2b9992d3440ccd869_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

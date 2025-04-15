@@ -1,0 +1,136 @@
+{
+  "app_id": "schoolmaker",
+  "app_name": "SchoolMaker",
+  "app_slug": "schoolmaker",
+  "pricing_url": "https://www.schoolmaker.com/pricing",
+  "source_url": "https://www.schoolmaker.com/pricing",
+  "all_pricing_urls": [
+    "https://www.schoolmaker.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are not fully disclosed on the page. The platform offers a 14-day free trial and no transaction fees.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "For small-scale course creators.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 500 members",
+        "Up to 15 online courses",
+        "Up to 5 team accounts",
+        "Steps & milestones",
+        "Built-in community",
+        "Consultations & lives",
+        "Manage your coachings",
+        "Checkout & referrals",
+        "Testimonial collection",
+        "Zapier & Make integrations",
+        "Premium support"
+      ],
+      "limits": {
+        "users": 500,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For growing course creators.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 2,500 members",
+        "Up to 30 online courses",
+        "Up to 10 team accounts",
+        "Steps & milestones",
+        "Built-in community",
+        "Consultations & lives",
+        "Manage your coachings",
+        "Checkout & referrals",
+        "Testimonial collection",
+        "Zapier & Make integrations",
+        "Premium support"
+      ],
+      "limits": {
+        "users": 2500,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large-scale course creators.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited members",
+        "Unlimited online courses",
+        "Unlimited team accounts",
+        "Steps & milestones",
+        "Built-in community",
+        "Consultations & lives",
+        "Manage your coachings",
+        "Checkout & referrals",
+        "Testimonial collection",
+        "Zapier & Make integrations",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:46:38.004724",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0b141124-b945-47de-be3b-14cce5e32902",
+    "name": "SchoolMaker",
+    "slug": "schoolmaker",
+    "description": "SchoolMaker is an LMS with a focus on accountability and community.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/e79fa3e83964c5a5bbcd2e7b4dd057a3_4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Education"
+    ],
+    "category_slugs": [
+      "education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 1
+  }
+}

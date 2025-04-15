@@ -1,0 +1,195 @@
+{
+  "app_id": "cyberimpact",
+  "app_name": "Cyberimpact",
+  "app_slug": "cyberimpact",
+  "pricing_url": "https://www.cyberimpact.com/en/plans/",
+  "source_url": "https://www.cyberimpact.com/en/plans/",
+  "all_pricing_urls": [
+    "https://www.cyberimpact.com/en/plans/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "CAD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of contacts in the user's account.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free plan with basic features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited mailings",
+        "Unlimited users",
+        "Subscription forms and pop-ups",
+        "Standard delivery speed"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Landing pages",
+            "value": 0
+          },
+          {
+            "name": "Custom fields",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Basic plan for small businesses.",
+      "monthly_price": 22.04,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited mailings",
+        "Unlimited users",
+        "Subscription forms and pop-ups",
+        "Standard delivery speed",
+        "1 landing page"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Landing pages",
+            "value": 1
+          },
+          {
+            "name": "Custom fields",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Plus plan with additional features.",
+      "monthly_price": 38.59,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited mailings",
+        "Unlimited users",
+        "Subscription forms and pop-ups",
+        "Accelerated delivery speed",
+        "3 landing pages"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Landing pages",
+            "value": 3
+          },
+          {
+            "name": "Custom fields",
+            "value": 20
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Pro plan for advanced users.",
+      "monthly_price": 49.61,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited mailings",
+        "Unlimited users",
+        "Subscription forms and pop-ups",
+        "Maximum delivery speed",
+        "Unlimited landing pages"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Landing pages",
+            "value": "unlimited"
+          },
+          {
+            "name": "Custom fields",
+            "value": 40
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Contacts",
+      "unit": "per contact",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 250.0,
+          "price": 0.0
+        },
+        {
+          "min": 251.0,
+          "max": null,
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:25:44.065907",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "70d56218-16e5-4834-9c51-78a7b6a33ed3",
+    "name": "Cyberimpact",
+    "slug": "cyberimpact",
+    "description": "Cyberimpact is a CASL-Compliant email marketing service that makes it easy to create and send beautiful and efficient newsletter campaigns.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/7a4f3d69a0e4c485f109eef870daf18a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 2
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "app_name": "Flodesk",
+  "app_slug": "flodesk",
+  "search_term": "Find the official pricing page URL for Flodesk (flodesk.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744721815.8627985,
+  "response_text": [
+    "The official pricing page for Flodesk can be found at: [https://flodesk.com/pricing](https://flodesk.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Flodesk Pricing Plans | Get Unlimited Email Marketing & Checkouts",
+      "url": "https://flodesk.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://flodesk.com/pricing",
+      "is_accessible": true,
+      "content": "No tiers. No limits.\n--------------------\n\nAdd as many subscribers as you like, at no extra cost.\n\nSave with our annual plans\n\nGrow with forms, landing pages and link in bio\n\nFree\n\nDiscover more\n\nAdd email marketing\n\n$35/mo\n\nBilled annuallySave 1 month\n\nDiscover more\n\nAdd e-commerce\n\n$24/mo\n\nBilled annuallySave 1 month\n\nDiscover more\n\nStop getting penalized  \nfor growing your list\n----------------------------------------------\n\nHow many subscribers?\n\n14,000\n\nFlodesk email marketing\n\n$35/mo\n\nEveryone else\n\n$250/mo\n\nBased on average competitor cost\n\nA suite of tools to scale as you grow\n-------------------------------------\n\nFree foreverEmailEmail & Checkout\n\nUSAGE\n\nSubscribers\n\nUnlimited\n\nUnlimited\n\nUnlimited\n\nAudience segmentation\n\nRobust analytics\n\nData exports (CSV)\n\nIntegrations\n\nCommunity access\n\nCustomer support\n\nBRAND\n\nWorld-class templates\n\nCustom fonts\n\nPersonalized links\n\nCustom domains\n\nLink in bio\n\nFORMS\n\nPopup forms\n\nEmbedded forms\n\nHosted forms\n\nLanding pages\n\nEMAIL MARKETING\n\nUnlimited emails\n\nCustom layouts\n\nPersonalization fields\n\nWorkflow automations\n\nResend to unopens\n\nSend time optimizer\n\nEmail scheduler\n\nAPI access\n\nE-COMMERCE\n\nUnlimited sales pages\n\nPayment processing\n\nCheckout flows\n\nUpsells + bonus offers\n\nDiscount codes\n\nOnline payments\n\nInstant deliveries\n\nFlat rate\n---------\n\nWith Flodesk, you don't have to upgrade your plan and pay more every time your business grows. Enjoy a flat rate and unlimited usage, forever.\n\nNo platform fee\n---------------\n\nMost checkout tools take 10-20% of your revenue in platform fees. With Flodesk, keep your hard earned money\u2014only pay the Stripe processing fee.\n\nUnlimited access\n----------------\n\nDo business on your timeline, not ours. Use all of the Flodesk tools for as long as you need, only pay when you\u2019re ready to publish.\n\nCompare pricing and features for our unlimited, flat-rate plans, starting at just $35/month. You'll never be penalized for growing your list.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "flodesk",
+        "app_name": "Flodesk",
+        "app_slug": "flodesk",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Flodesk offers flat-rate pricing with unlimited usage, focusing on email marketing and e-commerce tools.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Free forever tier with basic features.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Email",
+              "Email & Checkout"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Email Marketing",
+            "tier_description": "Flat rate for unlimited email marketing features.",
+            "monthly_price": 35.0,
+            "annual_price": 420.0,
+            "annual_discount_percentage": 8.33,
+            "setup_fee": null,
+            "features": [
+              "Unlimited emails",
+              "Custom layouts",
+              "Personalization fields",
+              "Workflow automations",
+              "Resend to unopens",
+              "Send time optimizer",
+              "Email scheduler",
+              "API access"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "E-commerce",
+            "tier_description": "Flat rate for unlimited e-commerce features.",
+            "monthly_price": 24.0,
+            "annual_price": 288.0,
+            "annual_discount_percentage": 8.33,
+            "setup_fee": null,
+            "features": [
+              "Unlimited sales pages",
+              "Payment processing",
+              "Checkout flows",
+              "Upsells + bonus offers",
+              "Discount codes",
+              "Online payments",
+              "Instant deliveries"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Stripe Processing Fee",
+            "fee_amount": null,
+            "fee_description": "Standard Stripe processing fee applies for payment processing."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T08:57:02.232440",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\flodesk\\20250415_085704"
+}

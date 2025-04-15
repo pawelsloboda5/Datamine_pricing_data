@@ -1,0 +1,72 @@
+{
+  "app_name": "Personal AI",
+  "app_slug": "personal-ai",
+  "search_term": "Find the official pricing page URL for Personal AI (personal-ai.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744721735.5186276,
+  "response_text": [
+    "I couldn't locate a direct URL for Personal AI's official pricing page. I recommend visiting their website [here](https://www.personal-ai.com) to explore further or contact them directly."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.personal-ai.com",
+      "is_accessible": true,
+      "content": "We Train It.  \nYou Own It.\n--------------------------\n\nCurated, Trusted, Controlled.\n\nWhether you are an attorney, coach, doctor, therapist, or other licensed professional where accuracy is mission critical, Personal AI is for you.\n\nOwn your AI and data.  \nKeep your reputation secure and your data under your control.\n-------------------------------------------------------------------------------------\n\n![Image 1](https://cdn.prod.website-files.com/6557b3148838ea02d7957414/6557b3158838ea02d7957512_BG%20Gradient.jpg)\n\n![Image 2: Different bubbles showing the names of data sources all connected and feeding into the Personal AI Icon.](https://cdn.prod.website-files.com/6557b3148838ea02d7957414/655bf9e8a733750bf2323ad6_memory-2.png)\n\n![Image 3](https://cdn.prod.website-files.com/6557b3148838ea02d7957414/6557b3158838ea02d7957512_BG%20Gradient.jpg)\n\n![Image 4: A conversation in the Personal AI App:\nPrompt: Write a post for Twitter announcing our new product release written by the founder, Dr. Alexis. \nAI Response: I am thrilled to share news from QuantumMind Innovations, where we are taking another giant leap in the realm of Artificial Intelligence with QuantumSphere AI.\n\ud83d\udd0d Key Features:\nQuantum Learning Dynamics \ud83d\udd04\nEthical AI Governance \ud83c\udf10\nHuman-Augmented Intelligence \ud83e\udd1d\nAI as a force for positive change, connecting people, ideas, and possibilities. Lets redefine possibilities together! #QuantumSphereAI ](https://cdn.prod.website-files.com/6557b3148838ea02d7957414/655cf76056d075d53e607834_memory-3.png)\n\nTrained to respond accurately in your personal voice. You are always in the loop.\n---------------------------------------------------------------------------------\n\nWith more demand on your time than you can manage, always be available 24/7.\n----------------------------------------------------------------------------\n\n![Image 5](https://cdn.prod.website-files.com/6557b3148838ea02d7957414/6557b3158838ea02d7957512_BG%20Gradient.jpg)\n\n![Image 6: The Personal AI iOS app showing a conversation with a person chatting with a business AI about FAQs.](https://cdn.prod.website-files.com/6557b3148838ea02d7957414/6557f35df01b4f734caff09e_Silver.png)\n\nTap into the transformative power of your own AI with Elevate. Imagine a private and personal ChatGPT with your memory trained end-to-end for you, starting at $10k and available for your commercial needs.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "personal_ai",
+        "app_name": "Personal AI",
+        "app_slug": "personal-ai",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.ONE_TIME"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing starts at $10,000 for commercial use, indicating a one-time fee for setup and training.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Elevate",
+            "tier_description": "A private and personal ChatGPT with memory trained end-to-end for commercial needs.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": 10000.0,
+            "features": [
+              "Private and personal AI",
+              "Memory trained end-to-end",
+              "Commercial use"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": {
+          "has_token_based_pricing": null,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": null,
+          "has_fine_tuning_pricing": null,
+          "has_training_pricing": true,
+          "ai_addon_available": null
+        },
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T08:55:44.895332",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\personal-ai\\20250415_085545"
+}

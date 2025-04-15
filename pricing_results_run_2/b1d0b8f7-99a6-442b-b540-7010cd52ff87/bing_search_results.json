@@ -1,0 +1,19 @@
+{
+  "app_name": "Formstack Documents",
+  "app_slug": "formstack-documents",
+  "search_term": "Find the official pricing page URL for Formstack Documents (formstack-documents.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744714962.1925366,
+  "response_text": [
+    "Here is the official pricing page for Formstack Documents: https://www.formstack.com/pricing/documents ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.formstack.com/pricing/documents",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\formstack-documents\\20250415_070257"
+}

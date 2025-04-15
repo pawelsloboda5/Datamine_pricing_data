@@ -1,0 +1,143 @@
+{
+  "app_id": "onepagecrm",
+  "app_name": "OnePageCRM",
+  "app_slug": "onepagecrm",
+  "pricing_url": "https://www.onepagecrm.com/pricing",
+  "source_url": "https://www.onepagecrm.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.onepagecrm.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 21,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer 4 months free. Custom pricing available for teams larger than 20 users.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Professional",
+      "tier_description": "Designed for small teams and individual users.",
+      "monthly_price": 15.0,
+      "annual_price": 150.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited contacts",
+        "Import/export contacts",
+        "Restore deleted contacts (1 day)",
+        "Unlimited tags and statuses",
+        "Unlimited custom fields",
+        "Merge duplicate contacts",
+        "Unlimited filters",
+        "Last activity filter",
+        "Contact prioritization",
+        "Relationship management",
+        "Merge import",
+        "Documents area",
+        "File storage (10GB/user)",
+        "Print contact/download vCard",
+        "Reminder notifications",
+        "Focus mode",
+        "Split-pane view",
+        "Motivational target widget",
+        "Calendar view",
+        "Full (two-way) email sync",
+        "Send personalized emails in bulk (250/day)",
+        "Schedule emails",
+        "Store emails by forwarding",
+        "Custom email templates",
+        "Email variables",
+        "Sales quote management",
+        "Log call results",
+        "Click-to-call integrations",
+        "Track email opens",
+        "Retrieve email history (up to 1,000 contacts per user per month)",
+        "Drag-and-drop pipeline (Kanban view)",
+        "Commissions & margins calculations",
+        "Customizable deal stages & pipelines",
+        "Forecast view",
+        "Multiple pipelines (up to 3)",
+        "Deal velocity",
+        "Import/export deals",
+        "Restore deleted deals (1 day)",
+        "Deal loss reasons",
+        "Custom reports",
+        "Team activity logs",
+        "Mentions and comments",
+        "Assign contacts, tasks, and deals",
+        "Account switcher",
+        "User groups"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10GB/user",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Designed for larger teams and businesses.",
+      "monthly_price": 25.0,
+      "annual_price": 250.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "All features of Professional tier",
+        "Restore deleted contacts (30 days)",
+        "File storage (20GB/user)",
+        "Send personalized emails in bulk (450/day)",
+        "Multiple pipelines (up to 10)",
+        "Restore deleted deals (30 days)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "20GB/user",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Get 4 months free when subscribing to an annual plan.",
+      "discount_percentage": 33.33,
+      "offer_url": "https://www.onepagecrm.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:10:22.624612",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ae31cb0a-8c7a-4b1b-bcef-b7a17c2c0718",
+    "name": "OnePageCRM",
+    "slug": "onepage-crm",
+    "description": "OnePageCRM converts the complexity of CRM into a simple to-do list. Built using GTD (Getting Things Done) productivity principles, its streamlined approach to sales helps you convert leads to customers, reach targets and grow your business fast. By focusing on that one Next Action, your sales team are organized and empowered to move a deal forward. OnePageCRM strives to offer a product that is as easy to use as email and helps your company achieve zero admin.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/8694f3202a36cbe151a43c0c253a9641.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 13,
+    "trigger_count": 8
+  }
+}

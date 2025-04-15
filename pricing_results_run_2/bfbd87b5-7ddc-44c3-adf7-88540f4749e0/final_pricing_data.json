@@ -1,0 +1,47 @@
+{
+  "app_id": "keygen",
+  "app_name": "Keygen",
+  "app_slug": "keygen",
+  "pricing_url": "https://keygen.sh/pricing/",
+  "source_url": "https://keygen.sh/pricing\u30103:0\u2020source\u3011.",
+  "all_pricing_urls": [
+    "https://keygen.sh/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page was not accessible, and no specific pricing details were found in the provided content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:50:28.526309",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bfbd87b5-7ddc-44c3-adf7-88540f4749e0",
+    "name": "Keygen",
+    "slug": "keygen",
+    "description": "Keygen is a key generation service that makes it easy for businesses to license and distribute their software.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/bbafa60fe9cd99cb50680b618ec09431.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Developer Tools"
+    ],
+    "category_slugs": [
+      "developer-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 21,
+    "trigger_count": 12
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "app_id": "codereadr",
+  "app_name": "CodeREADr",
+  "app_slug": "codereadr",
+  "pricing_url": "https://www.codereadr.com/pricing/",
+  "source_url": "https://www.codereadr.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.codereadr.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a discount of 20-25%.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Business Starter",
+      "tier_description": "For small businesses looking to improve efficiency and data management",
+      "monthly_price": 28.99,
+      "annual_price": 347.88,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "2 devices included",
+        "2 admin users",
+        "Unlimited scans"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Devices",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "5 Device Plan",
+      "tier_description": "For businesses looking to improve efficiency and data management",
+      "monthly_price": 57.9,
+      "annual_price": 694.8,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "5 devices included",
+        "2 admin users",
+        "Unlimited scans"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Devices",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "10 Device Plan",
+      "tier_description": "For businesses looking to improve efficiency and data management",
+      "monthly_price": 107.9,
+      "annual_price": 1294.8,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "10 devices included",
+        "Unlimited admin users",
+        "Unlimited scans"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Devices",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "25 Device Plan",
+      "tier_description": "For larger companies and large scale scanning",
+      "monthly_price": 249.9,
+      "annual_price": 2998.8,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "25 devices included",
+        "Unlimited admin users",
+        "Unlimited scans"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Devices",
+            "value": 25
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:58:53.533707",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3f888b0f-1665-4c7a-9091-e83581682719",
+    "name": "CodeREADr",
+    "slug": "codereadr",
+    "description": "Codereadr is a barcode scanner app for iOS and Android OS devices to control event access, track attendance and track asset/inventory.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/182bcd2555e269e1305cfd4751c82c2b_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

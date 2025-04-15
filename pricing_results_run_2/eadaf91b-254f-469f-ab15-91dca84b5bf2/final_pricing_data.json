@@ -1,0 +1,189 @@
+{
+  "app_id": "shopify",
+  "app_name": "Shopify",
+  "app_slug": "shopify",
+  "pricing_url": "https://www.shopify.com/pricing",
+  "source_url": "https://www.shopify.com/pricing",
+  "all_pricing_urls": [
+    "https://www.shopify.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 3,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Yearly discounts are available for select plans, offering up to 25% savings.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": null,
+      "monthly_price": 39.0,
+      "annual_price": 348.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Full-featured online store",
+        "Standard checkout capacity",
+        "10 inventory locations",
+        "Live chat support",
+        "Standard API rate limits"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "standard",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Inventory locations",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Grow",
+      "tier_description": null,
+      "monthly_price": 105.0,
+      "annual_price": 948.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Full-featured online store",
+        "Standard checkout capacity",
+        "10 inventory locations",
+        "Enhanced live chat support",
+        "Standard API rate limits"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "standard",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Inventory locations",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": null,
+      "monthly_price": 399.0,
+      "annual_price": 3588.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Full-featured online store",
+        "10x checkout capacity",
+        "10 inventory locations",
+        "Priority support by phone or live chat",
+        "Up to 2x API rate limits"
+      ],
+      "limits": {
+        "users": 15,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "up to 2x",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Inventory locations",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Enterprise-level plan with custom pricing.",
+      "monthly_price": 2300.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full-featured online store",
+        "40x checkout capacity",
+        "200 inventory locations",
+        "Priority support by phone or live chat",
+        "Up to 10x API rate limits"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "up to 10x",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Inventory locations",
+            "value": 200
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Shopify-synced orders",
+      "unit": "per order",
+      "base_price": 1.0,
+      "tiers": [
+        {
+          "min": 51.0,
+          "max": "unlimited",
+          "price": 1.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "$1/month for first 3 months",
+      "offer_description": "Start for free, then enjoy $1/month for 3 months.",
+      "discount_percentage": null,
+      "offer_url": "https://www.shopify.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Shopify POS Pro",
+      "fee_amount": 89.0,
+      "fee_description": "Per location fee for advanced POS features."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:36:23.385714",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "eadaf91b-254f-469f-ab15-91dca84b5bf2",
+    "name": "Shopify",
+    "slug": "shopify",
+    "description": "Shopify is a simple way to create an online store to list products, collect credit card payments, and ship your goods.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/4da9d3e3f93cd522f85e1b0695341f89.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 34,
+    "trigger_count": 18
+  }
+}

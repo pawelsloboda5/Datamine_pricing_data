@@ -1,0 +1,211 @@
+{
+  "app_id": "teachable",
+  "app_name": "Teachable",
+  "app_slug": "teachable",
+  "pricing_url": null,
+  "source_url": "https://teachable.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers discounted rates compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "The foundational tools and support you need to build your business.",
+      "monthly_price": 59.0,
+      "annual_price": 39.0,
+      "annual_discount_percentage": 33.9,
+      "setup_fee": null,
+      "features": [
+        "5% transaction fee",
+        "Unlimited product creation",
+        "5 published products of each type",
+        "Create with AI",
+        "iOS student mobile app",
+        "Sales tax, VAT, and GST handling",
+        "Upsells, coupons, and abandoned cart"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Published products",
+            "value": 5
+          },
+          {
+            "name": "Membership tiers",
+            "value": 1
+          },
+          {
+            "name": "Membership tier members",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced tools and more support to help you scale.",
+      "monthly_price": 159.0,
+      "annual_price": 119.0,
+      "annual_discount_percentage": 25.2,
+      "setup_fee": null,
+      "features": [
+        "0% transaction fee",
+        "Unlimited product creation",
+        "50 published products of each type",
+        "Create with AI",
+        "iOS student mobile app",
+        "Sales tax, VAT, and GST handling",
+        "Upsells, coupons, and abandoned cart",
+        "Affiliate program",
+        "Course certification",
+        "White label website",
+        "Live chat support"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Published products",
+            "value": 50
+          },
+          {
+            "name": "Membership tiers",
+            "value": "unlimited"
+          },
+          {
+            "name": "Membership tier members",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro+",
+      "tier_description": "More products and custom user roles for fast-growing businesses.",
+      "monthly_price": 249.0,
+      "annual_price": 199.0,
+      "annual_discount_percentage": 20.1,
+      "setup_fee": null,
+      "features": [
+        "0% transaction fee",
+        "Unlimited product creation",
+        "200 published products of each type",
+        "Create with AI",
+        "iOS student mobile app",
+        "Sales tax, VAT, and GST handling",
+        "Upsells, coupons, and abandoned cart",
+        "Affiliate program",
+        "Course certification",
+        "White label website",
+        "Live chat support",
+        "Custom admin permissions"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Published products",
+            "value": 200
+          },
+          {
+            "name": "Membership tiers",
+            "value": "unlimited"
+          },
+          {
+            "name": "Membership tier members",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "A custom plan that fits your business needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom pricing",
+        "Migration assistance",
+        "White glove onboarding",
+        "Premium enterprise support"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "custom",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Published products",
+            "value": "custom"
+          },
+          {
+            "name": "Membership tiers",
+            "value": "custom"
+          },
+          {
+            "name": "Membership tier members",
+            "value": "custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Additional admin level users",
+      "fee_amount": 20.0,
+      "fee_description": "$20 per month per user for additional admin level users"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:17:59.044286",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b3ef7c93-b8be-4848-87fd-d5652a5a9ae1",
+    "name": "Teachable",
+    "slug": "teachable",
+    "description": "Teachable allows you to create and sell online courses without any technical knowledge from your own website.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/124120738ab08e69982bfe413eaadb15.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 19
+  }
+}

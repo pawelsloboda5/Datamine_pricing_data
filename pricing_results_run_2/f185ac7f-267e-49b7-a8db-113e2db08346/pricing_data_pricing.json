@@ -1,0 +1,220 @@
+{
+  "app_id": "ontraport",
+  "app_name": "Ontraport",
+  "app_slug": "ontraport",
+  "pricing_url": "https://ontraport.com/pricing",
+  "source_url": "https://ontraport.com/pricing",
+  "all_pricing_urls": [
+    "https://ontraport.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes multiple tiers with varying features and user limits. Additional fees apply for certain services.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Email and SMS marketing, forms and pages",
+      "monthly_price": 70.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited email sending",
+        "Drag-and-drop marketing automation",
+        "2-way SMS marketing",
+        "File hosting/download links",
+        "Customizable CRM",
+        "Mobile app",
+        "Web forms",
+        "Web page builder",
+        "Detailed visitor tracking",
+        "Unlimited subdomains",
+        "Up to 3 users at $9/month",
+        "Customizable online database",
+        "Unified contact history",
+        "Automation logs",
+        "Default user roles and permissions",
+        "Chat and email support"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "10GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "File hosting",
+            "value": "200mb per/10gb max"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Add payments, memberships, CRM",
+      "monthly_price": 70.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Basic",
+        "Video hosting",
+        "Automation webhooks",
+        "Tracked trigger links",
+        "Fulfillment lists",
+        "Remove Ontraport branding",
+        "Advanced CRM with Deals and Companies",
+        "Card view for pipeline tracking",
+        "Task automation",
+        "Lead routing",
+        "Calendar and Google calendar sync",
+        "Default roles and permissions",
+        "Self-scheduling",
+        "Membership sites",
+        "Web page personalization",
+        "Custom HTML on pages",
+        "Conditional page content",
+        "Accept payments online",
+        "Online order forms",
+        "Manage subscriptions and payment plans",
+        "Offer free or paid trials",
+        "Up to 10 users at $19/month",
+        "API access"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "20GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "File hosting",
+            "value": "500mb per/20gb max"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Add deep customization, tracking, affiliates",
+      "monthly_price": 70.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Plus",
+        "Split automations",
+        "Facebook Custom Audience integration",
+        "Deep funnel conversion tracking",
+        "Transactional email",
+        "1-on-1 email deliverability consulting",
+        "Custom roles and permissions",
+        "Lead scoring",
+        "Affiliate partner programs",
+        "Lead source and conversion reporting",
+        "Automatic UTM capture",
+        "Google ID tracking",
+        "Facebook ID tracking",
+        "Split test pages",
+        "Multi-currency support",
+        "Coupon codes",
+        "Order bumps",
+        "Unlimited users at $49/month",
+        "Custom user roles and permissions",
+        "Increased video hosting",
+        "Launch support available"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "50GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "File hosting",
+            "value": "1g per/50gb max"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Add Enterprise-grade security and scalability",
+      "monthly_price": 70.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Pro",
+        "Custom contact and email limits",
+        "Private IPs available",
+        "Private infrastructure available",
+        "Field-level permissions",
+        "Customize navigation by role",
+        "Unlimited custom fields available",
+        "HIPAA available (coming soon)",
+        "Enterprise-grade security and scalability",
+        "Field-level permissions",
+        "Customize navigation by role",
+        "Increased API limits available",
+        "Quarterly account reviews",
+        "Uptime SLA"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "File hosting",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Done-with-you Setup and Training Package",
+      "fee_amount": 500.0,
+      "fee_description": "Personalized setup package with live support."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:25:03.674978",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f185ac7f-267e-49b7-a8db-113e2db08346",
+    "name": "Ontraport",
+    "slug": "ontraport",
+    "description": "An all-in-one business and marketing platform designed for information marketers, experts, and coaches.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/71fca392ac1180272ad6298f7dc08dbf.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 5
+  }
+}

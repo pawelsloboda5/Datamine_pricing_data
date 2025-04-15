@@ -1,0 +1,24 @@
+{
+  "app_name": "TaxDome",
+  "app_slug": "taxdome",
+  "search_term": "Find the official pricing page URL for TaxDome (taxdome.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744692900.8473804,
+  "response_text": [
+    "The official URL to TaxDome's pricing page is: [https://taxdome.com/pricing](https://taxdome.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - TaxDome",
+      "url": "https://taxdome.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://taxdome.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\taxdome\\20250415_005501"
+}

@@ -1,0 +1,145 @@
+{
+  "app_id": "frame_io",
+  "app_name": "Frame.io",
+  "app_slug": "frame-io",
+  "pricing_url": "https://frame.io/pricing",
+  "source_url": "https://frame.io/pricing",
+  "all_pricing_urls": [
+    "https://frame.io/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on per-member monthly fees with additional features and storage scaling with higher tiers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For basic use",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 2 members",
+        "2GB storage",
+        "Up to 2 projects",
+        "Camera to Cloud"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "2GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For professionals",
+      "monthly_price": 15.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 5 members",
+        "2 TB included + 2TB per member",
+        "Unlimited projects",
+        "Custom-branded shares",
+        "Passphrase-protected shares",
+        "Share link expiration",
+        "Share permissions",
+        "Comment attachments"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "2TB + 2TB per member",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Most popular",
+      "monthly_price": 25.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 15 members",
+        "3TB included + 2TB per member",
+        "Restricted projects",
+        "Internal comments"
+      ],
+      "limits": {
+        "users": 15,
+        "storage": "3TB + 2TB per member",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For multiple teams",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom members and storage",
+        "Single sign-on",
+        "Multiple team workspaces",
+        "Session-based watermarking",
+        "Secure Sharing",
+        "Priority in-app support",
+        "Storage Connect"
+      ],
+      "limits": {
+        "users": "Custom",
+        "storage": "Custom",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:03:45.955763",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7328d419-db9d-456a-9d00-2169e10d9dee",
+    "name": "Frame.io",
+    "slug": "frameio",
+    "description": "Frame.io is a video review and collaboration platform. Share video projects with your team and clients for fast feedback and approval.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/a01a8866b7960d0e2d2cf605b8b0db95.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Collaboration"
+    ],
+    "category_slugs": [
+      "team-collaboration"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 6
+  }
+}

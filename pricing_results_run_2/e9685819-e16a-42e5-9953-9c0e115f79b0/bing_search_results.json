@@ -1,0 +1,81 @@
+{
+  "app_name": "MapMyFitness",
+  "app_slug": "mapmyfitness",
+  "search_term": "Find the official pricing page URL for MapMyFitness (mapmyfitness.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744703773.9534335,
+  "response_text": [
+    "I couldn't locate an official pricing page URL for MapMyFitness. You may want to explore their [main website](https://www.mapmyfitness.com) or [support pages](https://support.mapmyfitness.com) for details. Let me know if you'd like further help!"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.mapmyfitness.com",
+      "is_accessible": true,
+      "content": "![Image 1: Reach Your Best](https://mapmy-static.mapmyfitness.com/2b92b1f2a35141e9ff2f813211466e87.webp)\n\nReach Your Best\n\nWhether you\u2019re training for a marathon or your biggest season yet, we\u2019re here to help you make serious progress.\n\nSet Goals.\n\nLog Workouts.\n\nStay On Track.\n\nEasily track your Workouts, set Training Plans, and discover new Workout Routines to crush your goals.\n\n![Image 2: Set goals, Log Workouts, Stay on Track](https://mapmy-static.mapmyfitness.com/04117f75e461640c913d37545efaa058.webp)\n\nWeini Kelati\n\nPro Middle-Distance Runner\n\n![Image 3](https://challenge-assets.mapmyfitness.com/bp4f82m.png)\n\nYou VS The Year 2025\n\nLog 1,025 km in 2025\n\nPush Your Limits\n\nHit milestones and PR\u2019s by taking on a new challenge every month.\n\nBuilt To Make You Better\n\nSmarter Training\n\nTurn your phone or smartwatch into your coach\u2014track your workouts and get tons of data and tips to help you run better.\n\nCustom Workouts\n\n5K? Marathon? No matter where you\u2019re at, get personalized Training Plans built just for you and your goals.\n\nStrong Community\n\nCreate your own custom challenges to push yourself and your friends. For extra motivation, reach out and find support from the entire MapMyFitness\u2122 community.\n\n![Image 4: Built to make your better](https://mapmy-static.mapmyfitness.com/39956695920c312daad8e1ae9bf464b4.webp)\n\nMiles Logged\n\n9.42\n\nBillion\n\nRoutes Created\n\n1.85\n\nBillion\n\nWorkouts Logged\n\n2.44\n\nBillion\n\nFitness training made easy with MapMyFitness.com",
+      "error": null,
+      "pricing_data": {
+        "app_id": "mapmyfitness",
+        "app_name": "MapMyFitness",
+        "app_slug": "mapmyfitness",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "No specific pricing information was provided in the content.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:56:23.788759",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://support.mapmyfitness.com",
+      "is_accessible": true,
+      "content": "MapMyFitness\n===============\n\n[Skip to main content](https://support.mapmyfitness.com/#main-content)\n\n[![Image 1: MapMyFitness Help Center home page](https://support.mapmyfitness.com/hc/theming_assets/01J6JDD47PRWZVEX8ZSHYNVW9V)](https://support.mapmyfitness.com/hc/en-us \"Home\")\n\nSubmit a Request\n\n[Sign in](https://support.mapmyfitness.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.mapmyfitness.com%2Fhc%2Fen-us \"Opens a dialog\")\n\nMapMyFitness\n============\n\nSearch\n------\n\nCategories\n----------\n\n*   [Announcements](https://support.mapmyfitness.com/hc/en-us/categories/1500001160622-Announcements)\n*   [MVP Membership](https://support.mapmyfitness.com/hc/en-us/categories/1500001160642-MVP-Membership)\n*   [Account Questions](https://support.mapmyfitness.com/hc/en-us/categories/1500001166121-Account-Questions)\n*   [Mobile App Questions](https://support.mapmyfitness.com/hc/en-us/categories/1500001160662-Mobile-App-Questions)\n*   [Workouts & Routes](https://support.mapmyfitness.com/hc/en-us/categories/1500001160682-Workouts-Routes)\n*   [UA Connected Footwear](https://support.mapmyfitness.com/hc/en-us/categories/1500001166141-UA-Connected-Footwear)\n*   [Third Party Apps and Devices](https://support.mapmyfitness.com/hc/en-us/categories/1500001166161-Third-Party-Apps-and-Devices)\n*   [Community](https://support.mapmyfitness.com/hc/en-us/categories/1500001160702-Community)\n*   [Known Issues](https://support.mapmyfitness.com/hc/en-us/categories/1500001166181-Known-Issues)\n\nPromoted articles\n-----------------\n\n*   [MapMyFitness is now part of Outside](https://support.mapmyfitness.com/hc/en-us/articles/32913938507027-MapMyFitness-is-now-part-of-Outside)\n*   [How to View Stats](https://support.mapmyfitness.com/hc/en-us/articles/34988620942739-How-to-View-Stats)\n*   [Getting Started with MapMy Apps (Android)](https://support.mapmyfitness.com/hc/en-us/articles/1500009117622-Getting-Started-with-MapMy-Apps-Android)\n*   [Getting Started with MapMy Apps (iOS)](https://support.mapmyfitness.com/hc/en-us/articles/1500009118602-Getting-Started-with-MapMy-Apps-iOS)\n*   [Features Included in MVP](https://support.mapmyfitness.com/hc/en-us/articles/1500009133121-Features-Included-in-MVP)\n*   [Android GPS Troubleshooting](https://support.mapmyfitness.com/hc/en-us/articles/1500009133141-Android-GPS-Troubleshooting)\n*   [iPhone GPS Troubleshooting](https://support.mapmyfitness.com/hc/en-us/articles/1500009133241-iPhone-GPS-Troubleshooting)\n*   [Android - Tips for Keeping MapMy Running in the Background](https://support.mapmyfitness.com/hc/en-us/articles/1500009118002-Android-Tips-for-Keeping-MapMy-Running-in-the-Background)\n*   [Submitting A Ticket With Debug Logs](https://support.mapmyfitness.com/hc/en-us/articles/1500009133721-Submitting-A-Ticket-With-Debug-Logs)\n*   [Top Performances](https://support.mapmyfitness.com/hc/en-us/articles/1500009116962-Top-Performances)\n*   [Cut Workout](https://support.mapmyfitness.com/hc/en-us/articles/1500009116882-Cut-Workout)\n*   [How do I connect a Bluetooth sensor?](https://support.mapmyfitness.com/hc/en-us/articles/1500009133201-How-do-I-connect-a-Bluetooth-sensor)\n*   [Weekly Workout Summaries paused for now](https://support.mapmyfitness.com/hc/en-us/articles/38346345338259-Weekly-Workout-Summaries-paused-for-now)\n\nRecent activity\n---------------\n\n### [MapMyFitness & Partner Status Updates](https://support.mapmyfitness.com/hc/en-us/sections/1500001682102-MapMyFitness-Partner-Status-Updates)\n\n[Weekly Workout Summaries paused for now](https://support.mapmyfitness.com/hc/en-us/articles/38346345338259-Weekly-Workout-Summaries-paused-for-now)\n\nArticle created 2 months ago\n\nNumber of comments: 0\n\n### [Website](https://support.mapmyfitness.com/hc/en-us/sections/1500001682062-Website)\n\n[How to View Stats](https://support.mapmyfitness.com/hc/en-us/articles/34988620942739-How-to-View-Stats)\n\nArticle created 5 months ago\n\nNumber of comments: 0\n\n### [General](https://support.mapmyfitness.com/hc/en-us/sections/1500001682262-General)\n\n[MapMyFitness Pricing Increase - FAQ](https://support.mapmyfitness.com/hc/en-us/articles/34283017189139-MapMyFitness-Pricing-Increase-FAQ)\n\nArticle created 6 months ago\n\nNumber of comments: 0\n\n### [Company News](https://support.mapmyfitness.com/hc/en-us/sections/1500001682082-Company-News)\n\n[MapMyFitness is now part of Outside](https://support.mapmyfitness.com/hc/en-us/articles/32913938507027-MapMyFitness-is-now-part-of-Outside)\n\nArticle created 7 months ago\n\nNumber of comments: 0\n\n### [Profile](https://support.mapmyfitness.com/hc/en-us/sections/1500001681942-Profile)\n\n[Facebook Log-In No Longer Supported: FAQs](https://support.mapmyfitness.com/hc/en-us/articles/10508733006739-Facebook-Log-In-No-Longer-Supported-FAQs)\n\nArticle created 2 years ago\n\nNumber of comments: 0\n\n...\n\n[See more items from recent activity](https://support.mapmyfitness.com/#)\n\n\u00a9 Outside Inc. [Privacy Policy](https://outsideinc.com/privacy-policy/) [Terms of Use](https://www.outsideinc.com/terms-of-use/)\n\nEnglish (US) [Dansk (Danmark)](https://support.mapmyfitness.com/hc/change_language/da-dk?return_to=%2Fhc%2Fda-dk) [Deutsch](https://support.mapmyfitness.com/hc/change_language/de?return_to=%2Fhc%2Fde) [Espa\u00f1ol](https://support.mapmyfitness.com/hc/change_language/es?return_to=%2Fhc%2Fes) [Fran\u00e7ais](https://support.mapmyfitness.com/hc/change_language/fr?return_to=%2Fhc%2Ffr) [Bahasa Indonesia](https://support.mapmyfitness.com/hc/change_language/id?return_to=%2Fhc%2Fid) [Italiano](https://support.mapmyfitness.com/hc/change_language/it?return_to=%2Fhc%2Fit) [\u65e5\u672c\u8a9e](https://support.mapmyfitness.com/hc/change_language/ja?return_to=%2Fhc%2Fja) [\ud55c\uad6d\uc5b4](https://support.mapmyfitness.com/hc/change_language/ko?return_to=%2Fhc%2Fko) [Polski](https://support.mapmyfitness.com/hc/change_language/pl?return_to=%2Fhc%2Fpl) [Portugu\u00eas](https://support.mapmyfitness.com/hc/change_language/pt?return_to=%2Fhc%2Fpt) [Portugu\u00eas do Brasil](https://support.mapmyfitness.com/hc/change_language/pt-br?return_to=%2Fhc%2Fpt-br) [\u0420\u0443\u0441\u0441\u043a\u0438\u0439](https://support.mapmyfitness.com/hc/change_language/ru?return_to=%2Fhc%2Fru) [\u7b80\u4f53\u4e2d\u6587](https://support.mapmyfitness.com/hc/change_language/zh-cn?return_to=%2Fhc%2Fzh-cn) [\u7e41\u9ad4\u4e2d\u6587](https://support.mapmyfitness.com/hc/change_language/zh-tw?return_to=%2Fhc%2Fzh-tw)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "mapmyfitness",
+        "app_name": "MapMyFitness",
+        "app_slug": "mapmyfitness",
+        "pricing_url": null,
+        "source_url": "https://support.mapmyfitness.com/",
+        "all_pricing_urls": [
+          "https://support.mapmyfitness.com/"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "No specific pricing information was found on the provided content.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:56:32.271218",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\mapmyfitness\\20250415_035632"
+}

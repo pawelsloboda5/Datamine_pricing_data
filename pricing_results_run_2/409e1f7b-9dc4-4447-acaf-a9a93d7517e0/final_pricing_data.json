@@ -1,0 +1,152 @@
+{
+  "app_id": "chargebee",
+  "app_name": "Chargebee",
+  "app_slug": "chargebee",
+  "pricing_url": "https://www.chargebee.com/pricing/",
+  "source_url": "https://www.chargebee.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.chargebee.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Chargebee offers a free tier for startups and usage-based pricing for higher tiers. Overage fees apply for billing exceeding specified limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "For startups monetizing early traction.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free for the first USD 250K of cumulative billing",
+        "Advance and Consolidated Invoices",
+        "Engineering Consultation",
+        "Smart Dunning",
+        "Migration Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Cumulative Billing Limit",
+            "value": "USD 250K"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Performance",
+      "tier_description": "For teams seeking repeatably-efficient, multi-segment growth with subscription and metered models.",
+      "monthly_price": 599.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advance and Consolidated Invoices",
+        "Engineering Consultation",
+        "Smart Dunning",
+        "Migration Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Monthly Billing Limit",
+            "value": "USD 100K"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large businesses entering new markets, driving M&A and momentous pre-IPO scale.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Multi-Entity Support",
+        "On-demand Discounting",
+        "Account Hierarchy",
+        "Contract Terms"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Billing",
+      "unit": "USD",
+      "base_price": 0.75,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "USD 100K",
+          "price": 0.0
+        },
+        {
+          "min": 100001.0,
+          "max": "unlimited",
+          "price": 0.75
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Overage Fee",
+      "fee_amount": 0.75,
+      "fee_description": "Charged monthly for billing exceeding specified limits."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:20:42.702612",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "409e1f7b-9dc4-4447-acaf-a9a93d7517e0",
+    "name": "Chargebee",
+    "slug": "chargebee",
+    "description": "Chargebee is a subscription management and recurring billing solution used by businesses to customize subscription billing workflows.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/1653db468d1d4f2ddc2881aae1c0038a_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 13,
+    "trigger_count": 15
+  }
+}

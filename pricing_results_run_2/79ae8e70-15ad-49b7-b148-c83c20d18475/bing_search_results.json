@@ -1,0 +1,12 @@
+{
+  "app_name": "Senta",
+  "app_slug": "senta",
+  "search_term": "Find the official pricing page URL for Senta (senta.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744722522.1703315,
+  "response_text": [
+    "I couldn't find a pricing page specifically listed on Senta's official website. If you'd like, I can try assisting further with a related query or help contact their team for pricing details!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\senta\\20250415_090843"
+}

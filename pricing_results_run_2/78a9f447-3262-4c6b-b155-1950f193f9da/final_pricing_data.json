@@ -1,0 +1,168 @@
+{
+  "app_id": "clockify",
+  "app_name": "Clockify",
+  "app_slug": "clockify",
+  "pricing_url": "https://clockify.me/pricing",
+  "source_url": "https://clockify.me/pricing",
+  "all_pricing_urls": [
+    "https://clockify.me/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Clockify offers a free tier with unlimited tracking and additional paid tiers with enhanced features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic time tracking features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited tracking",
+        "Time tracker",
+        "Timesheet",
+        "Kiosk",
+        "Auto tracker",
+        "Calendar",
+        "Apps",
+        "Pomodoro timer",
+        "Idle detection & reminders",
+        "Tracking integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Includes additional features for small teams.",
+      "monthly_price": 4.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Favorite entries",
+        "Import time",
+        "Split time",
+        "Breaks",
+        "Required fields",
+        "Add time for others"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Advanced features for growing teams.",
+      "monthly_price": 6.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Time off",
+        "Targets & reminders",
+        "Lock timesheets",
+        "Custom fields",
+        "Force timer"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Comprehensive features for large teams.",
+      "monthly_price": 9.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "GPS tracking",
+        "Screenshots",
+        "Historical rates",
+        "Rounding",
+        "Attendance & overtime"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom solutions for enterprises.",
+      "monthly_price": 14.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced reporting",
+        "Custom integrations",
+        "Dedicated support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:19:39.922480",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "78a9f447-3262-4c6b-b155-1950f193f9da",
+    "name": "Clockify",
+    "slug": "clockify",
+    "description": "Clockify is a completely free time tracking software for teams. It's a simple time tracker and timesheet app for tracking work hours on projects.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d4f339dd8a7875796e95df97520f8469.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Time Tracking Software"
+    ],
+    "category_slugs": [
+      "time-tracking"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 19,
+    "trigger_count": 6
+  }
+}

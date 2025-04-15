@@ -1,0 +1,43 @@
+{
+  "app_id": "addevent",
+  "app_name": "AddEvent",
+  "app_slug": "addevent",
+  "pricing_url": null,
+  "source_url": "https://www.addevent.com/plans",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page returned a 404 error, so no pricing details could be extracted.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:53:33.966413",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "fbd45889-c845-4ec4-8eb2-c71148d27d56",
+    "name": "AddEvent",
+    "slug": "addevent",
+    "description": "AddEvent is an add to calendar service on the internet. We handle millions of events every year for businesses around the world.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/180a4dd4f6861e83ac2b20c73f910cef.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "app_name": "SmartEmailing",
+  "app_slug": "smartemailing",
+  "search_term": "Find the official pricing page URL for SmartEmailing (smartemailing.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744712387.2328374,
+  "response_text": [
+    "The official pricing page for SmartEmailing is: https://www.smartemailing.com/cenik ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.smartemailing.com/cenik",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 422"
+    }
+  ],
+  "results_directory": "pricing_results\\smartemailing\\20250415_061953"
+}

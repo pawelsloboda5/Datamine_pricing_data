@@ -1,0 +1,171 @@
+{
+  "app_id": "reamaze",
+  "app_name": "Reamaze",
+  "app_slug": "reamaze",
+  "pricing_url": "https://www.reamaze.com/pricing",
+  "source_url": "https://www.reamaze.com/pricing",
+  "all_pricing_urls": [
+    "https://www.reamaze.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based",
+    "free_tier"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per team member per month, with discounts for annual billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Entry-level plan with essential features.",
+      "monthly_price": 29.0,
+      "annual_price": 26.1,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Email Inboxes",
+        "Live Chat",
+        "Social Media Channels",
+        "Public/Internal FAQ",
+        "Workflow Automation (Macros)",
+        "Response Templates",
+        "Website Integration",
+        "Chatbots",
+        "Cues (Proactive Messages)",
+        "Basic Reporting",
+        "Customer Intents"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Includes all Basic features plus advanced capabilities.",
+      "monthly_price": 49.0,
+      "annual_price": 44.1,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "All Basic features",
+        "Manage Multiple Brands in one Account",
+        "Live View of Site Visitors",
+        "Advanced Reporting",
+        "SMS and Voice Channels",
+        "Custom Hosted Domain",
+        "Customizable Email Appearance",
+        "Status Page"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Comprehensive plan with all Pro features and additional tools.",
+      "monthly_price": 69.0,
+      "annual_price": 62.1,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "All Pro features",
+        "Peek (Live Screensharing)",
+        "Departments (Staff Groups)",
+        "Staff Performance Reporting",
+        "Staff Shifts and Vacation Days",
+        "Customizable Staff Roles",
+        "Customer Satisfaction Ratings",
+        "In-Chat Video Calls",
+        "Optional Classic Chat Mode",
+        "FAQ Article Edit History"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Flat rate plan for startups with limited usage.",
+      "monthly_price": 59.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Basic features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 500,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for high-volume businesses.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Customizable based on business needs"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T10:11:26.701949",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a460fe9c-45de-48f2-be15-16a05d49f581",
+    "name": "Reamaze",
+    "slug": "reamaze",
+    "description": "Reamaze is an all-in-one helpdesk for chat, social media, SMS, and email right from your site or app.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/d6ad5bbab17a2c190a441fab0f6443cc.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 2
+  }
+}

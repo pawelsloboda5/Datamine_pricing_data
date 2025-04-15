@@ -1,0 +1,50 @@
+{
+  "app_id": "zoho_creator",
+  "app_name": "Zoho Creator",
+  "app_slug": "zoho-creator",
+  "pricing_url": "https://www.zoho.com/creator/pricing.html",
+  "source_url": "https://www.zoho.com/creator/pricing.html",
+  "all_pricing_urls": [
+    "https://www.zoho.com/creator/pricing.html"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page includes a free tier and subscription-based plans. Specific details about the tiers and their features were not provided in the content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:01:55.420895",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "fc2d7e4f-75cf-4f20-8ad7-1c5a21de01c2",
+    "name": "Zoho Creator",
+    "slug": "zoho-creator",
+    "description": "Zoho Creator is an online database builder. Its easy drag-n-drop interface lets you create custom applications for every data collection need, define workflow and also configure business rules that are unique to your business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/96eb2c546433d211438cd6b73db23296_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "App Builder",
+      "Zoho"
+    ],
+    "category_slugs": [
+      "app-builder",
+      "zoho"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

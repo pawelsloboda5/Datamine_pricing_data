@@ -1,0 +1,100 @@
+{
+  "app_name": "KingSumo",
+  "app_slug": "kingsumo",
+  "search_term": "Find the official pricing page URL for KingSumo (kingsumo.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744708933.4171462,
+  "response_text": [
+    "The official pricing page URL for KingSumo is [https://kingsumo.com/pricing](https://kingsumo.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "KingSumo Giveaways - Pricing",
+      "url": "https://kingsumo.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://kingsumo.com/pricing",
+      "is_accessible": true,
+      "content": "Choose the plan that's right for you:\n\n*   Unlimited Giveaways:?\n    \n*   Bonus Entries:?\n    \n*   GDPR Compliance:?\n    \n*   Embed on Any Site:?\n    \n*   Auto-Reminder Emails:?\n    \n*   Multiple Prizes/Winners:?\n    \n*   Customer Support:?\n    \n*   Custom Branding:?\n    \n*   Meta Pixel Tracking:?\n    \n*   Conversion Tracking:?\n    \n*   Translation/Localization:?\n    \n*   Custom Rules and Terms:?\n    \n*   Additional Entry Fields:?\n    \n*   Remove Sponsored Entry:?\n    \n*   Integrations:?\n    \n\n\ud83e\udd73 Free\n-------\n\n*   Unlimited Giveaways:\n    \n    ?\n    \n    Yes\n*   Bonus Entries:\n    \n    ?\n    \n    Yes\n*   GDPR Compliance:\n    \n    ?\n    \n    Yes\n*   Embed on Any Site:\n    \n    ?\n    \n    Yes\n*   Auto-Reminder Emails:\n    \n    ?\n    \n    Yes\n*   Multiple Prizes/Winners:\n    \n    ?\n    \n    Yes\n*   Customer Support:\n    \n    ?\n    \n    Yes\n*   Custom Branding:\n    \n    ?\n    \n    No\n*   Meta Pixel Tracking:\n    \n    ?\n    \n    No\n*   Conversion Tracking:\n    \n    ?\n    \n    No\n*   Translation/Localization:\n    \n    ?\n    \n    No\n*   Custom Rules and Terms:\n    \n    ?\n    \n    No\n*   Additional Entry Fields:\n    \n    ?\n    \n    No\n*   Remove Sponsored Entry:\n    \n    ?\n    \n    No\n*   Integrations:\n    \n    ?\n    \n    Basic\n\n**Recommended!**\n\n\ud83d\udc98 Lifetime Plan\n----------------\n\n*   Unlimited Giveaways:\n    \n    ?\n    \n    Yes\n*   Bonus Entries:\n    \n    ?\n    \n    Yes\n*   GDPR Compliance:\n    \n    ?\n    \n    Yes\n*   Embed on Any Site:\n    \n    ?\n    \n    Yes\n*   Auto-Reminder Emails:\n    \n    ?\n    \n    Yes\n*   Multiple Prizes/Winners:\n    \n    ?\n    \n    Yes\n*   Customer Support:\n    \n    ?\n    \n    Yes\n*   Custom Branding:\n    \n    ?\n    \n    Yes\n*   Meta Pixel Tracking:\n    \n    ?\n    \n    Yes\n*   Conversion Tracking:\n    \n    ?\n    \n    Yes\n*   Translation/Localization:\n    \n    ?\n    \n    Yes\n*   Custom Rules and Terms:\n    \n    ?\n    \n    Yes\n*   Additional Entry Fields:\n    \n    ?\n    \n    Yes\n*   Remove Sponsored Entry:\n    \n    ?\n    \n    Yes\n*   Integrations:\n    \n    ?\n    \n    Advanced\n\nGrow your audience through viral giveaways",
+      "error": null,
+      "pricing_data": {
+        "app_id": "kingsumo",
+        "app_name": "KingSumo",
+        "app_slug": "kingsumo",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.ONE_TIME"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "KingSumo offers a free tier and a one-time payment lifetime plan.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Free tier with basic features.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited Giveaways",
+              "Bonus Entries",
+              "GDPR Compliance",
+              "Embed on Any Site",
+              "Auto-Reminder Emails",
+              "Multiple Prizes/Winners",
+              "Customer Support",
+              "Basic Integrations"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Lifetime Plan",
+            "tier_description": "One-time payment plan with advanced features.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited Giveaways",
+              "Bonus Entries",
+              "GDPR Compliance",
+              "Embed on Any Site",
+              "Auto-Reminder Emails",
+              "Multiple Prizes/Winners",
+              "Customer Support",
+              "Custom Branding",
+              "Meta Pixel Tracking",
+              "Conversion Tracking",
+              "Translation/Localization",
+              "Custom Rules and Terms",
+              "Additional Entry Fields",
+              "Remove Sponsored Entry",
+              "Advanced Integrations"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T05:22:21.861113",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\kingsumo\\20250415_052222"
+}

@@ -1,0 +1,12 @@
+{
+  "app_name": "Ponto",
+  "app_slug": "ponto",
+  "search_term": "Find the official pricing page URL for Ponto (ponto.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744710811.0587237,
+  "response_text": [
+    "I couldn't locate the official pricing page for Ponto on their website. If you have alternative information or can confirm the type of service, please let me know to refine the search!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\ponto\\20250415_055331"
+}

@@ -1,0 +1,228 @@
+{
+  "app_id": "printnode",
+  "app_name": "PrintNode",
+  "app_slug": "printnode",
+  "pricing_url": "https://www.printnode.com/en/pricing",
+  "source_url": "https://www.printnode.com/en/pricing",
+  "all_pricing_urls": [
+    "https://www.printnode.com/en/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes monthly and yearly subscription options, with additional charges for exceeding usage limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lite",
+      "tier_description": "Starter pack for individuals and businesses.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "50 prints per month",
+        "1 computer"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": 50,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "computers",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Essential",
+      "tier_description": "For small-scale printing needs.",
+      "monthly_price": 9.0,
+      "annual_price": 90.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "5,000 prints per month",
+        "3 computers"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": 5000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "computers",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "For medium-scale printing needs.",
+      "monthly_price": 29.0,
+      "annual_price": 290.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "25,000 prints per month",
+        "5 computers"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": 25000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "computers",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "For large-scale printing needs.",
+      "monthly_price": 99.0,
+      "annual_price": 990.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "200,000 prints per month",
+        "Unlimited computers"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": 200000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "computers",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard Integrator",
+      "tier_description": "For integrators managing multiple sub-accounts.",
+      "monthly_price": 60.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "100,000 prints per month",
+        "20 sub-accounts",
+        "Unlimited computers"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": 100000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "sub-accounts",
+            "value": 20
+          },
+          {
+            "name": "computers",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "prints",
+      "unit": "per 1000 prints",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 51.0,
+          "max": 5000.0,
+          "price": 1.8
+        },
+        {
+          "min": 5001.0,
+          "max": 25000.0,
+          "price": 1.16
+        },
+        {
+          "min": 25001.0,
+          "max": 200000.0,
+          "price": 0.49
+        }
+      ]
+    },
+    {
+      "metric_name": "sub-accounts",
+      "unit": "per account",
+      "base_price": 3.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Free Trial",
+      "offer_description": "First month free for new accounts.",
+      "discount_percentage": 100.0,
+      "offer_url": "https://www.printnode.com/en/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Excess prints",
+      "fee_amount": null,
+      "fee_description": "Charged per 1000 prints exceeding the plan limit."
+    },
+    {
+      "fee_name": "Additional sub-accounts",
+      "fee_amount": 3.0,
+      "fee_description": "Charged per additional sub-account exceeding the plan limit."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:45:01.768879",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c1890ef1-ddd5-4528-aea0-3ae2310b219c",
+    "name": "PrintNode",
+    "slug": "PrintNode",
+    "description": "PrintNode is a hosted printing service that can help you quickly, easily and securely add remote printing to your application.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/ea68e83c9d3e29fe05969121af52c2ef.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Printing"
+    ],
+    "category_slugs": [
+      "printing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 4
+  }
+}

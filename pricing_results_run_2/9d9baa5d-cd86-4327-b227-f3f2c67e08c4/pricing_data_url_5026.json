@@ -1,0 +1,47 @@
+{
+  "app_id": "sugarcrm",
+  "app_name": "SugarCRM",
+  "app_slug": "sugarcrm",
+  "pricing_url": "https://www.sugarcrm.com/request-pricing/",
+  "source_url": "https://www.sugarcrm.com/request-pricing/",
+  "all_pricing_urls": [
+    "https://www.sugarcrm.com/request-pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are not publicly available and require a request for a quote.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:34:54.224741",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9d9baa5d-cd86-4327-b227-f3f2c67e08c4",
+    "name": "SugarCRM",
+    "slug": "sugarcrm7",
+    "description": "SugarCRM is an online CRM platform that helps you manage your sales, marketing, and customer support better.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c28da82cafc9a0109b54a73d74a2592f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 1
+  }
+}

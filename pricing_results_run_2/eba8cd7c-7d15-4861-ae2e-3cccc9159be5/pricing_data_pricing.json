@@ -1,0 +1,269 @@
+{
+  "app_id": "propertyradar",
+  "app_name": "PropertyRadar",
+  "app_slug": "propertyradar",
+  "pricing_url": "https://www.propertyradar.com/pricing?hsLang=en",
+  "source_url": "https://www.propertyradar.com/pricing",
+  "all_pricing_urls": [
+    "https://www.propertyradar.com/pricing?hsLang=en"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 5,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers discounts up to 20%. Additional purchases and overages are available for all tiers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Solo",
+      "tier_description": "Ideal for individual agents, investors, and entrepreneurs.",
+      "monthly_price": 119.0,
+      "annual_price": 99.0,
+      "annual_discount_percentage": 16.81,
+      "setup_fee": null,
+      "features": [
+        "Phone Marketing Powered by WAVV",
+        "Direct Mail",
+        "Online Ads",
+        "250 Email Marketing sends/month",
+        "250 phone numbers/month",
+        "250 email addresses/month",
+        "1 Integration",
+        "10,000 Monthly imports",
+        "10,000 Monthly exports",
+        "10,000 Monitored properties"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 1,
+        "custom_limits": [
+          {
+            "name": "Email Marketing sends/month",
+            "value": 250
+          },
+          {
+            "name": "Phone numbers/month",
+            "value": 250
+          },
+          {
+            "name": "Email addresses/month",
+            "value": 250
+          },
+          {
+            "name": "Monthly imports",
+            "value": 10000
+          },
+          {
+            "name": "Monthly exports",
+            "value": 10000
+          },
+          {
+            "name": "Monitored properties",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Ideal for teams who want to accelerate growth.",
+      "monthly_price": 249.0,
+      "annual_price": 199.0,
+      "annual_discount_percentage": 20.08,
+      "setup_fee": null,
+      "features": [
+        "Phone Marketing Powered by WAVV",
+        "Direct Mail",
+        "Online Ads",
+        "500 Email Marketing sends/month",
+        "500 phone numbers/month",
+        "500 email addresses/month",
+        "3 Integrations",
+        "25,000 Monthly imports",
+        "25,000 Monthly exports",
+        "25,000 Monitored properties"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 3,
+        "custom_limits": [
+          {
+            "name": "Email Marketing sends/month",
+            "value": 500
+          },
+          {
+            "name": "Phone numbers/month",
+            "value": 500
+          },
+          {
+            "name": "Email addresses/month",
+            "value": 500
+          },
+          {
+            "name": "Monthly imports",
+            "value": 25000
+          },
+          {
+            "name": "Monthly exports",
+            "value": 25000
+          },
+          {
+            "name": "Monitored properties",
+            "value": 25000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Ideal for established businesses looking to scale.",
+      "monthly_price": 599.0,
+      "annual_price": 549.0,
+      "annual_discount_percentage": 8.35,
+      "setup_fee": null,
+      "features": [
+        "Phone Marketing Powered by WAVV",
+        "Direct Mail",
+        "Online Ads",
+        "2,500 Email Marketing sends/month",
+        "2,500 phone numbers/month",
+        "2,500 email addresses/month",
+        "10 Integrations",
+        "50,000 Monthly imports",
+        "50,000 Monthly exports",
+        "50,000 Monitored properties",
+        "API Access",
+        "Dedicated Success Rep"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 10,
+        "custom_limits": [
+          {
+            "name": "Email Marketing sends/month",
+            "value": 2500
+          },
+          {
+            "name": "Phone numbers/month",
+            "value": 2500
+          },
+          {
+            "name": "Email addresses/month",
+            "value": 2500
+          },
+          {
+            "name": "Monthly imports",
+            "value": 50000
+          },
+          {
+            "name": "Monthly exports",
+            "value": 50000
+          },
+          {
+            "name": "Monitored properties",
+            "value": 50000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Phone Numbers",
+      "unit": "per contact",
+      "base_price": 0.08,
+      "tiers": null
+    },
+    {
+      "metric_name": "Email Addresses",
+      "unit": "per contact",
+      "base_price": 0.08,
+      "tiers": null
+    },
+    {
+      "metric_name": "Email Sends",
+      "unit": "per email send",
+      "base_price": 0.02,
+      "tiers": null
+    },
+    {
+      "metric_name": "Online Ads",
+      "unit": "per property",
+      "base_price": 0.1,
+      "tiers": null
+    },
+    {
+      "metric_name": "Exports",
+      "unit": "per record",
+      "base_price": 0.02,
+      "tiers": null
+    },
+    {
+      "metric_name": "Imports",
+      "unit": "per record",
+      "base_price": 0.02,
+      "tiers": null
+    },
+    {
+      "metric_name": "Documents",
+      "unit": "per document",
+      "base_price": 4.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Preview Line Dialer",
+      "fee_amount": 59.0,
+      "fee_description": "1200 Minutes Included"
+    },
+    {
+      "fee_name": "Single Line Dialer",
+      "fee_amount": 99.0,
+      "fee_description": "Unlimited Minutes"
+    },
+    {
+      "fee_name": "Multi Line Dialer",
+      "fee_amount": 149.0,
+      "fee_description": "Unlimited Minutes"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:52:05.466442",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "eba8cd7c-7d15-4861-ae2e-3cccc9159be5",
+    "name": "PropertyRadar",
+    "slug": "propertyradar",
+    "description": "PropertyRadar is the property data and owner information platform for discovering new customers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/6ed750b1042d0565feec47e48e617fd8.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

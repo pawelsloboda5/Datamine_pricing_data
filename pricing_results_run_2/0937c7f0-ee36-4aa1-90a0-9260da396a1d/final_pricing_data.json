@@ -1,0 +1,175 @@
+{
+  "app_id": "taskade",
+  "app_name": "Taskade",
+  "app_slug": "taskade",
+  "pricing_url": "https://www.taskade.com/pricing",
+  "source_url": "https://www.taskade.com/pricing",
+  "all_pricing_urls": [
+    "https://www.taskade.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for getting started.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 Workspace",
+        "Cross-platform Access",
+        "Unlimited Task Lists, Mind Maps, Calendars, Docs, Projects & More",
+        "Real-time Collaboration & Chat",
+        "1 AI Agent",
+        "5 Automation Flows",
+        "150 Tasks Completed / Month"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "AI Agents",
+            "value": 1
+          },
+          {
+            "name": "Automation Flows",
+            "value": 5
+          },
+          {
+            "name": "Tasks Completed",
+            "value": 150
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Unlock premium features and AI automation.",
+      "monthly_price": 10.0,
+      "annual_price": 120.0,
+      "annual_discount_percentage": 50.0,
+      "setup_fee": null,
+      "features": [
+        "Custom AI Agents",
+        "2 Users Included",
+        "10 Workspaces",
+        "Unlimited AI Knowledge & Files",
+        "AI Project Studio & Generator",
+        "Web Scraper, Search & AI Utilities",
+        "Gantt & Table Views, Custom Fields",
+        "Automate Gmail, Slack, Google Workspace & 100+ Apps",
+        "10 AI Agents",
+        "100 Automation Flows",
+        "10,000 Tasks Completed / Month"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "AI Agents",
+            "value": 10
+          },
+          {
+            "name": "Automation Flows",
+            "value": 100
+          },
+          {
+            "name": "Tasks Completed",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Unlimited workflows and team collaboration.",
+      "monthly_price": 50.0,
+      "annual_price": 600.0,
+      "annual_discount_percentage": 50.0,
+      "setup_fee": null,
+      "features": [
+        "Multi-Agent Teamwork",
+        "Unlimited Users",
+        "Unlimited Workspaces",
+        "Unlimited Version History",
+        "Agent Toolbox & Workflows",
+        "Custom Domains & Branding"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "AI Agents",
+            "value": "unlimited"
+          },
+          {
+            "name": "Automation Flows",
+            "value": "unlimited"
+          },
+          {
+            "name": "Tasks Completed",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:28:15.670202",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0937c7f0-ee36-4aa1-90a0-9260da396a1d",
+    "name": "Taskade",
+    "slug": "taskade",
+    "description": "Taskade is a collaboration platform for remote teams to organize and manage projects.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/a68efcdfccb6e2fbb9d5acd6812113e9.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "todo-lists"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

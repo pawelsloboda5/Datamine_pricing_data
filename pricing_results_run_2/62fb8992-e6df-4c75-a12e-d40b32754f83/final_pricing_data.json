@@ -1,0 +1,160 @@
+{
+  "app_id": "wpforms",
+  "app_name": "WPForms",
+  "app_slug": "wpforms",
+  "pricing_url": "https://wpforms.com/pricing/",
+  "source_url": "https://wpforms.com/pricing/",
+  "all_pricing_urls": [
+    "https://wpforms.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual pricing includes promotional discounts.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Elite",
+      "tier_description": "Premier solution for smart business owners",
+      "monthly_price": null,
+      "annual_price": 299.5,
+      "annual_discount_percentage": 50.0,
+      "setup_fee": null,
+      "features": [
+        "Use on Unlimited Sites",
+        "Unlimited Forms",
+        "Unlimited Submissions",
+        "Unlimited Users",
+        "Premium Integrations including Authorize.Net, Salesforce, ActiveCampaign, HubSpot, Webhooks",
+        "Site Management features like Multisite Support, Advanced Access Control, Client Management",
+        "Premium Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Everything you need to build a perfect form",
+      "monthly_price": null,
+      "annual_price": 199.5,
+      "annual_discount_percentage": 50.0,
+      "setup_fee": null,
+      "features": [
+        "Use on 5 Sites",
+        "Unlimited Forms",
+        "Unlimited Submissions",
+        "Unlimited Users",
+        "Accept Payments including Stripe Pro, Square, PayPal, Recurring Subscriptions, No Transaction Fees, Coupons, Calculations",
+        "Advanced Form Features like 2,000+ Form Templates, Surveys & Polls, Save & Resume, Digital Signatures, Geolocation, Google Sheets, Dropbox, 8,000+ Zapier Integrations",
+        "Conversion Tools including Conversational Forms, Form Landing Pages, Lead Forms, Form Abandonment, User Journey Reports",
+        "Advanced Addons like User Registration, Post Submissions, Offline Forms, Form Permissions",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Great for businesses who want to do more",
+      "monthly_price": null,
+      "annual_price": 99.5,
+      "annual_discount_percentage": 50.0,
+      "setup_fee": null,
+      "features": [
+        "Use on 3 Sites",
+        "Unlimited Forms",
+        "Unlimited Submissions",
+        "Unlimited Users",
+        "Marketing Integrations including Mailchimp, MailPoet, AWeber, Constant Contact, GetResponse, Campaign Monitor, ConvertKit, Drip, Brevo, MailerLite",
+        "Form Automation including Smart Workflows, Data Routing, User Segmentation, Newsletter Forms, Slack, Twilio",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Essential tools to build your online form",
+      "monthly_price": null,
+      "annual_price": 49.5,
+      "annual_discount_percentage": 50.0,
+      "setup_fee": null,
+      "features": [
+        "Use on 1 Site",
+        "Unlimited Forms",
+        "Unlimited Submissions",
+        "Unlimited Users",
+        "All Essential Features including Form Templates, Entry Management, Advanced Form Fields, Field Validation, Smart Conditional Logic, File Uploads, Form Notifications, Spam Protection, Privacy Compliance, Email Summaries",
+        "Customizations including Multi-page Forms, Form Layouts, Custom Thank You Pages, Import / Export Tools, Page Builder Support, Entry Previews, WPForms AI",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Discount",
+      "offer_description": "50% off annual pricing for all tiers.",
+      "discount_percentage": 50.0,
+      "offer_url": "https://wpforms.com/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:10:50.742796",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "62fb8992-e6df-4c75-a12e-d40b32754f83",
+    "name": "WPForms",
+    "slug": "wpforms",
+    "description": "WPForms is a drag and drop online form builder for WordPress that allows you to easily create contact forms, email subscription forms, billing forms, donation forms, online order forms, and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/b0904faae8a75c3ca219f9bf92635922.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys",
+      "WordPress"
+    ],
+    "category_slugs": [
+      "forms",
+      "wordpress"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

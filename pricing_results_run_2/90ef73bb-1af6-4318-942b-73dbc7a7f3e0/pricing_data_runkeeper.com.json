@@ -1,0 +1,73 @@
+{
+  "app_id": "runkeeper",
+  "app_name": "Runkeeper",
+  "app_slug": "runkeeper",
+  "pricing_url": null,
+  "source_url": "https://runkeeper.com",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Runkeeper offers a free tier and a subscription-based premium tier called Runkeeper Go\u2122.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for tracking runs and workouts.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Run tracking",
+        "Basic insights"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Runkeeper Go\u2122",
+      "tier_description": "Premium features including training plans and live tracking.",
+      "monthly_price": 9.99,
+      "annual_price": 39.99,
+      "annual_discount_percentage": 66.0,
+      "setup_fee": null,
+      "features": [
+        "Training plans",
+        "Live tracking",
+        "In-depth insights"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:11:16.686368",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "90ef73bb-1af6-4318-942b-73dbc7a7f3e0",
+    "name": "Runkeeper",
+    "slug": "runkeeper",
+    "description": "Runkeeper lets you track your runs and walks from your mobile device and share the activity with your friends, helping you stick to fitness goals with plans and an encouraging community.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/8fc8fdeffc3a515155acaffb2b17c052.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fitness"
+    ],
+    "category_slugs": [
+      "fitness"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

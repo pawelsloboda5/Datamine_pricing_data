@@ -1,0 +1,185 @@
+{
+  "app_id": "bettermode",
+  "app_name": "Bettermode",
+  "app_slug": "bettermode",
+  "pricing_url": "https://bettermode.com/pricing",
+  "source_url": "https://bettermode.com/pricing",
+  "all_pricing_urls": [
+    "https://bettermode.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier, subscription plans, and enterprise options with custom pricing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Ideal for hobbyists and individuals exploring web app creation.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Bettermode.io Domain",
+        "Bettermode Badge"
+      ],
+      "limits": {
+        "users": 100,
+        "storage": "1 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Spaces",
+            "value": 20
+          },
+          {
+            "name": "CMS Collections",
+            "value": 20
+          },
+          {
+            "name": "Translation Locale",
+            "value": 1
+          },
+          {
+            "name": "Monthly Email Credits",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Designed for creators and startups scaling their products.",
+      "monthly_price": 59.0,
+      "annual_price": 49.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Members",
+        "Custom Domain",
+        "Priority support",
+        "Scale with add-ons",
+        "Advanced Analytics",
+        "Integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "25 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Spaces",
+            "value": 20
+          },
+          {
+            "name": "CMS Collections",
+            "value": 20
+          },
+          {
+            "name": "Translation Locale",
+            "value": 1
+          },
+          {
+            "name": "Monthly Email Credits",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Tailored for excellence in scalability, security, and support.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Guaranteed SLA",
+        "Data Residency",
+        "Advanced security & controls",
+        "SOC 2 (Type 2)",
+        "Dedicated account support",
+        "Integrations"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "custom",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Spaces",
+            "value": "custom"
+          },
+          {
+            "name": "CMS Collections",
+            "value": "custom"
+          },
+          {
+            "name": "Translation Locale",
+            "value": "custom"
+          },
+          {
+            "name": "Monthly Email Credits",
+            "value": "custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "API and Webhooks",
+      "fee_amount": 199.0,
+      "fee_description": "Monthly fee for API and Webhooks access"
+    },
+    {
+      "fee_name": "Branded Email Notifications",
+      "fee_amount": 49.0,
+      "fee_description": "Monthly fee for branded email notifications"
+    },
+    {
+      "fee_name": "Auth 2.0 Single Sign-on",
+      "fee_amount": 199.0,
+      "fee_description": "Monthly fee for Auth 2.0 Single Sign-on"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:39:18.826911",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "58a7d7c9-de5e-48dd-a056-a0a19e30e6ec",
+    "name": "Bettermode",
+    "slug": "bettermode",
+    "description": "A powerful community platform, integrated into your product.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/af9496fff9b7e53eb643e2835cb48526.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Social Media Accounts"
+    ],
+    "category_slugs": [
+      "social"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 22,
+    "trigger_count": 15
+  }
+}

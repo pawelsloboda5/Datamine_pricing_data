@@ -1,0 +1,204 @@
+{
+  "app_name": "Miro",
+  "app_slug": "miro",
+  "search_term": "Find the official pricing page URL for Miro (miro.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688648.8476703,
+  "response_text": [
+    "The official pricing page for Miro is: [https://miro.com/pricing/](https://miro.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Miro",
+      "url": "https://miro.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://miro.com/pricing/",
+      "is_accessible": true,
+      "content": "Pricing\n===============\n\n[](https://miro.com/pricing/#)[](https://miro.com/ \"Go to homepage\")\n\n[Product](https://miro.com/pricing/#)\n\n[Solutions](https://miro.com/pricing/#)\n\n[Resources](https://miro.com/pricing/#)\n\n[Pricing](https://miro.com/pricing/)\n\nPricing\n=======\n\n#### Free\n\nDiscover what Miro can do for you and your team. Always free\n\n$0Unlimited members\n\n[Go to dashboard](https://miro.com/app?lng=en)\n\nWhat\u2019s included:\n\n*   Single workspace with **3 editable boards**\n*   Start faster and enhance productivity with **5,000+ Miro and community-made templates**\n*   Seamlessly integrate your workflows with **160+ apps**, including Zoom, Slack, Google Drive, and Sketch\n*   Use **layers** to show, hide, and group objects on the same boardnew\n*   Try **Miro AI** \u2014 10 credits/month per team new\n*   Record and share **5 Talktracks** to give interactive video walkthroughs of boards\n\n### Show key features\n\n[](https://miro.com/pricing/#)\n\nWhat\u2019s included:\n\n*   Single workspace with **3 editable boards**\n*   Start faster and enhance productivity with **5,000+ Miro and community-made templates**\n*   Seamlessly integrate your workflows with **160+ apps**, including Zoom, Slack, Google Drive, and Sketch\n*   Use **layers** to show, hide, and group objects on the same boardnew\n*   Try **Miro AI** \u2014 10 credits/month per team new\n*   Record and share **5 Talktracks** to give interactive video walkthroughs of boards\n\n#### Starter\n\nUnlock unlimited and private boards with essential features\n\n$8/month per member/month per member\n\nBilled annually or **$****10** if billed monthly. Excluding applicable tax.\n\n[Buy Starter](https://miro.com/app/?createTeamPlan&lng=en&currency=usd)\n\nAll Free features, plus:\n\n*   Create and share **unlimited boards** in a single workspace\n*   Share boards publicly with **unlimited Visitors**, no sign-in required\n*   Export boards in **high resolution** to JPG or PDF\n*   Restore previous content with **version history**\n*   Upload brand fonts or colors with **Brand Center** and create **custom templates**\n*   Organize boards into project folders with **Spaces**new\n*   Create, edit, and synthesize board content with **Miro AI** \u2014 25 credits/month per membernew\n*   Run interactive meetings with **Timer**, **Voting**, **Video calls**, **Private mode**, **Estimation**, and more\n*   Restrict board access with **Private boards**\n*   Record and share interactive video walkthroughs of boards with **unlimited Talktracks**\n\n### Show key features\n\n[](https://miro.com/pricing/#)\n\nAll Free features, plus:\n\n*   Create and share **unlimited boards** in a single workspace\n*   Share boards publicly with **unlimited Visitors**, no sign-in required\n*   Export boards in **high resolution** to JPG or PDF\n*   Restore previous content with **version history**\n*   Upload brand fonts or colors with **Brand Center** and create **custom templates**\n*   Organize boards into project folders with **Spaces**new\n*   Create, edit, and synthesize board content with **Miro AI** \u2014 25 credits/month per membernew\n*   Run interactive meetings with **Timer**, **Voting**, **Video calls**, **Private mode**, **Estimation**, and more\n*   Restrict board access with **Private boards**\n*   Record and share interactive video walkthroughs of boards with **unlimited Talktracks**\n\nBest for teams and consultants\n\n#### Business\n\nSafely collaborate with secure guest access, multiple teams and advanced tools\n\n$16/month per member/month per member\n\nBilled annually or **$****20** if billed monthly. Excluding applicable tax.\n\n[Try it free](https://miro.com/app/?createBusinessPlan&lng=en&currency=usd)or [Purchase now](https://miro.com/app/?createBusinessPlanYearly&lng=en&currency=usd)\n\nAll Starter features, plus:\n\n*   Create and share **unlimited boards** in multiple private **workspaces**, customized for each team or client\n*   Invite **unlimited Guests** to securely collaborate with clients or partners, sign-in required\n*   Create, edit, and synthesize board content with **Miro AI** \u2014 50 credits/month per membernew\n*   Visualize processes and systems with **3,600+ diagramming shapes** and icons from UML, AWS, Azure, ERD, and more, or upload **custom shapes**new\n*   Map and prioritize tasks across teams with two-way Jira or Azure sync using **Dependencies** and **Planner**\n*   Secure and simplify access with **Single Sign On (SSO)** through OKTA, OneLogin, Auth0, and more\n\n### Show key features\n\n[](https://miro.com/pricing/#)\n\nAll Starter features, plus:\n\n*   Create and share **unlimited boards** in multiple private **workspaces**, customized for each team or client\n*   Invite **unlimited Guests** to securely collaborate with clients or partners, sign-in required\n*   Create, edit, and synthesize board content with **Miro AI** \u2014 50 credits/month per membernew\n*   Visualize processes and systems with **3,600+ diagramming shapes** and icons from UML, AWS, Azure, ERD, and more, or upload **custom shapes**new\n*   Map and prioritize tasks across teams with two-way Jira or Azure sync using **Dependencies** and **Planner**\n*   Secure and simplify access with **Single Sign On (SSO)** through OKTA, OneLogin, Auth0, and more\n\n#### Enterprise\n\nWork across your entire organization, with support, security and control, to scale\n\nCustom price \u2014 from **30 members**\n\n[Contact us](https://miro.com/contact/sales/?lead_source=Pricing&subject=company_plan)\n\nAll Business features, plus:\n\n*   **Flexible license program** scales Miro licenses with your usage, no extra fees or contract changes\n*   Simplify admin tasks with **SCIM**, **request management**, **billing groups**, and more\n*   **Centralized account management and insights** for adoption and usage\n*   **Organization-wide controls** for Miro and third-party app integrations\n*   **Ensure enterprise-grade security** with SSO, domain control, data classification, 2FA and more\n*   **Add-on Enterprise Guard** for advanced data security and governance features\n*   Choose where to host your data with **Miro\u2019s data center residency program**\n*   Engage with Miro's Customer Success Program\n*   Access **premium 24/7 support, and guaranteed SLAs**\n*   Fast-track innovation with **Miro AI plus organization-wide or team-specific AI controls** \u2014 100 credits/month per membernew\n\n### Show key features\n\n[](https://miro.com/pricing/#)\n\nAll Business features, plus:\n\n*   **Flexible license program** scales Miro licenses with your usage, no extra fees or contract changes\n*   Simplify admin tasks with **SCIM**, **request management**, **billing groups**, and more\n*   **Centralized account management and insights** for adoption and usage\n*   **Organization-wide controls** for Miro and third-party app integrations\n*   **Ensure enterprise-grade security** with SSO, domain control, data classification, 2FA and more\n*   **Add-on Enterprise Guard** for advanced data security and governance features\n*   Choose where to host your data with **Miro\u2019s data center residency program**\n*   Engage with Miro's Customer Success Program\n*   Access **premium 24/7 support, and guaranteed SLAs**\n*   Fast-track innovation with **Miro AI plus organization-wide or team-specific AI controls** \u2014 100 credits/month per membernew\n\nEnterprise Guard\n----------------\n\nFind and secure sensitive data, manage the lifecycle of content, and support legal discovery and preservation needs \u2014 automatically and at scale\n\n[Contact us](https://miro.com/contact/sales/?lead_source=Pricing&subject=company_plan)[Learn more](https://miro.com/enterprise-guard)\n\n![Image 9: Enterprise Guard](https://static-website.miro.com/miro-site-lp-build-assets/assets/pricing/canvas24/enterprise-guard.png)\n\n### Hide full feature matrix\n\n[](https://miro.com/pricing/#)\n\nSelect plan\n\nFree\n\nStarter\n\nBusiness\n\nEnterprise\n\n[Go to dashboard](https://miro.com/app?lng=en)\n\n[Buy Starter](https://miro.com/app/?createTeamPlan&lng=en)\n\n[Try it free](https://miro.com/app/?createBusinessPlan&lng=en)\n\n[Contact us](https://miro.com/contact/sales/?lead_source=Pricing&subject=company_plan)\n\nKey features\n\nTemplates by Miro\n\nCustom templates\n\nSpaces\n\nBlueprints\n\nMiro AI credits (per month)\n\n10 per team\n\n25 per member\n\n50 per member\n\n100 per member\n\nBrand Center\n\nPrivate board sharing\n\nBoard exports\n\nBasic\n\nAdvanced\n\nAdvanced\n\nAdvanced\n\nIntegrations\n\nCore\n\nCore, plus Jira\n\nCore, plus Jira and Azure DevOps\n\nCore, plus Jira, Azure DevOps, and CA Rally\n\nInteractive presentation mode\n\nPrivate mode\n\nVoting\n\nTimer\n\nAdvanced search\n\nLayers\n\nAdvanced collaboration\n\nTalktracks\n\n5\n\nUnlimited\n\nUnlimited\n\nUnlimited\n\nVideo calls\n\nMiro Smart Diagramming\n\nAdvanced facilitator tools\n\nAdvanced board sharing permission\n\nSynced copies\n\nEmbedded content\n\nRoles for collaboration\n\nMembers\n\nGuests\n\nVisitors\n\nFlexible licensing plan\n\nProduct Development workflows\n\nPlanner\n\nDependencies app\n\nEstimation app\n\nAWS Cloud View and Cost Calculator\n\nLive Embed management\n\nAdministration & controls\n\nManual backup of boards\n\nBoard history\n\nCentralized account with  \nunlimited teams\n\nAdmin insights\n\nSCIM user provisioning\n\nAutomated access and  \nlicense requests\n\nBilling groups\n\nAdvanced user management\n\nIntegration/app management\n\nDeveloper platform\n\nREST APIs\n\nWebSDKs\n\nMiro Live Embed\n\nEnterprise APIs\n\nDeveloper team\n\nSecurity and Information Governance\n\nAuthentication via Google,  \nOffice 365, and Slack\n\nSAML single sign-on (SSO)\n\nConfigurable sharing policies\n\nAudit logs and integrations  \nwith SIEM\n\nManual data classification\n\nAutomated data classification\n\nEncryption key management\n\nContent lifecycle management\n\neDiscovery\n\nData Residency\n\nEU Data Residency\n\nUS data residency\n\nAU data residency\n\nSupport & success\n\nHelp Center - knowledge base\n\nEmail support\n\nOnboarding program\n\nCustomer Success program\n\nFlexible payment options\n\nPremium support\n\nTrusted by the world's most innovative companies\n================================================\n\n![Image 10: asos](https://images.ctfassets.net/w6r2i5d8q73s/8y8TUx9LpVRKbqukOcZC2/9a5321a69701fde64514dd201e3bc992/asos.svg)![Image 11: contentful](https://images.ctfassets.net/w6r2i5d8q73s/19qFNu9U2mSevNXUtiPBfN/1ac215d9995bfcba45f7cf461302820a/contentful.svg)![Image 12: ubisoft](https://images.ctfassets.net/w6r2i5d8q73s/3YZJ2vkIzuHgZJO2Dcxh5e/5666399b331fd03327d027121ae5d85a/ubisoft.svg)![Image 13: pepsico](https://images.ctfassets.net/w6r2i5d8q73s/6EFWQKfOYbpTv43Hm84p0t/600efe08eea24d50568e0ec41ce19c07/pepsico.svg)![Image 14: macys](https://images.ctfassets.net/w6r2i5d8q73s/7r3aM4IuiXRmsiIc77h2qK/dd1f9862bcbe74d39635b9465be9945e/macys.svg)![Image 15: whirlpool](https://images.ctfassets.net/w6r2i5d8q73s/pJfdnxHOM7YsJlmNyhuBv/ec04483e170ae6df33fd4d314a5dbb60/whirlpool.svg)![Image 16: hanes](https://images.ctfassets.net/w6r2i5d8q73s/gBX7PH3LqE6V8twqr2OOw/4fa7020f3152a0695c3a53dc050f31cd/hanes.svg)![Image 17: yamaha](https://images.ctfassets.net/w6r2i5d8q73s/BtJIlcUVfpe9jzMmMKYqm/45e20b86be185bc049ad0e5138a51f55/yamaha.svg)![Image 18: docusign](https://images.ctfassets.net/w6r2i5d8q73s/6lBp4DlhJZaNlGqoNdEXsp/4f8e2437c0c54ede8f38e6550382f310/docusign.svg)![Image 19: wp engine](https://images.ctfassets.net/w6r2i5d8q73s/4fxqUuWzZ1g7YMh8EFyf64/5054f2a6c219e0c3f6dca9bb5f4ed91b/wp_engine.svg)![Image 20: accenture](https://images.ctfassets.net/w6r2i5d8q73s/7qqYuOhg1XTnQgadkFNiAI/4ccc945909c01ae4f801ecad10f0bf61/accenture.svg)![Image 21: bumble](https://images.ctfassets.net/w6r2i5d8q73s/BhL17cEmDGUPTio403hVd/f5b4b37f3d18d356bdfcf0e441322e34/bumble.svg)![Image 22: delloite](https://images.ctfassets.net/w6r2i5d8q73s/438pyocvf5kV5oXCP6magW/6d8b17095a730118af06c6056ae53d7e/delloite.svg)![Image 23: hewlett packard](https://images.ctfassets.net/w6r2i5d8q73s/xojI11ujqFxEy9DRNRca5/a5a52681e4faa9aa376c1baba4844a24/Logo_-_kaiser_permanente.svg)![Image 24: total](https://images.ctfassets.net/w6r2i5d8q73s/1nlToYxzQ6hq8RtTZB0e7n/75c6243dcfcbf465bdeee5b13d6a6a92/total.svg)![Image 25: dropbox](https://images.ctfassets.net/w6r2i5d8q73s/3wvKK3Upra0CHNnMkDqNhd/737d1b75c2b2e6cc481c179f78b50687/dropbox.svg)![Image 26: hp](https://images.ctfassets.net/w6r2i5d8q73s/4kqoHmDrBhzv9PupYKwHSG/45fe894454b30bbf88c01c7559beb95d/hp.svg)![Image 27: department](https://images.ctfassets.net/w6r2i5d8q73s/4ataCz2R6qRPJwV0syjbvN/31271bea7cf97ea98a908400e83ada7f/department.svg)\n\n![Image 28: asos](https://images.ctfassets.net/w6r2i5d8q73s/8y8TUx9LpVRKbqukOcZC2/9a5321a69701fde64514dd201e3bc992/asos.svg)![Image 29: contentful](https://images.ctfassets.net/w6r2i5d8q73s/19qFNu9U2mSevNXUtiPBfN/1ac215d9995bfcba45f7cf461302820a/contentful.svg)![Image 30: ubisoft](https://images.ctfassets.net/w6r2i5d8q73s/3YZJ2vkIzuHgZJO2Dcxh5e/5666399b331fd03327d027121ae5d85a/ubisoft.svg)![Image 31: pepsico](https://images.ctfassets.net/w6r2i5d8q73s/6EFWQKfOYbpTv43Hm84p0t/600efe08eea24d50568e0ec41ce19c07/pepsico.svg)![Image 32: macys](https://images.ctfassets.net/w6r2i5d8q73s/7r3aM4IuiXRmsiIc77h2qK/dd1f9862bcbe74d39635b9465be9945e/macys.svg)![Image 33: whirlpool](https://images.ctfassets.net/w6r2i5d8q73s/pJfdnxHOM7YsJlmNyhuBv/ec04483e170ae6df33fd4d314a5dbb60/whirlpool.svg)![Image 34: hanes](https://images.ctfassets.net/w6r2i5d8q73s/gBX7PH3LqE6V8twqr2OOw/4fa7020f3152a0695c3a53dc050f31cd/hanes.svg)![Image 35: yamaha](https://images.ctfassets.net/w6r2i5d8q73s/BtJIlcUVfpe9jzMmMKYqm/45e20b86be185bc049ad0e5138a51f55/yamaha.svg)![Image 36: docusign](https://images.ctfassets.net/w6r2i5d8q73s/6lBp4DlhJZaNlGqoNdEXsp/4f8e2437c0c54ede8f38e6550382f310/docusign.svg)![Image 37: wp engine](https://images.ctfassets.net/w6r2i5d8q73s/4fxqUuWzZ1g7YMh8EFyf64/5054f2a6c219e0c3f6dca9bb5f4ed91b/wp_engine.svg)![Image 38: accenture](https://images.ctfassets.net/w6r2i5d8q73s/7qqYuOhg1XTnQgadkFNiAI/4ccc945909c01ae4f801ecad10f0bf61/accenture.svg)![Image 39: bumble](https://images.ctfassets.net/w6r2i5d8q73s/BhL17cEmDGUPTio403hVd/f5b4b37f3d18d356bdfcf0e441322e34/bumble.svg)![Image 40: delloite](https://images.ctfassets.net/w6r2i5d8q73s/438pyocvf5kV5oXCP6magW/6d8b17095a730118af06c6056ae53d7e/delloite.svg)![Image 41: hewlett packard](https://images.ctfassets.net/w6r2i5d8q73s/xojI11ujqFxEy9DRNRca5/a5a52681e4faa9aa376c1baba4844a24/Logo_-_kaiser_permanente.svg)![Image 42: total](https://images.ctfassets.net/w6r2i5d8q73s/1nlToYxzQ6hq8RtTZB0e7n/75c6243dcfcbf465bdeee5b13d6a6a92/total.svg)![Image 43: dropbox](https://images.ctfassets.net/w6r2i5d8q73s/3wvKK3Upra0CHNnMkDqNhd/737d1b75c2b2e6cc481c179f78b50687/dropbox.svg)![Image 44: hp](https://images.ctfassets.net/w6r2i5d8q73s/4kqoHmDrBhzv9PupYKwHSG/45fe894454b30bbf88c01c7559beb95d/hp.svg)![Image 45: department](https://images.ctfassets.net/w6r2i5d8q73s/4ataCz2R6qRPJwV0syjbvN/31271bea7cf97ea98a908400e83ada7f/department.svg)\n\nSecurity and compliance\n=======================\n\nRest easy knowing we're fully certified by numerous organizations.\n\n[Learn more](https://miro.com/security/)\n\n![Image 46](https://static-website.miro.com/miro-site-lp-build-assets/assets/pricing/canvas24/iso.svg)\n\n#### ISO/IEC 27001\n\nISO/IEC Security Management\n\n![Image 47](https://static-website.miro.com/miro-site-lp-build-assets/assets/pricing/canvas24/soc2.svg)\n\n#### SOC 2 Type II\n\nSOC for Service Organizations\n\n![Image 48](https://static-website.miro.com/miro-site-lp-build-assets/assets/pricing/canvas24/soc3.svg)\n\n#### SOC 3\n\nSOC for Service Organizations\n\n![Image 49](https://static-website.miro.com/miro-site-lp-build-assets/assets/pricing/canvas24/nist.svg)\n\n#### NIST\n\nNational Institute of Standards and Technology\n\n![Image 50](https://static-website.miro.com/miro-site-lp-build-assets/assets/pricing/canvas24/tisax.svg)\n\n#### TISAX\n\nTrusted Information Security Assessment Exchange\n\n![Image 51](https://static-website.miro.com/miro-site-lp-build-assets/assets/pricing/canvas24/gdpr.svg)\n\n#### GDPR\n\nGeneral Data Protection Regulation\n\nEducation\n---------\n\nSupport for staff and students of educational institutions.\n\n[Learn more](https://miro.com/education-whiteboard)\n\n![Image 52: shape](https://static-website.miro.com/miro-site-lp-build-assets/assets/pricing/canvas24/education.png)\n\n### **How do I get started?**\n\nWhen you sign up, you\u2019re on the Free plan by default. The Free plan is designed for teams just starting out with visual collaboration: you can invite as many team members and create as many boards as you want, but only 3 boards will be active and editable at once. For more advanced collaboration functionality, check out our Starter, Business or Enterprise plans.\n\n### **What is included with the Free plan?**\n\nThe Free plan enables you to experience the power of visual collaboration firsthand: with unlimited team members, 3 active boards, and access to all our pre-built templates as well as a set of robust integrations including Google Drive, Slack, and more.\n\n### **Can I change the team size?**\n\nYes, you can change your team size at any point during your subscription. You\u2019ll be charged a prorated fee for adding new users and a refund on your next payment for removing users.\n\n### **How can I increase Miro AI credits?**\n\nMiro AI credits are calculated based on the number of licenses in the organisation and your Miro plan (Starter/Business/Enterprise). You can purchase an add-on to get unlimited credits. Credit limit cannot be increased for Free plan. Check out our [help center](https://help.miro.com/hc/en-us/articles/360017571714-Miro-billing#h_4c2c9e4e-4b7e-4b1b-8d8f-7c2d4c4f3e1b) for more information.\n\n### **Does everyone need a Miro account to collaborate?**\n\nNo, if you are using Miro on Starter or Business plan, you can invite anonymous visitors to your public boards.  \n[Learn more](https://help.miro.com/hc/en-us/articles/360012524559-Collaboration-with-External-Guest-Editors).\n\n### **Does Miro integrate with my existing workflow?**\n\nWe have a full list of integrations through our Marketplace here. If you don\u2019t see a tool for your workflow on the list or have an idea,  \n[let us know](https://miro.com/contact/product/?subject=integrations).\n\n### **Is my data secure?**\n\nWe care deeply about data privacy and security and strive to keep our security practices industry-leading. Learn more about data security on our website, check out our assessment on the Cloud Security Alliance website, or contact us directly with any questions.\n\n### **We need additional help on documentation (like an MSA or security questionnaire). Who can I reach out to?**\n\nWe\u2019re happy to work together on your company\u2019s security questionnaire or an MSA! Please reach out to our sales team at  \n[miro.com/contact/sales](https://miro.com/contact/sales/) for specific questions.\n\n### **My team is a nonprofit organization. Is special pricing available for NPOs or charitable organizations?**\n\nIf you're part of a nonprofit organization, we're happy to provide you with discounted pricing. [Find out more](https://help.miro.com/hc/en-us/articles/360026839633-NPO-Subscriptions)  \nabout the eligibility requirements.\n\n### **What forms of payment do you accept?**\n\nWe accept all major credit cards. If you purchase Starter Plan for 10+ members or Business Plan you can pay via self-serve invoice. If you want to purchase Enterprise Plan, [contact us](https://miro.com/contact/), and we will issue an invoice that you can pay via bank transfer.\n\n### **I am a staff member or student of an educational institution.**\n\nTo apply for a free Education account, fill out the  \n[application form](https://miro.com/education/) on our website. [Learn more](https://help.miro.com/hc/en-us/articles/360017730473-Education-Plan).\n\n##### Product\n\n[Online whiteboard](https://miro.com/online-whiteboard/)[Apps & Integrations](https://miro.com/integrations/)[Templates](https://miro.com/templates/)[Miroverse](https://miro.com/miroverse/)[Miro Developer Platform](https://developers.miro.com/)[Miro for Devices](https://miro.com/apps/)[Enterprise Guard](https://miro.com/enterprise-guard/)[Accessibility](https://miro.com/accessibility-statement/)[Changelog](https://miro.com/changelog/)\n\n### Product\n\n[](https://miro.com/pricing/#)\n\n[Online whiteboard](https://miro.com/online-whiteboard/)[Apps & Integrations](https://miro.com/integrations/)[Templates](https://miro.com/templates/)[Miroverse](https://miro.com/miroverse/)[Miro Developer Platform](https://developers.miro.com/)[Miro for Devices](https://miro.com/apps/)[Enterprise Guard](https://miro.com/enterprise-guard/)[Accessibility](https://miro.com/accessibility-statement/)[Changelog](https://miro.com/changelog/)\n\n##### Solutions\n\n[Meetings and Workshops](https://miro.com/meetings-and-workshops/)[Brainstorming & Ideation](https://miro.com/brainstorming/)[Agile practices](https://miro.com/agile/)[Diagramming](https://miro.com/diagramming/)[Research & Design](https://miro.com/research-and-design/)[Strategy & Planning](https://miro.com/strategic-planning/)[Mind Map](https://miro.com/mind-map/)[Concept Map](https://miro.com/concept-map/)[Online Sticky Notes](https://miro.com/online-sticky-notes/)[Flowchart Maker](https://miro.com/flowchart/)[Wireframe](https://miro.com/wireframe/)\n\n### Solutions\n\n[](https://miro.com/pricing/#)\n\n[Meetings and Workshops](https://miro.com/meetings-and-workshops/)[Brainstorming & Ideation](https://miro.com/brainstorming/)[Agile practices](https://miro.com/agile/)[Diagramming](https://miro.com/diagramming/)[Research & Design](https://miro.com/research-and-design/)[Strategy & Planning](https://miro.com/strategic-planning/)[Mind Map](https://miro.com/mind-map/)[Concept Map](https://miro.com/concept-map/)[Online Sticky Notes](https://miro.com/online-sticky-notes/)[Flowchart Maker](https://miro.com/flowchart/)[Wireframe](https://miro.com/wireframe/)\n\n##### Resources\n\n[Miro Academy](https://academy.miro.com/)[Help Center](https://help.miro.com/hc/en-us)[Blog](https://miro.com/blog/)[Status](https://status.miro.com/)[Miro Community](https://miro.com/community/)[Miro Events](https://community.miro.com/events)[Solution Partners](https://miro.com/find-a-partner/)\n\n### Resources\n\n[](https://miro.com/pricing/#)\n\n[Miro Academy](https://academy.miro.com/)[Help Center](https://help.miro.com/hc/en-us)[Blog](https://miro.com/blog/)[Status](https://status.miro.com/)[Miro Community](https://miro.com/community/)[Miro Events](https://community.miro.com/events)[Solution Partners](https://miro.com/find-a-partner/)\n\n##### Company\n\n[About us](https://miro.com/about/)[Careers \ud83d\ude80](https://miro.com/careers/)[Miro in the News](https://miro.com/newsroom/)[Customer Stories](https://miro.com/blog/customer-stories/)\n\n### Company\n\n[](https://miro.com/pricing/#)\n\n[About us](https://miro.com/about/)[Careers \ud83d\ude80](https://miro.com/careers/)[Miro in the News](https://miro.com/newsroom/)[Customer Stories](https://miro.com/blog/customer-stories/)\n\n##### Plans and Pricing\n\n[Pricing](https://miro.com/pricing/)[Business](https://miro.com/business-plan/)[Enterprise](https://miro.com/enterprise/)[Consultants](https://miro.com/consultants-agencies/)[Education](https://miro.com/education-whiteboard/)[Startups](https://miro.com/startups/)[NPOs](https://miro.com/npo/)[Contact sales](https://miro.com/contact/sales/)\n\n### Plans and Pricing\n\n[](https://miro.com/pricing/#)\n\n[Pricing](https://miro.com/pricing/)[Business](https://miro.com/business-plan/)[Enterprise](https://miro.com/enterprise/)[Consultants](https://miro.com/consultants-agencies/)[Education](https://miro.com/education-whiteboard/)[Startups](https://miro.com/startups/)[NPOs](https://miro.com/npo/)[Contact sales](https://miro.com/contact/sales/)\n\n* * *\n\n[](https://twitter.com/mirohq \"Twitter\")[](https://www.facebook.com/TryMiro \"Facebook\")[](https://www.linkedin.com/company/mirohq \"Linkedin\")[](https://www.instagram.com/mirohq/ \"Instagram\")[](https://www.youtube.com/user/RealtimeBoardEng \"Youtube\")\n\n[English](https://miro.com/pricing/#)\n\n[](https://apps.apple.com/us/app/miro-collaborative-whiteboard/id1180074773?from=footer_menu&source=miro_website \"App Store\")[](https://play.google.com/store/apps/details?id=com.realtimeboard&from=footer_menu&source=miro_website \"Google Play\")\n\nMiro \u00a9 2025\n\n[Terms of Service](https://miro.com/legal/terms-of-service/)[Privacy Policy](https://miro.com/legal/privacy-policy/)[Manage Cookies](https://miro.com/manage-cookies/)\n\nMultiple pricing options: Free, Starter (choose team size), Company (enterprise). Choose the one that works for you.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "miro",
+        "app_name": "Miro",
+        "app_slug": "miro",
+        "pricing_url": "https://miro.com/pricing/",
+        "source_url": "https://miro.com/pricing/",
+        "all_pricing_urls": [
+          "https://miro.com/pricing/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": null,
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Discover what Miro can do for you and your team. Always free.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Single workspace with 3 editable boards",
+              "5,000+ Miro and community-made templates",
+              "160+ app integrations",
+              "Layers for object management",
+              "Miro AI with 10 credits/month per team",
+              "5 Talktracks for interactive video walkthroughs"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "160+",
+              "custom_limits": [
+                {
+                  "name": "editable boards",
+                  "value": 3
+                },
+                {
+                  "name": "Miro AI credits",
+                  "value": "10 credits/month per team"
+                },
+                {
+                  "name": "Talktracks",
+                  "value": 5
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Starter",
+            "tier_description": "Unlock unlimited and private boards with essential features.",
+            "monthly_price": 10.0,
+            "annual_price": 96.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Unlimited boards in a single workspace",
+              "Unlimited Visitors for public boards",
+              "High-resolution board exports",
+              "Version history",
+              "Brand Center for custom templates",
+              "Spaces for board organization",
+              "Miro AI with 25 credits/month per member",
+              "Interactive meeting tools",
+              "Private boards",
+              "Unlimited Talktracks"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "160+",
+              "custom_limits": [
+                {
+                  "name": "Miro AI credits",
+                  "value": "25 credits/month per member"
+                },
+                {
+                  "name": "Talktracks",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "Safely collaborate with secure guest access, multiple teams and advanced tools.",
+            "monthly_price": 20.0,
+            "annual_price": 192.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Unlimited boards in multiple private workspaces",
+              "Unlimited Guests with secure collaboration",
+              "Miro AI with 50 credits/month per member",
+              "3,600+ diagramming shapes",
+              "Custom shapes",
+              "Two-way Jira or Azure sync",
+              "Single Sign On (SSO)"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "160+",
+              "custom_limits": [
+                {
+                  "name": "Miro AI credits",
+                  "value": "50 credits/month per member"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Work across your entire organization, with support, security and control, to scale.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Flexible license program",
+              "SCIM and advanced admin tools",
+              "Centralized account management",
+              "Organization-wide controls",
+              "Enterprise-grade security",
+              "Enterprise Guard addon",
+              "Data center residency program",
+              "Customer Success Program",
+              "Premium 24/7 support",
+              "Miro AI with 100 credits/month per member"
+            ],
+            "limits": {
+              "users": "from 30",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "160+",
+              "custom_limits": [
+                {
+                  "name": "Miro AI credits",
+                  "value": "100 credits/month per member"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": true
+        },
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:44:19.981593",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\miro\\20250414_234420"
+}

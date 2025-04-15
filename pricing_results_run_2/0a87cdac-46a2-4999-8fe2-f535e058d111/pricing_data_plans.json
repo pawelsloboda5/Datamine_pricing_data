@@ -1,0 +1,47 @@
+{
+  "app_id": "signrequest",
+  "app_name": "SignRequest",
+  "app_slug": "signrequest",
+  "pricing_url": "https://signrequest.com/en/plans",
+  "source_url": "https://signrequest.com/en/plans",
+  "all_pricing_urls": [
+    "https://signrequest.com/en/plans"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing details were not explicitly listed in the provided content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:34:53.443496",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0a87cdac-46a2-4999-8fe2-f535e058d111",
+    "name": "SignRequest",
+    "slug": "signrequest",
+    "description": "SignRequest is an electronic (digital) signature solution to get documents signed. Easy, fast, secure and legally binding.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/e9769a2749f2db807b6bf8698a509d74.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Signatures"
+    ],
+    "category_slugs": [
+      "signatures"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 2
+  }
+}

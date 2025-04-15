@@ -1,0 +1,122 @@
+{
+  "app_id": "dext",
+  "app_name": "Dext",
+  "app_slug": "dext",
+  "pricing_url": "https://dext.com/en/partner/pricing",
+  "source_url": "https://dext.com/en/partner/pricing",
+  "all_pricing_urls": [
+    "https://dext.com/en/partner/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on a per-client model with a minimum of 10 clients.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Basic plan for bookkeeping automation.",
+      "monthly_price": 20.0,
+      "annual_price": 240.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Mobile app",
+        "Multiple submission methods",
+        "Capture costs and sales invoices + receipts",
+        "Bank statement extraction",
+        "Line item extraction",
+        "Supplier statement extraction"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Minimum Clients",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Advanced plan with additional features.",
+      "monthly_price": 21.5,
+      "annual_price": 258.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "All Essentials features",
+        "Workflows",
+        "Teams & Locations",
+        "Insights",
+        "Advanced Client list",
+        "Approvals",
+        "Expenses & Mileage",
+        "Auto-categorisation",
+        "Boost",
+        "Auto-publish",
+        "Supplier statements"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Minimum Clients",
+            "value": 10
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Data Health & Insights",
+      "fee_amount": 7.5,
+      "fee_description": "Add-on for data quality checks and clean-up tools."
+    },
+    {
+      "fee_name": "Commerce Lite",
+      "fee_amount": 7.5,
+      "fee_description": "Add-on for e-commerce transaction capture."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:58:15.901730",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6dd47bbf-f978-454f-86a0-16c157d5852f",
+    "name": "Dext",
+    "slug": "dext",
+    "description": "Dext makes accountants and the businesses you look after more productive and profitable through better data and insights.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d2587b7121bdce656ad6e6cdf0964c05.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 2
+  }
+}

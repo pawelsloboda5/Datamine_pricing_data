@@ -1,0 +1,192 @@
+{
+  "app_id": "oncehub",
+  "app_name": "OnceHub",
+  "app_slug": "oncehub",
+  "pricing_url": "https://www.oncehub.com/pricing",
+  "source_url": "https://oncehub.com/pricing",
+  "all_pricing_urls": [
+    "https://www.oncehub.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and multiple subscription options with additional features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "For individuals looking to get started with basic online scheduling",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "One User and One Booking Link",
+        "WYSIWYG Booking Page Designer",
+        "Multi-Location Availability",
+        "Calendar Integrations: Google, Office 365, Exchange, iCloud",
+        "Video Integrations: Zoom, Google, Microsoft, GTM, Webex",
+        "Email Integrations: Google, Office 365",
+        "Standard Email Reminders and Follow-Ups",
+        "Knowledge Base Support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Schedule",
+      "tier_description": "For businesses looking to streamline their operations with professional scheduling",
+      "monthly_price": 10.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Booking Links and Meetings",
+        "Single-Host and Multi-Host Meetings",
+        "Customizable Email Notifications",
+        "Text Notifications",
+        "CRM Integrations: Salesforce, HubSpot",
+        "Custom Integrations: APIs, Webhooks, Zapier",
+        "Branded Booking Hubs",
+        "Website Embed",
+        "24/7 Email and Live Chat Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Route",
+      "tier_description": "For teams looking to optimize scheduling with qualification, routing, and distribution",
+      "monthly_price": 19.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Routing Forms and Responses",
+        "In-Form Scheduling Experience",
+        "Routing Based on Form Answers and Contact Properties",
+        "Dynamic Selection for Single-Host and Multi-Host Meetings",
+        "Round-Robin, Maximum Availability, and Priority-Based Distribution",
+        "Meeting Reassignment",
+        "Room Scheduling",
+        "Branded Routing Form Pages or Website Embed"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Engage",
+      "tier_description": "For teams looking to maximize engagements with AI-driven scheduling",
+      "monthly_price": 39.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Chatbots and Conversations",
+        "AI-Driven Scheduling",
+        "AI Conversations",
+        "Smart Routing by AI",
+        "Availability-Based Routing",
+        "Live Chat",
+        "Instant Meetings",
+        "Audience-Specific Targeting",
+        "Branded Chatbot Pages or Website Embed"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom agreements and advanced support for large teams (30+ users)",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Security and compliance add-on included",
+        "Enterprise MSA and bespoke agreements",
+        "Security and legal reviews",
+        "Dedicated success manager",
+        "VIP support"
+      ],
+      "limits": {
+        "users": 30,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Yearly Discount",
+      "offer_description": "Save up to 18% when billed annually",
+      "discount_percentage": 18.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Security and Compliance Add-On",
+      "fee_amount": 5.0,
+      "fee_description": "Enhanced security and compliance for your account. Can be added to any paid plan."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:00:04.438632",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "cee64046-d1d2-4cd9-95d7-00d27311dd8d",
+    "name": "OnceHub",
+    "slug": "oncehub",
+    "description": "Capture, qualify, and engage with inbound leads using ScheduleOnce, ChatOnce, FormOnce and SubmitOnce.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/72444733a3781782829e900c39d208ca.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 13
+  }
+}

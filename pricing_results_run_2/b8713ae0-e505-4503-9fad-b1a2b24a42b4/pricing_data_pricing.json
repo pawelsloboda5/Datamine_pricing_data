@@ -1,0 +1,161 @@
+{
+  "app_id": "recruit_crm",
+  "app_name": "Recruit CRM",
+  "app_slug": "recruit-crm",
+  "pricing_url": null,
+  "source_url": "https://recruitcrm.io/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The platform offers an unlimited free trial with certain usage limits and no credit card required.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pro",
+      "tier_description": "Ideal for beginner recruiters/recruitment agencies",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Chrome Sourcing Extension",
+        "AI Resume Parser",
+        "GPT Integration",
+        "Unlimited email templates",
+        "Fully integrated mailbox",
+        "Deal Pipelines",
+        "Phone calling & recording",
+        "Complete Reporting Suite",
+        "Unlimited open jobs",
+        "Job board posting",
+        "AI Job Candidate Matching"
+      ],
+      "limits": {
+        "users": "per user",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Ideal for established firms looking to scale",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything on the Pro plan",
+        "Automated email sequencing",
+        "Bulk texting",
+        "Executive Search Report Generator",
+        "Resume formatting",
+        "Custom roles & teams",
+        "Multiple hiring pipelines",
+        "Whitelist IP address",
+        "Audit Logs",
+        "Single Sign On (SSO)",
+        "2 email connections"
+      ],
+      "limits": {
+        "users": "per user",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Ideal for firms with 100+ users",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything on the business plan",
+        "Dedicated Account Manager",
+        "Custom SLA",
+        "Custom branding",
+        "Dedicated servers",
+        "Custom company, candidates & contact limits"
+      ],
+      "limits": {
+        "users": "per user",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Calling credit",
+      "unit": "per minute",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Job Multiposting & Advertising",
+      "unit": "per job campaign",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Advanced Analytics",
+      "unit": "per user",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "LinkedIn Messages Integration",
+      "unit": "per user",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Data migration service",
+      "fee_amount": null,
+      "fee_description": "Priced based on the amount of data to import and takes 10-14 business days."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:51:24.222107",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b8713ae0-e505-4503-9fad-b1a2b24a42b4",
+    "name": "Recruit CRM",
+    "slug": "recruitcrm",
+    "description": "Recruit CRM is an all-in-one ATS + CRM for recruitment agencies.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/730b9a6eb7da74fe343d17d4de885ad4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 44,
+    "trigger_count": 47
+  }
+}

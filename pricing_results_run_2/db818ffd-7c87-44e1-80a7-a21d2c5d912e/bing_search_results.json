@@ -1,0 +1,114 @@
+{
+  "app_name": "Robly",
+  "app_slug": "robly",
+  "search_term": "Find the official pricing page URL for Robly (robly.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744703033.688167,
+  "response_text": [
+    "The official pricing page for Robly can be found here: [https://support.robly.com/pricing/](https://support.robly.com/pricing/)\u30103:1\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing \u2013 support.robly.com",
+      "url": "https://support.robly.com/category/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://support.robly.com/category/pricing/",
+      "is_accessible": true,
+      "content": "### [What forms of payment does Robly accept?](https://support.robly.com/forms-of-payment/)\n\nSubscription payments can be made using a valid credit card. Robly does not accept any other form of payment.\n\n### [Am I billed for Unsubscribed contacts?](https://support.robly.com/am-i-billed-for-unsubscribed-contacts/)\n\nNope! You are not charged for unsubscribed contacts. We use the Entire Contact list to determine how many active contacts you are billed for. We bill you for active contacts stored or sent to, whichever is greater.\n\n### [Yearly Contract Buyout \u2013 How It Works](https://support.robly.com/yearly-contract-buyout-how-it-works/)\n\nRobly will buy you out of your yearly contract at another provider. We will give you Robly FREE for the amount of TIME (not money)\u00a0that you have left in your yearly contract. Example 1 \u2013 11 months left \u2013 $15/mo Robly plan: You have 11 months left in your yearly\n\n### [How much does OpenGen cost?](https://support.robly.com/how-much-does-opengen-cost/)\n\nNothing! It\u2019s included with your Robly subscription. \ud83d\ude42\n\n### [Where do I enter or edit my credit card information?](https://support.robly.com/where-do-i-enter-my-credit-card-information/)\n\nIf you do not see a \u201cBuy Now\u201d button on your email dashboard, click My Account \\> Settings \\> Subscription \\> Buy Now. To enter your credit card information, click\u00a0Add Credit Card. If you want to edit existing credit card information, click Edit Credit Card. We use a service called\n\n### [How much does Robly cost?](https://support.robly.com/how-much-does-robly-cost/)\n\nClick here to see our pricing. Robly only accepts credit cards, and either bills monthly or yearly, depending on your subscription type. We give a 15% discount for paying a year up front, and a 15% discount for non-profits.\n\n### [Does Robly have a discount for non-profits?](https://support.robly.com/does-robly-have-a-discount-for-non-profits/)\n\nYes. Robly has a 15% discount off of monthly or yearly plans for non-profits. To see pricing, click here.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "robly",
+        "app_name": "Robly",
+        "app_slug": "robly",
+        "pricing_url": "https://support.robly.com/how-much-does-robly-cost/",
+        "source_url": "https://support.robly.com/how-much-does-robly-cost/",
+        "all_pricing_urls": [
+          "https://support.robly.com/how-much-does-robly-cost/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Robly offers a 15% discount for annual payments and for non-profits. Pricing is based on the number of active contacts.",
+        "pricing_tiers": null,
+        "usage_based_pricing": [
+          {
+            "metric_name": "active contacts",
+            "unit": "per contact",
+            "base_price": null,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Non-Profit Discount",
+            "offer_description": "15% discount for non-profits on monthly or yearly plans.",
+            "discount_percentage": 15.0,
+            "offer_url": "https://support.robly.com/does-robly-have-a-discount-for-non-profits/",
+            "valid_until": null
+          },
+          {
+            "offer_name": "Annual Payment Discount",
+            "offer_description": "15% discount for paying a year upfront.",
+            "discount_percentage": 15.0,
+            "offer_url": "https://support.robly.com/how-much-does-robly-cost/",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:44:02.982112",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://support.robly.com/pricing/",
+      "is_accessible": true,
+      "content": "Page not found \u2013 support.robly.com\n===============\n\n [![Image 1](https://support.robly.com/wp-content/uploads/2022/02/Robly-Logo.png)](https://support.robly.com/)\n\n*   [Features](https://www.robly.com/features)\n*   [Pricing](https://www.robly.com/pricing)\n*   [Blog](https://blog.robly.com/)\n*   [Support](https://support.robly.com/)\n*   [14-Day Free Trial](https://www.robly.com/sign_up)\n\nMenu\n\n*   [Features](https://www.robly.com/features)\n*   [Pricing](https://www.robly.com/pricing)\n*   [Blog](https://blog.robly.com/)\n*   [Support](https://support.robly.com/)\n*   [14-Day Free Trial](https://www.robly.com/sign_up)\n\nThe page can\u2019t be found.\n========================\n\nIt looks like nothing was found at this location.\n\n![Image 2](https://support.robly.com/wp-content/uploads/2022/03/Group.png)\n\n*   [Contact Us](https://www.robly.com/contact_us/)\n*   [Terms of Service](https://support.robly.com/robly-terms-of-service)\n*   [Support & Help](https://support.robly.com/)\n*   [About Robly](https://www.robly.com/)\n*   [Privacy Policy](https://support.robly.com/our-privacy-policy/)\n\nMenu\n\n*   [Contact Us](https://www.robly.com/contact_us/)\n*   [Terms of Service](https://support.robly.com/robly-terms-of-service)\n*   [Support & Help](https://support.robly.com/)\n*   [About Robly](https://www.robly.com/)\n*   [Privacy Policy](https://support.robly.com/our-privacy-policy/)\n\n\u00a9 Copyright 2013 \u2013 2021 Robly Ltd. Email Marketing Platform\n\n[Facebook](https://www.facebook.com/roblymarketing/) [Twitter](https://twitter.com/roblynyc) [Instagram](https://www.instagram.com/roblyemailmarketing/) [Linkedin](https://www.linkedin.com/company/robly/)\n\n     \n\n![Image 3: minimized chat](https://support.robly.com/pricing/)\n\nLive Chat",
+      "error": null,
+      "pricing_data": {
+        "app_id": "robly",
+        "app_name": "Robly",
+        "app_slug": "robly",
+        "pricing_url": "https://www.robly.com/pricing",
+        "source_url": "https://support.robly.com/",
+        "all_pricing_urls": [
+          "https://www.robly.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page for Robly was not accessible, and detailed pricing information could not be retrieved.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:44:12.500788",
+        "schema_validated": true,
+        "confidence_score": 85,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\robly\\20250415_034412"
+}

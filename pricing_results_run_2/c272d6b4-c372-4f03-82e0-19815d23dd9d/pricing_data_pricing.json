@@ -1,0 +1,123 @@
+{
+  "app_id": "breezy_hr",
+  "app_name": "Breezy HR",
+  "app_slug": "breezy-hr",
+  "pricing_url": null,
+  "source_url": "https://breezy.hr/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The Bootstrap plan includes limitations on active positions and candidate pools, with unlimited access to recent candidates for 30 days.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Bootstrap",
+      "tier_description": "Basic plan with limited active positions and candidate pools.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Users",
+        "Unlimited Candidates",
+        "Unlimited Positions (1 active position at a time)",
+        "Unlimited Candidate Pools",
+        "Branded Career Site",
+        "Distribute to 50+ Job Boards",
+        "GDPR Compliance & Automation",
+        "Email & Text Message Templates",
+        "AI-Powered Job Description Templates",
+        "Multi-Language Support",
+        "World-class Resume Parsing",
+        "Background Screening Integrations",
+        "Candidate Automations",
+        "Candidate Questionnaires",
+        "Customizable Pipeline Stages",
+        "EEOC / OFCCP Reporting",
+        "Email & Calendar Integration",
+        "iOS & Android Mobile Apps",
+        "Interview Self-Scheduling",
+        "Live Video Meetings",
+        "Real-Time Analytics & Reporting",
+        "Slack Integration",
+        "Task Management",
+        "Video Assessments",
+        "Automated Reference Checking",
+        "Customizable Interview Guides",
+        "Customizable Scorecards",
+        "Employee Referrals",
+        "eSignatures",
+        "External Recruiter Support",
+        "Hello Messenger",
+        "Multiple Location for Positions",
+        "Multiple Recruiting Pipelines",
+        "Advanced Questionnaires (Multi-Path)",
+        "Assessment Integrations",
+        "Candidate Comparison",
+        "Candidate Nurture Campaigns",
+        "Custom Roles & Permissions",
+        "Department List",
+        "HRIS Integrations",
+        "Job Approvals",
+        "Offer Approvals",
+        "Offer Management",
+        "Tag Locking",
+        "Email & Web Support",
+        "Online Knowledge Base",
+        "Video Tutorials",
+        "Weekly Webinars",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active Positions",
+            "value": 1
+          },
+          {
+            "name": "Candidate Access Duration",
+            "value": "30 days"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:58:03.934225",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c272d6b4-c372-4f03-82e0-19815d23dd9d",
+    "name": "Breezy HR",
+    "slug": "breezy-hr",
+    "description": "A uniquely simple, visual recruiting tool and applicant tracking system.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/e1b56d27d3a4ab5cbf907ef8cab0b5a5.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "HR Talent & Recruitment"
+    ],
+    "category_slugs": [
+      "hr"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

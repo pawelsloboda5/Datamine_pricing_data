@@ -1,0 +1,19 @@
+{
+  "app_name": "SOS Inventory",
+  "app_slug": "sos-inventory",
+  "search_term": "Find the official pricing page URL for SOS Inventory (sos-inventory.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744721666.025256,
+  "response_text": [
+    "The official pricing page for SOS Inventory is: [https://www.sos-inventory.com/pricing](https://www.sos-inventory.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.sos-inventory.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\sos-inventory\\20250415_085426"
+}

@@ -1,0 +1,152 @@
+{
+  "app_id": "shippo",
+  "app_name": "Shippo",
+  "app_slug": "shippo",
+  "pricing_url": "https://goshippo.com/pricing",
+  "source_url": "https://goshippo.com/pricing",
+  "all_pricing_urls": [
+    "https://goshippo.com/pricing",
+    "https://goshippo.com/pricing/api"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and usage-based pricing for labels. Additional fees apply for certain features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Quick and easy shipping solution.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Best USPS, UPS, FedEx, and DHL Express discounts",
+        "Unlimited store connections",
+        "International shipping",
+        "Automations",
+        "Return labels",
+        "Shipment tracking",
+        "Reporting and analytics",
+        "Email support",
+        "1 user login",
+        "Connect your own carrier account (5\u00a2/label)"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": 30,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Labels per month",
+            "value": 30
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Grow your business with branded shipping and more support.",
+      "monthly_price": 19.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Starter",
+        "Connect your own carrier account (free)",
+        "Branded tracking pages, notification emails, and packing slips",
+        "Chat and phone support",
+        "Up to 5 user logins"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": 10000,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Labels per month",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premier",
+      "tier_description": "Scale up with dedicated support and more user access.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Professional",
+        "Dedicated account manager",
+        "15+ user logins",
+        "Unlimited shipments"
+      ],
+      "limits": {
+        "users": "15+",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Labels per month",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Labels",
+      "unit": "per label",
+      "base_price": 0.05,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Global address validation",
+      "fee_amount": 0.06,
+      "fee_description": "Fee per lookup for international address validation"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:01:20.408106",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3c6e446b-90f0-4da4-aeff-0b8f2dbf3a44",
+    "name": "Shippo",
+    "slug": "shippo",
+    "description": "Shippo provides a multi-carrier API and dashboard to help merchants and platforms get real-time rates, print labels, automate international paperwork, track packages and facilitate returns. Shippo provides the platform to help businesses succeed through shipping.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/5b90b5fdaff07c7a4dccd55df135dd1b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 1
+  }
+}

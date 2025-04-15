@@ -1,0 +1,123 @@
+{
+  "app_id": "linear",
+  "app_name": "Linear",
+  "app_slug": "linear",
+  "pricing_url": null,
+  "source_url": "https://linear.app/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Linear offers a free tier with basic features and additional paid tiers with enhanced capabilities.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for small teams.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited members",
+        "10MB file uploads",
+        "250 issues",
+        "2 teams",
+        "Issues, projects, cycles, and initiatives",
+        "Customer requests",
+        "Integrations",
+        "API and webhook access",
+        "Import and export",
+        "Triage",
+        "Issue sync",
+        "Support integrations",
+        "Triage responsibility",
+        "Linear Asks",
+        "Progress reports",
+        "Google SSO"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10MB per file",
+        "operations": "250 issues",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Paid",
+      "tier_description": "Enhanced features for larger teams and organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited members",
+        "Unlimited file uploads",
+        "Unlimited issues",
+        "Unlimited teams",
+        "Advanced Linear Asks",
+        "Issue SLAs",
+        "Sub-teams",
+        "Private teams",
+        "Guest accounts",
+        "Insights",
+        "Data warehouse sync",
+        "Google SSO + SAML",
+        "Admin roles",
+        "Advanced authentication",
+        "IP restrictions",
+        "SCIM provisioning",
+        "Domain claiming",
+        "Audit log",
+        "Third-party app management",
+        "HIPAA compliance",
+        "Priority support",
+        "Account manager",
+        "Custom terms",
+        "Uptime SLA"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:23:40.693262",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a3599a0e-45d6-4e26-b697-ffabbcd5c4dd",
+    "name": "Linear",
+    "slug": "linear",
+    "description": "Linear helps you manage software development processes.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/703339d83e11ba76a226c86175413468.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Collaboration"
+    ],
+    "category_slugs": [
+      "team-collaboration"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 8
+  }
+}

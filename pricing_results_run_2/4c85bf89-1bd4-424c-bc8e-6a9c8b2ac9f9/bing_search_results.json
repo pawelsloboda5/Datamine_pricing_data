@@ -1,0 +1,12 @@
+{
+  "app_name": "Google Business Profile",
+  "app_slug": "google-business-profile",
+  "search_term": "Find the official pricing page URL for Google Business Profile (google-business-profile.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744687596.9944642,
+  "response_text": [
+    "I was unable to find an official pricing page for Google Business Profile. It appears to be a free service offered by Google. If you'd like me to check further or related APIs, let me know."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\google-business-profile\\20250414_232637"
+}

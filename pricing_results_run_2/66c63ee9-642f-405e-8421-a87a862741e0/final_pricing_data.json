@@ -1,0 +1,45 @@
+{
+  "app_id": "crunchbase",
+  "app_name": "Crunchbase",
+  "app_slug": "crunchbase",
+  "pricing_url": "https://www.crunchbase.com",
+  "source_url": "https://www.crunchbase.com/solutions/pricing",
+  "all_pricing_urls": [
+    "https://www.crunchbase.com"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not accessible due to a security verification step.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:48:38.593900",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "66c63ee9-642f-405e-8421-a87a862741e0",
+    "name": "Crunchbase",
+    "slug": "crunchbase",
+    "description": "Grow your revenue with all-in-one prospecting solutions powered by the leader in private-company data.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/be4b2fa21ff32318df8e190938e6b13d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

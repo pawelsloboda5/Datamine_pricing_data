@@ -1,0 +1,171 @@
+{
+  "app_id": "brevo",
+  "app_name": "Brevo",
+  "app_slug": "brevo",
+  "pricing_url": "https://www.brevo.com/pricing/",
+  "source_url": "https://www.brevo.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.brevo.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and subscription plans with additional features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Discover Brevo",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "300 emails/day",
+        "Customizable email templates",
+        "Drag & drop editor",
+        "Transactional (API, SMTP, Webhooks)",
+        "SMS & WhatsApp campaigns"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Ideal for growing businesses",
+      "monthly_price": 8.08,
+      "annual_price": null,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "From 5,000 emails/month",
+        "No daily sending limit",
+        "No Brevo logo (add-on)",
+        "Basic reporting & analytics",
+        "24/7 email support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Built for marketing managers and ecommerce pros",
+      "monthly_price": 16.17,
+      "annual_price": null,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "From 5,000 emails/month",
+        "Marketing automation",
+        "Predictive sending",
+        "Multi-user access (add-on)",
+        "Landing pages",
+        "A/B testing",
+        "Advanced statistics",
+        "Phone support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Tailored solutions to fit your needs",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited contacts",
+        "Sub-account management",
+        "Advanced integrations",
+        "Exclusive features",
+        "Tailored onboarding",
+        "Personalized support",
+        "Enterprise-grade security"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS & WhatsApp campaigns",
+      "unit": "based on volume and destination",
+      "base_price": null,
+      "tiers": null
+    },
+    {
+      "metric_name": "Email credits",
+      "unit": "based on monthly email volume",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Remove Brevo branding",
+      "fee_amount": 10.8,
+      "fee_description": "Monthly fee to remove Brevo branding from emails."
+    },
+    {
+      "fee_name": "Dedicated IP",
+      "fee_amount": null,
+      "fee_description": "Billed annually."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:56:29.105168",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "2d5bdf2b-2f17-4079-8b79-f9b13e18899d",
+    "name": "Brevo",
+    "slug": "brevo",
+    "description": "Brevo is the leading CRM suite designed to cultivate long-term customer relationships and help businesses grow.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/3698b184e6ae73c00fc61107a0991622.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 11
+  }
+}

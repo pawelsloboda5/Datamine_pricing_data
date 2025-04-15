@@ -1,0 +1,176 @@
+{
+  "app_id": "callingly",
+  "app_name": "Callingly",
+  "app_slug": "callingly",
+  "pricing_url": "https://callingly.com/pricing",
+  "source_url": "https://callingly.com/pricing/",
+  "all_pricing_urls": [
+    "https://callingly.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes both unlimited and metered plans, with additional options for agencies and enterprises.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Voice",
+      "tier_description": "Call your hot leads within seconds",
+      "monthly_price": 25.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited USA Call Minutes",
+        "Cheap International Rates",
+        "Unlimited Leads",
+        "$3 Local or Toll-Free Numbers"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Voice + SMS",
+      "tier_description": "Call and message to double your results",
+      "monthly_price": 35.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited USA Call Minutes",
+        "Unlimited USA Texts",
+        "Cheap International Rates",
+        "Unlimited Leads",
+        "$3 Local or Toll-Free Numbers"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Realty Team",
+      "tier_description": "1,000 minutes and 1,000 texts for your whole team",
+      "monthly_price": 250.0,
+      "annual_price": 200.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Users",
+        "1,000 USA/Canada Minutes",
+        "1,000 USA/Canada Texts",
+        "Unlimited Leads",
+        "$3 Local or Toll-Free Numbers"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Overage Minutes",
+            "value": "$50 for 500 extra minutes"
+          },
+          {
+            "name": "Overage Texts",
+            "value": "$50 for 500 extra sms"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Agency",
+      "tier_description": "For agencies & resellers",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "No Additional Fees",
+        "Client Management Panel",
+        "Custom Domain"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large organizations",
+      "monthly_price": 2000.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom Integrations",
+        "Custom Terms of Service",
+        "Priority Phone Support",
+        "Service Level Agreement"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Local or Toll-Free Numbers",
+      "fee_amount": 3.0,
+      "fee_description": "Cost per number"
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:18:31.376901",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e30aefe4-3ea4-4131-9e5c-7279be51a269",
+    "name": "Callingly",
+    "slug": "callingly",
+    "description": "Callingly is a call automation platform that gets salespeople on the phone with incoming online leads.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/3e1a8773e57f26db91478fa8f5766e06.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 2
+  }
+}

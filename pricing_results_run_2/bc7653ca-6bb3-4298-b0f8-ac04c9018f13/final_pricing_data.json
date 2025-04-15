@@ -1,0 +1,173 @@
+{
+  "app_id": "streak",
+  "app_name": "Streak",
+  "app_slug": "streak",
+  "pricing_url": "https://www.streak.com/pricing",
+  "source_url": "https://www.streak.com/pricing",
+  "all_pricing_urls": [
+    "https://www.streak.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers a 20% discount. Enterprise plan requires annual billing and a minimum of 10 users.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Use our email power tools for free, forever",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email tracking",
+        "Link tracking",
+        "Email sharing",
+        "Snippets",
+        "Mail merge (up to 50/day)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Mail merge limit",
+            "value": "50/day"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For any sized business looking to collaborate with a complete CRM",
+      "monthly_price": 59.0,
+      "annual_price": 49.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Advanced CRM",
+        "Mail merge (1500/day)",
+        "Shared pipelines"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Mail merge limit",
+            "value": "1500/day"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro+",
+      "tier_description": "For sophisticated teams who need automations and reports",
+      "monthly_price": 89.0,
+      "annual_price": 69.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Advanced reports",
+        "Automations & Integrations",
+        "Archived users",
+        "AI Co-Pilot"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Mail merge limit",
+            "value": "1500/day"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For businesses who need custom roles and data validation",
+      "monthly_price": 159.0,
+      "annual_price": 129.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Custom roles",
+        "Data validation",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Mail merge limit",
+            "value": "1500/day"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Billing Discount",
+      "offer_description": "Save 20% when choosing annual billing.",
+      "discount_percentage": 20.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:38:41.177998",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bc7653ca-6bb3-4298-b0f8-ac04c9018f13",
+    "name": "Streak",
+    "slug": "streak",
+    "description": "Streak is a flexible CRM and process management system that lives inside your Gmail inbox.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/b5b4f510c6b0e0b975fb1214caae6476.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 17,
+    "trigger_count": 10
+  }
+}

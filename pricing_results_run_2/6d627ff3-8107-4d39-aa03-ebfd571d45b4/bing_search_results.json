@@ -1,0 +1,313 @@
+{
+  "app_name": "Short.io",
+  "app_slug": "short-io",
+  "search_term": "Find the official pricing page URL for Short.io (short-io.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744716264.6845522,
+  "response_text": [
+    "The official URL for Short.io's pricing page is: https://short.io/pricing ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://short.io/pricing",
+      "is_accessible": true,
+      "content": "| \n\nUsers\n\n  ![Image 1: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 2: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)The number of users included in the plan.\n\n\n\n\n\n | 1 | 1 | 1 | unlimited | unlimited |\n| \n\nCustom domains\n\n  ![Image 3: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 4: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)The number of custom domains you can use to create branded links. Domain name registration fees are not included in the plan cost.\n\n\n\n\n\n | 5 | 7 | 10 | 50 | unlimited |\n| \n\nBranded links total\n\n  ![Image 5: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 6: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)The number of branded links you can create via website and redirect to the destination URL. Limits are issued once and can be used over the account lifetime.\n\n\n\n\n\n | 1,000 | 2,500 | unlimited | unlimited | unlimited |\n| \n\nLink automation\n\n  ![Image 7: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 8: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)The number of branded links you can create via API or Bulk create.\n\n\n\n\n\n | 1,000 | 2,500 | 10,000/year | 100,000/year | unlimited |\n| \n\nRedirects\n\n  ![Image 9: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 10: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)The number of visitors redirected from a branded link to the destination URL.\n\n\n\n\n\n | unlimited | unlimited | unlimited | unlimited | unlimited |\n| \n\nTracked clicks\n\n  ![Image 11: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 12: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)The limit of redirects visible in statistics (countries, devices, languages, time chart and more).\n\n\n\n\n\n | 50,000/mo | 100,000/mo | unlimited | unlimited | unlimited |\n| \n\nConversions\n\n  ![Image 13: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 14: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)The number of conversions you can track via Short.io.\n\n\n\n\n\n | 50/mo | 200/mo | unlimited | unlimited | unlimited |\n| \n\nFolders\n\n  ![Image 15: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 16: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Organize your links into folders.\n\n\n\n\n\n | 3 | 5 | 10 | 100 | unlimited |\n| \n\nCountry targeting\n\n  ![Image 17: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 18: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Route the visitors from specific countries to the specified destination URL (based on visitors' IP address).\n\n\n\n\n\n | \u2014 | ![Image 19: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 20: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 21: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 22: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nRegion targeting\n\n  ![Image 23: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 24: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Route the visitors from specific cities or regions to the specified destination URL (based on visitors' IP address).\n\n\n\n\n\n | \u2014 | \u2014 | \u2014 | ![Image 25: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 26: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nLink expiration\n\n  ![Image 27: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 28: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Set the expiration date and time to create a temporary short URL.\n\n\n\n\n\n | \u2014 | \u2014 | ![Image 29: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 30: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 31: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nEnd-to-end encryption\n\n  ![Image 32: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 33: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Even Short.io can't see the original URL of the link. Not to be mistaken with SSL, which is available for everyone\n\n\n\n\n\n | \u2014 | \u2014 | \u2014 | ![Image 34: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 35: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nLimit link clicks\n\n  ![Image 36: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 37: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Set a limit for clicks to create a temporary URL.\n\n\n\n\n\n | \u2014 | \u2014 | ![Image 38: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 39: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 40: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nLink cloaking\n\n  ![Image 41: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 42: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Hide the original URL from visitors so they see the short URL in the browser address bar.\n\n\n\n\n\n | \u2014 | \u2014 | ![Image 43: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 44: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 45: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nReferrer hiding\n\n  ![Image 46: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 47: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Replace the original referrer URL with your short domain.\n\n\n\n\n\n | \u2014 | ![Image 48: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 49: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 50: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 51: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nPassword protection\n\n  ![Image 52: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 53: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Limit access to the destination URL with a password. Custom CSS for the password page is available.\n\n\n\n\n\n | \u2014 | \u2014 | ![Image 54: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 55: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 56: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nDeep links\n\n  ![Image 57: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 58: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Open the link in the mobile app if the app is installed. Otherwise, the link will be opened in the browser.\n\n\n\n\n\n | \u2014 | \u2014 | \u2014 | ![Image 59: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 60: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nMultiple teams\n\n  ![Image 61: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 62: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Create multiple user groups and give them access to different sets of domains.\n\n\n\n\n\n | \u2014 | \u2014 | \u2014 | \u2014 | ![Image 63: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nSingle sign-on (SSO)\n\n  ![Image 64: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 65: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Sign on any member of your organization automatically.\n\n\n\n\n\n | \u2014 | \u2014 | \u2014 | \u2014 | ![Image 66: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nSLA of 99.9% uptime\n\n  ![Image 67: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 68: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)We provide financial compensation if we don't maintain 99.9% uptime.\n\n\n\n\n\n | \u2014 | \u2014 | \u2014 | ![Image 69: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 70: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nExport raw click data to S3\n\n  ![Image 71: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 72: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)We provide a daily export of raw click data to AWS S3 Bucket if you need advanced analytics\n\n\n\n\n\n | \u2014 | \u2014 | \u2014 | \u2014 | ![Image 73: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nDestination URL updating\n\n  ![Image 74: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 75: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Update the original URL of your branded links at any time.\n\n\n\n\n\n | ![Image 76: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 77: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 78: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 79: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 80: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nAPI\n\n  ![Image 81: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 82: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Use API to build new apps or add Short.io features to your existing apps.\n\n\n\n\n\n | ![Image 83: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 84: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 85: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 86: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 87: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nURL shortcode (slug) editing\n\n  ![Image 88: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 89: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Customize the symbols that come after the slash with a relevant keyword of your choice.\n\n\n\n\n\n | ![Image 90: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 91: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 92: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 93: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 94: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nSSL (by Let's Encrypt)\n\n  ![Image 95: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 96: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Get a free SSL certificate for short links from the provider \"Let's Encrypt\".\n\n\n\n\n\n | ![Image 97: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 98: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 99: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 100: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 101: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nMobile targeting\n\n  ![Image 102: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 103: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Route the visitors from different mobile OSs to the specified destination URL.\n\n\n\n\n\n | ![Image 104: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 105: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 106: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 107: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 108: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nChat support\n\n  ![Image 109: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 110: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Get answers to any question via online chat support.\n\n\n\n\n\n | ![Image 111: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 112: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 113: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 114: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 115: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nTags for links\n\n  ![Image 116: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 117: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Tag your links to organize and group them on your dashboard.\n\n\n\n\n\n | ![Image 118: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 119: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 120: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 121: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 122: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nQR code\n\n  ![Image 123: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 124: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Generate, change color, add logos, and download QR codes for your branded links.\n\n\n\n\n\n | ![Image 125: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 126: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 127: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 128: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 129: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nMain page redirect\n\n  ![Image 130: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 131: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Use a custom URL to serve as a default page for users who directly visit your branded domain.\n\n\n\n\n\n | ![Image 132: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 133: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 134: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 135: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 136: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\n404 redirect\n\n  ![Image 137: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 138: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Use a custom URL to serve as a default page for users who visit misspelled or non-existent links.\n\n\n\n\n\n | ![Image 139: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 140: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 141: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 142: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 143: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\n301 redirect code\n\n  ![Image 144: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 145: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Create branded links optimized for search engines.\n\n\n\n\n\n | ![Image 146: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 147: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 148: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 149: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 150: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nApp integrations\n\n  ![Image 151: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 152: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Connect Short.io with other services via Zapier, Segment & shorten links via Slack.\n\n\n\n\n\n | ![Image 153: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 154: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 155: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 156: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 157: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nTools & Extensions\n\n  ![Image 158: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 159: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Create short links outside the dashboard using Short.io browser extensions, mobile & desktop apps.\n\n\n\n\n\n | ![Image 160: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 161: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 162: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 163: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 164: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nUTM builder\n\n  ![Image 165: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 166: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Add UTM parameters to a destination URL to track the web traffic in detail.\n\n\n\n\n\n | ![Image 167: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 168: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 169: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 170: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 171: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nGDPR privacy\n\n  ![Image 172: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 173: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Be sure that Short.io, as a data processor, is fully compliant with GDPR.\n\n\n\n\n\n | ![Image 174: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 175: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 176: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 177: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 178: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nLink import\n\n  ![Image 179: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 180: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Import your existing short URLs from other shorteners to Short.io.\n\n\n\n\n\n | ![Image 181: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 182: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 183: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 184: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 185: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nLink export\n\n  ![Image 186: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 187: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Export all your links at any moment simply by submitting a request to support. No fees are required.\n\n\n\n\n\n | ![Image 188: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 189: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 190: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 191: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 192: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n| \n\nA/B Testing\n\n  ![Image 193: tooltip](https://short.io/_astro/info.DvWKcbx1_Z1MqVPd.svg) ![Image 194: tooltip](https://short.io/_astro/info-dark.BpjbtkBz_EpHr9.svg)Evaluates the performance of two variants of a web page using split testing\n\n\n\n\n\n | ![Image 195: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 196: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 197: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 198: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) | ![Image 199: tick](https://short.io/_astro/tick.CfIpMu5k_Z1Hphv6.webp) |\n\nShort.io has different plans and offers the best prices.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "short_io",
+        "app_name": "Short.io",
+        "app_slug": "short-io",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes various tiers with specific limits and features.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "1 user",
+              "5 custom domains",
+              "1,000 branded links total",
+              "1,000 link automation",
+              "Unlimited redirects",
+              "50,000 tracked clicks per month",
+              "50 conversions per month",
+              "3 folders"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": null,
+              "api_calls": 1000,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "custom domains",
+                  "value": 5
+                },
+                {
+                  "name": "branded links total",
+                  "value": 1000
+                },
+                {
+                  "name": "tracked clicks per month",
+                  "value": 50000
+                },
+                {
+                  "name": "conversions per month",
+                  "value": 50
+                },
+                {
+                  "name": "folders",
+                  "value": 3
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Standard",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "1 user",
+              "7 custom domains",
+              "2,500 branded links total",
+              "2,500 link automation",
+              "Unlimited redirects",
+              "100,000 tracked clicks per month",
+              "200 conversions per month",
+              "5 folders",
+              "Country targeting",
+              "Referrer hiding"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": null,
+              "api_calls": 2500,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "custom domains",
+                  "value": 7
+                },
+                {
+                  "name": "branded links total",
+                  "value": 2500
+                },
+                {
+                  "name": "tracked clicks per month",
+                  "value": 100000
+                },
+                {
+                  "name": "conversions per month",
+                  "value": 200
+                },
+                {
+                  "name": "folders",
+                  "value": 5
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Advanced",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "1 user",
+              "10 custom domains",
+              "Unlimited branded links total",
+              "10,000 link automation per year",
+              "Unlimited redirects",
+              "Unlimited tracked clicks",
+              "Unlimited conversions",
+              "10 folders",
+              "Country targeting",
+              "Region targeting",
+              "Link expiration",
+              "Limit link clicks",
+              "Link cloaking",
+              "Password protection"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": null,
+              "api_calls": 10000,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "custom domains",
+                  "value": 10
+                },
+                {
+                  "name": "branded links total",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "tracked clicks per month",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "conversions per month",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "folders",
+                  "value": 10
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited users",
+              "50 custom domains",
+              "Unlimited branded links total",
+              "100,000 link automation per year",
+              "Unlimited redirects",
+              "Unlimited tracked clicks",
+              "Unlimited conversions",
+              "100 folders",
+              "Country targeting",
+              "Region targeting",
+              "Link expiration",
+              "Limit link clicks",
+              "Link cloaking",
+              "Password protection",
+              "Deep links",
+              "End-to-end encryption",
+              "SLA of 99.9% uptime"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": 100000,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "custom domains",
+                  "value": 50
+                },
+                {
+                  "name": "branded links total",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "tracked clicks per month",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "conversions per month",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "folders",
+                  "value": 100
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": null,
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited users",
+              "Unlimited custom domains",
+              "Unlimited branded links total",
+              "Unlimited link automation",
+              "Unlimited redirects",
+              "Unlimited tracked clicks",
+              "Unlimited conversions",
+              "Unlimited folders",
+              "Country targeting",
+              "Region targeting",
+              "Link expiration",
+              "Limit link clicks",
+              "Link cloaking",
+              "Password protection",
+              "Deep links",
+              "End-to-end encryption",
+              "SLA of 99.9% uptime",
+              "Export raw click data to S3",
+              "Multiple teams",
+              "Single sign-on (SSO)"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": "unlimited",
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "custom domains",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "branded links total",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "tracked clicks per month",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "conversions per month",
+                  "value": "unlimited"
+                },
+                {
+                  "name": "folders",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:24:36.550732",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\short-io\\20250415_072437"
+}

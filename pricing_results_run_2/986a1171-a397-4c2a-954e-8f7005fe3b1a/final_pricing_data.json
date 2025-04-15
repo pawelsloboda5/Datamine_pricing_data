@@ -1,0 +1,161 @@
+{
+  "app_id": "moxo",
+  "app_name": "Moxo",
+  "app_slug": "moxo",
+  "pricing_url": "https://www.moxo.com/pricing",
+  "source_url": "https://www.moxo.com/pricing",
+  "all_pricing_urls": [
+    "https://www.moxo.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are customized based on the plan and number of active users. Additional fees apply for add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Business",
+      "tier_description": "Workflow automation + collaboration to streamline your customer processes.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Workflow builder + templates",
+        "Approvals",
+        "Acknowledgements",
+        "File requests",
+        "Basic integrations",
+        "Basic automations",
+        "Messaging",
+        "Video meetings",
+        "File sharing with annotations",
+        "eSignatures",
+        "Meeting scheduler",
+        "Content library",
+        "Internal Portal",
+        "Magic Links",
+        "Logo + Branding",
+        "Personal productivity dashboard",
+        "Admin Portal",
+        "Unlimited workspace history"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10 GB / active user",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "basic",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Pro",
+      "tier_description": "Includes advanced integrations, automations, and management reporting.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Conditional logic",
+        "Shadow flows",
+        "Forms",
+        "Advanced integrations",
+        "Advanced automations",
+        "Management reporting dashboard",
+        "Audit (7 years)",
+        "SAML SSO",
+        "Dedicated Customer Success Manager",
+        "Custom onboarding",
+        "Client dashboard",
+        "Portal branding + configuration",
+        "Live chat",
+        "Service requests",
+        "Private-labeled app (iOS, Android)",
+        "Custom URL",
+        "Custom email domain"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "25 GB / active user",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "advanced",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For organizations that require enterprise controls and extensibility via APIs/SDKs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom business actions",
+        "Enterprise REST API",
+        "SDKs (iOS, Android, JavaScript, React Native, Cordova)",
+        "Incoming and outgoing Webhooks",
+        "Enterprise deployment options",
+        "Dedicated Technical Account Manager",
+        "Enterprise support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "250 GB / active user",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "advanced",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Private-labeled app",
+      "fee_amount": null,
+      "fee_description": "Launch your own private labeled mobile app on iOS and Android."
+    },
+    {
+      "fee_name": "Custom URL",
+      "fee_amount": null,
+      "fee_description": "Configure a custom URL for your Moxo instance."
+    },
+    {
+      "fee_name": "Custom email domain",
+      "fee_amount": null,
+      "fee_description": "Configure a custom email domain for your Moxo instance."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:09:28.752729",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "986a1171-a397-4c2a-954e-8f7005fe3b1a",
+    "name": "Moxo",
+    "slug": "moxo",
+    "description": "Moxo is a OneStop Client Interaction Hub.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/dd7592bd9b226a204f425bdd3d8ee8ca.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Collaboration"
+    ],
+    "category_slugs": [
+      "team-collaboration"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 23,
+    "trigger_count": 3
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "app_id": "skilljar",
+  "app_name": "Skilljar",
+  "app_slug": "skilljar",
+  "pricing_url": "https://www.skilljar.com/customer-lms-pricing",
+  "source_url": "https://www.skilljar.com/lms-pricing/",
+  "all_pricing_urls": [
+    "https://www.skilljar.com/customer-lms-pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page was not accessible, and no detailed pricing information was found.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:59:59.912921",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "36c4c41d-3ee9-4737-bda6-9f2bfecc26f5",
+    "name": "Skilljar",
+    "slug": "skilljar",
+    "description": "Skilljar's learning management system (LMS) enables businesses to create, deliver, and track online training courses.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/11b7a7a9c3b3fc2448a1ade2b0d39bc5_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

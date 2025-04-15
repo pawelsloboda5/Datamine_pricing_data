@@ -1,0 +1,158 @@
+{
+  "app_id": "asknicely",
+  "app_name": "AskNicely",
+  "app_slug": "asknicely",
+  "pricing_url": "https://www.asknicely.com/pricing",
+  "source_url": "https://www.asknicely.com/pricing",
+  "all_pricing_urls": [
+    "https://www.asknicely.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing scales with response volume and includes optional add-ons for additional features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Learn",
+      "tier_description": "Capture what matters most to customers with engaging CSAT and NPS surveys.",
+      "monthly_price": 449.0,
+      "annual_price": 5388.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited users",
+        "From 500 responses; price scales with response volume",
+        "AI powered surveys",
+        "Automated workflows",
+        "Reports and leaderboards"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Feedback Responses/Year",
+            "value": "From 500 responses; price scales with response volume"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Grow",
+      "tier_description": "Use customer feedback to make improvements and increase retention.",
+      "monthly_price": 849.0,
+      "annual_price": 10188.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Learn",
+        "AI Insight reports",
+        "Real-time TV display",
+        "Integrate Slack and Microsoft Teams",
+        "Assign feedback response",
+        "Request reviews",
+        "Generate testimonials"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Feedback Responses/Year",
+            "value": "From 500 responses; price scales with response volume"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Transform",
+      "tier_description": "Align your entire organization to deliver data-driven CX improvements.",
+      "monthly_price": 999.0,
+      "annual_price": 11988.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Grow",
+        "In app surveys",
+        "White label surveys",
+        "Unlimited API data extraction",
+        "Set CX goals & recognize achievements",
+        "Team huddles",
+        "Frontline coaching"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Feedback Responses/Year",
+            "value": "From 500 responses; price scales with response volume"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "SSO",
+      "fee_amount": 1500.0,
+      "fee_description": "Single Sign-On (SSO) for enhanced security and streamlined access."
+    },
+    {
+      "fee_name": "API Extracts (outbound API)",
+      "fee_amount": 1500.0,
+      "fee_description": "Outbound API access; inbound APIs included."
+    },
+    {
+      "fee_name": "External SMS Integration",
+      "fee_amount": null,
+      "fee_description": "Integration for external SMS services."
+    },
+    {
+      "fee_name": "Reputation Management",
+      "fee_amount": null,
+      "fee_description": "Powered by myPresences; includes full reputation and review monitoring suite."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:50:12.510529",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fe47b587-7ee3-40fe-8e24-0c4df0a98a54",
+    "name": "AskNicely",
+    "slug": "asknicely",
+    "description": "AskNicely is a simple way to measure and improve customer happiness using the Net Promoter Score\u00ae (NPS) framework.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/623c412527858e3bb2e0a3d2bd774490.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

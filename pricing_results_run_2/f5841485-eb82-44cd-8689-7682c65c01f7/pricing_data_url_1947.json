@@ -1,0 +1,47 @@
+{
+  "app_id": "123formbuilder",
+  "app_name": "123FormBuilder",
+  "app_slug": "123formbuilder",
+  "pricing_url": "https://www.123formbuilder.com/smart-pricing/",
+  "source_url": "https://www.123formbuilder.com/smart-pricing/",
+  "all_pricing_urls": [
+    "https://www.123formbuilder.com/smart-pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not accessible, and detailed tier information could not be retrieved.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:04:32.060509",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f5841485-eb82-44cd-8689-7682c65c01f7",
+    "name": "123FormBuilder",
+    "slug": "123formbuilder",
+    "description": "123FormBuilder is an easy way to create and use free html forms for your website using their online contact form generator!",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/0584e76a060ece26192175cc192cb58f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

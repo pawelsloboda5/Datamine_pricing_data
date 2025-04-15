@@ -1,0 +1,225 @@
+{
+  "app_id": "appfollow",
+  "app_name": "AppFollow",
+  "app_slug": "appfollow",
+  "pricing_url": "https://appfollow.io/pricing",
+  "source_url": "https://appfollow.io/pricing",
+  "all_pricing_urls": [
+    "https://appfollow.io/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is tiered with a free plan available. Enterprise pricing is custom and requires contact.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Fundamental insights for small teams and hobby projects.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "AI summary",
+        "Entry-level reply-to-reviews",
+        "Manual tags",
+        "Zendesk & Slack integrations",
+        "ASO tools",
+        "Rating & reviews analysis",
+        "30 days historical data access"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": 1000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Apps",
+            "value": 2
+          },
+          {
+            "name": "Manual replies",
+            "value": 100
+          },
+          {
+            "name": "Keywords",
+            "value": 1000
+          },
+          {
+            "name": "Competitors",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Essential",
+      "tier_description": "Wide range of enhanced tools for small and scaling business.",
+      "monthly_price": 139.0,
+      "annual_price": 1668.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Automated review translation",
+        "AI & auto-replies",
+        "Sentiment tags",
+        "Helpdesk integrations",
+        "AI keyword suggestions",
+        "Downloads by keywords",
+        "Full historical data access",
+        "Data export to CSV & Excel"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": 1000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Apps",
+            "value": 5
+          },
+          {
+            "name": "Manual replies",
+            "value": 500
+          },
+          {
+            "name": "Keywords",
+            "value": 3000
+          },
+          {
+            "name": "Competitors",
+            "value": 50
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Powerful automation tools and AI features for growing teams.",
+      "monthly_price": 459.0,
+      "annual_price": 5508.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Reporting spam reviews",
+        "Advanced AI & auto-replies",
+        "Semantic tags",
+        "Advanced API access",
+        "Exec report",
+        "Agent performance",
+        "Wordcloud",
+        "Full data export",
+        "Microsoft, Xbox, Amazon"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": 40000,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Apps",
+            "value": 5
+          },
+          {
+            "name": "Manual replies",
+            "value": 1500
+          },
+          {
+            "name": "Keywords",
+            "value": 9000
+          },
+          {
+            "name": "Competitors",
+            "value": 150
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Contact us today for a plan tailored to your needs, with advanced tools, flexible pricing, and dedicated support.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "AI semantic analysis, auto-replies, and auto-tags",
+        "Additional stores: Huawei AppGallery, Samsung Galaxy Store, and more",
+        "Custom roles, limits, and reporting",
+        "Priority support",
+        "Dedicated success manager"
+      ],
+      "limits": {
+        "users": "Custom",
+        "storage": null,
+        "operations": null,
+        "api_calls": "Custom",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Apps",
+            "value": "Custom"
+          },
+          {
+            "name": "Manual replies",
+            "value": "Custom"
+          },
+          {
+            "name": "Keywords",
+            "value": "Custom"
+          },
+          {
+            "name": "Competitors",
+            "value": "Custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "VAT",
+      "fee_amount": null,
+      "fee_description": "Plan prices apply to new users only and do not include VAT."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:09:03.876602",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "47a9c6ab-7f1b-4433-a464-10a14c3ce69c",
+    "name": "AppFollow",
+    "slug": "appfollow",
+    "description": "Appfollow is a one-stop platform for app analytics, app reviews management, and app store optimization. Get reviews from the App Store, Google Play to monitor and analyse them.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/aa85115765e0eb4fd79e31ab5a2164b3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Reviews"
+    ],
+    "category_slugs": [
+      "reviews"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 1
+  }
+}

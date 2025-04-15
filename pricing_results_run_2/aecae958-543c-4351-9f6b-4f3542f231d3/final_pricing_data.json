@@ -1,0 +1,141 @@
+{
+  "app_id": "dubsado",
+  "app_name": "Dubsado",
+  "app_slug": "dubsado",
+  "pricing_url": "https://www.dubsado.com/pricing",
+  "source_url": "https://www.dubsado.com/pricing",
+  "all_pricing_urls": [
+    "https://www.dubsado.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "usage_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Dubsado offers a free tier with no time limit, allowing up to 3 clients before requiring a subscription.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "The all-you-need basics for organized client management",
+      "monthly_price": 20.0,
+      "annual_price": 200.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited projects & clients",
+        "Invoicing & payment plans",
+        "Form & email templates",
+        "Email integration",
+        "Client portals",
+        "Calendar connection",
+        "Free email & live chat support",
+        "Mobile app access",
+        "Active lead capture forms"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active lead capture forms",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premier",
+      "tier_description": "Automation for growth and to enhance your client experience",
+      "monthly_price": 40.0,
+      "annual_price": 400.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Everything in the Starter plan",
+        "Scheduling",
+        "Automated workflows",
+        "Public proposals",
+        "Multiple lead captures at once",
+        "Zapier integration",
+        "Bookkeeping integration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Active lead capture forms",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Brands",
+      "unit": "per additional brand",
+      "base_price": 10.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Users",
+      "unit": "per user",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 4.0,
+          "max": 10.0,
+          "price": 25.0
+        },
+        {
+          "min": 11.0,
+          "max": 20.0,
+          "price": 45.0
+        },
+        {
+          "min": 21.0,
+          "max": 30.0,
+          "price": 60.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:48:41.391011",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "aecae958-543c-4351-9f6b-4f3542f231d3",
+    "name": "Dubsado",
+    "slug": "dubsado",
+    "description": "\u200bDubsado is a business management suite for the creative industry professionals. Sign contracts, manage tasks, and get paid.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/6999e9c98aad5f45b4af824c6273ff1b_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 4
+  }
+}

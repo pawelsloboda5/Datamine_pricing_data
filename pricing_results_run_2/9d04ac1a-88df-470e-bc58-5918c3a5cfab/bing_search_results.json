@@ -1,0 +1,19 @@
+{
+  "app_name": "Gist",
+  "app_slug": "gist",
+  "search_term": "Find the official pricing page URL for Gist (gist.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744721901.1885443,
+  "response_text": [
+    "The official pricing page for Gist is available here: [https://www.gist.com/pricing](https://www.gist.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.gist.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\gist\\20250415_085821"
+}

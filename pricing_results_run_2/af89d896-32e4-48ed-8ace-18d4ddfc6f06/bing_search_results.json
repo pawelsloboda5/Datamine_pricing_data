@@ -1,0 +1,12 @@
+{
+  "app_name": "Checkout Page",
+  "app_slug": "checkout-page",
+  "search_term": "Find the official pricing page URL for Checkout Page (checkout-page.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744707450.4091845,
+  "response_text": [
+    "I couldn't retrieve the link to the official pricing page for \"Checkout Page\" from checkout-page.com. The site may restrict browsing. You may need to visit their homepage directly for detailed pricing."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\checkout-page\\20250415_045730"
+}

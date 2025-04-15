@@ -1,0 +1,91 @@
+{
+  "app_id": "onenote",
+  "app_name": "OneNote",
+  "app_slug": "onenote",
+  "pricing_url": null,
+  "source_url": "https://www.onenote.com",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "OneNote is available for free with basic features. Additional features may be available through Microsoft Office 365 subscriptions.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features available for free.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Digital notebook for note-taking",
+        "Sketching and annotation",
+        "Voice transcription",
+        "Collaboration tools"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Office 365 Subscription",
+      "tier_description": "Enhanced features available through Office 365.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Integration with Office 365",
+        "Advanced collaboration tools",
+        "Additional storage"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:37:06.573636",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "af1f303d-0505-42d6-810a-1d7768eef039",
+    "name": "OneNote",
+    "slug": "onenote",
+    "description": "Microsoft OneNote is a note-taking app that makes it easy to capture and save ideas, images, audio recordings, and anything else you need to remember.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/e951e0105790e43b117e04b7bba34601.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Microsoft",
+      "Notes"
+    ],
+    "category_slugs": [
+      "microsoft",
+      "notes"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 6,
+    "trigger_count": 0
+  }
+}

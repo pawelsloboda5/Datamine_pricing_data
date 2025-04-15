@@ -1,0 +1,48 @@
+{
+  "app_id": "braintree",
+  "app_name": "Braintree",
+  "app_slug": "braintree",
+  "pricing_url": "https://www.braintreepayments.com/us/enterprise/payment-processing",
+  "source_url": "https://www.braintreepayments.com/pricing\u30103:0\u2020source\u3011.",
+  "all_pricing_urls": [
+    "https://www.braintreepayments.com/us/enterprise/payment-processing"
+  ],
+  "price_model_type": [
+    "custom",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are customized based on the business needs and are not publicly listed. A sandbox environment is available for testing.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:42:03.843793",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0928a94a-e162-4910-b746-7838c39f99f2",
+    "name": "Braintree",
+    "slug": "braintree",
+    "description": "With a first class API, great rates and instant approval, Braintree is the easiest way to accept payments anywhere online and via a mobile app.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/e8039e6400c52274f12fd1806d4ace6c.jpeg?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Payment Processing"
+    ],
+    "category_slugs": [
+      "payment-processing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 3
+  }
+}

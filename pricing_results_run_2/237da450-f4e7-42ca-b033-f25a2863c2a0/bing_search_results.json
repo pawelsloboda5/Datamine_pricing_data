@@ -1,0 +1,53 @@
+{
+  "app_name": "Feathery",
+  "app_slug": "feathery",
+  "search_term": "Find the official pricing page URL for Feathery (feathery.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744722092.1429224,
+  "response_text": [
+    "The official pricing page for Feathery is located at: https://feathery.com/pricing\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "feathery.com",
+      "url": "https://feathery.com/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://feathery.com/pricing\u30103:0\u2020source\u3011.",
+      "is_accessible": true,
+      "content": "No webpage was found for the web address: **https://feathery.com/pricing\u30103:0\u2020source\u3011.**\n\nHTTP ERROR 404\n\nNo webpage was found for the web address: **https://feathery.com/pricing\u30103:0\u2020source\u3011.**",
+      "error": null,
+      "pricing_data": {
+        "app_id": "feathery",
+        "app_name": "Feathery",
+        "app_slug": "feathery",
+        "pricing_url": "https://feathery.com/pricing",
+        "source_url": "https://feathery.com/pricing",
+        "all_pricing_urls": [
+          "https://feathery.com/pricing"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page returned a 404 error, indicating that detailed pricing information is not currently accessible.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:01:51.223826",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\feathery\\20250415_090151"
+}

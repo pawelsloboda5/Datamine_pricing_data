@@ -1,0 +1,24 @@
+{
+  "app_name": "Slybroadcast",
+  "app_slug": "slybroadcast",
+  "search_term": "Find the official pricing page URL for Slybroadcast (slybroadcast.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744689910.9019613,
+  "response_text": [
+    "The official pricing page for Slybroadcast can be found at: [https://www.slybroadcast.com/pricing](https://www.slybroadcast.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Ringless Voicemail Drops - Voicemail Messaging | Slybroadcast",
+      "url": "https://www.slybroadcast.com/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.slybroadcast.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\slybroadcast\\20250415_000515"
+}

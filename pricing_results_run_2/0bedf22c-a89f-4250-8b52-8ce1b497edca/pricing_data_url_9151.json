@@ -1,0 +1,222 @@
+{
+  "app_id": "leadinfo",
+  "app_name": "Leadinfo",
+  "app_slug": "leadinfo",
+  "pricing_url": "https://www.leadinfo.com/en/pricing/",
+  "source_url": "https://www.leadinfo.com/en/pricing/",
+  "all_pricing_urls": [
+    "https://www.leadinfo.com/en/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on identified companies and includes tiered subscription plans with additional usage-based pricing for identified companies.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Ideal for small businesses or startups wanting to identify key visitors without advanced features.",
+      "monthly_price": 69.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Real-time visitor identification",
+        "Database with +300M decision makers",
+        "Automated Lead scoring",
+        "67 free CRM integrations",
+        "Google Ads Integration",
+        "3 users & 3 automations",
+        "Customer Support via mail"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 67,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "Perfect for companies looking to significantly improve their lead generation with automation and deeper insights.",
+      "monthly_price": 159.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "GA4 & Looker Studio Integration",
+        "LinkedIn Ads Integration",
+        "HubSpot & MS Dynamics Integration",
+        "Visualize user behavior with Screen Recordings (7-day data retention)",
+        "10 users & 10 automations",
+        "Fully automated CRM data sharing",
+        "Use CRM data within Leadinfo for automation",
+        "Import customer data (max. 500 per upload) to automatically assign tags",
+        "Customer Support by Phone"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Customer data import",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For larger teams needing advanced automation, data management, and personalized support.",
+      "monthly_price": 359.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Matomo Integration",
+        "Salesforce & Marketo Integration",
+        "Unlimited users & automations",
+        "Mobile phone numbers",
+        "Visualize user behavior with Screen Recordings (14-day data retention)",
+        "Unlimited Imports of customer data to automatically assign tags",
+        "Dedicated Customer Success Manager",
+        "Personalized onboarding & Quarterly check-ins with CSM"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Customer data import",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Identified companies",
+      "unit": "per company",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 50.0,
+          "price": 69.0
+        },
+        {
+          "min": 51.0,
+          "max": 100.0,
+          "price": 99.0
+        },
+        {
+          "min": 101.0,
+          "max": 250.0,
+          "price": 159.0
+        },
+        {
+          "min": 251.0,
+          "max": 500.0,
+          "price": 209.0
+        },
+        {
+          "min": 501.0,
+          "max": 750.0,
+          "price": 259.0
+        },
+        {
+          "min": 751.0,
+          "max": 1000.0,
+          "price": 309.0
+        },
+        {
+          "min": 1001.0,
+          "max": 1500.0,
+          "price": 359.0
+        },
+        {
+          "min": 1501.0,
+          "max": 2000.0,
+          "price": 399.0
+        },
+        {
+          "min": 2001.0,
+          "max": 3000.0,
+          "price": 459.0
+        },
+        {
+          "min": 3001.0,
+          "max": 4000.0,
+          "price": 499.0
+        },
+        {
+          "min": 4001.0,
+          "max": 5000.0,
+          "price": 539.0
+        },
+        {
+          "min": 5001.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Autopilot",
+      "fee_amount": 39.0,
+      "fee_description": "Email & LinkedIn automation feature ensuring instant and personalized communication."
+    },
+    {
+      "fee_name": "Leadbot Business",
+      "fee_amount": 39.0,
+      "fee_description": "Feature to increase conversions by helping visitors quickly."
+    },
+    {
+      "fee_name": "Liquid content",
+      "fee_amount": 39.0,
+      "fee_description": "Dynamically adapt website to user preferences and behaviour."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:20:38.510254",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0bedf22c-a89f-4250-8b52-8ce1b497edca",
+    "name": "Leadinfo",
+    "slug": "leadinfo",
+    "description": "Identify B2B website visitors, simple and realtime. Free 14-day trial and no credit card required. Inbox with no complicated statistics, view your visitors as you view your e-mail.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/d494280705ef9d2b9d799653e2893596.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

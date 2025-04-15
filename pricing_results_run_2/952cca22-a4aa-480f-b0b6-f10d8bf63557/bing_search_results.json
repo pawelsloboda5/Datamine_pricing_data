@@ -1,0 +1,295 @@
+{
+  "app_name": "AppSheet",
+  "app_slug": "appsheet",
+  "search_term": "Find the official pricing page URL for AppSheet (appsheet.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744696638.0368912,
+  "response_text": [
+    "The official pricing page for AppSheet can be found at: [https://about.appsheet.com/pricing](https://about.appsheet.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | Google AppSheet",
+      "url": "https://about.appsheet.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://about.appsheet.com/pricing/",
+      "is_accessible": true,
+      "content": "    \nJump to Content  \n \n \n \n \n \n   \n   \n    \n  \n   \nAppSheet     \n \n \n \n How to create an app  \n Templates  \n Pricing  \n  \n Resources  expand_more  expand_less   \n \n \n AppSheet and Google Workspace  \n Customers  \n FAQ  \n Blog  \n Security  \n Help Center  \n Community  \n Partners     \n  Sign in    \n  Contact sales  Get started     \n \n \n \n  \n \n  How to create an app  \n  Templates  \n  Pricing  \n  Resources      \n \n  Sign in     \n \n \n \n   \nResources  \n  \n \n \n \n \n AppSheet and Google Workspace  \n Customers  \n FAQ  \n Blog    \n \n \n Security  \n Help Center  \n Community  \n Partners    \n    \n \n \n \n \n   \nAppSheet   \n \n \n \nResources  \n \n \n    \n \n \n \n \n AppSheet and Google Workspace  \n Customers  \n FAQ  \n Blog   \n \n Security  \n Help Center  \n Community  \n Partners     \n \n      \n  \n \n  How to create an app  \n  Templates  \n  Pricing  \n Resources     \n \n  Sign in  Contact sales  Get started          \n \n \n \n Start building and testing apps \nExplore the AppSheet platform and test your apps with up to 10 users at no cost. \nWhen you're ready, sign up for a plan and deploy your apps to the rest of your team.  \n  \n \n \n \n \nStarter \n \n$5USD \n/ user / month   Get started  \n \n  Basic application and automation features  \n  Connect to spreadsheets and cloud file storage providers  \n  AppSheet database    \n \nMost popular \n \nCore \n \n$10USD \n/ user / month   Get started  Included in most paid Google Workspace plans  \n \n  Advanced application and automation features  \n  Connect to spreadsheets and file storage providers  \n  Application security controls  \n  Email customer support  \n  AppSheet database    \n \n \nEnterprise Plus \n \n$20USD \n/ user / month  \nGet started  \n \n \nYou must be a Google Workspace Administrator to sign up for AppSheet Enterprise Plus \nIf you\u2019re an admin, please sign in below and you will be redirected to the purchase page \n  SIGN IN \nNot a Workspace customer? You can create a Google Workspace administrator account via Cloud Identity and manage your users in AppSheet. Learn more Create Admin Account     \n \n  Advanced application and automation features  \n  Connect to spreadsheets, cloud file storage, cloud databases, APIs, SaaS services, and enterprise data services  \n  Enhanced application security, team management, and governance controls  \n  Machine learning modeling  \n  Priority customer support  \n  AppSheet database      \n  \n \n \nYou must be a Google Workspace Administrator to sign up for AppSheet Enterprise Plus \n If you\u2019re an admin, please sign in below and you will be redirected to the purchase page \n  SIGN IN \nNot a Workspace customer? You can create a Google Workspace administrator account via Cloud Identity and manage your users in AppSheet. Learn more Create Admin Account    \n \n   \n   \n \n \n \n \n \nStarter \n \n$5USD \n/ user / month   Get started  \n \n  Basic application and automation features  \n  Connect to spreadsheets and cloud file storage providers  \n  AppSheet database     \n \nMost popular \n \n \nCore \n \n$10USD \n/ user / month   Get started  Included in most paid Google Workspace plans  \n \n  Advanced application and automation features  \n  Connect to spreadsheets and file storage providers  \n  Application security controls  \n  Email customer support  \n  AppSheet database     \n \n \n \nEnterprise Plus \n \n$20USD \n/ user / month  \nGet started  \n \n  Advanced application and automation features  \n  Connect to spreadsheets, cloud file storage, cloud databases, APIs, SaaS services, and enterprise data services  \n  Enhanced application security, team management, and governance controls  \n  Machine learning modeling  \n  Priority customer support  \n  AppSheet database       \n      \n      Get Started     \nStarter \nStarter \nUSD$5 / user / month  Get started   \nmost popular \nCore \nCore \nUSD$10 / user / month  Get started   \nEnterprise Plus \nEnterprise Plus \nRequest a quote Get started       \n \n \n \n Expand all   \n Collapse all     \n \n \n \n \n Basic App and Automation Features    \n   \n   \n    \n \n \n \nPublish apps with Tables, Galleries, charts, maps, and dashboards  \n   \n   \n    \n \n \nAdd branding, color themes, and localization  \n   \n   \n    \n \n \nCapture rich data using forms, checklists, locations, signatures, and photos  \n   \n   \n    \n \n \nRun apps offline with background sync  \n   \n   \n    \n \n \nSecure app sign-in via Google, MSFT, Dropbox, Box, etc.  \n   \n   \n    \n \n \nManage app users individually and by domain  \n   \n   \n    \n \n \nSensitive data management  \n   \n   \n    \n \n \nAppSheet databases: number of databases  \n \n5  \n \n10  \n \n200   \n \n \nAppSheet databases: number of rows per database  \n \n2500  \n \n2500  \n \n200,000   \n \n \nAutomate email, SMS and push notifications  \n   \n   \n    \n \n \nGoogle Workspace connectors (Sheets, Forms, Drive, Calendar, Docs)  \n   \n   \n    \n \n \nMicrosoft Excel connectors for Office 365, Dropbox, and Box  \n   \n   \n    \n \n \nAirtable and Smartsheet connectors  \n   \n   \n    \n \n \nDynamic emails in Gmail  \n   \n   \n    \n \n \nPDF document generation  \n   \n   \n     \n \n \n Standard Authentication Providers    \n   \n   \n    \n \n \n \nGoogle  \n   \n   \n    \n \n \nMicrosoft  \n   \n   \n    \n \n \nSalesforce.com  \n   \n   \n    \n \n \nDropbox  \n   \n   \n    \n \n \nBox  \n   \n   \n     \n \n \n Advanced App and Automation Features    \n   \n   \n    \n \n \n \nBarcode scanning and NFC  \n   \n   \n    \n \n \nAutomate data changes and webhooks from app events or on a schedule  \n   \n   \n    \n \n \nNatural Language Smart Assistant  \n   \n   \n     \n \n \n Application Security Controls    \n   \n   \n    \n \n \n \nManage users by roles and groups  \n   \n   \n    \n \n \nSecurity filters  \n   \n   \n    \n \n \nDynamic table update modes  \n   \n   \n    \n \n \nOn-device encryption  \n   \n   \n     \n \n \n Machine Learning    \n   \n   \n    \n \n \n \nOptical Character Recognition  \n   \n   \n    \n \n \nMachine learning modeling  \n   \n   \n     \n \n \n Advanced Data    \n   \n   \n    \n \n \n \nSalesforce.com  \n   \n   \n    \n \n \nOpenAPI  \n   \n   \n    \n \n \nExternal services and REST API's  \n   \n   \n    \n \n \nApigee connector  \n   \n   \n    \n \n \nBigQuery connector  \n   \n   \n     \n \n \n Advanced Authentication    \n   \n   \n    \n \n \n \nActive Directory  \n   \n   \n    \n \n \nOpenID Connect  \n   \n   \n    \n \n \nOkta  \n   \n   \n    \n \n \nCognito  \n   \n   \n     \n \n \n Advanced User and Data Management    \n   \n   \n    \n \n \n \nApp lifecycle management  \n   \n   \n    \n \n \nAutomated error reports  \n   \n   \n    \n \n \nUser activity tracking  \n   \n   \n     \n \n \n Team Collaboration    \n   \n   \n    \n \n \n \nShared data sources  \n   \n   \n    \n \n \nShared authentication sources  \n   \n   \n    \n \n \nShared connectors  \n   \n   \n    \n \n \nCentralized billing and shared licenses  \n   \n   \n     \n \n \n Enterprise Data Services    \n   \n   \n    \n \n \n \nOData  \n   \n   \n    \n \n \nGoogle AI (Doc AI)  \n   \n   \n     \n \n \n Governance & Scale    \n   \n   \n    \n \n \n \nResource allocation for performance  \n \nLow  \n \nLow  \n \nHigh   \n \n \nApp Audit Logs  \n   \n   \n    \n \n \nApp Version History  \n   \n   \n    \n \n \nRestrict who can create apps  \n   \n   \n    \n \n \nAutomated app creator reports and alerts  \n   \n   \n    \n \n \nExport team audit logs to BigQuery  \n   \n   \n    \n \n \nTransfer apps and databases between team members  \n   \n   \n    \n \n \nManage organization and team hierarchy  \n   \n   \n    \n \n \nTeam and organization governance policy enforcement  \n   \n   \n     \n \n \n Support    \n   \n   \n    \n \n \n \nAppSheet community  \n   \n   \n    \n \n \nHelp articles and documentation  \n   \n   \n    \n \n \nContact support via email  \n   \n   \n    \n \n \nPriority support  \n   \n   \n         \n \n \n \nFrequently Asked Questions  \n \n \n \n \n  Expand all  Collapse all    \n \n  How can I create, update, or delete my subscription?    \n \n\nIf you are a Google Workspace customer, your admin can manage subscriptions through the Google Admin Console. If you have an individual account, please follow these instructions on how to manage your subscription plan.   \n \n  What can I do at no cost?    \n \n\nUse basic app and automation features at no cost while building one or many app prototypes. Invite up to 10 test users at no cost to use your apps and share feedback.   \n \n  If I\u2019m a Google Workspace customer, what do I have access to?    \n \n\nSome Google Workspace subscriptions include access to AppSheet Core for creating and sharing applications within the organization, with options to upgrade to AppSheet Enterprise for advanced integrations and admin governance features. Learn More   \n \n  How do I start my subscription?    \n \n\nIf you are a Google Workspace customer, your admin can manage subscriptions through the Google Admin Console. If you have an individual account, visit the billing settings on the My Account page of the AppSheet platform. Choose your subscription based on the features your apps require. You can also update the number of app user licenses and your credit card details.   \n \n  Where can I monitor my app usage?    \n \n\nAn overview of all your app usage is available in the 'My Account' section of the platform, within the 'App Info' tab. Detailed app usage is also available in the app editor in the Manage section within the Monitor tab of each app.   \n \n  How long do I have to test features?    \n \n\nAs long as you'd like. We encourage you to try out all the features of the platform in the prototype phase for one or multiple apps.   \n \n  How does AppSheet define a user?    \n \n\nThere are two types of users: signed-in users and guest/external users. AppSheet will count unique individuals that have signed in across all apps in your account as signed-in users. Users that are not signed in are counted as guest users. That means that if an employee opens an app that does not require sign in on two devices, AppSheet will count two guest users rather than one. Note that while guest users are typically counted by device, a new guest user could be generated anytime someone opens your app based on their device settings. You need to purchase the number of licenses equal to the total number of users (signed-in and guest/external) you plan to have.   \n \n  Is there a discount for non-profits?    \n \n\nYes, we offer discounts for educational and non-profit organizations with verification of tax-exempt status.   \n \n  How often does AppSheet bill subscribers?    \n \n\nBilling is based on your plan and will either occur monthly or annually.   \n \n  Where can I see my invoices?    \n \n\nIf you are a Google Workspace customer, your admin can manage billing through the Google Admin Console. If you have an individual account, monthly subscriptions are automatically invoiced, and transaction history is available in the Billing tab of the My Account page.   \n \n  Is AI-assisted app creation in AppSheet available to me?    \n \n\nAI-assisted app creation is available to AppSheet users with paid Google Workspace licenses. More details are available in the AppSheet Documentation.   \n \n  Is it possible to purchase AppSheet without purchasing Google Workspace?    \n \n\nYes, if you are using AppSheet for an individual account, then you can sign up for AppSheet Starter, Core, or Publisher Pro without a Google Workspace account. If you are purchasing AppSheet Core or AppSheet Enterprise Plus on behalf of your organization, you can sign up for Cloud Identity Free and then complete the purchase in the Google Admin Console. Note that you will need to verify ownership of your domain to complete the purchase.         \n \n \n \n \nNeed Public Apps? \nPublicly accessible applications that don't contain sensitive data and don't require user sign-in can be created with an AppSheet Publisher Pro subscription. These apps include the feature sets of the AppSheet Core Plan, but do not include user sign-in options or the use of security filters. Publisher Pro apps can be used by an unlimited number of users for $50/mo/app. Learn more  \n     \n \n \n \nTry AppSheet at no cost \nUse the app editor and process designer at no cost. Try every feature of the platform with up to 10 test users. Get started  \n        \n \nFooter links  \n     \n \n About Google  \n Google products  \n Privacy  \n Terms  \n \n Cookies management controls    \n \n language  \n English\n\nGoogle AppSheet plans start as low as $5 per user per month for Starter or $10 per user per month for Core. Enterprise pricing is also available on request.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "appsheet",
+        "app_name": "AppSheet",
+        "app_slug": "appsheet",
+        "pricing_url": "https://www.appsheet.com/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://www.appsheet.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "AppSheet offers a free tier for testing with up to 10 users and provides discounts for educational and non-profit organizations.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Starter",
+            "tier_description": "Basic application and automation features.",
+            "monthly_price": 5.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Basic application and automation features",
+              "Connect to spreadsheets and cloud file storage providers",
+              "AppSheet database"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "AppSheet databases",
+                  "value": 5
+                },
+                {
+                  "name": "Rows per database",
+                  "value": 2500
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Core",
+            "tier_description": "Advanced application and automation features.",
+            "monthly_price": 10.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Advanced application and automation features",
+              "Connect to spreadsheets and file storage providers",
+              "Application security controls",
+              "Email customer support",
+              "AppSheet database"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "AppSheet databases",
+                  "value": 10
+                },
+                {
+                  "name": "Rows per database",
+                  "value": 2500
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise Plus",
+            "tier_description": "Advanced features for enterprise use.",
+            "monthly_price": 20.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Advanced application and automation features",
+              "Connect to spreadsheets, cloud file storage, cloud databases, APIs, SaaS services, and enterprise data services",
+              "Enhanced application security, team management, and governance controls",
+              "Machine learning modeling",
+              "Priority customer support",
+              "AppSheet database"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "AppSheet databases",
+                  "value": 200
+                },
+                {
+                  "name": "Rows per database",
+                  "value": 200000
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Public apps",
+            "unit": "per app",
+            "base_price": 50.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Non-profit discount",
+            "offer_description": "Discounts for educational and non-profit organizations with verification of tax-exempt status.",
+            "discount_percentage": null,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T01:57:28.175618",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://about.appsheet.com/pricing",
+      "is_accessible": true,
+      "content": "Jump to Content\n\nAppSheet\n\nContact sales\nGet started\nHow to create an app\nTemplates\nPricing\nResources\nSign in\nStart building and testing apps\n\nExplore the AppSheet platform and test your apps with up to 10 users at no cost.\nWhen you're ready, sign up for a plan and deploy your apps to the rest of your team.\n\nStarter\n$5USD\n/ user / month\nGet started\nBasic application and automation features\nConnect to spreadsheets and cloud file storage providers\nAppSheet database\nMOST POPULAR\nCore\n$10USD\n/ user / month\nGet started\nIncluded in most paid Google Workspace plans\nAdvanced application and automation features\nConnect to spreadsheets and file storage providers\nApplication security controls\nEmail customer support\nAppSheet database\nEnterprise Plus\n$20USD\n/ user / month\nGet started\nAdvanced application and automation features\nConnect to spreadsheets, cloud file storage, cloud databases, APIs, SaaS services, and enterprise data services\nEnhanced application security, team management, and governance controls\nMachine learning modeling\nPriority customer support\nAppSheet database\n\t\nStarter\nUSD$5 / user / month\nGet started\n\t\nCore\nUSD$10 / user / month\nGet started\n\t\nEnterprise Plus\nRequest a quote\nGet started\nExpand all\nBasic App and Automation Features \nStandard Authentication Providers \nAdvanced App and Automation Features \nApplication Security Controls \nMachine Learning \nAdvanced Data \nAdvanced Authentication \nAdvanced User and Data Management \nTeam Collaboration \nEnterprise Data Services \nGovernance & Scale \nSupport \nFrequently Asked Questions\nExpand all\nHow can I create, update, or delete my subscription?\nWhat can I do at no cost?\nIf I\u2019m a Google Workspace customer, what do I have access to?\nHow do I start my subscription?\nWhere can I monitor my app usage?\nHow long do I have to test features?\nHow does AppSheet define a user?\nIs there a discount for non-profits?\nHow often does AppSheet bill subscribers?\nWhere can I see my invoices?\nIs AI-assisted app creation in AppSheet available to me?\nIs it possible to purchase AppSheet without purchasing Google Workspace?\nNeed Public Apps?\n\nPublicly accessible applications that don't contain sensitive data and don't require user sign-in can be created with an AppSheet Publisher Pro subscription. These apps include the feature sets of the AppSheet Core Plan, but do not include user sign-in options or the use of security filters. Publisher Pro apps can be used by an unlimited number of users for $50/mo/app.\n\nLearn more\nTry AppSheet at no cost\n\nUse the app editor and process designer at no cost. Try every feature of the platform with up to 10 test users.\n\nGet started\nFooter links\nAbout Google\nGoogle products\nPrivacy\nTerms\nlanguage\nEnglish\n\nGoogle AppSheet plans start as low as $5 per user per month for Starter or $10 per user per month for Core. Enterprise pricing is also available on request.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "appsheet",
+        "app_name": "AppSheet",
+        "app_slug": "appsheet",
+        "pricing_url": "https://www.appsheet.com/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://www.appsheet.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "AppSheet offers a free tier for testing with up to 10 users and provides detailed pricing for its subscription plans.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Starter",
+            "tier_description": "Basic application and automation features.",
+            "monthly_price": 5.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Basic application and automation features",
+              "Connect to spreadsheets and cloud file storage providers",
+              "AppSheet database"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Core",
+            "tier_description": "Advanced application and automation features.",
+            "monthly_price": 10.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Advanced application and automation features",
+              "Connect to spreadsheets and file storage providers",
+              "Application security controls",
+              "Email customer support",
+              "AppSheet database"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise Plus",
+            "tier_description": "Advanced application and automation features with enterprise-level controls.",
+            "monthly_price": 20.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Advanced application and automation features",
+              "Connect to spreadsheets, cloud file storage, cloud databases, APIs, SaaS services, and enterprise data services",
+              "Enhanced application security, team management, and governance controls",
+              "Machine learning modeling",
+              "Priority customer support",
+              "AppSheet database"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Publisher Pro",
+            "tier_description": "For publicly accessible applications without user sign-in.",
+            "monthly_price": 50.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Feature sets of the AppSheet Core Plan",
+              "No user sign-in options",
+              "No use of security filters"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T01:57:40.247361",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\appsheet\\20250415_015740"
+}

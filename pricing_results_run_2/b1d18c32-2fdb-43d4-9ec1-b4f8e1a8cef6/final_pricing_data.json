@@ -1,0 +1,150 @@
+{
+  "app_id": "inoreader",
+  "app_name": "Inoreader",
+  "app_slug": "inoreader",
+  "pricing_url": "https://www.inoreader.com/",
+  "source_url": "https://www.inoreader.com/pricing",
+  "all_pricing_urls": [
+    "https://www.inoreader.com/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "custom"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier, a Pro subscription, and custom plans with add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Great for beginners. Follow RSS feeds, search in your articles, get Google News alerts, and customize your view.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Follow RSS feeds",
+        "Search in articles",
+        "Google News alerts",
+        "Customize view"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "RSS feeds/subscriptions",
+            "value": 150
+          },
+          {
+            "name": "Web feeds & Track changes",
+            "value": 20
+          },
+          {
+            "name": "Newsletter feeds",
+            "value": 20
+          },
+          {
+            "name": "Bluesky feeds",
+            "value": 30
+          },
+          {
+            "name": "Monitoring feeds",
+            "value": 30
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Create monitoring feeds, apply filters and rules, and subscribe to newsletters. Follow social media feeds and websites without RSS.",
+      "monthly_price": 9.99,
+      "annual_price": 90.0,
+      "annual_discount_percentage": 24.92,
+      "setup_fee": null,
+      "features": [
+        "Monitoring feeds",
+        "Filters and rules",
+        "Subscribe to newsletters",
+        "Follow social media feeds",
+        "Follow websites without RSS"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "RSS feeds/subscriptions",
+            "value": 2500
+          },
+          {
+            "name": "Web feeds & Track changes",
+            "value": "unlimited"
+          },
+          {
+            "name": "Newsletter feeds",
+            "value": "unlimited"
+          },
+          {
+            "name": "Bluesky feeds",
+            "value": "unlimited"
+          },
+          {
+            "name": "Monitoring feeds",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Build a plan that suits your needs with our special add-ons (Web feeds, monitoring feeds, boosted feeds, and other features) and access our API.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom add-ons",
+        "API access"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:03:57.690697",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b1d18c32-2fdb-43d4-9ec1-b4f8e1a8cef6",
+    "name": "Inoreader",
+    "slug": "inoreader",
+    "description": "Inoreader is a news reader designed to save you time. Harness the power of RSS to automate content discovery, collection, and distribution.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/18c592f144baaf8874306a91fa7daf8e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders"
+    ],
+    "category_slugs": [
+      "cms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 4
+  }
+}

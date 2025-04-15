@@ -1,0 +1,110 @@
+{
+  "app_id": "remember_the_milk",
+  "app_name": "Remember The Milk",
+  "app_slug": "remember-the-milk",
+  "pricing_url": "https://www.rememberthemilk.com/account/order/",
+  "source_url": "https://www.rememberthemilk.com/upgrade/",
+  "all_pricing_urls": [
+    "https://www.rememberthemilk.com/account/order/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on an annual subscription model for the Pro tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Free tier with limited features.",
+      "monthly_price": null,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Web, desktop, and mobile apps",
+        "Seamless sync between your computers and devices",
+        "Integration with Gmail, Google Calendar, and Evernote",
+        "Add tasks with email, Alexa, Siri, and Twitter",
+        "Give tasks to others",
+        "Reminders via email, text, IM, and Twitter",
+        "Share lists with up to 2 others",
+        "Archive of completed tasks for the last 7 days"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "Last 7 days",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Paid tier with advanced features.",
+      "monthly_price": null,
+      "annual_price": 49.99,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited sharing",
+        "Advanced sharing permissions",
+        "Subtasks",
+        "Advanced sorting and grouping",
+        "Choose from 100+ beautiful themes",
+        "Customizable tag colors",
+        "Attachments with Dropbox and Google Drive",
+        "Work offline in the web app",
+        "Badges and widgets for the mobile apps",
+        "Create shortcuts with the Shortcuts app",
+        "Apple Watch app",
+        "Sync with Microsoft Outlook",
+        "Automate tasks with MilkScript",
+        "Integration with IFTTT",
+        "Integration with Zapier",
+        "Early access tester program",
+        "Priority support",
+        "Unlimited archive of completed tasks"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:15:36.635604",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ba281aee-e51f-4ea5-8f4e-c67db9ef4bf1",
+    "name": "Remember The Milk",
+    "slug": "remember-the-milk",
+    "description": "Remember The Milk is the smart to-do app for busy people.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/7ca248d10ae180ca1428b40e6aa4c057.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "todo-lists"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 8
+  }
+}

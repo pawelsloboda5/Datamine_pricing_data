@@ -1,0 +1,19 @@
+{
+  "app_name": "Stacker",
+  "app_slug": "stacker",
+  "search_term": "Find the official pricing page URL for Stacker (stacker.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744721577.2219903,
+  "response_text": [
+    "I could not locate the exact URL for Stacker's official pricing page. You might try reaching out directly on their website, [stacker.com](https://stacker.com). If you'd like, I can assist further or refine the search."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://stacker.com",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 451"
+    }
+  ],
+  "results_directory": "pricing_results\\stacker\\20250415_085258"
+}

@@ -1,0 +1,153 @@
+{
+  "app_id": "segmetrics",
+  "app_name": "SegMetrics",
+  "app_slug": "segmetrics",
+  "pricing_url": "https://segmetrics.io/pricing/",
+  "source_url": "https://segmetrics.io/pricing",
+  "all_pricing_urls": [
+    "https://segmetrics.io/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on active email subscribers and includes a 14-day free trial.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Launch",
+      "tier_description": "Track attribution, engagement and lifetime value throughout the entire customer journey.",
+      "monthly_price": 48.0,
+      "annual_price": 480.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Full Funnel Analytics",
+        "Essentials Reporting",
+        "100+ Integrations",
+        "Unlimited Users",
+        "Full LTV Tracking",
+        "Training & Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Grow",
+      "tier_description": "Includes all features in Launch plus advanced reporting and segmentation.",
+      "monthly_price": 164.0,
+      "annual_price": 1640.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Advanced Reporting",
+        "Customer Journey Tracking",
+        "Ad Conversion Feeder",
+        "Advanced Segmentation",
+        "1-on-1 Onboarding"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "Includes all features in Grow plus advanced APIs and custom dashboards.",
+      "monthly_price": 331.0,
+      "annual_price": 3310.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Advanced Data APIs",
+        "Custom Dashboards",
+        "Server-Side Tracking",
+        "Multi-Currency Conversion",
+        "Dedicated Account Manager"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Complete analytics, reporting and support for companies over $10M/year in revenue.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom solutions tailored to enterprise needs"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Active Email Subscribers",
+      "unit": "per subscriber",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Billing Discount",
+      "offer_description": "Get 2 months free with annual billing.",
+      "discount_percentage": 16.67,
+      "offer_url": "https://segmetrics.io/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:02:52.628784",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d3ac9480-98af-40d0-b980-50454e54b704",
+    "name": "SegMetrics",
+    "slug": "segmetrics",
+    "description": "SegMetrics gives you clarity on where your leads come from, how they act, and how much your marketing is really worth.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/59ac2efc15326c0d6a4ee821d27f02b5.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Analytics"
+    ],
+    "category_slugs": [
+      "analytics"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 6,
+    "trigger_count": 0
+  }
+}

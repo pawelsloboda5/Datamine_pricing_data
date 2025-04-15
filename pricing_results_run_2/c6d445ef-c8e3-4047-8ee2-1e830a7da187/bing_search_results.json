@@ -1,0 +1,24 @@
+{
+  "app_name": "Klaviyo",
+  "app_slug": "klaviyo",
+  "search_term": "Find the official pricing page URL for Klaviyo (klaviyo.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744687451.0098052,
+  "response_text": [
+    "The official pricing page for Klaviyo is located at: [https://www.klaviyo.com/pricing](https://www.klaviyo.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Klaviyo Pricing: B2C CRM, Email & SMS Marketing Pricing",
+      "url": "https://www.klaviyo.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.klaviyo.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\klaviyo\\20250414_232426"
+}

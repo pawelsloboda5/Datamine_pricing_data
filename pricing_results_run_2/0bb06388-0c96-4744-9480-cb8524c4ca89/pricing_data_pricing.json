@@ -1,0 +1,162 @@
+{
+  "app_id": "intercom",
+  "app_name": "Intercom",
+  "app_slug": "intercom",
+  "pricing_url": "https://www.intercom.com/pricing",
+  "source_url": "https://www.intercom.com/pricing",
+  "all_pricing_urls": [
+    "https://www.intercom.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription-based plans and usage-based pricing for AI resolutions and messaging channels.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essential",
+      "tier_description": "The customer support plan for individuals, startups, and small businesses.",
+      "monthly_price": 29.0,
+      "annual_price": 348.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Fin AI agent ($0.99 per resolution)",
+        "Messenger",
+        "Shared inbox and ticketing system",
+        "Pre-built reports",
+        "Public help center"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Powerful automation tools and AI features for growing support teams.",
+      "monthly_price": 85.0,
+      "annual_price": 1020.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Every Essential feature",
+        "Multiple team inboxes",
+        "Workflows automation builder",
+        "Round robin assignment",
+        "Private and multilingual help center",
+        "Includes 20 free Lite seats"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Expert",
+      "tier_description": "Collaboration, security, and multibrand features for large support teams.",
+      "monthly_price": 132.0,
+      "annual_price": 1584.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Every Advanced feature",
+        "SSO & identity management",
+        "HIPAA support",
+        "Service level agreements (SLAs)",
+        "Multibrand messenger and help center",
+        "Includes 50 free Lite seats"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Fin AI Agent Resolutions",
+      "unit": "per resolution",
+      "base_price": 0.99,
+      "tiers": null
+    },
+    {
+      "metric_name": "Proactive Support Plus Messages Sent",
+      "unit": "per message",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 501.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": true,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Intercom for Startups",
+      "offer_description": "Get a 90% discount with Intercom for startups.",
+      "discount_percentage": 90.0,
+      "offer_url": "https://www.intercom.com/early-stage",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Proactive Support Plus",
+      "fee_amount": 99.0,
+      "fee_description": "Advanced in-app and outbound support features including Posts, Checklists, Product Tours, Surveys, and Series campaign builder."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:57:52.583634",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0bb06388-0c96-4744-9480-cb8524c4ca89",
+    "name": "Intercom",
+    "slug": "intercom",
+    "description": "Intercom is the Engagement OS, an open channel between customer and business that is in the product, in the moment, and on their terms. We break down silos, unifying data and systems to create an ongoing dialogue, so companies can make the most of every opportunity.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/355a21cce3c24ba339538173ede2ee44.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 25,
+    "trigger_count": 15
+  }
+}

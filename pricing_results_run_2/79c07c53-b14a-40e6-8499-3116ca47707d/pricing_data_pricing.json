@@ -1,0 +1,163 @@
+{
+  "app_id": "simplesat",
+  "app_name": "Simplesat",
+  "app_slug": "simplesat",
+  "pricing_url": "https://www.simplesat.io/pricing/",
+  "source_url": "https://www.simplesat.io/pricing",
+  "all_pricing_urls": [
+    "https://www.simplesat.io/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes multiple tiers with annual and monthly billing options. Enterprise tier requires contacting sales for a quote.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": null,
+      "monthly_price": 119.0,
+      "annual_price": 109.0,
+      "annual_discount_percentage": 8.4,
+      "setup_fee": null,
+      "features": [
+        "5 account users",
+        "Unlimited team members",
+        "1k monthly responses",
+        "Unlimited surveys",
+        "Unlimited support agents"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly responses",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": null,
+      "monthly_price": 249.0,
+      "annual_price": 229.0,
+      "annual_discount_percentage": 8.0,
+      "setup_fee": null,
+      "features": [
+        "15 account users",
+        "Unlimited team members",
+        "3k monthly responses",
+        "Everything in Standard",
+        "Multi-brand support",
+        "Custom CSS"
+      ],
+      "limits": {
+        "users": 15,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly responses",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Elite",
+      "tier_description": null,
+      "monthly_price": 499.0,
+      "annual_price": 459.0,
+      "annual_discount_percentage": 8.0,
+      "setup_fee": null,
+      "features": [
+        "30 account users",
+        "Unlimited team members",
+        "7k monthly responses",
+        "Everything in Pro",
+        "Custom email templates"
+      ],
+      "limits": {
+        "users": 30,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly responses",
+            "value": 7000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Elite",
+        "Usage based pricing",
+        "Directory Sync",
+        "Design and code support",
+        "Dedicated CSM",
+        "Enterprise SSO"
+      ],
+      "limits": {
+        "users": "Usage based",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly responses",
+            "value": "Usage based"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:30:32.741522",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "79c07c53-b14a-40e6-8499-3116ca47707d",
+    "name": "Simplesat",
+    "slug": "simplesat",
+    "description": "Simplesat is a survey tool that makes it easy for any business to collect, analyze and publish customer feedback.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/25590e3295cfd422b85d7e6798b68a54.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 6,
+    "trigger_count": 0
+  }
+}

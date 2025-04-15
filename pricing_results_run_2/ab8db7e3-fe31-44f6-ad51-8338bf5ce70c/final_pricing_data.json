@@ -1,0 +1,78 @@
+{
+  "app_id": "glide",
+  "app_name": "Glide",
+  "app_slug": "glide",
+  "pricing_url": "https://www.glideapps.com/pricing",
+  "source_url": "https://www.glideapps.com/pricing",
+  "all_pricing_urls": [
+    "https://www.glideapps.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Glide offers both subscription-based and quote-based pricing models, with a free tier available for initial use.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Glide Solutions",
+      "tier_description": "Premium custom solution built by a top Agency Partner.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 10000.0,
+      "features": [
+        "Work with Glide and an Agency Partner",
+        "Import data from 100+ sources",
+        "Glide Priority Support"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Hire an Expert",
+      "tier_description": "Work with a Glide Certified Expert for project needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": 2000.0,
+      "features": [
+        "Hire hourly or by project",
+        "Work with a Certified Expert",
+        "Glide Support"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:49:34.157385",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ab8db7e3-fe31-44f6-ad51-8338bf5ce70c",
+    "name": "Glide",
+    "slug": "glide-apps",
+    "description": "Glide gives you the powers of a developer and a designer. Create remarkable tools to solve the business problems you thought you never could.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/7a1cad655cc1844dcb3faea339b1fac1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "App Builder"
+    ],
+    "category_slugs": [
+      "app-builder"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 4,
+    "trigger_count": 0
+  }
+}

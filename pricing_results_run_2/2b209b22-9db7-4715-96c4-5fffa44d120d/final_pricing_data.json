@@ -1,0 +1,143 @@
+{
+  "app_id": "sharefile",
+  "app_name": "ShareFile",
+  "app_slug": "sharefile",
+  "pricing_url": "https://www.sharefile.com/plans-pricing",
+  "source_url": "https://www.sharefile.com/pricing",
+  "all_pricing_urls": [
+    "https://www.sharefile.com/plans-pricing",
+    "https://www.sharefile.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user per month with a minimum user requirement for each tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Advanced",
+      "tier_description": null,
+      "monthly_price": 16.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Threat detection alerts",
+        "Encrypted email",
+        "Feedback & approval",
+        "Email plug-ins for Outlook and Google Workspace"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Most popular",
+      "monthly_price": 25.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Advanced features",
+        "All the e-signatures you need",
+        "Rapid client onboarding",
+        "Document request lists",
+        "HIPAA eligible",
+        "SEC+FINRA eligible",
+        "AI-driven secure share recommender"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Industry Advantage",
+      "tier_description": null,
+      "monthly_price": 41.67,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Premium features",
+        "Pre-configured accounting workflows",
+        "Integrated client onboarding",
+        "Customized tax user experience",
+        "Ready-to-use custom tax templates",
+        "Automated engagement letters",
+        "Easily import files from popular accounting programs"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Virtual Data Room",
+      "tier_description": null,
+      "monthly_price": 67.5,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All the e-signatures you need",
+        "Click trails",
+        "Visibility analytics and reporting",
+        "1 GB of account storage per license"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "1 GB per license",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:36:19.386698",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "2b209b22-9db7-4715-96c4-5fffa44d120d",
+    "name": "ShareFile",
+    "slug": "sharefile",
+    "description": "Securely send, store, and share files \u2013 plus discover document workflows designed to improve your client experience.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/0f2f99ee0616137ed49a275be58053aa.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Content & Files"
+    ],
+    "category_slugs": [
+      "content-files"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 1
+  }
+}

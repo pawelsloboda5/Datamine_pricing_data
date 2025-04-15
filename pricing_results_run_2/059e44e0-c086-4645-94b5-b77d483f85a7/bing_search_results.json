@@ -1,0 +1,12 @@
+{
+  "app_name": "iNCOM Canada",
+  "app_slug": "incom",
+  "search_term": "Find the official pricing page URL for iNCOM Canada (incom.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725751.9300978,
+  "response_text": [
+    "I couldn't locate the exact pricing page for iNCOM Canada on their website. Can you provide additional details or confirm the domain?"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\incom\\20250415_100232"
+}

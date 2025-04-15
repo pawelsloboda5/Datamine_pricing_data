@@ -1,0 +1,12 @@
+{
+  "app_name": "Elective",
+  "app_slug": "elective",
+  "search_term": "Find the official pricing page URL for Elective (elective.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744719825.5037491,
+  "response_text": [
+    "I couldn't locate a direct pricing page URL on the Elective website or its resources. You may need to contact their sales representative or explore their website further for specific pricing information. Let me know if I can assist with something else!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\elective\\20250415_082346"
+}

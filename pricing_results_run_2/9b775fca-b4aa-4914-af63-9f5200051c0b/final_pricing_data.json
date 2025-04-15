@@ -1,0 +1,47 @@
+{
+  "app_id": "procore",
+  "app_name": "Procore",
+  "app_slug": "procore",
+  "pricing_url": "https://www.procore.com/pricing",
+  "source_url": "https://www.procore.com/products/pricing",
+  "all_pricing_urls": [
+    "https://www.procore.com/pricing"
+  ],
+  "price_model_type": [
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Procore's pricing is not publicly disclosed and is based on a quote-based model tailored to customer needs.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:01:35.745725",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9b775fca-b4aa-4914-af63-9f5200051c0b",
+    "name": "Procore",
+    "slug": "procore",
+    "description": "Procore is a construction project management platform built in the cloud.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/279508a9dc8c7311d505587d7045e481.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 38,
+    "trigger_count": 25
+  }
+}

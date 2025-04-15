@@ -1,0 +1,187 @@
+{
+  "app_id": "vocal_video",
+  "app_name": "Vocal Video",
+  "app_slug": "vocal-video",
+  "pricing_url": "https://vocalvideo.com/pricing",
+  "source_url": "https://vocalvideo.com/pricing",
+  "all_pricing_urls": [
+    "https://vocalvideo.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "All plans are billed annually, with specific features and limits for each tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "For individuals and teams looking to get started 100% free.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Publish 5 pro-style videos",
+        "720p resolution videos with watermark",
+        "20 minutes of video processing per month",
+        "Up to 5 video editors",
+        "1 video collector",
+        "1 brand"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "video processing",
+            "value": "20 minutes/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Essential Quarterly",
+      "tier_description": "For teams satisfied with standard publishing features, brand control, and legal releases.",
+      "monthly_price": 69.0,
+      "annual_price": 828.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited video publishing",
+        "1080p resolution videos without watermark",
+        "4 hours of video processing per year",
+        "1+ video editor",
+        "3 video collectors",
+        "1 brand",
+        "No watermarks",
+        "Unlimited video downloads",
+        "Control video visibility & SEO",
+        "Integrate with 6,000+ apps"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 6000,
+        "custom_limits": [
+          {
+            "name": "video processing",
+            "value": "4 hours/year"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For teams that need advanced publishing features, custom legal releases, workspaces, and more.",
+      "monthly_price": 139.0,
+      "annual_price": 1668.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited video publishing",
+        "1080p resolution videos without watermark",
+        "6 hours of video processing per year",
+        "1+ video editor",
+        "10 video collectors",
+        "Multiple brands",
+        "AI Effects (BG blur & removal)",
+        "White-labeled video collection",
+        "Custom releases & waivers",
+        "Pro video themes & fonts",
+        "API & analytics integration",
+        "Kiosk mode for live events"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "video processing",
+            "value": "6 hours/year"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For organizations that want to scale with full support, governance, and security.",
+      "monthly_price": 1000.0,
+      "annual_price": 12000.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited video publishing",
+        "Custom video processing limits",
+        "Custom user limits",
+        "Custom video collector limits",
+        "Multiple brands & workspaces",
+        "Single Sign-on (SSO)",
+        "Org-wide admin & analytics",
+        "Brand lockdown & control",
+        "Custom fonts",
+        "Payment via invoice & ACH",
+        "Dedicated account manager"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "video processing",
+            "value": "custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Additional brands",
+      "fee_amount": 50.0,
+      "fee_description": "Additional brands are billed at $50/month for Pro tier."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:53:20.170740",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "abfd1390-040f-40ef-a5c8-46fbad88b9ba",
+    "name": "Vocal Video",
+    "slug": "vocal-video",
+    "description": "Vocal Video helps get amazing video testimonials from anyone, anywhere. Automagically.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/ca20e6f4c045fe1c82c4b0a2774a69fa.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

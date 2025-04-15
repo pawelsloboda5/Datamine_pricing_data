@@ -1,0 +1,184 @@
+{
+  "app_id": "join_it",
+  "app_name": "Join It",
+  "app_slug": "join-it",
+  "pricing_url": null,
+  "source_url": "https://www.joinit.org/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Discounts available for non-profits and annual plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": null,
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "500 total members",
+        "Unlimited membership types",
+        "1 org admin seat",
+        "7 days of email history"
+      ],
+      "limits": {
+        "users": 500,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": null,
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1,500 total members",
+        "Unlimited membership types",
+        "3 org admin seats",
+        "15 days of email history"
+      ],
+      "limits": {
+        "users": 1500,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Total",
+      "tier_description": null,
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5,000 total members",
+        "Unlimited membership types",
+        "5 org admin seats",
+        "30 days of email history"
+      ],
+      "limits": {
+        "users": 5000,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Extra",
+      "tier_description": null,
+      "monthly_price": 249.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "15,000 total members",
+        "Unlimited membership types",
+        "10 org admin seats",
+        "30 days of email history"
+      ],
+      "limits": {
+        "users": 15000,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Service Fee",
+      "unit": "percentage",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 500.0,
+          "price": 3.0
+        },
+        {
+          "min": 501.0,
+          "max": 1500.0,
+          "price": 2.5
+        },
+        {
+          "min": 1501.0,
+          "max": 5000.0,
+          "price": 2.0
+        },
+        {
+          "min": 5001.0,
+          "max": 15000.0,
+          "price": 1.5
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Non-profit Discount",
+      "offer_description": "10% discount for non-profits.",
+      "discount_percentage": 10.0,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "10% discount for choosing an annual plan.",
+      "discount_percentage": 10.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Stripe Payment Processing Fee",
+      "fee_amount": null,
+      "fee_description": "Separate fee charged by Stripe for payment processing."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:28:42.811868",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "241f58ec-6def-4113-b55b-cb1032c1549b",
+    "name": "Join It",
+    "slug": "join-it",
+    "description": "Join It provides simple membership management for growing organizations",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/da1e1ee5df0e7b704d5562c427d2bd4b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 5
+  }
+}

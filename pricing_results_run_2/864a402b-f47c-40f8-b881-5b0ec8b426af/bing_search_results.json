@@ -1,0 +1,12 @@
+{
+  "app_name": "Freshdesk",
+  "app_slug": "freshdesk",
+  "search_term": "Find the official pricing page URL for Freshdesk (freshdesk.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744707218.5249372,
+  "response_text": [
+    "I couldn't locate the official pricing page link for Freshdesk. Can you refine the request?"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\freshdesk\\20250415_045338"
+}

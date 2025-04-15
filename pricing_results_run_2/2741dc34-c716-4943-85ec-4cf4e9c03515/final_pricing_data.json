@@ -1,0 +1,128 @@
+{
+  "app_id": "lawcus",
+  "app_name": "Lawcus",
+  "app_slug": "lawcus",
+  "pricing_url": "https://lawcus.com/pricing/",
+  "source_url": "https://www.lawcus.com/pricing/",
+  "all_pricing_urls": [
+    "https://lawcus.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on a per-user subscription model with monthly and annual options. Enterprise tier requires a minimum of 10 users.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Case Management + Billing + Trust Accounting",
+      "monthly_price": 34.0,
+      "annual_price": 39.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Case Management",
+        "Billing",
+        "Trust Accounting"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Everything in Standard plan + CRM + Automation",
+      "monthly_price": 44.0,
+      "annual_price": 49.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "CRM",
+        "Automation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Everything in Plus plan + Marketing Automation",
+      "monthly_price": 59.0,
+      "annual_price": 69.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Marketing Automation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Get everything you need to upscale your legal practice in the cloud with dedicated on-boarding and support.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Dedicated on-boarding",
+        "Support"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:45:59.582042",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "2741dc34-c716-4943-85ec-4cf4e9c03515",
+    "name": "Lawcus",
+    "slug": "lawcus",
+    "description": "Lawcus is a practice management tool that enables lawyers to organize matters and automate consistent processes to help deliver more with transparency and less effort.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/078e65da19dc9cc3b687739402347c51.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 16,
+    "trigger_count": 7
+  }
+}

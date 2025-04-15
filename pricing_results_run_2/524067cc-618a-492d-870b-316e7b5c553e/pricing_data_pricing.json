@@ -1,0 +1,146 @@
+{
+  "app_id": "firebase_firestore",
+  "app_name": "Firebase / Firestore",
+  "app_slug": "firebase-firestore",
+  "pricing_url": "https://firebase.google.com/pricing",
+  "source_url": "https://firebase.google.com/pricing",
+  "all_pricing_urls": [
+    "https://firebase.google.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Firebase offers a free tier (Spark Plan) with generous limits and a pay-as-you-go tier (Blaze Plan) for scaling.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Spark Plan",
+      "tier_description": "Generous limits to get started",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "No-cost usage for various Firebase services"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "1 GiB",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Document writes",
+            "value": "20K writes/day"
+          },
+          {
+            "name": "Document reads",
+            "value": "50K reads/day"
+          },
+          {
+            "name": "Document deletes",
+            "value": "20K deletes/day"
+          },
+          {
+            "name": "Network egress",
+            "value": "10 GiB/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Blaze Plan",
+      "tier_description": "Pay as you go",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes no-cost usage from Spark Plan"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Document writes",
+            "value": "$0.18 per 100K writes"
+          },
+          {
+            "name": "Document reads",
+            "value": "$0.06 per 100K reads"
+          },
+          {
+            "name": "Document deletes",
+            "value": "$0.02 per 100K deletes"
+          },
+          {
+            "name": "Network egress",
+            "value": "$0.12 per GB"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Document writes",
+      "unit": "per 100K writes",
+      "base_price": 0.18,
+      "tiers": null
+    },
+    {
+      "metric_name": "Document reads",
+      "unit": "per 100K reads",
+      "base_price": 0.06,
+      "tiers": null
+    },
+    {
+      "metric_name": "Document deletes",
+      "unit": "per 100K deletes",
+      "base_price": 0.02,
+      "tiers": null
+    },
+    {
+      "metric_name": "Network egress",
+      "unit": "per GB",
+      "base_price": 0.12,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:15:54.066486",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "524067cc-618a-492d-870b-316e7b5c553e",
+    "name": "Firebase / Firestore",
+    "slug": "firebase",
+    "description": "Firebase Realtime Database and Google Cloud Firestore are flexible databases that give you the ability to easily store and sync app data at global scale.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/44b31b544b9ca3c736788200b4fd120d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Databases"
+    ],
+    "category_slugs": [
+      "databases"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 1
+  }
+}

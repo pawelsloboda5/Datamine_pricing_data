@@ -1,0 +1,170 @@
+{
+  "app_name": "Firebase / Firestore",
+  "app_slug": "firebase",
+  "search_term": "Find the official pricing page URL for Firebase / Firestore (firebase.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744686935.9599507,
+  "response_text": [
+    "The official pricing page for Firebase Firestore can be found at: [https://firebase.google.com/pricing](https://firebase.google.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Firebase Pricing",
+      "url": "https://firebase.google.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://firebase.google.com/pricing",
+      "is_accessible": true,
+      "content": "[Skip to main content](https://firebase.google.com/pricing#main-content)\n\nStay organized with collections Save and categorize content based on your preferences.\n\n#### Pricing plans\n\nGet started at no cost,  \nthen pay as you go.\n---------------------------------------------\n\n| Products\n | No-cost\n\n##### Spark Plan\n\nGenerous limits to get started\n\n[Start now](https://console.firebase.google.com/project/_/overview?purchaseBillingPlan=no-cost) | Pay as you go\n\n##### Blaze Plan\n\n[Calculate pricing for apps at scale](https://firebase.google.com/pricing#blaze-calculator)\n\n[Select plan](https://console.firebase.google.com/project/_/overview?purchaseBillingPlan=metered) No-cost usage from Spark plan included\\* |\n| --- | --- | --- |\n| \n\n#### A/B Testing\n\n | No-cost |\n| \n\n#### Analytics\n\n | No-cost |\n| \n\n#### App Check\n\n | No-cost, subject to [quotas and limits](https://firebase.google.com/docs/app-check#quotas_limits) that vary based on attestation provider. |\n| \n\n#### App Distribution\n\n | No-cost |\n| \n\n#### App Hosting\n\n |  |  |\n| Outgoing BandwidthUncached\n\nCached\n\n | _Not applicable_ | Starting June 14th, 2025,  \nNo cost up to 10 GiB/month, Then...$0.20/GiB\n\n$0.15/GiB\n\n |\n| Storage | _Not applicable_ | No-cost up to 5 GB  \nThen $0.10/GB |\n| Cloud Products |  |  |\n| Cloud Run | _Not applicable_ | [Cloud Run Pricing](https://cloud.google.com/run/pricing) |\n| Cloud Build | _Not applicable_ | [Cloud Build Pricing](https://cloud.google.com/build/pricing) |\n| Artifact Registry | _Not applicable_ | [Artifact Registry Pricing](https://cloud.google.com/artifact-registry/pricing) |\n| Cloud Logging | _Not applicable_ | [Cloud Logging Pricing](https://cloud.google.com/stackdriver/pricing?db=egilmore#logging-pricing-summary) |\n| Cloud Secrets Manager  \n | _Not applicable_ | [Cloud Secrets Manager Pricing](https://cloud.google.com/secret-manager/pricing?db=egilmore) |\n| Cloud Calculator | _Not applicable_ | Please reference the Google  \n[Cloud calculator](https://cloud.google.com/products/calculator?hl=en) to estimate your project costs. |\n| \n\n#### Authentication\n\n |  |  |\n| Phone Auth - All regions | _Not applicable_ | Billed per SMS sent  \nSee [current rates](https://cloud.google.com/identity-platform/pricing) |\n| Other Authentication services |  |  |\n| With Identity Platform |  |  |\n| Monthly active users | 50k/month | No-cost up to 50k MAUs  \nThen [Google Cloud pricing](https://cloud.google.com/identity-platform/pricing) |\n| Monthly active users - SAML/OIDC | 50/month | No-cost up to 50 MAUs  \nThen [Google Cloud pricing](https://cloud.google.com/identity-platform/pricing) |\n| \n\n#### Cloud Firestore\n\n |  |  |\n| Stored data | 1 GiB total | No-cost up to 1 GiB total  \nThen [Google Cloud pricing](https://cloud.google.com/firestore/pricing) |\n| Network egress | 10 GiB/month | No-cost up to 10 GiB/month  \nThen [Google Cloud pricing](https://cloud.google.com/firestore/pricing) |\n| Document writes | 20K writes/day | No-cost up to 20K writes/day  \nThen [Google Cloud pricing](https://cloud.google.com/firestore/pricing) |\n| Document reads | 50K reads/day | No-cost up to 50K reads/day  \nThen [Google Cloud pricing](https://cloud.google.com/firestore/pricing) |\n| Document deletes | 20K deletes/day | No-cost up to 20K deletes/day  \nThen [Google Cloud pricing](https://cloud.google.com/firestore/pricing) |\n| \n\n#### Cloud Functions\n\n |  |  |\n| Invocations | _Not applicable_ | No-cost up to 2M/month  \nThen $0.40/million |\n| GB-seconds | _Not applicable_ | No-cost up to 400K/month  \nThen [Google Cloud pricing](https://cloud.google.com/functions/pricing) |\n| CPU-seconds | _Not applicable_ | No-cost up to 200K/month  \nThen [Google Cloud pricing](https://cloud.google.com/functions/pricing) |\n| Outbound networking | _Not applicable_ | No-cost up to 5 GB/month  \nThen $0.12/GB |\n| Cloud Build minutes | _Not applicable_ | No-cost up to 120min/day  \nThen $0.003/min |\n| Container storage in [Artifact Registry](https://cloud.google.com/artifact-registry) | _Not applicable_ | No-cost up to 500MB of storage  \nThen [Google Cloud pricing](https://cloud.google.com/artifact-registry/pricing)\\*Pricing varies based on [location](https://cloud.google.com/functions/docs/locations)\n\n |\n| \n\n#### Cloud Messaging (FCM)\n\n | No-cost |\n| \n\n#### Cloud Storage\n\nNo-cost limits are enforced daily and refreshed at midnight. On the Blaze plan, fees are based on usage volume:  \n\u2022 For the default `*.appspot.com` bucket, fees are processed as [Google App Engine usage fees](https://cloud.google.com/appengine/pricing).  \n\u2022 For the default `*.firebasestorage.app` bucket and any additional buckets, fees are processed as [Google Cloud Storage usage fees](https://cloud.google.com/storage/pricing).\n\n\n\n\n\n |  |  |\n| ```\n\n            *.appspot.com\n           \n``` legacy buckets |  |  |\n| GB stored | 5 GB | No-cost up to 5 GB  \nThen $0.026/GB |\n| GB downloaded | 1 GB/day | No-cost up to 1 GB/day  \nThen $0.12/GB  \n |\n| Upload operations | 20K/day | No-cost up to 20K/day  \nThen $0.05/10K |\n| Download operations | 50K/day | No-cost up to 50K/day  \nThen $0.004/10K |\n| Multiple buckets per project |  |  |\n|   \n```\n\n            *.firebasestorage.app\n           \n``` and any additional buckets |  | Note: No-cost quotas are only available for buckets in the following regions: `us-central1`, `us-west1`, `us-east1`.\n\n |\n| GB stored | _Not applicable_ | No-cost up to 5 GB-months  \nThen [Cloud Storage pricing](https://cloud.google.com/storage/pricing#regions) |\n| GB downloaded | _Not applicable_ | No-cost up to 100 GB/month  \nThen [Cloud Storage pricing](https://cloud.google.com/storage/pricing#regions) |\n| Upload operations | _Not applicable_ | No-cost up to 5K/month  \nThen [Cloud Storage pricing](https://cloud.google.com/storage/pricing#regions) |\n| Download operations | _Not applicable_ | No-cost up to 50K/month  \nThen [Cloud Storage pricing](https://cloud.google.com/storage/pricing#regions) |\n| Multiple buckets per project | _Not applicable_ |  |\n| \n\n#### Crashlytics\n\n | No-cost |\n| \n\n#### Data Connect\n\n |  |  |\n| Network egress | _Not applicable_ | No-cost up to 10 GiB/month  \nThen [Google Cloud Internet Data Transfer Rate Premium Tier pricing](https://cloud.google.com/vpc/pricing#internet_egress) |\n| Operation Count | _Not applicable_ | No-cost up to 250,000 operations per month  \nThen $4.00 per million operations |\n| Cloud SQL for PostgreSQL | _Not applicable_ | 3 month no cost [trial](https://firebase.google.com/docs/data-connect/pricing) for the first default Cloud SQL instance created using Firebase Data Connect.  \nThen [starting as low as $9.37 / month](https://cloud.google.com/products/calculator?dl=CjhDaVE0TXpFd1lUWmhPUzAxTnpJM0xUUmtOemN0WVRreE9DMDROelV4TWpRNE9HSmlOVGtRQVE9PRAHGiQ4MDZDQjk3NS0xM0QwLTRBREUtODkxRS0wMjYzRUY3MUEwMjQ&e=13802955&hl=en) \\- pricing varies based on regions and configurations, see [Google Cloud pricing.](https://cloud.google.com/sql/docs/postgres/pricing) |\n| \n\n#### Hosting\n\n |  |  |\n| Storage | 10 GB | $0.026/GB |\n| Data transfer | 360 MB/day | $0.15/GB |\n| Custom domain & SSL |  |  |\n| Multiple sites per project |  |  |\n| \n\n#### In-App Messaging\n\n | No-cost |\n| \n\n#### Firebase ML\n\nOn the Blaze plan, your account's first 1000 Cloud Vision API calls/month have no costs.\n\n\n\n\n\n |  |  |\n| Custom Model Deployment |  |  |\n| Cloud Vision APIs |  | $1.50/K  \n(See [Cloud Vision pricing](https://cloud.google.com/vision/#cloud-vision-api-pricing) ) |\n| \n\n#### Performance Monitoring\n\n | No-cost |\n| \n\n#### Realtime Database\n\n |  |  |\n| Simultaneous connections\n\nYou can create multiple database instances to go beyond the 200K concurrent limit. See [Pricing FAQ](https://firebase.google.com/support/faq/#pricing-simultaneous) for more information.\n\n\n\n | 100 | 200k/database |\n| GB stored | 1 GB | $5/GB |\n| GB downloaded | 10 GB/month | $1/GB |\n| Multiple databases per project |  |  |\n| \n\n#### Remote Config\n\n | No-cost |\n| \n\n#### Test Lab\n\nOn the Blaze plan, you are charged for testing time only, rounded up to the nearest minute. See [Quotas and Pricing for Test Lab](https://firebase.google.com/docs/test-lab/usage-quotas-pricing) for more information.\n\n\n\n\n\n |  |  |\n| Virtual Device Tests | 10 tests/day | No-cost up to 60 min/day  \nThen $1/device/hour |\n| Physical Device Tests | 5 tests/day | No-cost up to 30 min/day  \nThen $5/device/hour |\n| [Android Device Streaming](https://developer.android.com/studio/run/android-device-streaming) | Starting on June 1, 2024, for a promotional period: |\n|  | 120 no cost minutes per project, per month | 120 no cost minutes per project, per month  \n15 cents for each additional minute |\n|  | On or around May, 2025, the promotional period will end and billing will be based on the following quota limits: |\n|  | 30 no cost minutes per project, per month | 30 no cost minutes per project, per month  \n15 cents for each additional minute |\n| \n\n#### Vertex AI in Firebase\n\n | _Not applicable_ | Billed according to current [Google Cloud pricing](https://firebase.google.com/docs/vertex-ai/quotas-and-pricing#pricing) |\n| \n\n#### Google Cloud\n\n |  |  |\n| BigQuery\n\nOn the Spark plan, the BigQuery sandbox gives you no-cost access to the sandbox's [limits](https://cloud.google.com/bigquery/docs/sandbox#limits) .For more information, see [Export project data to BigQuery](https://firebase.google.com/docs/projects/bigquery-export#pricing) .\n\n\n\n |  |  |\n| Other IaaS\n\nFirebase is deeply integrated with Google Cloud, allowing you to use Google's Infrastructure-as-a-Service directly within your Firebase project. See [Pricing FAQ](https://firebase.google.com/support/faq/#pricing-cloud) for more information.\n\n\n\n |  |  |\n| \n\n#### Gemini in Firebase\n\n |  |\n| AI assistance in the Firebase console\n\nSee the [Firebase docs](https://firebase.google.com/docs/gemini-in-firebase) for more information.\n\n\n\n |\n| AI assistance in Crashlytics\n\nSee the [Firebase docs](https://firebase.google.com/docs/crashlytics/ai-assistance) for more information.\n\n\n\n |\n| AI assistance in Messaging\n\nSee the [Firebase docs](https://firebase.google.com/docs/cloud-messaging/ai-insights) for more information.\n\n\n\n |\n| AI assistance in Firebase Data Connect\n\nSee the [Firebase docs](https://firebase.google.com/docs/data-connect/ai-assistance) for more information.\n\n\n\n |\n| AI assistance in Firebase Studio\n\nSee the [Firebase docs](https://firebase.google.com/docs/studio/ai-assistance) for more information.\n\n\n\n |\n| \n\n#### Firebase Studio\n\n |  |\n|  |\n| Choose a plan\n\n[Looking for the Flame plan?](https://firebase.google.com/support/faq#flame-plan-legacy) | No-cost\n\n##### Spark Plan\n\n[Start now](https://console.firebase.google.com/project/_/overview?purchaseBillingPlan=no-cost) | Pay as you go\n\n##### Blaze Plan\n\n[Select plan](https://console.firebase.google.com/project/_/overview?purchaseBillingPlan=metered) |\n\nOutgoing Bandwidth\n\nUncached\n\nCached\n\n_Not applicable_\n\nStorage\n\n_Not applicable_\n\nCloud Products\n\nCloud Run\n\n_Not applicable_\n\nCloud Build\n\n_Not applicable_\n\nArtifact Registry\n\n_Not applicable_\n\nCloud Logging\n\n_Not applicable_\n\nCloud Secrets Manager\n\n_Not applicable_\n\nCloud Calculator\n\n_Not applicable_\n\nPhone Auth - All regions\n\n_Not applicable_\n\nOther Authentication services\n\nWith Identity Platform\n\nMonthly active users\n\n50k/month\n\nMonthly active users - SAML/OIDC\n\n50/month\n\nStored data\n\n1 GiB total\n\nNetwork egress\n\n10 GiB/month\n\nDocument writes\n\n20K writes/day\n\nDocument reads\n\n50K reads/day\n\nDocument deletes\n\n20K deletes/day\n\nInvocations\n\n_Not applicable_\n\nGB-seconds\n\n_Not applicable_\n\nCPU-seconds\n\n_Not applicable_\n\nOutbound networking\n\n_Not applicable_\n\nCloud Build minutes\n\n_Not applicable_\n\n_Not applicable_\n\n```\n\n              *.appspot.com\n             \n``` legacy buckets\n\nGB stored\n\n5 GB\n\nGB downloaded\n\n1 GB/day\n\nUpload operations\n\n20K/day\n\nDownload operations\n\n50K/day\n\nMultiple buckets per project\n\n```\n\n              *.firebasestorage.app\n             \n``` and any additional buckets\n\nGB stored\n\n_Not applicable_\n\nGB downloaded\n\n_Not applicable_\n\nUpload operations\n\n_Not applicable_\n\nDownload operations\n\n_Not applicable_\n\nMultiple buckets per project\n\n_Not applicable_\n\nNetwork egress\n\n_Not applicable_\n\nOperation Count\n\n_Not applicable_\n\nCloud SQL for PostgreSQL\n\n_Not applicable_\n\nStorage\n\n10 GB\n\nData transfer\n\n360 MB/day\n\nCustom domain & SSL\n\nMultiple sites per project\n\nCustom Model Deployment\n\nCloud Vision APIs\n\nSimultaneous connections\n\n100\n\nGB stored\n\n1 GB\n\nGB downloaded\n\n10 GB/month\n\nMultiple databases per project\n\nVirtual Device Tests\n\n10 tests/day\n\nPhysical Device Tests\n\n5 tests/day\n\nStarting on June 1, 2024, for a promotional period:\n\n120 no cost minutes per project, per month\n\nOn or around May, 2025, the promotional period will end and billing will be based on the following quota limits:\n\n30 no cost minutes per project, per month\n\nBigQuery\n\nOther IaaS\n\nOutgoing Bandwidth\n\nUncached\n\nCached\n\nStarting June 14th, 2025,  \nNo cost up to 10 GiB/month, Then...\n\n$0.20/GiB\n\n$0.15/GiB\n\nStorage\n\nNo-cost up to 5 GB  \nThen $0.10/GB\n\nCloud Products\n\nCloud Run\n\nCloud Build\n\nArtifact Registry\n\nCloud Logging\n\nCloud Secrets Manager\n\nCloud Calculator\n\nPlease reference the Google  \n[Cloud calculator](https://cloud.google.com/products/calculator?hl=en) to estimate your project costs.\n\nPhone Auth - All regions\n\nOther Authentication services\n\nWith Identity Platform\n\nMonthly active users\n\nMonthly active users - SAML/OIDC\n\nStored data\n\nNetwork egress\n\nDocument writes\n\nDocument reads\n\nDocument deletes\n\nInvocations\n\nNo-cost up to 2M/month  \nThen $0.40/million\n\nGB-seconds\n\nCPU-seconds\n\nOutbound networking\n\nNo-cost up to 5 GB/month  \nThen $0.12/GB\n\nCloud Build minutes\n\nNo-cost up to 120min/day  \nThen $0.003/min\n\n```\n\n              *.appspot.com\n             \n``` legacy buckets\n\nGB stored\n\nNo-cost up to 5 GB  \nThen $0.026/GB\n\nGB downloaded\n\nNo-cost up to 1 GB/day  \nThen $0.12/GB\n\nUpload operations\n\nNo-cost up to 20K/day  \nThen $0.05/10K\n\nDownload operations\n\nNo-cost up to 50K/day  \nThen $0.004/10K\n\nMultiple buckets per project\n\n```\n\n              *.firebasestorage.app\n             \n``` and any additional buckets\n\nGB stored\n\nGB downloaded\n\nUpload operations\n\nDownload operations\n\nMultiple buckets per project\n\nNetwork egress\n\nOperation Count\n\nNo-cost up to 250,000 operations per month  \nThen $4.00 per million operations\n\nCloud SQL for PostgreSQL\n\nStorage\n\n$0.026/GB\n\nData transfer\n\n$0.15/GB\n\nCustom domain & SSL\n\nMultiple sites per project\n\nCustom Model Deployment\n\nCloud Vision APIs\n\nSimultaneous connections\n\n200k/database\n\nGB stored\n\n$5/GB\n\nGB downloaded\n\n$1/GB\n\nMultiple databases per project\n\nVirtual Device Tests\n\nNo-cost up to 60 min/day  \nThen $1/device/hour\n\nPhysical Device Tests\n\nNo-cost up to 30 min/day  \nThen $5/device/hour\n\nStarting on June 1, 2024, for a promotional period:\n\n120 no cost minutes per project, per month  \n15 cents for each additional minute\n\nOn or around May, 2025, the promotional period will end and billing will be based on the following quota limits:\n\n30 no cost minutes per project, per month  \n15 cents for each additional minute\n\nBigQuery\n\nOther IaaS\n\n\\* No-cost usage on Blaze plan is calculated daily. Details differ slightly for Cloud Functions, Firebase ML, Phone Auth, and Test Lab.\n\nFor more info, [see the FAQs](https://firebase.google.com/support/faq#pricing) or view our [documentation](https://firebase.google.com/docs/projects/billing/firebase-pricing-plans) on understanding billing.\n\nNo-cost usage quotas apply at the project-level, not at the app-level or for individual resources.\n\n* * *\n\nNeed to tell us more? \\[\\[\\[\"Easy to understand\",\"easyToUnderstand\",\"thumb-up\"\\],\\[\"Solved my problem\",\"solvedMyProblem\",\"thumb-up\"\\],\\[\"Other\",\"otherUp\",\"thumb-up\"\\]\\],\\[\\[\"Missing the information I need\",\"missingTheInformationINeed\",\"thumb-down\"\\],\\[\"Too complicated / too many steps\",\"tooComplicatedTooManySteps\",\"thumb-down\"\\],\\[\"Out of date\",\"outOfDate\",\"thumb-down\"\\],\\[\"Samples / code issue\",\"samplesCodeIssue\",\"thumb-down\"\\],\\[\"Other\",\"otherDown\",\"thumb-down\"\\]\\],\\[\\],\\[\\],\\[\\]\\]\n\nGet started with Firebase at no cost, and then scale worldwide to millions of users, paying only for what you use.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "firebase_firestore",
+        "app_name": "Firebase / Firestore",
+        "app_slug": "firebase-firestore",
+        "pricing_url": "https://firebase.google.com/pricing",
+        "source_url": "https://firebase.google.com/pricing#main-content",
+        "all_pricing_urls": [
+          "https://firebase.google.com/pricing",
+          "https://firebase.google.com/pricing#main-content"
+        ],
+        "price_model_type": [
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Firebase offers a free tier (Spark Plan) with generous limits and a pay-as-you-go tier (Blaze Plan) for scaling applications.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Spark Plan",
+            "tier_description": "Generous limits to get started",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "No-cost usage quotas for various Firebase services"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "5GB",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Cloud Firestore Stored Data",
+                  "value": "1 GiB"
+                },
+                {
+                  "name": "Cloud Firestore Network Egress",
+                  "value": "10 GiB/month"
+                },
+                {
+                  "name": "Cloud Firestore Document Writes",
+                  "value": "20K writes/day"
+                },
+                {
+                  "name": "Cloud Firestore Document Reads",
+                  "value": "50K reads/day"
+                },
+                {
+                  "name": "Cloud Firestore Document Deletes",
+                  "value": "20K deletes/day"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Blaze Plan",
+            "tier_description": "Pay as you go",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "No-cost usage from Spark plan included",
+              "Usage-based pricing for scaling applications"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Cloud Firestore Stored Data",
+                  "value": "$0.10/GB"
+                },
+                {
+                  "name": "Cloud Firestore Network Egress",
+                  "value": "$0.12/GB"
+                },
+                {
+                  "name": "Cloud Firestore Document Writes",
+                  "value": "$0.40/million"
+                },
+                {
+                  "name": "Cloud Firestore Document Reads",
+                  "value": "$0.004/10K"
+                },
+                {
+                  "name": "Cloud Firestore Document Deletes",
+                  "value": "$0.05/10K"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Cloud Firestore Stored Data",
+            "unit": "per GB",
+            "base_price": 0.1,
+            "tiers": null
+          },
+          {
+            "metric_name": "Cloud Firestore Network Egress",
+            "unit": "per GB",
+            "base_price": 0.12,
+            "tiers": null
+          },
+          {
+            "metric_name": "Cloud Firestore Document Writes",
+            "unit": "per million",
+            "base_price": 0.4,
+            "tiers": null
+          },
+          {
+            "metric_name": "Cloud Firestore Document Reads",
+            "unit": "per 10K",
+            "base_price": 0.004,
+            "tiers": null
+          },
+          {
+            "metric_name": "Cloud Firestore Document Deletes",
+            "unit": "per 10K",
+            "base_price": 0.05,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:15:44.960534",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\firebase\\20250414_231545"
+}

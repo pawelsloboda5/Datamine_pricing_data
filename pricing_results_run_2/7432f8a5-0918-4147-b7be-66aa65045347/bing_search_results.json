@@ -1,0 +1,366 @@
+{
+  "app_name": "Wise Agent CRM",
+  "app_slug": "wise-agent-crm",
+  "search_term": "Find the official pricing page URL for Wise Agent CRM (wise-agent-crm.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744694779.169248,
+  "response_text": [
+    "The official pricing page for Wise Agent CRM can be found at this URL: [https://wiseagent.com/pricing](https://wiseagent.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Wise Agent CRM Pricing | Start Your Free Trial Today",
+      "url": "https://wiseagent.com/pricing.asp"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://wiseagent.com/pricing.asp",
+      "is_accessible": true,
+      "content": "[![Image 1: Wise Agent Logo](https://wiseagent.com/SECURE/assets/images/logos/WiseAgentLogo01.svg)](https://wiseagent.com/)\n\nIncluded In All Plans\n---------------------\n\n*   Drip Marketing Campaigns\n*   Lead Automation\n*   Team-Friendly Calendar\n*   Free 24/7 support\n*   Transaction Manager\n*   Contact Manager\n\n*   Customizable Landing Pages\n*   Unlimited Training\n*   Lead Enhancement\n*   Unlimited Document Storage\n*   Monthly Newsletter\n*   Reporting Tools\n\nMONTHLY\n\n$49 / mo\n\nComplimentary one-on-one onboarding included\n\nANNUAL\n\n$499 / yr\n\nSave 15% $588 / yr\n\nComplimentary one-on-one onboarding included\n\nSaves 15% compared to standard monthly plan\n\nENTERPRISE\n\nCustom\n\nBulk Liscensing - Recommended for teams of 15+ Agents\n\nWhite Label Solutions\n\n**Plus:** 24/7 x 365 Live Support. Stay month-to-month with **no contracts.**\n\nAdditional Features\n-------------------\n\n[### Additional Team Members](https://wiseagent.com/pricing.asp#collapseAdd1)\n\nBasic Plan\n\n##### 1 Account Holder\n\n##### 4 Team Members\n\nAdditional Feature\n\n$ 20 /mo.\n\n##### Additional 5 Team Members\n\nmore available, pay per batch of 5\n\n[### Additional Logins](https://wiseagent.com/pricing.asp#collapseAdd2)\n\nBasic Plan\n\n##### One Login For All Accounts\n\nAdditional Feature\n\n$ 20 /mo.\n\n##### Individual Login For Team Member\n\nthis feature allows for permissions and restrictions to be put in place so the administrator of the account can decide what a team member is able to access.\n\n[### Lead Enhancement](https://wiseagent.com/pricing.asp#collapseAdd3)\n\nBasic Plan\n\n##### 100 Free Credits\n\n1 use = 1 credit\n\nAdditional Feature\n\n$ 5 /mo.\n\n##### Unlimited Credits\n\n[### WiseText SMS](https://wiseagent.com/pricing.asp#collapseAdd4)\n\nBasic Plan\n\n##### None\n\nAdditional Feature\n\n$ 11 /mo. + $ 80 registration fee\n\n##### Texting Feature With Number Selection\n\n1000 credits per month  \n\\* more can be purchased if needed\n\n[### Additional Landing Pages](https://wiseagent.com/pricing.asp#collapseAdd5)\n\nBasic Plan\n\n##### 1 Active Landing Page\n\nAdditional Feature\n\n$ 5 /mo.\n\n##### 2+ Active Landing Pages\n\npay per additional active landing page\n\n\u201d\n\n![Image 2: Donna Stott Image](https://wiseagent.com/SECURE/assets/images/testimonials/Donna-bw.png)\n\nDonna Stott\n\nREAL ESTATE COACH\n\nWhat Brandon has done is give you a $10K a year product for just $49/month. Unbelievable.\"\n\n\u201d\n\n![Image 3: Micahel Hellickson Image](https://wiseagent.com/SECURE/assets/images/testimonials/Michael-Bw.png)\n\nMichael Hellickson\n\nREAL ESTATE COACH\n\nWise Agent is an extremely affordable yet surprisingly robust and highly integrable CRM. FANTASTIC!!\n\nReady to Run a Business?\n------------------------\n\nSign up for Wise Agent today and start running your business more efficiently and effectively!\n\nOur real estate CRM pricing includes a 14 day free trial and 24/7 support! For only $49/month we provide a variety of services suited for you and your clients!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "wise_agent_crm",
+        "app_name": "Wise Agent CRM",
+        "app_slug": "wise-agent-crm",
+        "pricing_url": "https://wiseagent.com/pricing.asp",
+        "source_url": "https://wiseagent.com/pricing.asp",
+        "all_pricing_urls": [
+          "https://wiseagent.com/pricing.asp"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.CUSTOM"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes options for additional features and enterprise solutions.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Monthly",
+            "tier_description": "Standard monthly plan.",
+            "monthly_price": 49.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Drip Marketing Campaigns",
+              "Lead Automation",
+              "Team-Friendly Calendar",
+              "Free 24/7 support",
+              "Transaction Manager",
+              "Contact Manager",
+              "Customizable Landing Pages",
+              "Unlimited Training",
+              "Lead Enhancement",
+              "Unlimited Document Storage",
+              "Monthly Newsletter",
+              "Reporting Tools"
+            ],
+            "limits": {
+              "users": 5,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Annual",
+            "tier_description": "Standard annual plan with discount.",
+            "monthly_price": null,
+            "annual_price": 499.0,
+            "annual_discount_percentage": 15.0,
+            "setup_fee": null,
+            "features": [
+              "Drip Marketing Campaigns",
+              "Lead Automation",
+              "Team-Friendly Calendar",
+              "Free 24/7 support",
+              "Transaction Manager",
+              "Contact Manager",
+              "Customizable Landing Pages",
+              "Unlimited Training",
+              "Lead Enhancement",
+              "Unlimited Document Storage",
+              "Monthly Newsletter",
+              "Reporting Tools"
+            ],
+            "limits": {
+              "users": 5,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Custom pricing for teams of 15+ agents.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Bulk Licensing",
+              "White Label Solutions",
+              "24/7 x 365 Live Support"
+            ],
+            "limits": {
+              "users": "custom",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Additional Team Members",
+            "unit": "per batch of 5",
+            "base_price": 20.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Additional Logins",
+            "unit": "per login",
+            "base_price": 20.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Lead Enhancement",
+            "unit": "per month",
+            "base_price": 5.0,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": 100.0,
+                "price": 0.0
+              },
+              {
+                "min": 101.0,
+                "max": "unlimited",
+                "price": 5.0
+              }
+            ]
+          },
+          {
+            "metric_name": "WiseText SMS",
+            "unit": "per month",
+            "base_price": 11.0,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": 1000.0,
+                "price": 11.0
+              }
+            ]
+          },
+          {
+            "metric_name": "Additional Landing Pages",
+            "unit": "per page",
+            "base_price": 5.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "WiseText SMS Registration Fee",
+            "fee_amount": 80.0,
+            "fee_description": "One-time registration fee for WiseText SMS feature."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T01:26:26.867357",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://wiseagent.com/pricing",
+      "is_accessible": true,
+      "content": "Wise Agent CRM Pricing | Start Your Free Trial Today\n===============\n                 ![Image 2](https://ipv4.d.adroll.com/px4/VGXNH5ZZUBDCTCLNB4I5SP/PNPZMYG3ZJHMBMPIUANK3R?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&cookie=&adroll_s_ref=&keyw=&p0=1648&xa4=1)![Image 3](https://ipv4.d.adroll.com/px4/VGXNH5ZZUBDCTCLNB4I5SP/PNPZMYG3ZJHMBMPIUANK3R?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&cookie=&adroll_s_ref=&keyw=&p0=1648&xa4=1)![Image 4](https://x.adroll.com/attribution/trigger?fpc=dd7ad95f346fc7f7d45923f3d845e4aa&advertisable_eid=VGXNH5ZZUBDCTCLNB4I5SP&conversion_type=ProductView&conversion_value=0.00&currency=USC&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp)![Image 5](https://x.adroll.com/attribution/trigger?fpc=dd7ad95f346fc7f7d45923f3d845e4aa&advertisable_eid=VGXNH5ZZUBDCTCLNB4I5SP&conversion_type=ProductView&conversion_value=0.00&currency=USC&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp)\n\n![Image 6](https://d.adroll.com/cm/b/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 7](https://d.adroll.com/cm/bombora/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 8](https://d.adroll.com/cm/experian/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 9](https://d.adroll.com/cm/g/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 10](https://d.adroll.com/cm/index/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 11](https://d.adroll.com/cm/l/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 12](https://d.adroll.com/cm/n/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 13](https://d.adroll.com/cm/o/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 14](https://d.adroll.com/cm/outbrain/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 15](https://d.adroll.com/cm/pubmatic/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 16](https://d.adroll.com/cm/taboola/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 17](https://d.adroll.com/cm/triplelift/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 18](https://d.adroll.com/cm/x/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)\n\n![Image 19](https://d.adroll.com/cm/b/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 20](https://d.adroll.com/cm/bombora/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 21](https://d.adroll.com/cm/experian/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 22](https://d.adroll.com/cm/g/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 23](https://d.adroll.com/cm/index/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 24](https://d.adroll.com/cm/l/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 25](https://d.adroll.com/cm/n/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 26](https://d.adroll.com/cm/o/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 27](https://d.adroll.com/cm/outbrain/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 28](https://d.adroll.com/cm/pubmatic/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 29](https://d.adroll.com/cm/taboola/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 30](https://d.adroll.com/cm/triplelift/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)![Image 31](https://d.adroll.com/cm/x/out?adroll_fpc=dd7ad95f346fc7f7d45923f3d845e4aa-1744694794324&flg=1&pv=98253906676.511&arrfrr=https%3A%2F%2Fwiseagent.com%2Fpricing.asp&advertisable=VGXNH5ZZUBDCTCLNB4I5SP)\n\n[![Image 32: Wise Agent Logo](https://wiseagent.com/SECURE/assets/images/logos/WiseAgentLogo01.svg)](https://wiseagent.com/)\n\n*   [Home](https://wiseagent.com/)\n*   Features\n    \n    [**View All**](https://wiseagent.com/features.asp) [Lead Generation](https://wiseagent.com/features/lead-automation.asp) [Real Estate Content](https://wiseagent.com/features/marketing.asp) [Contact Management](https://wiseagent.com/features/contact-management.asp) [Team Features](https://wiseagent.com/features/team-features.asp) [Create Conversations](https://wiseagent.com/features/conversations.asp)\n    \n    [Reporting & Broker Tools](https://wiseagent.com/features/software-tools.asp) [Mobile Web App](https://wiseagent.com/features/mobile-web-app.asp) [Time Management](https://wiseagent.com/features/time-management.asp) [Transaction Management](https://wiseagent.com/features/transaction-management.asp) [Customer Support](https://wiseagent.com/features/customer-support.asp)\n    \n*   [Pricing](https://wiseagent.com/pricing.asp)\n*   [Contact](https://wiseagent.com/contact-us.asp)\n*   Resources\n    \n    [Blog](https://wiseagent.com/blog) [Press Releases](https://wiseagent.com/press.asp) [Podcast](https://wiseagent.com/podcast.asp)\n    \n    [Events](https://wiseagent.com/events.asp) [Online Classes](https://wiseagent.com/classes/) [Schedule Meeting](https://wiseagent.com/schedule)\n    \n\n*   LOGIN\n*   GET STARTED\n\n##### User Login\n\n\u00d7\n\nLogin\n\n[Forgot Password?](https://wiseagent.com/forgotPassword.asp)\n\nDon't have an account? Register\n\nOr\n\nContinue with GoogleContinue with Google\n\n![Image 33: Facebook Login Button](https://wiseagent.com/secure/assets/images/facebook-login-btn.png)\n\n  \n\nA CRM at an Affordable Price\n============================\n\n[CONTACT US](https://wiseagent.com/contact-us.asp) [OUR FEATURES](https://wiseagent.com/features.asp)\n\n1.  [](https://wiseagent.com/)\n2.  pricing\n\nIncluded In All Plans\n---------------------\n\n*   Drip Marketing Campaigns\n*   Lead Automation\n*   Team-Friendly Calendar\n*   Free 24/7 support\n*   Transaction Manager\n*   Contact Manager\n\n*   Customizable Landing Pages\n*   Unlimited Training\n*   Lead Enhancement\n*   Unlimited Document Storage\n*   Monthly Newsletter\n*   Reporting Tools\n\nMONTHLY\n\n$49 / mo\n\nComplimentary one-on-one onboarding included\n\n14 DAY FREE TRIAL\n\nANNUAL\n\n$499 / yr\n\nSave 15% $588 / yr\n\nComplimentary one-on-one onboarding included\n\nSaves 15% compared to standard monthly plan\n\n14 DAY FREE TRIAL\n\nENTERPRISE\n\nCustom\n\nBulk Liscensing - Recommended for teams of 15+ Agents\n\nWhite Label Solutions\n\nINQUIRE TODAY\n\n**Plus:** 24/7 x 365 Live Support. Stay month-to-month with **no contracts.**\n\n###### Enterprise Inquiry\n\n\u00d7\n\nFirst Name \\* \n\nLast Name \\* \n\nEmail Address \\* \n\nPhone Number \\* \n\nTitle \n\nCompany \n\nCountry \\*\n\n[United States](javascript:void(0)) \n\n**A country is required.**\n\n###### Reason for Inquiry\n\n_(Select All That Apply)_\n\nBulk Licenses\n\nDiscounts for 15+ Agents\n\nCo-Branded CRM\n\nVIP Experience\n\nWhite Label\n\nBranded CRM\n\nPremium Offering\n\nSMB Solution\n\n\\# of Agents You Have \\* \n\n**Number of Agents Required**\n\nYour Message/Inquiry \\*\n\nCancel Send\n\nAdditional Features\n-------------------\n\n[### Additional Team Members](https://wiseagent.com/pricing#collapseAdd1)\n\nBasic Plan\n\n##### 1 Account Holder\n\n##### 4 Team Members\n\nAdditional Feature\n\n$ 20 /mo.\n\n##### Additional 5 Team Members\n\nmore available, pay per batch of 5\n\n[### Additional Logins](https://wiseagent.com/pricing#collapseAdd2)\n\nBasic Plan\n\n##### One Login For All Accounts\n\nAdditional Feature\n\n$ 20 /mo.\n\n##### Individual Login For Team Member\n\nthis feature allows for permissions and restrictions to be put in place so the administrator of the account can decide what a team member is able to access.\n\n[### Lead Enhancement](https://wiseagent.com/pricing#collapseAdd3)\n\nBasic Plan\n\n##### 100 Free Credits\n\n1 use = 1 credit\n\nAdditional Feature\n\n$ 5 /mo.\n\n##### Unlimited Credits\n\n[### WiseText SMS](https://wiseagent.com/pricing#collapseAdd4)\n\nBasic Plan\n\n##### None\n\nAdditional Feature\n\n$ 11 /mo. + $ 80 registration fee\n\n##### Texting Feature With Number Selection\n\n1000 credits per month  \n\\* more can be purchased if needed\n\n[### Additional Landing Pages](https://wiseagent.com/pricing#collapseAdd5)\n\nBasic Plan\n\n##### 1 Active Landing Page\n\nAdditional Feature\n\n$ 5 /mo.\n\n##### 2+ Active Landing Pages\n\npay per additional active landing page\n\n \n\n\u201d\n\n![Image 34: Donna Stott Image](https://wiseagent.com/SECURE/assets/images/testimonials/Donna-bw.png)\n\nDonna Stott\n\nREAL ESTATE COACH\n\nWhat Brandon has done is give you a $10K a year product for just $49/month. Unbelievable.\"\n\n\u201d\n\n![Image 35: Micahel Hellickson Image](https://wiseagent.com/SECURE/assets/images/testimonials/Michael-Bw.png)\n\nMichael Hellickson\n\nREAL ESTATE COACH\n\nWise Agent is an extremely affordable yet surprisingly robust and highly integrable CRM. FANTASTIC!!\n\nReady to Run a Smarter Business?\n--------------------------------\n\nSign up for Wise Agent today and start running your business more efficiently and effectively!\n\nSign Up Today [Contact Us](https://wiseagent.com/contact-us.asp)\n\n[##### Company](https://wiseagent.com/pricing#)\n\n*   [Home](https://wiseagent.com/)\n*   [About](https://wiseagent.com/our-company.asp)\n*   [Testimonials](https://wiseagent.com/testimonials.asp)\n*   [Pricing](https://wiseagent.com/pricing.asp)\n*   [Integrated Partners](https://wiseagent.com/partners.asp)\n*   [Careers](https://wiseagent.com/careers.asp)\n\n[##### Features](https://wiseagent.com/pricing#)\n\n*   [Lead Generation](https://wiseagent.com/features/lead-automation.asp)\n*   [Real Estate Content](https://wiseagent.com/features/marketing.asp)\n*   [Contact Management](https://wiseagent.com/features/contact-management.asp)\n*   [Team Features](https://wiseagent.com/features/team-features.asp)\n*   [Create Conversations](https://wiseagent.com/features/conversations.asp)\n*   [Reporting Tools](https://wiseagent.com/features/software-tools.asp)\n*   [View More](https://wiseagent.com/features.asp)\n\n[##### Support](https://wiseagent.com/pricing#)\n\n*   [Contact](https://wiseagent.com/contact-us.asp)\n*   [Schedule Meeting](https://wiseagent.com/schedule)\n*   [FAQ](https://wiseagent.com/FAQ.asp)\n*   [Online Classes](https://wiseagent.com/classes/)\n*   [(480) 836-0345](tel:480-836-0345)\n*   [help@wiseagent.com](mailto:help@wiseagent.com)\n\n[##### Resources](https://wiseagent.com/pricing#)\n\n*   [Blog](https://wiseagent.com/blog)\n*   [Press Releases](https://wiseagent.com/press.asp)\n*   [Podcast](https://wiseagent.com/podcast.asp)\n*   [Events](https://wiseagent.com/events.asp)\n*   [Logos](https://wiseagent.com/logo.asp)\n\n##### Wise Agent Newsletter\n\nReceive latest news and updates about Wise Agent\n\nStay up to date by following our social media!\n\n*   [](https://www.facebook.com/wiseagent)\n*   [![Image 36: X/Twitter Logo](https://wiseagent.com/SECURE/assets/icons/x-twitter.svg)](https://twitter.com/wiseagent)\n*   [](https://www.linkedin.com/company/wise-agent)\n*   [](https://www.pinterest.com/wiseagent/)\n*   [](https://www.instagram.com/wiseagentcrm/)\n*   [](https://www.youtube.com/channel/UCVMnSLnSCUXwARUTgaV589g)\n\n*   [Terms Of Service](https://wiseagent.com/termsofservice.asp)\n\n*   [Privacy Notice](https://wiseagent.com/privacy.asp)\n\n*   [16766 East Parkview Ave Fountain Hills, AZ 85268](https://www.google.com/maps/place/16766+E+Parkview+Ave,+Fountain+Hills,+AZ+85268)\n    \n\n\u00a9 The Wise Agent 2025\n\n##### Sign Up for Our Newsletter!\n\nStay connected and get insights on new features and the latest news.\n\nSign Up\n\n       \n\n![Image 39: cookie icon](https://wiseagent.com/SECURE/assets/icons/cookie-bite-solid.svg)We value your privacy\n\nWe use cookies for web traffic analytics and your website experience. By accepting you agree to the use of cookies on your device in accordance with our [Cookie Policy](https://wiseagent.com/privacy.asp#transactionsPP).\n\nAccept\n\nOur real estate CRM pricing includes a 14 day free trial and 24/7 support! For only $49/month we provide a variety of services suited for you and your clients!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "wise_agent_crm",
+        "app_name": "Wise Agent CRM",
+        "app_slug": "wise-agent-crm",
+        "pricing_url": "https://wiseagent.com/pricing.asp",
+        "source_url": "https://wiseagent.com/pricing.asp",
+        "all_pricing_urls": [
+          "https://wiseagent.com/pricing.asp"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes options for monthly and annual subscriptions, as well as custom enterprise solutions.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Monthly",
+            "tier_description": "Standard monthly subscription.",
+            "monthly_price": 49.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Drip Marketing Campaigns",
+              "Lead Automation",
+              "Team-Friendly Calendar",
+              "Free 24/7 support",
+              "Transaction Manager",
+              "Contact Manager",
+              "Customizable Landing Pages",
+              "Unlimited Training",
+              "Lead Enhancement",
+              "Unlimited Document Storage",
+              "Monthly Newsletter",
+              "Reporting Tools"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Annual",
+            "tier_description": "Annual subscription with a discount.",
+            "monthly_price": null,
+            "annual_price": 499.0,
+            "annual_discount_percentage": 15.0,
+            "setup_fee": null,
+            "features": [
+              "Drip Marketing Campaigns",
+              "Lead Automation",
+              "Team-Friendly Calendar",
+              "Free 24/7 support",
+              "Transaction Manager",
+              "Contact Manager",
+              "Customizable Landing Pages",
+              "Unlimited Training",
+              "Lead Enhancement",
+              "Unlimited Document Storage",
+              "Monthly Newsletter",
+              "Reporting Tools"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Custom solutions for teams of 15+ agents.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Bulk Licensing",
+              "White Label Solutions",
+              "24/7 x 365 Live Support"
+            ],
+            "limits": {
+              "users": "custom",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Agents",
+                  "value": "custom"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Additional Team Members",
+            "unit": "per batch of 5",
+            "base_price": 20.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Additional Logins",
+            "unit": "per login",
+            "base_price": 20.0,
+            "tiers": null
+          },
+          {
+            "metric_name": "Lead Enhancement",
+            "unit": "per credit",
+            "base_price": 5.0,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": "unlimited",
+                "price": 5.0
+              }
+            ]
+          },
+          {
+            "metric_name": "WiseText SMS",
+            "unit": "per month",
+            "base_price": 11.0,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": 1000.0,
+                "price": 11.0
+              }
+            ]
+          },
+          {
+            "metric_name": "Additional Landing Pages",
+            "unit": "per page",
+            "base_price": 5.0,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "WiseText SMS Registration Fee",
+            "fee_amount": 80.0,
+            "fee_description": "One-time registration fee for WiseText SMS feature."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T01:26:49.014359",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\wise-agent-crm\\20250415_012649"
+}

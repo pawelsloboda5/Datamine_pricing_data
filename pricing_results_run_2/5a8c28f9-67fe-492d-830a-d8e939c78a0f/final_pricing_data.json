@@ -1,0 +1,45 @@
+{
+  "app_id": "fareharbor",
+  "app_name": "FareHarbor",
+  "app_slug": "fareharbor",
+  "pricing_url": null,
+  "source_url": "https://fareharbor.com",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "FareHarbor does not publicly disclose detailed pricing information. Pricing is likely customized based on business needs.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:51:42.883657",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "5a8c28f9-67fe-492d-830a-d8e939c78a0f",
+    "name": "FareHarbor",
+    "slug": "fareharbor",
+    "description": "FareHarbor is the leading global online reservation platform for the tour and activity industry. FareHarbor empowers tour operators to better serve their customers while increasing online bookings and revenue.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/feadf51255511d7e156f8fb4d5b348ec.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

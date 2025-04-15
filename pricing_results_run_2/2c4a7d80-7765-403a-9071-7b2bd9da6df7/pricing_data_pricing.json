@@ -1,0 +1,104 @@
+{
+  "app_id": "mindee_ocr",
+  "app_name": "Mindee OCR",
+  "app_slug": "mindee-ocr",
+  "pricing_url": "https://www.mindee.com/pricing",
+  "source_url": "https://mindee.com/pricing",
+  "all_pricing_urls": [
+    "https://www.mindee.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is primarily volume-based with options for pay-as-you-go and enterprise subscriptions.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "For individuals and small teams looking for efficiency in document processing.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "First 25 pages free - then $0.10 / page",
+        "Full access to pre-trained models",
+        "Build your custom model with docTI",
+        "Online chat & Slack community support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For businesses looking to automate their document processes.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything on Standard plan",
+        "SSO login",
+        "Discounts for high volumes",
+        "Account Management",
+        "Enterprise grade SLAs",
+        "Solution Engineer",
+        "Build custom workflows",
+        "Premium support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "pages processed",
+      "unit": "per page",
+      "base_price": 0.1,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T10:08:58.215461",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "2c4a7d80-7765-403a-9071-7b2bd9da6df7",
+    "name": "Mindee OCR",
+    "slug": "mindee-ocr",
+    "description": "Mindee OCR extracts data from the documents you use most. Included in this package are Receipt, Invoice and Passport text extraction APIs.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/6d47e0944fda7d1c2283d849f617daa9_7.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 9,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "app_id": "pennylane",
+  "app_name": "Pennylane",
+  "app_slug": "pennylane",
+  "pricing_url": "https://www.pennylane.com/fr/tarifs",
+  "source_url": "https://www.pennylane.com/fr/tarifs",
+  "all_pricing_urls": [
+    "https://www.pennylane.com/fr/tarifs"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 15,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is structured based on the size of the business and includes three main tiers with specific features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basique",
+      "tier_description": "Facturez, suivez et r\u00e9glez vos d\u00e9penses en un clic.",
+      "monthly_price": 14.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Facturation et suivi des d\u00e9penses",
+        "Compte Pro & cartes",
+        "Tableaux de bord",
+        "Collaboration comptable"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Essentiel",
+      "tier_description": "G\u00e9rez vos finances et optimisez votre performance.",
+      "monthly_price": 24.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Facturation et suivi des d\u00e9penses",
+        "Compte Pro & cartes",
+        "Tableaux de bord",
+        "Collaboration comptable"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Premium + Module comptable",
+      "tier_description": "G\u00e9rez votre comptabilit\u00e9 et vos finances, au m\u00eame endroit.",
+      "monthly_price": 79.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Facturation et suivi des d\u00e9penses",
+        "Compte Pro & cartes",
+        "Tableaux de bord",
+        "Tenez votre comptabilit\u00e9"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:43:25.248612",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c3d6f55a-ecc6-4cbc-92f0-f4e517c24a18",
+    "name": "Pennylane",
+    "slug": "pennylane",
+    "description": "Pennylane centralizes all your cash flows and connects with your financial tools to ease and automate collaboration with your accountant.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/f26598dcd5b72d3293bc81c80fd02497.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 4
+  }
+}

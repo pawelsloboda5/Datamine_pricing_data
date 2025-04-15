@@ -1,0 +1,164 @@
+{
+  "app_id": "close",
+  "app_name": "Close",
+  "app_slug": "close",
+  "pricing_url": "https://www.close.com/pricing",
+  "source_url": "https://www.close.com/pricing",
+  "all_pricing_urls": [
+    "https://www.close.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per seat per month with discounts for annual billing. Additional features and services are available as add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Base",
+      "tier_description": "Core features for managing accounts, contacts, and pipeline.",
+      "monthly_price": 29.0,
+      "annual_price": 19.0,
+      "annual_discount_percentage": 34.48,
+      "setup_fee": null,
+      "features": [
+        "Unlimited accounts, contacts, and opportunities",
+        "Two-way email sync",
+        "Built-in calling & SMS",
+        "Centralized inbox"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Startup",
+      "tier_description": "Includes Base features plus automation and AI tools.",
+      "monthly_price": 59.0,
+      "annual_price": 49.0,
+      "annual_discount_percentage": 16.95,
+      "setup_fee": null,
+      "features": [
+        "Automated workflow sequences",
+        "AI tools for emails",
+        "Power Dialer"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Enhanced collaboration, automation, and customization tools.",
+      "monthly_price": 109.0,
+      "annual_price": 99.0,
+      "annual_discount_percentage": 9.17,
+      "setup_fee": null,
+      "features": [
+        "Custom Activities",
+        "AI Lead Summaries",
+        "Enhanced roles and permissions"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Advanced features for performance and customization.",
+      "monthly_price": 149.0,
+      "annual_price": 139.0,
+      "annual_discount_percentage": 6.71,
+      "setup_fee": null,
+      "features": [
+        "Call Coaching",
+        "Predictive Dialer",
+        "Advanced CRM customization",
+        "Enhanced reporting",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Premium Phone Numbers",
+      "unit": "per phone line per month",
+      "base_price": 19.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "AI Call Assistant",
+      "unit": "per minute",
+      "base_price": 0.02,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Additional Organizations",
+      "fee_amount": 50.0,
+      "fee_description": "Each Close plan includes 2 total organizations. Additional organizations cost $50 per month."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T10:00:05.970584",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d45dd955-5e95-48dc-9d73-c7739f89dce3",
+    "name": "Close",
+    "slug": "close",
+    "description": "Close is a sales productivity platform built to help you close more deals. With built-in calling, SMS, and email\u2014your team can communicate with prospects and customers all in one place. It\u2019s an \"all-in-one\" platform which you can use standalone without needing any other sales emails tools or calling products.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c6b117ade34ecbe4d456de798445b299.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 64,
+    "trigger_count": 22
+  }
+}

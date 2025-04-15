@@ -1,0 +1,266 @@
+{
+  "app_id": "track_pod",
+  "app_name": "Track-POD",
+  "app_slug": "track-pod",
+  "pricing_url": "https://www.track-pod.com/pricing-delivery-app/",
+  "source_url": "https://www.track-pod.com/pricing-delivery-app/",
+  "all_pricing_urls": [
+    "https://www.track-pod.com/pricing-delivery-app/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on per driver/vehicle or per order/task with minimum driver requirements.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Basic plan for small teams.",
+      "monthly_price": 35.0,
+      "annual_price": 29.0,
+      "annual_discount_percentage": 17.14,
+      "setup_fee": null,
+      "features": [
+        "Dashboard web-users",
+        "Roles and permissions for web-users",
+        "Web customer access",
+        "Orders per month",
+        "Several type of orders",
+        "Bulk order editing",
+        "Delivery confirmation",
+        "Live chat",
+        "Cash on Delivery (COD)",
+        "Navigation",
+        "Order transfer",
+        "Signature capture",
+        "Picture taking",
+        "Geotags & Timestamps",
+        "QR / Barcode scanning",
+        "Custom POD template",
+        "Static map on POD template",
+        "Vehicle tracking in real time",
+        "Recording GPS tracks",
+        "Delivery tracking",
+        "Live Tracking for your customer",
+        "Map-based planning tool",
+        "Route optimization with ETA",
+        "Delivery notification by email",
+        "Notification with Live Tracking link",
+        "Advance notification by email",
+        "Powerful Analysis Tool",
+        "Route sheet",
+        "Vehicle load plan",
+        "Shipping label",
+        "Analytics & Data history",
+        "Over 5,000 integrations to business apps",
+        "Published web services API",
+        "Standard support plan",
+        "Free Onboarding Session"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "5000",
+        "custom_limits": [
+          {
+            "name": "Minimum drivers",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Most popular plan with additional features.",
+      "monthly_price": 59.0,
+      "annual_price": 49.0,
+      "annual_discount_percentage": 16.95,
+      "setup_fee": null,
+      "features": [
+        "Custom objects creation",
+        "Load check",
+        "Vehicle check",
+        "ETA live updates",
+        "Advanced routing",
+        "Time slots",
+        "Service time",
+        "Priorities",
+        "Driver\u2019s breaks",
+        "Fleet optimization",
+        "Scheduling by capacities",
+        "Several types of routes",
+        "Dynamic departure time",
+        "Multiple trips",
+        "Recurring routes",
+        "Notification with Live Tracking link & ETA",
+        "Branded email configuration",
+        "Driver statistics",
+        "Trip summary by routes",
+        "Custom reports",
+        "Analytics & Data history",
+        "Custom Integration"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "5000",
+        "custom_limits": [
+          {
+            "name": "Minimum drivers",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced Plus",
+      "tier_description": "Enhanced plan with premium features.",
+      "monthly_price": 79.0,
+      "annual_price": 69.0,
+      "annual_discount_percentage": 12.66,
+      "setup_fee": null,
+      "features": [
+        "Add new orders",
+        "PIN code confirmation",
+        "Live tracking page with updated ETA",
+        "Live tracking customization",
+        "Updating route start time and ETA",
+        "Updating and displaying ETA en route",
+        "Updating and displaying new stop sequence",
+        "Automatic check-in & check-out",
+        "Extended triggers for delivery confirmation",
+        "Generating PDF reports via API",
+        "Developer API support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "5000",
+        "custom_limits": [
+          {
+            "name": "Minimum drivers",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for large enterprises.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Customized Support & Services Plan"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "5000",
+        "custom_limits": [
+          {
+            "name": "Minimum drivers",
+            "value": 40
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "S Plan",
+      "tier_description": "Usage-based pricing for small order volumes.",
+      "monthly_price": 285.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "$0.19 per order/task"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 1500,
+        "api_calls": null,
+        "integrations": "5000",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "M Plan",
+      "tier_description": "Usage-based pricing for medium order volumes.",
+      "monthly_price": 510.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "$0.17 per order/task"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 3000,
+        "api_calls": null,
+        "integrations": "5000",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Orders",
+      "unit": "per order/task",
+      "base_price": 0.19,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 1500.0,
+          "price": 285.0
+        },
+        {
+          "min": 1501.0,
+          "max": 3000.0,
+          "price": 510.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:45:37.982884",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "21bb9a2d-f2ab-4dbb-b771-e03d0dc6f9d8",
+    "name": "Track-POD",
+    "slug": "track-pod",
+    "description": "Track-POD is a delivery software featuring an electronic proof of delivery app, solution for efficient performance monitoring and delivery confirmation. This unique paperless delivery system also works as a route planning software for arranging multiple deliveries with ease.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/0eef553944bbf3f81fa11b52aa70a6b9.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Product Management"
+    ],
+    "category_slugs": [
+      "product-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 6
+  }
+}

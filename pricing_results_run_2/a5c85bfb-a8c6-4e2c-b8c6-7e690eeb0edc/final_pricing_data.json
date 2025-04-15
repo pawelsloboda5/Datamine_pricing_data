@@ -1,0 +1,237 @@
+{
+  "app_id": "netlify",
+  "app_name": "Netlify",
+  "app_slug": "netlify",
+  "pricing_url": "https://www.netlify.com/pricing/",
+  "source_url": "https://www.netlify.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.netlify.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Netlify offers a combination of subscription-based plans with usage-based add-ons and a free tier for limited usage.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free & Starter",
+      "tier_description": "Single-member plans for personal projects, prototypes, or getting started.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Single member seat",
+        "Global edge network",
+        "Live site previews with collaboration UI",
+        "100GB bandwidth",
+        "300 build minutes",
+        "Instant rollbacks",
+        "Secrets controller",
+        "Static assets",
+        "Dynamic serverless functions"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Bandwidth",
+            "value": "100GB/month"
+          },
+          {
+            "name": "Build minutes",
+            "value": "300 minutes/month"
+          },
+          {
+            "name": "Serverless functions invocations",
+            "value": "125k per site/month"
+          },
+          {
+            "name": "Edge Functions invocations",
+            "value": "1M/month"
+          },
+          {
+            "name": "Forms submissions",
+            "value": "100 per site/month"
+          },
+          {
+            "name": "Websites",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Team collaboration for professional web projects.",
+      "monthly_price": 19.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Starter",
+        "Background functions",
+        "Password-protected sites",
+        "1TB bandwidth",
+        "25,000 build minutes",
+        "Team audit logs with 7-day history",
+        "Shared environment variables",
+        "Support for organization-owned private Git repos",
+        "Slack & email notifications",
+        "Email support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Bandwidth",
+            "value": "1TB/month"
+          },
+          {
+            "name": "Build minutes",
+            "value": "25k minutes/month"
+          },
+          {
+            "name": "Serverless functions invocations",
+            "value": "125k per site/month"
+          },
+          {
+            "name": "Edge Functions invocations",
+            "value": "2M/month"
+          },
+          {
+            "name": "Forms submissions",
+            "value": "100 per site/month"
+          },
+          {
+            "name": "Websites",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Control, compliance, and support for large scale organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Pro",
+        "Secrets controller",
+        "Security features",
+        "Org-level SSO and SCIM",
+        "Organization management",
+        "Custom billing",
+        "New sites from org-wide themes and components"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Bandwidth",
+            "value": "custom"
+          },
+          {
+            "name": "Build minutes",
+            "value": "custom"
+          },
+          {
+            "name": "Serverless functions invocations",
+            "value": "custom"
+          },
+          {
+            "name": "Edge Functions invocations",
+            "value": "custom"
+          },
+          {
+            "name": "Forms submissions",
+            "value": "custom"
+          },
+          {
+            "name": "Websites",
+            "value": "custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Bandwidth",
+      "unit": "per 100GB",
+      "base_price": 55.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Build minutes",
+      "unit": "per 500 minutes",
+      "base_price": 7.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Serverless functions invocations",
+      "unit": "per invocation",
+      "base_price": 25.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Edge Functions invocations",
+      "unit": "per million invocations",
+      "base_price": 2.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Forms submissions",
+      "unit": "per submission",
+      "base_price": 19.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:11:36.624020",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a5c85bfb-a8c6-4e2c-b8c6-7e690eeb0edc",
+    "name": "Netlify",
+    "slug": "netlify",
+    "description": "Netlify is an all-in-one workflow to build, deploy, and manage modern web projects.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/1759ac684e0d5dfd06585a8bfd323336.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders"
+    ],
+    "category_slugs": [
+      "cms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 3
+  }
+}

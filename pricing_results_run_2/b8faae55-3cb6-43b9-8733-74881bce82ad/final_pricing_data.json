@@ -1,0 +1,115 @@
+{
+  "app_id": "webcrm",
+  "app_name": "webCRM",
+  "app_slug": "webcrm",
+  "pricing_url": "https://webcrm.com/prices/",
+  "source_url": "https://webcrm.com/prices/",
+  "all_pricing_urls": [
+    "https://webcrm.com/prices/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on a per-user monthly fee with minimum user requirements for each tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Ready-to-use CRM for small businesses and startups.",
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Easy-to-use email",
+        "Management of sales opportunities",
+        "Analytics & Reports"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "SMB",
+      "tier_description": "Easy-to-implement, configurable CRM for scaling businesses.",
+      "monthly_price": 55.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Multi-channel Lead Management",
+        "Email Marketing",
+        "Advanced Pipeline Management",
+        "Integrations",
+        "Web forms"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Complete CRM for advanced tracking and team collaboration.",
+      "monthly_price": 69.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced CRM",
+        "Delivery Phase Management",
+        "Time Management",
+        "Support Module",
+        "Email events tracking"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T10:05:23.237556",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b8faae55-3cb6-43b9-8733-74881bce82ad",
+    "name": "webCRM",
+    "slug": "webcrm",
+    "description": "webCRM helps your sales team with the daily workflow and overview.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/e76bfd0e61ada4da00c091e86061ac9e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 16,
+    "trigger_count": 9
+  }
+}

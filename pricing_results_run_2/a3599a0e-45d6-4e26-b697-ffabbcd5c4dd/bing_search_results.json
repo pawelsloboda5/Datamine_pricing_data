@@ -1,0 +1,117 @@
+{
+  "app_name": "Linear",
+  "app_slug": "linear",
+  "search_term": "Find the official pricing page URL for Linear (linear.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744701804.914447,
+  "response_text": [
+    "https://linear.app/pricing"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://linear.app/pricing",
+      "is_accessible": true,
+      "content": "Unlimited members\n\nUnlimited members\n\nUnlimited members\n\nUnlimited members\n\n10MB file uploads\n\nUnlimited file uploads\n\nUnlimited file uploads\n\nUnlimited file uploads\n\n250 issues\n\nUnlimited issues\n\nUnlimited issues\n\nUnlimited issues\n\n2 teams\n\n5 teams\n\nUnlimited teams\n\nUnlimited teams\n\nFeatures\n\nIssues, projects, cycles, and initiatives\n\nIssues, projects, cycles, and initiatives\n\nIssues, projects, cycles, and initiatives\n\nIssues, projects, cycles, and initiatives\n\nCustomer requests\n\nCustomer requests\n\nCustomer requests\n\nCustomer requests\n\nIntegrations\n\nIntegrations\n\nIntegrations\n\nIntegrations\n\nAPI and webhook access\n\nAPI and webhook access\n\nAPI and webhook access\n\nAPI and webhook access\n\nImport and export\n\nImport and export\n\nImport and export\n\nImport and export\n\nTriage\n\nTriage\n\nTriage\n\nTriage\n\nIssue sync\n\nIssue sync\n\nIssue sync\n\nIssue sync\n\nSupport integrations\n\nSupport integrations\n\nSupport integrations\n\nSupport integrations\n\nTriage responsibility\n\nTriage responsibility\n\nTriage responsibility\n\nTriage responsibility\n\nLinear Asks\n\nLinear Asks\n\nLinear Asks\n\nAdvanced Linear Asks\n\nIssue SLAs\n\nIssue SLAs\n\nIssue SLAs\n\nIssue SLAs\n\nTeam management\n\nSub-teams\n\nSub-teams\n\nSub-teams\n\nSub-teams\n\nPrivate teams\n\nPrivate teams\n\nPrivate teams\n\nPrivate teams\n\nGuest accounts\n\nGuest accounts\n\nGuest accounts\n\nGuest accounts\n\nAnalytics & Reporting\n\nProgress reports\n\nProgress reports\n\nProgress reports\n\nProgress reports\n\nInsights\n\nInsights\n\nInsights\n\nInsights\n\nData warehouse sync\n\nData warehouse sync\n\nData warehouse sync\n\nData warehouse sync\n\nSecurity\n\nGoogle SSO\n\nGoogle SSO\n\nGoogle SSO\n\nGoogle SSO + SAML\n\nAdmin roles\n\nAdmin roles\n\nAdmin roles\n\nAdmin roles\n\nAdvanced authentication\n\nAdvanced authentication\n\nAdvanced authentication\n\nAdvanced authentication\n\nIP restrictions\n\nIP restrictions\n\nIP restrictions\n\nIP restrictions\n\nSCIM provisioning\n\nSCIM provisioning\n\nSCIM provisioning\n\nSCIM provisioning\n\nDomain claiming\n\nDomain claiming\n\nDomain claiming\n\nDomain claiming\n\nAudit log\n\nAudit log\n\nAudit log\n\nAudit log\n\nThird-party app management\n\nThird-party app management\n\nThird-party app management\n\nThird-party app management\n\nHIPAA compliance\n\nHIPAA compliance\n\nHIPAA compliance\n\nHIPAA compliance\n\nSupport\n\nPriority support\n\nPriority support\n\nPriority support\n\nPriority support\n\nAccount manager\n\nAccount manager\n\nAccount manager\n\nAccount manager\n\nCustom terms\n\nCustom terms\n\nCustom terms\n\nCustom terms\n\nUptime SLA\n\nUptime SLA\n\nUptime SLA\n\nUptime SLA\n\nUse Linear for free with your whole team. Upgrade to enable unlimited issues, enhanced security controls, and additional features.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "linear",
+        "app_name": "Linear",
+        "app_slug": "linear",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Linear offers a free tier with limited features and paid tiers with enhanced capabilities.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Use Linear for free with your whole team.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Issues, projects, cycles, and initiatives",
+              "Customer requests",
+              "Integrations",
+              "API and webhook access",
+              "Import and export",
+              "Triage",
+              "Issue sync",
+              "Support integrations",
+              "Triage responsibility",
+              "Linear Asks",
+              "Google SSO"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "10MB file uploads",
+              "operations": "250 issues",
+              "api_calls": null,
+              "integrations": "2 teams",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Paid",
+            "tier_description": "Upgrade to enable unlimited issues, enhanced security controls, and additional features.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Advanced Linear Asks",
+              "Issue SLAs",
+              "Sub-teams",
+              "Private teams",
+              "Guest accounts",
+              "Insights",
+              "Data warehouse sync",
+              "Google SSO + SAML",
+              "Admin roles",
+              "Advanced authentication",
+              "IP restrictions",
+              "SCIM provisioning",
+              "Domain claiming",
+              "Audit log",
+              "Third-party app management",
+              "HIPAA compliance",
+              "Priority support",
+              "Account manager",
+              "Custom terms",
+              "Uptime SLA"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited file uploads",
+              "operations": "unlimited issues",
+              "api_calls": null,
+              "integrations": "unlimited teams",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:23:33.516652",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\linear\\20250415_032334"
+}

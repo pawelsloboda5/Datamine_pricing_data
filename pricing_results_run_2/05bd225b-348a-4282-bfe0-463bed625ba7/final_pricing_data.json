@@ -1,0 +1,45 @@
+{
+  "app_id": "webinargeek",
+  "app_name": "WebinarGeek",
+  "app_slug": "webinargeek",
+  "pricing_url": "https://www.webinargeek.com/en/pricing",
+  "source_url": "https://www.webinargeek.com/en/pricing",
+  "all_pricing_urls": [
+    "https://www.webinargeek.com/en/pricing"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The provided content does not include specific pricing details for WebinarGeek.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:38:21.555653",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "05bd225b-348a-4282-bfe0-463bed625ba7",
+    "name": "WebinarGeek",
+    "slug": "webinargeek",
+    "description": "WebinarGeek is easy-to-use webinar software with marketing tools and analytics.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/98efa756897662d1456498d6911ce205.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Webinars"
+    ],
+    "category_slugs": [
+      "webinars"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 9
+  }
+}

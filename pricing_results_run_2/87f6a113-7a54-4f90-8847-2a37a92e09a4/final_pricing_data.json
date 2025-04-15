@@ -1,0 +1,171 @@
+{
+  "app_id": "openphone",
+  "app_name": "OpenPhone",
+  "app_slug": "openphone",
+  "pricing_url": "https://www.openphone.com/pricing",
+  "source_url": "https://www.openphone.com/pricing",
+  "all_pricing_urls": [
+    "https://www.openphone.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user per month, with discounts for annual billing. Additional fees apply for certain features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "The essentials to get you and your team up and running",
+      "monthly_price": 19.0,
+      "annual_price": 15.0,
+      "annual_discount_percentage": 21.0,
+      "setup_fee": null,
+      "features": [
+        "One new local or toll-free phone number per user",
+        "Calling and messaging to US and Canadian numbers",
+        "Voicemail transcripts",
+        "OpenPhone API",
+        "Email ticket support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For businesses looking for more call handling and automation features",
+      "monthly_price": 33.0,
+      "annual_price": 23.0,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "Group calling",
+        "Custom ring orders",
+        "Call transfers",
+        "HubSpot and Salesforce integrations",
+        "Phone menus",
+        "Analytics and reporting",
+        "Auto call recording",
+        "Live chat support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "Boost team efficiency with advanced automations and AI support",
+      "monthly_price": 47.0,
+      "annual_price": 35.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "AI call tags",
+        "Conditional call routing",
+        "Dedicated onboarding support",
+        "Priority live chat and email ticket support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For organizations with more complex requirements",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Audit log",
+        "Custom contract and pricing",
+        "Dedicated account manager"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional phone numbers",
+      "unit": "per number per month",
+      "base_price": 5.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Automated messages via API",
+      "unit": "per message",
+      "base_price": 0.01,
+      "tiers": null
+    },
+    {
+      "metric_name": "Automated messages via Zapier and Make",
+      "unit": "per message",
+      "base_price": 0.01,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Carrier review and setup fees",
+      "fee_amount": 19.0,
+      "fee_description": "One-time fee for carrier review and setup"
+    },
+    {
+      "fee_name": "Messaging fee",
+      "fee_amount": null,
+      "fee_description": "$1.50 - $3/month"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:19:50.649331",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "87f6a113-7a54-4f90-8847-2a37a92e09a4",
+    "name": "OpenPhone",
+    "slug": "openphone",
+    "description": "OpenPhone is a new phone for business. It comes with powerful calling, messaging, and a lightweight CRM.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/ee05750d4e5ef328974d872b27746cff.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 4
+  }
+}

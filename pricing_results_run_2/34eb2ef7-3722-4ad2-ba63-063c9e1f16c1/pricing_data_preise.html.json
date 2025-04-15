@@ -1,0 +1,47 @@
+{
+  "app_id": "webinaris",
+  "app_name": "Webinaris",
+  "app_slug": "webinaris",
+  "pricing_url": "https://www.webinaris.com/preise/",
+  "source_url": "https://www.webinaris.com/preise.html",
+  "all_pricing_urls": [
+    "https://www.webinaris.com/preise/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details were not explicitly listed on the provided page.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:30:35.174642",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "34eb2ef7-3722-4ad2-ba63-063c9e1f16c1",
+    "name": "Webinaris",
+    "slug": "webinaris",
+    "description": "Webinaris is an all-in-one Webinar platform for hosting live and automated webinars with a marketing focus.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/2d4869d82614f8000681e42e89710d6a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Webinars"
+    ],
+    "category_slugs": [
+      "webinars"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 5
+  }
+}

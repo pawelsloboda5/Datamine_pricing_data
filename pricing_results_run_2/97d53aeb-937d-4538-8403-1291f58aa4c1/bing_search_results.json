@@ -1,0 +1,12 @@
+{
+  "app_name": "Google Tables",
+  "app_slug": "google-tables",
+  "search_term": "Find the official pricing page URL for Google Tables (google-tables.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725818.1773493,
+  "response_text": [
+    "I couldn't find the pricing page for Google Tables (google-tables.com). Consider checking on its official website or let me know if you'd like further assistance."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\google-tables\\20250415_100338"
+}

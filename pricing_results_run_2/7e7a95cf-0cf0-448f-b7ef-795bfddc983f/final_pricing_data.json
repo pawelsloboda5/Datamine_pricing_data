@@ -1,0 +1,178 @@
+{
+  "app_id": "jira_software_cloud",
+  "app_name": "Jira Software Cloud",
+  "app_slug": "jira-software-cloud",
+  "pricing_url": "https://www.atlassian.com/software/jira/pricing",
+  "source_url": "https://www.atlassian.com/software/jira/pricing",
+  "all_pricing_urls": [
+    "https://www.atlassian.com/software/jira/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes tiers with specific features and limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free forever for 10 users",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited goals, projects, tasks, and forms",
+        "Backlog, list, board, timeline, calendar, and summary views",
+        "Reports and dashboards",
+        "100 automation rule runs per month",
+        "2 GB of storage",
+        "Support from Atlassian Community",
+        "Up to 10 users"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "2 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Automation rule runs",
+            "value": "100 per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Everything you need to get started",
+      "monthly_price": 7.53,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "User roles and permissions",
+        "External collaboration",
+        "Multi-region data residency",
+        "1,700 automation rule runs per month",
+        "250 GB of storage",
+        "9/5 regional support",
+        "Up to 50,000 users on a single site"
+      ],
+      "limits": {
+        "users": 50000,
+        "storage": "250 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Automation rule runs",
+            "value": "1700 per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Align multiple teams",
+      "monthly_price": 13.53,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Rovo Search, Chat, and Agents, and integrated AI-powered work features",
+        "Cross-team planning and dependency management",
+        "Customizable approval processes",
+        "Per user automation limits (1,000 rule runs per month)",
+        "Unlimited storage",
+        "24/7 support for critical issues",
+        "99.9% uptime SLA"
+      ],
+      "limits": {
+        "users": 50000,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Automation rule runs",
+            "value": "1000 per user per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Advanced analytics, scale and security for enterprises",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Cross-product insights with Atlassian Analytics and Data Lake",
+        "Advanced admin controls and security",
+        "Enterprise-grade identity and access management",
+        "Unlimited automation rule runs",
+        "Multiple sites (up to 150)",
+        "24/7 support for all issues",
+        "99.95% uptime SLA"
+      ],
+      "limits": {
+        "users": 50000,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Automation rule runs",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:21:03.878874",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7e7a95cf-0cf0-448f-b7ef-795bfddc983f",
+    "name": "Jira Software Cloud",
+    "slug": "jira-software-cloud",
+    "description": "Jira Software Cloud is a bug and issue tracking tool that allows software developers to manage product development. This integration connects to cloud-hosted instances of Jira.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/ea4a5ee38c7a088e243745dd0b851784.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 15,
+    "trigger_count": 4
+  }
+}

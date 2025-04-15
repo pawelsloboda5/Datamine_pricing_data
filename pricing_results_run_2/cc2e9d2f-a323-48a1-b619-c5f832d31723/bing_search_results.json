@@ -1,0 +1,12 @@
+{
+  "app_name": "Square",
+  "app_slug": "square",
+  "search_term": "Find the official pricing page URL for Square (square.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744686621.3105261,
+  "response_text": [
+    "I could not find the requested URL. Would you like me to try using alternate queries?"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\square\\20250414_231021"
+}

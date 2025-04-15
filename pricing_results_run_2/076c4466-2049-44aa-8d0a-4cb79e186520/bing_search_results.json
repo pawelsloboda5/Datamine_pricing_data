@@ -1,0 +1,226 @@
+{
+  "app_name": "Copy.ai",
+  "app_slug": "copyai",
+  "search_term": "Find the official pricing page URL for Copy.ai (copyai.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744707121.2776663,
+  "response_text": [
+    "The official pricing page for Copy.ai can be found at: [https://www.copy.ai/pricing](https://www.copy.ai/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Plans & Pricing | Copy.ai",
+      "url": "https://www.copy.ai/prices"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.copy.ai/prices",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://www.copy.ai/pricing",
+      "is_accessible": true,
+      "content": "Plans & Pricing | Copy.ai\n=============== \n\n[30+ free AI tools built for GTM teams](http://gtm.copy.ai/)\n\n[![Image 1](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/6797ee68ae7908e605a9a4d0_copy_logo-all-dark.svg)](https://www.copy.ai/)\n\nPlatform\n\nOverview\n\n[How it Works](https://www.copy.ai/platform/how-it-works)[Platform Components](https://www.copy.ai/platform/platform-components)[Powering GTM AI](https://www.copy.ai/platform/powering-gtm-ai)\n\nWorkflows\n\n[What are Workflows?](https://www.copy.ai/platform/what-are-workflows)[Building Workflows](https://www.copy.ai/platform/building-workflows)[Copy Agents](https://www.copy.ai/platform/copy-agents)\n\nIntelligence Layer\n\n[Tables](https://www.copy.ai/platform/tables)[Actions](https://www.copy.ai/platform/actions)[Brand Voice](https://www.copy.ai/platform/brand-voice)\n\nTechnical Resources\n\n[The Power of \"Actions\" for GTM Teams: The Building Blocks of Workflows](https://www.copy.ai/blog/the-power-of-actions-for-gtm-teams)[Introducing Tables: The Heart of Your Unified Data Strategy](https://www.copy.ai/blog/introducing-tables)[What's the Difference Between LLMs? & How to Choose the Right One](https://www.copy.ai/blog/difference-between-llms)\n\nUse cases\n\nSales\n\n[Prospecting Cockpit](https://www.copy.ai/use-cases/prospecting-cockpit)[Inbound Lead Processing](https://www.copy.ai/use-cases/inbound-lead-processing)[Deal Coaching & Forecasting](https://www.copy.ai/use-cases/deal-management-forecasting)\n\nMarketing\n\n[Account Based Marketing](https://www.copy.ai/use-cases/account-based-marketing)[Content Creation](https://www.copy.ai/use-cases/content-creation)[Translation & Localization](https://www.copy.ai/use-cases/localization-translation)\n\nOperations\n\n[Lead + Account Intelligence](https://www.copy.ai/use-cases/lead-account-intelligence)[CRM Enrichment](https://www.copy.ai/use-cases/crm-enrichment)[GTM Systems Integrations](https://www.copy.ai/use-cases/gtm-systems-integrations)\n\nFeatured Resources\n\n[Cold Email Best Practices Guide: 2025 Edition](https://www.copy.ai/blog/cold-email-best-practices-guide-2024-edition)[AI for Thought Leadership Content: How to Unlock Real Human Insights](https://www.copy.ai/blog/ai-for-thought-leadership)[How to Prospect for Sales in an AI-Driven World](https://www.copy.ai/blog/how-to-prospect-for-sales)\n\nResources\n\nBy Team\n\n[Marketing](https://www.copy.ai/resources/marketing)[Sales](https://www.copy.ai/resources/sales)[Operations](https://www.copy.ai/resources/operations)\n\nLearn More\n\n[Blog](https://www.copy.ai/blog)[For The Enterprise](https://www.copy.ai/enterprise)[Trust Center](https://trust.copy.ai/)[Webinars](https://www.copy.ai/webinars)\n\nGet Help\n\n[Help Center](https://support.copy.ai/en)[Contact Support](https://www.copy.ai/contact-us)[Changelog](https://www.copy.ai/changelog)\n\nTechnical Resources\n\n[The Power of \"Actions\" for GTM Teams: The Building Blocks of Workflows](https://www.copy.ai/blog/the-power-of-actions-for-gtm-teams)[Introducing Tables: The Heart of Your Unified Data Strategy](https://www.copy.ai/blog/introducing-tables)[How Automated Workflows and SOC 2 Compliance Protect Your Data](https://www.copy.ai/blog/how-automated-workflows-and-soc-2-compliance-protect-your-data)\n\n[Pricing](https://www.copy.ai/prices)\n\nGTM AI\n\nRole\n\n[Marketing](https://www.copy.ai/planning/marketing)[Sales](https://www.copy.ai/planning/sales)[Operations](https://www.copy.ai/planning/operations)[Sales Development](https://www.copy.ai/planning/sales-development)\n\nLEarn More\n\n[Why GTM AI](https://www.copy.ai/gtm-ai)[Goodbye, Copilots](https://www.copy.ai/goodbye-copilots)[The Problem with AI SDRs](https://www.copy.ai/injured)\n\nFEATURED RESOURCES\n\n[How to Go from GTM Bloat to Velocity](https://www.copy.ai/blog/introducing-gtm-ai)[GTM AI: A New Approach for Getting Rid of GTM Bloat](https://www.copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://www.copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)\n\n[Login](https://app.copy.ai/login)[Get a Demo Get a Demo](https://www.copy.ai/request-a-demo)\n\n[](https://www.copy.ai/pricing#)\n\nPlatform\n\nOverview\n\n[How it Works](https://www.copy.ai/platform/how-it-works)[Platform Components](https://www.copy.ai/platform/platform-components)[Powering GTM AI](https://www.copy.ai/platform/powering-gtm-ai)\n\nWorkflows\n\n[What are Workflows?](https://www.copy.ai/platform/what-are-workflows)[Building Workflows](https://www.copy.ai/platform/building-workflows)[Copy Agents](https://www.copy.ai/platform/copy-agents)\n\nIntelligence Layer\n\n[Tables](https://www.copy.ai/platform/tables)[Actions](https://www.copy.ai/platform/actions)[Brand Voice](https://www.copy.ai/platform/brand-voice)\n\nTechnical Resources\n\n[The Power of \"Actions\" for GTM Teams: The Building Blocks of Workflows](https://www.copy.ai/blog/the-power-of-actions-for-gtm-teams)[Introducing Tables: The Heart of Your Unified Data Strategy](https://www.copy.ai/blog/introducing-tables)[What's the Difference Between LLMs? & How to Choose the Right One](https://www.copy.ai/blog/difference-between-llms)\n\nUse cases\n\nSales\n\n[Prospecting Cockpit](https://www.copy.ai/use-cases/prospecting-cockpit)[Inbound Lead Processing](https://www.copy.ai/use-cases/inbound-lead-processing)[Deal Coaching & Forecasting](https://www.copy.ai/use-cases/deal-management-forecasting)\n\nMarketing\n\n[Account Based Marketing](https://www.copy.ai/use-cases/account-based-marketing)[Content Creation](https://www.copy.ai/use-cases/content-creation)[Translation & Localization](https://www.copy.ai/use-cases/localization-translation)\n\nOperations\n\n[Lead + Account Intelligence](https://www.copy.ai/use-cases/lead-account-intelligence)[CRM Enrichment](https://www.copy.ai/use-cases/crm-enrichment)[GTM Systems Integrations](https://www.copy.ai/use-cases/gtm-systems-integrations)\n\nFeatured Resources\n\n[Cold Email Best Practices Guide: 2025 Edition](https://www.copy.ai/blog/cold-email-best-practices-guide-2024-edition)[AI for Thought Leadership Content: How to Unlock Real Human Insights](https://www.copy.ai/blog/ai-for-thought-leadership)[How to Prospect for Sales in an AI-Driven World](https://www.copy.ai/blog/how-to-prospect-for-sales)\n\nResources\n\nBy Team\n\n[Marketing](https://www.copy.ai/resources/marketing)[Sales](https://www.copy.ai/resources/sales)[Operations](https://www.copy.ai/resources/operations)\n\nLearn More\n\n[Blog](https://www.copy.ai/blog)[For The Enterprise](https://www.copy.ai/enterprise)[Trust Center](https://trust.copy.ai/)[Webinars](https://www.copy.ai/webinars)\n\nGet Help\n\n[Help Center](https://support.copy.ai/en)[Contact Support](https://www.copy.ai/contact-us)[Changelog](https://www.copy.ai/changelog)\n\nTechnical Resources\n\n[The Power of \"Actions\" for GTM Teams: The Building Blocks of Workflows](https://www.copy.ai/blog/the-power-of-actions-for-gtm-teams)[Introducing Tables: The Heart of Your Unified Data Strategy](https://www.copy.ai/blog/introducing-tables)[How Automated Workflows and SOC 2 Compliance Protect Your Data](https://www.copy.ai/blog/how-automated-workflows-and-soc-2-compliance-protect-your-data)\n\n[Pricing](https://www.copy.ai/prices-old)\n\nGTM AI\n\nRole\n\n[Marketing](https://www.copy.ai/planning/marketing)[Sales](https://www.copy.ai/planning/sales)[Operations](https://www.copy.ai/planning/operations)[Sales Development](https://www.copy.ai/planning/sales-development)\n\nLEarn More\n\n[Why GTM AI](https://www.copy.ai/gtm-ai)[Goodbye, Copilots](https://www.copy.ai/goodbye-copilots)[The Problem with AI SDRs](https://www.copy.ai/injured)\n\nFEATURED RESOURCES\n\n[How to Go from GTM Bloat to Velocity](https://www.copy.ai/blog/introducing-gtm-ai)[GTM AI: A New Approach for Getting Rid of GTM Bloat](https://www.copy.ai/blog/gtm-ai)[AI Copilots & The Illusion of Progress](https://www.copy.ai/blog/the-illusion-of-progress-the-marginal-gains-from-ai-copilots)\n\n[Login](https://app.copy.ai/login)[Contact Sales Try for free](https://www.copy.ai/request-a-demo)\n\nCopy.ai pricing\n===============\n\nEnterprise\n\nSelf-Serve\n\nEnterprise\n----------\n\nFor orgs ready to power their GTM with AI.  \nAll Advanced features, plus:\n\n[Get a custom demo Get a custom demo Get a custom demo](https://app.copy.ai/checkout?plan=annual&tier=1)\n\n*   Guided Jumpstart Implementation\n    \n*   API Access & Bulk Workflow Runs\n    \n*   20+ Tech Integrations & API Access\n    \n\n*   Unlimited Customizable Workflows\n    \n*   Designated Account & Support Team\n    \n*   Enterprise Grade Security Protocols\n    \n\n![Image 2](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/6763dcdb9c81e80aad558e9a_Pricing-enterprise%20bg.avif)\n\nFree\n\nFor individuals getting started with AI powered solutions\n\n*   1 Seat\n    \n*   2,000 Words in Chat\n    \n*   ChatGPT 3.5 & Claude 3\n    \n*   Copy.ai Brand Voice\n    \n*   Copy.ai Infobase\n    \n\nFree Forever\n\nNo credit card required\n\n[Get started for free Get started for free](https://app.copy.ai/login)\n\nStarter\n\nFor individuals starting to drive real business value with AI\n\n*   1 Seat\n    \n*   Unlimited Words in Chat\n    \n*   Unlimited Chat Projects\n    \n*   Access to all latest LLMs\n    \n*   Private Community Access\n    \n\n**Monthly**\u00a0\n\n|\n\n\u00a0Annually\n\n20% Saving\n\n$49/mo\n\nBilled monthly\n\n[Get started Get started](https://app.copy.ai/checkout?plan=monthly&tier=1)\n\nMonthly\u00a0\n\n|\n\n\u00a0**Annually**\n\n20% Saving\n\n$36/mo\n\nBilled $432/yr\n\n[Get started Get started](https://app.copy.ai/checkout?plan=annual&tier=1)\n\nAdvanced\n\nFor streamlining GTM process.  \nAll Starter features, plus:\n\n*   Up to 5 Seats\n    \n*   2k Workflow Credits / Mo.\n    \n*   15+ Marketing Workflows\n    \n*   15+ Sales Workflows\n    \n*   Workflow Builder Access\n    \n\n**Monthly**\u00a0\n\n|\n\n\u00a0Annually\n\n20% Saving\n\n$249/mo\n\nBilled monthly\n\n[Get started Get started Get started](https://app.copy.ai/checkout?plan=monthly&tier=2)\n\nMonthly\u00a0\n\n|\n\n\u00a0**Annually**\n\n20% Saving\n\n$186/mo\n\nBilled $2,232/yr\n\n[Get started Get started Get started](https://app.copy.ai/checkout?plan=annual&tier=2)\n\nGrowth\n\nFor businesses harnessing AI for exponential growth\n\n*   75 Seats\n    \n*   Unlimited Words in Chat\n    \n*   20K Workflow Credits/Mo\n    \n\n$1,000/mo\n\nBilled $12,000/yr\n\n[Get started Get started](https://app.copy.ai/checkout?plan=annual&tier=3)\n\nExpansion\n\nFor enterprises expanding their AI Automations\n\n*   150 Seats\n    \n*   Unlimited Words in Chat\n    \n*   45K Workflow Credits/Mo\n    \n\n**$2,000/mo**\n\nBilled $24,000/yr\n\n[Contact Accounts Team Contact Accounts Team](https://www.copy.ai/request-a-demo)\n\nScale\n\nFor organizations ready to deploy Generative AI at scale\n\n*   200 Seats\n    \n*   Unlimited Words in Chat\n    \n*   75K Workflow Credits/Mo\n    \n\n$3,000/mo\n\nBilled $36,000/yr\n\n[Contact Accounts Team Contact Accounts Team](https://www.copy.ai/request-a-demo)\n\nTrusted by **17 million** users at leading companies\n\n![Image 3: Logotype of Siemens](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/6703a829d8fb552c494248b1_siemens%20logo.svg)\n\n![Image 4: Logotype of Rubrick](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/6703ad0595cd3431770860cd_rubrick%20logo.svg)\n\n![Image 5](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/676332f4674624770176ead4_autodesk.svg)\n\n![Image 6: servicenow logo](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/67252326eac157549840808c_logo_servicenow.svg)\n\n![Image 7: Logotype of TermoFisher Scientific](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/6703ad41bc1783e8389a5d66_termofisher%20logo.svg)\n\n![Image 8: Logotype of Lenovo](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/6703ad4ddc4bf73498c2374c_Lenovo%20logo.svg)\n\n![Image 9: Logotype of Siemens](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/6703a829d8fb552c494248b1_siemens%20logo.svg)\n\n![Image 10: Logotype of Rubrick](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/6703ad0595cd3431770860cd_rubrick%20logo.svg)\n\n![Image 11](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/676332f4674624770176ead4_autodesk.svg)\n\n![Image 12](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/676333074b777c0e5dcb60d7_gartner.svg)\n\n![Image 13: Logotype of TermoFisher Scientific](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/6703ad41bc1783e8389a5d66_termofisher%20logo.svg)\n\n![Image 14: Logotype of Lenovo](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/6703ad4ddc4bf73498c2374c_Lenovo%20logo.svg)\n\nMeet your Enterprise Solutions team\n-----------------------------------\n\n\u201cOur Customer Success team is here to make your [Copy.ai](https://copy.ai/) journey seamless, from day one to full adoption. With a team of industry experts by your side, we guide you through deployment, ensure smooth adoption, and help you unlock the full power of [Copy.ai](https://copy.ai/)\u2014every step of the way.\u201d\n\nGreg Clock, VP Customer Success, Copy.ai\n\n![Image 15: greg clock profile photo](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/67cf1471a9fe2bdf768f542a_Clock%20Exec%20Photo%20Reduced%201.avif)![Image 16](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657b87101b564b41fc6d9317_testimonial--bg.svg)\n\n![Image 17](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657b88dd8e7c426434a7f0ed_testimonial--corner-bl.svg)![Image 18](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657b88dd6a666dd53ad05c23_testimonial--corner-br.svg)![Image 19](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657b88dedcc4e78799f294ff_testimonial--corner-tr.svg)![Image 20](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657b88dd84ddddb90e076699_testimonial--corner-tl.svg)\n\nGuided implementation\n---------------------\n\n\u201cCopy.ai navigated through our rigorous security protocols. They set a new standard for efficient onboarding and instilled confidence in our partnership from day one.\u201d\n\nCMO\u00a0@ Fortune 500 Cybersecurity Company\n\n*   Guided onboarding with AI\u00a0experts for fast time to value\n    \n*   Codify your unique processes +\u00a0best practices with AI\n    \n*   Set up integrations with all key GTM\u00a0systems\n    \n\n![Image 21: Timeline Overview: \n\u2022 Day 1: Kickoff\n\u2022 Week 1: Testing\n\u2022 Day 15: Production Day ](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/6707af26f72904bbcbd6066d_enterprise_timeline.svg)\n\nFortune 500 companies are adopting Copy.ai with fast, tangible results\n----------------------------------------------------------------------\n\nSales collateral creation\n\n### Driving personalized sales enablement across $650m partner sales channel\n\n\u201cThe value of our AI application layer is that it\u2019s very flexible, like a Swiss Army knife. The way our vendor partnership builds out APIs makes it easy to brainstorm ideas and start on new use cases.\u201d\n\n$2.6M\n\nin cost savings\n\n$650M\n\npartner sales channel\n\nmarketing content creation\n\n### Driving accurate content generation across 100,000+ product review catalog sites\n\n\u201cWe had a huge backlog of products that didn\u2019t have unique copy for. Now we have a content system that scales.\u201d\n\n80%\n\ncut operational costs\n\n300%\n\nimproved coverage\n\nFrequently asked questions\n--------------------------\n\n### What are Workflows?\n\nA Workflow is a set of AI-powered actions that are stitched together to codify a process or best practices (eg. create account plan, write SEO\u00a0article). Copy.ai makes it easy to create customizable, intelligent workflows that combine research, content generation, and tool integrations. These workflows serve to codify your complex business processes, and extend best practices across your entire team.\n\n### What are Workflow credits?\n\nA credit represents a specific amount of computational power necessary to execute the tasks within a given workflow (eg. generate content, perform internet research, scanning websites, etc.).\n\n### What is a credit worth?\n\nA credit's value depends on the complexity of the tasks performed within Copy.ai, such as generating text, or using the API. Each workflow run might have different credit consumption, depending on the steps and content it generates.\n\n### How much does a Workflow run cost?\n\nHow much a workflow run costs depends on the complexity of the workflow. The more steps and content a workflow generates, the more it'll cost in credits. You can see how much a run costs by opening the side panel and looking at the \"Credits used\" for the run.\n\n### Can I add credits later?\n\nYes, Copy.ai allows for flexible, usage-based pricing. Our team will work with yours to scope your use cases and accurately estimate the credits necessary to fulfill those use cases. But as you discover more opportunities for AI\u00a0to add value across your organization, you can easily add credits to your balance.\n\n### For self-serve users:\u00a0Can I change my plan later?\n\nYes, you can upgrade or downgrade at any time. If you choose to upgrade, you'll pay a prorated amount for the rest of the month. If you choose to downgrade, you'll be credited on next month's bill.\n\nSee the Copy.ai platform in action\n----------------------------------\n\nGet a demo and discover how sales and marketing teams use Copy.ai to add an AI superpower to their revenue engine.  \n\n[Explore the Platform ![Image 22](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/655fe914910e515fd31e8923_Arrow%201%20(Stroke).svg) Explore the Platform ![Image 23](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/655f5602e55d60dbe9b8dffc_Arrow%201%20(Stroke).svg) Explore the Platform ![Image 24](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/655fe914910e515fd31e8923_Arrow%201%20(Stroke).svg)](https://www.copy.ai/request-a-demo)\n\n![Image 25](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/6578951a45376811d09adbee_cta--image-mobile.svg)\n\n![Image 26](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/657892c2caef77ac6dca2ecf_cta--left-img.svg)\n\nPlatform\n\nOverview\n\n[How it Works](https://www.copy.ai/platform/how-it-works)[Platform Components](https://www.copy.ai/platform/platform-components)[Powering GTM AI](https://www.copy.ai/platform/powering-gtm-ai)\n\nWorkflows\n\n[What are Workflows?](https://www.copy.ai/platform/what-are-workflows)[Building Workflows](https://www.copy.ai/platform/building-workflows)[Copy Agents](https://www.copy.ai/platform/copy-agents)\n\nIntelligence layer\n\n[Tables](https://www.copy.ai/platform/tables)[Actions](https://www.copy.ai/platform/actions)[Infobase](https://www.copy.ai/features/infobase)[Brand Voice](https://www.copy.ai/platform/brand-voice)[Chat](https://www.copy.ai/chat)\n\nUse Cases\n\nSales\n\n[Prospecting Cockpit](https://www.copy.ai/use-cases/prospecting-cockpit)[Inbound Lead Processing](https://www.copy.ai/use-cases/inbound-lead-processing)[Deal Coaching & Forecasting](https://www.copy.ai/use-cases/deal-management-forecasting)\n\nMarketing\n\n[Account Based Marketing](https://www.copy.ai/use-cases/account-based-marketing)[Content Creation](https://www.copy.ai/use-cases/content-creation)[Translation & Localization](https://www.copy.ai/use-cases/localization-translation)\n\nOperations\n\n[Lead + Account Intelligence](https://www.copy.ai/use-cases/lead-account-intelligence)[CRM Enrichment](https://www.copy.ai/use-cases/crm-enrichment)[GTM Systems Integrations](https://www.copy.ai/use-cases/gtm-systems-integrations)\n\nResources\n\nBy Team\n\n[Marketing](https://www.copy.ai/resources/marketing)[Sales](https://www.copy.ai/resources/sales)[Operations](https://www.copy.ai/resources/operations)\n\nLearn more\n\n[Blog](https://www.copy.ai/blog)[Events](https://www.copy.ai/webinars)[For The Enterprise](https://www.copy.ai/enterprise)[Trust Center](https://trust.copy.ai/)[Webinars](https://www.copy.ai/webinars)\n\nGet help\n\n[Help Center](https://support.copy.ai/en)[Contact Support](https://www.copy.ai/contact-us)[Changelog](https://www.copy.ai/changelog)\n\nOther pages\n\nBy Role\n\n[Sales](https://www.copy.ai/pricing#)[Marketing](https://www.copy.ai/archive/email-marketers-old)\n\nLearn\n\n[Home](https://www.copy.ai/)[Pricing](https://www.copy.ai/prices)[GTM AI](https://www.copy.ai/#why-gtm-ai)[Careers](https://jobs.lever.co/CopyAI)[Free Tools](https://www.copy.ai/pricing#)[Podcasts](https://www.copy.ai/podcasts)\n\nGet Support\n\n[Live Training](https://www.copy.ai/pricing#)[Help Docs](https://support.copy.ai/)[Community](https://www.copy.ai/pricing#)\n\n![Image 27: copy.ai black and white transparent background logo](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8fa99080372ee502cfcc_logo_white_kerning-fix.svg)\n\n\u00a9 2025 CopyAI, Inc\n\n[Privacy Notice](https://www.copy.ai/privacy-notice)[Terms of Service](https://www.copy.ai/terms-of-service)[Status](https://status.copy.ai/)\n\n[![Image 28: linkedin icon](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/656088bfb2e826ea15790b1b_Frame%20316126176.svg)](https://www.linkedin.com/company/copyai/)[![Image 29: facebook icon](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/656088bf82cf41a39803d531_Frame%20316126177.svg)](https://www.facebook.com/groups/887950931991543/)[![Image 30: twitter \"X\" logo](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/65822605bd3609a56a231a75_x.svg)](https://www.twitter.com/copy_ai)\n\n      \n\nWe use cookies to optimize your browsing experience for the purpose of personalizing and measuring the effectiveness of ads. By clicking \"Allow All\", you consent to our use of cookies.\n\n[Privacy Policy \u2197](https://www.copy.ai/privacy-policy)\n\n[Manage Cookies](https://www.copy.ai/pricing#)\n\nDecline Allow All [Dismiss Banner](https://www.copy.ai/pricing#)\n\nClose\n\nCookie Preferences\n\nThis website uses the following types of services. Learn more from our [Cookie Policy](https://www.copy.ai/privacy-policy).\n\nStrictly Necessary\n\nAlways Active\n\nStrictly Necessary cookies are absolutely necessary for core functions such as navigating the page or accessing secure areas. The website cannot function properly without these cookies.\n\nMarketing\n\n marketing Toggle\n\nMarketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers.\n\nAnalytics\n\n analytics Toggle\n\nAnalytics cookies serve to improve the performance and functionality of this website by collecting and reporting information anonymously.\n\nPreferences\n\n preferences Toggle\n\nPreference cookies are used to remember settings and customizations that change the way the website behaves or looks.\n\nAllow All Decline\n\nSave & Accept\n\n[](https://www.enzuzo.com/cookie-banner-generator)\n\nClose\n\nDo not sell or share my personal information\n\nAs described in our Privacy Policy, we collect personal information from your interactions with us and our website, including through cookies and similar technologies. We may also share this personal information with third parties, including advertising partners. We do this in order to show you ads on other websites that are more relevant to your interests and for other reasons outlined in our privacy policy.\n\nSharing of personal information for targeted advertising based on your interaction on different websites may be considered \u201csales\u201d, \u201csharing\u201d, or \u201ctargeted advertising\u201d under certain U.S. state privacy laws. Depending on where you live, you may have the right to opt out of these activities. If you would like to exercise this opt-out right, please follow the instructions below.\n\nIf you visit our website with the Global Privacy Control opt-out preference signal enabled, depending on where you are, we will treat this as a request to opt-out of activity that may be considered a \u201csale\u201d or \u201csharing\u201d of personal information or other uses that may be considered targeted advertising for the device and browser you used to visit our website.\n\nBy clicking \u201copt out\u201d, the browser on this device will be opted out of sharing personal data.\n\n**You have opted out on this browser.**\n\nOpt Out\n\n[](https://www.enzuzo.com/cookie-banner-generator)\n\n \n\nSEO Lives!\n\nLearn to scale high-performing content without sacrificing strategy, quality, or human creativity\n\n02\n\nDays\n\n07\n\nHours\n\n22\n\nMinutes\n\n35\n\nSeconds\n\nSecure Your Spot\n\nNo thanks\n\nWhether you need simple generative AI tools or complex AI-powered workflows, Copy.ai offers a secure and reliable generative AI platform as you scale.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "copy_ai",
+        "app_name": "Copy.ai",
+        "app_slug": "copy-ai",
+        "pricing_url": "https://www.copy.ai/prices",
+        "source_url": "https://www.copy.ai/prices",
+        "all_pricing_urls": [
+          "https://www.copy.ai/prices",
+          "https://www.copy.ai/prices-old"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": null,
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "For individuals getting started with AI powered solutions",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "1 Seat",
+              "2,000 Words in Chat",
+              "ChatGPT 3.5 & Claude 3",
+              "Copy.ai Brand Voice",
+              "Copy.ai Infobase"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Starter",
+            "tier_description": "For individuals starting to drive real business value with AI",
+            "monthly_price": 49.0,
+            "annual_price": 432.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "1 Seat",
+              "Unlimited Words in Chat",
+              "Unlimited Chat Projects",
+              "Access to all latest LLMs",
+              "Private Community Access"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Advanced",
+            "tier_description": "For streamlining GTM process",
+            "monthly_price": 249.0,
+            "annual_price": 2232.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Up to 5 Seats",
+              "2k Workflow Credits / Mo.",
+              "15+ Marketing Workflows",
+              "15+ Sales Workflows",
+              "Workflow Builder Access"
+            ],
+            "limits": {
+              "users": 5,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Workflow Credits",
+                  "value": "2k / Mo."
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Growth",
+            "tier_description": "For businesses harnessing AI for exponential growth",
+            "monthly_price": 1000.0,
+            "annual_price": 12000.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "75 Seats",
+              "Unlimited Words in Chat",
+              "20K Workflow Credits/Mo"
+            ],
+            "limits": {
+              "users": 75,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Workflow Credits",
+                  "value": "20K / Mo."
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Expansion",
+            "tier_description": "For enterprises expanding their AI Automations",
+            "monthly_price": 2000.0,
+            "annual_price": 24000.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "150 Seats",
+              "Unlimited Words in Chat",
+              "45K Workflow Credits/Mo"
+            ],
+            "limits": {
+              "users": 150,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Workflow Credits",
+                  "value": "45K / Mo."
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Scale",
+            "tier_description": "For organizations ready to deploy Generative AI at scale",
+            "monthly_price": 3000.0,
+            "annual_price": 36000.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "200 Seats",
+              "Unlimited Words in Chat",
+              "75K Workflow Credits/Mo"
+            ],
+            "limits": {
+              "users": 200,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Workflow Credits",
+                  "value": "75K / Mo."
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": {
+          "has_token_based_pricing": null,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": null,
+          "has_fine_tuning_pricing": null,
+          "has_training_pricing": null,
+          "ai_addon_available": null
+        },
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T04:52:35.586428",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\copyai\\20250415_045235"
+}

@@ -1,0 +1,261 @@
+{
+  "app_id": "easywebinar",
+  "app_name": "EasyWebinar",
+  "app_slug": "easywebinar",
+  "pricing_url": null,
+  "source_url": "https://easywebinar.com/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes free tier, subscription plans, and custom enterprise solutions.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "No credit card required & No software to install",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 25 leads",
+        "Up to 30 minutes/webinar",
+        "1 active automated webinar",
+        "1 live webinar session"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "live attendees",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": null,
+      "monthly_price": 80.0,
+      "annual_price": 800.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Up to 4 hours/webinar",
+        "3 active automated webinars",
+        "Unlimited live webinar sessions",
+        "Standard support",
+        "Up to 4 co-hosts",
+        "Embeddable registration",
+        "Custom registration fields",
+        "Selected subscription add-ons",
+        "Clone Webinar"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "leads",
+            "value": 500
+          },
+          {
+            "name": "live attendees",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Most Popular",
+      "monthly_price": 197.0,
+      "annual_price": 1970.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Up to 8 hours/webinar",
+        "10 active simulated live webinars",
+        "Evergreen webinars",
+        "Just-In-Time webinars",
+        "Dedicated support",
+        "Adaptability in the number of co-hosts",
+        "Instant On-Demand (VSL events)",
+        "Access to EW learning",
+        "Custom UTM codes",
+        "Custom integrations",
+        "White labeling (add-on)",
+        "C-Name (add-on)",
+        "One-Time-Setup (add-on)",
+        "Multiple subscription add-ons"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "leads",
+            "value": 2000
+          },
+          {
+            "name": "live attendees",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom Plans",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 12 hours/webinar",
+        "10+ active simulated live/evergreen webinars",
+        "Dedicated support & SLA",
+        "Dedicated account manager",
+        "Up to 6 co-hosts",
+        "Personalized page builder",
+        "Premium landing page templates",
+        "Live event monitoring",
+        "1-on-1 Onboarding + training",
+        "Enterprise & Custom Integrations",
+        "Access to API",
+        "White label URLs and pages",
+        "Webinar marketing services",
+        "Done-For-You services (add-on)",
+        "Free One-Time setup"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "leads",
+            "value": "unlimited"
+          },
+          {
+            "name": "live attendees",
+            "value": 500000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional leads and live attendees",
+      "unit": "per month",
+      "base_price": 78.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 1000.0,
+          "price": 78.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Additional co-hosts",
+      "unit": "per month",
+      "base_price": 70.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 70.0
+        }
+      ]
+    },
+    {
+      "metric_name": "C-Name",
+      "unit": "per month",
+      "base_price": 49.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 49.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Hubspot/Pardot integration",
+      "unit": "per month",
+      "base_price": 99.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 99.0
+        }
+      ]
+    },
+    {
+      "metric_name": "White labeling",
+      "unit": "per month",
+      "base_price": 99.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 99.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Webinar Setup",
+      "fee_amount": 250.0,
+      "fee_description": "One-time setup fee for interactive webinars and virtual conferences."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:29:45.139896",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f25c474f-7b01-43b8-8d13-6393ba0daa41",
+    "name": "EasyWebinar",
+    "slug": "easywebinar",
+    "description": "EasyWebinar is a webinar software program that allows you to go live or use our automated feature to show a pre-recorded video as your webinar. Connect any webinar in EasyWebinar, live or automated, to your favorite autoresponder.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/05a2ca6ae98a8d9a93f28c8a09748f1c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Webinars"
+    ],
+    "category_slugs": [
+      "webinars"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

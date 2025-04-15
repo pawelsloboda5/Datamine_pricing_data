@@ -1,0 +1,65 @@
+{
+  "app_id": "youtube",
+  "app_name": "YouTube",
+  "app_slug": "youtube",
+  "pricing_url": "https://www.youtube.com/premium",
+  "source_url": "https://www.youtube.com/premium",
+  "all_pricing_urls": [
+    "https://www.youtube.com/premium"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "YouTube Premium offers a subscription model with a free trial period.",
+  "pricing_tiers": [
+    {
+      "tier_name": "YouTube Premium",
+      "tier_description": "Ad-free access, downloads, and background play on YouTube and YouTube Music.",
+      "monthly_price": 11.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Ad-free access",
+        "Downloads",
+        "Background play",
+        "Access to YouTube Music"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:27:32.371069",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "115a60aa-0ff1-42ae-b600-78fca155f7c7",
+    "name": "YouTube",
+    "slug": "youtube",
+    "description": "YouTube allows billions of people to discover, watch and share originally-created videos. YouTube provides a forum for people to connect, inform, and inspire others across the globe and acts as a distribution platform for original content creators and advertisers large and small.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/7633e61620664fb3a71911729ebce5ea.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Google",
+      "Video & Audio"
+    ],
+    "category_slugs": [
+      "google",
+      "video"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 3
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "app_id": "greenhouse",
+  "app_name": "Greenhouse",
+  "app_slug": "greenhouse",
+  "pricing_url": "https://www.greenhouse.com/pricing",
+  "source_url": "https://www.greenhouse.com/pricing",
+  "all_pricing_urls": [
+    "https://www.greenhouse.com/pricing"
+  ],
+  "price_model_type": [
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is customized based on company size and needs, and additional costs may apply for certain features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essential",
+      "tier_description": "Build, streamline and manage a more structured hiring process and a more inclusive candidate experience.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "CRM Essential + 1 event",
+        "Multi-channel sourcing",
+        "Job Ad Market",
+        "Texting, powered by Grayscale",
+        "GDPR compliance",
+        "Security and performance",
+        "Automated task management",
+        "U.S. Standard demographic and EEOC questions",
+        "DE&I behavioral nudges",
+        "Company DE&I statement",
+        "Candidate name pronunciation",
+        "Collect candidate pronouns",
+        "Core reports",
+        "Goal-setting and tracking"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Uplevel your recruiting infrastructure to configure, scale and automate processes as you grow.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "CRM Essential + 10 events",
+        "Internal and multi-brand job boards",
+        "Advanced data configuration",
+        "Single sign-on",
+        "Bulk action and approvals",
+        "Automated user management and stage transitions rules",
+        "Bulk import",
+        "Candidate self-scheduling",
+        "Auto-advance and reject",
+        "Custom reports"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Expert",
+      "tier_description": "Customize your hiring processes with more sophisticated tools, more robust reporting and more security safeguards.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "CRM Expert + unlimited events",
+        "Prospect posts and review",
+        "Enhanced security and performance",
+        "Expert data configuration",
+        "Developer sandbox",
+        "Automated permissions management",
+        "Sandbox sync",
+        "DE&I structured interviewing",
+        "Anonymized take-home tests",
+        "Focus attributes for roundup",
+        "Required scorecard explanations",
+        "Business Intelligence Connector",
+        "DE&I-specific reports",
+        "Custom demographic questions",
+        "Audit log"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Additional cost for certain features",
+      "fee_amount": null,
+      "fee_description": "Features such as Texting powered by Grayscale and Sandbox sync may incur additional costs."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:56:25.912255",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "46124911-d9e6-46e8-857c-d8525608fce0",
+    "name": "Greenhouse",
+    "slug": "greenhouse",
+    "description": "Greenhouse is a hiring software company. We create the technology, know-how and support for your business' hiring needs.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/a089e0eaf009d853700c6fa8c9e40157.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "HR Talent & Recruitment"
+    ],
+    "category_slugs": [
+      "hr"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 3
+  }
+}

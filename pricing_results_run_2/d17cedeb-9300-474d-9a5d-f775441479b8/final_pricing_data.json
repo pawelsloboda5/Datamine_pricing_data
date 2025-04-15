@@ -1,0 +1,71 @@
+{
+  "app_id": "anedot",
+  "app_name": "Anedot",
+  "app_slug": "anedot",
+  "pricing_url": "https://anedot.com/pricing",
+  "source_url": "https://anedot.com/pricing",
+  "all_pricing_urls": [
+    "https://anedot.com/pricing"
+  ],
+  "price_model_type": [
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Anedot offers a free tier with no setup fees or monthly charges.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic tier with no monthly fees.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": 0.0,
+      "features": [
+        "No setup fees",
+        "No contracts",
+        "Unlimited donation pages",
+        "Text to give",
+        "Recurring giving options"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:27:16.690245",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d17cedeb-9300-474d-9a5d-f775441479b8",
+    "name": "Anedot",
+    "slug": "anedot",
+    "description": "Better tools for better fundraising. Anedot empowers ministry, education, and politics to raise more money with less effort.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/949f7654ef2edd0e56ba6fbcc949ee4e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fundraising"
+    ],
+    "category_slugs": [
+      "fundraising"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

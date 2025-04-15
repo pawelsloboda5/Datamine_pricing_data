@@ -1,0 +1,117 @@
+{
+  "app_id": "clockshark",
+  "app_name": "ClockShark",
+  "app_slug": "clockshark",
+  "pricing_url": "https://www.clockshark.com/pricing/",
+  "source_url": "https://www.clockshark.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.clockshark.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on a base monthly fee plus a per-user fee.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Time tracking with scheduling, geofencing and administrative features designed for small businesses.",
+      "monthly_price": 40.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Time and attendance tracking",
+        "GPS tracking",
+        "Job and task tracking",
+        "Built-in Spanish language support",
+        "Drag and drop scheduling",
+        "Manager roles and approvals",
+        "Third-party integrations",
+        "Draft schedules"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Robust time tracking, scheduling, and time off management features for growing businesses and established multi-location businesses.",
+      "monthly_price": 60.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Time and attendance tracking",
+        "GPS tracking",
+        "Job and task tracking",
+        "Built-in Spanish language support",
+        "Drag and drop scheduling",
+        "Manager roles and approvals",
+        "Third-party integrations",
+        "Draft schedules",
+        "Paid time off (PTO)",
+        "Multi-department/office controls",
+        "Advanced job costing controls",
+        "Clock out questions"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "user",
+      "unit": "per user per month",
+      "base_price": 9.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "user",
+      "unit": "per user per month",
+      "base_price": 11.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:30:39.607034",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f9352bcd-02cf-4a91-bd7b-bc5c56aff07b",
+    "name": "ClockShark",
+    "slug": "clockshark",
+    "description": "ClockShark is a powerful and easy to use mobile time tracking app.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/16377c5c13c68f688acab3fca1c94054.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Time Tracking Software"
+    ],
+    "category_slugs": [
+      "time-tracking"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 5
+  }
+}

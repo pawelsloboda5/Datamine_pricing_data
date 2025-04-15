@@ -1,0 +1,229 @@
+{
+  "app_id": "paperform",
+  "app_name": "Paperform",
+  "app_slug": "paperform",
+  "pricing_url": "https://paperform.co/pricing",
+  "source_url": "https://paperform.co/pricing/",
+  "all_pricing_urls": [
+    "https://paperform.co/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes monthly and annual options with discounts for annual plans. Additional fees apply for exceeding limits and for certain features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essentials",
+      "tier_description": "For individuals looking for a better way to build forms.",
+      "monthly_price": 24.0,
+      "annual_price": 288.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited forms",
+        "1 user",
+        "1,200 submissions/year",
+        "240 payment submissions/year",
+        "600 appointment submissions/year",
+        "1GB upload storage",
+        "Standard live support",
+        "AI features",
+        "Basic integrations"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "1GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Submissions per year",
+            "value": 1200
+          },
+          {
+            "name": "Payment submissions per year",
+            "value": 240
+          },
+          {
+            "name": "Appointment submissions per year",
+            "value": 600
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For small teams looking to keep forms on-brand and unlock our full functionality.",
+      "monthly_price": 49.0,
+      "annual_price": 588.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited forms",
+        "3 users",
+        "12,000 submissions/year",
+        "3,000 payment submissions/year",
+        "6,000 appointment submissions/year",
+        "10GB upload storage",
+        "Priority live support",
+        "Custom domain support",
+        "Advanced integrations"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "10GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Submissions per year",
+            "value": 12000
+          },
+          {
+            "name": "Payment submissions per year",
+            "value": 3000
+          },
+          {
+            "name": "Appointment submissions per year",
+            "value": 6000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For organizations and businesses after scalability, superior compliance and priority support.",
+      "monthly_price": 99.0,
+      "annual_price": 1188.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited forms",
+        "Unlimited users",
+        "120,000 submissions/year",
+        "30,000 payment submissions/year",
+        "60,000 appointment submissions/year",
+        "100GB upload storage",
+        "First priority live support",
+        "Unlimited custom domains",
+        "Business API access",
+        "Advanced security features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Submissions per year",
+            "value": 120000
+          },
+          {
+            "name": "Payment submissions per year",
+            "value": 30000
+          },
+          {
+            "name": "Appointment submissions per year",
+            "value": 60000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For organizations with bespoke or high volume needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom solutions",
+        "Dedicated support",
+        "Advanced compliance options",
+        "Custom integrations"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional submissions",
+      "unit": "per 3,000",
+      "base_price": 7.5,
+      "tiers": [
+        {
+          "min": 1200.0,
+          "max": 9000.0,
+          "price": 7.5
+        }
+      ]
+    },
+    {
+      "metric_name": "Additional payment submissions",
+      "unit": "per 6,000",
+      "base_price": 10.0,
+      "tiers": [
+        {
+          "min": 3000.0,
+          "max": 30000.0,
+          "price": 10.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Additional appointment submissions",
+      "unit": "per 120,000",
+      "base_price": 10.0,
+      "tiers": [
+        {
+          "min": 6000.0,
+          "max": 600000.0,
+          "price": 10.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Custom domain",
+      "fee_amount": 20.0,
+      "fee_description": "Monthly fee per additional domain"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:09:45.598603",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "137b58bd-b9c0-4d00-b1a8-1d9ac11a7f91",
+    "name": "Paperform",
+    "slug": "paperform",
+    "description": "A digital Swiss Army Knife: take payments, create forms, manage bookings and put manual processes on autopilot. Where imagination takes form.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/9d8fbcdab89ea723d94772ff0170a99a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 21,
+    "trigger_count": 1
+  }
+}

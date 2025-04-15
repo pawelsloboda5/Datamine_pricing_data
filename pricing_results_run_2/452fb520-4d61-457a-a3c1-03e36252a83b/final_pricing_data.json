@@ -1,0 +1,45 @@
+{
+  "app_id": "grow",
+  "app_name": "Grow",
+  "app_slug": "grow",
+  "pricing_url": null,
+  "source_url": "https://www.grow.com",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are not explicitly provided in the content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:50:11.165742",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "452fb520-4d61-457a-a3c1-03e36252a83b",
+    "name": "Grow",
+    "slug": "grow",
+    "description": "Grow helps publishers build their mailing list.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c1e745ebeddffcafe70a915e29f48e42.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 1
+  }
+}

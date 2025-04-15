@@ -1,0 +1,24 @@
+{
+  "app_name": "Lob",
+  "app_slug": "lob",
+  "search_term": "Find the official pricing page URL for Lob (lob.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744702482.902861,
+  "response_text": [
+    "The official pricing page for Lob can be found at: [https://www.lob.com/pricing](https://www.lob.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Direct Mail Pricing | Certified Mail Cost & Price Package - Lob",
+      "url": "https://www.lob.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.lob.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\lob\\20250415_033458"
+}

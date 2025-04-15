@@ -1,0 +1,149 @@
+{
+  "app_id": "elastic_email",
+  "app_name": "Elastic Email",
+  "app_slug": "elastic-email",
+  "pricing_url": "https://elasticemail.com/pricing",
+  "source_url": "https://elasticemail.com/pricing",
+  "all_pricing_urls": [
+    "https://elasticemail.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of contacts and includes a free tier with limited sending capabilities.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Test crucial features with limited sending.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Limited sending capabilities"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 2500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "For up to 2,500 contacts and up to 37,500 emails/month.",
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to Email Delivery Engine",
+        "Email Designer",
+        "Campaign Creator",
+        "Landing Page Editor",
+        "Web Forms",
+        "Single & Bulk Email Verification",
+        "Segmentation",
+        "Analytics",
+        "Customer Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 37500,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 2500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For up to 2,500 contacts and up to 37,500 emails/month.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features from Starter plan",
+        "Email Automations",
+        "Faster Delivery Speed",
+        "Unlimited Custom Fields",
+        "Custom rDNS",
+        "Webhooks",
+        "Sub Accounts",
+        "User Management",
+        "Reseller Features",
+        "Form with reCAPTCHA"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 37500,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 2500
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Private IP",
+      "fee_amount": 40.0,
+      "fee_description": "Monthly fee for a private IP in the Starter plan."
+    },
+    {
+      "fee_name": "Private IP",
+      "fee_amount": 50.0,
+      "fee_description": "Monthly fee for a private IP in the Pro plan."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:10:08.817135",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a1570b82-d8a1-4f9e-94ad-89fe6208ea25",
+    "name": "Elastic Email",
+    "slug": "elasticemail",
+    "description": "Elastic Email is an all-in-one email delivery platform. Offering an SMTP Relay, robust HTTP API, and a User Interface that has a complete suite of tools and features for managing contacts, templates, campaigns, and reports. Specializing in delivering transactional and marketing email for businesses of any size.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/dfd4cfdb6f5ecdc6c52074951ce5b646.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email"
+    ],
+    "category_slugs": [
+      "email"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 1
+  }
+}

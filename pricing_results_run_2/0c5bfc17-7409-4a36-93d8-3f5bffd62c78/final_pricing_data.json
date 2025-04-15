@@ -1,0 +1,248 @@
+{
+  "app_id": "convertcalculator",
+  "app_name": "ConvertCalculator",
+  "app_slug": "convertcalculator",
+  "pricing_url": "https://www.convertcalculator.com/pricing/",
+  "source_url": "https://www.convertcalculator.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.convertcalculator.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Free tier available with limitations on visits. Paid plans offer scaling features and usage limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Free plan with limited visits.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Form elements",
+        "Charts and graphs",
+        "Date and time fields",
+        "Table for datasets",
+        "Capture payments",
+        "Multi-page forms",
+        "Show / hide logic",
+        "Calculations and formulas",
+        "File uploads"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Visits",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Hobby",
+      "tier_description": "Ideal for basic calculators.",
+      "monthly_price": 20.0,
+      "annual_price": 200.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Basic features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Visits",
+            "value": 2000
+          },
+          {
+            "name": "Submissions",
+            "value": 0
+          },
+          {
+            "name": "Payments",
+            "value": 0
+          },
+          {
+            "name": "File uploads",
+            "value": "0MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Suitable for lead generation and product configuration.",
+      "monthly_price": 40.0,
+      "annual_price": 400.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Form submissions",
+        "Capture payments",
+        "Pro elements",
+        "Integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Visits",
+            "value": 10000
+          },
+          {
+            "name": "Submissions",
+            "value": 200
+          },
+          {
+            "name": "Payments",
+            "value": 30
+          },
+          {
+            "name": "File uploads",
+            "value": "1MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Designed for advanced forms and calculators.",
+      "monthly_price": 100.0,
+      "annual_price": 1000.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Show / hide logic",
+        "Multi-page forms",
+        "Premium elements",
+        "Access JS API"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Visits",
+            "value": 50000
+          },
+          {
+            "name": "Submissions",
+            "value": 1000
+          },
+          {
+            "name": "Payments",
+            "value": 300
+          },
+          {
+            "name": "File uploads",
+            "value": "10MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Platinum",
+      "tier_description": "Best for businesses and agencies.",
+      "monthly_price": 200.0,
+      "annual_price": 2000.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Custom domains",
+        "Workspaces",
+        "Layered images",
+        "PDFs"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Visits",
+            "value": 300000
+          },
+          {
+            "name": "Submissions",
+            "value": 10000
+          },
+          {
+            "name": "Payments",
+            "value": 3000
+          },
+          {
+            "name": "File uploads",
+            "value": "100MB"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Billing Discount",
+      "offer_description": "Pay annually and get two months free.",
+      "discount_percentage": 16.67,
+      "offer_url": "https://www.convertcalculator.com/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Concierge Service",
+      "fee_amount": 250.0,
+      "fee_description": "Interactive content creation and integration assistance."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:17:32.471441",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0c5bfc17-7409-4a36-93d8-3f5bffd62c78",
+    "name": "ConvertCalculator",
+    "slug": "convertcalculator",
+    "description": "ConvertCalculator is the versatile calculator builder for your website that boosts sales and reduces hassle. Let your users calculate a price quote, savings, ROI, mortgage payments or anything else that needs calculation.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/dc668abd6b868a3a55ca09419e31b636.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

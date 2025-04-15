@@ -1,0 +1,47 @@
+{
+  "app_id": "dotdigital",
+  "app_name": "Dotdigital",
+  "app_slug": "dotdigital",
+  "pricing_url": "https://dotdigital.com/pricing/",
+  "source_url": "https://dotdigital.com/pricing/",
+  "all_pricing_urls": [
+    "https://dotdigital.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Dotdigital offers customized pricing plans based on user requirements such as contact database size, message volume, and pageviews.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:31:53.527124",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4dce6926-93a1-4398-a2fd-d2d446492267",
+    "name": "Dotdigital",
+    "slug": "dotdigital",
+    "description": "Dotdigital is a customer experience and data platform (CXDP) that empowers marketers to create highly personalized cross-channel journeys.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/14c7401ae9cb12d81e81d390303cbd76.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 12,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "app_id": "grain",
+  "app_name": "Grain",
+  "app_slug": "grain",
+  "pricing_url": null,
+  "source_url": "https://grain.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 25% discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Quick and easy way to use Grain",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited meetings",
+        "1 notetaker seat",
+        "Basic AI notes",
+        "Unlimited viewer seats",
+        "Collaborative workspace"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "For product, design, and research",
+      "monthly_price": 19.0,
+      "annual_price": 15.0,
+      "annual_discount_percentage": 21.05,
+      "setup_fee": null,
+      "features": [
+        "10 monthly uploads",
+        "Advanced AI notes",
+        "Custom AI prompts",
+        "Admin controls",
+        "Slack integration",
+        "Productboard integration",
+        "Zapier integration",
+        "No 45 min recording limit",
+        "No 90 day viewing limit"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For sales and customer success",
+      "monthly_price": 39.0,
+      "annual_price": 29.0,
+      "annual_discount_percentage": 25.64,
+      "setup_fee": null,
+      "features": [
+        "Hubspot integration",
+        "Salesforce integration",
+        "Custom AI follow-up email",
+        "AI coaching",
+        "Trackers",
+        "Deal status dashboard",
+        "Team performance insights",
+        "Unlimited uploads",
+        "Aircall integration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Advanced support and security",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "SAML-based SSO",
+        "API access (beta)",
+        "Custom invoices",
+        "Dedicated CS manager"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Save 25% on annual plans compared to monthly billing.",
+      "discount_percentage": 25.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:13:04.657128",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "441d4f4f-d2a6-4609-9c7a-b069fd7d96a2",
+    "name": "Grain",
+    "slug": "grain",
+    "description": "Grain joins your calls to take notes, document the next steps, and file automated meeting notes in platforms like Slack, HubSpot, and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/4a55f6f85595f80f9e42239f1a880899.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools",
+      "Transcription"
+    ],
+    "category_slugs": [
+      "ai-tools",
+      "transcription"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 8
+  }
+}

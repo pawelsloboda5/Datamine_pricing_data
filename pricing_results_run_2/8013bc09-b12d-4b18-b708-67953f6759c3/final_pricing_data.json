@@ -1,0 +1,164 @@
+{
+  "app_id": "aryeo",
+  "app_name": "Aryeo",
+  "app_slug": "aryeo",
+  "pricing_url": "https://www.aryeo.com/pricing",
+  "source_url": "https://www.aryeo.com/pricing",
+  "all_pricing_urls": [
+    "https://www.aryeo.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing tiers are clearly defined with monthly costs and features. Enterprise tier requires custom pricing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Tier 1",
+      "tier_description": "For solo operators just getting started",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "100 Annual Listings",
+        "1 Team Member",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Annual Listings",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Tier 2",
+      "tier_description": "For small businesses starting to grow",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "250 Annual Listings",
+        "3 Team Members",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Annual Listings",
+            "value": 250
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Tier 3",
+      "tier_description": "For teams looking to take it to the next level",
+      "monthly_price": 179.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "500 Annual Listings",
+        "5 Team Members",
+        "Standard Support"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Annual Listings",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large companies looking to scale",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "500+ Annual Listings",
+        "Unlimited Team",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Annual Listings",
+            "value": "500+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "SMS Notifications",
+      "fee_amount": 19.0,
+      "fee_description": "Monthly fee for SMS notifications"
+    },
+    {
+      "fee_name": "Branded Mobile App",
+      "fee_amount": 179.0,
+      "fee_description": "Monthly fee for branded mobile app"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:33:24.420661",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "8013bc09-b12d-4b18-b708-67953f6759c3",
+    "name": "Aryeo",
+    "slug": "aryeo",
+    "description": "The Industry Leading Real Estate Content Platform. Manage, share, and collaborate on the content created to market properties.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/25cf213d6123aefff7ed16084578cc91_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Productivity"
+    ],
+    "category_slugs": [
+      "productivity"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 9
+  }
+}

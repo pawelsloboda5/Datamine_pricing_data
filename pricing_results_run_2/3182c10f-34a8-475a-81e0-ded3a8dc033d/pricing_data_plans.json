@@ -1,0 +1,121 @@
+{
+  "app_id": "g2_crowd",
+  "app_name": "G2 Crowd",
+  "app_slug": "g2-crowd",
+  "pricing_url": "https://sell.g2.com/plans",
+  "source_url": "https://sell.g2.com/plans",
+  "all_pricing_urls": [
+    "https://sell.g2.com/plans",
+    "https://learn.g2.com/hubfs/g2-pricing-guide.pdf"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are not publicly disclosed and require contacting sales or downloading the pricing guide.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Core",
+      "tier_description": "Earn more exposure, share your story, & connect with buyers.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Drive highly qualified traffic to your website with a G2 Profile.",
+        "Customize your profile to showcase your brand and stand out from the competition.",
+        "Engage prospects with CTAs, content, and exclusive deals."
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Review Growth",
+      "tier_description": "Elevate your reputation with a consistent flow of authentic customer reviews.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access review campaign tools, integrations, and services to increase review volume and frequency.",
+        "Share and embed quotes and reviews.",
+        "Tailor review collection to align with your needs using custom questions and exportable data."
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Buyer Intent",
+      "tier_description": "Accelerate and optimize your pipeline with low-funnel intent signals.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Target accounts most likely to convert.",
+        "Accelerate sales cycles and increase win rates.",
+        "Combat churn and identify upsell opportunities with intel from buyers engaging with your competitors or category."
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Content Subscription",
+      "tier_description": "Convert more leads with licensed G2 Reports and Grids powered by trusted reviews.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Third party reports serve as ready-to-promote assets usable across channels.",
+        "Show customers social proof and lock in the win with voice-of-the-customer content.",
+        "Demonstrate credibility by becoming a category leader."
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Market Intelligence",
+      "tier_description": "Improve your go-to-market with deeper product insights and unmatched competitive intelligence.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Craft a data-driven growth strategy using millions of G2 data points.",
+        "Uncover competitive intel and trend data to win more deals.",
+        "Access an always-on feed of voice-of-the-customer inputs to build better products."
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:33:24.833905",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3182c10f-34a8-475a-81e0-ded3a8dc033d",
+    "name": "G2 Crowd",
+    "slug": "g2-crowd",
+    "description": "G2 Crowd is a business review platform, that makes business purchasing decisions transparent and easy.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/24ab935dd1b78f8c4ec5b0635cd9cd57.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Reviews"
+    ],
+    "category_slugs": [
+      "reviews"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

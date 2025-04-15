@@ -1,0 +1,150 @@
+{
+  "app_id": "loyverse",
+  "app_name": "Loyverse",
+  "app_slug": "loyverse",
+  "pricing_url": null,
+  "source_url": "https://loyverse.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "free_tier",
+    "subscription"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Add-ons are priced per store and include a 14-day free trial. Discounts are available for annual payments.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features of Loyverse POS",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage multiple stores",
+        "Sales analytics",
+        "Inventory management",
+        "Loyalty program"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Unlimited Sales History",
+      "tier_description": "View sales reports for any time period and export data to spreadsheets",
+      "monthly_price": 5.0,
+      "annual_price": 50.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited sales history",
+        "Export data to spreadsheets"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Employee Management",
+      "tier_description": "Manage access rights, track timecards and sales by employee",
+      "monthly_price": 25.0,
+      "annual_price": 250.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Manage access rights",
+        "Track timecards",
+        "Track sales by employee"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Advanced Inventory",
+      "tier_description": "Create purchase orders, view inventory valuation report and manage stock",
+      "monthly_price": 25.0,
+      "annual_price": 250.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Create purchase orders",
+        "View inventory valuation report",
+        "Manage stock"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Stores",
+            "value": "Contact for special offer if more than 3"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Payment Discount",
+      "offer_description": "Pay annually and get 2 months free",
+      "discount_percentage": 16.67,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Taxes",
+      "fee_amount": null,
+      "fee_description": "All prices are exclusive of taxes"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:58:39.612811",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "8ce5cbb8-de43-47be-ac26-cec86429aeb4",
+    "name": "Loyverse",
+    "slug": "loyverse",
+    "description": "Free Point of Sale and Inventory Management Software. Turn your smartphone or tablet into a powerful POS. Manage sales, inventory and employees with ease.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/0144004f2e64427e0841e90d0e534354.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 50,
+    "trigger_count": 4
+  }
+}

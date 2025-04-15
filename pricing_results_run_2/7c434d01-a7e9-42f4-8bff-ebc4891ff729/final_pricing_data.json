@@ -1,0 +1,134 @@
+{
+  "app_id": "nanonets_ocr",
+  "app_name": "Nanonets OCR",
+  "app_slug": "nanonets-ocr",
+  "pricing_url": "https://nanonets.com/pricing",
+  "source_url": "https://nanonets.com/pricing",
+  "all_pricing_urls": [
+    "https://nanonets.com/pricing",
+    "https://docs.nanonets.com/docs/consumption-based-billing"
+  ],
+  "price_model_type": [
+    "free_tier",
+    "usage_based",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on usage with a free tier offering $200 in credits. Volume discounts and custom enterprise solutions are available.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Tier",
+      "tier_description": "Initial credits provided for new users.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "$200 worth of credits upon signup"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pay-as-you-go",
+      "tier_description": "Usage-based pricing with no fixed costs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "No platform fees",
+        "Fixed cost per block run"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom solutions for large-scale needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Volume-based cost optimization",
+        "Team-wide credit sharing",
+        "Premium AI blocks",
+        "AI Reporting and Analytics"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Block Runs",
+      "unit": "per block",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": true,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Add-ons",
+      "fee_amount": null,
+      "fee_description": "Optional features like role-based access and custom SLAs"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:47:12.185288",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7c434d01-a7e9-42f4-8bff-ebc4891ff729",
+    "name": "Nanonets OCR",
+    "slug": "nanonets-ocr",
+    "description": "Nanonets OCR provides intelligent information extraction on any document or image",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/0e210f1ed1c7c0f0826efed002cd2d20_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Developer Tools"
+    ],
+    "category_slugs": [
+      "developer-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 2
+  }
+}

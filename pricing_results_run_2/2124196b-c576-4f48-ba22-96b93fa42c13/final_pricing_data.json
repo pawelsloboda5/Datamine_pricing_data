@@ -1,0 +1,265 @@
+{
+  "app_id": "wp_all_export_pro",
+  "app_name": "WP All Export Pro",
+  "app_slug": "wp-all-export-pro",
+  "pricing_url": "https://www.wpallimport.com/pricing/",
+  "source_url": "https://www.wpallimport.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.wpallimport.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "one_time"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes annual and one-time payment options with discounts for bundled features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Developer",
+      "tier_description": "Pro features to get your WordPress data moving",
+      "monthly_price": null,
+      "annual_price": 149.0,
+      "annual_discount_percentage": 50.17,
+      "setup_fee": null,
+      "features": [
+        "Import & Export Pro",
+        "Posts Types, Pages & Taxonomies",
+        "Custom Fields & Meta Support",
+        "WordPress Users Support",
+        "Gravity Forms Entries",
+        "Developer Tools",
+        "Pro Settings"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Unlimited Lifetime",
+      "tier_description": "All features and integrations forever for unlimited sites",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Import Pro + Export Pro",
+        "All Current Features & Integrations",
+        "All Future Features & Integrations",
+        "Lifetime Updates",
+        "Lifetime Support",
+        "No Renewal Fees"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standalone Import Pro Package",
+      "tier_description": "Includes Import Pro and Export Pro with add-ons",
+      "monthly_price": 16.58,
+      "annual_price": 199.0,
+      "annual_discount_percentage": 71.0,
+      "setup_fee": null,
+      "features": [
+        "Import Pro",
+        "Export Pro",
+        "Woo Add-On",
+        "ACF Add-On",
+        "Meta Box Add-On",
+        "JetEngine Add-On",
+        "Gravity Forms Add-On",
+        "Users Add-On"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "WooCommerce Import Package",
+      "tier_description": "Includes Import Pro and Export Pro with WooCommerce-specific add-ons",
+      "monthly_price": 14.08,
+      "annual_price": 169.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Import Pro",
+        "Export Pro",
+        "Woo Add-On",
+        "ACF Add-On",
+        "Meta Box Add-On",
+        "JetEngine Add-On",
+        "Gravity Forms Add-On",
+        "Users Add-On"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Lifetime License",
+      "tier_description": "One-time payment for lifetime access",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Import Pro + Export Pro",
+        "All Current Add-Ons",
+        "All Future Add-Ons",
+        "Lifetime Support",
+        "Lifetime Updates",
+        "No Renewal Fees"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Import Standalone",
+      "tier_description": "Standalone Import Pro package",
+      "monthly_price": 8.25,
+      "annual_price": 99.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Import Pro",
+        "Woo Add-On",
+        "ACF Add-On",
+        "Meta Box Add-On",
+        "JetEngine Add-On",
+        "Gravity Forms Add-On",
+        "Users Add-On"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Import + Export Standalone",
+      "tier_description": "Standalone Import and Export Pro package",
+      "monthly_price": 14.08,
+      "annual_price": 169.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Import Pro",
+        "Export Pro",
+        "Woo Add-On",
+        "ACF Add-On",
+        "Meta Box Add-On",
+        "JetEngine Add-On",
+        "Gravity Forms Add-On",
+        "Users Add-On"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Export Standalone",
+      "tier_description": "Standalone Export Pro package",
+      "monthly_price": 8.25,
+      "annual_price": 99.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Export Pro",
+        "Woo Add-On",
+        "ACF Add-On",
+        "Meta Box Add-On",
+        "JetEngine Add-On",
+        "Gravity Forms Add-On",
+        "Users Add-On"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Developer Annual Discount",
+      "offer_description": "Save $150 on annual subscription",
+      "discount_percentage": 50.17,
+      "offer_url": "https://www.wpallimport.com/?edd_action=add_to_cart&download_id=10870083&edd_options%5Bprice_id%5D=1&discount=welcome-149",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Unlimited Lifetime Limited-Time Offer",
+      "offer_description": "Save $300 on one-time payment",
+      "discount_percentage": 18.76,
+      "offer_url": "https://www.wpallimport.com/?edd_action=add_to_cart&download_id=10846316&edd_options%5Bprice_id%5D=1",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:13:09.653944",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "2124196b-c576-4f48-ba22-96b93fa42c13",
+    "name": "WP All Export Pro",
+    "slug": "wp-all-export-pro",
+    "description": "WP All Export turns your WordPress data into a fully customizable CSV or XML file. Edit exported WordPress posts and re-import them with WP All Import, easily migrate WooCommerce products from one site to another, and send your WordPress CSV exports anywhere you like. WP All Export makes WordPress exports easy.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/b045be7e0ecbdc62510dc272552cc49d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders"
+    ],
+    "category_slugs": [
+      "cms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "app_id": "kanban_tool",
+  "app_name": "Kanban Tool",
+  "app_slug": "kanban-tool",
+  "pricing_url": "https://kanbantool.com/pricing",
+  "source_url": "https://kanbantool.com/pricing",
+  "all_pricing_urls": [
+    "https://kanbantool.com/pricing",
+    "https://kanbantool.com/signup/new"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes options for both online and on-premise solutions. Discounts available for volume, non-profits, and educational institutions.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Advanced features for larger teams.",
+      "monthly_price": 11.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited boards",
+        "File attachments",
+        "Time tracking and reporting",
+        "User groups management",
+        "Process automation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Basic features for small teams.",
+      "monthly_price": 6.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited boards",
+        "File attachments"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Free",
+      "tier_description": "Limited features for small teams.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2 boards",
+        "2 users for free",
+        "No file attachments"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "limited",
+        "operations": "limited",
+        "api_calls": "limited",
+        "integrations": "limited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Volume Discounts",
+      "offer_description": "Special pricing for large teams.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Non-Profit and Educational Pricing",
+      "offer_description": "Discounts for eligible organizations.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "On-Site Hosting",
+      "fee_amount": null,
+      "fee_description": "Available for 10+ users, annual billing."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:07:58.003467",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "43f7c434-f82f-4d80-a190-3a576e6c809c",
+    "name": "Kanban Tool",
+    "slug": "kanbantool",
+    "description": "Kanban Tool is a smart visual project management application with real-time collaboration that allows teams to get work done faster. Kanban Tool helps companies visualize workflow, analyze and improve business processes and reduce waste.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/93b8c386d57c4e4a3e198ec5f0726b7d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 13,
+    "trigger_count": 11
+  }
+}

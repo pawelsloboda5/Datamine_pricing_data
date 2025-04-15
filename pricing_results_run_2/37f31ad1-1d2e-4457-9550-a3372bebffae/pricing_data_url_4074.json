@@ -1,0 +1,167 @@
+{
+  "app_id": "content_snare",
+  "app_name": "Content Snare",
+  "app_slug": "content-snare",
+  "pricing_url": "https://contentsnare.com/pricing/",
+  "source_url": "https://contentsnare.com/pricing/",
+  "all_pricing_urls": [
+    "https://contentsnare.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on active requests and includes features such as unlimited clients and reminders.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Ideal for freelancers and individuals",
+      "monthly_price": 45.0,
+      "annual_price": 35.0,
+      "annual_discount_percentage": 22.22,
+      "setup_fee": null,
+      "features": [
+        "20 Active Requests",
+        "2 Users",
+        "20GB Storage",
+        "40 SMS / month",
+        "Basic Integrations",
+        "Unlimited clients / recipients",
+        "Unlimited reminders",
+        "Unlimited questions & upload areas",
+        "Unlimited templates",
+        "Drag and drop request builder",
+        "Simple client portal",
+        "Approval system",
+        "Pre-made email templates",
+        "Zapier integration"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "20GB",
+        "operations": 20,
+        "api_calls": null,
+        "integrations": "Basic",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Designed for teams and agencies",
+      "monthly_price": 92.0,
+      "annual_price": 75.0,
+      "annual_discount_percentage": 18.48,
+      "setup_fee": null,
+      "features": [
+        "Unlimited clients / recipients",
+        "Unlimited reminders",
+        "Unlimited questions & upload areas",
+        "Unlimited templates",
+        "Drag and drop request builder",
+        "Simple client portal",
+        "Approval system",
+        "Pre-made email templates",
+        "Zapier integration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Extra capacity for large teams",
+      "monthly_price": 155.0,
+      "annual_price": 129.0,
+      "annual_discount_percentage": 16.77,
+      "setup_fee": null,
+      "features": [
+        "Unlimited clients / recipients",
+        "Unlimited reminders",
+        "Unlimited questions & upload areas",
+        "Unlimited templates",
+        "Drag and drop request builder",
+        "Simple client portal",
+        "Approval system",
+        "Pre-made email templates",
+        "Zapier integration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "As many requests as you need",
+      "monthly_price": 279.0,
+      "annual_price": 232.0,
+      "annual_discount_percentage": 16.85,
+      "setup_fee": null,
+      "features": [
+        "Unlimited clients / recipients",
+        "Unlimited reminders",
+        "Unlimited questions & upload areas",
+        "Unlimited templates",
+        "Drag and drop request builder",
+        "Simple client portal",
+        "Approval system",
+        "Pre-made email templates",
+        "Zapier integration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Migration Service",
+      "fee_amount": null,
+      "fee_description": "Conversion of existing forms into Content Snare templates, with one free migration limited to 40 questions."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:39:36.599786",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "37f31ad1-1d2e-4457-9550-a3372bebffae",
+    "name": "Content Snare",
+    "slug": "content-snare",
+    "description": "Content Snare is a tool that helps collect content and files from clients on time without email",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/8b0f81f08dc417cf3050c6cf2eb70676.jpg?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 8
+  }
+}

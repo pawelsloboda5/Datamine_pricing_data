@@ -1,0 +1,294 @@
+{
+  "app_id": "semrush",
+  "app_name": "SEMrush",
+  "app_slug": "semrush",
+  "pricing_url": "https://www.semrush.com/pricing/",
+  "source_url": "https://www.semrush.com/pricing",
+  "all_pricing_urls": [
+    "https://www.semrush.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer up to 17% savings compared to monthly plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pro",
+      "tier_description": "For newbies and small teams.",
+      "monthly_price": 139.95,
+      "annual_price": 1679.4,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "SEO, PPC, and research tools",
+        "Competitor analysis",
+        "Keyword research",
+        "Website audit",
+        "Backlink analysis",
+        "Advertising tools"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projects",
+            "value": 5
+          },
+          {
+            "name": "Keywords to track",
+            "value": 500
+          },
+          {
+            "name": "Results per report",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Guru",
+      "tier_description": "For agencies and mid-size businesses.",
+      "monthly_price": 249.95,
+      "annual_price": 2999.4,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "All Pro features",
+        "Content Marketing Toolkit",
+        "Historical data",
+        "Multi-location and device tracking",
+        "Looker Studio integration"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projects",
+            "value": 15
+          },
+          {
+            "name": "Keywords to track",
+            "value": 1500
+          },
+          {
+            "name": "Results per report",
+            "value": 30000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For large agencies and enterprises.",
+      "monthly_price": 499.95,
+      "annual_price": 5999.4,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "All Guru features",
+        "Share of Voice",
+        "Extended limits",
+        "API access",
+        "PLA analytics",
+        "Free migration from third-party tools"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Projects",
+            "value": 40
+          },
+          {
+            "name": "Keywords to track",
+            "value": 5000
+          },
+          {
+            "name": "Results per report",
+            "value": 50000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional users",
+      "unit": "per user",
+      "base_price": 45.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": 45.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Semrush Local Essentials",
+      "unit": "per month",
+      "base_price": 50.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": 50.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Semrush Local Advanced",
+      "unit": "per month",
+      "base_price": 60.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": 60.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Semrush .Trends",
+      "unit": "per user per month",
+      "base_price": 289.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": 289.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Social AI Starter",
+      "unit": "per month",
+      "base_price": 19.99,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": 19.99
+        }
+      ]
+    },
+    {
+      "metric_name": "Social AI Plus",
+      "unit": "per month",
+      "base_price": 39.99,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": 39.99
+        }
+      ]
+    },
+    {
+      "metric_name": "Social Content AI",
+      "unit": "per month",
+      "base_price": 29.99,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": 29.99
+        }
+      ]
+    },
+    {
+      "metric_name": "Agency Growth Kit Start",
+      "unit": "per month",
+      "base_price": 69.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": 69.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Agency Growth Kit Scale",
+      "unit": "per month",
+      "base_price": 149.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": 149.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Agency Growth Kit Advanced",
+      "unit": "per month",
+      "base_price": 249.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": 249.0
+        }
+      ]
+    },
+    {
+      "metric_name": "ImpactHero",
+      "unit": "per month",
+      "base_price": 200.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": 200.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:15:31.531011",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e64c4870-92f0-4954-b73c-19cf37b8bb6a",
+    "name": "SEMrush",
+    "slug": "semrush",
+    "description": "SEMrush is an all-in-one marketing toolkit for digital marketing professionals.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/2823136afe1de8f9eae305a0da5e01dd.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Analytics"
+    ],
+    "category_slugs": [
+      "analytics"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 1
+  }
+}

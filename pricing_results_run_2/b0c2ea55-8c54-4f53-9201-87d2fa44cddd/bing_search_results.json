@@ -1,0 +1,175 @@
+{
+  "app_name": "Filevine",
+  "app_slug": "filevine",
+  "search_term": "Find the official pricing page URL for Filevine (filevine.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744693204.323907,
+  "response_text": [
+    "The official pricing page for Filevine is: [https://www.filevine.com/pricing](https://www.filevine.com/pricing)."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.filevine.com/pricing",
+      "is_accessible": true,
+      "content": "Filevine Pricing\n----------------\n\nAll packages are custom built for your firm's needs. Here are some ideas to get you started.\n\n*   [Choose Your Plan](https://www.filevine.com/pricing#base-software)\n*   [Enhancements](https://www.filevine.com/pricing#additional-products)\n\n### Complete Your Tech Stack\n\n*   Case management\n*   Contact management\n*   Calendar (Gmail & Outlook integration)\n*   Email management (Gmail & Outlook integration)\n*   Deadline management\n*   Task management\n*   Matter stages\n*   Conflict Checker\n*   SidebarAI Chat\n*   Unlimited storage\n*   Document management\n*   Time tracking and billing\n*   Payment processing\n\n### Complete Your Tech Stack\n\n*   Everything in Basic PLUS\n*   eSignature\n*   Fax\n*   Custom sections\n*   Doc gen\n\n### Complete Your Tech Stack\n\n*   Intake\n*   eSignature\n*   AI Document Review\n*   DemandsAI\n*   Contract lifecycle management\n*   Filevine University\n\n### What's Included\n\n*   Lead Forms\n*   Automations\n*   Intakes\n*   Lead Tracking\n*   Marketing Source Optimization\n*   Reporting\n*   Enterprise-Level Security\n\n### What's Included\n\n*   Unlimited Signatures\n*   Multi-Sign\n*   Enterprise-Level Security\n\n### What's Included\n\n*   Template Creation\n*   Team Management\n*   Granular User Permissions\n*   Customized Workflows\n*   Reporting, Metrics, & Dashboards\n*   Clause Library\n*   No-Code Conditional Logic\n*   Template Layout Styling\n*   Contract Generation & Storage\n*   Native eSigning\n*   Real-Time Redlining, Editing, Commenting\n*   Email Notifications\n*   Version Controls\n*   OCR\n*   File Import + Export\n*   Deadline Reminders\n\nGet More from Your Plan\n-----------------------\n\n[DemandsAI streamlines demand letter creation using your case data and AI drafting, cutting down on data entry, errors, and time.](https://www.filevine.com/demands-ai/)[Our innovative AI tools for legal professionals streamline workflows, improve accuracy, and deliver valuable insights.](https://www.filevine.com/platform/ai-features-and-solutions/)[Scan and extract key details, compile crucial information, assist with USCIS forms, and track your client's form completion progress.](https://www.filevine.com/platform/immigrationai/)[Unbeatable document management with unlimited storage.](https://www.filevine.com/platform/document-management/)[From intake to settlement and everything in between, Vinesign makes eSignatures intuitive, effortless and instantaneous.](https://www.filevine.com/platform/esignature/)[Complete intake solution to help scale your firm.](https://www.filevine.com/platform/intake-and-lead-tracking/)[](https://www.filevine.com/depo-copilot/)\n\nCompare All Plans\n-----------------\n\nHere are some examples of how firms have built their packages. As your firm expands and grows, so can you.\n\n|  |\n| --- |\n|  | Standard | Premium | \u00c0 la carte |\n| --- | --- | --- | --- |\n| Case Management |\n| Deadlines | ![Image 1: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 2: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Tasks | ![Image 3: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 4: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Client communication | ![Image 5: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 6: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| AIFields |  | ![Image 7: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Custom Fields | ![Image 8: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 9: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Phase Validation |  | ![Image 10: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Intake (Lead Docket) |  | ![Image 11: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 12: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| SidebarAI (AI Assistant) | Limited | Limited |  |\n| Contacts | ![Image 13: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 14: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Calendar | ![Image 15: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 16: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Email integration | ![Image 17: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 18: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Financial and activity reporting | Limited | Limited |  |\n| Originating attorney reportings | Limited | Limited |  |\n| Task progress reporting | Limited | Limited |  |\n| Task productivity reporting | Limited | Limited |  |\n|  |\n| Document Management |\n| Organize | ![Image 19: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  | ![Image 20: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Basic Search | ![Image 21: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  | ![Image 22: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Advanced Search |  | ![Image 23: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Generate | ![Image 24: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  | ![Image 25: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Assemble |  | ![Image 26: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Collaborate | ![Image 27: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 28: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| DemandsAi |  | ![Image 29: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 30: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| AI Document Review |  | ![Image 31: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 32: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| ImmigrationAI |  | ![Image 33: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 34: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| eSignature (Vinesign) |  | ![Image 35: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 36: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Contract Lifecycle Management (Outlaw) |  | ![Image 37: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 38: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n|  |\n| Fee Management |\n| Time and expense tracking | ![Image 39: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 40: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Hourly, flat fee and contingency billing | ![Image 41: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 42: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Invoices | ![Image 43: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 44: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Matter budgets | ![Image 45: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 46: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Fee allocation reporting | Limited | Limited |  |\n| Trust account reporting | Limited | Limited |  |\n| API for payment plans |  | ![Image 47: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Quickbooks integration | ![Image 48: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 49: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| UTBMS coding and 1998B for LEDES billing | ![Image 50: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 51: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Settlement Calculator | ![Image 52: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 53: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |  |\n| Payment processing | Visa, Mastercard, Discover: 2.94% + $0.20/transaction. American Express: 3.75% processing + $0.20/transaction. ACH $2/transaction. |\n|  |\n| Support and Training |\n| Filevine University Courses | ![Image 54: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 55: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 56: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Online Help Center | ![Image 57: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 58: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 59: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Live Zoom Support | ![Image 60: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 61: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) | ![Image 62: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Filevine Fundamentals - Group Implementation |  |  |  |\n| Certified Partner Implementation |  |  | ![Image 63: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n|  |\n\n### Standard\n\n| Case Management |\n| --- |\n| Deadlines | ![Image 64: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Tasks | ![Image 65: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Client communication | ![Image 66: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Custom Fields | ![Image 67: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| SidebarAI (AI Assistant) | Limited |\n| Contacts | ![Image 68: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Calendar | ![Image 69: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Email integration | ![Image 70: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Financial and activity reporting | Limited |\n| Originating attorney reportings | Limited |\n| Task progress reporting | Limited |\n| Task productivity reporting | Limited |\n|  |\n| Document Management |\n| Organize | ![Image 71: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Basic Search | ![Image 72: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Generate | ![Image 73: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Collaborate | ![Image 74: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n|  |\n| Fee Management |\n| Time and expense tracking | ![Image 75: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Hourly, flat fee and contingency billing | ![Image 76: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Invoices | ![Image 77: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Matter budgets | ![Image 78: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Fee allocation reporting | Limited |\n| Trust account reporting | Limited |\n| Quickbooks integration | ![Image 79: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| UTBMS coding and 1998B for LEDES billing | ![Image 80: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Settlement Calculator | ![Image 81: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Payment processing | Tap for Details |\n|  |\n| Support and Training |\n| Filevine University Courses | ![Image 82: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Online Help Center | ![Image 83: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Live Zoom Support | ![Image 84: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n\n### Premium\n\n| Case Management |\n| --- |\n| Deadlines | ![Image 85: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Tasks | ![Image 86: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Client communication | ![Image 87: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| AIFields | ![Image 88: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Custom Fields | ![Image 89: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Phase Validation | ![Image 90: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Intake (Lead Docket) | ![Image 91: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| SidebarAI (AI Assistant) | Limited |\n| Contacts | ![Image 92: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Calendar | ![Image 93: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Email integration | ![Image 94: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Financial and activity reporting | Limited |\n| Originating attorney reportings | Limited |\n| Task progress reporting | Limited |\n| Task productivity reporting | Limited |\n|  |\n| Document Management |\n| Advanced Search | ![Image 95: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Assemble | ![Image 96: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Collaborate | ![Image 97: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| DemandsAi | ![Image 98: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| AI Document Review | ![Image 99: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| ImmigrationAI | ![Image 100: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| eSignature (Vinesign) | ![Image 101: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Contract Lifecycle Management (Outlaw) | ![Image 102: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n|  |\n| Fee Management |\n| Time and expense tracking | ![Image 103: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Hourly, flat fee and contingency billing | ![Image 104: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Invoices | ![Image 105: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Matter budgets | ![Image 106: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Fee allocation reporting | Limited |\n| Trust account reporting | Limited |\n| API for payment plans | ![Image 107: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Quickbooks integration | ![Image 108: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| UTBMS coding and 1998B for LEDES billing | ![Image 109: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Settlement Calculator | ![Image 110: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Payment processing | Tap for Details |\n|  |\n| Support and Training |\n| Filevine University Courses | ![Image 111: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Online Help Center | ![Image 112: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Live Zoom Support | ![Image 113: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n\n### \u00c0 la carte\n\n| Case Management |\n| --- |\n| Intake (Lead Docket) | ![Image 114: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n|  |\n| Document Management |\n| Organize | ![Image 115: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Basic Search | ![Image 116: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Generate | ![Image 117: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| DemandsAi | ![Image 118: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| AI Document Review | ![Image 119: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| ImmigrationAI | ![Image 120: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| eSignature (Vinesign) | ![Image 121: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Contract Lifecycle Management (Outlaw) | ![Image 122: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n|  |\n| Fee Management |\n| Payment processing | Tap for Details |\n|  |\n| Support and Training |\n| Filevine University Courses | ![Image 123: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Online Help Center | ![Image 124: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Live Zoom Support | ![Image 125: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n| Certified Partner Implementation | ![Image 126: Included](https://filevine-marketing-production-media.s3.us-west-2.amazonaws.com/media/images/design-elements/icon-circle-checkmark.svg) |\n\nFrequently Asked Questions\n--------------------------\n\nOur pricing is based on the number of users you require, as well as any special feature add-ons, integrations, or additional products. Each organization is unique and our team will work closely with you to tailor a cost-effective and scalable plan for your organization.\n\nOur robust ecosystem of Certified Implementation Partners works with you to efficiently get your firm up and running in Filevine. Our partners have handled hundreds of implementations for law firms, legal teams, and organizations and can help you customize Filevine to fit your team\u2019s unique workflows.\n\nFilevine\u2019s Customer Success and Support teams will provide ongoing support, guidance, and help as you navigate the Filevine Platform.\n\nNo. Filevine offers unlimited guest access to Filevine.\n\nFilevine utilizes best-in-class compliance, privacy, and security programs to protect your data. Filevine is hosted on AWS, the world\u2019s most secure cloud platform, with over 200 data centers globally.\n\nYes! We understand that choosing the right legal software is a big decision. That's why we offer a free trial of Filevine, so you can experience its powerful features and see how it can transform your practice before committing to a subscription.\n\n**During your free trial, you can:**\n\n  \n\n  \n*   Simplify your legal workflows with centralized case management.\n  \n*   Enjoy unlimited document storage and easy access to all your files.\n  \n*   Streamline client communication and task management in one platform.\n  \n*   Effortlessly track time, generate invoices, and collect payments.\n  \n\n**Start Your** [**Free Trial Today**](https://www.filevine.com/free-trial/)\n\nContact our sales team for a custom quote\n-----------------------------------------\n\nEvery law firm, legal team, agency, and business is unique. We\u2019ll help you identify a solution and price that is tailored to help your organization succeed.\n\n[Get a Demo](https://www.filevine.com/demo-request/)\n\nWhat does Filevine's Pricing include? We offer a suite of products to fit your specific needs. Compare all of our Products.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "filevine",
+        "app_name": "Filevine",
+        "app_slug": "filevine",
+        "pricing_url": "https://www.filevine.com/pricing",
+        "source_url": "https://www.filevine.com/pricing",
+        "all_pricing_urls": [
+          "https://www.filevine.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.CUSTOM",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Filevine offers custom-built packages tailored to the needs of each firm. Pricing details are not explicitly listed on the website.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Standard",
+            "tier_description": "Includes basic case management and document management features.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Deadlines",
+              "Tasks",
+              "Client communication",
+              "Custom Fields",
+              "SidebarAI (AI Assistant)",
+              "Contacts",
+              "Calendar",
+              "Email integration",
+              "Financial and activity reporting",
+              "Document Management",
+              "Time and expense tracking",
+              "Invoices",
+              "Matter budgets",
+              "Quickbooks integration",
+              "UTBMS coding and 1998B for LEDES billing",
+              "Settlement Calculator",
+              "Filevine University Courses",
+              "Online Help Center",
+              "Live Zoom Support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Premium",
+            "tier_description": "Includes all Standard features plus advanced document management and AI tools.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Advanced Search",
+              "Assemble",
+              "Collaborate",
+              "DemandsAi",
+              "AI Document Review",
+              "ImmigrationAI",
+              "eSignature (Vinesign)",
+              "Contract Lifecycle Management (Outlaw)",
+              "API for payment plans"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "\u00c0 la carte",
+            "tier_description": "Allows selection of individual features as needed.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Intake (Lead Docket)",
+              "Organize",
+              "Basic Search"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Payment processing",
+            "unit": "per transaction",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 2.94
+              },
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 3.75
+              },
+              {
+                "min": 0.0,
+                "max": "unlimited",
+                "price": 2.0
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": true
+        },
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Payment processing fee",
+            "fee_amount": null,
+            "fee_description": "Visa, Mastercard, Discover: 2.94% + $0.20/transaction. American Express: 3.75% processing + $0.20/transaction. ACH $2/transaction."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T01:00:27.759969",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\filevine\\20250415_010028"
+}

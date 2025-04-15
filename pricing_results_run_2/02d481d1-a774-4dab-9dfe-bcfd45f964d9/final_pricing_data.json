@@ -1,0 +1,187 @@
+{
+  "app_id": "sendfox",
+  "app_name": "SendFox",
+  "app_slug": "sendfox",
+  "pricing_url": null,
+  "source_url": "https://sendfox.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "one_time"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription and lifetime plan options. Some features are restricted based on the plan.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Entry-level plan with limited features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "3,000 sends per month",
+        "1,000 max contacts",
+        "Normal SendFox branding",
+        "No paid newsletters",
+        "Scheduled campaigns",
+        "Smart campaigns",
+        "Referral widget",
+        "Translation/localization",
+        "Customer support",
+        "No API access",
+        "No Smart Page Gallery access",
+        "No automations",
+        "No confirmation redirect",
+        "One smart page",
+        "One form",
+        "Three contact lists",
+        "Normal sending server/deliverability",
+        "Required double opt-in",
+        "Basic HTML editor"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Sends Per Month",
+            "value": 3000
+          },
+          {
+            "name": "Max Contacts",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Recommended",
+      "tier_description": "Recommended plan with enhanced features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited sends per month",
+        "5,000 max contacts",
+        "Reduced SendFox branding",
+        "No paid newsletters",
+        "Scheduled campaigns",
+        "Smart campaigns",
+        "Referral widget",
+        "Translation/localization",
+        "Customer support",
+        "API access",
+        "Smart Page Gallery access",
+        "Unlimited automations",
+        "No confirmation redirect",
+        "Unlimited smart pages",
+        "Unlimited forms",
+        "Unlimited contact lists",
+        "Better sending server/deliverability",
+        "Required double opt-in",
+        "Basic HTML editor"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Sends Per Month",
+            "value": "unlimited"
+          },
+          {
+            "name": "Max Contacts",
+            "value": 5000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Lifetime Plan",
+      "tier_description": "Lifetime plan with premium features.",
+      "monthly_price": 18.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited sends per month",
+        "Max contacts based on Lifetime plan",
+        "None/Whitelabel SendFox branding",
+        "Paid newsletters",
+        "Scheduled campaigns",
+        "Smart campaigns",
+        "Referral widget",
+        "Translation/localization",
+        "Customer support",
+        "API access",
+        "Smart Page Gallery access",
+        "Unlimited automations",
+        "Confirmation redirect",
+        "Unlimited smart pages",
+        "Unlimited forms",
+        "Unlimited contact lists",
+        "Best sending server/deliverability",
+        "Optional double opt-in",
+        "Full HTML editor"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Sends Per Month",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Optimization Fee",
+      "fee_amount": null,
+      "fee_description": "In cases of abuse or terms violation, send volume may be optimized."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:52:08.991720",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "02d481d1-a774-4dab-9dfe-bcfd45f964d9",
+    "name": "SendFox",
+    "slug": "sendfox",
+    "description": "SendFox is an email marketing tool built for content creators.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/bfe7243fe829744fa617dfe1a92c2f7c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 3
+  }
+}

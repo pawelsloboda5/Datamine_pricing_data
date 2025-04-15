@@ -1,0 +1,193 @@
+{
+  "app_id": "signupgenius",
+  "app_name": "SignUpGenius",
+  "app_slug": "signupgenius",
+  "pricing_url": "https://www.signupgenius.com/pricing",
+  "source_url": "https://www.signupgenius.com/pricing",
+  "all_pricing_urls": [
+    "https://www.signupgenius.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "SignUpGenius offers a free tier and multiple subscription plans with varying features and limits. Usage-based fees apply for collecting payments.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Ideal for individuals and families planning potlucks, parties, and small events.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited sign up pages",
+        "Email invites & reminders",
+        "Duplicate & transfer sign ups",
+        "Google map integration",
+        "URL link for each published sign up",
+        "Admin management tools",
+        "Customer support via email",
+        "Collect payments on sign ups",
+        "Enhanced security options",
+        "Hide names on sign ups"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Silver",
+      "tier_description": "Ideal for individuals taking event planning to the next level.",
+      "monthly_price": 8.99,
+      "annual_price": 107.89,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Premium theme designs",
+        "2,500 emails, 150 texts per month",
+        "2 custom questions for participants",
+        "1 advertising-free sign up",
+        "Support by email",
+        "Collect money on sign ups"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "500MB",
+        "operations": "unlimited",
+        "api_calls": 500,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Gold",
+      "tier_description": "Best for organizations managing multiple active sign ups.",
+      "monthly_price": 22.49,
+      "annual_price": 269.89,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "10 additional administrators",
+        "Unlimited custom themes",
+        "10,000 emails, 500 texts per month",
+        "5 custom questions for participants",
+        "10 advertising-free sign ups",
+        "Priority support by email",
+        "Collect money on sign ups",
+        "Waitlist on sign ups"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "1GB",
+        "operations": "unlimited",
+        "api_calls": 2000,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Platinum",
+      "tier_description": "Best for organizing large-scale events with sign ups.",
+      "monthly_price": 44.99,
+      "annual_price": 539.89,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "20 additional administrators",
+        "Unlimited custom themes",
+        "20,000 emails, 1,500 texts per month",
+        "10 custom questions for participants",
+        "Unlimited advertising-free sign ups",
+        "Priority support by email/phone",
+        "Collect money on sign ups",
+        "Waitlist on sign ups"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "3GB",
+        "operations": "unlimited",
+        "api_calls": 5000,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Ideal for organizations managing large-scale groups, schedules, and events.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom admins",
+        "Custom landing pages",
+        "Customized custom questions",
+        "Dedicated account manager",
+        "Embed sign ups on your website",
+        "Payment via purchase order or invoice",
+        "Collect money on sign ups",
+        "Waitlist on sign ups"
+      ],
+      "limits": {
+        "users": "customized",
+        "storage": "customized",
+        "operations": "unlimited",
+        "api_calls": "customized",
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Payment Collection",
+      "unit": "per transaction",
+      "base_price": 0.5,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 5.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:19:10.256677",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9fc3eb24-6778-477d-838b-e300c0328ff5",
+    "name": "SignUpGenius",
+    "slug": "signupgenius",
+    "description": "SignUpGenius is an organizational tool that takes away the hassle of coordinating groups so your organization can focus on its impact on your community.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/727a8faef0e09a7a10d6674c7a291cea.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 2
+  }
+}

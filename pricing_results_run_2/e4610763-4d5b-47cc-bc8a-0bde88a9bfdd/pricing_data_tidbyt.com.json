@@ -1,0 +1,61 @@
+{
+  "app_id": "tidbyt",
+  "app_name": "Tidbyt",
+  "app_slug": "tidbyt",
+  "pricing_url": null,
+  "source_url": "https://tidbyt.com",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.ONE_TIME"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Tidbyt appears to be a one-time purchase product without subscription tiers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Tidbyt Gen 2 device.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Retro-style display",
+        "Hundreds of apps",
+        "Control via phone",
+        "Custom app development"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:52:32.160479",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "e4610763-4d5b-47cc-bc8a-0bde88a9bfdd",
+    "name": "Tidbyt",
+    "slug": "tidbyt",
+    "description": "Tidbyt allows you to see what matters. Send notifications, install apps, and update installations all on a physical desktop display.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/89a2a065f1c0a35ab8bd5197438d4471.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Internet of Things"
+    ],
+    "category_slugs": [
+      "internet-of-things"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 10,
+    "trigger_count": 0
+  }
+}

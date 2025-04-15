@@ -1,0 +1,91 @@
+{
+  "app_id": "fyi",
+  "app_name": "FYI",
+  "app_slug": "fyi",
+  "pricing_url": null,
+  "source_url": "https://fyi.app/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing details are inferred from the feature comparison table, but specific monetary values are not provided.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Includes essential features for document and email management.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Centralised Email Storage",
+        "Integration with Microsoft Outlook",
+        "Email AutoFile",
+        "Document Templates"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Intermediate",
+      "tier_description": "Adds advanced client and document management features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Dedicated Workspace for each Client",
+        "Record Meetings, Phone Calls, File Notes",
+        "Customisable Client Views",
+        "Client Security"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Includes all features for comprehensive practice management.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Integration with Microsoft Outlook",
+        "Document Filing by Job",
+        "Jobs Board",
+        "Time Sheets"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:31:46.114770",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fdf3bc28-70f3-496f-b92b-9dda77d36969",
+    "name": "FYI",
+    "slug": "fyi",
+    "description": "FYI is a document management service for professionals",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/6ba105766f3ee9bc3d4f135218faa610.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 6,
+    "trigger_count": 0
+  }
+}

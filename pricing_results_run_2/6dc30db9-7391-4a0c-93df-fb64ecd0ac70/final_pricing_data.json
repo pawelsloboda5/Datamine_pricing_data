@@ -1,0 +1,104 @@
+{
+  "app_id": "gumroad",
+  "app_name": "Gumroad",
+  "app_slug": "gumroad",
+  "pricing_url": "https://gumroad.com/pricing",
+  "source_url": "https://gumroad.com/pricing",
+  "all_pricing_urls": [
+    "https://gumroad.com/pricing"
+  ],
+  "price_model_type": [
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Gumroad charges a percentage-based fee per transaction, with no monthly subscription fees.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard Transaction Fee",
+      "tier_description": "Fee for sales through your profile or direct links.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10% fee per transaction",
+        "$0.50 additional per transaction"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Marketplace Transaction Fee",
+      "tier_description": "Fee for sales through Gumroad's discover marketplace.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "30% fee per transaction"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Transaction Fee",
+      "unit": "per transaction",
+      "base_price": 0.1,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.1
+        }
+      ]
+    },
+    {
+      "metric_name": "Marketplace Transaction Fee",
+      "unit": "per transaction",
+      "base_price": 0.3,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.3
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Flat Transaction Fee",
+      "fee_amount": 0.5,
+      "fee_description": "Flat fee per transaction in addition to the percentage-based fee."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:23:01.838037",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6dc30db9-7391-4a0c-93df-fb64ecd0ac70",
+    "name": "Gumroad",
+    "slug": "gumroad",
+    "description": "Gumroad allows all types of creators to sell their work (music, art, books, films, etc) directly to their audiences.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/4349282b14304522392e86f2237886a1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

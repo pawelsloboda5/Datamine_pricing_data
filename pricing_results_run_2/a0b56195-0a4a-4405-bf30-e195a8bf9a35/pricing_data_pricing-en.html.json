@@ -1,0 +1,126 @@
+{
+  "app_id": "upnify",
+  "app_name": "Upnify",
+  "app_slug": "upnify",
+  "pricing_url": null,
+  "source_url": "https://upnify.com/pricing-en.html",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers a ~20% discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "MAX",
+      "tier_description": null,
+      "monthly_price": 43.0,
+      "annual_price": 35.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Access to multiple accounts",
+        "Advanced integrations",
+        "5,000 emails per month",
+        "2,500 monthly credits for Upnify Engage",
+        "250 monthly credits for Upnify Connect",
+        "100 GB of storage space",
+        "Priority support",
+        "All PRO features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "PRO",
+      "tier_description": "Most popular plan.",
+      "monthly_price": 25.0,
+      "annual_price": 20.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "API for developers",
+        "Automated quoting tools",
+        "Invoicing",
+        "Email marketing",
+        "Call recording",
+        "AI Insights",
+        "Phone support",
+        "All basic features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "50 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "BASIC",
+      "tier_description": null,
+      "monthly_price": 17.0,
+      "annual_price": 14.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Sales automation",
+        "Email templates",
+        "Basic integrations",
+        "Calendar and reminders"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Optional services",
+      "fee_amount": null,
+      "fee_description": "Additional cost for optional services."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:59:36.776055",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a0b56195-0a4a-4405-bf30-e195a8bf9a35",
+    "name": "Upnify",
+    "slug": "upnify",
+    "description": "Upnify is a CRM platform designed for sales teams that provides email templates, sales reports, automated lead assignment, and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/739d4286087c2279f0d0979f9057068c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 3
+  }
+}

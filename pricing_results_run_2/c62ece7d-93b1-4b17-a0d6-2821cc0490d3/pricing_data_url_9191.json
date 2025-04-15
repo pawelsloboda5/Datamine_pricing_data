@@ -1,0 +1,43 @@
+{
+  "app_id": "canva",
+  "app_name": "Canva",
+  "app_slug": "canva",
+  "pricing_url": null,
+  "source_url": "https://www.canva.com/en/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing information could not be extracted due to lack of accessible content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:42:02.775037",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "c62ece7d-93b1-4b17-a0d6-2821cc0490d3",
+    "name": "Canva",
+    "slug": "canva",
+    "description": "Canva is a user-friendly online design platform that empowers individuals and businesses to create professional-quality graphics, presentations, posters, and other visual content with ease.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/8102f502fb446273b80f08ce98a6c527.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Images & Design"
+    ],
+    "category_slugs": [
+      "images"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 10,
+    "trigger_count": 0
+  }
+}

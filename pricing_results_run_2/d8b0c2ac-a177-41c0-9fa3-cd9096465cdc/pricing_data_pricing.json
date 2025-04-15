@@ -1,0 +1,99 @@
+{
+  "app_id": "adroll",
+  "app_name": "AdRoll",
+  "app_slug": "adroll",
+  "pricing_url": "https://www.adroll.com/pricing",
+  "source_url": "https://www.adroll.com/pricing",
+  "all_pricing_urls": [
+    "https://www.adroll.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "AdRoll offers dynamic pricing based on CPM (cost per thousand impressions), which varies depending on demand.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Ads",
+      "tier_description": "Pay-as-you-go for display and native ads.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Display, native, video & CTV ads",
+        "Retargeting & prospecting campaigns",
+        "Audience segmentation & targeting",
+        "Campaign reporting"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Advanced Package",
+      "tier_description": "Full AdRoll platform with additional services and ad credits.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes everything in Ads",
+        "Onboarding services",
+        "Account management services",
+        "Creative services",
+        "Optimization & policy services",
+        "24/7 customer support"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "CPM",
+      "unit": "per thousand impressions",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Minimum Daily Spend",
+      "fee_amount": 5.0,
+      "fee_description": "Minimum daily spend required to launch a campaign."
+    },
+    {
+      "fee_name": "Minimum Daily Budget",
+      "fee_amount": 10.0,
+      "fee_description": "Minimum daily budget required to launch a campaign."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:38:29.183218",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d8b0c2ac-a177-41c0-9fa3-cd9096465cdc",
+    "name": "AdRoll",
+    "slug": "adroll",
+    "description": "AdRoll helps you advertise to potential customers (website visitors or email addresses) and make them come to your site and convert!",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/fe17f37c26c520c41b52c3e4fa2cd400.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Ads & Conversion"
+    ],
+    "category_slugs": [
+      "ads-conversion"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

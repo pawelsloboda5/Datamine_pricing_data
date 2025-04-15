@@ -1,0 +1,50 @@
+{
+  "app_id": "zoho_survey",
+  "app_name": "Zoho Survey",
+  "app_slug": "zoho-survey",
+  "pricing_url": "https://www.zoho.com/survey/pricing.html",
+  "source_url": "https://www.zoho.com/survey/pricing.html",
+  "all_pricing_urls": [
+    "https://www.zoho.com/survey/pricing.html"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are accessible on the official Zoho Survey pricing page.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:45:59.141668",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "05f434da-81b0-4cb7-9a39-ba2eaab8476f",
+    "name": "Zoho Survey",
+    "slug": "zoho-survey",
+    "description": "Zoho Survey lets you craft and design highly engaging surveys and questionnaires to effectively reach your targeted audience.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/1d06aa4d816e06ba636debb1ec675958.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys",
+      "Zoho"
+    ],
+    "category_slugs": [
+      "forms",
+      "zoho"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

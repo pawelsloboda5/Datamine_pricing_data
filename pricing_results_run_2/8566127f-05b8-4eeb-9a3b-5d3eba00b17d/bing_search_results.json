@@ -1,0 +1,171 @@
+{
+  "app_name": "Buy Me a Coffee",
+  "app_slug": "buy-me-a-coffee",
+  "search_term": "Find the official pricing page URL for Buy Me a Coffee (buy-me-a-coffee.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744696290.0582829,
+  "response_text": [
+    "Unfortunately, I couldn't locate the explicit pricing page URL for Buy Me a Coffee's offerings on their official website. You might try navigating directly on their site [here](https://buymeacoffee.com) or their [help center](https://help.buymeacoffee.com) for detailed information. Let me know if you'd like further assistance!"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://help.buymeacoffee.com",
+      "is_accessible": true,
+      "content": "[![Image 1: Knowledge Base | Buy Me a Coffee](https://downloads.intercomcdn.com/i/o/234105/0d29fbdf17e257cdfc2ba1ba/7103925065c5e9bd6ac7ac9efd453fd7.png)](https://help.buymeacoffee.com/en/)\n\nEnglish\n\nEnglish\n\nNeed assistance? Email [\\[email protected\\]](https://help.buymeacoffee.com/cdn-cgi/l/email-protection)\n------------------------------------------------------------------------------------------------------\n\n[![Image 2](https://intercom.help/buymeacoffeehq/assets/svg/icon:other-rocket-launch/000222) Getting started What is Buy Me a Coffee, creating an account, faqs, and more 7 articles](https://help.buymeacoffee.com/en/collections/1907892-getting-started)[![Image 3](https://intercom.help/buymeacoffeehq/assets/svg/icon:arr-sym-arrow-trending-up/000222) Growing your Supporters Read more to discover effective strategies for growing your supporter base 8 articles](https://help.buymeacoffee.com/en/collections/2518982-growing-your-supporters)[![Image 4](https://intercom.help/buymeacoffeehq/assets/svg/icon:nature-heart/000222) One-Time Supports About support widgets, coffee prices, thank you messages, and video replies 5 articles](https://help.buymeacoffee.com/en/collections/11027066-one-time-supports)[![Image 5](https://intercom.help/buymeacoffeehq/assets/svg/icon:user-group/000222) Launching your Membership Get the complete context on what membership is and how to earn with memberships. 8 articles](https://help.buymeacoffee.com/en/collections/2162972-launching-your-membership)[![Image 6](https://intercom.help/buymeacoffeehq/assets/svg/icon:other-shopping-bag/000222) Setting up your Shop Expert tips to set up your Shop and start earning by selling 12 articles](https://help.buymeacoffee.com/en/collections/2469809-setting-up-your-shop)[![Image 7](https://intercom.help/buymeacoffeehq/assets/svg/icon:content-pencil-square/000222) Post, Gallery, and Messages Share your updates in more than one way 8 articles](https://help.buymeacoffee.com/en/collections/2457837-post-gallery-and-messages)[![Image 8](https://intercom.help/buymeacoffeehq/assets/svg/icon:bizz-fin-banknotes/000222) Getting paid Read more to know what steps you should follow to get paid in no time. 14 articles](https://help.buymeacoffee.com/en/collections/1907909-getting-paid)[![Image 9](https://intercom.help/buymeacoffeehq/assets/svg/icon:people-chat-gets-users/000222) For Supporters and Members Everything a supporter and member must know about Buy Me a Coffee. 11 articles](https://help.buymeacoffee.com/en/collections/1923938-for-supporters-and-members)[![Image 10](https://intercom.help/buymeacoffeehq/assets/svg/icon:sft-eye/000222) Account and Content Moderations Getting your account approved for payouts explained 5 articles](https://help.buymeacoffee.com/en/collections/11027911-account-and-content-moderations)[![Image 11](https://intercom.help/buymeacoffeehq/assets/svg/icon:arr-sym-arrows-right-left/000222) Integrations Discover how to seamlessly integrate Buy Me a Coffee to third party platforms 5 articles](https://help.buymeacoffee.com/en/collections/4079507-integrations)[![Image 12](https://intercom.help/buymeacoffeehq/assets/svg/icon:tools-setting1/000222) Account Security Keep your account safe and secure 6 articles](https://help.buymeacoffee.com/en/collections/1923941-account-security)[![Image 13](https://intercom.help/buymeacoffeehq/assets/svg/icon:other-globe-europe-africa/000222) Miscellaneous Topics A collection of general and diverse subjects not covered elsewhere 6 articles](https://help.buymeacoffee.com/en/collections/11029417-miscellaneous-topics)\n\nKnowledge Base | Buy Me a Coffee",
+      "error": null,
+      "pricing_data": {
+        "app_id": "buy_me_a_coffee",
+        "app_name": "Buy Me a Coffee",
+        "app_slug": "buy-me-a-coffee",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The platform offers a free tier for basic usage and subscription options for additional features.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Basic features for creators to receive support.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Receive one-time support",
+              "Basic analytics",
+              "Customizable page"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Membership",
+            "tier_description": "Advanced features for creators to offer memberships.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Membership subscriptions",
+              "Advanced analytics",
+              "Priority support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T01:51:37.317641",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://buymeacoffee.com",
+      "is_accessible": true,
+      "content": "Support\n-------\n\nGive your audience  \nan easy way to say thanks.\n-----------------------------------------------\n\n### Buy Me a Coffee makes supporting fun and easy. In just a couple of taps, your fans can make the payment (buy you a coffee) and leave a message.\n\nBuy Juliet a coffee\n\n\u2615\n\n1\n\n3\n\n5\n\n1\n\nSay something nice...\n\nSupport $3\n\n![Image 1: creator](https://cdn.buymeacoffee.com/assets/img/homepage/images/creator_thumbnail_2.png) Anie bought 10 coffees\n\n\u2764\n\n\ud83d\udcaf\n\n\ud83d\udc4b\n\nMemberships\n-----------\n\nStart a membership for  \nyour biggest fans.\n-------------------------------------------\n\n### Earn a recurring income by accepting monthly or yearly subscriptions. Share exclusive content, or just give them a way to support your work on an ongoing basis.\n\n![Image 2: creator](https://cdn.buymeacoffee.com/assets/img/homepage/images/membership_banner_2.png)\n\nPro membership$15/month\n\nSupport me on a monthly basis\n\nEmail alert for new posts\n\nExclusive posts and messages\n\nJoin\n\n![Image 3: creator](https://cdn.buymeacoffee.com/assets/img/homepage/images/membership_banner_1.png)\n\nBasic membership$5/month\n\n33% OFF all my eBooks & services\n\nAccess to members-only Discord\n\nExclusive posts and messages\n\nJoin\n\n![Image 4: creator](https://cdn.buymeacoffee.com/assets/img/homepage/images/membership_banner_3.png)\n\nAdvanced membership$25/month\n\nMonthly printable journal pages\n\nEmail alert for new posts\n\nWork in progress updates\n\nJoin\n\n![Image 5: creator](https://cdn.buymeacoffee.com/assets/img/homepage/images/creator_group_1.png)286Members\n\n$1,500Earned this month\n\n![Image 6: Memberships](https://cdn.buymeacoffee.com/assets/img/homepage/images/membership_mobile_v8.png)\n\nShop\n----\n\nIntroducing Shop,  \nthe creative way to sell.\n---------------------------------------------\n\n### The things you\u2019d like to sell probably do not belong in a Shopify store. Shop is designed from the ground up with creators in mind. Whether it\u2019s a 1-1 Zoom call, art commissions, or an ebook, Shop is for you.\n\n.PDF\n\nDesign E- book\n\n$200\n\n4.9 (36)\n\nBuy\n\nOne-tap checkout\n\n753Sales\n\nOne-tap checkout\n\nLiked it? give rating\n\n4 star\n\n$244Earnings\n\n![Image 7: Shops](https://cdn.buymeacoffee.com/assets/img/homepage/images/shops_mobile_v8.png)\n\nPosts, audio & email\n--------------------\n\nPublish your best work\n----------------------\n\n### Buy Me a Coffee makes it easy to publish free and exclusive content. Try different formats such as audio, and make it members-only to drive more memberships.\n\n![Image 8: Posts](https://cdn.buymeacoffee.com/assets/img/homepage/images/posts_v8.png)\n\n![Image 9: Posts](https://cdn.buymeacoffee.com/assets/img/homepage/images/posts_mobile_v8.png)\n\nDesigned for creators,  \nnot for businesses.\n--------------------------------------------\n\n### We don't call them \"customers\" or transactions. They are your supporters.\n\n### You have 100% ownership of your supporters. We never email them, and you can export the list any time you like.\n\n### You get to talk to a human for help, or if you just like some advice to hit the ground running.\n\n### You get paid instantly to your bank account. No more 30-day delays.\n\nMake 20% or more,  \ncompared to other platforms.\n------------------------------------------------\n\nBuy Me a Coffee is the best way for creators and artists to accept support and membership from their fans.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "buy_me_a_coffee",
+        "app_name": "Buy Me a Coffee",
+        "app_slug": "buy-me-a-coffee",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.ONE_TIME"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes one-time support options and subscription memberships with varying benefits.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic Membership",
+            "tier_description": "Access to members-only Discord, exclusive posts and messages, and discounts on eBooks and services.",
+            "monthly_price": 5.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Access to members-only Discord",
+              "Exclusive posts and messages",
+              "33% OFF all my eBooks & services"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Pro Membership",
+            "tier_description": "Support on a monthly basis with exclusive posts and messages.",
+            "monthly_price": 15.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Support me on a monthly basis",
+              "Email alert for new posts",
+              "Exclusive posts and messages"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Advanced Membership",
+            "tier_description": "Includes monthly printable journal pages, email alerts for new posts, and work in progress updates.",
+            "monthly_price": 25.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Monthly printable journal pages",
+              "Email alert for new posts",
+              "Work in progress updates"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T01:51:42.732986",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\buy-me-a-coffee\\20250415_015143"
+}

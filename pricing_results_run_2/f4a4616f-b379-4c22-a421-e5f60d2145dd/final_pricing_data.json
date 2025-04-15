@@ -1,0 +1,229 @@
+{
+  "app_id": "landingi",
+  "app_name": "Landingi",
+  "app_slug": "landingi",
+  "pricing_url": "https://landingi.com/pricing",
+  "source_url": "https://landingi.com/pricing/",
+  "all_pricing_urls": [
+    "https://landingi.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers a discount equivalent to 2 months free.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Designed to learn how to build, optimize, and publish your first landing page.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "1 active landing page",
+        "Unlimited conversions",
+        "500 visits per month",
+        "1 custom domain"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active Landing Pages",
+            "value": 1
+          },
+          {
+            "name": "Visits per Month",
+            "value": 500
+          },
+          {
+            "name": "Custom Domains",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Lite",
+      "tier_description": "Includes essential tools for creating and managing landing pages.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10 active landing pages",
+        "Unlimited conversions",
+        "5000 visits per month",
+        "1 custom domain",
+        "Landing Page Builder",
+        "Form Builder",
+        "Fast Cloud Hosting",
+        "Integrations & 400+ Templates",
+        "Pre-designed Sections",
+        "AI Assistant",
+        "Basic Analytics and Reporting",
+        "Migration Services"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active Landing Pages",
+            "value": 10
+          },
+          {
+            "name": "Visits per Month",
+            "value": 5000
+          },
+          {
+            "name": "Custom Domains",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Advanced features for professional use.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited active landing pages",
+        "Unlimited conversions",
+        "50,000 visits per month",
+        "10 custom domains",
+        "Programmatic Landing Pages",
+        "Multi-lang Personalization",
+        "Server Side A/B Testing",
+        "Smart Sections",
+        "E-commerce Hub",
+        "Custom Fonts",
+        "Marketing Funnels",
+        "Pop-up Builder"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active Landing Pages",
+            "value": "unlimited"
+          },
+          {
+            "name": "Visits per Month",
+            "value": 50000
+          },
+          {
+            "name": "Custom Domains",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Comprehensive features for enterprise needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited active landing pages",
+        "Unlimited conversions",
+        "Unlimited visits",
+        "100 custom domains",
+        "Audit Log Records",
+        "Domain Whitelisting",
+        "Enterprise SSO",
+        "Team Workspaces",
+        "EventTracker",
+        "Custom Development",
+        "Custom Paper Work",
+        "Dedicated Account Manager"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active Landing Pages",
+            "value": "unlimited"
+          },
+          {
+            "name": "Visits per Month",
+            "value": "unlimited"
+          },
+          {
+            "name": "Custom Domains",
+            "value": 100
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "EventTracker",
+      "fee_amount": 49.0,
+      "fee_description": "Gain valuable insights into every visit to improve performance, rankings, and user experience."
+    },
+    {
+      "fee_name": "Agency Hub",
+      "fee_amount": 149.0,
+      "fee_description": "Manage clients\u2019 subaccounts with advanced permissions and Audit Logs."
+    },
+    {
+      "fee_name": "Landing Page Design",
+      "fee_amount": 649.0,
+      "fee_description": "A project dedicated to a defined goal or universal landing page template consistent with your brand."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:25:52.837999",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f4a4616f-b379-4c22-a421-e5f60d2145dd",
+    "name": "Landingi",
+    "slug": "landingi",
+    "description": "Landing Page Builder for non-programmers. With Landingi you don\u2019t need any programming skills to create and optimize your own custom landing pages.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/662ea3120100998b16fff3b2ee5b364a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders"
+    ],
+    "category_slugs": [
+      "cms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

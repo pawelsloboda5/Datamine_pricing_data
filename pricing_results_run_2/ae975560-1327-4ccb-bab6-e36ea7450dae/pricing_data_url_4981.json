@@ -1,0 +1,153 @@
+{
+  "app_id": "mixpanel",
+  "app_name": "Mixpanel",
+  "app_slug": "mixpanel",
+  "pricing_url": "https://mixpanel.com/pricing",
+  "source_url": "https://mixpanel.com/pricing/",
+  "all_pricing_urls": [
+    "https://mixpanel.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Mixpanel offers a free tier and usage-based pricing for events. Additional features and higher usage limits are available in paid plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic plan with limited features and usage.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Insights, funnels, retention, & flows reports",
+        "5 saved reports per seat",
+        "10K session replays per month"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly events",
+            "value": "Up to 1M"
+          },
+          {
+            "name": "Spark AI query builder",
+            "value": "30 queries/month"
+          },
+          {
+            "name": "Monitoring & alerts",
+            "value": "5 per project"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Plan for growing businesses with expanded features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited saved reports",
+        "20M monthly events",
+        "60 Spark AI queries per month",
+        "20K session replays per month"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monitoring & alerts",
+            "value": "5 per project"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for large organizations with advanced needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom session replays",
+        "Custom monthly events",
+        "300 Spark AI queries per month",
+        "Advanced governance & security features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monitoring & alerts",
+            "value": "5 per project"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Events",
+      "unit": "per event",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Startup Program",
+      "offer_description": "First year free for eligible startups.",
+      "discount_percentage": 100.0,
+      "offer_url": "https://mixpanel.com/startups",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:19:07.613627",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ae975560-1327-4ccb-bab6-e36ea7450dae",
+    "name": "Mixpanel",
+    "slug": "mixpanel",
+    "description": "Mixpanel provides product analytics for understanding user behavior in apps & websites. Build better products faster with instant insights.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/785f1b175e2861a0b71ea6f63281142e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Ads & Conversion"
+    ],
+    "category_slugs": [
+      "ads-conversion"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

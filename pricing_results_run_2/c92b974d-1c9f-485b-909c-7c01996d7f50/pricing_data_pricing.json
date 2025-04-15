@@ -1,0 +1,170 @@
+{
+  "app_id": "wodify_core",
+  "app_name": "Wodify Core",
+  "app_slug": "wodify-core",
+  "pricing_url": "https://www.wodify.com/pricing",
+  "source_url": "https://www.wodify.com/pricing",
+  "all_pricing_urls": [
+    "https://www.wodify.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription-based plans with optional add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Start strong with a complete business platform.",
+      "monthly_price": 179.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited clients & employees",
+        "Billing & client management",
+        "Classes / Appointments",
+        "In-app chats",
+        "SMS Marketing",
+        "Online sales page",
+        "Digital contracts/waivers",
+        "Waitlists",
+        "Mobile app",
+        "Custom branding",
+        "Marketing automation & email",
+        "Campaign builder/templates",
+        "Point of sale",
+        "Payroll",
+        "Reporting"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Accelerate",
+      "tier_description": "Scale fast with advanced tools and automation.",
+      "monthly_price": 198.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited clients & employees",
+        "Billing & client management",
+        "Classes / Appointments",
+        "In-app chats",
+        "SMS Marketing",
+        "Online sales page",
+        "Digital contracts/waivers",
+        "Waitlists",
+        "Mobile app",
+        "Custom branding",
+        "Marketing automation & email",
+        "Campaign builder/templates",
+        "Point of sale",
+        "Payroll",
+        "Reporting",
+        "Customer reporting & insights",
+        "Lead management"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Ultimate",
+      "tier_description": "Lead your market with every tool to grow and win.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited clients & employees",
+        "Billing & client management",
+        "Classes / Appointments",
+        "In-app chats",
+        "SMS Marketing",
+        "Online sales page",
+        "Digital contracts/waivers",
+        "Waitlists",
+        "Mobile app",
+        "Custom branding",
+        "Marketing automation & email",
+        "Campaign builder/templates",
+        "Point of sale",
+        "Payroll",
+        "Reporting",
+        "Customer reporting & insights",
+        "Lead management"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Limited Time Offer",
+      "offer_description": "Starting at $79 per month.",
+      "discount_percentage": null,
+      "offer_url": "https://www.wodify.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Credit Card Rates",
+      "fee_amount": null,
+      "fee_description": "As low as 2.7% + $0.30 per transaction."
+    },
+    {
+      "fee_name": "ACH Rates",
+      "fee_amount": null,
+      "fee_description": "As low as 1.5% + $0.30 per transaction."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:42:37.653753",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c92b974d-1c9f-485b-909c-7c01996d7f50",
+    "name": "Wodify Core",
+    "slug": "wodify",
+    "description": "Wodify Core software helps athletes track performance while allowing box owners to manage memberships, sell gear, and build community in their affiliate box.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/91d8ec79629efc2d30aa03c2bdbce319.jpg?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 4
+  }
+}

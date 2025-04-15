@@ -1,0 +1,179 @@
+{
+  "app_id": "scoreapp",
+  "app_name": "ScoreApp",
+  "app_slug": "scoreapp",
+  "pricing_url": "https://www.scoreapp.com/pricing/",
+  "source_url": "https://www.scoreapp.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.scoreapp.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers discounted rates compared to monthly billing. Enterprise plan pricing is customized based on application.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Everything you need to start generating data rich leads",
+      "monthly_price": 37.0,
+      "annual_price": 441.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "5 live Scorecards",
+        "Includes 200 responses per month",
+        "1 user",
+        "Unlimited landing pages",
+        "Dynamic result pages",
+        "View & export all response data",
+        "Connect your CRM"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "live Scorecards",
+            "value": 5
+          },
+          {
+            "name": "responses per month",
+            "value": 200
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Generate more leads and more data",
+      "monthly_price": 75.0,
+      "annual_price": 891.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "10 live Scorecards",
+        "Includes 1000 responses per month",
+        "3 users",
+        "Everything from starter",
+        "Use your own domain",
+        "Abandon email",
+        "Advanced insights",
+        "Custom CSS / Scripts",
+        "Google Analytics & Facebook pixel",
+        "Dynamic PDF Report",
+        "Audiences"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "live Scorecards",
+            "value": 10
+          },
+          {
+            "name": "responses per month",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced features for making more sales",
+      "monthly_price": 112.0,
+      "annual_price": 1341.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "30 live Scorecards",
+        "Includes 3000 responses per month",
+        "5 users",
+        "Everything from business",
+        "Data enrichment",
+        "Split testing"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "live Scorecards",
+            "value": 30
+          },
+          {
+            "name": "responses per month",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Scale up as required, with tailored plans and onboarding",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Infinitely scalable",
+        "Seats for everyone",
+        "VIP support",
+        "Tailored onboarding",
+        "Granular permissions",
+        "SSO"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:50:51.671179",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f9c9ba94-0810-4032-b309-343d7b053aa0",
+    "name": "ScoreApp",
+    "slug": "scoreapp",
+    "description": "ScoreApp is a quiz builder and lead generation tool for small businesses.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/4887a53be0ffa0d2105944c84779765d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

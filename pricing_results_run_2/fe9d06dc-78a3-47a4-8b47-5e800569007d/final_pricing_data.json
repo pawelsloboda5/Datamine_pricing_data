@@ -1,0 +1,111 @@
+{
+  "app_id": "appointlet",
+  "app_name": "Appointlet",
+  "app_slug": "appointlet",
+  "pricing_url": "https://www.appointlet.com/pricing",
+  "source_url": "https://www.appointlet.com/pricing",
+  "all_pricing_urls": [
+    "https://www.appointlet.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and a premium tier with additional features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for small teams.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 5 members",
+        "Unlimited Meetings",
+        "Connect Zoom, Meet, MS Teams, Webex, and more",
+        "Cancel and reschedule events"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Scheduling Pages",
+            "value": 1
+          },
+          {
+            "name": "Meeting Types",
+            "value": 5
+          },
+          {
+            "name": "Groups & Classes",
+            "value": "Up to 5 attendees"
+          },
+          {
+            "name": "Custom intake forms",
+            "value": "Up to 3 fields"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Advanced features for growing teams.",
+      "monthly_price": 12.0,
+      "annual_price": 9.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Send Automated Reminders",
+        "Manually Confirm Bookings",
+        "Collect Payment",
+        "Pre-fill form fields",
+        "Redirect after booking"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:48:45.934405",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fe9d06dc-78a3-47a4-8b47-5e800569007d",
+    "name": "Appointlet",
+    "slug": "appointlet",
+    "description": "Appointlet makes it easy to schedule & prepare for meetings with your customers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/6268ffa9ec2d92cc1b3321473f25948d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 9
+  }
+}

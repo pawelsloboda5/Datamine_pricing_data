@@ -1,0 +1,88 @@
+{
+  "app_name": "Constant Contact",
+  "app_slug": "constant-contact",
+  "search_term": "Find the official pricing page URL for Constant Contact (constant-contact.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744686703.3297858,
+  "response_text": [
+    "The official pricing page for Constant Contact can be found at: https://www.constantcontact.com/pricing\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Email & Digital Marketing Pricing Plans for Small ... - Constant Contact",
+      "url": "https://www.constantcontact.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.constantcontact.com/pricing\u30103:0\u2020source\u3011.",
+      "is_accessible": true,
+      "content": "![Image 1: Icon for www.constantcontact.com](https://www.constantcontact.com/favicon.ico)www.constantcontact.com\n----------------------------------------------------------------------------------------------------------------\n\nVerify you are human by completing the action below.\n\nwww.constantcontact.com needs to review the security of your connection before proceeding.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "constant_contact",
+        "app_name": "Constant Contact",
+        "app_slug": "constant-contact",
+        "pricing_url": "https://www.constantcontact.com",
+        "source_url": "https://www.constantcontact.com",
+        "all_pricing_urls": [
+          "https://www.constantcontact.com"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing information could not be extracted due to security verification requirements.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:11:59.004425",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": true,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.constantcontact.com/pricing",
+      "is_accessible": true,
+      "content": "![Image 1: Icon for www.constantcontact.com](https://www.constantcontact.com/favicon.ico)www.constantcontact.com\n----------------------------------------------------------------------------------------------------------------\n\nVerify you are human by completing the action below.\n\nwww.constantcontact.com needs to review the security of your connection before proceeding.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "constant_contact",
+        "app_name": "Constant Contact",
+        "app_slug": "constant-contact",
+        "pricing_url": "https://www.constantcontact.com",
+        "source_url": "https://www.constantcontact.com",
+        "all_pricing_urls": [
+          "https://www.constantcontact.com"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing information could not be extracted due to access restrictions.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:12:09.203239",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": true,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\constant-contact\\20250414_231209"
+}

@@ -1,0 +1,45 @@
+{
+  "app_id": "g2_crowd",
+  "app_name": "G2 Crowd",
+  "app_slug": "g2-crowd",
+  "pricing_url": "https://www.g2.com/sell/pricing",
+  "source_url": "https://www.g2.com/sell/pricing",
+  "all_pricing_urls": [
+    "https://www.g2.com/sell/pricing"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page for G2 Crowd was not accessible, and no pricing information could be retrieved.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:33:29.998329",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3182c10f-34a8-475a-81e0-ded3a8dc033d",
+    "name": "G2 Crowd",
+    "slug": "g2-crowd",
+    "description": "G2 Crowd is a business review platform, that makes business purchasing decisions transparent and easy.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/24ab935dd1b78f8c4ec5b0635cd9cd57.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Reviews"
+    ],
+    "category_slugs": [
+      "reviews"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

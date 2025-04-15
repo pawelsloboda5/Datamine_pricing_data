@@ -1,0 +1,84 @@
+{
+  "app_name": "SuperSaaS",
+  "app_slug": "supersaas",
+  "search_term": "Find the official pricing page URL for SuperSaaS (supersaas.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744717220.8978148,
+  "response_text": [
+    "The official pricing page for SuperSaaS is located at: [https://www.supersaas.com/info/pricing](https://www.supersaas.com/info/pricing).\u30103:0\u2020source\u3011"
+  ],
+  "citations": [
+    {
+      "title": "Pricing - SuperSaaS",
+      "url": "https://www.supersaas.com/info/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.supersaas.com/info/pricing",
+      "is_accessible": true,
+      "content": "Included with every package\n---------------------------\n\n### Flexible Scheduling\n\nMultiple resources\n\nManage scheduling of multiple resources (e.g. a person and a room) from a single schedule.\n\nGroup bookings\n\nCreate your own event, class or workshop schedule, define the capacity of every slot and allow multiple people to book the same slot.\n\nService appointments\n\nOffer certain services to your customer, each with its own price and duration. Offer multiple services on the same schedule and allow customers to book services of their choice\n\nEvent bookings\n\nAllow registration for events spread over one day, several days or only for certain hours. Easily switch back and forth between price plans to accommodate a temporary increase in number of bookings.\n\nRecurring appointments\n\nOffer a series of classes or create recurring appointments at certain time intervals with the same person (or resource). Appointments can repeat, with complex patterns like the 2nd Saturday every month.\n\nWaiting lists\n\nAdd users to the waiting list, when you\u2019re completely booked on your schedule and send an automatic notification when a spot is available. Waiting list queues can be maintained for each separate time slot.\n\nComplex scheduling scenarios\n\nCombine multiple calendars together for the most complex scheduling scenarios: e.g. \u201cbooking a treatment requires that both a room and a therapist are available\u201d. [See more scenarios](https://www.supersaas.com/info/doc/process/combining_schedules)\n\n### Integrations\n\nBooking Widget\n\nSeamlessly and easily integrate your appointment schedule on your own website via a small JavaScript snippet.\n\nOnline meetings\n\nAutomatically add a Zoom or Google Meet link to an appointment.\n\nWebhooks and API\n\nConnect your SuperSaaS schedule with other systems through webhooks or our API. Use 3rd party integration tools like Make and Zapier to connect SuperSaaS to your favorite platforms including Slack, MailChimp, Twilio, etc.\n\nCustom \u201cBook Now\u201d button\n\nDesign your own custom \u201cBook Now\u201d button and add it to your website to accept bookings on your SuperSaaS schedule.\n\nWordPress plugin\n\nAllow users to log in and make a booking on your schedule with our single sign-on widget for WordPress, Joomla & Drupal.\n\nSingle-sign on\n\nIf your site already has its own login system you can log them in via our API, so your clients won\u2019t have to log in twice.\n\nFacebook & Instagram\n\nAdd a booking button to your Facebook or Instagram page that links to your appointment schedule.\n\n3rd party JavaScript\n\nAdd your own JavaScript code to your booking pages, such as Google Analytics or live chat integration.\n\n### Payments\n\nOnline payments\n\nAccept online payments from your customers in 200+ currencies via payment processors like PayPal, Stripe, Mollie, ePay, PayU, Klarna Pay Later, Square etc.\n\nPricing rules\n\nCreate pricing rules, so the appointment price depends on its length, the day of booking, the start time of the booking, and many other factors.\n\nCredit system\n\nHandle payments in your own currency and sell packages in your webshop with the help of the credit system.\n\nManual payment methods\n\nAccept direct bank transfers or checks and configure the system to request admin approval before sending confirmation of appointment bookings.\n\nHold off bookings\n\nAutomatically cancel appointments when no payment is received or payment is reversed by the bank. Optionally postpone payment until the customer gets placed from the waiting list.\n\nCoupon codes\n\nOffer limited time discounts % (or amount) and create discounts for bookings created on specific days.\n\nInvoicing\n\nAutomatically send an invoice in your own format before or after an appointment via Stripe, PayPal, Moneybird or Paystack.\n\n### Confirmations & Reminders\n\nBooking confirmation\n\nReceive automatic confirmation emails/SMS when a booking is added to your schedule.\n\nCancellation notifications\n\nGet notified when a client cancels a reservation on your schedule.\n\nEmail domain\n\nSend your reminders & notifications with your own \u201cFrom\u201d address or through your own email provider.\n\nVerify email addresses\n\nRequire visitors to have a valid email address by sending a verification link.\n\nAppointment reminders\n\nAutomatically send email/text reminders to customers at a certain time before the scheduled appointment time.\n\nFollow-up & reviews\n\nSend follow-up messages after the appointment to share relevant information, request feedback or generate more customer reviews.\n\nPersonalized notifications\n\nCustomize your email/SMS notifications by inserting dynamic texts, for example, to address users by name or confirm the details of the booking.\n\nFormatted notifications\n\nApply styling to your emails using HTML format.\n\nExport email addresses\n\nEasily download email addresses to a file, for example to inform of a canceled class/event.\n\n### Custom Layout & Forms\n\nYour logo, colors, and style sheet\n\nMake the system truly your own by modifying the system in your own colors, adding your logo and your own favicon. Apply your own CSS for advanced customization.\n\nInclude images\n\nAdd images of your resources, staff members, events or services offered on your schedule.\n\nModify your layout\n\nControl which value fields you want to display on your schedule, modify date and time and number formats.\n\nMultilanguage\n\nUse the system to manage your business worldwide with SuperSaaS\u2019s availability in 34 languages.\n\nCustom domain name\n\nCustomize your booking page\u2019s domain with our custom domain name feature.\n\nRedirect URL\n\nShow additional information to customers with a special landing page or redirect them to your website with a redirect URL option.\n\nCustom forms\n\nCapture additional information by adding your own custom booking fields, drop-down lists and forms to the registration process.\n\nAttachments\n\nAsk clients to attach files which are then stored in Dropbox.\n\n### Booking Constraints\n\nControl your availability\n\nManage which days and during what hours you want to allow users to make a booking on your schedule. Add special days and holidays, and create exceptions for certain days, if required.\n\nLimit bookings per user\n\nRestrict the booking quantity by the same user to a certain number of slots at the same time, per day, per week, per month or in total (including the ones in the future). For example, students can only book a maximum of 3 lessons per week.\n\nMultiple slot bookings\n\nAccept more than one booking for the same time slot, for example, allowing up to 5 team members to book the same meeting slot with you for project discussion.\n\nCancellation policy\n\nDefine how far in advance can the users make the booking on your schedule and until when they can modify/delete their reservation.\n\nStart time constraints\n\nConstraint the start time of your appointments, for example, allow appointments to begin only at 9:00, 11:00, 12:00 and so on.\n\nMin/max length of an appointment\n\nAccept appointments of default fixed length, offer multiple appointment duration options from a drop-down menu or define the minimum and maximum permitted length of an appointment.\n\n### Access Control\n\nControl access to schedules\n\nAllow anyone with the schedule link to create a booking on your schedule or request them to create an account with you before adding a booking. Limit access to users with shared password, with specific email domain, people you specify in advance or use an interface with your server.\n\nUser groups\n\nLimit access to certain schedules by creating user groups, and assign which schedules they can access.\n\nBlock notorious users\n\nBlock and unblock customers, easily detect abuse and revert it as per your convenience.\n\nUser management\n\nAllow team members to manage their individual schedule or some specific schedule by adding them as superuser to those schedules. Give \u2018superusers\u2019 additional access rights to do maintenance tasks.\n\nInternal notes\n\nAdd customer notes or additional information about your customers, only viewable to internal staff members with the help of the supervisor field.\n\nAct on behalf of customer\n\nMake changes on behalf of a customer to facilitate appointments that come in by phone or mail.\n\n### Calendar Customization\n\nCustom appointment length\n\nAllow customers to select from custom time intervals or allow custom time slot durations with an option to round off the end time to the nearest time interval.\n\nAppointment details\n\nSpecify what information users are required to fill out when creating an appointment.\n\nBuffer time\n\nAvoid back-to-back meetings and automatically add buffer time in between appointments, for example to allow for room cleaning or travel time.\n\nTime zones\n\nManage your business across the world with our multiple time zone support.\n\nAdd your location\n\nSpecify the location of your classes/events/workshops if you have centers at multiple locations.\n\nCustomizable terminology\n\nIrrespective of how you refer to your end-users, you can customize the term used by the system for your end users. For example, you can configure the system to call them students, clients, customers or anything else you want.\n\n### Security & Reliability\n\nSSL security\n\nMaintain a secure connection by adding SSL to your appointment booking schedules.\n\nMission-critical operation\n\nAbove 99.99% up-time. (less than 30 minutes downtime per year.)\n\nTerms & conditions\n\nYou can request your clients to accept your terms & conditions before they can make a booking on your schedule.\n\nGDPR compliancy\n\nFully compliant with all GDPR regulations for data privacy.\n\nAccessibility (WCAG 2.1 AA)\n\nCompliant with the new European Accessibility Act for people with disabilities or impairment.\n\n### Reporting\n\nTrack attendance\n\nMark the status of your bookings, whether the user has attended, is absent or unavailable during the booking slot with an additional supervisor field.\n\nReceive daily reporting\n\nReceive daily reports with a simple overview of the bookings made during the day.\n\nStatistics\n\nKeep track of the number of bookings and view booking statistics on your schedule.\n\nGoogle Analytics\n\nUnderstand how visitors interact with your schedule and get insights into customer behavior with Google Analytics integration.\n\nPrint your reports\n\nCreate printed reports of the schedule and classes for quick reference or for internal information sharing.\n\nImport/Export\n\nEasily add existing user information with individual account passwords or export all appointment data in a usable format for further data analytics & processing.\n\n### Calendar Sync (all paid packages)\n\nSynchronize Availability\n\nRead availability from your Google or Outlook calendar to SuperSaaS to avoid double bookings.\n\nGoogle Calendar\n\nPublish appointments or classes in SuperSaaS to your Google calendar.\n\nOutlook\n\nAvoid scheduling clashes by automatically exporting your SuperSaaS bookings to your Outlook calendar.\n\nApple iCalendar\n\nSee a glance of upcoming events and update your appointments from your SuperSaaS calendar in your Apple\u2019s iCalendar.\n\nOffice 365\n\nAdd your SuperSaaS bookings to your Office 365 calendar.\n\nThe basic version is free and fully functional so you can try out the system. You can switch to a paid plan when you run into the appointment limit.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "supersaas",
+        "app_name": "SuperSaaS",
+        "app_slug": "supersaas",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The basic version is free and fully functional, with limitations on appointment numbers.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic",
+            "tier_description": "Free tier with full functionality but limited appointments.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Flexible scheduling",
+              "Integrations",
+              "Payments",
+              "Confirmations & Reminders",
+              "Custom Layout & Forms",
+              "Booking Constraints",
+              "Access Control",
+              "Calendar Customization",
+              "Security & Reliability",
+              "Reporting",
+              "Calendar Sync"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "limited appointments",
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:40:26.396387",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\supersaas\\20250415_074026"
+}

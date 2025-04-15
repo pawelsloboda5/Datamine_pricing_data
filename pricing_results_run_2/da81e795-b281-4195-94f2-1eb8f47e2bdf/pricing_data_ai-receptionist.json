@@ -1,0 +1,157 @@
+{
+  "app_id": "smith_ai",
+  "app_name": "Smith.ai",
+  "app_slug": "smith-ai",
+  "pricing_url": "https://smith.ai/pricing",
+  "source_url": "https://smith.ai/pricing/ai-receptionist",
+  "all_pricing_urls": [
+    "https://smith.ai/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Smith.ai offers a 14-day money-back guarantee for all plans, and pricing is based on the number of calls handled.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Entry-level plan for small call volumes.",
+      "monthly_price": 97.5,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Lead screening, qualification & intake",
+        "Live expert agents on standby 24/7",
+        "Rich business insights in your dashboard",
+        "No setup fees",
+        "No annual contracts",
+        "No hidden fees",
+        "No charge for spam"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 30,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Plan for moderate call volumes.",
+      "monthly_price": 270.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Lead screening, qualification & intake",
+        "Live expert agents on standby 24/7",
+        "Rich business insights in your dashboard",
+        "No setup fees",
+        "No annual contracts",
+        "No hidden fees",
+        "No charge for spam"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 90,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Plan for high call volumes.",
+      "monthly_price": 825.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Lead screening, qualification & intake",
+        "Live expert agents on standby 24/7",
+        "Rich business insights in your dashboard",
+        "No setup fees",
+        "No annual contracts",
+        "No hidden fees",
+        "No charge for spam"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 300,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for enterprise needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Lead screening, qualification & intake",
+        "Live expert agents on standby 24/7",
+        "Rich business insights in your dashboard",
+        "No setup fees",
+        "No annual contracts",
+        "No hidden fees",
+        "No charge for spam"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "custom",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "14-Day Money-Back Guarantee",
+      "offer_description": "Refund available for all plans within 14 days of subscription.",
+      "discount_percentage": null,
+      "offer_url": "https://smith.ai/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:25:55.703929",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "da81e795-b281-4195-94f2-1eb8f47e2bdf",
+    "name": "Smith.ai",
+    "slug": "smithai-zapier-app-da100556",
+    "description": "Smith.ai is a call answering & intake service for small & solo businesses. Our live, North America-based virtual receptionists capture & qualify leads, book new clients, and build better relationships with your existing clients.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/2804bbe71bc9cd513655de93036bba68.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

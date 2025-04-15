@@ -1,0 +1,120 @@
+{
+  "app_name": "Memberful",
+  "app_slug": "memberful",
+  "search_term": "Find the official pricing page URL for Memberful (memberful.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744701013.0915082,
+  "response_text": [
+    "The official pricing page for Memberful can be found at: [https://memberful.com/pricing/](https://memberful.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | Memberful.com",
+      "url": "https://memberful.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://memberful.com/pricing/",
+      "is_accessible": true,
+      "content": "What's included\n---------------\n\nA powerful suite of tools built for creators who want more control over their memberships.\n\n#### Fast and powerful checkout\n\n*   Apple Pay and Google Pay\n*   Coupons and discounts\n*   Custom fields\n*   15 language translations\n*   Global tax collection\n*   Gift purchases\n\n#### Subscriptions of any kind\n\n*   Free and paid trials\n*   Free registration\n*   Group plans\n*   One-time payments\n*   Monthly, annual, weekly\n*   Choose what to pay\n\n#### Easy member management\n\n*   Growth metrics and reporting\n*   Built-in referral program\n*   Automated retention discounts\n*   Cancellation surveys\n*   Custom transactional emails\n*   Staff accounts\n\n#### Support for all types of content\n\n*   Podcasts\n*   Newsletters\n*   Communities\n*   Courses\n*   Downloads\n\n#### Website and newsletter builder\n\n*   Landing page builder\n*   Custom domains\n*   Dynamic paywalls\n*   Custom themes and branding\n*   Integrated comments\n\n#### Managed integrations\n\n*   WordPress\n*   Mailchimp\n*   Discord\n*   Our custom API & Webhooks\n*   [Many more](https://memberful.com/integrations)...\n\n### Frequently asked questions\n\nDo I need a Stripe account? What is Stripe?\n\nYes. Memberful requires a [Stripe](https://stripe.com/) account. Stripe is a certified Level 1 PCI credit card payment processor. They process your payments and transfer the funds to your bank account. [Learn more about payment processing](https://memberful.com/help/memberful-101/payment-processing/).\n\nHow do transaction fees work?\n\nMemberful charges a transaction fee of 4.9% per successful charge. Stripe also charges a credit card processing fee that varies by country. See [Stripe pricing](https://stripe.com/pricing) for more details.\n\nCan I try it for free?\n\nYes! Try Memberful for free **for as long as you need** in [test mode](https://memberful.com/help/memberful-101/make-test-purchases/). We won't start charging you until you connect to Stripe and turn on live payments.\n\nCan I cancel at any time?\n\nYes. You cancel at any time. The paid plan is billed month-to-month. We don't have any long term contracts.\n\nIs there a limit on how many members I can have?\n\nNo, there is no cap on member count.\n\nIs Memberful PCI Compliant and secure?\n\nYes and yes. We use 256-bit SSL security across the service. We don't store customer credit cards. We also keep high-availability backups of all your important data. [Read more about Memberful security](https://memberful.com/help/security/).\n\n**Always included**: Unlimited members, SSL security, and high-availability backups.\n\nSimple, all-inclusive pricing. Gain access to everything Memberful has to offer for one monthly price. No setup or hidden fees. You can test for free as long as you like and only start paying when you go live.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "memberful",
+        "app_name": "Memberful",
+        "app_slug": "memberful",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Memberful offers unlimited members and includes SSL security and backups in all plans. Transaction fees apply.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Standard",
+            "tier_description": "Access to all Memberful features for one monthly price.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited members",
+              "SSL security",
+              "High-availability backups",
+              "Apple Pay and Google Pay",
+              "Coupons and discounts",
+              "Custom fields",
+              "15 language translations",
+              "Global tax collection",
+              "Gift purchases",
+              "Free and paid trials",
+              "Free registration",
+              "Group plans",
+              "One-time payments",
+              "Monthly, annual, weekly subscriptions",
+              "Growth metrics and reporting",
+              "Built-in referral program",
+              "Automated retention discounts",
+              "Cancellation surveys",
+              "Custom transactional emails",
+              "Staff accounts",
+              "Podcasts",
+              "Newsletters",
+              "Communities",
+              "Courses",
+              "Downloads",
+              "Landing page builder",
+              "Custom domains",
+              "Dynamic paywalls",
+              "Custom themes and branding",
+              "Integrated comments",
+              "WordPress integration",
+              "Mailchimp integration",
+              "Discord integration",
+              "Custom API & Webhooks"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Transaction fees",
+            "unit": "per successful charge",
+            "base_price": 4.9,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Stripe processing fee",
+            "fee_amount": null,
+            "fee_description": "Stripe charges a credit card processing fee that varies by country."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T03:10:19.732625",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\memberful\\20250415_031020"
+}

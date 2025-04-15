@@ -1,0 +1,196 @@
+{
+  "app_id": "dovetail",
+  "app_name": "Dovetail",
+  "app_slug": "dovetail",
+  "pricing_url": "https://dovetail.com/pricing",
+  "source_url": "https://dovetail.com/pricing/",
+  "all_pricing_urls": [
+    "https://dovetail.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Enterprise pricing requires contacting sales for a quote.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Automatically uncover insights in your customer calls and interviews. Share effortlessly with your team.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Automatic summarization",
+        "Highlights key moments",
+        "Auto tags highlights",
+        "Auto-import and store calls, docs, and survey responses",
+        "Transcribe conversations in over 40 languages, and detect speakers",
+        "Save highlights across video, audio, documents, and notes",
+        "Share auto-generated highlights with your team via Slack, Notion, and more"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "projects",
+            "value": 1
+          },
+          {
+            "name": "transcription",
+            "value": "unlimited"
+          },
+          {
+            "name": "file uploads",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Instantly discover insights across all your customer touch points like calls, surveys and support channels.",
+      "monthly_price": 39.0,
+      "annual_price": 348.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Global semantic search",
+        "Thematic classification",
+        "Auto creates insights",
+        "Ask your data and insights anything",
+        "AI summarized results linked to real customer feedback",
+        "Customize your workspace with folders, filters, and views",
+        "Create project overviews and share in-depth findings as insights",
+        "Store, track, and recruit over 3m people to talk to, worldwide"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "projects",
+            "value": "unlimited"
+          },
+          {
+            "name": "viewers",
+            "value": "unlimited"
+          },
+          {
+            "name": "data points/month in Channels",
+            "value": 250
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Scale insights org-wide with Enterprise-grade features, access controls, and standardization.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Chat with your data in Slack",
+        "Automated insights digests",
+        "Video, audio, and text redaction",
+        "Discover insights with conversational AI in Slack and Microsoft Teams",
+        "Configure automated text and audio digests with relevant updates",
+        "Redact video, audio, and text within transcripts to protect privacy",
+        "Control permissions with user roles, groups, and granular access control",
+        "Standardize tags, fields, and templates across the workspace",
+        "Enable stakeholders to self-service insights with homepage and search"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "projects",
+            "value": "unlimited"
+          },
+          {
+            "name": "viewers",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "data points",
+      "unit": "per month",
+      "base_price": 500.0,
+      "tiers": [
+        {
+          "min": 1000.0,
+          "max": 5000.0,
+          "price": 500.0
+        },
+        {
+          "min": 5000.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Participant recruitment",
+      "fee_amount": 75.0,
+      "fee_description": "Set up research studies and source new participants from our pool of 3 million people."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:55:15.239382",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0074e463-1ac6-4ee8-a956-aff6f8e30e10",
+    "name": "Dovetail",
+    "slug": "dovetail",
+    "description": "Dovetail lets you organize user research data, analyze it together, and share insights with your team. Understand your customers with Dovetail and build better things.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/5735da56f0057db9e43da783bb7b36e3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 2
+  }
+}

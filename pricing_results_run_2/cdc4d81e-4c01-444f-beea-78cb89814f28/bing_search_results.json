@@ -1,0 +1,90 @@
+{
+  "app_name": "Phaxio",
+  "app_slug": "phaxio",
+  "search_term": "Find the official pricing page URL for Phaxio (phaxio.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744702971.3441014,
+  "response_text": [
+    "The official pricing page for Phaxio is: [https://www.phaxio.com/pricing](https://www.phaxio.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Phaxio",
+      "url": "https://www.phaxio.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.phaxio.com/pricing",
+      "is_accessible": true,
+      "content": "7\u00a2\n--\n\n### Per Page\n\n10\u00a2\n---\n\n### Per Page\n\n2$\n--\n\n### Per Month\n\n1\u00a2\n--\n\n### Per Fax Rec'd\n\n### North America\n\n*   United States\n*   US Virgin Islandsbeta\n*   Canada\n*   Costa Ricabeta\n*   Mexicobeta\n*   Panamabeta\n*   Puerto Rico\n\n### South America\n\n*   Argentina\n*   Brazil\n\n### Oceania\n\n*   Australia\n*   New Zealandbeta\n\n### Europe\n\n*   Austria\n*   Belgium\n*   Cyprusbeta\n*   Czech Republicbeta\n*   Denmark\n*   Estoniabeta\n*   France\n*   Martiniquebeta\n*   Germany\n*   Greece\n*   Hungarybeta\n*   Icelandbeta\n*   Ireland\n*   Italy\n*   Jersey\n\n*   Latviabeta\n*   Maltabeta\n*   Slovakiabeta\n*   Luxembourg\n*   Netherlands\n*   Norway\n*   Polandbeta\n*   Portugal\n*   Romania\n*   Spain\n*   Sweden\n*   Switzerland\n*   United Kingdom\n\n### Asia\n\n*   Chinabeta\n*   Hong Kong\n*   India\n*   Israel\n*   Japan\n*   Kazakhstanbeta\n*   Malaysiabeta\n*   Russian Federationbeta\n*   Taiwanbeta\n*   Thailandbeta\n\n### Africa\n\n*   Moroccobeta\n*   South Africa\n\n5\u00a2\n--\n\n### Per Page\n\n4\u00a2\n--\n\n### Per Page\n\n8\u00a2\n--\n\n### Per Page\n\n7\u00a2\n--\n\n### Per Page\n\nIf your account sends or receives more than the above thresholds per month, you are eligible for volume pricing. Accounts are automatically checked monthly for eligibility. If you think your account will reach a volume pricing threshold before the end of the month and would like to get volume pricing right away, please [contact us.](https://www.phaxio.com/contact)\n\nBuild apps that talk fax. Send and receive fax through our advanced, best-in-class API.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "phaxio",
+        "app_name": "Phaxio",
+        "app_slug": "phaxio",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is based on usage per page and per fax received, with volume pricing available for high usage.",
+        "pricing_tiers": null,
+        "usage_based_pricing": [
+          {
+            "metric_name": "fax pages",
+            "unit": "per page",
+            "base_price": 0.07,
+            "tiers": null
+          },
+          {
+            "metric_name": "fax pages",
+            "unit": "per page",
+            "base_price": 0.1,
+            "tiers": null
+          },
+          {
+            "metric_name": "fax pages",
+            "unit": "per page",
+            "base_price": 0.05,
+            "tiers": null
+          },
+          {
+            "metric_name": "fax pages",
+            "unit": "per page",
+            "base_price": 0.04,
+            "tiers": null
+          },
+          {
+            "metric_name": "fax pages",
+            "unit": "per page",
+            "base_price": 0.08,
+            "tiers": null
+          },
+          {
+            "metric_name": "fax received",
+            "unit": "per fax",
+            "base_price": 0.01,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:42:56.096549",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\phaxio\\20250415_034257"
+}

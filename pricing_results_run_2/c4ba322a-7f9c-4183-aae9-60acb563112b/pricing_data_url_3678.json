@@ -1,0 +1,113 @@
+{
+  "app_id": "ryver",
+  "app_name": "Ryver",
+  "app_slug": "ryver",
+  "pricing_url": "https://ryver.com/pricing",
+  "source_url": "https://ryver.com/pricing/",
+  "all_pricing_urls": [
+    "https://ryver.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Ryver offers a free trial and a free tier for users.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "For small teams",
+      "monthly_price": 69.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited chat",
+        "Unlimited storage",
+        "Unlimited integrations",
+        "iOS, Android, Mac, & Windows Apps"
+      ],
+      "limits": {
+        "users": 12,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "For medium teams",
+      "monthly_price": 129.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Basic features",
+        "Single Sign On (SSO)",
+        "Premium Support",
+        "Advanced Group Management"
+      ],
+      "limits": {
+        "users": 30,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large teams",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Standard features",
+        "Dedicated Testing Sandbox"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:09:21.274825",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c4ba322a-7f9c-4183-aae9-60acb563112b",
+    "name": "Ryver",
+    "slug": "ryver",
+    "description": "Ryver organizes all your collaboration in one app with team chat, task management, and voice and video calls.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/4eb00bd45151c73a3a98408bfcbb9f84.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Collaboration"
+    ],
+    "category_slugs": [
+      "team-collaboration"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 3
+  }
+}

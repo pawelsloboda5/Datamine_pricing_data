@@ -1,0 +1,175 @@
+{
+  "app_id": "knack",
+  "app_name": "Knack",
+  "app_slug": "knack",
+  "pricing_url": "https://www.knack.com/pricing",
+  "source_url": "https://www.knack.com/pricing",
+  "all_pricing_urls": [
+    "https://www.knack.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Knack offers a limited-time promotional discount for new customers on the Starter and Pro tiers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "For individual users and small teams",
+      "monthly_price": 59.0,
+      "annual_price": 49.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "No Code Online Database",
+        "Automation / Integration (Knack Flows and Knack API)",
+        "Front End Web Application Designer",
+        "Unlimited Users / Roles",
+        "Unlimited Tables, Fields, Pages",
+        "Unlimited Emails / Forms",
+        "AI App Builder"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "2 GB",
+        "operations": "unlimited",
+        "api_calls": 1000,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Database Records",
+            "value": 20000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For businesses building more complex apps",
+      "monthly_price": 119.0,
+      "annual_price": 99.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Remove Knack branding",
+        "Scheduled Tasks",
+        "Custom Branding",
+        "Ecommerce Payments",
+        "Maps",
+        "1 month of Record History"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10 GB",
+        "operations": "unlimited",
+        "api_calls": 5000,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Database Records",
+            "value": 50000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Corporate",
+      "tier_description": "For companies looking to transform their business ops.",
+      "monthly_price": 269.0,
+      "annual_price": 224.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "App Restores",
+        "Advanced SSO",
+        "2 month Record History"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "50 GB",
+        "operations": "unlimited",
+        "api_calls": 10000,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Database Records",
+            "value": 125000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For companies building more mission critical applications with high levels of security, and customer support.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Dedicated Account Manager",
+        "HIPAA / GovCloud based options",
+        "Private server environment options",
+        "Enhanced Customer Support",
+        "3 Month Record History"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "Contact Us",
+        "operations": "unlimited",
+        "api_calls": "Contact Us",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Database Records",
+            "value": "Contact Us"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "New Customer Offer",
+      "offer_description": "Limited Time Only!",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Additional Records and Storage",
+      "fee_amount": 37.5,
+      "fee_description": "15,000 records & 5GB (Limit 2)"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:42:14.312698",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fb10c143-b3d0-495c-a6c9-ce224c2a320e",
+    "name": "Knack",
+    "slug": "knack",
+    "description": "Knack is the easy way to build online databases and applications.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/f8c5e49767878040038511dc7d583ede.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Databases"
+    ],
+    "category_slugs": [
+      "databases"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 3
+  }
+}

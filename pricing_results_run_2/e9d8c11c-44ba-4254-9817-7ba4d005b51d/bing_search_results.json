@@ -1,0 +1,19 @@
+{
+  "app_name": "Plug&Pay",
+  "app_slug": "plug-and-pay",
+  "search_term": "Find the official pricing page URL for Plug&Pay (plug-and-pay.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744687571.1915972,
+  "response_text": [
+    "I found the official URL for the pricing page of Plug&Pay: https://plug-and-pay.com/pricing/  ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://plug-and-pay.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\plug-and-pay\\20250414_232626"
+}

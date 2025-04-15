@@ -1,0 +1,155 @@
+{
+  "app_id": "teamwork_desk",
+  "app_name": "Teamwork Desk",
+  "app_slug": "teamwork-desk",
+  "pricing_url": "https://www.teamwork.com/pricing/",
+  "source_url": "https://www.teamwork.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.teamwork.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes multiple tiers with varying features and user minimums.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Deliver",
+      "tier_description": "More robust project management.",
+      "monthly_price": 10.99,
+      "annual_price": null,
+      "annual_discount_percentage": 29.0,
+      "setup_fee": null,
+      "features": [
+        "Automations and Forms",
+        "Project Status Reports",
+        "Teams Management"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": 150,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Grow",
+      "tier_description": "Manage more complex client projects.",
+      "monthly_price": 19.99,
+      "annual_price": null,
+      "annual_discount_percentage": 29.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Deliver",
+        "Workload & Capacity Management",
+        "Advanced Budgeting",
+        "Powerful Reports"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "250GB",
+        "operations": null,
+        "api_calls": 150,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "Make your client work more productive and profitable.",
+      "monthly_price": 54.99,
+      "annual_price": null,
+      "annual_discount_percentage": 29.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Grow",
+        "Unlimited Retainer Management",
+        "Unlimited Custom Reports",
+        "Resource Scheduler"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "500GB",
+        "operations": null,
+        "api_calls": 300,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Enterprise grade features and advanced services.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Scale",
+        "Premium consulting and support services",
+        "Advanced Security & SSO",
+        "Dedicated infrastructure"
+      ],
+      "limits": {
+        "users": "Contact us",
+        "storage": "500GB",
+        "operations": null,
+        "api_calls": 500,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Free",
+      "tier_description": "Ideal for small teams of up to 5 users who are getting started.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic project management features"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "100GB",
+        "operations": null,
+        "api_calls": 150,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:52:15.480818",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0a0d9fe6-0b84-4c8f-9721-bfe11b857720",
+    "name": "Teamwork Desk",
+    "slug": "teamwork-desk",
+    "description": "Teamwork Desk makes it easy for your team to handle any customer support queries that come their way.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/869f3ba0a83780a1bc9e8b45a9935f81_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 12,
+    "trigger_count": 7
+  }
+}

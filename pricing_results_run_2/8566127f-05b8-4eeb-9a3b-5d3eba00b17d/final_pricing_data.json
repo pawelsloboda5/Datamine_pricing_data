@@ -1,0 +1,88 @@
+{
+  "app_id": "buy_me_a_coffee",
+  "app_name": "Buy Me a Coffee",
+  "app_slug": "buy-me-a-coffee",
+  "pricing_url": null,
+  "source_url": "https://buymeacoffee.com",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "one_time"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes one-time support options and subscription memberships with varying benefits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic Membership",
+      "tier_description": "Access to members-only Discord, exclusive posts and messages, and discounts on eBooks and services.",
+      "monthly_price": 5.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "33% OFF all my eBooks & services",
+        "Access to members-only Discord",
+        "Exclusive posts and messages"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Pro Membership",
+      "tier_description": "Support on a monthly basis with exclusive posts and messages.",
+      "monthly_price": 15.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email alert for new posts",
+        "Exclusive posts and messages"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Advanced Membership",
+      "tier_description": "Includes monthly printable journal pages, email alerts, and work-in-progress updates.",
+      "monthly_price": 25.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Monthly printable journal pages",
+        "Email alert for new posts",
+        "Work in progress updates"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:51:58.219897",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "8566127f-05b8-4eeb-9a3b-5d3eba00b17d",
+    "name": "Buy Me a Coffee",
+    "slug": "buy-me-a-coffee",
+    "description": "A free, fast, and beautiful way to fund your creativity. It only takes a minute to start your page and has all the features to build your creative business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/e9306ad830b3e8a5ec597e80f4342bfa.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders"
+    ],
+    "category_slugs": [
+      "cms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

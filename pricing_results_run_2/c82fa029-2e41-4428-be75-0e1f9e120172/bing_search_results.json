@@ -1,0 +1,19 @@
+{
+  "app_name": "Sign In Scheduling",
+  "app_slug": "sign-in-scheduling",
+  "search_term": "Find the official pricing page URL for Sign In Scheduling (sign-in-scheduling.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744699483.208816,
+  "response_text": [
+    "I found the direct URL to the official pricing page for Sign In Scheduling: [https://www.sign-in-scheduling.com/pricing](https://www.sign-in-scheduling.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.sign-in-scheduling.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\sign-in-scheduling\\20250415_024444"
+}

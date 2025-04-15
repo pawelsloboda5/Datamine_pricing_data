@@ -1,0 +1,19 @@
+{
+  "app_name": "The Customer Factor",
+  "app_slug": "the-customer-factor",
+  "search_term": "Find the official pricing page URL for The Customer Factor (the-customer-factor.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744692586.0076673,
+  "response_text": [
+    "The official URL for The Customer Factor pricing page is [https://www.the-customer-factor.com/membership-benefits](https://www.the-customer-factor.com/membership-benefits) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.the-customer-factor.com/membership-benefits",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\the-customer-factor\\20250415_004946"
+}

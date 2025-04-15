@@ -1,0 +1,165 @@
+{
+  "app_id": "textmagic_sms",
+  "app_name": "TextMagic SMS",
+  "app_slug": "textmagic-sms",
+  "pricing_url": "https://www.textmagic.com/pricing",
+  "source_url": "https://www.textmagic.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.textmagic.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "TextMagic SMS offers flexible pricing plans tailored to different business needs, including pay-as-you-go and subscription models.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essential",
+      "tier_description": "Pay-as-you-go plan for occasional messaging needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Credit never expires",
+        "Unlimited users",
+        "Free inbound texts"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Texting number",
+            "value": "$10/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Monthly plan with volume discounts for consistent messaging needs.",
+      "monthly_price": 80.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Credit rolls over up to 2 months",
+        "Unlimited users",
+        "Free inbound texts",
+        "Texting number included"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Connect",
+      "tier_description": "Monthly plan for high texting volumes via CPaaS integration.",
+      "monthly_price": 20.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Credit rolls over up to 2 months",
+        "Unlimited users",
+        "Free inbound texts",
+        "Texting numbers from CPaaS"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Text messages",
+      "unit": "per text",
+      "base_price": 0.049,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 500.0,
+          "price": 0.049
+        }
+      ]
+    },
+    {
+      "metric_name": "Text messages via CPaaS",
+      "unit": "per text",
+      "base_price": 0.01,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 2000.0,
+          "price": 0.01
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Professional Plan Discount",
+      "offer_description": "Save 18% on monthly plan costs.",
+      "discount_percentage": 18.0,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Connect Plan Discount",
+      "offer_description": "Save 80% compared to Essential plan.",
+      "discount_percentage": 80.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Texting number",
+      "fee_amount": 10.0,
+      "fee_description": "Monthly fee for a virtual dedicated number."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T06:05:10.014154",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f6404c36-3e18-42e2-a00b-fb7893c345c2",
+    "name": "TextMagic SMS",
+    "slug": "textmagic",
+    "description": "TextMagic is a business text-messaging service for sending notifications, alerts, reminders, confirmations and SMS marketing campaigns.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/6e9c42460b33a44311c3ec7336a47ffd_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 14,
+    "trigger_count": 3
+  }
+}

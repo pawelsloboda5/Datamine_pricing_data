@@ -1,0 +1,96 @@
+{
+  "app_name": "AdRoll",
+  "app_slug": "adroll",
+  "search_term": "Find the official pricing page URL for AdRoll (adroll.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744702693.3599455,
+  "response_text": [
+    "The official pricing page for AdRoll can be found at the following URL: [https://www.adroll.com/pricing](https://www.adroll.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - AdRoll",
+      "url": "https://www.adroll.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.adroll.com/pricing",
+      "is_accessible": true,
+      "content": "### Ads\n\nPay-as-you-go for display and native ads, but social channels and monthly ad credits will not be available.\n\n_Includes:_\n\n*   Display, native, video & CTV ads\n*   Retargeting & prospecting campaigns\n*   Audience segmentation & targeting\n*   Campaign reporting\n\n### Advanced Package\n\nOur best deal! Get the full AdRoll platform, hundreds or even thousands in free ad credits, guaranteed services, and early product access; when you commit for a year.\n\n_Includes everything in **Ads** plus:_\n\n*   Onboarding services\n*   Account management services\n*   Creative services\n*   Optimization & policy services\n*   24/7 customer support\n\n[![Image 1: AdRoll logo. ](https://www.adroll.com/assets/svg/logo-adroll.svg)](https://www.adroll.com/)\n\nCompare Plans\n-------------\n\n### Ads\n\n### Advanced Package\n\nCompare Plans\n-------------\n\n### Ads\n\n### Advanced Package\n\n#### Ad Channels\n\nRetargeting Campaigns\n\nRemarket to people who have previously interacted with your brand, product or service. Convert and grow customers loyalty and increase life-time value.\n\nBrand Awareness Campaigns\n\nGenerate awareness and grow quality traffic to your site, app or store. Refill your marketing funnel by reaching across the web to insert your brand/product/service into the consideration set of people who are entering, or are in a buy cycle.\n\nDisplay Ads\n\nCapture attention by prominently displaying an image (along with a headline, text and call-to-action). HTML5 ads stand-out by introducing movement and sound into engaging ads that utilize a combination of animations, videos, imagery and/or audio.\n\nConnected TV Ads\n\nCapture attention and deepen connections with full-screen, non-skippable TV ads in premium streaming programming. - delivered to internet-connect TVs.\n\nVideo Ads\n\nLeverage video ad placements across the open-web to convey a lot of information in a short amount of time.\n\nNative Ads\n\nWhere display ads are designed to stand-out, native ads offer a softer selling approach with a look and feel that blends into the editorial content on a site or app.\n\nDynamic Ads\n\nReflecting an individual\u2019s personalized journey, dynamic ads incorporate images of previously viewed products, top products, or recommended products.\n\n#### Audience & Segmentation\n\nUnified Contacts (Anonymous and Identified)\n\nAdRoll Unified Contacts makes it easy to integrate any existing customer database, add to it by easily defining characteristics of new contacts you want, and then manage them all in one place.\n\nAdvanced List Building\n\nUsing the list builder functionality, you can create defined segments based on your contacts\u2019 attributes and behaviors using multiple criteria, from products and pages viewed to emails they have opened.\n\n#### Monthly Recurring Ad Credits!\n\nA credit to your account, every single month, to spend on web ads\n\nAdRoll ad credits give you dedicated funds to use towards advertising \u2014 all included in your package!\n\n#### Analytics\n\nBenchmarking\n\nCompare your CTR, CPC & CPM against the average ranges of other advertisers within your industry peer group. This data can help give you a deeper sense of performance past just the raw numbers.\n\nAd Campaign Reporting\n\nSelect the conversion segments you'd like to analyze, your preferred attribution model, and the date range you'd like to view. AdRoll then breaks down your data across channels and by each individual campaign.\n\nNew Visitor Insights\n\nOptimize across channels based on buyer behavior and learn how customers see you and your products.\n\nScheduled/Exportable Reporting\n\nSet your report frequency to daily, weekly, or monthly and select recipients for your reports or export the data for other purposes at any time.\n\nTracked Conversions\n\nDefine what a conversion means to you \u2014 maybe it's completing a purchase, submitting a form, or downloading a piece of content.\n\nRevenue Tracking\n\nCreate custom conversion variables to specify the revenue attributed to your tracked conversions or a sale.\n\nRecipe & Email Reporting\n\nTrack campaign performance across audiences and attribute success to the right channels and tactics, across all your cross-channel campaigns.\n\n#### Cross-Channel Attribution\n\nUTM-Tracked Reporting\n\nA deduplicated view of traffic sources, revenue, conversions, average order value, and campaign performance.\n\nIntegrated Platform Reporting  \n(ads, email, SMS, ecommerce store/CRM/Google Analytics)\n\nEliminate manual work by viewing and analyzing your campaign performance via API-integrated ads, email, and SMS channels. Compare against imported conversions and revenue metrics from your trusted source: ecommerce store, CRM, or Google Analytics.\n\nAdd-on\n\nInsights (UTM only)\n\nAt-a-glance and real-time insights into your top-performing channels and campaigns via UTM-tracked reporting.\n\nInsights (UTM & Integrations)\n\nAt-a-glance and real-time insights into your top-performing channels and campaigns viaUTM-tracked reporting and API-integrated ads, email, and SMS platforms.\n\nAdd-on\n\nAttributed Conversions Analysis (UTM only)\n\nBetter understand the true contribution of each channel and inform budget allocation decisions with trusted, industry-standard, and deduplicated UTM tracking for conversions and revenue.\n\nAttributed Conversions Analysis (UTM & Integrations)\n\nOne dashboard to compare and contrast conversion, revenue, and spend metrics reported by your integrated ads, email, and SMS platforms as well as reporting from your deduplicated UTM tracking. No manual exports or switching between platforms.\n\nAdd-on\n\nPathways Analysis\n\nCombine UTM-tagged marketing activities with your AdRoll campaigns to capture all the different touchpoints on your customer's path to conversion.\n\nAssisted Conversions Analysis\n\nA more holistic picture of a channel's attribution influence. See the number of conversions (as well as the coinciding revenue) for converters that the channel served ads to, but did not receive the attribution credit based on the selected attribution model.\n\n#### Integrations\n\nShopify Store\n\nLeverage data from your Shopify store to optimize ad campaigns, launch dynamic creative, and grow revenue.\n\nShopify Plus Store\n\nLeverage data from your Shopify store to optimize ad campaigns, launch dynamic creative, and grow revenue.\n\nWooCommerce Store\n\nLeverage data from your WooCommerce store to optimize ad campaigns, launch dynamic creative, and grow revenue.\n\nWix Store\n\nLeverage data from your Wix store to optimize ad campaigns, find your best customers, and grow revenue.\n\nBigCommerce Store\n\nLeverage data from your BigCommerce store to optimize ad campaigns, find your best customers, and grow revenue.\n\nKlaviyo Audiences\n\nUse the power of first-party data to dynamically target your subscribers with relevant web ads. Sync your Klaviyo lists and segments to boost ROAS by personalizing your campaigns and automatically keeping your audiences up to date.\n\nFacebook Ad Campaigns (Create & Edit)\n\nConnect your Facebook advertising accounts to create new social ad campaigns and to edit campaigns you created in Facebook.\n\nInstagram Ad Campaigns (Create & Edit)\n\nConnect your Instagram advertising accounts to create social ad campaigns and to edit campaigns you created in Instagram.\n\nTikTok Ad Campaigns (Create & Edit)\n\nConnect your TikTok advertising accounts to create social ad campaigns and to edit the campaigns you created in TikTok Ads Manager.\n\nPinterest Ad Campaigns (Create & Edit)\n\nConnect your Pinterest advertising accounts to create social ad campaigns and to edit the campaigns you created in Pinterest Ads Manager.\n\nAds Reporting Integrations (Amazon, Bing, Facebook,  \nInstagram, Google Ads, LinkedIn, TikTok, Pinterest, Snapchat, X/Twitter)\n\nHourly import of dozens of metrics from your API-integrated ads channels for analysis and cross-channel attribution.\n\nAdd-on\n\nEmail Reporting Integrations (Klaviyo, MailChimp, Active Campaign)\n\nHourly import of dozens of metrics from your API-integrated email channels for analysis and cross-channel attribution.\n\nAdd-on\n\nSMS Reporting Integrations (Klaviyo)\n\nHourly import of dozens of metrics from your API-integrated SMS channels for analysis and cross-channel attribution.\n\nAdd-on\n\nTrusted Source Reporting Integrations  \n(Shopify, WooCommerce, Salesforce, Hubspot or Google Analytics)\n\nHourly import of conversion and revenue metrics from your ecommerce store, CRM, or Google Analytics for analysis and cross-channel attribution.\n\nAdd-on\n\n#### Automation Builder\n\nStrategic Marketing Recipes\n\nChoose from best-practice, templated strategies that help you achieve your goals.\n\nWeb Channels in Marketing Recipes\n\nSeamlessly coordinate display, native, and video ads to send customized messages at any point in the customer journey.\n\nConnected Social Channels in Marketing Recipes\n\nCreate and launch a single, cross-channel campaign that splits or allocates your budget across TikTok, Facebook, Instagram, and Pinterest.\n\nConfigurable Campaign Reporting\n\nAnalyze campaign, channel and asset performance in one place to get a fast and effective view of what\u2019s working and what\u2019s not to inform quick, smart changes.\n\n#### Support\n\nCustomer Support\n\nAccess a plethora of video and written resources such as how-to\u2019s, blogs, and help center articles, along with live agent support accessible by email and phone.\n\n#### Services\n\nCreative Services\n\nMake the AdRoll team of creative experts an extension of your own: receive consultations with design experts, consistent ad creative refreshes, and bespoke production of specialty ads.\n\nGuaranteed Onboarding Services\n\nAfter selecting Advanced Package, receive a white glove experience from your Dedicated Onboarding Specialist for hands-on help with to complete your technical implementation.\n\nDedicated Account Management\n\nGain unfettered access to a dedicated point of contact for all your needs, including support for strategic analysis, insights, and recommendations.\n\nQuarterly Business Reviews\n\nCheck in with your dedicated AdRoll account team each quarter to discuss updates, strategize, and deep dive into performance metrics for ad types, audience, devices, and more.\n\nAdvanced Optimization Services\n\nWork with our team to fine-tune your campaigns with insights and analytics support including frequency and reach analysis, user engagement, along with quarterly performance deep dives around strategy, ad types, audience, devices, etc.\n\nView All Features\n\n![Image 2](https://www.adroll.com/assets/img/homepage/logo-volcanica.png?format=png&auto=webp)\n\n\u201cSince last year, **our revenue has increased 191%**, **our attributed conversions 177%**, and **our engagement 33%** \\[with AdRoll\\]. We\u2019re reaching and converting customers higher in the funnel.\u201d\n\nFAQs\n----\n\n#### What are ad credits?\n\nAdRoll uses \u201cad credits\u201d as a means of distributing funds that customers can use on advertising inside the AdRoll platform. An ad credit is quite literally us crediting your account with funds to use on ads. For more information, please visit our [Ad Credits Guide](https://help.adroll.com/hc/en-us/articles/5571810760461-Ad-Credits-Guide).\n\n#### Are there limitations on how the ad credits can be used?\n\nDifferent ad credits can be used in slightly different ways. Please visit our [Ad Credits Guide](https://help.adroll.com/hc/en-us/articles/5571810760461-Ad-Credits-Guide) to see full details.\n\n#### I\u2019m an agency that wants to work with AdRoll. How do I get started?\n\nGlad you\u2019re here! A lot of agencies use and love AdRoll. We actually have a dedicated team to help agencies work with AdRoll. Please visit our [agency partnerships page](https://www.adroll.com/agency) to request a meeting.\n\n#### How much does it cost to run an Ads package campaign?\n\nAdRoll requires a minimum daily spend of $5 and a minimum daily budget of $10 to launch a campaign. [Click here](https://help.adroll.com/hc/en-us/articles/212676017-Budget-and-Spend) to find more information on budget and spend in the AdRoll platform.\n\n#### How is pricing determined?\n\nAdRoll offers dynamic pricing based on CPM (cost per thousand impressions), which means the cost can vary depending on demand. Checkout our [detailed documentation](https://help.adroll.com/hc/en-us/articles/212012278-Benefits-of-Dynamic-CPM-Pricing) for more information on our dynamic CPM pricing.\n\nGet free marketing tools, and see pricing for AdRoll\\'s growth marketing automation platform, helping D2C ecommerce brands grow with brand awareness, retargeting, email, and onsite personalization.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "adroll",
+        "app_name": "AdRoll",
+        "app_slug": "adroll",
+        "pricing_url": "https://www.adroll.com/pricing",
+        "source_url": "https://www.adroll.com/pricing",
+        "all_pricing_urls": [
+          "https://www.adroll.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "AdRoll offers dynamic pricing based on CPM (cost per thousand impressions), with a minimum daily spend of $5 and a minimum daily budget of $10.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Ads",
+            "tier_description": "Pay-as-you-go for display and native ads, but social channels and monthly ad credits will not be available.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Display, native, video & CTV ads",
+              "Retargeting & prospecting campaigns",
+              "Audience segmentation & targeting",
+              "Campaign reporting"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Advanced Package",
+            "tier_description": "Get the full AdRoll platform, hundreds or even thousands in free ad credits, guaranteed services, and early product access; when you commit for a year.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Everything in Ads",
+              "Onboarding services",
+              "Account management services",
+              "Creative services",
+              "Optimization & policy services",
+              "24/7 customer support"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "CPM",
+            "unit": "per 1000 impressions",
+            "base_price": null,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:38:23.844790",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\adroll\\20250415_033824"
+}

@@ -1,0 +1,192 @@
+{
+  "app_id": "audienceful",
+  "app_name": "Audienceful",
+  "app_slug": "audienceful",
+  "pricing_url": "https://audienceful.com/pricing",
+  "source_url": "https://audienceful.com/pricing",
+  "all_pricing_urls": [
+    "https://audienceful.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Yearly billing offers a discount equivalent to two months free.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": null,
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2 team collaborators",
+        "1 automated sequence",
+        "Unlimited forms & popups"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "contacts",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Essentials",
+      "tier_description": null,
+      "monthly_price": 37.5,
+      "annual_price": 29.0,
+      "annual_discount_percentage": 22.67,
+      "setup_fee": null,
+      "features": [
+        "3 team collaborators",
+        "3 automated sequences",
+        "Unlimited forms & popups",
+        "No Audienceful logo in emails",
+        "Custom sending domain"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "contacts",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Popular",
+      "monthly_price": 70.0,
+      "annual_price": 56.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited collaborators",
+        "Unlimited automations",
+        "Unlimited forms & popups",
+        "No Audienceful logo in emails",
+        "Multiple domains",
+        "Advanced analytics"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "contacts",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": null,
+      "monthly_price": 240.0,
+      "annual_price": 199.0,
+      "annual_discount_percentage": 17.08,
+      "setup_fee": null,
+      "features": [
+        "Unlimited collaborators",
+        "Unlimited automations",
+        "White-label emails",
+        "Multiple domains",
+        "Advanced analytics",
+        "Priority support queue",
+        "SLA, data regions & more"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "contacts",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Need 200K+ contacts, more team members, data region options, or lots of 3-letter abbreviations?",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom solutions for large-scale needs"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "contacts",
+            "value": "200K+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Dedicated IP",
+      "fee_amount": 79.0,
+      "fee_description": "Monthly fee for a dedicated IP"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:30:15.617574",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "86fe9220-b48a-4777-954a-7020f7694512",
+    "name": "Audienceful",
+    "slug": "audienceful",
+    "description": "Audienceful is lightweight email marketing that feels like using your favorite notes app. Newsletters, drip sequences, multiple audiences and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/3a014d783bc76e4425fda4f77af168d2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

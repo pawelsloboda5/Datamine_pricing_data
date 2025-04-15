@@ -1,0 +1,186 @@
+{
+  "app_id": "kartra",
+  "app_name": "Kartra",
+  "app_slug": "kartra",
+  "pricing_url": "https://www.kartra.com/pricing",
+  "source_url": "https://kartra.com/plans-and-pricing/",
+  "all_pricing_urls": [
+    "https://www.kartra.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Spring Sale promotional pricing is available for new customers only, with discounted rates for the first 6 months.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Basic plan for small businesses.",
+      "monthly_price": 89.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited products",
+        "Unlimited funnels",
+        "Unlimited pages & forms",
+        "Unlimited memberships & courses",
+        "Drag-and-drop page builder",
+        "Fully integrated e-commerce",
+        "Calendar booking",
+        "Kartra AI features",
+        "100 pre-built campaigns"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 2500
+          },
+          {
+            "name": "Custom Domains",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Best value plan for growing businesses.",
+      "monthly_price": 137.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything on Starter",
+        "Funnel simulation",
+        "Webinars \u2013 300 attendees",
+        "Advanced automations",
+        "Affiliate management",
+        "Surveys & quizzes",
+        "Helpdesk"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 12500
+          },
+          {
+            "name": "Custom Domains",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Advanced tools for professional use.",
+      "monthly_price": 549.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything on Growth",
+        "Real-time funnel analytics",
+        "Webinars \u2013 1,000 attendees",
+        "Helpdesk live chat"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 25000
+          },
+          {
+            "name": "Custom Domains",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Comprehensive plan for large-scale operations.",
+      "monthly_price": 999.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes all Professional features",
+        "Webinars \u2013 5,000 attendees"
+      ],
+      "limits": {
+        "users": 50,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 250000
+          },
+          {
+            "name": "Custom Domains",
+            "value": 50
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Spring Sale",
+      "offer_description": "Discounted rates for the first 6 months for new customers.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:15:33.370060",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "25b118b2-1016-4ce2-aa97-6e0e63a14a83",
+    "name": "Kartra",
+    "slug": "kartra",
+    "description": "Kartra is an all-in-one solution to manage your online business: checkout, automated email campaigns, site builder, membership portals, etc.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/170bd7561fa366b32703a9b3e146faac.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 27,
+    "trigger_count": 25
+  }
+}

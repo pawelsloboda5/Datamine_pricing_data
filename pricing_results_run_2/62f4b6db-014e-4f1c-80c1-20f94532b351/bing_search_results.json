@@ -1,0 +1,286 @@
+{
+  "app_name": "Booqable",
+  "app_slug": "booqable",
+  "search_term": "Find the official pricing page URL for Booqable (booqable.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744716099.0907643,
+  "response_text": [
+    "The official pricing page for Booqable is: [https://booqable.com/pricing](https://booqable.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Booqable",
+      "url": "https://booqable.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://booqable.com/pricing",
+      "is_accessible": true,
+      "content": "Free 14-day trial\n\nFrom $29/month\n\nVideo support\n\n**4.8** - 800+ reviews\n\n*   [Log in](https://login.booqable.com/ \"Log in\")\n\n*   [Pricing](https://booqable.com/pricing/ \"Pricing\")\n\n*   [Log in](https://login.booqable.com/ \"Log in\")\n*   [Start free trial](https://signup.booqable.com/ \"Start free trial\")\n\nStart for free, decide later.\n-----------------------------\n\nFree 14-day trial, no credit card required.\n\nYearly Save 20%\n\nMonthly\n\nEssential\n\nPro\n\nPremium\n\n*   ### Essential\n    \n    Basic features for starting rental businesses and small teams.\n    \n    $35 $29 USD/month\n    \n    *   Includes **2** staff accounts _Add extra staff accounts for $20/user/month._\n    *   Includes 1 location _Add extra locations for $25/location/month._\n      \n    \n    * * *\n    \n    *   Rental website builder\n    *   Integrate with existing website\n    *   Unlimited products and orders\n    *   iOS & Android app\n    *   Payments no commission\n*   Best value\n    \n    ### Pro\n    \n    The best value for medium-sized and growing rental businesses.\n    \n    $95 $79 USD/month\n    \n    *   Includes **5** staff accounts _Add extra staff accounts for $20/user/month._\n    *   Includes 1 location _Add extra locations for $25/location/month._\n    *   Includes 2 free 30-min setup calls\n    \n    * * *\n    \n    *   **Everything in Essential, plus:**\n    *   QR & barcode scanning\n    *   Roles & permissions\n    *   API & Zapier integration\n    *   Video call support\n*   ### Premium\n    \n    Advanced features for large rental companies.\n    \n    $299 $249 USD/month\n    \n    *   Includes **15** staff accounts _Add extra staff accounts for $20/user/month._\n    *   Includes **3** locations _Add extra locations for $25/location/month._\n    *   Includes 4 free 30-min setup calls\n    \n    * * *\n    \n    *   **Everything in Pro, plus:**\n    *   Single sign-on (SSO)\n    *   IP restrictions\n    *   Priority support\n    *   Dedicated account manager\n\n[Compare all features](https://booqable.com/pricing#pricing-plans-table \"See all features\")\n\n#### Are you part of a large organization?\n\nBooqable also works great for teams in large organizations. Interested? Book a demo.\n\nAll plans include free onboarding, support, and help center access.\n\nWhat\u2019s included\n---------------\n\n### Key features\n\n| Key features | Essential | Pro | Premium |\n| --- | --- | --- | --- |\n| Website builder _Create a professional website for your rental business and start receiving online bookings._ |  |  |  |\n| Website plugins _Add Booqable's online booking and availability features to your existing website._ |  |  |  |\n| Connect your custom domain _Connect a custom domain to access your Booqable store with your own website address (instead of \\[company\\].booqable.shop). Custom domains come with an SSL certificate._ |  |  |  |\n| iOS & Android app _Manage orders and payments on your phone or tablet with the mobile app._ |  |  |  |\n| Payments & security deposits _Connect payment providers (Stripe and PayPal) to accept online payments, charge security deposits, and send payment requests._ |  |  |  |\n| Dashboard & calendar _Get a quick overview of what's coming up in your rental operation for today and in the future._ |  |  |  |\n| CRM & communication _Manage customer information, view their order history, and communicate using built-in email templates._ |  |  |  |\n| Quotes, contracts & invoices _Create and send professional documents that automatically populate with order information._ |  |  |  |\n| Order & inventory management _Create and manage orders with automatic availability calculations to prevent double bookings._ |  |  |  |\n| Check-in & check-out _Check products in and out to ensure your customers receive the right rental products._ |  |  |  |\n| QR & barcode scanning _Reduce liabilties and speed up your rental operation with barcodes and QR codes._ |  |  |  |\n| Zapier integration _Create automated workflows by connecting Booqable with 5,000+ apps, including QuickBooks and Xero._ |  |  |  |\n| API _Use the API to build your own tools and integrate Booqable with other products and services._ |  |  |  |\n| Single sign-on (SSO) _Log in to Booqable with single sign-on (SSO) from your existing identity provider, such as Okta and OneLogin._ |  |  |  |\n| IP restrictions _Limit access to your Booqable account to a predefined list of IP addresses._ |  |  |  |\n| Extra staff account _Add additional user accounts to any plan._ | $20/month | $20/month | $20/month |\n| Extra location _Add additional locations to keep track of inventory in multiple locations, stores, or warehouses._ | $25/month | $25/month | $25/month |\n| \n[Try for free - No credit card needed](https://signup.booqable.com/ \"Try this plan for free\")\n\n\n\n |\n\n### Core features\n\n| Core features | Essential | Pro | Premium |\n| --- | --- | --- | --- |\n| Inventory management _Organize and manage all the rental products in your inventory and get instant access to detailed insights, such as stock levels, availability, variations, and pricing._ |  |  |  |\n| Rental products _Track rental products individually with unique IDs, or track them in bulk._ |  |  |  |\n| Sales products & services _Offer your customers one-time purchases or services alongside rental products online and in-store._ |  |  |  |\n| Product variations _Create variations for products that come in more than one option, such as multiple sizes or colors. Variations can have unique images and prices._ |  |  |  |\n| Product bundles _Combine multiple products and services into packages, with the option for a discounted rate._ |  |  |  |\n| Pricing rules & structures _Create custom pricing rules to adjust the price based on rental duration, day of the week, or time of year._ |  |  |  |\n| Order management _Create and manage orders with automatic availability and pricing calculations._ |  |  |  |\n| Reserve stock, specify later _Reserve a general product, and specify the stock item ID later (for example, at the time of pickup)_ |  |  |  |\n| Availability & shortage management _Automatic availability updates prevent shortages and eliminate double bookings. You can configure shortage limits for products to reserve more than the available amount._ |  |  |  |\n| Padding/maintenance time _Temporarily make products unavailable before or after a rental period to prepare items or perform maintenance._ |  |  |  |\n| Packing slips _Print packing slips for your warehouse crew to save time preparing orders._ |  |  |  |\n| Check-in & check-out _Check products in and out to ensure your customers receive the right rental products._ |  |  |  |\n| QR & barcode scanning _Reduce liabilties and speed up your rental operation with barcodes and QR codes._ |  |  |  |\n| Coupon codes _Offer fixed-value or percentage-based discounts in your online store. You can also apply coupons to manually created orders._ |  |  |  |\n| Order status tracking _Ensure a smooth pickup and return process with clear visual indicators for each order._ |  |  |  |\n| Customer management _Manage customer information, view their order history, apply tax profiles, and set up recurring discounts._ |  |  |  |\n| Email templates _Create and send emails that automatically populate with customer and order information._ |  |  |  |\n| Document templates _Create professional documents with customer and order information and other details (terms, refund policies, etc.)_ |  |  |  |\n| Custom fields for products, orders & customers _Create your own input fields for products, orders, and customers to store additional information. For example, purchase prices, project names, and venues. The values of custom fields can be displayed on documents._ |  |  |  |\n| Notes for products, orders & customers _Add notes and leave reminders for your team almost anywhere in Booqable and in the mobile app._ |  |  |  |\n| \n[Try for free - No credit card needed](https://signup.booqable.com/ \"Try this plan for free\")\n\n\n\n |\n\n### Rental website\n\n| Rental website | Essential | Pro | Premium |\n| --- | --- | --- | --- |\n| Rental website builder _Create your own rental website to showcase your products and allow customers to view availability and book online._ |  |  |  |\n| Integrate with existing website _Add Booqable's online booking and availability features to your existing website._ |  |  |  |\n| Booking calendar _Configure fixed durations, time slots, or give customers the freedom to book whenever they want. You can also add your opening hours and set a minimum notice for bookings._ |  |  |  |\n| Real-time availability in calendar _Show real-time product availability (including or excluding quantities). When enabled, products will be reserved automatically. When disabled, customers can request a quote._ |  |  |  |\n| Online checkout _Customize the checkout process to accept (partial) payments in advance or to let your customers request a quote._ |  |  |  |\n| Custom checkout fields _In addition to the default checkout fields, you can create custom fields to collect extra information from your customers._ |  |  |  |\n| Customer login accounts _When enabled, your customers can log in during the checkout, so contact info, addresses, security deposits, and recurring discounts will be pre-filled._ |  |  |  |\n| Automated order confirmation _Send an automated confirmation email after a booking has been made._ |  |  |  |\n| Connect your custom domain _Connect a custom domain to access your Booqable store with your own website address (instead of \\[company\\].booqable.shop). Custom domains come with an SSL certificate._ |  |  |  |\n| Hide \u201cPowered by Booqable\u201d _Hide the subtle link to the Booqable website in your website template and shopping cart._ |  |  |  |\n| Custom checkout scripts _Add customizations and tracking codes to your online checkout._ |  |  |  |\n| \n[Try for free - No credit card needed](https://signup.booqable.com/ \"Try this plan for free\")\n\n\n\n |\n\n### Payment features\n\n| Payment features | Essential | Pro | Premium |\n| --- | --- | --- | --- |\n| Online payments (Stripe/PayPal) _Accept credit cards, PayPal, and many local payment methods in your online checkout._ |  |  |  |\n| In-store payments (Stripe) _Charge and refund credit card payments directly from Booqable._ |  |  |  |\n| Payment links (Stripe/PayPal) _Create payment links and share them with customers via email, SMS, and more._ |  |  |  |\n| Partial payments (Stripe/PayPal) _Charge the full order amount, part of the order amount, or nothing at all in your online checkout._ |  |  |  |\n| Pre-authorizations (Stripe) _Pre-authorizations temporarily block available funds on a credit card. You don\u2019t actually charge the payment until you capture the authorization, which makes this feature ideal for security deposits._ |  |  |  |\n| Register manual payments _Register payments that you receive outside of Booqable, such as bank transfers, cash, and cheque payments._ |  |  |  |\n| Security deposits _Automatically calculate and charge security deposits as a fixed amount, a percentage of the order amount, or a percentage of the product value._ |  |  |  |\n| \n[Try for free - No credit card needed](https://signup.booqable.com/ \"Try this plan for free\")\n\n\n\n |\n\n### Mobile app features\n\n| Mobile app features | Essential | Pro | Premium |\n| --- | --- | --- | --- |\n| Dashboard with quick actions (iOS) _The Dashboard shows you what needs to be done next. You can filter orders by date, status, and location, as well as register payments and manage pickups and returns with quick action buttons._ |  |  |  |\n| Order creation (iOS/Android) _Create orders wherever you are, whether you\u2019re serving walk-ins, on your way to a customer, or at home._ |  |  |  |\n| Order management (iOS/Android) _Manage orders and easily make changes, such as adjusting the rental period, replacing a product, or moving the order forward through the process._ |  |  |  |\n| Payment links (iOS) _Generate payment requests and share them via email, messages, WhatsApp, Facebook Messenger, or by letting your customer scan the payment QR code._ |  |  |  |\n| Register manual payments (iOS) _Register payments that you receive outside of Booqable, such as bank transfers, cash, and cheque payments._ |  |  |  |\n| Notes (iOS/Android) _Communicate with your team via chat messages in the Booqable app and add notes to products and orders._ |  |  |  |\n| Built-in barcode scanner (iOS/Android) _Scan barcodes and QR codes with your phone to add products to orders, check equipment in and out, and quickly pull up orders related to a specific product or customer._ |  |  |  |\n| Barcode association (iOS/Android) _Quickly and easily add barcodes to products and stock items in the Booqable app without external equipment._ |  |  |  |\n| \n[Try for free - No credit card needed](https://signup.booqable.com/ \"Try this plan for free\")\n\n\n\n |\n\n### Apps and integrations\n\n| Apps and integrations | Essential | Pro | Premium |\n| --- | --- | --- | --- |\n| Stripe integration _Connect your Stripe account to accept all major credit cards and the many local payment methods, and get access to a wide range of payment features._ |  |  |  |\n| PayPal integration _Connect your PayPal account to accept credit cards, debit cards, and PayPal payments in your online checkout._ |  |  |  |\n| WordPress plugin _Turn your existing WordPress website into an online rental store with the Booqable WordPress plugin and embeddable components._ |  |  |  |\n| Squarespace integration _Add Booqable to your Squarespace website with the Squarespace integration._ |  |  |  |\n| Shopify integration _Add Booqable to your Shopify website with the Shopify integration._ |  |  |  |\n| Webflow integration _Add Booqable to your Webflow website with the Webflow integration._ |  |  |  |\n| Calendar integration _Automatically add your Booqable orders to Google Calendar, Apple Calendar, Outlook, and other calendar software._ |  |  |  |\n| Google Analytics app _Track your website traffic and user behavior with Google Analytics._ |  |  |  |\n| Meta Pixel app _Track your website traffic and user behavior with Meta Pixel._ |  |  |  |\n| Weglot app _Translate your website into multiple languages with Weglot._ |  |  |  |\n| CartStack app _Recover abandoned carts and increase your revenue with automated email campaigns._ |  |  |  |\n| Mailchimp app _Sync your customer data with Mailchimp to send targeted email campaigns._ |  |  |  |\n| Zapier integration _Create automated workflows by connecting Booqable with 5,000+ apps, including QuickBooks and Xero._ |  |  |  |\n| API _Use the API to build your own tools and integrate Booqable with other products and services._ |  |  |  |\n| API rate limits _The number of API calls you can make per minute._ |  | 100 | 250 |\n| \n[Try for free - No credit card needed](https://signup.booqable.com/ \"Try this plan for free\")\n\n\n\n |\n\n### Management features\n\n| Management features | Essential | Pro | Premium |\n| --- | --- | --- | --- |\n| Support _All plans include free onboarding, support, and help center access._ | Standard | Standard | Priority |\n| Data import _Easily transfer from other rental software by importing your inventory and customer lists._ |  |  |  |\n| Bulk editing _Reduce repetitive work by making changes to large numbers of orders, customers, or products at once._ |  |  |  |\n| Two-factor authentication (2FA) _Add an additional layer of security to your account in addition to your password._ |  |  |  |\n| Enforce 2FA _Enforce two-factor authentication for all users associated with your Booqable account._ |  |  |  |\n| Reports _Generate performance reports to see how often products are rented out and how much revenue they made._ |  |  |  |\n| Data export _Export your orders, inventory, customer lists, documents, and reports to Excel or CSV files._ |  |  |  |\n| Roles & permissions _Set permissions for each user account to limit access to sensitive information (or prevent unwanted actions)._ |  |  |  |\n| Single sign-on (SSO) _Log in to Booqable with single sign-on (SSO) from your existing identity provider, such as Okta and OneLogin._ |  |  |  |\n| IP restrictions _Limit access to your Booqable account to a predefined list of IP addresses._ |  |  |  |\n\nFrequently asked questions\n--------------------------\n\nFAQ\n---\n\nAfter you create an account, you will get 14-day access to all features so you can see if Booqable is the right rental software for your business. Before your trial ends, we will notify you to choose a plan to continue using Booqable.\n\nNo, you can create an account and use Booqable for 14 days without entering any payment details. Once your trial has ended, or when you decide Booqable is the right rental software for your business, you can choose a plan and enter your payment information.\n\nYou can use your credit card to pay for any plan.\n\nNo, there are no setup fees on any of Booqable's pricing plans.\n\nNo, Booqable doesn\u2019t charge a transaction fee or commission on bookings. If you use Booqable's payment providers Stripe and PayPal to accept payments, please check with [Stripe](https://stripe.com/ \"Visit Stripe\") and [PayPal](https://paypal.com/ \"Visit Paypal\") to see the payment processing rates for your country.\n\nYes, you can change your plan at any time. When upgrading or downgrading, we will pro-rate your subscription depending on the price of your new plan.\n\nBooqable plans are paid monthly or yearly, depending on the subscription you choose. We offer a discount (close to 20%) on annual plans when paid upfront.\n\nIf you ever decide Booqable isn\u2019t the right rental software for you, you can cancel your subscription. Your subscription will remain active through to the end of the billing period for which you\u2019ve already paid. We do not offer refunds.\n\nYou can add staff accounts to Booqable to let your team members log in as separate users. Your plan determines the number of staff accounts you can create.\n\nYes, your data is safe with us. Security and privacy of your data is our number one priority. Booqable\u2019s physical infrastructure is hosted and managed within Amazon\u2019s highly secure data centers and utilize the Amazon Web Service (AWS) technology.\n\nTry Booqable for free\n---------------------\n\nGet started and see the benefits of rental software.\n\nFind the perfect Booqable plan for your rental business. Starting from $29 per month. Every pricing plan comes with a free 14-day trial.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "booqable",
+        "app_name": "Booqable",
+        "app_slug": "booqable",
+        "pricing_url": "https://booqable.com/pricing/",
+        "source_url": "https://booqable.com/pricing/",
+        "all_pricing_urls": [
+          "https://booqable.com/pricing/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Annual plans offer a 20% discount compared to monthly plans.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Essential",
+            "tier_description": "Basic features for starting rental businesses and small teams.",
+            "monthly_price": 35.0,
+            "annual_price": 29.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Rental website builder",
+              "Integrate with existing website",
+              "Unlimited products and orders",
+              "iOS & Android app",
+              "Payments no commission"
+            ],
+            "limits": {
+              "users": 2,
+              "storage": null,
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Extra staff accounts",
+                  "value": "$20/user/month"
+                },
+                {
+                  "name": "Extra locations",
+                  "value": "$25/location/month"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "The best value for medium-sized and growing rental businesses.",
+            "monthly_price": 95.0,
+            "annual_price": 79.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Everything in Essential",
+              "QR & barcode scanning",
+              "Roles & permissions",
+              "API & Zapier integration",
+              "Video call support"
+            ],
+            "limits": {
+              "users": 5,
+              "storage": null,
+              "operations": "unlimited",
+              "api_calls": 100,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Extra staff accounts",
+                  "value": "$20/user/month"
+                },
+                {
+                  "name": "Extra locations",
+                  "value": "$25/location/month"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Premium",
+            "tier_description": "Advanced features for large rental companies.",
+            "monthly_price": 299.0,
+            "annual_price": 249.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Everything in Pro",
+              "Single sign-on (SSO)",
+              "IP restrictions",
+              "Priority support",
+              "Dedicated account manager"
+            ],
+            "limits": {
+              "users": 15,
+              "storage": null,
+              "operations": "unlimited",
+              "api_calls": 250,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Extra staff accounts",
+                  "value": "$20/user/month"
+                },
+                {
+                  "name": "Extra locations",
+                  "value": "$25/location/month"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:21:53.262182",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://booqable.com/pricing/",
+      "is_accessible": true,
+      "content": "Free 14-day trial\n\nFrom $29/month\n\nVideo support\n\n**4.8** - 800+ reviews\n\n*   [Log in](https://login.booqable.com/ \"Log in\")\n\n*   [Pricing](https://booqable.com/pricing/ \"Pricing\")\n\n*   [Log in](https://login.booqable.com/ \"Log in\")\n*   [Start free trial](https://signup.booqable.com/ \"Start free trial\")\n\nStart for free, decide later.\n-----------------------------\n\nFree 14-day trial, no credit card required.\n\nYearly Save 20%\n\nMonthly\n\nEssential\n\nPro\n\nPremium\n\n*   ### Essential\n    \n    Basic features for starting rental businesses and small teams.\n    \n    $35 $29 USD/month\n    \n    *   Includes **2** staff accounts _Add extra staff accounts for $20/user/month._\n    *   Includes 1 location _Add extra locations for $25/location/month._\n      \n    \n    * * *\n    \n    *   Rental website builder\n    *   Integrate with existing website\n    *   Unlimited products and orders\n    *   iOS & Android app\n    *   Payments no commission\n*   Best value\n    \n    ### Pro\n    \n    The best value for medium-sized and growing rental businesses.\n    \n    $95 $79 USD/month\n    \n    *   Includes **5** staff accounts _Add extra staff accounts for $20/user/month._\n    *   Includes 1 location _Add extra locations for $25/location/month._\n    *   Includes 2 free 30-min setup calls\n    \n    * * *\n    \n    *   **Everything in Essential, plus:**\n    *   QR & barcode scanning\n    *   Roles & permissions\n    *   API & Zapier integration\n    *   Video call support\n*   ### Premium\n    \n    Advanced features for large rental companies.\n    \n    $299 $249 USD/month\n    \n    *   Includes **15** staff accounts _Add extra staff accounts for $20/user/month._\n    *   Includes **3** locations _Add extra locations for $25/location/month._\n    *   Includes 4 free 30-min setup calls\n    \n    * * *\n    \n    *   **Everything in Pro, plus:**\n    *   Single sign-on (SSO)\n    *   IP restrictions\n    *   Priority support\n    *   Dedicated account manager\n\n[Compare all features](https://booqable.com/pricing/#pricing-plans-table \"See all features\")\n\n#### Are you part of a large organization?\n\nBooqable also works great for teams in large organizations. Interested? Book a demo.\n\nAll plans include free onboarding, support, and help center access.\n\nWhat\u2019s included\n---------------\n\n### Key features\n\n| Key features | Essential | Pro | Premium |\n| --- | --- | --- | --- |\n| Website builder _Create a professional website for your rental business and start receiving online bookings._ |  |  |  |\n| Website plugins _Add Booqable's online booking and availability features to your existing website._ |  |  |  |\n| Connect your custom domain _Connect a custom domain to access your Booqable store with your own website address (instead of \\[company\\].booqable.shop). Custom domains come with an SSL certificate._ |  |  |  |\n| iOS & Android app _Manage orders and payments on your phone or tablet with the mobile app._ |  |  |  |\n| Payments & security deposits _Connect payment providers (Stripe and PayPal) to accept online payments, charge security deposits, and send payment requests._ |  |  |  |\n| Dashboard & calendar _Get a quick overview of what's coming up in your rental operation for today and in the future._ |  |  |  |\n| CRM & communication _Manage customer information, view their order history, and communicate using built-in email templates._ |  |  |  |\n| Quotes, contracts & invoices _Create and send professional documents that automatically populate with order information._ |  |  |  |\n| Order & inventory management _Create and manage orders with automatic availability calculations to prevent double bookings._ |  |  |  |\n| Check-in & check-out _Check products in and out to ensure your customers receive the right rental products._ |  |  |  |\n| QR & barcode scanning _Reduce liabilties and speed up your rental operation with barcodes and QR codes._ |  |  |  |\n| Zapier integration _Create automated workflows by connecting Booqable with 5,000+ apps, including QuickBooks and Xero._ |  |  |  |\n| API _Use the API to build your own tools and integrate Booqable with other products and services._ |  |  |  |\n| Single sign-on (SSO) _Log in to Booqable with single sign-on (SSO) from your existing identity provider, such as Okta and OneLogin._ |  |  |  |\n| IP restrictions _Limit access to your Booqable account to a predefined list of IP addresses._ |  |  |  |\n| Extra staff account _Add additional user accounts to any plan._ | $20/month | $20/month | $20/month |\n| Extra location _Add additional locations to keep track of inventory in multiple locations, stores, or warehouses._ | $25/month | $25/month | $25/month |\n| \n[Try for free - No credit card needed](https://signup.booqable.com/ \"Try this plan for free\")\n\n\n\n |\n\n### Core features\n\n| Core features | Essential | Pro | Premium |\n| --- | --- | --- | --- |\n| Inventory management _Organize and manage all the rental products in your inventory and get instant access to detailed insights, such as stock levels, availability, variations, and pricing._ |  |  |  |\n| Rental products _Track rental products individually with unique IDs, or track them in bulk._ |  |  |  |\n| Sales products & services _Offer your customers one-time purchases or services alongside rental products online and in-store._ |  |  |  |\n| Product variations _Create variations for products that come in more than one option, such as multiple sizes or colors. Variations can have unique images and prices._ |  |  |  |\n| Product bundles _Combine multiple products and services into packages, with the option for a discounted rate._ |  |  |  |\n| Pricing rules & structures _Create custom pricing rules to adjust the price based on rental duration, day of the week, or time of year._ |  |  |  |\n| Order management _Create and manage orders with automatic availability and pricing calculations._ |  |  |  |\n| Reserve stock, specify later _Reserve a general product, and specify the stock item ID later (for example, at the time of pickup)_ |  |  |  |\n| Availability & shortage management _Automatic availability updates prevent shortages and eliminate double bookings. You can configure shortage limits for products to reserve more than the available amount._ |  |  |  |\n| Padding/maintenance time _Temporarily make products unavailable before or after a rental period to prepare items or perform maintenance._ |  |  |  |\n| Packing slips _Print packing slips for your warehouse crew to save time preparing orders._ |  |  |  |\n| Check-in & check-out _Check products in and out to ensure your customers receive the right rental products._ |  |  |  |\n| QR & barcode scanning _Reduce liabilties and speed up your rental operation with barcodes and QR codes._ |  |  |  |\n| Coupon codes _Offer fixed-value or percentage-based discounts in your online store. You can also apply coupons to manually created orders._ |  |  |  |\n| Order status tracking _Ensure a smooth pickup and return process with clear visual indicators for each order._ |  |  |  |\n| Customer management _Manage customer information, view their order history, apply tax profiles, and set up recurring discounts._ |  |  |  |\n| Email templates _Create and send emails that automatically populate with customer and order information._ |  |  |  |\n| Document templates _Create professional documents with customer and order information and other details (terms, refund policies, etc.)_ |  |  |  |\n| Custom fields for products, orders & customers _Create your own input fields for products, orders, and customers to store additional information. For example, purchase prices, project names, and venues. The values of custom fields can be displayed on documents._ |  |  |  |\n| Notes for products, orders & customers _Add notes and leave reminders for your team almost anywhere in Booqable and in the mobile app._ |  |  |  |\n| \n[Try for free - No credit card needed](https://signup.booqable.com/ \"Try this plan for free\")\n\n\n\n |\n\n### Rental website\n\n| Rental website | Essential | Pro | Premium |\n| --- | --- | --- | --- |\n| Rental website builder _Create your own rental website to showcase your products and allow customers to view availability and book online._ |  |  |  |\n| Integrate with existing website _Add Booqable's online booking and availability features to your existing website._ |  |  |  |\n| Booking calendar _Configure fixed durations, time slots, or give customers the freedom to book whenever they want. You can also add your opening hours and set a minimum notice for bookings._ |  |  |  |\n| Real-time availability in calendar _Show real-time product availability (including or excluding quantities). When enabled, products will be reserved automatically. When disabled, customers can request a quote._ |  |  |  |\n| Online checkout _Customize the checkout process to accept (partial) payments in advance or to let your customers request a quote._ |  |  |  |\n| Custom checkout fields _In addition to the default checkout fields, you can create custom fields to collect extra information from your customers._ |  |  |  |\n| Customer login accounts _When enabled, your customers can log in during the checkout, so contact info, addresses, security deposits, and recurring discounts will be pre-filled._ |  |  |  |\n| Automated order confirmation _Send an automated confirmation email after a booking has been made._ |  |  |  |\n| Connect your custom domain _Connect a custom domain to access your Booqable store with your own website address (instead of \\[company\\].booqable.shop). Custom domains come with an SSL certificate._ |  |  |  |\n| Hide \u201cPowered by Booqable\u201d _Hide the subtle link to the Booqable website in your website template and shopping cart._ |  |  |  |\n| Custom checkout scripts _Add customizations and tracking codes to your online checkout._ |  |  |  |\n| \n[Try for free - No credit card needed](https://signup.booqable.com/ \"Try this plan for free\")\n\n\n\n |\n\n### Payment features\n\n| Payment features | Essential | Pro | Premium |\n| --- | --- | --- | --- |\n| Online payments (Stripe/PayPal) _Accept credit cards, PayPal, and many local payment methods in your online checkout._ |  |  |  |\n| In-store payments (Stripe) _Charge and refund credit card payments directly from Booqable._ |  |  |  |\n| Payment links (Stripe/PayPal) _Create payment links and share them with customers via email, SMS, and more._ |  |  |  |\n| Partial payments (Stripe/PayPal) _Charge the full order amount, part of the order amount, or nothing at all in your online checkout._ |  |  |  |\n| Pre-authorizations (Stripe) _Pre-authorizations temporarily block available funds on a credit card. You don\u2019t actually charge the payment until you capture the authorization, which makes this feature ideal for security deposits._ |  |  |  |\n| Register manual payments _Register payments that you receive outside of Booqable, such as bank transfers, cash, and cheque payments._ |  |  |  |\n| Security deposits _Automatically calculate and charge security deposits as a fixed amount, a percentage of the order amount, or a percentage of the product value._ |  |  |  |\n| \n[Try for free - No credit card needed](https://signup.booqable.com/ \"Try this plan for free\")\n\n\n\n |\n\n### Mobile app features\n\n| Mobile app features | Essential | Pro | Premium |\n| --- | --- | --- | --- |\n| Dashboard with quick actions (iOS) _The Dashboard shows you what needs to be done next. You can filter orders by date, status, and location, as well as register payments and manage pickups and returns with quick action buttons._ |  |  |  |\n| Order creation (iOS/Android) _Create orders wherever you are, whether you\u2019re serving walk-ins, on your way to a customer, or at home._ |  |  |  |\n| Order management (iOS/Android) _Manage orders and easily make changes, such as adjusting the rental period, replacing a product, or moving the order forward through the process._ |  |  |  |\n| Payment links (iOS) _Generate payment requests and share them via email, messages, WhatsApp, Facebook Messenger, or by letting your customer scan the payment QR code._ |  |  |  |\n| Register manual payments (iOS) _Register payments that you receive outside of Booqable, such as bank transfers, cash, and cheque payments._ |  |  |  |\n| Notes (iOS/Android) _Communicate with your team via chat messages in the Booqable app and add notes to products and orders._ |  |  |  |\n| Built-in barcode scanner (iOS/Android) _Scan barcodes and QR codes with your phone to add products to orders, check equipment in and out, and quickly pull up orders related to a specific product or customer._ |  |  |  |\n| Barcode association (iOS/Android) _Quickly and easily add barcodes to products and stock items in the Booqable app without external equipment._ |  |  |  |\n| \n[Try for free - No credit card needed](https://signup.booqable.com/ \"Try this plan for free\")\n\n\n\n |\n\n### Apps and integrations\n\n| Apps and integrations | Essential | Pro | Premium |\n| --- | --- | --- | --- |\n| Stripe integration _Connect your Stripe account to accept all major credit cards and the many local payment methods, and get access to a wide range of payment features._ |  |  |  |\n| PayPal integration _Connect your PayPal account to accept credit cards, debit cards, and PayPal payments in your online checkout._ |  |  |  |\n| WordPress plugin _Turn your existing WordPress website into an online rental store with the Booqable WordPress plugin and embeddable components._ |  |  |  |\n| Squarespace integration _Add Booqable to your Squarespace website with the Squarespace integration._ |  |  |  |\n| Shopify integration _Add Booqable to your Shopify website with the Shopify integration._ |  |  |  |\n| Webflow integration _Add Booqable to your Webflow website with the Webflow integration._ |  |  |  |\n| Calendar integration _Automatically add your Booqable orders to Google Calendar, Apple Calendar, Outlook, and other calendar software._ |  |  |  |\n| Google Analytics app _Track your website traffic and user behavior with Google Analytics._ |  |  |  |\n| Meta Pixel app _Track your website traffic and user behavior with Meta Pixel._ |  |  |  |\n| Weglot app _Translate your website into multiple languages with Weglot._ |  |  |  |\n| CartStack app _Recover abandoned carts and increase your revenue with automated email campaigns._ |  |  |  |\n| Mailchimp app _Sync your customer data with Mailchimp to send targeted email campaigns._ |  |  |  |\n| Zapier integration _Create automated workflows by connecting Booqable with 5,000+ apps, including QuickBooks and Xero._ |  |  |  |\n| API _Use the API to build your own tools and integrate Booqable with other products and services._ |  |  |  |\n| API rate limits _The number of API calls you can make per minute._ |  | 100 | 250 |\n| \n[Try for free - No credit card needed](https://signup.booqable.com/ \"Try this plan for free\")\n\n\n\n |\n\n### Management features\n\n| Management features | Essential | Pro | Premium |\n| --- | --- | --- | --- |\n| Support _All plans include free onboarding, support, and help center access._ | Standard | Standard | Priority |\n| Data import _Easily transfer from other rental software by importing your inventory and customer lists._ |  |  |  |\n| Bulk editing _Reduce repetitive work by making changes to large numbers of orders, customers, or products at once._ |  |  |  |\n| Two-factor authentication (2FA) _Add an additional layer of security to your account in addition to your password._ |  |  |  |\n| Enforce 2FA _Enforce two-factor authentication for all users associated with your Booqable account._ |  |  |  |\n| Reports _Generate performance reports to see how often products are rented out and how much revenue they made._ |  |  |  |\n| Data export _Export your orders, inventory, customer lists, documents, and reports to Excel or CSV files._ |  |  |  |\n| Roles & permissions _Set permissions for each user account to limit access to sensitive information (or prevent unwanted actions)._ |  |  |  |\n| Single sign-on (SSO) _Log in to Booqable with single sign-on (SSO) from your existing identity provider, such as Okta and OneLogin._ |  |  |  |\n| IP restrictions _Limit access to your Booqable account to a predefined list of IP addresses._ |  |  |  |\n\nFrequently asked questions\n--------------------------\n\nFAQ\n---\n\nAfter you create an account, you will get 14-day access to all features so you can see if Booqable is the right rental software for your business. Before your trial ends, we will notify you to choose a plan to continue using Booqable.\n\nNo, you can create an account and use Booqable for 14 days without entering any payment details. Once your trial has ended, or when you decide Booqable is the right rental software for your business, you can choose a plan and enter your payment information.\n\nYou can use your credit card to pay for any plan.\n\nNo, there are no setup fees on any of Booqable's pricing plans.\n\nNo, Booqable doesn\u2019t charge a transaction fee or commission on bookings. If you use Booqable's payment providers Stripe and PayPal to accept payments, please check with [Stripe](https://stripe.com/ \"Visit Stripe\") and [PayPal](https://paypal.com/ \"Visit Paypal\") to see the payment processing rates for your country.\n\nYes, you can change your plan at any time. When upgrading or downgrading, we will pro-rate your subscription depending on the price of your new plan.\n\nBooqable plans are paid monthly or yearly, depending on the subscription you choose. We offer a discount (close to 20%) on annual plans when paid upfront.\n\nIf you ever decide Booqable isn\u2019t the right rental software for you, you can cancel your subscription. Your subscription will remain active through to the end of the billing period for which you\u2019ve already paid. We do not offer refunds.\n\nYou can add staff accounts to Booqable to let your team members log in as separate users. Your plan determines the number of staff accounts you can create.\n\nYes, your data is safe with us. Security and privacy of your data is our number one priority. Booqable\u2019s physical infrastructure is hosted and managed within Amazon\u2019s highly secure data centers and utilize the Amazon Web Service (AWS) technology.\n\nTry Booqable for free\n---------------------\n\nGet started and see the benefits of rental software.\n\nFind the perfect Booqable plan for your rental business. Starting from $29 per month. Every pricing plan comes with a free 14-day trial.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "booqable",
+        "app_name": "Booqable",
+        "app_slug": "booqable",
+        "pricing_url": "https://booqable.com/pricing/",
+        "source_url": "https://booqable.com/pricing/",
+        "all_pricing_urls": [
+          "https://booqable.com/pricing/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Annual plans offer a 20% discount compared to monthly plans.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Essential",
+            "tier_description": "Basic features for starting rental businesses and small teams.",
+            "monthly_price": 35.0,
+            "annual_price": 29.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Rental website builder",
+              "Integrate with existing website",
+              "Unlimited products and orders",
+              "iOS & Android app",
+              "Payments no commission"
+            ],
+            "limits": {
+              "users": 2,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Extra staff accounts",
+                  "value": "$20/user/month"
+                },
+                {
+                  "name": "Extra locations",
+                  "value": "$25/location/month"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "The best value for medium-sized and growing rental businesses.",
+            "monthly_price": 95.0,
+            "annual_price": 79.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Everything in Essential",
+              "QR & barcode scanning",
+              "Roles & permissions",
+              "API & Zapier integration",
+              "Video call support"
+            ],
+            "limits": {
+              "users": 5,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": 100,
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Extra staff accounts",
+                  "value": "$20/user/month"
+                },
+                {
+                  "name": "Extra locations",
+                  "value": "$25/location/month"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Premium",
+            "tier_description": "Advanced features for large rental companies.",
+            "monthly_price": 299.0,
+            "annual_price": 249.0,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Everything in Pro",
+              "Single sign-on (SSO)",
+              "IP restrictions",
+              "Priority support",
+              "Dedicated account manager"
+            ],
+            "limits": {
+              "users": 15,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": 250,
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Extra staff accounts",
+                  "value": "$20/user/month"
+                },
+                {
+                  "name": "Extra locations",
+                  "value": "$25/location/month"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:22:12.685517",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\booqable\\20250415_072212"
+}

@@ -1,0 +1,141 @@
+{
+  "app_id": "mailjet",
+  "app_name": "Mailjet",
+  "app_slug": "mailjet",
+  "pricing_url": "https://www.mailjet.com/pricing/",
+  "source_url": "https://www.mailjet.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.mailjet.com/pricing/",
+    "https://www.mailjet.com/fr/tarifs/",
+    "https://www.mailjet.com/de/preise/",
+    "https://www.mailjet.com/es/tarifas/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details include subscription plans and usage-based options for email services.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic email services for small-scale usage.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Email API",
+        "SMTP Relay",
+        "Basic Email Editor"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 6000,
+        "api_calls": 6000,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Enhanced email services for growing businesses.",
+      "monthly_price": 9.65,
+      "annual_price": 96.5,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Advanced Email Editor",
+        "Statistics",
+        "A/B Testing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 30000,
+        "api_calls": 30000,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Comprehensive email services for large-scale operations.",
+      "monthly_price": 20.95,
+      "annual_price": 209.5,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Dedicated IP",
+        "Priority Support",
+        "Advanced Automation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 100000,
+        "api_calls": 100000,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional Emails",
+      "unit": "per 1K emails",
+      "base_price": 1.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 1000.0,
+          "price": 1.0
+        },
+        {
+          "min": 1001.0,
+          "max": "unlimited",
+          "price": 0.8
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "20% discount on annual subscriptions.",
+      "discount_percentage": 20.0,
+      "offer_url": "https://www.mailjet.com/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:29:03.387134",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e5e439b3-18b3-4261-902f-fbcc0c29e13c",
+    "name": "Mailjet",
+    "slug": "mailjet",
+    "description": "Mailjet is an all-in-one solution to send, track and deliver transactional, notification and marketing emails. Engage, analyze and react with your client base through email. Get started by using the Mailjet zap to synchronise contacts from your favorite eCommerce, CRM or other SaaS tools to your Mailjet contact lists. For users on API version 3 or higher.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/0effc4cf3d9994a7c6e053982f17d8cb.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 3
+  }
+}

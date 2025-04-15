@@ -1,0 +1,202 @@
+{
+  "app_id": "addevent",
+  "app_name": "AddEvent",
+  "app_slug": "addevent",
+  "pricing_url": "https://www.addevent.com/c/plans-and-pricing",
+  "source_url": "https://www.addevent.com/c/plans-and-pricing",
+  "all_pricing_urls": [
+    "https://www.addevent.com/c/plans-and-pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a discount compared to monthly billing. Enterprise plans are custom and require contacting sales.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Hobby",
+      "tier_description": "For personal use only",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Share Events",
+        "Collect RSVPs",
+        "Subscription Calendars",
+        "Automated add-to-calendar button",
+        "Automated add-to-calendar links"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Events",
+            "value": 5
+          },
+          {
+            "name": "Event-adds",
+            "value": 100
+          },
+          {
+            "name": "RSVPs",
+            "value": 20
+          },
+          {
+            "name": "Active calendars",
+            "value": 1
+          },
+          {
+            "name": "Active subscribers",
+            "value": 20
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Small Business",
+      "tier_description": null,
+      "monthly_price": 36.0,
+      "annual_price": 29.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Share Events",
+        "Collect RSVPs",
+        "Subscription Calendars",
+        "Embeddable Calendars",
+        "Automated add-to-calendar button",
+        "Automated add-to-calendar links",
+        "Analytics",
+        "API & Zapier integration"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Events",
+            "value": 50
+          },
+          {
+            "name": "Event-adds",
+            "value": 2500
+          },
+          {
+            "name": "RSVPs",
+            "value": 1000
+          },
+          {
+            "name": "Active calendars",
+            "value": 10
+          },
+          {
+            "name": "Active subscribers",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": null,
+      "monthly_price": 129.0,
+      "annual_price": 99.0,
+      "annual_discount_percentage": 23.26,
+      "setup_fee": null,
+      "features": [
+        "Share Events",
+        "Collect RSVPs",
+        "Subscription Calendars",
+        "Embeddable Calendars",
+        "Automated add-to-calendar button",
+        "Automated add-to-calendar links",
+        "Analytics",
+        "API & Zapier integration"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Events",
+            "value": 250
+          },
+          {
+            "name": "Event-adds",
+            "value": 25000
+          },
+          {
+            "name": "RSVPs",
+            "value": 5000
+          },
+          {
+            "name": "Active calendars",
+            "value": 50
+          },
+          {
+            "name": "Active subscribers",
+            "value": 5000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan tailored to your needs",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Additional account users",
+        "Developer & priority support",
+        "Dedicated account manager"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:53:41.112984",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fbd45889-c845-4ec4-8eb2-c71148d27d56",
+    "name": "AddEvent",
+    "slug": "addevent",
+    "description": "AddEvent is an add to calendar service on the internet. We handle millions of events every year for businesses around the world.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/180a4dd4f6861e83ac2b20c73f910cef.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 1
+  }
+}

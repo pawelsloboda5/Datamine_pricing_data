@@ -1,0 +1,222 @@
+{
+  "app_id": "iubenda",
+  "app_name": "iubenda",
+  "app_slug": "iubenda",
+  "pricing_url": "https://www.iubenda.com/en/pricing",
+  "source_url": "https://www.iubenda.com/en/pricing",
+  "all_pricing_urls": [
+    "https://www.iubenda.com/en/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription-based tiers with additional usage-based fees for exceeding limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Basic plan for small websites or apps.",
+      "monthly_price": 3.49,
+      "annual_price": 41.88,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Privacy Policy and Cookie Policy Generator",
+        "Autofill legal documents",
+        "Legal documents updated",
+        "Up to 7 third-party services and clauses",
+        "Full iubenda branding",
+        "One language",
+        "Basic integration of documents",
+        "Up to 5,000 page views/mo",
+        "Limited style customization",
+        "Google Consent Mode support",
+        "Periodic scans not guaranteed"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Page Views",
+            "value": "5,000/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Essentials",
+      "tier_description": "Enhanced plan for medium-sized websites or apps.",
+      "monthly_price": 5.99,
+      "annual_price": 71.88,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Privacy Policy and Cookie Policy Generator",
+        "Autofill legal documents",
+        "Legal documents updated",
+        "Up to 20 third-party services and clauses",
+        "Minimal iubenda branding",
+        "One language",
+        "Basic integration of documents",
+        "Up to 25,000 page views/month included + $0.06 per 1000 extra page views",
+        "Full style customization",
+        "Google Consent Mode support",
+        "Monthly site scanning of main pages"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Page Views",
+            "value": "25,000/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Comprehensive plan for larger websites or apps.",
+      "monthly_price": 24.99,
+      "annual_price": 299.88,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Privacy Policy and Cookie Policy Generator",
+        "Autofill legal documents",
+        "Legal documents updated",
+        "Up to 30 third-party services and clauses",
+        "Minimal iubenda branding",
+        "All available languages",
+        "Add custom text to Privacy and Cookie Policy",
+        "Terms & Conditions integration via API",
+        "Seamless integration",
+        "Up to 50,000 page views/month included + $0.06 per 1000 extra page views",
+        "Full style customization",
+        "Geolocation-based consent settings",
+        "Monthly site scanning of main pages"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Page Views",
+            "value": "50,000/month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Ultimate",
+      "tier_description": "Premium plan for enterprise-level websites or apps.",
+      "monthly_price": 99.99,
+      "annual_price": 1199.88,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Privacy Policy and Cookie Policy Generator",
+        "Autofill legal documents",
+        "Legal documents updated",
+        "Unlimited third-party services and clauses",
+        "No iubenda branding",
+        "All available languages",
+        "Add custom text to Privacy and Cookie Policy",
+        "Terms & Conditions integration via API",
+        "Additional data-input fields",
+        "Seamless integration",
+        "Up to 150,000 page views/month included + $0.06 per 1000 extra page views",
+        "Full style customization",
+        "Native mobile app integration",
+        "Geolocation-based consent settings",
+        "Detailed analytics",
+        "Recover users that reject marketing tracking",
+        "Cookie consent paywall",
+        "Hourly site scanning + instant notification of non-compliance"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Page Views",
+            "value": "150,000/month"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Page Views",
+      "unit": "per 1000 views",
+      "base_price": 0.06,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Volume Discount",
+      "offer_description": "Up to 50% discounts starting from the 26th site or app.",
+      "discount_percentage": 50.0,
+      "offer_url": "https://www.iubenda.com/en/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Accessibility Features Usage",
+      "fee_amount": 7.0,
+      "fee_description": "Monthly fee for 10,000 page views."
+    },
+    {
+      "fee_name": "Consent Storage",
+      "fee_amount": 6.0,
+      "fee_description": "Monthly fee for every 1,000 new consents saved."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:30:40.596642",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "aeed953f-51e4-4e9d-a09a-4ddb824c12f9",
+    "name": "iubenda",
+    "slug": "iubenda",
+    "description": "With the iubenda Consent Solution you can record and manage GDPR consent and privacy preferences for each of your users, integrating your consent collection forms, your legal documents and includes a user-friendly dashboard for reviewing consent records of your activities.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/3f17d9b4663f3107a732a1a9409db5ed.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

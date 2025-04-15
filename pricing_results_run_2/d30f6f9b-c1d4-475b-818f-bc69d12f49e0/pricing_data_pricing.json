@@ -1,0 +1,141 @@
+{
+  "app_id": "supernormal",
+  "app_name": "Supernormal",
+  "app_slug": "supernormal",
+  "pricing_url": "https://www.supernormal.com/pricing",
+  "source_url": "https://www.supernormal.com/pricing",
+  "all_pricing_urls": [
+    "https://www.supernormal.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription-based tiers with a free tier and enterprise options requiring contact for quotes.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "The quickest way to get started with Supernormal.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Google Meet, Zoom, Teams",
+        "1K minutes of storage / member",
+        "Core AI model",
+        "Integrate with Asana, Slack, ClickUp, Linear, Zapier, Hubspot, Salesforce, Workable and more",
+        "Create groups"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "1K minutes / member",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For individuals and teams who meet regularly.",
+      "monthly_price": 18.0,
+      "annual_price": 10.0,
+      "annual_discount_percentage": 44.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited storage",
+        "Everything in Starter",
+        "Meeting notes templates",
+        "Sharing controls",
+        "Record video"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For companies connecting multiple teams & tools.",
+      "monthly_price": 29.0,
+      "annual_price": 19.0,
+      "annual_discount_percentage": 34.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited storage",
+        "Everything in Pro",
+        "Advanced AI models",
+        "Custom templates",
+        "Admin controls"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Includes features like SSO, Google SSO, Data Retention Policies, and Advanced Controls for 50+ team members.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "SSO",
+        "Google SSO",
+        "Data Retention Policies",
+        "Advanced Controls for 50+ team members"
+      ],
+      "limits": {
+        "users": "50+",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:17:00.287238",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d30f6f9b-c1d4-475b-818f-bc69d12f49e0",
+    "name": "Supernormal",
+    "slug": "supernormal",
+    "description": "Supernormal delivers detailed meeting notes automatically, saving you time and effort spent writing, polishing, and sharing notes.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/e1aaffcc83f7aae12c0b724fada84c0f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools"
+    ],
+    "category_slugs": [
+      "ai-tools"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

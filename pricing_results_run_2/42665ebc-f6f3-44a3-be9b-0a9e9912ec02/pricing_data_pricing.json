@@ -1,0 +1,132 @@
+{
+  "app_id": "zenmaid",
+  "app_name": "ZenMaid",
+  "app_slug": "zenmaid",
+  "pricing_url": null,
+  "source_url": "https://get.zenmaid.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of cleaners and office managers, with specific features and limits per tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Perfect for new cleaning businesses just getting started.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 40 appointments per month",
+        "Easy-to-use scheduling with calendar, dispatch, map views and more",
+        "Limited automated SMS & Emails communications templates to cleaners and customers",
+        "Mobile app (without cleaner GPS tracking)",
+        "Cleaner SOS alert on mobile apps",
+        "Online payments with Stripe and Square and invoicing",
+        "Chat-only support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 40,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Ideal for established businesses ready to scale.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited appointments per month",
+        "All features in Starter",
+        "Digital checklists for your appointments",
+        "Mobile app with cleaner GPS tracking",
+        "High-converting booking forms for your website (with ZenMaid branding)",
+        "More automated SMS & Emails communications templates to cleaners and customers",
+        "Reports",
+        "Payroll",
+        "Spotfinder for easy scheduling of new recurring customers",
+        "Quickbooks integration (coming soon)"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro Max",
+      "tier_description": "Our most comprehensive solution with full features and priority support.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited appointments per month",
+        "All features in Starter & Pro",
+        "Cleaners availability & paid-time-off (PTO) tracking",
+        "Service ratings to collect feedback from your customers",
+        "All automated SMS & Emails communication templates to cleaners and customers",
+        "Export of your data",
+        "Integrations with Mailchimp and Zapier",
+        "High-converting booking forms with your own branding",
+        "Priority support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "SMS charges",
+      "fee_amount": null,
+      "fee_description": "SMS charges are not included in the subscription price."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:21:18.539994",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "42665ebc-f6f3-44a3-be9b-0a9e9912ec02",
+    "name": "ZenMaid",
+    "slug": "zenmaid-nWD",
+    "description": "ZenMaid is a simple scheduling software for maid services - including automated communication, GPS clock times, payroll, reporting and much more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/483bc4ba558e6438c5ffa63e54923a97.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 7
+  }
+}

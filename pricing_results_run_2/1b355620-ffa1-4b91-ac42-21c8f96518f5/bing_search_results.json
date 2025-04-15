@@ -1,0 +1,53 @@
+{
+  "app_name": "Testimonial",
+  "app_slug": "testimonial",
+  "search_term": "Find the official pricing page URL for Testimonial (testimonial.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744706758.293247,
+  "response_text": [
+    "The official pricing page for Testimonial can be found at: https://testimonial.to/pricing\u30103:0\u2020source\u3011"
+  ],
+  "citations": [
+    {
+      "title": "testimonial.com - contact us:",
+      "url": "https://testimonial.com/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://testimonial.to/pricing\u30103:0\u2020source\u3011",
+      "is_accessible": true,
+      "content": "Testimonial - Collect and embed testimonials in minutes\n===============\n \n\nPowered by [![Image 1: Google Translate](https://www.gstatic.com/images/branding/googlelogo/1x/googlelogo_color_42x16dp.png)Translate](https://translate.google.com/)\n\n[![Image 2: Logo](https://testimonial.to/static/media/logo-dark.8447f219.svg)](https://testimonial.to/)\n\n*   Customers\n    \n*   [Features](https://testimonial.to/features)\n*   [Integrations](https://testimonial.to/integrations)\n*   [Pricing](https://testimonial.to/pricing)\n*   ![Image 3: English](https://hatscripts.github.io/circle-flags/flags/us.svg)EN\n    \n\n*   [Sign in](https://testimonial.to/signin)\n*   [Sign up](https://testimonial.to/signup)\n\nMenu\n\n*   [Customers](https://testimonial.to/customers)\n*   [Features](https://testimonial.to/features)\n*   [Integrations](https://testimonial.to/integrations)\n*   [Pricing](https://testimonial.to/pricing)\n*   [Sign in](https://testimonial.to/signin)\n\n\ud83e\udd26\u200d\u2640\ufe0f\n=====\n\nUh oh. That page doesn\u2019t exist.\n===============================\n\nHead to our [homepage](https://testimonial.to/) that does exist, or try double-checking the URL.\n\n[![Image 4: Logo](https://testimonial.to/static/media/logo-dark.8447f219.svg)](https://testimonial.to/)\n\nThe easiest solution to getting text and video testimonials from your customers\n\n###### Products\n\n*   [Our Wall of Love](https://testimonial.to/wall-of-love)\n*   [Embed widgets](https://testimonial.to/widgets)\n*   [Chrome extension](https://testimonial.to/apps/chrome-extension)\n*   [Slack app](https://testimonial.to/apps/slack)\n*   [Hopin app](https://testimonial.to/apps/hopin)\n*   [Pricing](https://testimonial.to/pricing)\n*   [Features](https://testimonial.to/features)\n*   [AI features](https://testimonial.to/resources/testimonial-integrates-with-ai)\n*   [Integrations](https://testimonial.to/integrations)\n*   [Product demo](https://www.youtube.com/watch?v=a-qT9pbOHkg)\n*   [Status page](https://status.testimonial.to/)\n\n###### Resources\n\n*   [Help center](https://help.testimonial.to/)\n*   [Our blog](https://testimonial.to/resources)\n*   [Tutorials](https://testimonial.to/tutorials)\n*   [Customer stories](https://testimonial.to/customer-stories)\n*   [Join affiliate program](https://testimonial.to/affiliates)\n*   [Free tools](https://testimonial.to/tools)\n*   [Privacy policy](https://testimonial.to/privacy)\n*   [Terms of Service](https://testimonial.to/tos)\n*   [Cookie policy](https://testimonial.to/cookies)\n*   Contact us\n\n###### Customers\n\n*   [Agencies](https://testimonial.to/agency)\n*   [B2B companies](https://testimonial.to/customers#b2b-companies)\n*   [Course creators](https://testimonial.to/customers/course-creator)\n*   [eCommerce](https://testimonial.to/customers#ecommerce-retail)\n*   [Consumer apps](https://testimonial.to/customers#consumer-apps)\n\n###### Latest video\n\n*   [![Image 5](https://imagedelivery.net/pcavElAZUUevXK53Dl4vWA/27ef1a67-9a88-4276-cc9d-21270c344100/public)](https://youtu.be/28FX7u51v2U)[AI Space Creator in Testimonial](https://youtu.be/28FX7u51v2U)\n\n![Image 6](https://fonts.gstatic.com/s/i/productlogos/translate/v14/24px.svg)\n\nOriginal text\n\nRate this translation\n\nYour feedback will be used to help improve Google Translate\n\nWith Testimonial, in minutes, you can collect and display video testimonials and other types of testimonials from your customers with no need for a developer or website hosting.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "testimonial",
+        "app_name": "Testimonial",
+        "app_slug": "testimonial",
+        "pricing_url": "https://testimonial.to/pricing",
+        "source_url": "https://testimonial.to/pricing",
+        "all_pricing_urls": [
+          "https://testimonial.to/pricing"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page was not accessible, and no specific pricing information could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T04:46:08.479412",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\testimonial\\20250415_044608"
+}

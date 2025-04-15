@@ -1,0 +1,109 @@
+{
+  "app_id": "sumoquote",
+  "app_name": "SumoQuote",
+  "app_slug": "sumoquote",
+  "pricing_url": "https://www.sumoquote.com/",
+  "source_url": "https://www.sumoquote.com/pricing",
+  "all_pricing_urls": [
+    "https://www.sumoquote.com/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and additional costs for extra users and features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Heavy Plan",
+      "tier_description": "Our everything included plan. Includes 5 users to get you started.",
+      "monthly_price": 239.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes 5 Users",
+        "Unlimited eSigning",
+        "Invoicing with Quickbooks Online",
+        "Material Orders & Work Orders",
+        "Financing",
+        "CRM Integrations",
+        "Measurement Integrations",
+        "Admin Controls"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise Plan",
+      "tier_description": "Specialized plans for large businesses with more than 50 salespeople.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Multi-Location Support",
+        "Custom Integration Support",
+        "Custom Onboarding Support"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional Users",
+      "unit": "per user per month",
+      "base_price": 48.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Solar Add-on",
+      "unit": "per month",
+      "base_price": 150.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:41:24.200300",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b9ff8eec-8870-4808-a321-79a98f9033e7",
+    "name": "SumoQuote",
+    "slug": "sumoquote",
+    "description": "SumoQuote is a better way to build beautiful proposals so you can win more work.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/f3b33887b65dff9cc49c23ab6d3082c4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Proposal & Invoice Management"
+    ],
+    "category_slugs": [
+      "invoices"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 6
+  }
+}

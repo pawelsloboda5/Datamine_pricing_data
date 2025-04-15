@@ -1,0 +1,134 @@
+{
+  "app_id": "action_network",
+  "app_name": "Action Network",
+  "app_slug": "action-network",
+  "pricing_url": "https://www.actionnetwork.com/",
+  "source_url": "https://www.actionnetwork.com/pricing?intcid=600859333",
+  "all_pricing_urls": [
+    "https://www.actionnetwork.com/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes weekly, monthly, and annual subscription options with discounts for annual billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Weekly",
+      "tier_description": "Weekly subscription plan",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Live Odds",
+        "Expert Picks",
+        "Personal Bet Tracking",
+        "Pick & Game Alerts",
+        "Some Articles",
+        "Bet Percentages",
+        "Instant Expert Pick Alerts",
+        "Money Percentages",
+        "PRO System Picks",
+        "Premium Articles & Insights",
+        "Sharp Action Report",
+        "Prop Projections",
+        "Custom Bet Tracking",
+        "Betting Projections",
+        "PRO Line Alerts"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Monthly",
+      "tier_description": "Monthly subscription plan",
+      "monthly_price": 24.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Live Odds",
+        "Expert Picks",
+        "Personal Bet Tracking",
+        "Pick & Game Alerts",
+        "Some Articles",
+        "Bet Percentages",
+        "Instant Expert Pick Alerts",
+        "Money Percentages",
+        "PRO System Picks",
+        "Premium Articles & Insights",
+        "Sharp Action Report",
+        "Prop Projections",
+        "Custom Bet Tracking",
+        "Betting Projections",
+        "PRO Line Alerts"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Annual",
+      "tier_description": "Annual subscription plan with best value",
+      "monthly_price": 9.99,
+      "annual_price": 119.88,
+      "annual_discount_percentage": 66.0,
+      "setup_fee": null,
+      "features": [
+        "Live Odds",
+        "Expert Picks",
+        "Personal Bet Tracking",
+        "Pick & Game Alerts",
+        "Some Articles",
+        "Bet Percentages",
+        "Instant Expert Pick Alerts",
+        "Money Percentages",
+        "PRO System Picks",
+        "Premium Articles & Insights",
+        "Sharp Action Report",
+        "Prop Projections",
+        "Custom Bet Tracking",
+        "Betting Projections",
+        "PRO Line Alerts"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Save 66% on the annual plan compared to monthly billing.",
+      "discount_percentage": 66.0,
+      "offer_url": "https://www.actionnetwork.com/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:42:24.828051",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b0d9133b-fcae-4575-862a-2a3831d84a3e",
+    "name": "Action Network",
+    "slug": "actionnetwork",
+    "description": "Action Network is an online organizing tool for progressives, offering actions such as fundraising, petitions, and letters to elected officials, a built-in mass email tool to keep in touch with your activists, and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/14b6df26f53d502637e5d4f3b3f58def.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 5,
+    "trigger_count": 0
+  }
+}

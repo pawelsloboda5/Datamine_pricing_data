@@ -1,0 +1,103 @@
+{
+  "app_id": "runsignup",
+  "app_name": "RunSignup",
+  "app_slug": "runsignup",
+  "pricing_url": "https://info.runsignup.com/pricing/",
+  "source_url": "https://info.runsignup.com/pricing/",
+  "all_pricing_urls": [
+    "https://info.runsignup.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "RunSignup charges processing fees based on transaction totals, with no subscription or monthly fees. Free events incur no fees.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Processing Fees",
+      "tier_description": "Fees based on cart total.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "No subscription fees",
+        "No monthly fees",
+        "Flexible fee payment options"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Donation Processing Fees",
+      "tier_description": "Flat fee for donations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Flat 4% fee for donations"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Cart Total",
+      "unit": "per transaction",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 0.0,
+          "price": 0.0
+        },
+        {
+          "min": 0.01,
+          "max": 249.99,
+          "price": null
+        },
+        {
+          "min": 250.0,
+          "max": 999.99,
+          "price": null
+        },
+        {
+          "min": 1000.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:33:07.122809",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9718a5a1-d099-4163-9f2b-885c15f7791b",
+    "name": "RunSignup",
+    "slug": "runsignup",
+    "description": "RunSignup provides a simple way to register for races. You can create and manage your race for free.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/1322eeb0473475b49416308049abe6ad_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 3
+  }
+}

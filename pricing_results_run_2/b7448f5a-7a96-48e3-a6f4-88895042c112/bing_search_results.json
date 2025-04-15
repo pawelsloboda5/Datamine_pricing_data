@@ -1,0 +1,24 @@
+{
+  "app_name": "Pixie",
+  "app_slug": "pixie",
+  "search_term": "Find the official pricing page URL for Pixie (pixie.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744726183.6798706,
+  "response_text": [
+    "The official pricing page for Pixie can be found at: https://www.pixie.com/pricing\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "pixie.com",
+      "url": "https://pixie.com/pages/our-story"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.pixie.com/pricing\u30103:0\u2020source\u3011.",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\pixie\\20250415_100947"
+}

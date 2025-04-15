@@ -1,0 +1,208 @@
+{
+  "app_id": "wistia",
+  "app_name": "Wistia",
+  "app_slug": "wistia",
+  "pricing_url": "https://wistia.com/pricing",
+  "source_url": "https://wistia.com/pricing?sitelink=plans_for_every_budget&device=c&gad=1",
+  "all_pricing_urls": [
+    "https://wistia.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and usage-based costs for additional media and features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Explore the video basics",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Professional hosting",
+        "Video recording and editing"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Included media",
+            "value": 10
+          },
+          {
+            "name": "Bandwidth",
+            "value": "200 GB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Unlock custom video branding",
+      "monthly_price": 24.0,
+      "annual_price": 230.4,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Fully customizable player",
+        "Clickable video CTAs",
+        "Team commenting and review"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Included media",
+            "value": 20
+          },
+          {
+            "name": "Bandwidth",
+            "value": "1 TB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Optimize your video marketing",
+      "monthly_price": 399.0,
+      "annual_price": 3830.4,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Webinars with custom branding",
+        "Marketing integrations",
+        "Automate campaigns with video",
+        "Ad platform integrations",
+        "Account success manager"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Included media",
+            "value": 250
+          },
+          {
+            "name": "Bandwidth",
+            "value": "1 TB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Secure & scale video across teams",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Single sign-on (SSO)",
+        "2TB + of bandwidth",
+        "Video playback protection",
+        "Increased webinar limits",
+        "Dedicated accounts for teams",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Included media",
+            "value": "custom"
+          },
+          {
+            "name": "Bandwidth",
+            "value": "2 TB+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional media",
+      "unit": "per media",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 75.0,
+          "price": 2.0
+        },
+        {
+          "min": 76.0,
+          "max": 500.0,
+          "price": 1.0
+        },
+        {
+          "min": 501.0,
+          "max": 2000.0,
+          "price": 0.5
+        },
+        {
+          "min": 2001.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    },
+    {
+      "metric_name": "Video dubbing",
+      "unit": "per minute",
+      "base_price": 2.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:58:57.142162",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d5cf96e3-13bf-44a4-a0a5-4f9cd089bfa0",
+    "name": "Wistia",
+    "slug": "wistia",
+    "description": "Wistia makes it easy to track and measure video engagement online. Upload your own videos to Wistia's professional video hosting services and let them take care of the rest.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/fd6e266b406bceaa0f9cfa626853aebb.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Video & Audio"
+    ],
+    "category_slugs": [
+      "video"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 4
+  }
+}

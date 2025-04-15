@@ -1,0 +1,43 @@
+{
+  "app_id": "kintone",
+  "app_name": "Kintone",
+  "app_slug": "kintone",
+  "pricing_url": null,
+  "source_url": "https://www.kintone.com/en-us/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page was inaccessible due to a client-side block.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:39:56.691817",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "34b74ea5-d464-4b6c-86ff-e78e1a276303",
+    "name": "Kintone",
+    "slug": "kintone",
+    "description": "kintone is a fully integrated social collaboration and customizable business application cloud platform that allows internal and external teams to solve business process inefficiencies through database and work flow-driven custom apps, communication and collaboration. kintone can be used for custom CRM, Project Mangement, SCM and much more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/73d920e3b8adb8e98a9d6835ebd3a1b4_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "App Builder"
+    ],
+    "category_slugs": [
+      "app-builder"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 5,
+    "trigger_count": 0
+  }
+}

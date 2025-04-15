@@ -1,0 +1,165 @@
+{
+  "app_id": "katana",
+  "app_name": "Katana",
+  "app_slug": "katana",
+  "pricing_url": "https://katanamrp.com/pricing/",
+  "source_url": "https://www.katanamrp.com/pricing",
+  "all_pricing_urls": [
+    "https://katanamrp.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes unlimited users, SKUs, and integrations across all plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "For small businesses that only need a simple and scalable solution to manage their inventory.",
+      "monthly_price": 199.0,
+      "annual_price": 179.0,
+      "annual_discount_percentage": 10.05,
+      "setup_fee": null,
+      "features": [
+        "Unlimited users",
+        "Unlimited integrations",
+        "Unlimited SKUs",
+        "1 inventory location"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Inventory locations",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "For growing businesses with multiple inventory locations, large teams, and a need for advanced inventory management.",
+      "monthly_price": 399.0,
+      "annual_price": 359.0,
+      "annual_discount_percentage": 10.03,
+      "setup_fee": null,
+      "features": [
+        "All Starter features",
+        "Advanced insights",
+        "Multicurrency support",
+        "Custom user permissions",
+        "Barcode scanning",
+        "3 inventory locations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Inventory locations",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "For established companies that need a robust solution that offers further customization and more complex workflows.",
+      "monthly_price": 899.0,
+      "annual_price": 799.0,
+      "annual_discount_percentage": 11.12,
+      "setup_fee": null,
+      "features": [
+        "All Standard features",
+        "Access to Katana\u2019s API",
+        "Full traceability",
+        "Planning and forecasting",
+        "Warehouse management",
+        "10 inventory locations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Inventory locations",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional Plus",
+      "tier_description": "For large-scale companies requiring extensive customization and support.",
+      "monthly_price": 1999.0,
+      "annual_price": 1799.0,
+      "annual_discount_percentage": 10.01,
+      "setup_fee": null,
+      "features": [
+        "All Professional features",
+        "Unlimited inventory locations",
+        "Dedicated account manager"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Inventory locations",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Onboarding",
+      "fee_amount": 999.0,
+      "fee_description": "Mandatory for Standard, Professional, and Professional Plus plans."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:29:28.991332",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "16565ee3-7c0b-4e4a-bc8c-a06dc1f03aef",
+    "name": "Katana",
+    "slug": "katana-mrp",
+    "description": "Katana gives thousands of manufacturers a live look at their business. Manage all the moving parts of your business and unite the apps and services you use in one visual platform.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/8f21fae4d1424074b1d270a00ddb32f2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

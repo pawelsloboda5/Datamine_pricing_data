@@ -1,0 +1,158 @@
+{
+  "app_id": "dengro",
+  "app_name": "DenGro",
+  "app_slug": "dengro",
+  "pricing_url": "https://dengro.com/pricing/",
+  "source_url": "https://dengro.com/pricing/",
+  "all_pricing_urls": [
+    "https://dengro.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "GBP",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per practice per month and includes VAT. Enterprise tier offers custom pricing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Gro",
+      "tier_description": "Designed to get you started.",
+      "monthly_price": 199.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Users",
+        "Facebook & Instagram integration",
+        "Email & SMS nurture messages with dental specific templates",
+        "Marketing ROI reporting",
+        "Team performance reporting",
+        "Free Live Chat Support",
+        "Free weekly drop in training sessions",
+        "Shared inbox for two-way patient conversations via email and SMS",
+        "PMS Integration: EXACT",
+        "PMS Integration: Dentally, SfD & Aerona",
+        "Dental AI Chatbot \u2013 Built and connected to your DenGro Today page",
+        "Customise and create your own email and SMS sequences",
+        "Early access to new features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Has everything you need to accelerate growth.",
+      "monthly_price": 249.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Users",
+        "Facebook & Instagram integration",
+        "Email & SMS nurture messages with dental specific templates",
+        "Marketing ROI reporting",
+        "Team performance reporting",
+        "Free Live Chat Support",
+        "Free weekly drop in training sessions",
+        "Shared inbox for two-way patient conversations via email and SMS",
+        "PMS Integration: EXACT",
+        "PMS Integration: Dentally, SfD & Aerona",
+        "Dental AI Chatbot \u2013 Built and connected to your DenGro Today page",
+        "Customise and create your own email and SMS sequences",
+        "Early access to new features",
+        "Dedicated Customer Success Manager",
+        "Custom reports & exports",
+        "Regional review & reporting",
+        "Group level account & reporting",
+        "Performance workshops"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Tailored for large groups or corporates.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Users",
+        "Facebook & Instagram integration",
+        "Email & SMS nurture messages with dental specific templates",
+        "Marketing ROI reporting",
+        "Team performance reporting",
+        "Free Live Chat Support",
+        "Free weekly drop in training sessions",
+        "Shared inbox for two-way patient conversations via email and SMS",
+        "PMS Integration: EXACT",
+        "PMS Integration: Dentally, SfD & Aerona",
+        "Dental AI Chatbot \u2013 Built and connected to your DenGro Today page",
+        "Customise and create your own email and SMS sequences",
+        "Early access to new features",
+        "Dedicated Customer Success Manager",
+        "Custom reports & exports",
+        "Regional review & reporting",
+        "Group level account & reporting",
+        "Performance workshops",
+        "Volume based discounts"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Usage charges",
+      "fee_amount": null,
+      "fee_description": "Applicable for shared inbox for two-way patient conversations via email and SMS."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:35:54.337409",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1e606845-6039-4d49-814a-52b4d2a0f8f4",
+    "name": "DenGro",
+    "slug": "dengro",
+    "description": "DenGro is the lead management solution built for dental groups and practices to capture, nurture, convert their leads and see where they're coming from.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/14aca029447c4c940280fd6e3da60673.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 4
+  }
+}

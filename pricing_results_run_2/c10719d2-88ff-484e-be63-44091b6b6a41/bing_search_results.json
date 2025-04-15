@@ -1,0 +1,19 @@
+{
+  "app_name": "Agendor",
+  "app_slug": "agendor",
+  "search_term": "Find the official pricing page URL for Agendor (agendor.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744697102.745973,
+  "response_text": [
+    "The official pricing page for Agendor can be found at: https://www.agendor.com/precos ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.agendor.com/precos",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\agendor\\20250415_020518"
+}

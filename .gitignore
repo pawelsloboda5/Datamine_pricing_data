@@ -6,3 +6,6 @@ pricing_results/
 
 #add our pricing_results folder to the gitignore
 pricing_results/
+
+# add .venv folder to the gitignore
+.venv/

@@ -1,0 +1,164 @@
+{
+  "app_id": "boothbook",
+  "app_name": "BoothBook",
+  "app_slug": "boothbook",
+  "pricing_url": "https://manage.boothbook.com/work-smarter-not-harder",
+  "source_url": "https://manage.boothbook.com/work-smarter-not-harder",
+  "all_pricing_urls": [
+    "https://manage.boothbook.com/work-smarter-not-harder"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "GBP",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Prices are charged in GBP and may vary due to exchange rates for non-UK customers. VAT is excluded for UK customers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Newbie",
+      "tier_description": "Complete business management for small businesses.",
+      "monthly_price": 23.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Standard Features",
+        "5 Users",
+        "1 Proposal Theme",
+        "Simple Automations",
+        "1 Webform Template",
+        "Free Online Galleries"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "For growing businesses with additional features.",
+      "monthly_price": 45.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Standard Features",
+        "10 Users",
+        "3 Proposal Themes",
+        "Essential Automations",
+        "3 Webform Templates",
+        "API & Zapier Integration",
+        "Conversations Tool",
+        "50% Off Pro Online Galleries",
+        "Auto Task Builder"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Best value for thriving businesses with larger teams.",
+      "monthly_price": 67.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Standard Features",
+        "25 Users",
+        "10 Proposal Themes",
+        "Advanced Automations",
+        "Unlimited Webform Templates",
+        "API & Zapier Integration",
+        "Conversations Tool",
+        "50% Off Pro Online Galleries",
+        "Auto Task Builder",
+        "Quickbooks Integration (BETA)",
+        "Xero Integration (BETA)"
+      ],
+      "limits": {
+        "users": 25,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For larger scale businesses with premium support.",
+      "monthly_price": 99.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All Standard Features",
+        "Unlimited Users",
+        "All Proposal Themes",
+        "Advanced Automations",
+        "Unlimited Webform Templates",
+        "API & Zapier Integration",
+        "Conversations Tool",
+        "50% Off Pro Online Galleries",
+        "Auto Task Builder",
+        "Quickbooks Integration (BETA)",
+        "Xero Integration (BETA)",
+        "24/7 High Priority Ticket Support",
+        "Mon-Fri Phone Support",
+        "Quarterly Business Audit",
+        "Personal Account Rep",
+        "VIP Training Webinars",
+        "VIP Group Access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:39:02.758884",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1072296a-e6a3-4b54-aadb-60b765721ce3",
+    "name": "BoothBook",
+    "slug": "boothbook",
+    "description": "BoothBook is a booking system and CRM for event rental businesses. Use Zapier to integrate data from Bookings, Leads and Payments.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/e318aa21a1a7df7bc77c6a5f3a703160.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 3
+  }
+}

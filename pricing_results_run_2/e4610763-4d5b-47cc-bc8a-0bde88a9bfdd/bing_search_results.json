@@ -1,0 +1,64 @@
+{
+  "app_name": "Tidbyt",
+  "app_slug": "tidbyt",
+  "search_term": "Find the official pricing page URL for Tidbyt (tidbyt.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744710737.097515,
+  "response_text": [
+    "I could not locate the exact pricing page URL for Tidbyt on their official domain. You might want to visit their main website [tidbyt.com](https://tidbyt.com) to explore pricing directly."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://tidbyt.com",
+      "is_accessible": true,
+      "content": "What you care about at a glance\n-------------------------------\n\nTidbyt is a retro-style display that lets you keep up with the things you care about, like real time sports, transit, finance and more.\n\n![Image 1](https://tidbyt.com/cdn/shop/files/tbt-sbs-wb.png?v=1682364293&width=2048)\n\nGetting started\n\nGetting started\n\nGetting started\n\nGetting started\n\nGetting started\n\nGetting started\n\nGetting started\u00a0\n\nEasy to Setup\n\nPlug it in and pick from hundreds of apps. Choose what you want and Tidbyt cycles through it all.\n\n![Image 2](https://tidbyt.com/cdn/shop/files/sunrise-front_br-walnut.png?v=1683828051&width=375)\n\nFit Your Schedule\n\nUse your phone to adjust Tidbyt's brightness, put it in night mode, or have it rise and set with the sun.\n\n![Image 3](https://tidbyt.com/cdn/shop/files/appsplash-web_c2a52b7c-0a93-478b-b4d9-72f3b43d09b9.webp?v=1678666471&width=375)\n\nHundreds of Apps\n\nWith Tidbyt's ever-growing library of apps, it has something for everyone\n\n![Image 4](https://tidbyt.com/cdn/shop/files/breakfast.png?v=1684165593&width=375)\n\nControl from anywhere\n\nSend messages and pictures from anywhere in the world\n\n![Image 5](https://tidbyt.com/cdn/shop/files/tidbytdev.png?v=1677954239&width=375)\n\nBuild Your Own\n\nNew or experienced, Tidbyt is a fun and great way to get started with coding. Learn more at tidbyt.dev\n\npre-orders now open\n\nIntroducing Tidbyt Gen 2\n------------------------\n\nOur best display yet! Running all the same amazing apps as the original Tidbyt, Gen 2 comes with new features and improvements.\n\n![Image 6](https://tidbyt.com/cdn/shop/files/mlb-nyy-mil_soona_1.png?v=1682973510&width=2048)\n\nLive sports\n-----------\n\nLive scores on your terms with Tidbyt. Keep track of Football, Baseball, Basketball, and more during dinner, family visits, or whatever else is on your plate.\n\nFeatured in\n\nFeatured in\n\nFeatured in\n\nFeatured in\n\nFeatured in\n\nFeatured in\n\nFeatured in\n\nFeatured in\n\nFeatured in\u00a0\n\n![Image 7](https://tidbyt.com/cdn/shop/files/theverge.png?v=1683821454&width=1000)\n\n![Image 8](https://tidbyt.com/cdn/shop/files/Bitmap.png?v=1657401504&width=200)\n\n![Image 9](https://tidbyt.com/cdn/shop/files/cnet.png?v=1683821479&width=998)\n\n![Image 10](https://tidbyt.com/cdn/shop/files/9to5.png?v=1683823104&width=998)\n\n![Image 11](https://tidbyt.com/cdn/shop/files/spot-kitchen.png?v=1666667112&width=1361)\n\nNever miss a beat\n-----------------\n\nStay up to date on whats playing right now on Spotify and Sonos. Never miss your favorite new song again.\n\n![Image 12](https://tidbyt.com/cdn/shop/files/musiclogos.png?v=1665958936&width=320)\n\n![Image 13](https://tidbyt.com/cdn/shop/files/IMG_6123.jpg?v=1678123001&width=1536)\n\nGoogle home integration\n-----------------------\n\nShow the apps when you need them by asking your Nest speaker or the Google voice assistant on your phone.\n\nstocks clocks weather crypto music trains art headlines calendar photos messages football events tweets animations ferry social media golf github quotes stocks clocks weather crypto music trains art headlines calendar photos messages football events tweets animations ferry social media golf github quotes\u00a0\n\nstocks clocks weather crypto music trains art headlines calendar photos messages football events tweets animations ferry social media golf github quotes stocks clocks weather crypto music trains art headlines calendar photos messages football events tweets animations ferry social media golf github quotes\u00a0\n\nmeet your\n\nPersonal Pixel Display\n----------------------\n\n![Image 14](https://tidbyt.com/cdn/shop/files/HomepageChewie_R3_Edit_V4.png?v=1657401590&width=2990)\n\nFor Work\n--------\n\nConnect your team with Tidbyt. Celebrate company milestones, show recognition, display reminders, metrics and upcoming events.\n\n![Image 15](https://tidbyt.com/cdn/shop/files/b2bmock-2.png?v=1690312015&width=2048)\n\nPartnership Solutions\n---------------------\n\nTidbyt offers a unique way to connect with your customers and clients. Preload your own apps onto devices, develop in house apps for your company, engravings and much more. Explore some of our case studies to learn more.\n\n![Image 16](https://tidbyt.com/cdn/shop/files/mets-package-top.png?v=1683043813&width=2812)\n\nfeatured apps\n\nfeatured apps\n\nfeatured apps\n\nfeatured apps\n\nfeatured apps\n\nfeatured apps\n\nfeatured apps\u00a0\n\nstocks clocks weather crypto music trains art headlines calendar photos messages football events tweets animations ferry social media golf github quotes stocks clocks weather crypto music trains art headlines calendar photos messages football events tweets animations ferry social media golf github quotes\u00a0\n\nEasy to Setup\n-------------\n\nConnect your phone, select your apps, stay in the know.\n\n![Image 17](https://tidbyt.com/cdn/shop/files/IMG_7179.png?v=1683134101&width=1170)\n\n![Image 18](https://tidbyt.com/cdn/shop/files/IMG_7180.png?v=1683134080&width=1170)\n\nTidbyt keeps you updated on transit, weather and more. Leave your phone in your pocket.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "tidbyt",
+        "app_name": "Tidbyt",
+        "app_slug": "tidbyt",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.ONE_TIME"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Tidbyt appears to be a one-time purchase product without subscription tiers.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Standard",
+            "tier_description": "Tidbyt Gen 2 device.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Retro-style display",
+              "Hundreds of apps",
+              "Control via phone",
+              "Custom app development"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T05:52:28.627423",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\tidbyt\\20250415_055228"
+}

@@ -1,0 +1,285 @@
+{
+  "app_id": "trainheroic",
+  "app_name": "TrainHeroic",
+  "app_slug": "trainheroic",
+  "pricing_url": "https://www.trainheroic.com/pricing/#pricing",
+  "source_url": "https://www.trainheroic.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.trainheroic.com/pricing/#pricing",
+    "https://www.trainheroic.com/coach/#pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of athletes managed, with additional fees for assistant coaches.",
+  "pricing_tiers": [
+    {
+      "tier_name": "1 Athlete",
+      "tier_description": "Manage one athlete.",
+      "monthly_price": 9.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage one athlete"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Up to 5 Athletes",
+      "tier_description": "Manage up to 5 athletes.",
+      "monthly_price": 17.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage up to 5 athletes"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Up to 15 Athletes",
+      "tier_description": "Manage up to 15 athletes.",
+      "monthly_price": 34.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage up to 15 athletes"
+      ],
+      "limits": {
+        "users": 15,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Up to 25 Athletes",
+      "tier_description": "Manage up to 25 athletes.",
+      "monthly_price": 44.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage up to 25 athletes"
+      ],
+      "limits": {
+        "users": 25,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Up to 35 Athletes",
+      "tier_description": "Manage up to 35 athletes.",
+      "monthly_price": 59.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage up to 35 athletes"
+      ],
+      "limits": {
+        "users": 35,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Up to 50 Athletes",
+      "tier_description": "Manage up to 50 athletes.",
+      "monthly_price": 74.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage up to 50 athletes"
+      ],
+      "limits": {
+        "users": 50,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Up to 100 Athletes",
+      "tier_description": "Manage up to 100 athletes.",
+      "monthly_price": 99.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage up to 100 athletes"
+      ],
+      "limits": {
+        "users": 100,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Up to 250 Athletes",
+      "tier_description": "Manage up to 250 athletes.",
+      "monthly_price": 159.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage up to 250 athletes"
+      ],
+      "limits": {
+        "users": 250,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Up to 500 Athletes",
+      "tier_description": "Manage up to 500 athletes.",
+      "monthly_price": 199.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage up to 500 athletes"
+      ],
+      "limits": {
+        "users": 500,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Up to 750 Athletes",
+      "tier_description": "Manage up to 750 athletes.",
+      "monthly_price": 299.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage up to 750 athletes"
+      ],
+      "limits": {
+        "users": 750,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Up to 1000 Athletes",
+      "tier_description": "Manage up to 1000 athletes.",
+      "monthly_price": 399.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage up to 1000 athletes"
+      ],
+      "limits": {
+        "users": 1000,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "More than 1000 Athletes",
+      "tier_description": "Manage more than 1000 athletes.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage more than 1000 athletes"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Assistant Coaches",
+      "unit": "per coach per month",
+      "base_price": 9.99,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:10:21.042624",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f3eabe69-efac-430e-95f2-029b77dc7325",
+    "name": "TrainHeroic",
+    "slug": "trainheroic",
+    "description": "TrainHeroic is a training tool to help coaches and athletes achieve their fitness goals.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/20463f8327a7e26abb6bcc19863ff800.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fitness"
+    ],
+    "category_slugs": [
+      "fitness"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 7
+  }
+}

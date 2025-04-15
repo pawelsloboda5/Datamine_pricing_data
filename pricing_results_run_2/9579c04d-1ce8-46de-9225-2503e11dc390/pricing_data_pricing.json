@@ -1,0 +1,147 @@
+{
+  "app_id": "docusign",
+  "app_name": "Docusign",
+  "app_slug": "docusign",
+  "pricing_url": "https://www.docusign.com/pricing",
+  "source_url": "https://docusign.com/pricing",
+  "all_pricing_urls": [
+    "https://www.docusign.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes options for individual and team plans with AI features and additional usage-based add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "IAM Starter",
+      "tier_description": "For individuals who need to manage agreements with AI.",
+      "monthly_price": 40.0,
+      "annual_price": 480.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "AI-assisted agreement management",
+        "100 envelopes per year"
+      ],
+      "limits": {
+        "users": "1-50",
+        "storage": null,
+        "operations": 100,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "IAM Standard",
+      "tier_description": "For small teams who need complex workflows and an AI repository.",
+      "monthly_price": 45.0,
+      "annual_price": 540.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "AI-assisted agreement management",
+        "Unlimited envelopes",
+        "Complex workflows"
+      ],
+      "limits": {
+        "users": "3-50",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "IAM Professional",
+      "tier_description": "For larger teams scaling workflows with forms, automation, and AI.",
+      "monthly_price": 75.0,
+      "annual_price": 900.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "AI-assisted agreement management",
+        "Unlimited envelopes",
+        "Advanced automation"
+      ],
+      "limits": {
+        "users": "3-50",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS or WhatsApp delivery",
+      "unit": "per delivery",
+      "base_price": 0.4,
+      "tiers": null
+    },
+    {
+      "metric_name": "ID verification",
+      "unit": "per attempt",
+      "base_price": 2.5,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Plan Discount",
+      "offer_description": "Save up to 40% on annual plans.",
+      "discount_percentage": 40.0,
+      "offer_url": "https://www.docusign.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Tax",
+      "fee_amount": null,
+      "fee_description": "Additional tax may apply."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:14:18.136064",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9579c04d-1ce8-46de-9225-2503e11dc390",
+    "name": "Docusign",
+    "slug": "docusign",
+    "description": "Docusign is an electronic signature technology and digital transaction management service for facilitating electronic exchanges of signed documents.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/3325cfae16462eea9d7138df9eb75e9a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Signatures"
+    ],
+    "category_slugs": [
+      "signatures"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 1
+  }
+}

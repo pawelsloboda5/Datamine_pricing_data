@@ -1,0 +1,282 @@
+{
+  "app_id": "zendesk",
+  "app_name": "Zendesk",
+  "app_slug": "zendesk",
+  "pricing_url": "https://www.zendesk.com/pricing",
+  "source_url": "https://www.zendesk.com/pricing",
+  "all_pricing_urls": [
+    "https://www.zendesk.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription-based plans with additional usage-based options for AI resolutions and other add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Suite Team",
+      "tier_description": "Great for small businesses, offering essential tools for customer service.",
+      "monthly_price": 69.0,
+      "annual_price": 55.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Ticketing system",
+        "Email, chat, voice, social messaging",
+        "Help center",
+        "Generative search",
+        "AI agents",
+        "Prebuilt analytics dashboards",
+        "1,000+ apps & integrations",
+        "Pre-defined responses",
+        "Custom business rules",
+        "Online support",
+        "Digital onboarding resources"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10 GB + 50 MB/agent",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Departments",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Suite Growth",
+      "tier_description": "Enhanced self-service and automation capabilities for scaling businesses.",
+      "monthly_price": 115.0,
+      "annual_price": 89.0,
+      "annual_discount_percentage": 22.6,
+      "setup_fee": null,
+      "features": [
+        "Ticketing system",
+        "Email, chat, voice, social messaging",
+        "Help center",
+        "Generative search",
+        "AI agents",
+        "Prebuilt analytics dashboards",
+        "1,000+ apps & integrations",
+        "Pre-defined responses",
+        "Custom business rules",
+        "Online support",
+        "Digital onboarding resources",
+        "Multiple ticket forms",
+        "Light Agents",
+        "Service level agreements",
+        "Customer satisfaction ratings",
+        "Multilingual support",
+        "Self-service customer portal",
+        "Business hours"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10 GB + 100 MB/agent",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Departments",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Suite Professional",
+      "tier_description": "Optimized operations with collaboration tools and advanced analytics.",
+      "monthly_price": 149.0,
+      "annual_price": 115.0,
+      "annual_discount_percentage": 22.8,
+      "setup_fee": null,
+      "features": [
+        "Ticketing system",
+        "Email, chat, voice, social messaging",
+        "Help center",
+        "Generative search",
+        "AI agents",
+        "Prebuilt analytics dashboards",
+        "1,000+ apps & integrations",
+        "Pre-defined responses",
+        "Custom business rules",
+        "Online support",
+        "Digital onboarding resources",
+        "Multiple ticket forms",
+        "Light Agents",
+        "Service level agreements",
+        "Customer satisfaction ratings",
+        "Multilingual support",
+        "Self-service customer portal",
+        "Business hours",
+        "Custom and live analytics",
+        "Side conversations",
+        "Skills-based routing",
+        "Integrated community forums",
+        "Data location options",
+        "HIPAA enabled",
+        "Access to Sunshine Conversations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10 GB + 100 MB/agent",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Departments",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Suite Enterprise",
+      "tier_description": "Personalized experiences at scale with advanced AI and custom roles.",
+      "monthly_price": 219.0,
+      "annual_price": 169.0,
+      "annual_discount_percentage": 22.8,
+      "setup_fee": null,
+      "features": [
+        "Ticketing system",
+        "Email, chat, voice, social messaging",
+        "Help center",
+        "Generative search",
+        "AI agents",
+        "Prebuilt analytics dashboards",
+        "1,000+ apps & integrations",
+        "Pre-defined responses",
+        "Custom business rules",
+        "Online support",
+        "Digital onboarding resources",
+        "Multiple ticket forms",
+        "Light Agents",
+        "Service level agreements",
+        "Customer satisfaction ratings",
+        "Multilingual support",
+        "Self-service customer portal",
+        "Business hours",
+        "Custom and live analytics",
+        "Side conversations",
+        "Skills-based routing",
+        "Integrated community forums",
+        "Data location options",
+        "HIPAA enabled",
+        "Access to Sunshine Conversations",
+        "Sandbox",
+        "AI-powered Content Cues",
+        "Content blocks",
+        "Custom agent roles",
+        "Dynamic, Contextual workspaces"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10 GB + 200 MB/agent",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Departments",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Automated Resolutions",
+      "unit": "per resolution",
+      "base_price": 2.0,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 10000.0,
+          "price": 1.5
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": true,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Startup Offer",
+      "offer_description": "Startups get Zendesk free for six months.",
+      "discount_percentage": null,
+      "offer_url": "https://www.zendesk.com/startups",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Copilot Add-on",
+      "fee_amount": 50.0,
+      "fee_description": "AI-powered tools for agents and workflows."
+    },
+    {
+      "fee_name": "Workforce Management Add-on",
+      "fee_amount": 25.0,
+      "fee_description": "Scheduling solution with AI forecasting."
+    },
+    {
+      "fee_name": "Quality Assurance Add-on",
+      "fee_amount": 35.0,
+      "fee_description": "Analyze conversations across agents and channels."
+    },
+    {
+      "fee_name": "Workforce Engagement Bundle",
+      "fee_amount": 50.0,
+      "fee_description": "Bundle of Workforce Management and Quality Assurance."
+    },
+    {
+      "fee_name": "Advanced Data Privacy and Protection Add-on",
+      "fee_amount": 50.0,
+      "fee_description": "Extra layer of protection and privacy."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:37:48.659798",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "09071bf9-8d79-49e5-91f0-df252b036671",
+    "name": "Zendesk",
+    "slug": "zendesk",
+    "description": "Zendesk is a web-based help desk support tool that makes it simple to provide great customer support.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/45e89018e756b043d806701f17dc2632.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 21,
+    "trigger_count": 8
+  }
+}

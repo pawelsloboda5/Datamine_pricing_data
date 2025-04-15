@@ -1,0 +1,132 @@
+{
+  "app_id": "messagebird",
+  "app_name": "MessageBird",
+  "app_slug": "messagebird",
+  "pricing_url": "https://www.messagebird.com/en/pricing",
+  "source_url": "https://www.messagebird.com/en/pricing",
+  "all_pricing_urls": [
+    "https://www.messagebird.com/en/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of contacts and includes additional fees for SMS and WhatsApp usage.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Marketing - Basic",
+      "tier_description": "For businesses targeting up to 3,000 contacts monthly.",
+      "monthly_price": 45.0,
+      "annual_price": 540.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 30,000 Email, SMS, or WhatsApp sends",
+        "Global coverage for SMS and WhatsApp",
+        "Journeys, CDP, Templates, Integrations",
+        "GDPR compliance & enterprise features",
+        "Custom support plans",
+        "Advanced deliverability services"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly Contacts",
+            "value": 3000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Marketing - Enterprise",
+      "tier_description": "For businesses targeting more than 50,000 contacts monthly.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Email, SMS, or WhatsApp sends",
+        "Global coverage for SMS and WhatsApp",
+        "Journeys, CDP, Templates, Integrations",
+        "GDPR compliance & enterprise features",
+        "Custom support plans",
+        "Advanced deliverability services"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly Contacts",
+            "value": "50,000+"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS",
+      "unit": "per SMS",
+      "base_price": 0.00331,
+      "tiers": null
+    },
+    {
+      "metric_name": "WhatsApp",
+      "unit": "per marketing conversation",
+      "base_price": 0.0425,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "WhatsApp Meta Fees",
+      "fee_amount": null,
+      "fee_description": "Fees charged by Meta for WhatsApp usage."
+    },
+    {
+      "fee_name": "Third-party SMS Fees",
+      "fee_amount": null,
+      "fee_description": "Carrier fees for SMS services."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:01:06.949851",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "995e42ec-dde5-452f-a815-270f7299bcb0",
+    "name": "MessageBird",
+    "slug": "messagebird",
+    "description": "Send SMS and voice messages to any country. Easily done via our website, email or your own software (API). No setup fees. No monthly fees.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/13c1832bd352ae605dac38d80a9b5902_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

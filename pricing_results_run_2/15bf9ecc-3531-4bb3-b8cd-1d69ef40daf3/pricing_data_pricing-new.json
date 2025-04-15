@@ -1,0 +1,43 @@
+{
+  "app_id": "timely_time_tracking",
+  "app_name": "Timely Time Tracking",
+  "app_slug": "timely-time-tracking",
+  "pricing_url": null,
+  "source_url": "https://timelyapp.com/design/pricing-new",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page or details were not accessible from the provided content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:49:19.843191",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "15bf9ecc-3531-4bb3-b8cd-1d69ef40daf3",
+    "name": "Timely Time Tracking",
+    "slug": "timely-time-tracking",
+    "description": "Timely Time Tracking automates company time tracking, so everyone can focus on the work that matters.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/396784d1860427b15383008d61f2a5b7_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Time Tracking Software"
+    ],
+    "category_slugs": [
+      "time-tracking"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 13,
+    "trigger_count": 7
+  }
+}

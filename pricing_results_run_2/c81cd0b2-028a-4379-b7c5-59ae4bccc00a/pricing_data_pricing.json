@@ -1,0 +1,45 @@
+{
+  "app_id": "foxy_io",
+  "app_name": "Foxy.io",
+  "app_slug": "foxy-io",
+  "pricing_url": "https://www.foxy.io/pricing/",
+  "source_url": "https://www.foxy.io/pricing",
+  "all_pricing_urls": [
+    "https://www.foxy.io/pricing/"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page was not accessible, and no specific pricing details could be extracted.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:32:38.060904",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c81cd0b2-028a-4379-b7c5-59ae4bccc00a",
+    "name": "Foxy.io",
+    "slug": "foxy-io",
+    "description": "Foxy.io is a secure checkout system that can be added to any website to sell your products, subscriptions, downloadables and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/d603cad761f73464f1ae2d9a1189126d_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

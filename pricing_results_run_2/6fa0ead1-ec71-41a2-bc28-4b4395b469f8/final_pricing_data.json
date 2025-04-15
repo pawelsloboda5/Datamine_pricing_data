@@ -1,0 +1,91 @@
+{
+  "app_id": "microsoft_to_do",
+  "app_name": "Microsoft To Do",
+  "app_slug": "microsoft-to-do",
+  "pricing_url": null,
+  "source_url": "https://support.microsoft.com/en-us/office/which-accounts-can-i-use-microsoft-to-do-with-b0eef0e0-9077-435c-9d65-0fff24e2766e",
+  "all_pricing_urls": [
+    "https://support.microsoft.com/en-us/office/which-accounts-can-i-use-microsoft-to-do-with-b0eef0e0-9077-435c-9d65-0fff24e2766e"
+  ],
+  "price_model_type": [
+    "free_tier",
+    "subscription"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Microsoft To Do is free for personal Microsoft Accounts and included in various Microsoft 365 subscription plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Available for personal Microsoft Accounts.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Task management",
+        "Integration with Microsoft services"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Microsoft 365 Subscription",
+      "tier_description": "Included in various Microsoft 365 plans for work or school accounts.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced task management",
+        "Integration with Microsoft 365 services"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:26:55.319309",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6fa0ead1-ec71-41a2-bc28-4b4395b469f8",
+    "name": "Microsoft To Do",
+    "slug": "microsoft-todo",
+    "description": "Microsoft To Do is an intelligent task management app that makes it easy to plan and manage your day. With its intelligent Suggestions, To Do removes all the clutter and empowers you to focus on what's important, when it's important.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/3588dbd8934cefe869f0db3727208374.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Microsoft",
+      "Project Management"
+    ],
+    "category_slugs": [
+      "microsoft",
+      "todo-lists"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 3
+  }
+}

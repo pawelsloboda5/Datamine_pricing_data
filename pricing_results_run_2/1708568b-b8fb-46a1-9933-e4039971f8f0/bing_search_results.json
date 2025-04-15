@@ -1,0 +1,51 @@
+{
+  "app_name": "Salla",
+  "app_slug": "salla",
+  "search_term": "Find the official pricing page URL for Salla (salla.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744713136.1019123,
+  "response_text": [
+    "The official pricing page for Salla can be found at this exact URL: [https://salla.sa/packages](https://salla.sa/packages)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Salla packages: Various options that serve your business ambitions",
+      "url": "https://salla.com/en/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://salla.com/en/pricing/",
+      "is_accessible": true,
+      "content": "salla.com\n---------\n\nVerifying you are human. This may take a few seconds.\n\nsalla.com needs to review the security of your connection before proceeding.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "salla",
+        "app_name": "Salla",
+        "app_slug": "salla",
+        "pricing_url": null,
+        "source_url": "https://salla.com",
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing information could not be extracted due to access restrictions.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T06:32:25.636796",
+        "schema_validated": true,
+        "confidence_score": null,
+        "extraction_error": true,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\salla\\20250415_063226"
+}

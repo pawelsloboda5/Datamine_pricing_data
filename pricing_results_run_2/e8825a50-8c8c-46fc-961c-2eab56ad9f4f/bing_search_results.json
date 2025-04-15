@@ -1,0 +1,46 @@
+{
+  "app_name": "Runrun.it",
+  "app_slug": "runrunit",
+  "search_term": "Find the official pricing page URL for Runrun.it (runrunit.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744704108.3752599,
+  "response_text": [
+    "Here is the URL to the official pricing page for Runrun.it: [https://runrun.it/en-US/plans](https://runrun.it/en-US/plans)  ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://runrun.it/en-US/plans",
+      "is_accessible": true,
+      "content": "![Image 1](https://runrun.it/static/images/logo_grande.jpg)\n\n404 Error - Not Found\n\naafa806f-ffbb-4ace-bf17-dd6aace56143",
+      "error": null,
+      "pricing_data": {
+        "app_id": "runrun_it",
+        "app_name": "Runrun.it",
+        "app_slug": "runrun-it",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page was not accessible, and no details could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T04:01:57.086594",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\runrunit\\20250415_040157"
+}

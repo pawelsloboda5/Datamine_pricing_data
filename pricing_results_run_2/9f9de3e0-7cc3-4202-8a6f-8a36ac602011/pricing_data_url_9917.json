@@ -1,0 +1,131 @@
+{
+  "app_id": "snowflake",
+  "app_name": "Snowflake",
+  "app_slug": "snowflake",
+  "pricing_url": "https://www.snowflake.com/en/pricing-options/",
+  "source_url": "https://www.snowflake.com/en/pricing-options/",
+  "all_pricing_urls": [
+    "https://www.snowflake.com/en/pricing-options/"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on usage credits and storage, with different tiers offering additional features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Introductory offering providing access to core platform functionality.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Core platform functionality",
+        "Fully managed elastic compute",
+        "Automatic encryption",
+        "Snowpark",
+        "Data sharing",
+        "Optimized storage with compression",
+        "Time travel"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For companies with large-scale data initiatives looking for more granular enterprise controls.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Multi-cluster compute",
+        "Granular governance and privacy controls",
+        "Extended Time Travel windows"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Business Critical",
+      "tier_description": "Specialized functionality for highly regulated industries, especially those with sensitive data.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Tri-Secret Secure",
+        "Private connectivity",
+        "Failover and failback for backup and disaster recovery"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Virtual Private Snowflake",
+      "tier_description": "Completely separate Snowflake environment, isolated from all other Snowflake accounts.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features of Business Critical Edition"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Compute Credits",
+      "unit": "per credit",
+      "base_price": 2.0,
+      "tiers": [
+        {
+          "min": null,
+          "max": null,
+          "price": 2.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Storage",
+      "unit": "per TB per month",
+      "base_price": 23.0,
+      "tiers": [
+        {
+          "min": null,
+          "max": null,
+          "price": 23.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:17:25.539897",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9f9de3e0-7cc3-4202-8a6f-8a36ac602011",
+    "name": "Snowflake",
+    "slug": "snowflake",
+    "description": "Snowflake allows corporate users to store and analyze data using cloud-based hardware and software.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/2410881b323452a119929a0b61b89de6_10.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Databases"
+    ],
+    "category_slugs": [
+      "databases"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 3
+  }
+}

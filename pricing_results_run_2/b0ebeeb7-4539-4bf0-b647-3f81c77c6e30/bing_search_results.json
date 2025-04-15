@@ -1,0 +1,30 @@
+{
+  "app_name": "SuiteDash",
+  "app_slug": "suitedash",
+  "search_term": "Find the official pricing page URL for SuiteDash (suitedash.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744695671.633042,
+  "response_text": [
+    "The official pricing page for SuiteDash is: [https://www.suitedash.com/pricing/](https://www.suitedash.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing :: SuiteDash :: White Label Client Portal Software, CRM, File ...",
+      "url": "https://suitedash.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://suitedash.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    },
+    {
+      "url": "https://www.suitedash.com/pricing/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\suitedash\\20250415_014113"
+}

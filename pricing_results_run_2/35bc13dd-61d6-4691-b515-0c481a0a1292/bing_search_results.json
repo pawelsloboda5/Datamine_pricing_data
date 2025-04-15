@@ -1,0 +1,268 @@
+{
+  "app_name": "Superchat",
+  "app_slug": "superchat",
+  "search_term": "Find the official pricing page URL for Superchat (superchat.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744715762.054715,
+  "response_text": [
+    "The official pricing page URL for Superchat is: [https://www.superchat.com/prices](https://www.superchat.com/prices)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Our prices - Superchat",
+      "url": "https://www.superchat.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.superchat.com/prices",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    },
+    {
+      "url": "https://www.superchat.com/pricing",
+      "is_accessible": true,
+      "content": "Our prices\n===============\n\n[](https://www.superchat.com/)\n\n*   Product\n*   Industries\n*   Customers\n*   Prices\n*   Resources\n*   About us\n\n*   [Login](https://app.superchat.de/)\n    \n*   [Contact sales](https://www.superchat.com/demo)\n    \n*   [Try for free](https://app.superchat.de/?signup=true)\n    \n*   [Talk to sales](https://www.superchat.com/demo)\n    \n\nAll plans and prices at a glance\n================================\n\nCompare our plans and find the right one for your company.\n\n![Image 1: meta](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmeta-business-partners-vertical-card.d31a783f.png&w=3840&q=75)\n\n![Image 2: badge](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Feurope-leader-messaging.c8a27ce7.png&w=3840&q=75)\n\n![Image 3: badge](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhigh-performer.28fbdf26.png&w=3840&q=75)\n\nBilling\n\n*   Annually\n    \n*   Monthly\n    \n\nFree\n\nPerfect for getting started\n\n![Image 4: Free](blob:http://localhost/74b5ab9295fe2d88dd0e2a934de61848)\n\n\u20ac 0\n---\n\n/ monthly\n\n[Try for free](https://app.superchat.de/?signup=true)\n\n[Contact sales](https://www.superchat.com/demo)\n\nOverview\n--------\n\n*   1 integrated number\n*   1 Employee access\n*   30 active contacts\n\nHighlights\n----------\n\n*   Unified Inbox\n*   WhatsApp Newsletter\n*   Automations\n*   AI Chatbot\n*   Integrations\n*   Personal onboarding\n\nBasic\n\nIdeal for smaller teams\n\n![Image 5: Basic](blob:http://localhost/9728eba3ac7f3ebb99f08600478aa71c)\n\n\u20ac89\n\n\\-11% Discount\n\n\u20ac 79\n----\n\n/ monthly\n\n[Try for free](https://app.superchat.de/?signup=true)\n\n[Contact sales](https://www.superchat.com/demo)\n\nOverview\n--------\n\n*   1 integrated number\n*   3 users\n*   Unlimited contacts\n\nEverything from Free, plus\n--------------------------\n\n*   Personal onboarding\n*   Review Management\n*   AI Chatbot\n*   Integrations\n\nMost popular \u2728\n\nProfessional\n\nPerfect for medium sized teams\n\n![Image 6: Professional](blob:http://localhost/9e3abff1bf418d99b44faa4a900854ea)\n\n\u20ac149\n\n\\-13% Discount\n\n\u20ac 129\n-----\n\n/ monthly\n\n[Try for free](https://app.superchat.de/?signup=true)\n\n[Contact sales](https://www.superchat.com/demo)\n\nOverview\n--------\n\n*   3 integrated numbers\n*   10 users\n*   Unlimited contacts\n\nEverything from Basic, plus\n---------------------------\n\n*   AI Chatbot\n*   Personalized Webchat\n*   Integrations can be added\n*   Analytics add-on available\n*   Industry-specific onboarding\n\nAdvanced\n\nOptimal for medium-sized companies\n\n![Image 7: Advanced](blob:http://localhost/c049db774bb0f74502c13b110a153c3f)\n\n\u20ac299\n\n\\-16% Discount\n\n\u20ac 249\n-----\n\n/ monthly\n\n[Try for free](https://app.superchat.de/?signup=true)\n\n[Contact sales](https://www.superchat.com/demo)\n\nOverview\n--------\n\n*   5 integrated numbers\n*   25 users\n*   Unlimited contacts\n\nEverything from Professional, plus\n----------------------------------\n\n*   Integration included\n*   Premium chat support\n*   User training\n\nEnterprise\n\nFor large teams with specific requirements.\n\n![Image 8: Enterprise](https://www.superchat.com/_next/static/media/5.3a7ea636.svg)\n\nOn request\n----------\n\n[Contact sales](https://www.superchat.com/enterprise)\n\n[Contact sales](https://www.superchat.com/enterprise)\n\nOverview\n--------\n\n*   Suitable for companies with 500+ employees\n\nEverything from Premium, plus\n-----------------------------\n\n*   Custom plan configration\n*   Tailored support & guidance\n*   Enterprise-level security and control\n\nCompare all plans\n\n![Image 9: Consulting illustration](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fconsulting-banner.bcdf70ca.png&w=3840&q=75)\n\nDiscover our premium consulting services\n----------------------------------------\n\n### Tailored solutions: Our experts develop and implement strategies perfectly suited to your needs.\n\nBook a free consultation\n\n5000+ companies  \nalready trust us\n\n![Image 10: customer logo 1](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-1.f171d13d.png&w=384&q=75)\n\n![Image 11: customer logo 2](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-2.d17f6679.png&w=384&q=75)\n\n![Image 12: customer logo 3](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-3.ff66465e.png&w=384&q=75)\n\n![Image 13: customer logo 4](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-5.97715e12.png&w=384&q=75)\n\n![Image 14: customer logo 5](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-6.4425442b.png&w=384&q=75)\n\n![Image 15: customer logo 6](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-7.504f1249.png&w=384&q=75)\n\n![Image 16: customer logo 7](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-8.2cf37d2f.png&w=256&q=75)\n\n![Image 17: customer logo 8](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-9.2a0ce642.png&w=384&q=75)\n\n![Image 18: customer logo 9](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-10.6bdb2b84.png&w=384&q=75)\n\n![Image 19: customer logo 10](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-11.96572ffa.png&w=384&q=75)\n\n![Image 20: customer logo 11](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-12.17c6bdd0.png&w=384&q=75)\n\n![Image 21: customer logo 12](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-13.52f2d8a9.png&w=384&q=75)\n\n![Image 22: customer logo 13](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-14.d6c205d2.png&w=384&q=75)\n\n![Image 23: customer logo 14](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-15.5b61a252.png&w=640&q=75)\n\n![Image 24: customer logo 15](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-16.38528d6c.png&w=384&q=75)\n\n![Image 25: customer logo 16](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-17.a03ce962.png&w=384&q=75)\n\n![Image 26: customer logo 17](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-18.7ff53ffa.png&w=384&q=75)\n\n![Image 27: customer logo 1](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-1.f171d13d.png&w=384&q=75)\n\n![Image 28: customer logo 2](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-2.d17f6679.png&w=384&q=75)\n\n![Image 29: customer logo 3](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-3.ff66465e.png&w=384&q=75)\n\n![Image 30: customer logo 4](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-5.97715e12.png&w=384&q=75)\n\n![Image 31: customer logo 5](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-6.4425442b.png&w=384&q=75)\n\n![Image 32: customer logo 6](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-7.504f1249.png&w=384&q=75)\n\n![Image 33: customer logo 7](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-8.2cf37d2f.png&w=256&q=75)\n\n![Image 34: customer logo 8](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-9.2a0ce642.png&w=384&q=75)\n\n![Image 35: customer logo 9](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-10.6bdb2b84.png&w=384&q=75)\n\n![Image 36: customer logo 10](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-11.96572ffa.png&w=384&q=75)\n\n![Image 37: customer logo 11](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-12.17c6bdd0.png&w=384&q=75)\n\n![Image 38: customer logo 12](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-13.52f2d8a9.png&w=384&q=75)\n\n![Image 39: customer logo 13](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-14.d6c205d2.png&w=384&q=75)\n\n![Image 40: customer logo 14](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-15.5b61a252.png&w=640&q=75)\n\n![Image 41: customer logo 15](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-16.38528d6c.png&w=384&q=75)\n\n![Image 42: customer logo 16](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-17.a03ce962.png&w=384&q=75)\n\n![Image 43: customer logo 17](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-18.7ff53ffa.png&w=384&q=75)\n\n![Image 44: customer logo 1](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-1.f171d13d.png&w=384&q=75)\n\n![Image 45: customer logo 2](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-2.d17f6679.png&w=384&q=75)\n\n![Image 46: customer logo 3](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-3.ff66465e.png&w=384&q=75)\n\n![Image 47: customer logo 4](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-5.97715e12.png&w=384&q=75)\n\n![Image 48: customer logo 5](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-6.4425442b.png&w=384&q=75)\n\n![Image 49: customer logo 6](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-7.504f1249.png&w=384&q=75)\n\n![Image 50: customer logo 7](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-8.2cf37d2f.png&w=256&q=75)\n\n![Image 51: customer logo 8](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-9.2a0ce642.png&w=384&q=75)\n\n![Image 52: customer logo 9](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-10.6bdb2b84.png&w=384&q=75)\n\n![Image 53: customer logo 10](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-11.96572ffa.png&w=384&q=75)\n\n![Image 54: customer logo 11](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-12.17c6bdd0.png&w=384&q=75)\n\n![Image 55: customer logo 12](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-13.52f2d8a9.png&w=384&q=75)\n\n![Image 56: customer logo 13](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-14.d6c205d2.png&w=384&q=75)\n\n![Image 57: customer logo 14](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-15.5b61a252.png&w=640&q=75)\n\n![Image 58: customer logo 15](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-16.38528d6c.png&w=384&q=75)\n\n![Image 59: customer logo 16](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-17.a03ce962.png&w=384&q=75)\n\n![Image 60: customer logo 17](https://www.superchat.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-18.7ff53ffa.png&w=384&q=75)\n\nFind the plan that suits you\n----------------------------\n\nCompare all plans and features to find the right Superchat plan for you and your team.\n\n| \nAbrechnung\n\n*   Annually\n    \n*   Monthly\n    \n\n | \n\n### Free\n\n\u20ac 0 / monatlich\n\n[Try for freeTry for free](https://app.superchat.de/?signup=true)\n\n | \n\n### Basic\n\n\u20ac 79 / monatlich\n\n[Try for freeTry for free](https://app.superchat.de/?signup=true)\n\n | \n\n### Professional\n\n\u20ac 129 / monatlich\n\n[Try for freeTry for free](https://app.superchat.de/?signup=true)\n\n | \n\n### Advanced\n\n\u20ac 249 / monatlich\n\n[Try for freeTry for free](https://app.superchat.de/?signup=true)\n\n | \n\n### Enterprise\n\nOn request\n\n[Contact salesContact sales](https://www.superchat.com/enterprise)\n\n |\n| --- | --- | --- | --- | --- | --- |\n| \n\n#### Overview\n\n\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Communication channels\n\n\n\n\n\n | \n\nWhatsApp, Instagram, Facebook Messenger, Telegram, Live Chat, Email\n\n\n\n | \n\nWhatsApp, Instagram, Facebook Messenger, Telegram, Live Chat, Email\n\n\n\n | \n\nWhatsApp, Instagram, Facebook Messenger, Telegram, Live Chat, Email\n\n\n\n | \n\nWhatsApp, Instagram, Facebook Messenger, Telegram, Live Chat, Email\n\n\n\n | \n\nWhatsApp, Instagram, Facebook Messenger, Telegram, Live Chat, Email\n\n\n\n |\n| \n\n#### Integrated numbers\n\n\n\n\n\n | \n\n1\n\n\n\n | \n\n1\n\n\n\n | \n\n3\n\n\n\n | \n\n5\n\n\n\n | \n\nCustom\n\n\n\n |\n| \n\n#### Accounts\n\n\n\n\n\n | \n\n1\n\n\n\n | \n\n3\n\n\n\n | \n\n10\n\n\n\n | \n\n25\n\n\n\n | \n\nCustom\n\n\n\n |\n| \n\n#### Active contacts\n\n\n\n\n\n | \n\n30 monthly\n\n\n\n | \n\nUnlimited\n\n\n\n | \n\nUnlimited\n\n\n\n | \n\nUnlimited\n\n\n\n | \n\nCustom\n\n\n\n |\n| \n\n#### AI Chatbot\n\n\n\n\n\n | \n\n | \n\n | \n\n1\n\n\n\n | \n\n2\n\n\n\n | \n\nCustom\n\n\n\n |\n| \n\n#### Automation Tasks\n\n\n\n\n\n | \n\n500\n\n\n\n | \n\n1,500\n\n\n\n | \n\n4,000\n\n\n\n | \n\n12,000\n\n\n\n | \n\nCustom\n\n\n\n |\n| \n\n#### WhatsApp conversations\n\n\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Initiated by contact\n\n\n\n\n\n | \n\nFree\n\n\n\n | \n\nFree\n\n\n\n | \n\nFree\n\n\n\n | \n\nFree\n\n\n\n | \n\nFree\n\n\n\n |\n| \n\n#### Initiated by the company\n\n\n\n\n\n | \n\n\u20ac0.05 to \u20ac0.11\n\n\n\n | \n\n\u20ac0.05 to \u20ac0.11\n\n\n\n | \n\n\u20ac0.05 to \u20ac0.11\n\n\n\n | \n\n\u20ac0.05 to \u20ac0.11\n\n\n\n | \n\n\u20ac0.05 to \u20ac0.11\n\n\n\n |\n| \n\n#### Superchat bonus\n\n\n\n\n\n | \n\n | \n\n\u20ac10\n\n\n\n | \n\n\u20ac25\n\n\n\n | \n\n\u20ac40\n\n\n\n | \n\nOn request\n\n\n\n |\n| \n\n#### Functions\n\nUniversal inbox\n\n\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Universal Inbox\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Templates\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Chat labels\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Employee assignment\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Internal notes\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Mobile app\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Custom conversation views\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Analytics\n\n\n\n\n\n | \n\n | \n\n | \n\n[Add-on](https://www.superchat.com/pricing#add-ons)\n\n\n\n | \n\n[Add-on](https://www.superchat.com/pricing#add-ons)\n\n\n\n | \n\n |\n| \n\n#### AI Co-Pilot\n\n\n\n\n\n | \n\n | \n\n | \n\n[Add-on](https://www.superchat.com/pricing#add-ons)\n\n\n\n | \n\n[Add-on](https://www.superchat.com/pricing#add-ons)\n\n\n\n | \n\n |\n| \n\nAutomations & AI\n\n\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Included Automations\n\n\n\n\n\n | \n\n2\n\n\n\n | \n\n2\n\n\n\n | \n\n8\n\n\n\n | \n\n16\n\n\n\n | \n\nCustom\n\n\n\n |\n| \n\n#### Tasks\n\n\n\n\n\n | \n\n500\n\n\n\n | \n\n1,500\n\n\n\n | \n\n4,000\n\n\n\n | \n\n12,000\n\n\n\n | \n\nCustom\n\n\n\n |\n| \n\n#### AI Chatbots\n\n\n\n\n\n | \n\n | \n\n | \n\n1\n\n\n\n | \n\n2\n\n\n\n | \n\nCustom\n\n\n\n |\n| \n\n#### AI-generated Responses\n\n\n\n\n\n | \n\n | \n\n | \n\n500\n\n\n\n | \n\n1,500\n\n\n\n | \n\nCustom\n\n\n\n |\n| \n\nWhatsApp Newsletter\n\n\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Included range\n\n\n\n\n\n | \n\n30\n\n\n\n | \n\n100\n\n\n\n | \n\n100\n\n\n\n | \n\n100\n\n\n\n | \n\nCustom\n\n\n\n |\n| \n\n#### Increase range\n\n\n\n\n\n | \n\n | \n\n[Add-on](https://www.superchat.com/pricing#add-ons)\n\n\n\n | \n\n[Add-on](https://www.superchat.com/pricing#add-ons)\n\n\n\n | \n\n[Add-on](https://www.superchat.com/pricing#add-ons)\n\n\n\n | \n\nCustom\n\n\n\n |\n| \n\n#### Custom contact views\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Touchpoints\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Performance Metrics\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\nWebchat\n\n\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Chat widget\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Own design\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Own links\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Remove Superchat logo\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\nIntegrations\n\n\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Zapier\n\n\n\n\n\n | \n\n | \n\n | \n\n[Add-on](https://www.superchat.com/pricing#add-ons)\n\n\n\n | \n\n | \n\n |\n| \n\n#### Make\n\n\n\n\n\n | \n\n | \n\n | \n\n[Add-on](https://www.superchat.com/pricing#add-ons)\n\n\n\n | \n\n | \n\n |\n| \n\n#### HubSpot\n\n\n\n\n\n | \n\n | \n\n | \n\n[Add-on](https://www.superchat.com/pricing#add-ons)\n\n\n\n | \n\n | \n\n |\n| \n\n#### API\n\n\n\n\n\n | \n\n | \n\n | \n\n[Add-on](https://www.superchat.com/pricing#add-ons)\n\n\n\n | \n\n | \n\n |\n| \n\nReview Management\n\n\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Send evaluation requests\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Manage ratings\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Google Integration\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\nTeam chat\n\n\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Direct messages\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Group messages\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Threads\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\nAdmin & Security\n\n\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Role-based access\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Two-Factor-Authentication\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Support\n\n\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Onboarding\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Chat support\n\n\n\n\n\n | \n\nDefault\n\n\n\n | \n\nStandard\n\n\n\n | \n\nStandard\n\n\n\n | \n\nPremium\n\n\n\n | \n\nEnterprise\n\n\n\n |\n| \n\n#### Customer Success Manager\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### User training\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n| \n\n#### Account Manager\n\n\n\n\n\n | \n\n | \n\n | \n\n | \n\n | \n\n |\n\nOverview\n\n#### Communication channels\n\n#### Integrated numbers\n\n#### Accounts\n\n#### Active contacts\n\n#### AI Chatbot\n\n#### Automation Tasks\n\nWhatsApp conversations\n\n#### Initiated by contact\n\n#### Initiated by the company\n\n#### Superchat bonus\n\nFunctions\n\nUniversal inbox\n\n#### Universal Inbox\n\n#### Templates\n\n#### Chat labels\n\n#### Employee assignment\n\n#### Internal notes\n\n#### Mobile app\n\n#### Custom conversation views\n\n#### Analytics\n\n#### AI Co-Pilot\n\nAutomations & AI\n\n#### Included Automations\n\n#### Tasks\n\n#### AI Chatbots\n\n#### AI-generated Responses\n\nWhatsApp Newsletter\n\n#### Included range\n\n#### Increase range\n\n#### Custom contact views\n\n#### Touchpoints\n\n#### Performance Metrics\n\nWebchat\n\n#### Chat widget\n\n#### Own design\n\n#### Own links\n\n#### Remove Superchat logo\n\nIntegrations\n\n#### Zapier\n\n#### Make\n\n#### HubSpot\n\n#### API\n\nReview Management\n\n#### Send evaluation requests\n\n#### Manage ratings\n\n#### Google Integration\n\nTeam chat\n\n#### Direct messages\n\n#### Group messages\n\n#### Threads\n\nAdmin & Security\n\n#### Role-based access\n\n#### Two-Factor-Authentication\n\nSupport\n\n#### Onboarding\n\n#### Chat support\n\n#### Customer Success Manager\n\n#### User training\n\n#### Account Manager\n\n\\* Preise sind Netto; Vertragslaufzeit 12 Monate nach 30-Tage-Einrichtungszeit\n\nZus\u00e4tzliche Add-ons\n===================\n\nMehr Mitarbeiterzug\u00e4nge? Zus\u00e4tzliche Rufnummern? Passen Sie Superchat genau auf Ihre Bed\u00fcrfnisse an mit unseren flexiblen Add-Ons.\n\n![Image 61: Zus\u00e4tzliche Add-ons](blob:http://localhost/b4c029b2ce756495b88854589ddbcc6c)\n\nZus\u00e4tzlicher Mitarbeiterzugang\n------------------------------\n\nLaden Sie ganz einfach weitere Mitarbeiter zu Superchat hinzu.\n\n\u20ac 10 / Monat\n\nZus\u00e4tzliche Nummer\n------------------\n\nF\u00fcgen Sie ganz einfach weitere Nummern zu einem Konto hinzu.\n\n\u20ac 49 / Monat\n\n### WhatsApp Newsletter\n\nSenden Sie Newsletter an bis zu 10 000 Empf\u00e4nger pro Monat. F\u00fcr zus\u00e4tzliche Empf\u00e4nger kontaktieren Sie bitte unser [Vertriebsteam](mailto:hello@superchat.de).\n\n\u20ac49 / Monat\n\n### Analytics\n\nSchluss mit Vermutungen. Mit verl\u00e4sslichen Statistiken evaluierst du, wie erfolgreich deine Kommunikation wirklich ist.\n\n\u20ac29 / Monat\n\n### Integrationen\n\nVerbinde jetzt deine Lieblingstools mit Superchat und automatisiere langwierige Arbeitsabl\u00e4ufe.\n\n\u20ac49 / Monat\n\n### Superchat KI-Copilot\n\nGib deinem Team die Superkr\u00e4fte f\u00fcr schnelles Arbeiten im Chat. So sieht die Zukunft des Schreibens aus!\n\n\u20ac29 / Monat\n\n\\* 3 Nutzer inkl., jeder weitere 5\u20ac / Monat\n\n### Zus\u00e4tzliche KI-ChatbotsNeu\n\nErweitere dein Team mit zus\u00e4tzlichen KI-Chatbots, die jederzeit Kundenanfragen beantworten. Mehr Bots, weniger Wartezeit!\n\n\u20ac49 / Monat\n\npro zus\u00e4tzlichen Chatbot\n\n### Zus\u00e4tzliche KI-AntwortenNeu\n\nBeschleunige deine Kommunikation mit zus\u00e4tzlichen KI-generierten Antworten. Schneller reagieren und konsistente Antworten liefern.\n\nStartet bei\u20ac19 / Monat\n\nf\u00fcr {amount} Antworten\n\nAlles anzeigen\n\n### Zus\u00e4tzliche AutomationsNeu\n\nAutomatisiere mehr Prozesse mit zus\u00e4tzlichen Automations. Optimiere Abl\u00e4ufe und gewinne Zeit f\u00fcr wichtigere Aufgaben.\n\n\u20ac10 / Monat\n\npro zus\u00e4tzliche Automation\n\n### Zus\u00e4tzliche Automation TasksNeu\n\nAutomatisiere mehr Aufgaben und \u00fcberlasse repetitive Arbeit der Software. Fokussiere dich auf das Wesentliche.\n\nStartet bei\u20ac19 / Monat\n\nf\u00fcr {amount} Tasks\n\nAlles anzeigen\n\n### Frequently asked questions\n\nHow many users can use Superchat?\n\nAre there any costs for sending messages?\n\nCan I connect my landline or 0800 number to Superchat?\n\nIs Superchat and communication via WhatsApp and Co. compliant with the GDPR?\n\nWhat is the WhatsApp Newsletter?\n\nCan you show me the features of Superchat in a demo?\n\nSuperchat - The name says it all\n\n*   [](https://www.linkedin.com/company/superchatcom)\n*   [](https://www.instagram.com/superchat.official)\n*   [](https://www.facebook.com/profile.php?id=61566372058472)\n*   [](https://www.youtube.com/@superchat-software)\n*   [](https://www.tiktok.com/@superchat.official)\n\n[+44 1224 051727](tel:+441224051727)[hello@superchat.com](mailto:hello@superchat.com)\n\nResources\n\n[Blog](https://www.superchat.com/blog)[Success Stories](https://www.superchat.com/success-stories)[Superchat comparison](https://www.superchat.com/comparison)[Partner Directory](https://www.superchat.com/our-partners)[Integrations Library](https://www.superchat.com/product/integrations)[Free tools](https://www.superchat.com/tools)[Free eBooks](https://www.superchat.com/ebooks)[Messaging Report 2023](https://www.superchat.com/superchat-messaging-report-2023)[Superchat Rewind '24](https://www.superchat.com/superchat-rewind-2024)\n\nCompany\n\n[About us](https://www.superchat.com/about-us)[Prices](https://www.superchat.com/pricing)[Career We are hiring!](https://www.superchat.com/careers)[Contact](https://www.superchat.com/demo)[Affiliate program](https://www.superchat.com/partner)[Press](https://www.superchat.com/presse)[System status](https://status.superchat.de/)\n\nProduct\n\n[WhatsApp Business](https://www.superchat.com/product/whatsapp-business)[WhatsApp Newsletter](https://www.superchat.com/product/whatsapp-newsletter)[Automations](https://www.superchat.com/product/automations)[AI Chatbot](https://www.superchat.com/product/ai-chatbot)[Integrations](https://www.superchat.com/product/integrations)[Universal inbox](https://www.superchat.com/product/universal-inbox)[Live Chat](https://www.superchat.com/product/live-chat)[Team Chat](https://www.superchat.com/product/teamchat)[Reviews](https://www.superchat.com/product/reputation-management)[Mobile app](https://www.superchat.com/app)[Desktop app](https://www.superchat.com/desktop)\n\nLegal\n\n[Imprint](https://www.superchat.com/imprint)[Privacy Policy](https://www.superchat.com/privacy)[Terms of Use](https://www.superchat.com/terms)\n\nEnglish\n\n\u00a9 2025 SuperX GmbH\n\n[Imprint](https://www.superchat.com/imprint)[Privacy Policy](https://www.superchat.com/privacy)[Terms of Use](https://www.superchat.com/terms)Cookie Settings\n\nWhich Superchat package best suits your business? Compare Superchat messaging platform features, pricing and packages now.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "superchat",
+        "app_name": "Superchat",
+        "app_slug": "superchat",
+        "pricing_url": "https://www.superchat.com/pricing",
+        "source_url": "https://www.superchat.com/pricing",
+        "all_pricing_urls": [
+          "https://www.superchat.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "EUR",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes a free tier and various subscription plans with additional add-ons available.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Perfect for getting started",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unified Inbox",
+              "WhatsApp Newsletter",
+              "Automations",
+              "AI Chatbot",
+              "Integrations",
+              "Personal onboarding"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": 1,
+              "custom_limits": [
+                {
+                  "name": "Active contacts",
+                  "value": 30
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Basic",
+            "tier_description": "Ideal for smaller teams",
+            "monthly_price": 79.0,
+            "annual_price": null,
+            "annual_discount_percentage": 11.0,
+            "setup_fee": null,
+            "features": [
+              "Personal onboarding",
+              "Review Management",
+              "AI Chatbot",
+              "Integrations"
+            ],
+            "limits": {
+              "users": 3,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": 1,
+              "custom_limits": [
+                {
+                  "name": "Active contacts",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Professional",
+            "tier_description": "Perfect for medium sized teams",
+            "monthly_price": 129.0,
+            "annual_price": null,
+            "annual_discount_percentage": 13.0,
+            "setup_fee": null,
+            "features": [
+              "AI Chatbot",
+              "Personalized Webchat",
+              "Integrations can be added",
+              "Analytics add-on available",
+              "Industry-specific onboarding"
+            ],
+            "limits": {
+              "users": 10,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": 3,
+              "custom_limits": [
+                {
+                  "name": "Active contacts",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Advanced",
+            "tier_description": "Optimal for medium-sized companies",
+            "monthly_price": 249.0,
+            "annual_price": null,
+            "annual_discount_percentage": 16.0,
+            "setup_fee": null,
+            "features": [
+              "Integration included",
+              "Premium chat support",
+              "User training"
+            ],
+            "limits": {
+              "users": 25,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": 5,
+              "custom_limits": [
+                {
+                  "name": "Active contacts",
+                  "value": "unlimited"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "For large teams with specific requirements.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Custom plan configuration",
+              "Tailored support & guidance",
+              "Enterprise-level security and control"
+            ],
+            "limits": {
+              "users": "custom",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "custom",
+              "custom_limits": [
+                {
+                  "name": "Active contacts",
+                  "value": "custom"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "WhatsApp conversations initiated by the company",
+            "unit": "per conversation",
+            "base_price": 0.05,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": "unlimited",
+                "price": 0.11
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": true
+        },
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Additional employee access",
+            "fee_amount": 10.0,
+            "fee_description": "Per additional employee per month"
+          },
+          {
+            "fee_name": "Additional number",
+            "fee_amount": 49.0,
+            "fee_description": "Per additional number per month"
+          },
+          {
+            "fee_name": "WhatsApp Newsletter",
+            "fee_amount": 49.0,
+            "fee_description": "Up to 10,000 recipients per month"
+          },
+          {
+            "fee_name": "Analytics",
+            "fee_amount": 29.0,
+            "fee_description": "Monthly fee for analytics add-on"
+          },
+          {
+            "fee_name": "Superchat AI Co-Pilot",
+            "fee_amount": 29.0,
+            "fee_description": "Monthly fee for AI Co-Pilot add-on"
+          },
+          {
+            "fee_name": "Additional AI Chatbots",
+            "fee_amount": 49.0,
+            "fee_description": "Per additional chatbot per month"
+          },
+          {
+            "fee_name": "Additional AI Responses",
+            "fee_amount": 19.0,
+            "fee_description": "Starting price for additional AI-generated responses"
+          },
+          {
+            "fee_name": "Additional Automations",
+            "fee_amount": 10.0,
+            "fee_description": "Per additional automation per month"
+          },
+          {
+            "fee_name": "Additional Automation Tasks",
+            "fee_amount": 19.0,
+            "fee_description": "Starting price for additional automation tasks"
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T07:16:41.420320",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\superchat\\20250415_071641"
+}

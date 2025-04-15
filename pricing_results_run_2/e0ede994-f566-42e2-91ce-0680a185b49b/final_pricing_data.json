@@ -1,0 +1,131 @@
+{
+  "app_id": "chatfuel",
+  "app_name": "Chatfuel",
+  "app_slug": "chatfuel",
+  "pricing_url": "https://chatfuel.com/pricing",
+  "source_url": "https://chatfuel.com/pricing",
+  "all_pricing_urls": [
+    "https://chatfuel.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription-based plans with usage-based fees for extra conversations.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Business",
+      "tier_description": "Designed for small to medium businesses.",
+      "monthly_price": 23.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Direct messages",
+        "Click-to-Ads",
+        "Posts",
+        "Stories",
+        "Chatbots",
+        "Comments autoreply",
+        "Story replies",
+        "Story mentions",
+        "Keyword actions",
+        "ChatGPT",
+        "Re-engage messages",
+        "Re-engage history",
+        "Live chat",
+        "Shared inbox",
+        "Assigning agents",
+        "Mobile inbox app",
+        "Triggering flows from Live chat",
+        "Import and export contacts",
+        "Contact attributes",
+        "Audience segmentation",
+        "Google Sheets",
+        "ChatGPT",
+        "Stripe",
+        "Zapier",
+        "JSON API"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Conversations",
+            "value": "limited to plan"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Tailored plan with priority support and dedicated bot builder specialist.",
+      "monthly_price": 300.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Business tier",
+        "Personal account manager",
+        "Bot building services (10 free hours)",
+        "Bulk pricing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Conversations",
+            "value": "limited to plan"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Extra conversations",
+      "unit": "per conversation",
+      "base_price": 0.02,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T02:36:26.844727",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e0ede994-f566-42e2-91ce-0680a185b49b",
+    "name": "Chatfuel",
+    "slug": "chatfuel",
+    "description": "Chatfuel allows anyone to create their own bots on Facebook Messenger for free, without coding. Using this app you'll be able to automatically update content in your bot.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/6ab28121a4f5c52f2ee9aba35e8a6705.jpeg?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Social Media Marketing"
+    ],
+    "category_slugs": [
+      "social-marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 2
+  }
+}

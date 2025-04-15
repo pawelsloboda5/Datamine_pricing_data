@@ -1,0 +1,124 @@
+{
+  "app_id": "flickr",
+  "app_name": "Flickr",
+  "app_slug": "flickr",
+  "pricing_url": "https://www.flickr.com/account",
+  "source_url": "https://www.flickr.com/account/upgrade/pro",
+  "all_pricing_urls": [
+    "https://www.flickr.com/account",
+    "https://www.flickr.com/help"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Flickr Pro offers enhanced features and tools for managing photos, including unlimited uploads and ad-free browsing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic account with limited features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Limited to 1,000 uploads",
+        "Only 50 private uploads allowed"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "limited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Enhanced experience with powerful tools for managing photos.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited uploads",
+        "Ad-free browsing",
+        "Advanced stats",
+        "Premier product support",
+        "Detailed privacy settings",
+        "6k photo display options",
+        "10-minute video uploads",
+        "Sales links for photo business"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "SmugMug Discount",
+      "offer_description": "50% off the first year for new subscriptions.",
+      "discount_percentage": 50.0,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Blurb Discount",
+      "offer_description": "$35 off Photo Book purchase up to 4 times a year for orders of $70 or more.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Adobe Creative Cloud",
+      "offer_description": "Complimentary 3-month subscription of Adobe Creative Cloud Photography plan.",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Priime Discount",
+      "offer_description": "20% off Priime\u2019s Lightroom presets bundle.",
+      "discount_percentage": 20.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T10:06:36.988284",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "2eeec4d5-5ead-4b9f-944c-194b66b12d91",
+    "name": "Flickr",
+    "slug": "flickr",
+    "description": "Flickr is a photo sharing and social media platform that allows you to host images online, and check out other users' images.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/8db522ba135c4e0e3cf56c761bad4bfe_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Images & Design"
+    ],
+    "category_slugs": [
+      "images"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

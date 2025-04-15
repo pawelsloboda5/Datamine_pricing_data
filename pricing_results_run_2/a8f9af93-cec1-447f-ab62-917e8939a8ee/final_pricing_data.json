@@ -1,0 +1,70 @@
+{
+  "app_id": "paperbell",
+  "app_name": "Paperbell",
+  "app_slug": "paperbell",
+  "pricing_url": null,
+  "source_url": "https://paperbell.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "All plans include unlimited usage for clients, sessions, files, packages, and traffic.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "Perfect for getting started or staying flexible.",
+      "monthly_price": 57.0,
+      "annual_price": 570.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Unlimited clients and sessions",
+        "All features included",
+        "Unlimited files, packages, and traffic",
+        "Cancel anytime",
+        "No additional transaction fees",
+        "Everything you need from day one"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:51:17.841153",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a8f9af93-cec1-447f-ab62-917e8939a8ee",
+    "name": "Paperbell",
+    "slug": "paperbell",
+    "description": "Paperbell is the easiest way to sell coaching online \u2013 whether you\u2019re an experienced coach, or you\u2019re just getting started.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/51a8215de50ff3486809aba6116a3fd7.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Calendar"
+    ],
+    "category_slugs": [
+      "calendar"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

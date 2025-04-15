@@ -1,0 +1,179 @@
+{
+  "app_name": "PostHog",
+  "app_slug": "posthog",
+  "search_term": "Find the official pricing page URL for PostHog (posthog.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744689393.8058443,
+  "response_text": [
+    "The official pricing page for PostHog can be found at: https://posthog.com/pricing"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://posthog.com/pricing",
+      "is_accessible": true,
+      "content": "PostHog is designed to grow with you. Our **10\\+ products** (and counting) will take you from idea to product-market fit to IPO and beyond. \ud83d\ude80\n\nOur generous free tier means **_more than 90% of companies use PostHog for free._** Only add a card if you need more than the free tier limits, advanced features, or want more projects. You still keep the same monthly free volume, even after upgrading.\n\n### Free\n\nNo credit card required\n\n#### Free tier on all plans\n\n(resets monthly)\n\n+\n\n**Analytics**\n\n1M events\n\n**Session replay**\n\n5K recordings\n\n**Feature flags**\n\n1M requests\n\n**Experiments**\n\nBilled with feature flags\n\n**Error tracking**\n\n100K exceptions\n\n**Surveys**\n\n250 responses\n\n**Data warehouse**\n\n1M rows\n\n#### Usage-based pricing\n\nIf your usage goes beyond the free tier limits, we offer **usage-based pricing.** You can set a billing limit for each product so you never get an unexpected bill.\n\n**Add a credit card and also get:**\n\n*   ~1 project~ 6 projects\n*   ~1-year data retention~ 7-year data retention\n*   ~Community support~ Email support\n\n#### Rates (after the monthly free tier)\n\nPrices reduce with scale\n\n### Compare plans\n\n**Just pick this one!**\n\nYou can upgrade later.\n\n#### _Totally free_\n\nNo credit card required\n\n*   **Generous free monthly tier**Usage capped at free tier limits\n    \n*   **Like, totally free**Almost all product features, no credit card required\n    \n*   **Community support**Support via community forum\n    \n\n#### _Ridiculously cheap_\n\nUsage-based pricing after free tier\n\n#### Starts at $0/mo\n\n\u00a0\n\n*   **Generous free monthly tier**Pay nothing if below free tier limits\n    \n*   **Usage-based pricing**Set billing limits per product so you never pay more than expected.\n    \n*   **Standard support**Support via email, Slack-based over $2k/mo\n    \n\n#### _Starship enterprise_\n\nUsage-based pricing after free tier\n\n#### From $2,000/mo\n\n\u00a0\n\n*   **SAML SSO**\n*   **Custom MSA**\n*   **Dedicated support**\n*   **Training & onboarding**\n*   **Advanced permissions**\n*   **Audit logs**\n\nShow full plan comparison\n\n### Add-ons\n\nWe've moved specialized functionality into add-ons so you never pay for things you don't need.\n\n[Explore add-ons](https://posthog.com/addons)\n\n### Compare to similar products\n\n![Image 1: Amplitude](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_32/icon_amp_4d0e457978)\n\n**Amplitude**\n\n![Image 2: Mixpanel](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_32/icon_mp_6404158e7f)\n\n**Mixpanel**\n\n![Image 3: Heap](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_16/icon_heep_7d9bb0f55a)\n\n**Heap**\n\n![Image 4: Pendo](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_32/icon_pnd0_dc3ea0f56f)\n\n**Pendo**\n\n![Image 5: FullStory](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_32/icon_fs_542ca7eb05)\n\n**FullStory**\n\n**PostHog**\n\n**Product analytics**\n\n**Web analytics**\n\n**LLM observability**\n\n**Session replay**\n\n**Feature flags**\n\n**Experiments**\n\n**Surveys**\n\n**Data warehouse**\n\n### Frequently purchased with...\n\nThese are some products that pair well with PostHog to help you find product-market fit and maybe even get to an IPO. (In fact, we use them ourselves!)\n\n*   ![Image 6](https://res.cloudinary.com/dmukukwp6/image/upload/DO_Logo_icon_blue_0ade9109b2.svg)\n    \n    ##### Digital Ocean\n    \n    Cloud infrastructure for developers\n    \n*   ![Image 7](https://res.cloudinary.com/dmukukwp6/image/upload/vercel_icon_dark_1023f19025.svg)\n    \n    ##### Vercel\n    \n    Build and deploy web experiences\n    \n*   ![Image 8](https://res.cloudinary.com/dmukukwp6/image/upload/ashby_e4a768e087.svg)\n    \n    ##### Ashby\n    \n    All-in-one recruiting software for ambitious teams.\n    \n*   ![Image 9](https://res.cloudinary.com/dmukukwp6/image/upload/Algolia_mark_blue_f25812a7a2.svg)\n    \n    ##### Algolia\n    \n    AI-powered search and discovery\n    \n\n### Latest reviews\n\nOverall rating\n\n### 4.4\n\n738 reviews\n\nReviews collected by [G2](https://www.g2.com/products/posthog/reviews)\n\n**Easy Analytics for Early Startups**\n\n**What do you like best about PostHog?**\n\nHow easy they make it to integrate with your code base.\n\n**What do you dislike about PostHog?**\n\nLearning how to use the analytics dashboard is confusing, but powerful.\n\n**What problems is PostHog solving and how is that benefiting you?**\n\nWhen I deploy my project I need to know where users encounter the most friction. PostHog will let me diagnose what problems users are having, which is invaluable when traffic is limited\n\n**Genuienly the single best analytics solution i have used.**\n\n**What do you like best about PostHog?**\n\nPosthog is incredibly simple to set up, and the separate features that it has all integrate with both each other and my codebase perfectly, with little-to-no effort.\n\n**What do you dislike about PostHog?**\n\nDelay. My only genuine problem with posthog is that events often take a while to reach the server after they are sent from the client.\n\n**What problems is PostHog solving and how is that benefiting you?**\n\nPosthog is helping us catch errors in our application, and see why/where users are having issues.\n\n**Accessible enterprise grade analytics**\n\n**What do you like best about PostHog?**\n\nPostHog has been a fantastic surprise. I initially expected it to be a heavy and complex analytics tool, but it turned out to be incredibly accessible\u2014especially for early-stage projects. The setup was straightforward and fast, and it integrated seamlessly with my Next.js app, performing far better than expected. What really stands out is how complete the platform is. It has every feature I could need\u2014from product analytics to session replays, feature flags, A/B testing, and more\u2014all in one place. Usually, you need to string together multiple tools to get this level of insight, but PostHog just delivers everything out of the box without feeling bloated. It\u2019s rare to find a tool this powerful that still feels lightweight and developer-friendly. Highly recommended for startups and scale-ups alike.\n\n**What do you dislike about PostHog?**\n\nIf I had to pick something, it would be the documentation. It\u2019s not bad by any means, but I think it could be a bit better organized and more detailed in some areas\u2014especially for edge cases or advanced use. That said, this is really just nitpicking.\n\n**What problems is PostHog solving and how is that benefiting you?**\n\nPostHog helps us cover multiple crucial areas in one place\u2014product analytics, web analytics, and session replays. Instead of juggling separate tools, we get a unified view of how users interact with our app. The ability to replay sessions has been especially valuable for understanding UX issues and refining the user journey. Overall, it\u2019s helped us make more informed product decisions and build a better experience based on real user behavior.\n\n### Pricing calculator\n\n### Estimate your price\n\nEvent types, explained\n\nEvents are billed at different rates based on volume and if you choose to send custom user properties with the event.\n\n### Anonymous events\n\n![Image 10: Anonymous event example](https://res.cloudinary.com/dmukukwp6/image/upload/v1/posthog.com/src/components/Pricing/PricingCalculator/Tabs/event-anonymous)\n\n### Anonymous events\n\nNo individually-identifiable info, analyzed in aggregate, don't use person profiles\n\nBy default, events are anonymous, meaning they don't have any personally-identifiable information attached to them.\n\nThey come with info about the browser and device, visitor's location, and any UTM parameters.\n\n#### With anonymous events, you can:\n\n*   See a Google Analytics-style dashboard\n*   Access properties like UTMs, location, referrer, page views\n*   Create **_aggregate_** insights in **Product analytics**\n    \n    *   How many times users click an element on a page\n    *   Group visitors by device type or location\n    *   Filter to interactions on a specific page\n    *   Track anonymous users across sessions\n\nPricing starts at\n\n**$0.00005**/event\n\nFirst 1 million events/mo free\n\n### Identified events\n\n![Image 11: Identified event example](https://res.cloudinary.com/dmukukwp6/image/upload/v1/posthog.com/src/components/Pricing/PricingCalculator/Tabs/event-identified)\n\n### Identified events\n\nTrack usage of specific, logged in users by using [person profiles](https://posthog.com/docs/data/persons).\n\nIdentify users by their email address or other unique identifier, and attach custom properties to their person profiles.\n\n#### In addition to anonymous event capabilities, you can:\n\n*   Merge anonymous users with their eventual identified user\n    \n    *   Like when they sign up for your product or use different devices - enables analyzing the user's path\n*   Store custom properties on users\n    \n    *   Use these properties in cohorts, session replay, experiments, and feature flags\n*   Create **_user-specific_** insights in **Product analytics**\n    \n    *   How many times _specific users_ click an element on a page\n    *   Group _cohorts of users_ by device type, location, or property\n    *   Filter to interactions on a specific page _by specific users_\n\nPricing starts at\n\n**$0.000248**/event\n\nFirst 1 million events/mo free\n\nFirst 1,000,000 events free \u2013 every month!\n\n### Event usage\n\nEvents/mo\n\nProduct analytics\n\nIdentified events\n\n01M10M50M250M\n\nWebsite analytics\n\nAnonymous events\n\n01M10M50M250M\n\nMobile app\n\n\\--\n\nLLM events\n\n\\--\n\nAPI events\n\n\\--\n\nOther events\n\n\\--\n\nProduct add-ons\n\n*   Group analytics\n    \n    Starts at\n    \n    **$0.000071**/event\n    \n    $0\n    \n*   Data pipelines\n    \n    Starts at\n    \n    **$0.000062**/event\n    \n    $0\n    \n\n**$0**\n\n#### Platform add-ons\n\nTeams\n\n**$450**/mo\n\n$0\n\n### Estimated total\n\nfor all products & add-ons\n\n$0\n\n#### How our pricing works\n\n*   Only pay for products you use\n*   **Generous free tier for each product (resets monthly)**\n*   You can set billing limits per product so you never get a surprise bill\n*   We also offer **discounts** for startups and non-profits\n\n#### Estimating usage\n\n*   Not sure what your volume looks like? Add the tracking code to your site and check back in a few days \u2013 no credit card required.\n*   If something stupid happens and you get an unexpected bill (like if [your side project unexpectedly goes viral](https://posthog.com/side-project-insurance) or you\u2019re unhappy), we\u2019ll pretty much always refund it!\n*   We've also written [this handy guide](https://posthog.com/docs/billing/estimating-usage-costs) to help!\n\n### Give PostHog a try\n\nNo need to pick a plan - try our free version and decide if you want advanced features later!\n\n### More pricing reads\n\nIf you've made it this far, you might be interested in these other pages about how our pricing works.\n\n*   [#### Pricing philosophy tl;dr: It's designed to make you happy.](https://posthog.com/pricing/philosophy)\n*   [#### How we do \"sales\" We don't sell you. You'll sell yourself.](https://posthog.com/sales)\n\nPricing FAQ\n-----------\n\n*   ![Image 12](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_40/v1/posthog.com/src/pages-content/images/hog)\n    \n    How do I know what my volume is?\n    \n    ![Image 13](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_25/v1/posthog.com/src/pages-content/images/team)\n    \n    Tim Glaser\n    \n    The easiest way is to sign up for the Free plan. You'll get an accurate volume projection after just a few days.\n    \n*   ![Image 14](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_40/v1/posthog.com/src/pages-content/images/hog-3)\n    \n    Do I pay anything for stored events?\n    \n    ![Image 15](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_25/v1/posthog.com/src/pages-content/images/team-3)\n    \n    Simon Fisher\n    \n    No, you only pay the fee per captured event in a given month (i.e. you only pay when each event is first received). There are no additional costs or fees.\n    \n*   ![Image 16](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_40/v1/posthog.com/src/pages-content/images/hog-5)\n    \n    How long do you retain data?\n    \n    ![Image 17](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_25/v1/posthog.com/src/pages-content/images/team-5)\n    \n    Tiina Turban\n    \n    Data (except recordings, see below) is guaranteed to be retained for 7 years on any paid plan and 1 year on a free plan. After 1 year, data may be moved into cold storage so queries may run more slowly.\n    \n*   ![Image 18](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_40/v1/posthog.com/src/pages-content/images/hog-6)\n    \n    How long do you retain recordings?\n    \n    ![Image 19](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_25/v1/posthog.com/src/pages-content/images/team-6)\n    \n    Rick Marron\n    \n    Recordings are kept on Clickhouse-based installations for 1 month. For paid customers on PostHog cloud, recordings are kept for 3 months.\n    \n*   ![Image 20](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_40/v1/posthog.com/src/pages-content/images/hog-7)\n    \n    What happens after the data retention period elapses?\n    \n    ![Image 21](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_25/v1/posthog.com/src/pages-content/images/team-7)\n    \n    Marius Andra\n    \n    Any event or user data stored for more than the retention period may be permanently deleted from our systems.\n    \n*   ![Image 22](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_40/v1/posthog.com/src/pages-content/images/hog-8)\n    \n    Is there a free trial on paid plans?\n    \n    ![Image 23](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_25/v1/posthog.com/src/pages-content/images/team-8)\n    \n    Michael Matloka\n    \n    We have a generous free tier on every paid plan so you can try out the features before paying any money (though you will need to enter your credit card info). If you have additional needs, such as enterprise features, please get in touch.\n    \n*   ![Image 24](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_40/v1/posthog.com/src/pages-content/images/hog-9)\n    \n    What currency are your prices in?\n    \n    ![Image 25](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_25/v1/posthog.com/src/pages-content/images/team-9)\n    \n    James Hawkins\n    \n    All prices are in US Dollars (USD), excluding taxes.\n    \n*   ![Image 26](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_40/v1/posthog.com/src/pages-content/images/hog-10)\n    \n    Do you offer a discount for non-profits?\n    \n    ![Image 27](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_25/v1/posthog.com/src/pages-content/images/team-10)\n    \n    Eric Duong\n    \n    Yes in most cases - 25% off any plan. Create your account, then email sales@posthog.com from the same email address with some basic details on your organization. We will then apply a discount.\n    \n*   ![Image 28](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_40/v1/posthog.com/src/pages-content/images/hog-11)\n    \n    Are there any minimums or annual commitments?\n    \n    ![Image 29](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_25/v1/posthog.com/src/pages-content/images/team-11)\n    \n    Cameron DeLeone\n    \n    Nope. We can, however, offer annual commitments (for example, to maintain pricing) if you need them as part of an enterprise agreement.\n    \n\nHave another pricing-related question? [Ask in our community forum](https://posthog.com/questions/topic/pricing)\n\nThis is the call to action.\n---------------------------\n\n### If nothing else has sold you on PostHog, hopefully these classic marketing tactics will.\n\n![Image 30: PostHog Cloud](https://res.cloudinary.com/dmukukwp6/image/upload/v1/posthog.com/src/components/Home/images/cloud-cd)\n\n![Image 31: People on G2 think we're great](https://res.cloudinary.com/dmukukwp6/image/upload/v1/posthog.com/src/components/Home/images/g2-badge)\n\nNotendorsed  \nby Kim K\n\n\\*PostHog is a web product and cannot be installed by CD.  \nWe _did_ once send some customers a floppy disk but it was a Rickroll.\n\n*   **Select your cloud**\n*   **Starts at:**\n    \n    ~$0~Free\\>1 left at this price!!\n    \n\n**Hurry:** Tons of companies signed up .  \nAct now and get $0 off your first order.\n\n> You always need to find ways to improve. PostHog is central to how we do that at Y Combinator. It helps us try ideas, measure results, and build better products.\n\n![Image 32: Vacation Hog](https://res.cloudinary.com/dmukukwp6/image/upload/c_scale,w_252/v1/posthog.com/src/components/Pricing/images/vacation-hog)\n\nLooking for the signup button?\n\n(I\u2019ll take you there.)\n\nFind out how much it costs to use PostHog",
+      "error": null,
+      "pricing_data": {
+        "app_id": "posthog",
+        "app_name": "PostHog",
+        "app_slug": "posthog",
+        "pricing_url": "https://posthog.com/pricing",
+        "source_url": "https://posthog.com/pricing",
+        "all_pricing_urls": [
+          "https://posthog.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "PostHog offers a generous free tier with monthly resets and usage-based pricing for exceeding limits. Discounts are available for startups and non-profits.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Generous free tier with monthly resets.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Analytics: 1M events",
+              "Session replay: 5K recordings",
+              "Feature flags: 1M requests",
+              "Experiments: Billed with feature flags",
+              "Error tracking: 100K exceptions",
+              "Surveys: 250 responses",
+              "Data warehouse: 1M rows"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": [
+                {
+                  "name": "Analytics events",
+                  "value": "1M/month"
+                },
+                {
+                  "name": "Session replay recordings",
+                  "value": "5K/month"
+                },
+                {
+                  "name": "Feature flag requests",
+                  "value": "1M/month"
+                },
+                {
+                  "name": "Error tracking exceptions",
+                  "value": "100K/month"
+                },
+                {
+                  "name": "Survey responses",
+                  "value": "250/month"
+                },
+                {
+                  "name": "Data warehouse rows",
+                  "value": "1M/month"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Ridiculously Cheap",
+            "tier_description": "Usage-based pricing after free tier.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Generous free monthly tier",
+              "Usage-based pricing",
+              "Standard support via email, Slack-based over $2k/mo"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Starship Enterprise",
+            "tier_description": "Enterprise features with usage-based pricing.",
+            "monthly_price": 2000.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "SAML SSO",
+              "Custom MSA",
+              "Dedicated support",
+              "Training & onboarding",
+              "Advanced permissions",
+              "Audit logs"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Anonymous events",
+            "unit": "per event",
+            "base_price": 5e-05,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "1M",
+                "price": 0.0
+              }
+            ]
+          },
+          {
+            "metric_name": "Identified events",
+            "unit": "per event",
+            "base_price": 0.000248,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": "1M",
+                "price": 0.0
+              }
+            ]
+          },
+          {
+            "metric_name": "Group analytics",
+            "unit": "per event",
+            "base_price": 7.1e-05,
+            "tiers": null
+          },
+          {
+            "metric_name": "Data pipelines",
+            "unit": "per event",
+            "base_price": 6.2e-05,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Non-profit Discount",
+            "offer_description": "25% off any plan for non-profits.",
+            "discount_percentage": 25.0,
+            "offer_url": "https://posthog.com/pricing",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:56:46.004317",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\posthog\\20250414_235646"
+}

@@ -1,0 +1,19 @@
+{
+  "app_name": "HeyReach",
+  "app_slug": "heyreach",
+  "search_term": "Find the official pricing page URL for HeyReach (heyreach.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744697012.055133,
+  "response_text": [
+    "I couldn\u2019t locate HeyReach's official pricing page. You might need to explore their website at [heyreach.com](https://www.heyreach.com)."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.heyreach.com",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\heyreach\\20250415_020347"
+}

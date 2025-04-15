@@ -1,0 +1,12 @@
+{
+  "app_name": "Microsoft Dynamics 365 CRM",
+  "app_slug": "microsoft-dynamics-crm",
+  "search_term": "Find the official pricing page URL for Microsoft Dynamics 365 CRM (microsoft-dynamics-crm.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744709800.2204206,
+  "response_text": [
+    "I couldn't locate a direct pricing page on \"microsoft-dynamics-crm.com\" specifically. Try other sources or domains associated with Dynamics 365."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\microsoft-dynamics-crm\\20250415_053640"
+}

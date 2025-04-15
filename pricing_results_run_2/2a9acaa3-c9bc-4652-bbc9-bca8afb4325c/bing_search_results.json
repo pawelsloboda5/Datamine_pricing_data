@@ -1,0 +1,12 @@
+{
+  "app_name": "PostgreSQL",
+  "app_slug": "postgresql",
+  "search_term": "Find the official pricing page URL for PostgreSQL (postgresql.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744704554.1746693,
+  "response_text": [
+    "PostgreSQL does not seem to have a designated pricing page as it is open-source and free. If you have further questions or another request, feel free to ask!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\postgresql\\20250415_040914"
+}

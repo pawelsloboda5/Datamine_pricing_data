@@ -1,0 +1,186 @@
+{
+  "app_name": "Splitwise",
+  "app_slug": "splitwise",
+  "search_term": "Find the official pricing page URL for Splitwise (splitwise.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744689509.4622934,
+  "response_text": [
+    "Here is the official URL to the pricing page for Splitwise: [https://secure.splitwise.com/pro](https://secure.splitwise.com/pro)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Get Splitwise Pro!",
+      "url": "https://www.splitwise.com/subscriptions/new"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://secure.splitwise.com/pro",
+      "is_accessible": true,
+      "content": "![Image 1](https://assets.splitwise.com/assets/pro/unlimited-expenses-417e3736c5e7fcb89941dacd9000f10c2cc16bd0b22ea12d7f9b9790a05b6e0a.png)\n\nUnlimited expenses\n------------------\n\nAdd as many expenses as you like each day, with no interruptions. Stay on top of your spending and stay in the moment with your friends.\n\n![Image 2](https://assets.splitwise.com/assets/pro/transaction-import-4f0eff6f1843859cf816630e47d0611d33a620ade9d734549663df2cdcb6877d.png)\n\nTransaction import\n------------------\n\nConnect a credit or debit card to see your recent purchases \u2014 then split with just a tap. (Currently available only in the US.)\n\n![Image 3](https://assets.splitwise.com/assets/pro/currency-conversion-fd457aec82b5e6e71b46beca2713922a52008dc8d5822dd256652600b78eadbc.png)\n\nCurrency conversion\n-------------------\n\nGoing abroad? Splitwise can convert all your bills to any currency you'd like, using today's foreign exchange rates.\n\n![Image 4](https://assets.splitwise.com/assets/pro/charts-56ae64f2fa1f1afc5e94ef5211c25c1073b231e8091f19948ca8e6ffe3df2505.png)\n\nCharts and graphs\n-----------------\n\nKeep your budget on track, at home or on a trip. We break down your spending by category and show you trends over time, so you can identify excessive spending and save money.\n\n![Image 5](https://assets.splitwise.com/assets/pro/receipt-scanning-9150c3ea3b246ea6d9639a0977c7d812f219d67a7d502bcb96087409dc665205.png)\n\nReceipt scanning\n----------------\n\nAdd complicated bills to Splitwise with ease! Just take a picture of your receipt, and Splitwise will automatically scan its contents.\n\n![Image 6](https://assets.splitwise.com/assets/pro/itemization-9c11e7e6eb564593e222da05de9bd1066b4d5caa9c8e77c5a24e42c7011e0d5b.png)\n\nItemization\n-----------\n\nAfter scanning a receipt, Splitwise will detect the individual items so that you can assign them to your friends. Perfect for splitting restaurant and grocery bills.\n\n![Image 7](https://assets.splitwise.com/assets/pro/expense-search-e7feba0854b83903376c6402d00bbd9f6723f694324918a139029c233cb62e93.png)\n\nExpense search\n--------------\n\nMake sure you've entered everything correctly. Our search feature will help you locate old bills so you can double-check and edit them as needed.\n\n![Image 8](https://assets.splitwise.com/assets/pro/split-settings-f069e8abf48236b921d33b3161dc3e29fedecedbb1fc48824821c32e125e34c0.png)\n\nDefault split settings\n----------------------\n\nWant to split all expenses with your partner 55%/45%? Travelling with multiple families and want to assign each family a certain number of shares? Create a group default split so you can set it and forget it.\n\nGet even more with PRO\n----------------------\n\nGet even more organized with receipt scanning, charts and graphs, currency conversion, and more!\n\n[Get Splitwise Pro!](https://secure.splitwise.com/pro/subscribe)\n\nSplitwise is a free tool for friends and roommates to track bills and other shared expenses, so that everyone gets paid back. On the web, iPhone, and Android!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "splitwise",
+        "app_name": "Splitwise",
+        "app_slug": "splitwise",
+        "pricing_url": "https://secure.splitwise.com/pro/subscribe",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://secure.splitwise.com/pro/subscribe"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Splitwise offers a free tier with basic features and a Pro subscription for advanced features.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Basic features for tracking shared expenses.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Track shared expenses",
+              "Basic expense management"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Advanced features for enhanced expense management.",
+            "monthly_price": 3.99,
+            "annual_price": 39.99,
+            "annual_discount_percentage": 16.7,
+            "setup_fee": null,
+            "features": [
+              "Unlimited expenses",
+              "Transaction import",
+              "Currency conversion",
+              "Charts and graphs",
+              "Receipt scanning",
+              "Itemization",
+              "Expense search",
+              "Default split settings"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:58:36.626340",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.splitwise.com/subscriptions/new",
+      "is_accessible": true,
+      "content": "Get **Splitwise Pro** for a ton of extra features:\n\n![Image 1](https://assets.splitwise.com/assets/pro/unlimited-expenses-417e3736c5e7fcb89941dacd9000f10c2cc16bd0b22ea12d7f9b9790a05b6e0a.png)\n\nUnlimited expenses\n------------------\n\nAdd as many expenses as you like each day, with no interruptions. Stay on top of your spending and stay in the moment with your friends.\n\n![Image 2](https://assets.splitwise.com/assets/pro/transaction-import-4f0eff6f1843859cf816630e47d0611d33a620ade9d734549663df2cdcb6877d.png)\n\nTransaction import\n------------------\n\nConnect a credit or debit card to see your recent purchases \u2014 then split with just a tap. (Currently available only in the US.)\n\n![Image 3](https://assets.splitwise.com/assets/pro/currency-conversion-fd457aec82b5e6e71b46beca2713922a52008dc8d5822dd256652600b78eadbc.png)\n\nCurrency conversion\n-------------------\n\nGoing abroad? Splitwise can convert all your bills to any currency you'd like, using today's foreign exchange rates.\n\n![Image 4](https://assets.splitwise.com/assets/pro/charts-56ae64f2fa1f1afc5e94ef5211c25c1073b231e8091f19948ca8e6ffe3df2505.png)\n\nCharts and graphs\n-----------------\n\nKeep your budget on track, at home or on a trip. We break down your spending by category and show you trends over time, so you can identify excessive spending and save money.\n\n![Image 5](https://assets.splitwise.com/assets/pro/receipt-scanning-9150c3ea3b246ea6d9639a0977c7d812f219d67a7d502bcb96087409dc665205.png)\n\nReceipt scanning\n----------------\n\nAdd complicated bills to Splitwise with ease! Just take a picture of your receipt, and Splitwise will automatically scan its contents.\n\n![Image 6](https://assets.splitwise.com/assets/pro/itemization-9c11e7e6eb564593e222da05de9bd1066b4d5caa9c8e77c5a24e42c7011e0d5b.png)\n\nItemization\n-----------\n\nAfter scanning a receipt, Splitwise will detect the individual items so that you can assign them to your friends. Perfect for splitting restaurant and grocery bills.\n\n![Image 7](https://assets.splitwise.com/assets/pro/expense-search-e7feba0854b83903376c6402d00bbd9f6723f694324918a139029c233cb62e93.png)\n\nExpense search\n--------------\n\nMake sure you've entered everything correctly. Our search feature will help you locate old bills so you can double-check and edit them as needed.\n\n![Image 8](https://assets.splitwise.com/assets/pro/split-settings-f069e8abf48236b921d33b3161dc3e29fedecedbb1fc48824821c32e125e34c0.png)\n\nDefault split settings\n----------------------\n\nWant to split all expenses with your partner 55%/45%? Travelling with multiple families and want to assign each family a certain number of shares? Create a group default split so you can set it and forget it.\n\nSplitwise is a free tool for friends and roommates to track bills and other shared expenses, so that everyone gets paid back. On the web, iPhone, and Android!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "splitwise",
+        "app_name": "Splitwise",
+        "app_slug": "splitwise",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Splitwise offers a free tier with basic features and a Pro subscription with additional features.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Basic features for tracking shared expenses.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Track shared expenses",
+              "Basic expense management"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Advanced features for enhanced expense management.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited expenses",
+              "Transaction import",
+              "Currency conversion",
+              "Charts and graphs",
+              "Receipt scanning",
+              "Itemization",
+              "Expense search",
+              "Default split settings"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:58:42.043445",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\splitwise\\20250414_235842"
+}

@@ -1,0 +1,43 @@
+{
+  "app_id": "urable",
+  "app_name": "Urable",
+  "app_slug": "urable",
+  "pricing_url": null,
+  "source_url": "https://www.urable.com",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The provided content does not include specific pricing details or tiers.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:58:14.916865",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c228c720-0ff5-4b07-be93-1dcb419f935c",
+    "name": "Urable",
+    "slug": "urable",
+    "description": "Urable is an application designed for automotive businesses that specialize in detailing, paint protection film, vinyl wrapping, tinting, and ceramic coating. As a cloud-based application with dedicated mobile apps, it allows you to run your business from multiple devices in real-time.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/94781d4d70b6d4127e2b4695fb6946a7.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 9
+  }
+}

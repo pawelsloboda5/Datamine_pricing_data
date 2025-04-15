@@ -1,0 +1,45 @@
+{
+  "app_id": "salesmsg",
+  "app_name": "Salesmsg",
+  "app_slug": "salesmsg",
+  "pricing_url": null,
+  "source_url": "https://salesmsg.com",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The content provided does not include specific pricing details or tier information.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:12:48.682885",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "bfd5324a-309b-4128-b38a-4e8a133a0ca3",
+    "name": "Salesmsg",
+    "slug": "salesmsg",
+    "description": "Salesmsg is a two-way text messaging software to allows you to send and receive text messages online from real local phone numbers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/0c07ed9998bba113836597ba8aa10b29.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 13,
+    "trigger_count": 7
+  }
+}

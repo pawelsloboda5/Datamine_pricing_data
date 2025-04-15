@@ -1,0 +1,50 @@
+{
+  "app_id": "translate_by_zapier",
+  "app_name": "Translate by Zapier",
+  "app_slug": "translate-by-zapier",
+  "pricing_url": "https://www.translate.com/integrations/zapier",
+  "source_url": "https://www.translate.com/pricing",
+  "all_pricing_urls": [
+    "https://www.translate.com/integrations/zapier"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details for Translate by Zapier are available on the specified URL.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:17:43.456899",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "30621c54-d4ac-443e-8547-fab26c8db7c3",
+    "name": "Translate by Zapier",
+    "slug": "translate",
+    "description": "Automatically translates words, phrases, and web pages into over 100 languages.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/8dae3ab1e1d15261e8e19ab097f6b81d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Developer Tools",
+      "Zapier"
+    ],
+    "category_slugs": [
+      "developer-tools",
+      "zapier-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

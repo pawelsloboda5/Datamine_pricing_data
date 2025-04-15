@@ -1,0 +1,145 @@
+{
+  "app_id": "mercury",
+  "app_name": "Mercury",
+  "app_slug": "mercury",
+  "pricing_url": "https://mercury.com/pricing",
+  "source_url": "https://mercury.com/pricing",
+  "all_pricing_urls": [
+    "https://mercury.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Mercury offers a free tier and two paid tiers with additional features and limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Mercury",
+      "tier_description": "Powerful business banking and finance essentials.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "FDIC-insured bank accounts",
+        "Online ACH, wires, & checks",
+        "Corporate debit & credit cards",
+        "Up to 4.46% yield ($500K minimum balance)",
+        "Unlimited bill payments",
+        "Unlimited invoice generation",
+        "Reimburse up to 5 users/month",
+        "Integration with Xero and QuickBooks"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Mercury Plus",
+      "tier_description": "Everything Mercury offers, with more reimbursements and invoicing power.",
+      "monthly_price": 35.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "FDIC-insured bank accounts",
+        "Online ACH, wires, & checks",
+        "Corporate debit & credit cards",
+        "Up to 4.46% yield ($500K minimum balance)",
+        "Unlimited bill payments",
+        "Unlimited invoice generation",
+        "Recurring invoicing",
+        "Branded invoices",
+        "ACH debit (+ $1/ACH debit transaction)",
+        "Reimburse up to 20 users/month (+ $5/additional active user)",
+        "Integration with Xero and QuickBooks"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Mercury Pro",
+      "tier_description": "Everything Mercury Plus offers, with advanced workflows and dedicated support.",
+      "monthly_price": 350.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "FDIC-insured bank accounts",
+        "Online ACH, wires, & checks",
+        "Corporate debit & credit cards",
+        "Up to 4.46% yield ($500K minimum balance)",
+        "Unlimited bill payments",
+        "Unlimited invoice generation",
+        "Recurring invoicing",
+        "Branded invoices",
+        "ACH debit (+ $0/ACH debit transaction)",
+        "Reimburse up to 250 users/month (+ $5/additional active user)",
+        "Integration with Xero, QuickBooks, and NetSuite",
+        "Dedicated relationship manager"
+      ],
+      "limits": {
+        "users": 250,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "ACH debit transaction fee",
+      "fee_amount": 1.0,
+      "fee_description": "Applicable for Mercury Plus tier."
+    },
+    {
+      "fee_name": "Additional active user fee",
+      "fee_amount": 5.0,
+      "fee_description": "Applicable for Mercury Plus and Mercury Pro tiers."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:56:18.307892",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0bc6c7ca-913c-4e33-b3a3-6c35d5d17139",
+    "name": "Mercury",
+    "slug": "mercury",
+    "description": "Mercury is an online financial platform that helps startups grow and manage their capital.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/9f1a1621fcdb7df41c1d6c76f2e5add7.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 5
+  }
+}

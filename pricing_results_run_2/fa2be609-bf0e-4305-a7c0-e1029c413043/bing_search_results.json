@@ -1,0 +1,12 @@
+{
+  "app_name": "EveryAction",
+  "app_slug": "everyaction",
+  "search_term": "Find the official pricing page URL for EveryAction (everyaction.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744699466.7810574,
+  "response_text": [
+    "I couldn't locate the official pricing page for EveryAction on its website. Pricing details might not be directly available online, and you may need to contact their sales team for more information. Let me know if you'd like assistance with this!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\everyaction\\20250415_024427"
+}

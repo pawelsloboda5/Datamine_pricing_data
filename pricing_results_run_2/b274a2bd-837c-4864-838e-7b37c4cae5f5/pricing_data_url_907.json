@@ -1,0 +1,250 @@
+{
+  "app_id": "skipio",
+  "app_name": "Skipio",
+  "app_slug": "skipio",
+  "pricing_url": "https://skipio.com/pricing/#pricing",
+  "source_url": "https://skipio.com/pricing/",
+  "all_pricing_urls": [
+    "https://skipio.com/pricing/#pricing",
+    "https://skipio.com/pricing/#compare"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription tiers with additional usage-based fees for outbound messages and optional carrier registration.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Entry-level plan for small businesses.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5,000 Contacts",
+        "1,500 Outbound Messages",
+        "Unlimited Inbound Messages",
+        "Contact Notes",
+        "MMS",
+        "Call Forwarding",
+        "Message Library",
+        "Unlimited Keywords",
+        "1 Integration",
+        "100 Voicemail Drops/Month",
+        "Outbound Calling",
+        "Multi-User (Multiple Phone #\u2019s)",
+        "Web2Txt"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 1,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 5000
+          },
+          {
+            "name": "Outbound Messages",
+            "value": 1500
+          },
+          {
+            "name": "Voicemail Drops",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "For growing businesses.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "15,000 Contacts",
+        "5,000 Outbound Messages",
+        "Unlimited Inbound Messages",
+        "Contact Notes",
+        "MMS",
+        "Call Forwarding",
+        "Message Library",
+        "Unlimited Keywords",
+        "Unlimited Integrations",
+        "350 Voicemail Drops/Month",
+        "Outbound Calling",
+        "Multi-User (Multiple Phone #\u2019s)",
+        "Web2Txt"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 15000
+          },
+          {
+            "name": "Outbound Messages",
+            "value": 5000
+          },
+          {
+            "name": "Voicemail Drops",
+            "value": 350
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Advanced features for larger teams.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "30,000 Contacts",
+        "15,000 Outbound Messages",
+        "Unlimited Inbound Messages",
+        "Contact Notes",
+        "MMS",
+        "Call Forwarding",
+        "Message Library",
+        "Unlimited Keywords",
+        "Unlimited Integrations",
+        "500 Voicemail Drops/Month",
+        "Outbound Calling",
+        "Multi-User (Multiple Phone #\u2019s)",
+        "Web2Txt"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 30000
+          },
+          {
+            "name": "Outbound Messages",
+            "value": 15000
+          },
+          {
+            "name": "Voicemail Drops",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large-scale operations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "60,000 Contacts",
+        "40,000 Outbound Messages",
+        "Unlimited Inbound Messages",
+        "Contact Notes",
+        "MMS",
+        "Call Forwarding",
+        "Message Library",
+        "Unlimited Keywords",
+        "Unlimited Integrations",
+        "1,000 Voicemail Drops/Month",
+        "Outbound Calling",
+        "Multi-User (Multiple Phone #\u2019s)",
+        "Web2Txt"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 60000
+          },
+          {
+            "name": "Outbound Messages",
+            "value": 40000
+          },
+          {
+            "name": "Voicemail Drops",
+            "value": 1000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Outbound Messages",
+      "unit": "per message",
+      "base_price": 0.06,
+      "tiers": null
+    },
+    {
+      "metric_name": "Voicemail Drops",
+      "unit": "per drop",
+      "base_price": 0.07,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Campaign Carrier Fee",
+      "fee_amount": 15.0,
+      "fee_description": "Monthly fee for campaign registration."
+    },
+    {
+      "fee_name": "Vetting Fee",
+      "fee_amount": 40.0,
+      "fee_description": "Optional one-time fee for enhanced vetting."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:13:44.412560",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b274a2bd-837c-4864-838e-7b37c4cae5f5",
+    "name": "Skipio",
+    "slug": "skipio",
+    "description": "Skipio is a conversational business texting platform that helps you automate sales and customer communication.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/3c24c4bf2382a9256eee6ae3ff9118c9_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 3
+  }
+}

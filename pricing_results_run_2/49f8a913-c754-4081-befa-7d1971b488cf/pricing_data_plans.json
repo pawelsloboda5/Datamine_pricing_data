@@ -1,0 +1,254 @@
+{
+  "app_id": "wix",
+  "app_name": "Wix",
+  "app_slug": "wix",
+  "pricing_url": "https://www.wix.com/pricing",
+  "source_url": "https://www.wix.com/plans",
+  "all_pricing_urls": [
+    "https://www.wix.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Prices do not include VAT, which is determined based on the user's billing country.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Business Elite",
+      "tier_description": "Scale your business",
+      "monthly_price": 159.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free domain for 1 year",
+        "Unlimited storage space",
+        "Multi-cloud hosting",
+        "Advanced marketing suite",
+        "Accept payments",
+        "Advanced eCommerce",
+        "Advanced developer platform",
+        "100 site collaborators"
+      ],
+      "limits": {
+        "users": 100,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Lead-capture forms",
+            "value": 75
+          },
+          {
+            "name": "Fields per form",
+            "value": 100
+          },
+          {
+            "name": "Automated sales tax",
+            "value": "500 transactions per month"
+          },
+          {
+            "name": "Product catalog",
+            "value": 50000
+          },
+          {
+            "name": "Dropshipping by Modalyst",
+            "value": 50000
+          },
+          {
+            "name": "Back in stock notifications",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Grow your brand",
+      "monthly_price": 36.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free domain for 1 year",
+        "100 GB storage space",
+        "Multi-cloud hosting",
+        "Standard marketing suite",
+        "Accept payments",
+        "Standard eCommerce",
+        "10 site collaborators"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "100 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Lead-capture forms",
+            "value": 25
+          },
+          {
+            "name": "Fields per form",
+            "value": 75
+          },
+          {
+            "name": "Automated sales tax",
+            "value": "100 transactions per month"
+          },
+          {
+            "name": "Product catalog",
+            "value": 50000
+          },
+          {
+            "name": "Dropshipping by Modalyst",
+            "value": 250
+          },
+          {
+            "name": "Back in stock notifications",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Core",
+      "tier_description": "Engage your audience",
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free domain for 1 year",
+        "50 GB storage space",
+        "Multi-cloud hosting",
+        "Basic marketing suite",
+        "Accept payments",
+        "Basic eCommerce",
+        "5 site collaborators"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "50 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Lead-capture forms",
+            "value": 10
+          },
+          {
+            "name": "Fields per form",
+            "value": 50
+          },
+          {
+            "name": "Automated sales tax",
+            "value": "not included"
+          },
+          {
+            "name": "Product catalog",
+            "value": 50000
+          },
+          {
+            "name": "Dropshipping by Modalyst",
+            "value": 25
+          },
+          {
+            "name": "Back in stock notifications",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Light",
+      "tier_description": "Get the basics",
+      "monthly_price": 17.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Free domain for 1 year",
+        "2 GB storage space",
+        "Multi-cloud hosting",
+        "Light marketing suite",
+        "2 site collaborators"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "2 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Lead-capture forms",
+            "value": 4
+          },
+          {
+            "name": "Fields per form",
+            "value": 10
+          },
+          {
+            "name": "Automated sales tax",
+            "value": "not included"
+          },
+          {
+            "name": "Product catalog",
+            "value": "not included"
+          },
+          {
+            "name": "Dropshipping by Modalyst",
+            "value": "not included"
+          },
+          {
+            "name": "Back in stock notifications",
+            "value": "not included"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "VAT",
+      "fee_amount": null,
+      "fee_description": "Determined based on the user's billing country."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:25:27.132472",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "49f8a913-c754-4081-befa-7d1971b488cf",
+    "name": "Wix",
+    "slug": "wix",
+    "description": "The Wix website builder gives businesses of any size the tools to create, manage and grow a fully integrated and dynamic online presence.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/f68f701a66fac98d526dad237ab11d84.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders"
+    ],
+    "category_slugs": [
+      "cms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 20
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "app_id": "mrpeasy",
+  "app_name": "MRPeasy",
+  "app_slug": "mrpeasy",
+  "pricing_url": "https://www.mrpeasy.com/pricing/",
+  "source_url": "https://www.mrpeasy.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.mrpeasy.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on a per-user model with additional charges for users beyond 10.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Basic features for small teams.",
+      "monthly_price": 49.0,
+      "annual_price": 588.0,
+      "annual_discount_percentage": 8.33,
+      "setup_fee": null,
+      "features": [
+        "Production Planning and Reporting",
+        "BOM Management",
+        "Drag and Drop Rescheduling",
+        "Lot Traceability",
+        "Reporting via Internet-Kiosk",
+        "Supply Chain Management (SCM)",
+        "Warehouse Management System (WMS)",
+        "Workforce Planning",
+        "Customer Relationship Management (CRM)",
+        "Standard Accounting",
+        "Multi-Language",
+        "Multi-Currency"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Additional Users",
+            "value": "$79 per 10 users"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Includes advanced features for growing businesses.",
+      "monthly_price": 69.0,
+      "annual_price": 828.0,
+      "annual_discount_percentage": 8.33,
+      "setup_fee": null,
+      "features": [
+        "All Starter features",
+        "B2B Customer Portal",
+        "Co-product BOM",
+        "Custom Fields",
+        "Disassembly BOM",
+        "Expiry Date",
+        "Product Configurator",
+        "Overlap and Special Sequence of Production Operations",
+        "Parallel Execution of Production Operations",
+        "Piece Payment",
+        "Quality Control",
+        "Serial Numbers",
+        "Subcontracting",
+        "Tiered Pricing"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Additional Users",
+            "value": "$79 per 10 users"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Comprehensive features for large enterprises.",
+      "monthly_price": 99.0,
+      "annual_price": 1188.0,
+      "annual_discount_percentage": 8.33,
+      "setup_fee": null,
+      "features": [
+        "All Professional features",
+        "Approval System",
+        "Barcode System",
+        "Backward Production Scheduling",
+        "Maintenance Management System",
+        "Master Production Schedule",
+        "Multiple Stocks",
+        "Multiple Production Sites",
+        "Packing",
+        "Return Merchandise Authorization",
+        "Revision/Version Control System",
+        "Sales Management",
+        "Two-factor Authentication"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Additional Users",
+            "value": "$79 per 10 users"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Unlimited",
+      "tier_description": "Full access with no feature restrictions.",
+      "monthly_price": 149.0,
+      "annual_price": 1788.0,
+      "annual_discount_percentage": 8.33,
+      "setup_fee": null,
+      "features": [
+        "All Enterprise features",
+        "API, webhooks"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Additional Users",
+            "value": "$79 per 10 users"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T10:13:21.056092",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "20b628f6-6212-4f13-a5d7-eaf64e7672f7",
+    "name": "MRPeasy",
+    "slug": "mrpeasy",
+    "description": "MRPeasy is a cloud-based MRP system for small manufacturers (10 - 200 employees)",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/5abf2f99043649ebd0e1f349554332ff.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Product Management"
+    ],
+    "category_slugs": [
+      "product-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 1
+  }
+}

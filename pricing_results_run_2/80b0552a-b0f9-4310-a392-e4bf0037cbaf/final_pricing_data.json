@@ -1,0 +1,90 @@
+{
+  "app_id": "stocktwits",
+  "app_name": "StockTwits",
+  "app_slug": "stocktwits",
+  "pricing_url": "https://stocktwits.com/subscriptions",
+  "source_url": "https://stocktwits.com/subscriptions",
+  "all_pricing_urls": [
+    "https://stocktwits.com/subscriptions"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual subscriptions offer a discount of up to 16% compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Ad Free",
+      "tier_description": "Ad-free experience across all platforms.",
+      "monthly_price": null,
+      "annual_price": 85.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Ad-free experience across all platforms"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Edge",
+      "tier_description": "Enhanced features for advanced users.",
+      "monthly_price": null,
+      "annual_price": 229.5,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Ad-free experience",
+        "Stocktwits social sentiment data",
+        "Expanded markets list data",
+        "Advanced Search",
+        "Create posts up to 10,000 characters long",
+        "Coming soon: Expanded watchers data",
+        "Coming soon: Additional stream filters"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom API access for enterprises.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Personalized API access"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:35:19.735678",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "80b0552a-b0f9-4310-a392-e4bf0037cbaf",
+    "name": "StockTwits",
+    "slug": "stocktwits",
+    "description": "StockTwits is a financial communications platform for the investing community. You can easily learn from other stock traders and get new ideas.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/2ba0cb561679e5b388f82351a6f76cac.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Social Media Accounts"
+    ],
+    "category_slugs": [
+      "social"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

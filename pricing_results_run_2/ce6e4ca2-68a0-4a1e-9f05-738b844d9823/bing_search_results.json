@@ -1,0 +1,19 @@
+{
+  "app_name": "Pensight",
+  "app_slug": "pensight-app",
+  "search_term": "Find the official pricing page URL for Pensight (pensight-app.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744694509.6177127,
+  "response_text": [
+    "I couldn\u2019t locate a specific pricing page directly on Pensight's official website. You may visit their [official website](https://pensight-app.com) for more details."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://pensight-app.com",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\pensight-app\\20250415_012150"
+}

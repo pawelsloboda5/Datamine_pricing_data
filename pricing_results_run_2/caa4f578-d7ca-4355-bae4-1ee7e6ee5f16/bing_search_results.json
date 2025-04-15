@@ -1,0 +1,198 @@
+{
+  "app_name": "Chatra",
+  "app_slug": "chatra",
+  "search_term": "Find the official pricing page URL for Chatra (chatra.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744687336.6244464,
+  "response_text": [
+    "The official pricing page for Chatra can be found at https://chatra.com/pricing/\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Chatra Pricing and Plans. Feature comparison.",
+      "url": "https://chatra.com/plans/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://chatra.com/plans/",
+      "is_accessible": true,
+      "content": "[](https://chatra.com/)\n\nFeatures and plans\n------------------\n\nMonthly Yearly\n\nFree\n----\n\n$0\n\none agent  \nfree forever\n\nEssential\n---------\n\n$31\n\n$25\n\nper agent  \nper month\n\nfree 10-day trial, no credit card required\n\nPro\n---\n\n$41\n\n$33\n\nper agent  \nper month\n\nfree 10-day trial, no credit card required\n\n|  | Free\n | Essential\n\n | Pro\n\n |\n| --- | --- | --- | --- |\n| Channels |  |  |  |\n| Online & offline chat widget  \nUnlimited websites, customization, SSL-encryption |  |  |  |\n| Maximum number of chats per month  \n | 20 | \u221e | \u221e |\n| Email helpdesk |  |  |  |\n| Facebook messenger |  |  |  |\n| Instagram  \n |  |  |  |\n|   \nBots & automation |  |  |  |\n| [Intelligent chat bot](https://chatra.com/bot/) |  |  |  |\n| [Form & lead capture bot](https://chatra.com/help/#form-bot) |  |  |  |\n| [Targeted messages & triggers](https://chatra.com/help/#auto-actions) |  |  |  |\n|   \nVisitor intelligence |  |  |  |\n| Basic visitor info |  |  |  |\n| Detailed visitor info |  |  |  |\n| [Real-time visitor list](https://chatra.com/help/#visitors)  \nMax. number of simultaneous visitors in the list : paid agent seats \u00d7 10 |  |  |  |\n| Shopping cart contents |  |  |  |\n|   \nAgent productivity |  |  |  |\n| [Browser dashboard](https://app.chatra.io/) |  |  |  |\n| Windows & Mac desktop apps |  |  |  |\n| [iOS](https://apps.apple.com/app/chatra/id998481819?ls=1) & [Android](https://play.google.com/store/apps/details?id=com.chatra.app) mobile apps |  |  |  |\n| Unlimited concurrent conversations |  |  |  |\n| Notifications |  |  |  |\n| Chat notes |  |  |  |\n| Saved replies |  |  |  |\n| Invisible mode |  |  |  |\n| Team chats |  |  |  |\n| Operating hours |  |  |  |\n| Agent groups |  |  |  |\n|   \nChat functions |  |  |  |\n| Complete conversation history |  |  |  |\n| E-mail chat transcripts |  |  |  |\n| Read receipts |  |  |  |\n| Agent names, titles and photos |  |  |  |\n| Typing indicators |  |  |  |\n| Email open tracking |  |  |  |\n| Group chats |  |  |  |\n| Typing insights |  |  |  |\n| File transfer |  |  |  |\n| Visitor banning |  |  |  |\n| [Screensharing via Median](https://chatra.com/help/integrations/screensharing/) |  |  |  |\n| Chat Ratings |  |  |  |\n|   \nAnalytics and reporting |  |  |  |\n| [Google Analytics](https://chatra.com/help/analytics/) |  |  |  |\n| Chat Reports |  |  |  |\n| Data export |  |  |  |\n|   \nIntegrations |  |  |  |\n| [WordPress](https://chatra.com/help/cms/wordpress/) |  |  |  |\n| [Shopify](https://chatra.com/help/cms/shopify/) |  |  |  |\n| [WooCommerce](https://chatra.com/help/cms/woocommerce/) |  |  |  |\n| [Ecwid](https://chatra.com/help/cms/ecwid/) |  |  |  |\n| [Slack](https://chatra.com/help/integrations/slack/) |  |  |  |\n| [Bigcommerce](https://chatra.com/help/cms/) |  |  |  |\n| [Help Scout](https://chatra.com/help/integrations/helpscout/) |  |  |  |\n| [Zapier](https://chatra.com/help/integrations/zapier/) |  |  |  |\n| Email integration |  |  |  |\n|   \nAPI & developer tools |  |  |  |\n| [JavaScript API](https://chatra.com/help/api/#api-reference) |  |  |  |\n| [Integration with existing users](https://chatra.com/help/api/#integration) |  |  |  |\n| [REST API](https://chatra.com/help/api/#rest) |  |  |  |\n| [Outgoing Webhooks](https://chatra.com/help/api/#webhooks) |  |  |  |\n\n![Image 1](https://chatra.com/_i/_NEW/Intro/he.png)\n\nGet started for free in just 3 minutes\n--------------------------------------\n\n*   Free for as long as you want\n*   No credit card required\n\n![Image 2](https://chatra.com/_i/_NEW/Intro/she.png)\n\nChatra pricing and plans. Feature comparison.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "chatra",
+        "app_name": "Chatra",
+        "app_slug": "chatra",
+        "pricing_url": "https://chatra.com/",
+        "source_url": "https://chatra.com/",
+        "all_pricing_urls": [
+          "https://chatra.com/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 10,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": null,
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Free forever for one agent.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Online & offline chat widget",
+              "Unlimited websites, customization, SSL-encryption",
+              "Maximum number of chats per month: 20"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Essential",
+            "tier_description": "Paid plan with additional features.",
+            "monthly_price": 31.0,
+            "annual_price": 25.0,
+            "annual_discount_percentage": 19.35,
+            "setup_fee": null,
+            "features": [
+              "Online & offline chat widget",
+              "Unlimited websites, customization, SSL-encryption",
+              "Maximum number of chats per month: unlimited",
+              "Detailed visitor info",
+              "Real-time visitor list",
+              "Shopping cart contents",
+              "Saved replies",
+              "Invisible mode",
+              "Team chats",
+              "Operating hours",
+              "Agent groups",
+              "Complete conversation history",
+              "E-mail chat transcripts",
+              "Read receipts",
+              "Agent names, titles and photos",
+              "Typing indicators",
+              "Email open tracking",
+              "Group chats",
+              "Typing insights",
+              "File transfer",
+              "Visitor banning",
+              "Screensharing via Median",
+              "Chat Ratings",
+              "Google Analytics",
+              "Chat Reports",
+              "Data export",
+              "WordPress integration",
+              "Shopify integration",
+              "WooCommerce integration",
+              "Ecwid integration",
+              "Slack integration",
+              "Bigcommerce integration",
+              "Help Scout integration",
+              "Zapier integration",
+              "Email integration",
+              "JavaScript API",
+              "Integration with existing users",
+              "REST API",
+              "Outgoing Webhooks"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Advanced plan with all features.",
+            "monthly_price": 41.0,
+            "annual_price": 33.0,
+            "annual_discount_percentage": 19.51,
+            "setup_fee": null,
+            "features": [
+              "Online & offline chat widget",
+              "Unlimited websites, customization, SSL-encryption",
+              "Maximum number of chats per month: unlimited",
+              "Detailed visitor info",
+              "Real-time visitor list",
+              "Shopping cart contents",
+              "Saved replies",
+              "Invisible mode",
+              "Team chats",
+              "Operating hours",
+              "Agent groups",
+              "Complete conversation history",
+              "E-mail chat transcripts",
+              "Read receipts",
+              "Agent names, titles and photos",
+              "Typing indicators",
+              "Email open tracking",
+              "Group chats",
+              "Typing insights",
+              "File transfer",
+              "Visitor banning",
+              "Screensharing via Median",
+              "Chat Ratings",
+              "Google Analytics",
+              "Chat Reports",
+              "Data export",
+              "WordPress integration",
+              "Shopify integration",
+              "WooCommerce integration",
+              "Ecwid integration",
+              "Slack integration",
+              "Bigcommerce integration",
+              "Help Scout integration",
+              "Zapier integration",
+              "Email integration",
+              "JavaScript API",
+              "Integration with existing users",
+              "REST API",
+              "Outgoing Webhooks"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:22:24.272522",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://chatra.com/pricing/\u30103:0\u2020source\u3011.",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\chatra\\20250414_232231"
+}

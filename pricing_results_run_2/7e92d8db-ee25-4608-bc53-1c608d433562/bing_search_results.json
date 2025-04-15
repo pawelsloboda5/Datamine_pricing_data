@@ -1,0 +1,207 @@
+{
+  "app_name": "Coda",
+  "app_slug": "coda",
+  "search_term": "Find the official pricing page URL for Coda (coda.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744710305.107596,
+  "response_text": [
+    "The official pricing page for Coda is: [https://coda.io/pricing](https://coda.io/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://coda.io/pricing",
+      "is_accessible": true,
+      "content": "FreeProTeamEnterprise\n\nFree\n\nTry for free\n\nFree for you and your team\n\nTry for free\n\nPro\n\nGet started\n\n$10/month **per Doc Maker**\n\nGet started\n\nTeam\n\nGet started\n\n$30/month **per Doc Maker**\n\nGet started\n\nEnterprise\n\nLet's chat\n\nCustom\n\nLet's chat\n\nCompare plans\n\nDoc size\n\nBuilding blocks like pages and tables that power your writeups, trackers, hubs, and more contribute to doc size. [Learn more](https://help.coda.io/en/articles/3388778-how-is-doc-size-calculated)\n\nUnlimited for unshared docs\n\nUnlimited\n\nUnlimited\n\nUnlimited\n\nCoda AI\n\nDelegate tasks, rethink content creation, and get insights faster. Manage AI credits for your workspace. [Learn more](https://help.coda.io/en/articles/8411650)\n\nTry for free\n\nSome credits\n\nMore credits\n\nMost credits\n\nAutomations\n\nPut your repetitive yet important tasks \u2014 like sending daily updates \u2014 on autopilot. [Learn more](https://help.coda.io/en/articles/2423860-using-automations)\n\nLow quota\n\nMedium quota\n\nUnlimited\n\nUnlimited\n\nAttachments\n\n1GB per doc\n\n5GB per doc\n\nUnlimited\n\nUnlimited\n\nPacks\n\nPacks connect your doc to the apps you use every day. With select Packs, you can sync, edit, and update data from Coda. [Learn more](https://coda.io/packs)\n\nManual data refresh\n\nPacks included Always free\n\n[![Image 1: Spotify](https://codahosted.io/packs/1018/unversioned/assets/LOGO/d1fc08ea8e362430fafbc44461a525d9a2a1ee93463dfe25442a6d04f39386402f8fbc09ab1cc6447cd5f9fad449adce42923f6110e7c94021f4afe08858378b3cb0d61c5693fe9f4109e8b331b69a12b857ba44d4fc363ec27f3230d2c4511e9346f03d)](https://coda.io/packs/spotify-1018)[![Image 2: Wikipedia](https://codahosted.io/packs/1031/unversioned/assets/LOGO/008aa287630871d952d3d506bb1da48b03853ef79c705a576c9efdc421604540c467f2212378b3f16c3b2aeca90ffdf3e3fdc4ec7c9365efbc38ebd338e28fc4905ca435e12f8432f62aadb7d2c04f9781ae3f3b687bed163faf76ab3715acf0d2d81a20)](https://coda.io/packs/wikipedia-1031)[![Image 3: Dropbox](https://codahosted.io/packs/1032/unversioned/assets/LOGO/fc4c5294633d5a359cee24db0adb17d6d6445151fc9c85c7b10d05451365da60de567ac8a524d132edb9c0dd6e5494ceeecef1785b1a2732ebdbe7f8d5eadfcd0e88cb6d7b5a67bc30f8860f30c9c5691585ddb94bafd651e122de6617b704047f98ad5d)](https://coda.io/packs/dropbox-1032)[![Image 4: Weather](https://codahosted.io/packs/1015/unversioned/assets/LOGO/e8f5839c5b20dc4bbb47611295b365218afe9d14d2cfa3bbae91d8804ecc57954e9a94cfcab2347167bfefe8fc0213845e965a19c954852494885065561237cf7278db472d9a48865d018aea7114a248ef359db9e1a880347236f2ef8c0276a3d4913269)](https://coda.io/packs/weather-1015)[![Image 5: YouTube](https://codahosted.io/packs/1030/unversioned/assets/LOGO/a1c505aa1e9929cfba8bc5efbc8221ef861b56a2692610cd24b2b722cc92982e03e16300b42ae032c56bcf01a2e3dbbc913c48e22879955a476eba53a1b9b87e0c68fa287c743a8c868f943703319aabd44046aaf84fe2fe7de3afa67a6589d92b603a6f)](https://coda.io/packs/youtube-1030)[![Image 6: Trigonometry](https://codahosted.io/packs/1006/unversioned/assets/LOGO/fcf93614d56f06017f861bf6360ad926d296cbfa1442a97267d9df0a9e32401163358c9e37425799c204ae1be3fb94d6a1e415f498ea9844a4af28c45aede4838df2fcf6ad30ebe2d135ee43d4f509dea90c6e08f31f8ed306c1b1ae5b8f80de30280e53)](https://coda.io/packs/trigonometry-1006)[![Image 7: NBA](https://codahosted.io/packs/1039/unversioned/assets/LOGO/7a899d0d6a6f4e88431c65593c170876575ff8d44cf81c0e1b0ca715dee3a5d2fa39638b11acf016e210f3ecdf95f18520cebdb144989e079c9af9ac089abc7bccb19db527c570d031c366b36740f9bcc0eac26d6871c93fa02d448f19ff3694765cd5be)](https://coda.io/packs/nba-1039)[![Image 8: MLB](https://codahosted.io/packs/1038/unversioned/assets/LOGO/b60f87e45e8395bd89ac5d889aed4f69f1b5fdb2742aa54c61ef605f01dee25c11549531c4bbf4f042371e9bed8bdc2e9917a27d73c2f290129480c5a6532309d34cfcee4d381e088f2c60ff78e3d3cdf740d21f13652c803e92ce20c13e3d6b3ded4a67)](https://coda.io/packs/mlb-1038)[![Image 9: Barcode](https://codahosted.io/packs/1053/unversioned/assets/LOGO/62e5ecbefa7145203eed1a071002dff4f27fe1f0799f3c3f6d306ddeb927035da39c54d905a381983f26ae8c6a7d3746288967d40267f510473a9fbddbbca69d297bc3c5a1012cf3a0bdf62be9bbc47d1b9dfbce6e821f6ae99901acd3d623b83e130066)](https://coda.io/packs/barcode-1053)[![Image 10: Coda Doc List](https://codahosted.io/packs/1021/unversioned/assets/LOGO/c13c0b52c38de6c700e7e30b9c2f3e1a5dcad65fc0f984ec40d558284449332b4ec2346c625407bef560ad20e745c0082acb88711b8d4fb5a72610b511c8f67f956ecb7c8b9df123ffcf34e1b2b8dc8b5cb9adbb1f2744326f29b02f081f575d3eeac164)](https://coda.io/packs/coda-doc-list-1021)[![Image 11: Cross-doc](https://codahosted.io/packs/1054/unversioned/assets/LOGO/c7b61f8a5f43bfdfcc9bda4fa5b0788dcf0686efdff6ea382d480ffe14606b634ea4d91715d3777a0e1882b3e5127bd2e2e4cb8513b05398bab962202b53b575fc629dd758f5de66cd5bf28c8ddd68e54134d6e20a04a4d487990e8f6b244f22d9fe2c45)](https://coda.io/packs/cross-doc-1054)[![Image 12: Cryptography](https://codahosted.io/packs/1069/unversioned/assets/LOGO/c2b8d8b763fb25d6ada91c51af463459e772c65f23e539454b08039eaf15124008407f6df7bb86603db445a69ca7a087af6e66bb41fa55891c3da239bc922a3d3c015e6630db37ee7a21d3d02b862d4b57916624af50d2c042c594616a4a38116c1de900)](https://coda.io/packs/cryptography-1069)\n\nSee all 26 Packs\n\nDaily data refresh\n\nPacks included $50 value\n\n[![Image 13: Gmail](https://codahosted.io/packs/1004/unversioned/assets/LOGO/a7ea9d27f7b784357894e3477ff6f8d09a528be2f8adb73fcbc0323bef3e5edce2d5afbfa06b869b1374899ed58f9f96809dc1a6d8f2e34913cbba2be945da8812da3696a724a38666f75ebf75502d43a0b4428ceaea3fb2d719a183ff9c4fba12ab76bd)](https://coda.io/packs/gmail-1004)[![Image 14: Slack](https://codahosted.io/packs/1000/unversioned/assets/LOGO/ded426ca1dcacfe161e0909df1234ef3142aea2d17736ed1dcac0abe781de72fc44b924abfe1ca9aa765548357306eb1ac95de484ee6e0e0f27e5b9f2f5bc7f94b127dc1dee31b3a4f9a53fcf8f0fa6fc380af8814b5baddf1e3d5b39c8cc6d369b0ed80)](https://coda.io/packs/slack-1000)[![Image 15: Google Calendar](https://codahosted.io/packs/1003/unversioned/assets/LOGO/af822f02808fc0f3440b8ac2a2b9735829dd8ffd24bae1cef7c3fb0afecd22a944202ab9288d94678e053df4c007aa4f3bc8b4860877ddab79fe248b4cfe0a5b1e4ab62dc7cf12967b6b60ee69541951b61b9381271f3c3736dc13c5822cfc8281d229af)](https://coda.io/packs/google-calendar-1003)[![Image 16: Twilio](https://codahosted.io/packs/1016/unversioned/assets/LOGO/0402f63c76d6b65e4248dadc3c214fb41c7eb4369e80a7e95bf1f4dea655aa39d9186ceb709fac0c8a18b0deb29f6cf5cf9cf84a1ed7107819d031efcb121ed70252e6a6c63b0119236f552b9eac2651d33f59eefbac9f1fc8dcd12c33a3f6ae1f4822cb)](https://coda.io/packs/twilio-1016)[![Image 17: Google Natural Language](https://codahosted.io/packs/1014/unversioned/assets/LOGO/04986b23c012db982d623e802954d9ef0ec4a08cb44297ed0dd0b62c53025311dc7cbf5bccdda15ffe1022a3d9723371091d2fd8a15ceb62c98a25dcd2661144f3e052ba5d87a90c1c51a12289e99982d3fc0bdc19b636db15b1008e415cbeaac3bad577)](https://coda.io/packs/google-natural-language-1014)[![Image 18: Google Search Console](https://codahosted.io/packs/1049/unversioned/assets/LOGO/bde162ccfe02211aef511104478226ca9b439f58ead10a50aec1d7ef89140c05ab5176baeafd6010106a3b14e4a72207fa4654461533337419c281490cc890f93aed3e782a75ac807d766695166b009c26ccf8dead0591b03bca9a6a8251c87c2cd44912)](https://coda.io/packs/google-search-console-1049)[![Image 19: Shopify](https://codahosted.io/packs/1034/unversioned/assets/LOGO/4a7c495b648da30c4e94cce54415a048dc5adc2ff05c8bde180edf66d6637550c916e68cc62a14fe9bcef8d3a38bec46fe7dcde1ab95456a8cd33a446286857d67d7ee8a39ddd752b64a5250af72bd284b726e908e40f5c31e929b65e4b0fb4b9fe52c44)](https://coda.io/packs/shopify-1034)[![Image 20: Google Contacts](https://codahosted.io/packs/1011/unversioned/assets/LOGO/2789d10d3e4e495d1ffd732d4509cc4aba6969311b0d3fd4622d6339080cc42ef21d342ff1f68f0379f6ef06797323b81a0c8efeafdafc7a24b8e9f23f673f7f32c5b6fa4844c7005f00e9f8825ac8ccef2fab22d538ed403bb17f697d4cb4bef4f9ca4e)](https://coda.io/packs/google-contacts-1011)[![Image 21: Google Sheets](https://codahosted.io/packs/22507/unversioned/assets/LOGO/9932de359834a383e8de54192f4c762bdb419950386013510f167b445cc71240af58328cf41d4b285df23c4faf27f90c930f2e408fffa08f542edc1eae019392a1b657ec74ecbf09839ec427b9ea6fd806b5a3c976ff9d42810253721ae3ca1c28ade910)](https://coda.io/packs/google-sheets-22507)[![Image 22: Google Translate](https://codahosted.io/packs/1063/unversioned/assets/LOGO/5fbff85c069f05a25fbd192cb4ef64daaaaa14a2459357f5c2a5ff166f6aaddaaebc2bcafdad1fc49c065ff000f01cbed4b0e87f77aa15d403f6f6ca03e9e946421c6ed7f0a1da12616e4ccdc321dee92484078a15e1da66e8dea052f657f8b2faf3d218)](https://coda.io/packs/google-translate-1063)\n\nSee all 36 Packs\n\nHourly data refresh\n\nPacks included $279 value\n\n[![Image 23: Jira](https://codahosted.io/packs/1052/unversioned/assets/LOGO/b1b1ba834f26e6e1269d17cb503f657979abadd9377e022efb95508266bac9627aa8ae3ffd9221ba03fab3f367938a75d1e281393667ac1b97bda4fd99dd8c3b296c429a356c843a1c06d832dbe5e31c5bd6ded5acd4decd8fb1273a3d0bd200d5bab51d)](https://coda.io/packs/jira-1052)[![Image 24: GitHub](https://codahosted.io/packs/1013/unversioned/assets/LOGO/c096a0cf4a2b4428c7f0129e783f2272c30ff12ae3800cccdc6401072aa0b62b92f321ce83a1a40ec0dd54dd89156f487f21f275bab69cc27d3a5a7135a4703574082b7df6469a3ae95c128049676ce2353f3cd8fd3dbf3b0b6e699172a7b12c6f558c74)](https://coda.io/packs/github-1013)[![Image 25: Figma](https://codahosted.io/packs/1010/unversioned/assets/LOGO/f31b161b2a200180175ef564231c04c35f85f28c30fe2f08dca5adee2181f55c64e31fa5d839f5d6ab29543a2146fcd8d76401c442dcb231cbbc42442ccfd7f962ec8a60917ece91fe90f774294f79d9c423c4fbc8ab60721ae427ff5bccab15939c2777)](https://coda.io/packs/figma-1010)[![Image 26: Intercom](https://codahosted.io/packs/1002/unversioned/assets/LOGO/57ecce05f3a241974e40a937a1a0ea6b20f7ae7378f3397153681ef12d3f8a782c27fdca9c3e359875d492ca081317f9f01e9b4f1bb1dbd290fe8d0cd4d82ab12c60f8ca91d20c681a4b23eb4e8a1e82aad3228136611e3cf0c4107fabdcc06c3cd70a57)](https://coda.io/packs/intercom-1002)[![Image 27: Greenhouse](https://codahosted.io/packs/1022/unversioned/assets/LOGO/918136abc80c6ee52405abcc8fb5fb01f9cdb8acef2e54dd8ed47cbcbb26f6c0fb4b4adede513a2f83a3d1936351deeb06d30fccc4b2d371c0a09403d2506b5b45392e206b86860002cb8083333840ea9226eeb64cf212fbaa0a27789cbaba922cbf3994)](https://coda.io/packs/greenhouse-1022)[![Image 28: Airtable](https://codahosted.io/packs/11262/unversioned/assets/LOGO/4fa94cb12751cdd5d95984464e2d7f740f5d1256b34ad679a4b0e0c361e47e3a29a668f909de8baa6f7d6803ffddfe995cb068875f1416e64201a795f5fec9c9cddef08c9d22a6aefbb34d66c7aae3e287e6bfccce77d64e0426f23f0eaf75b5ec339364)](https://coda.io/packs/airtable-11262)[![Image 29: Asana](https://codahosted.io/packs/11512/unversioned/assets/LOGO/ab02c00d53650bcd5ff0493a63d2ef79e09ebc2cc13c93e5afb74b1844f033dd5c5d3daad667ec9835ac6912325bc3246d7eac034361b71ad339a1a84ce0177dd8d414a70f6b77bf76332fc6570bb364331596968f96bb71ce66e15b203a3c285c5a4ac1)](https://coda.io/packs/asana-11512)[![Image 30: Bitly](https://codahosted.io/packs/11975/unversioned/assets/LOGO/b3342cbd0b129cbaaa5fc85c128f36f6d28b05b890933658b6a06701b72f9bbcac692007a1dd77ccd4d6af2365363298921676c5b4ffbe4c7a3db0e0faa3aee4118aa6ccc6dcd77c85aeb0cef5d9bfe8010080b0e92b73c4f788d0f3fd41b2dff26b3d6a)](https://coda.io/packs/bitly-11975)[![Image 31: Canvas LMS](https://codahosted.io/packs/10641/unversioned/assets/LOGO/95f4b12cffc340f7cdb4856296c67f2de93b72d6d64aeb847cf9e11e4e1ff33d9a58a39dc8c716a3dde3bafceb49d5bcb64ce3760217ca1e88ff22255060a7a209136b3c43a8bb9dfcdc75dca2b8eac677572b83e563ddfb04505f3a526c87a07d56f265)](https://coda.io/packs/canvas-lms-10641)[![Image 32: ClickUp](https://codahosted.io/packs/16422/unversioned/assets/LOGO/4243072e177c03b845de706f2d5f51910d662272f08fad50c91e6348f4ad843bdfb76ec9b30c9b1ce783e78a7384669b3638abf2eed89d255813047f3bdb4e4d4f176bd1aacdaad4e086a583c4b81adc2139739d04762058111ecf38bb02d3a54ea18037)](https://coda.io/packs/clickup-16422)[![Image 33: Coda Webhook](https://codahosted.io/packs/11962/unversioned/assets/LOGO/30f72389c73e5dfd472b8743ccb2e9690412d7c3b18bf2876f3664bfe566f495d9c3331448269ee523495b752fa068db64411f1ff33994c0a1282b005f0de1284a5640a7144bb5212534eb351415e946ae1f14210dd7bc6f92c472ccfa85fee8b21f82a3)](https://coda.io/packs/coda-webhook-11962)[![Image 34: Doc Explorer](https://codahosted.io/packs/10415/unversioned/assets/LOGO/93d740c13d7a0b24f276969560892b8cf51f4d9e7c2182956953b1a1f5a487e3eec53c009d6be8f51223765f69a4f522f685bbdd0881f80654f2fea643c842a6fbfc68eff95dee313906238cd79d5879f5ab3c056b69ed709e5d6ccedcaf9027d109893c)](https://coda.io/packs/doc-explorer-10415)\n\nSee all 63 Packs\n\nHourly data refresh\n\nPacks included $519 value\n\n[![Image 35: Salesforce](https://codahosted.io/packs/1090/unversioned/assets/LOGO/a680a988b73a063660d96b8dab7e1696a70a96d89f612a72cfcf8f1711526e9381c8875d7a091e704662f150aa508a5550a552b01a7b63bb03976eb1a0073386c05831d07bda2f7e5de12dc102551c6e364b50d7c4b778e29e66270b0e7fe372a08ff2ec)](https://coda.io/packs/salesforce-1090)[![Image 36: Microsoft Teams](https://codahosted.io/packs/10591/unversioned/assets/LOGO/5b248f49ef053e7e4b273a6c2a5c89bf9f8e64c1ca0bcdeeb1e7529a0f9e9f5e4573193b95bfbbec671997a4cbcb84db54dacfaf12b10cf2a45118f135bea4dba2e0216af4af4e79e0734c68ab01b567bb1287ef9f6de0c530a1759004aacd9679c62824)](https://coda.io/packs/microsoft-teams-10591)[![Image 37: Gong](https://codahosted.io/packs/11404/unversioned/assets/LOGO/853e2f28e69954bb5eca20784ef61ed38dae91538920c7ffd152d6a4e60330546fe864f790c47d88bc015644cf7fd4e4b0b61b498b40ad8f5d58ecdf4045c3cbd2deff53d0032adc09bc3657c3399861c7d3312ee65faa4e4338b3ba1b4d2769b8a5c3cf)](https://coda.io/packs/gong-11404)[![Image 38: Okta](https://codahosted.io/packs/1076/unversioned/assets/LOGO/aee7c00f23a151b936b1448accb1904325f84cb2b5bbf2909e0bdc855b1820cbd53596ae00b5121181e673300f5ddbf27f421ba7228463e0daca44ad95e7d0dd7d1f5b549b8a9c57d1a0977533d34b00203c7183fe11c663f0e61efe314f90d49e159ab4)](https://coda.io/packs/okta-1076)[![Image 39: Coda Admin](https://codahosted.io/packs/1081/unversioned/assets/LOGO/c162c4b0debdaf54518dcd18985d20d6bdf3e3fb765fb5d4b9ae5f5a412bd0c7ad4389a3a10b257162ff2ea3a01ba736f516abb76825fecd9f0e3dcc0b2b4abb6d4bf4e284645e9829d8f684bb1c96fcc1138d360f4145580311c5a8783c48aac5a07d28)](https://coda.io/packs/coda-admin-1081)[![Image 40: HubSpot](https://codahosted.io/packs/12912/unversioned/assets/LOGO/c7364a488b2e380da0f1a27a9d133a0041f702c0d4c9e43ac780979eb18cc2cc74440d1ce2a936c7a56f302414a3c06743cf7f2dd997b4b487cdbccf358a43aa810c636436c00f6f1178bdbf954ccaf7afef701fcc1f8634887a74e32972a2ddbdcc0384)](https://coda.io/packs/hubspot-12912)[![Image 41: Jira Data Center](https://codahosted.io/packs/11563/unversioned/assets/LOGO/ca0bb851a58506e247a8895dfbd9fccf88e8a75d87f6d76b1f29a9cb091c3a86c97af0499384f0f931d3cfa1698f63b5e54fb677e4e81657b0c919838420eb5714a3530569135af8ec7c6e5e5300da5c14f5183eebe0962418377e303fffc4fe30b266ba)](https://coda.io/packs/jira-data-center-11563)[![Image 42: Microsoft Outlook Calendar](https://codahosted.io/packs/11167/unversioned/assets/LOGO/96b1dcf5eb1d5d8619d85913b4b3d65151722da1d53f4044f19148ddd0e615a2e3c046790480380c4c1abafca8feec0eb32463da27f81601f1e90b5b06b33365c53bee83895fdc094f2e30c55679a538f3a2e230a5cb10870ebcf2d2d9e78fbb2da63719)](https://coda.io/packs/microsoft-outlook-calendar-11167)[![Image 43: Microsoft Outlook Mail](https://codahosted.io/packs/10729/unversioned/assets/LOGO/4f1ce51e8fd6e4d9cc7146cb46788cd856b8a75326df82d4abc9941b1be3e43182d04af6b7952d7333610b601653df64c82a76331aa1e2c0450440ce40447e4441dcf0b076624d5a14a6e42f8beb102da0c0ef7e090657709d10172389d5c399a12682b9)](https://coda.io/packs/microsoft-outlook-mail-10729)[![Image 44: Snowflake](https://codahosted.io/packs/24936/unversioned/assets/LOGO/5af833d0f2f63ccfb50b1a04c0e38ef20555ec61f69a0d70748d3c5f7a388891f9b3381d80b9a1e03b2cae091980339744e510d8a616495e67cd26e6b9a69d1a63fd894149b6db999a5571a01908a161caf85fa4517a382a9ba71005c43d2c65b7d162c6)](https://coda.io/packs/snowflake-24936)\n\nSee all 73 Packs\n\nForms\n\nPublish forms to collect responses from users outside of Coda. [Learn more](https://help.coda.io/en/articles/4708493-creating-forms-in-coda)\n\nUnlimited forms\n\nCustom branding\n\nCustom branding\n\nCustom branding\n\nCross-doc\n\nSync tables and send edits across docs for a singe source of truth. [Learn more](https://help.coda.io/en/articles/3416442-cross-doc)\n\nLimited Cross-doc tables\n\nCross-doc tables\n\nCross-doc tables & actions\n\nCross-doc tables & actions\n\nVersion history\n\nRecover the information you need. [Learn more](https://help.coda.io/en/articles/1334915-version-history)\n\n7 days version history\n\n30 days version history\n\nUnlimited version history\n\nUnlimited version history\n\nCollaboration + Sharing\n\nReal-time collaboration\n\nDoc sharing\n\nSync pages\n\nHidden pages\n\nCustom domains\n\nLocking\n\nAdvanced locking\n\nEnforced dependencies\n\nWorkspace features\n\nPublishing stats\n\nUnlimited folders\n\nCustom icons\n\nManage folder access\n\nInternal doc analytics\n\nPage analytics\n\nAdvanced user management\n\nDomain capture\n\nSuccess & Support\n\nChat & email support\n\nCoda community support\n\nHelp center\n\nWebinars & trainings\n\nResource library\n\nIn-doc troubleshooting\n\nPriority support\n\nDedicated success team\n\nSecurity\n\nProtect your data with confidence. [Learn more](https://coda.io/trust/security)\n\nSAML-based Single Sign-on (SSO)\n\nUser provisioning & deprovisioning\n\nShare with SCIM groups\n\nPack approvals & auditing\n\nPack controls\n\nAdvanced sharing rules\n\nAudit events\n\nSOC 2 Type II report\n\nHIPAA complianceNew!\n\nLegal holdNew!\n\neDiscoveryNew!\n\nFAQsWhat is a \"Workspace\"?\n\nA workspace is the home for you and your team in Coda. It will store your docs in an organized way, and you can invite Doc Makers and Editors into your workspace to collaborate all in one place. For administrators, this is the place where you'll configure your team's settings and manage your account.\n\nWhat is a \"Doc Maker\"?\n\nDoc Makers can create and manage docs, pages, folders, and workspaces.\n\nSpecifically \u2014 in workspaces, Doc Makers have the power to create new docs and templates and create and manage folders to organize the workspace. Within docs, Doc Makers can administer things like adding pages, changing doc and page titles and icons, adjusting the timezone, configuring doc and page locking etc. Coda AI is also included for Doc Makers.\n\nEditors can edit content and collaborate in existing docs & pages, including adding tables & views, constructing formulas & buttons, adding and configuring Packs & automations, etc. [Learn more](https://help.coda.io/en/articles/3388781-roles-in-coda-doc-makers-admins-and-editors)\n\nWho do I pay for and why?\n\nUpgrading a free workspace to a paid plan can be done with a single Doc Maker or can include your whole team to start. As you grow into Coda, you can invite additional members to become Editors or Doc Makers in your workspace. Editors and Viewers are always free.\n\nAt the end of each billing cycle, you will be billed for the workspace based on how many Doc Makers are in the workspace. Any changes to the number of Doc Makers in the workspace mid-cycle are automatically prorated.\n\nHow much does Coda AI cost?\n\nCoda AI is included for Doc Makers, and Editors also receive a free trial. Based on your plan and number of Doc Makers, each workspace receives a set of credits each month, that are pooled across all Doc Makers. [Learn more](https://help.coda.io/en/articles/8411650)\n\nWhat is a credit?\n\nCredits are Coda's way of counting how much AI you use. You could think about credits as fragments of text. 1 credit is approximately 40 characters in English, or 7.5 words. Anytime you use Coda AI, we measure how much content is in the input + the output and convert those into credits. So if you have a huge block of text and ask for a small summary, your number of credits will be based on the large input + small output. If you have a small prompt asking AI to write a long essay, you'll have a small input + large output. And if you have a large input and large output, you'll add those lengths together to get your total credits used for that request.\n\nHow can I get more AI credits?\n\nIf you have used all of your allotted credits, or would like to access more, you can add more Doc Makers to your workspace, upgrade your plan, or purchase an AI credit add-on. You can purchase 2,000 credits for $2/Doc Maker/Month, 6,000 credits for $6/Doc Maker/month, or unlimited credits for $12/Doc Maker/month (billed monthly). [Learn more](https://help.coda.io/en/articles/8411650)\n\nCan I give edit access to people outside of my workspace?\n\nYes! Whenever you share a doc with someone outside of your workspace, they will be added as a Guest Editor (though you can turn this ability off if you'd like). Guest Editors can edit content in individual docs shared with them, but cannot add and manage pages, or browse the doc's workspace or folder. Guest Editors are free, just like Editors in your workspace.\n\nAll Editors and Viewers in a workspace are free! Viewers can open any shared link to a doc and view and comment on it. Just like Guest Editors, Viewers are also guests and cannot see the full workspace or folder.\n\nWhat happens when I publicly share my doc?\n\nYou can always share a doc to anyone with a link through the sharing feature inside the doc. [Learn more](https://help.coda.io/en/articles/1137949-share-your-doc)\n\nWhen will I get billed for my workspace?\n\nWhen you sign up for a new plan, as well as when it renews, you will be billed up front for all the users in your workspace.\n\nWhenever you add a new paid user to your workspace (or upgrade an existing one), we'll prorate them for the remainder of your billing cycle. On the annual plan, you will be charged monthly for these additional membership changes, with prorations applied for the remainder of the billing year. Additionally, you will be charged whenever your bill exceeds $1,000 from adding new members.\n\nDo I get a refund if I remove members from my workspace or cancel my plan?\n\nWhen you remove members or cancel your plan, we'll apply a prorated credit onto your account you can use for future charges in your workspace.\n\nDo you offer discounts for students, educators, non-profits, or startups?\n\nYes!\n\n*   Students and educators: We offer several discounts, depending on your needs.\n    *   If you're a student, get started [here](https://coda.io/for/students).\n    *   If you're an educator, get started [here](https://coda.io/for/educators).\n*   Non-profits: Qualifying organizations can receive a 50% discount. Get started [here](https://help.coda.io/en/articles/3517611-students-teachers-and-nonprofits#h_c016f343e2).\n*   Startups: Eligible startups can get the Team plan free for 6 months for their workspace. Apply [here](https://coda.io/for/startups).\n\nHow does Enterprise pricing work?\n\nYou only pay for Doc Makers, even on Enterprise. With increased scalability, security and support, Enterprise plans are a great pick if you're planning to roll out Coda across multiple teams or departments. Coda's pricing scales to fit enterprise teams at every stage and we work with you to find the custom fit for your situation. [Request demo](https://coda.io/contact/sales)\n\nWith Maker Billing, you only pay for who makes\u2014not who contributes\u2014so everyone gets a seat at the table. Save money with our unique pricing model.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "coda",
+        "app_name": "Coda",
+        "app_slug": "coda",
+        "pricing_url": "https://coda.io/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://coda.io/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is based on the number of Doc Makers in the workspace. Additional AI credits can be purchased.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Free for you and your team",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited doc size for unshared docs",
+              "Low quota automations",
+              "1GB attachments per doc",
+              "Manual data refresh for Packs",
+              "Limited Cross-doc tables",
+              "7 days version history",
+              "Real-time collaboration",
+              "Doc sharing",
+              "Sync pages"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "1GB per doc",
+              "operations": "low quota",
+              "api_calls": null,
+              "integrations": "limited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "$10/month per Doc Maker",
+            "monthly_price": 10.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited doc size",
+              "Medium quota automations",
+              "5GB attachments per doc",
+              "Daily data refresh for Packs",
+              "Cross-doc tables",
+              "30 days version history",
+              "Custom branding",
+              "Advanced locking"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "5GB per doc",
+              "operations": "medium quota",
+              "api_calls": null,
+              "integrations": "daily data refresh",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Team",
+            "tier_description": "$30/month per Doc Maker",
+            "monthly_price": 30.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited doc size",
+              "Unlimited automations",
+              "Unlimited attachments",
+              "Hourly data refresh for Packs",
+              "Cross-doc tables & actions",
+              "Unlimited version history",
+              "Custom branding",
+              "Advanced user management"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "hourly data refresh",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "Custom pricing",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited doc size",
+              "Unlimited automations",
+              "Unlimited attachments",
+              "Hourly data refresh for Packs",
+              "Cross-doc tables & actions",
+              "Unlimited version history",
+              "Custom branding",
+              "Advanced user management",
+              "Dedicated success team",
+              "Advanced security features"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": "hourly data refresh",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "AI credits",
+            "unit": "per Doc Maker/month",
+            "base_price": 2.0,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": 2000.0,
+                "price": 2.0
+              },
+              {
+                "min": 2001.0,
+                "max": 6000.0,
+                "price": 6.0
+              },
+              {
+                "min": 6001.0,
+                "max": "unlimited",
+                "price": 12.0
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": true
+        },
+        "promotional_offers": [
+          {
+            "offer_name": "Startup Team Plan",
+            "offer_description": "Eligible startups can get the Team plan free for 6 months.",
+            "discount_percentage": 100.0,
+            "offer_url": "https://coda.io/for/startups",
+            "valid_until": null
+          },
+          {
+            "offer_name": "Non-profit Discount",
+            "offer_description": "Qualifying organizations can receive a 50% discount.",
+            "discount_percentage": 50.0,
+            "offer_url": "https://help.coda.io/en/articles/3517611-students-teachers-and-nonprofits#h_c016f343e2",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T05:45:28.473500",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\coda\\20250415_054529"
+}

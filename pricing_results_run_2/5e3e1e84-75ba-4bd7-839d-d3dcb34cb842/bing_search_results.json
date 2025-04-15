@@ -1,0 +1,12 @@
+{
+  "app_name": "Google Workspace Admin",
+  "app_slug": "google-workspace-admin",
+  "search_term": "Find the official pricing page URL for Google Workspace Admin (google-workspace-admin.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744714241.8474548,
+  "response_text": [
+    "It seems I couldn't locate the pricing page for Google Workspace Admin on the specified domain (google-workspace-admin.com). It's worth noting that the official Google Workspace pricing information is usually available on Google's broader sites like workspace.google.com. If you'd like, I can assist further checking those!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\google-workspace-admin\\20250415_065042"
+}

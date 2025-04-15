@@ -1,0 +1,96 @@
+{
+  "app_name": "Pixifi",
+  "app_slug": "pixifi",
+  "search_term": "Find the official pricing page URL for Pixifi (pixifi.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744703859.8285058,
+  "response_text": [
+    "The official pricing page for Pixifi can be found at: [https://www.pixifi.com/#pricing](https://www.pixifi.com/#pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Pixifi",
+      "url": "https://www.pixifi.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.pixifi.com/pricing/",
+      "is_accessible": true,
+      "content": "Monthly\n\nSave 15%\n\nYearly\n\nEssential\n\nFor solopreneurs who want to eliminate administrative hassles: Simplify your booking and client management to ensure a consistent client experience and focus on your craft.\n\n$29.99\n\n/ month\n\nNo credit card required\n\n1 Active Staff\n\n1 Brand\n\nNo Team Collaboration\n\nStudio\n\nFor small studios who want to maximize capacity and revenue: coordinate teams and offer more services to enable repeat customers and/or generate revenue year-round.\n\n$54.99\n\n/ month\n\nNo credit card required\n\n3 Active Staff\n\n?\n\n5 Brands\n\nAll Premium Features\n\nPro\n\nFor large studios focused on scalability and margins: establish repeatable standards to prevent waste and predictably expand your team, services, or geographic reach.\n\n$149.99\n\n/ month\n\nNo credit card required\n\nUnlimited Active Staff\n\nUnlimited Brands\n\nAll Premium Features\n\nFAQ\n---\n\nHere are some of the most common questions we get asked.\n\nPlease get in touch if there's anything else we can answer for you.\n\n*   #### Is Pixifi easy to use?\n    \n    Pixifi is designed to be user-friendly and intuitive, with a simple, easy-to-navigate interface. We also provide a comprehensive onboarding program (Pixifi Academy), product documentation and support to help you get started and answer any questions you may have.\n    \n*   #### Can I customize Pixifi to fit my business needs?\n    \n    Yes, Pixifi is highly customizable, with a range of settings and options to fit your specific business needs. You can create custom workflows, templates, and reports, as well as customize your branding and client communications.\n    \n*   #### Is my data safe with Pixifi?\n    \n    Yes, Pixifi takes data security very seriously and implements a range of measures to ensure the safety and privacy of your data. We use SSL encryption, secure servers, and regular backups to protect your data from unauthorized access or loss. We also offer two-factor authentication for added security.\n    \n*   #### Can I integrate Pixifi with other software tools I use for my photography business?\n    \n    Yes, Pixifi offers integrations with a range of third-party software tools, including Zapier, ShootProof, MailChimp, and Google Calendar. This allows you to streamline your workflow and automate tasks across multiple platforms.\n    \n*   #### Does Pixifi offer any mobile apps?\n    \n    Yes, Pixifi offers a mobile app for iOS and Android devices, allowing you to manage your business on the go. The app provides access to your schedule, client information, and more, as well as the ability to create and send invoices.\n    \n*   #### How does Pixifi handle payment processing?\n    \n    Pixifi integrates with a range of payment processors, including Stripe and PayPal, allowing you to accept payments online. You can also set up payment plans and payment reminders to help you get paid faster.\n    \n*   #### Can I use Pixifi to manage my team or hire assistants?\n    \n    Yes, Pixifi offers a range of team management features, including the ability to assign tasks, set permissions, and track team performance. This can help you manage your team more effectively and improve your overall workflow.\n    \n*   #### What kind of support does Pixifi offer?\n    \n    Pixifi offers comprehensive support to help you get the most out of the software. We provide same-day email support, as well as a knowledge base with articles and tutorials.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "pixifi",
+        "app_name": "Pixifi",
+        "app_slug": "pixifi",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": null,
+        "pricing_tiers": [
+          {
+            "tier_name": "Essential",
+            "tier_description": "For solopreneurs who want to eliminate administrative hassles: Simplify your booking and client management to ensure a consistent client experience and focus on your craft.",
+            "monthly_price": 29.99,
+            "annual_price": 25.49,
+            "annual_discount_percentage": 15.0,
+            "setup_fee": null,
+            "features": [
+              "1 Active Staff",
+              "1 Brand",
+              "No Team Collaboration"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Studio",
+            "tier_description": "For small studios who want to maximize capacity and revenue: coordinate teams and offer more services to enable repeat customers and/or generate revenue year-round.",
+            "monthly_price": 54.99,
+            "annual_price": 46.74,
+            "annual_discount_percentage": 15.0,
+            "setup_fee": null,
+            "features": [
+              "3 Active Staff",
+              "5 Brands",
+              "All Premium Features"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "For large studios focused on scalability and margins: establish repeatable standards to prevent waste and predictably expand your team, services, or geographic reach.",
+            "monthly_price": 149.99,
+            "annual_price": 127.49,
+            "annual_discount_percentage": 15.0,
+            "setup_fee": null,
+            "features": [
+              "Unlimited Active Staff",
+              "Unlimited Brands",
+              "All Premium Features"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:57:49.186259",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\pixifi\\20250415_035749"
+}

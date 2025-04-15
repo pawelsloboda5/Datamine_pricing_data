@@ -1,0 +1,12 @@
+{
+  "app_name": "Text Request",
+  "app_slug": "text-request",
+  "search_term": "Find the official pricing page URL for Text Request (text-request.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744701505.2331846,
+  "response_text": [
+    "I couldn't locate the pricing page for Text Request. You may wish to explore directly on their website."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\text-request\\20250415_031825"
+}

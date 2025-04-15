@@ -1,0 +1,169 @@
+{
+  "app_id": "text_in_church",
+  "app_name": "Text In Church",
+  "app_slug": "text-in-church",
+  "pricing_url": "https://textinchurch.com/pricing",
+  "source_url": "https://textinchurch.com/pricing",
+  "all_pricing_urls": [
+    "https://textinchurch.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription plans with usage-based limits for text messages. Additional fees apply for exceeding limits and optional add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Perfect for the small church or church plant",
+      "monthly_price": 31.0,
+      "annual_price": 369.0,
+      "annual_discount_percentage": 20.33,
+      "setup_fee": null,
+      "features": [
+        "500 texts per month",
+        "1 local phone number",
+        "Unlimited keywords",
+        "Unlimited email sending",
+        "Done-for-you message templates",
+        "Unlimited users and contacts",
+        "Mobile app"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "texts per month",
+            "value": 500
+          },
+          {
+            "name": "local phone numbers",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Ideal for a church with over 100 weekly worshippers",
+      "monthly_price": 56.0,
+      "annual_price": 668.0,
+      "annual_discount_percentage": 20.24,
+      "setup_fee": null,
+      "features": [
+        "1500 texts per month",
+        "2 local phone numbers",
+        "Unlimited keywords",
+        "Unlimited email sending",
+        "Done-for-you message templates",
+        "Unlimited users and contacts",
+        "Mobile app"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "texts per month",
+            "value": 1500
+          },
+          {
+            "name": "local phone numbers",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "For the larger church with larger communication needs",
+      "monthly_price": 81.0,
+      "annual_price": 967.0,
+      "annual_discount_percentage": 20.25,
+      "setup_fee": null,
+      "features": [
+        "2500 texts per month",
+        "3 local phone numbers",
+        "Unlimited keywords",
+        "Unlimited email sending",
+        "Done-for-you message templates",
+        "Unlimited users and contacts",
+        "Mobile app"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "texts per month",
+            "value": 2500
+          },
+          {
+            "name": "local phone numbers",
+            "value": 3
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "text messages",
+      "unit": "per message",
+      "base_price": 0.03,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Calling Add-on",
+      "fee_amount": 10.0,
+      "fee_description": "Monthly fee per user for calling features including automated greetings and voicemail."
+    },
+    {
+      "fee_name": "Concierge Account Setup Add-On",
+      "fee_amount": 249.0,
+      "fee_description": "Starting fee for personalized onboarding including account setup calls and priority support."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:06:30.680859",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "23347d7e-5b2f-4a10-9de6-670c19526496",
+    "name": "Text In Church",
+    "slug": "text-in-church",
+    "description": "Text In Church is a communication platform that allows you to easily engage your church\u2019s members and guests through text messages, emails, and automated campaigns.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/0ea9e0bca0e7a4dcede00b270531a193.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 2
+  }
+}

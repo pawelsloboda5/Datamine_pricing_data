@@ -1,0 +1,249 @@
+{
+  "app_id": "apify",
+  "app_name": "Apify",
+  "app_slug": "apify",
+  "pricing_url": "https://apify.com/pricing",
+  "source_url": "https://apify.com/pricing",
+  "all_pricing_urls": [
+    "https://apify.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Apify offers a combination of subscription plans with prepaid usage and additional usage-based pricing for specific services.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic access with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Community support",
+        "Limited proxy access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "limited",
+        "operations": "limited",
+        "api_calls": "limited",
+        "integrations": "limited",
+        "custom_limits": [
+          {
+            "name": "Actor RAM",
+            "value": "8 GB"
+          },
+          {
+            "name": "Max concurrent runs",
+            "value": 25
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "For small-scale projects.",
+      "monthly_price": 39.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Chat support",
+        "Prepaid usage included"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "limited",
+        "operations": "limited",
+        "api_calls": "limited",
+        "integrations": "limited",
+        "custom_limits": [
+          {
+            "name": "Actor RAM",
+            "value": "32 GB"
+          },
+          {
+            "name": "Max concurrent runs",
+            "value": 32
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "For growing businesses.",
+      "monthly_price": 199.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Priority chat support",
+        "Increased prepaid usage"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "limited",
+        "operations": "limited",
+        "api_calls": "limited",
+        "integrations": "limited",
+        "custom_limits": [
+          {
+            "name": "Actor RAM",
+            "value": "128 GB"
+          },
+          {
+            "name": "Max concurrent runs",
+            "value": 128
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For large-scale operations.",
+      "monthly_price": 999.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Account manager",
+        "High prepaid usage"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "limited",
+        "operations": "limited",
+        "api_calls": "limited",
+        "integrations": "limited",
+        "custom_limits": [
+          {
+            "name": "Actor RAM",
+            "value": "256 GB"
+          },
+          {
+            "name": "Max concurrent runs",
+            "value": 256
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom solutions for enterprises.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom support",
+        "Custom usage limits"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Compute Units",
+      "unit": "per CU",
+      "base_price": 0.4,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": null,
+          "price": 0.4
+        }
+      ]
+    },
+    {
+      "metric_name": "Datacenter Proxies",
+      "unit": "per IP",
+      "base_price": 1.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 5.0,
+          "price": 1.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Residential Proxies",
+      "unit": "per GB",
+      "base_price": 8.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": null,
+          "price": 8.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Startup Discount",
+      "offer_description": "30% off Scale plan for startups.",
+      "discount_percentage": 30.0,
+      "offer_url": "https://apify.com/resources/startups",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Academic Discount",
+      "offer_description": "30% off Starter and Scale plans for students.",
+      "discount_percentage": 30.0,
+      "offer_url": "https://apify.com/resources/universities",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Priority Support",
+      "fee_amount": 100.0,
+      "fee_description": "Faster response times and dedicated help."
+    },
+    {
+      "fee_name": "Personal Training",
+      "fee_amount": 150.0,
+      "fee_description": "Guidance to optimize platform usage."
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:39:30.942638",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3404910f-6e8d-4965-8ce8-b4264cc54a51",
+    "name": "Apify",
+    "slug": "apify",
+    "description": "Apify is the full-stack platform where developers build, deploy, and monitor web scraping tools. Apify Store offers 1,500+ pre-built tools.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/a6a56fa5267df7a6add8a58fa05fb991_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Developer Tools"
+    ],
+    "category_slugs": [
+      "developer-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 8,
+    "trigger_count": 1
+  }
+}

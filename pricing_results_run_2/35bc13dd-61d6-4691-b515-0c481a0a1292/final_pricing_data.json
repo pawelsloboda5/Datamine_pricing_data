@@ -1,0 +1,279 @@
+{
+  "app_id": "superchat",
+  "app_name": "Superchat",
+  "app_slug": "superchat",
+  "pricing_url": "https://www.superchat.com/pricing",
+  "source_url": "https://www.superchat.com/pricing",
+  "all_pricing_urls": [
+    "https://www.superchat.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription plans with optional add-ons for additional features and usage.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Perfect for getting started",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unified Inbox",
+        "WhatsApp Newsletter",
+        "Automations",
+        "AI Chatbot",
+        "Integrations",
+        "Personal onboarding"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Integrated numbers",
+            "value": 1
+          },
+          {
+            "name": "Employee access",
+            "value": 1
+          },
+          {
+            "name": "Active contacts",
+            "value": 30
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Ideal for smaller teams",
+      "monthly_price": 79.0,
+      "annual_price": 948.0,
+      "annual_discount_percentage": 11.0,
+      "setup_fee": null,
+      "features": [
+        "Personal onboarding",
+        "Review Management",
+        "AI Chatbot",
+        "Integrations"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Integrated numbers",
+            "value": 1
+          },
+          {
+            "name": "Active contacts",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Perfect for medium sized teams",
+      "monthly_price": 129.0,
+      "annual_price": 1548.0,
+      "annual_discount_percentage": 13.0,
+      "setup_fee": null,
+      "features": [
+        "AI Chatbot",
+        "Personalized Webchat",
+        "Integrations can be added",
+        "Analytics add-on available",
+        "Industry-specific onboarding"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Integrated numbers",
+            "value": 3
+          },
+          {
+            "name": "Active contacts",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Optimal for medium-sized companies",
+      "monthly_price": 249.0,
+      "annual_price": 2988.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Integration included",
+        "Premium chat support",
+        "User training"
+      ],
+      "limits": {
+        "users": 25,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Integrated numbers",
+            "value": 5
+          },
+          {
+            "name": "Active contacts",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large teams with specific requirements.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom plan configuration",
+        "Tailored support & guidance",
+        "Enterprise-level security and control"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Integrated numbers",
+            "value": "custom"
+          },
+          {
+            "name": "Active contacts",
+            "value": "custom"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "WhatsApp conversations initiated by the company",
+      "unit": "per conversation",
+      "base_price": 0.05,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": 0.11
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Additional employee access",
+      "fee_amount": 10.0,
+      "fee_description": "Add more employees to Superchat."
+    },
+    {
+      "fee_name": "Additional number",
+      "fee_amount": 49.0,
+      "fee_description": "Add more numbers to an account."
+    },
+    {
+      "fee_name": "WhatsApp Newsletter",
+      "fee_amount": 49.0,
+      "fee_description": "Send newsletters to up to 10,000 recipients per month."
+    },
+    {
+      "fee_name": "Analytics",
+      "fee_amount": 29.0,
+      "fee_description": "Evaluate communication success with reliable statistics."
+    },
+    {
+      "fee_name": "Superchat AI Co-Pilot",
+      "fee_amount": 29.0,
+      "fee_description": "Enhance team efficiency with AI-powered chat capabilities."
+    },
+    {
+      "fee_name": "Additional AI Chatbots",
+      "fee_amount": 49.0,
+      "fee_description": "Expand your team with additional AI chatbots."
+    },
+    {
+      "fee_name": "Additional AI Responses",
+      "fee_amount": 19.0,
+      "fee_description": "Accelerate communication with AI-generated responses."
+    },
+    {
+      "fee_name": "Additional Automations",
+      "fee_amount": 10.0,
+      "fee_description": "Automate more processes with additional automations."
+    },
+    {
+      "fee_name": "Additional Automation Tasks",
+      "fee_amount": 19.0,
+      "fee_description": "Automate more tasks with additional automation capabilities."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:16:54.659872",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "35bc13dd-61d6-4691-b515-0c481a0a1292",
+    "name": "Superchat",
+    "slug": "superchat",
+    "description": "Superchat is a messaging platform that combines relevant communication channels, streamlines customer support and makes messenger marketing accessible to any business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/12f30e30993471ae93e8fecc3150bafe.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 14,
+    "trigger_count": 5
+  }
+}

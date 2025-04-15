@@ -1,0 +1,191 @@
+{
+  "app_id": "parsio",
+  "app_name": "Parsio",
+  "app_slug": "parsio",
+  "pricing_url": "https://app.parsio.io/signup",
+  "source_url": "https://parsio.io/pricing",
+  "all_pricing_urls": [
+    "https://app.parsio.io/signup"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 17% discount. Credits are used for parsing documents and expire at the end of the billing period.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Sandbox",
+      "tier_description": "A free trial plan to test things out.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "30 parsed emails, PDFs or documents",
+        "OCR, AI and GPT-powered parsers",
+        "30 days data retention",
+        "Email signature parsing",
+        "Unlimited mailboxes",
+        "Sync with Google Sheets",
+        "Post-processing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 30,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Perfect for individuals & small businesses.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "1,000 parsed emails, PDFs or documents",
+        "OCR, AI and GPT-powered parsers",
+        "90 days data retention",
+        "Unlimited integrations via Zapier and Make",
+        "Webhooks",
+        "API",
+        "All Sandbox features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 1000,
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Ideal for growing companies that need more credits.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "5,000 parsed emails, PDFs or documents",
+        "OCR, AI and GPT-powered parsers",
+        "90 days data retention",
+        "All Starter features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 5000,
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "A white-glove experience with dedicated support.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "12,000 parsed emails, PDFs or documents",
+        "OCR, AI and GPT-powered parsers",
+        "180 days data retention",
+        "Dedicated support",
+        "All Growth features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 12000,
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Credits",
+      "unit": "per document or page",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 1.0,
+          "price": 1.0
+        },
+        {
+          "min": 2.0,
+          "max": 2.0,
+          "price": 2.0
+        },
+        {
+          "min": 5.0,
+          "max": 5.0,
+          "price": 5.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": true,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": false
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Discount",
+      "offer_description": "Save 17% when paying annually.",
+      "discount_percentage": 17.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Taxes",
+      "fee_amount": null,
+      "fee_description": "Applicable taxes may apply."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:54:49.466006",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ff288f0e-a24e-497c-98cc-af1d5adefc17",
+    "name": "Parsio",
+    "slug": "parsio",
+    "description": "Parsio is an AI-powered document extraction tool. Extract structured data from your PDFs, emails and other documents, automatically.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/009aeec00b30d92cf93f8469627885d7.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Documents"
+    ],
+    "category_slugs": [
+      "documents"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 3
+  }
+}

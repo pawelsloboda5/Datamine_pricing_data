@@ -1,0 +1,19 @@
+{
+  "app_name": "Lemon Squeezy",
+  "app_slug": "lemon-squeezy",
+  "search_term": "Find the official pricing page URL for Lemon Squeezy (lemon-squeezy.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744690217.3034523,
+  "response_text": [
+    "The official Lemon Squeezy pricing page is available at: [https://www.lemon-squeezy.com/pricing](https://www.lemon-squeezy.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.lemon-squeezy.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\lemon-squeezy\\20250415_001018"
+}

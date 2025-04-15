@@ -1,0 +1,145 @@
+{
+  "app_id": "lagrowthmachine",
+  "app_name": "LaGrowthMachine",
+  "app_slug": "lagrowthmachine",
+  "pricing_url": "https://lagrowthmachine.com/pricing",
+  "source_url": "https://lagrowthmachine.com/pricing/",
+  "all_pricing_urls": [
+    "https://lagrowthmachine.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on identities, with additional identities billed separately. Agency plans offer a 20% discount.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Entry-level plan for multichannel prospecting.",
+      "monthly_price": 50.0,
+      "annual_price": 600.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Multichannel prospecting (Email, LinkedIn)",
+        "Find & Enrich Leads",
+        "Contact Your Prospects",
+        "Ready-to-use sequences LinkedIn + Email",
+        "Support by Chat"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Running Campaigns",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced plan with additional integrations and features.",
+      "monthly_price": 100.0,
+      "annual_price": 1200.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Basic",
+        "Import LinkedIn Intent Data",
+        "Automated Social Warming",
+        "OOO Detection and Rescheduling",
+        "Lead Qualification",
+        "Clay and many more integrations",
+        "Priority support"
+      ],
+      "limits": {
+        "users": 25,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Running Campaigns",
+            "value": 6
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Ultimate",
+      "tier_description": "Comprehensive plan with CRM integrations and unlimited capabilities.",
+      "monthly_price": 150.0,
+      "annual_price": 1800.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Pro",
+        "Import from Hubspot or Pipedrive",
+        "Create Custom Sequences",
+        "Sync DMs & Emails w/ Hubspot & Pipedrive",
+        "Trigger Activities in your CRM",
+        "Add Webhooks in your Sequences",
+        "Dedicated Client Partner (from 4 identities)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Running Campaigns",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Agency Discount",
+      "offer_description": "20% discount on all plans for agencies.",
+      "discount_percentage": 20.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:37:43.097496",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9576578d-23ad-4101-823f-e3f51cbe76a5",
+    "name": "LaGrowthMachine",
+    "slug": "lagrowthmachine",
+    "description": "LaGrowthMachine let Sales team get more meetings. Create multi-channel workflows to engage with your leads on LinkedIn, Twitter & by Email.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/ce948d5d5d758a6dcdedfd53e1691619.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 20
+  }
+}

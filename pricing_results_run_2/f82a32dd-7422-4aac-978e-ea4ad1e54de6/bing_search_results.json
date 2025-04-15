@@ -1,0 +1,251 @@
+{
+  "app_name": "EasyCSV",
+  "app_slug": "easycsv",
+  "search_term": "Find the official pricing page URL for EasyCSV (easycsv.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744695037.5492203,
+  "response_text": [
+    "You can find EasyCSV's pricing information on their official page at: [https://www.easycsv.io/pricing](https://www.easycsv.io/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.easycsv.io/pricing",
+      "is_accessible": true,
+      "content": "### $0 / mo\n\n[Sign up](https://www.easycsv.io/signup)\n\n*   1 spreadsheet flow & form\n*   3 rows per import/export\n*   Upload CSV files\n*   Search & upload Google Sheets\n*   Email addresses that auto-import attached CSV or XLSX attached files (optional - can be turned off)\n*   Schedule automatic pulling and importing of Google Sheets, Airtable, or CSV / XSLSX files from Google Drive Files, Dropbox, Box, OneDrive, Amazon S3, or FTP/SFTP servers\n*   Send uploads to Zapier or IFTTT\n*   Send uploads to Google Sheets\n*   Send uploads to Salesforce, Pipedrive, Airtable, Amazon S3, Google Drive, Dropbox, FTP/SFTP, MySQL, Xero, Shopify, Trello, Bubble and more\n*   Send uploads to any webhook / API\n*   Send uploads to FTP/SFTP\n*   Hosted & Shareable Import Form\n*   Replace EasyCSV logo and colors with your company/brand logo and colors\n*   Require Google Account for trusted uploads (optional)\n*   Limit imports to users with specific email domains (optional)\n*   Trade unique tokens with your app for trusted uploads (optional)\n*   Password protect upload form\n*   Combine & transform spreadsheet columns to make new values\n*   Clean and extract parts of text from CSV values\n*   Filter out unwanted / bad data before import\n*   Customize posting JSON to easily use an existing API endpoint\n*   Specify custom headers when posting to an API\n*   Send import events to Slack\n*   Create CSV files\n*   1 CSV Generator\n*   up 3 rows allowed per generated CSV file\n*   Limited number of CSV file generations per month\n*   Automatically send Email with generated CSV file\n*   Automatically upload generated CSV file via FTP/SFTP, Google Drive, Box, OneDrive, or Dropbox.\n*   PGP encryption for SFTP CSV Generations (optional)\n*   GDPR Compliant\n*   Real-person support\n*   Up to 50 imports total\n*   Up to 15 min per import\n\n### $9 / mo\n\n[Sign up](https://www.easycsv.io/signup)\n\n*   1 spreadsheet flow & form\n*   **up to 5,000 rows per import/export**\n*   Upload CSV files\n*   Search & upload Google Sheets\n*   Email addresses that auto-import attached CSV or XLSX attached files (optional - can be turned off)\n*   Schedule automatic pulling and importing of Google Sheets, Airtable, or CSV / XSLSX files from Google Drive Files, Dropbox, Box, OneDrive, Amazon S3, or FTP/SFTP servers\n*   Send uploads to Zapier or IFTTT\n*   Send uploads to Google Sheets\n*   Send uploads to Salesforce, Pipedrive, Airtable, Amazon S3, Google Drive, Dropbox, FTP/SFTP, MySQL, Xero, Shopify, Trello, Bubble and more\n*   Send uploads to any webhook / API\n*   Send uploads to FTP/SFTP\n*   Hosted & Shareable Import Form\n*   Replace EasyCSV logo and colors with your company/brand logo and colors\n*   Require Google Account for trusted uploads (optional)\n*   Limit imports to users with specific email domains (optional)\n*   Trade unique tokens with your app for trusted uploads (optional)\n*   Password protect upload form\n*   Combine & transform spreadsheet columns to make new values\n*   Clean and extract parts of text from CSV values\n*   Filter out unwanted / bad data before import\n*   Customize posting JSON to easily use an existing API endpoint\n*   Specify custom headers when posting to an API\n*   Send import events to Slack\n*   Create CSV files\n*   1 CSV Generator\n*   up 100 rows allowed per generated CSV file\n*   up to 1,000 CSV file generations per month\n*   Automatically send Email with generated CSV file\n*   Automatically upload generated CSV file via FTP/SFTP, Google Drive, Box, OneDrive, or Dropbox.\n*   PGP encryption for SFTP CSV Generations (optional)\n*   GDPR Compliant\n*   Real-person support\n*   Up to 15 min per import\n\n### $29 / mo\n\n[Sign up](https://www.easycsv.io/signup)\n\n*   **3 spreadsheet flows & forms**\n*   **up to 10,000 rows per import/export** ([contact us for more](https://www.easycsv.io/contact?custom_plan=import_rows))\n*   **Embed upload form in your website**\n*   **Extra optional filter to ONLY select unique rows by a column value from a file**\n*   **Equation & Advanced Virtual Fields**[](https://www.easycsv.io/docs/virtual-fields#equation)\n*   **Group spreadsheet file rows using a column and send nested JSON to APIs**[](https://www.easycsv.io/docs#grouped_json)\n*   **Shopify: Sync / Update Metafields in Bulk**\n*   **Shopify: B2B Catalog Pricing Sync**\n*   **Shopify: B2B Wholesale Pricing Lookups when creating orders from CSV / XLSX files**\n*   Upload CSV files\n*   Search & upload Google Sheets\n*   Email addresses that auto-import attached CSV or XLSX attached files (optional - can be turned off)\n*   Schedule automatic pulling and importing of Google Sheets, Airtable, or CSV / XSLSX files from Google Drive Files, Dropbox, Box, OneDrive, Amazon S3, or FTP/SFTP servers\n*   Send uploads to Zapier or IFTTT\n*   Send uploads to Google Sheets\n*   Send uploads to Salesforce, Pipedrive, Airtable, Amazon S3, Google Drive, Dropbox, FTP/SFTP, MySQL, Xero, Shopify, Trello, Bubble and more\n*   Send uploads to any webhook / API\n*   Send uploads to FTP/SFTP\n*   Hosted & Shareable Import Form\n*   Replace EasyCSV logo and colors with your company/brand logo and colors\n*   Require Google Account for trusted uploads (optional)\n*   Limit imports to users with specific email domains (optional)\n*   Trade unique tokens with your app for trusted uploads (optional)\n*   Password protect upload form\n*   Combine & transform spreadsheet columns to make new values\n*   Clean and extract parts of text from CSV values\n*   Filter out unwanted / bad data before import\n*   Customize posting JSON to easily use an existing API endpoint\n*   Specify custom headers when posting to an API\n*   Send import events to Slack\n*   Create CSV files\n*   3 CSV Generators\n*   up 1000 rows allowed per generated CSV file ([contact us for more](https://www.easycsv.io/contact?custom_plan=generated_rows))\n*   up to 10,000 CSV file generations per month\n*   Automatically send Email with generated CSV file\n*   Automatically upload generated CSV file via FTP/SFTP, Google Drive, Box, OneDrive, or Dropbox.\n*   PGP encryption for SFTP CSV Generations (optional)\n*   GDPR Compliant\n*   Real-person support\n*   Up to 15 min per import\n*   Up to 120 imports per hour for embedded forms ([contact us for a higher limit](https://www.easycsv.io/contact?custom_plan=imports_per_hour))\n\n##### **Need more spreadsheet upload forms, longer imports/exports, rows per sheet, CSV Geenerations, or filter rules, or Custom Security & Data Agreements?**  \n[Contact Us](https://www.easycsv.io/contact?custom_plan=general) for custom pricing.\n\nPricing for all EasyCSV plans.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "easycsv",
+        "app_name": "EasyCSV",
+        "app_slug": "easycsv",
+        "pricing_url": "https://www.easycsv.io/pricing",
+        "source_url": "https://www.easycsv.io/pricing",
+        "all_pricing_urls": [
+          "https://www.easycsv.io/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.CUSTOM"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Custom plans are available for higher limits and additional features.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Basic plan with limited features.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "1 spreadsheet flow & form",
+              "3 rows per import/export",
+              "Upload CSV files",
+              "Search & upload Google Sheets",
+              "Email addresses that auto-import attached CSV or XLSX attached files",
+              "Schedule automatic pulling and importing of Google Sheets, Airtable, or CSV / XSLSX files from Google Drive Files, Dropbox, Box, OneDrive, Amazon S3, or FTP/SFTP servers",
+              "Send uploads to Zapier or IFTTT",
+              "Send uploads to Google Sheets",
+              "Send uploads to Salesforce, Pipedrive, Airtable, Amazon S3, Google Drive, Dropbox, FTP/SFTP, MySQL, Xero, Shopify, Trello, Bubble and more",
+              "Send uploads to any webhook / API",
+              "Send uploads to FTP/SFTP",
+              "Hosted & Shareable Import Form",
+              "Replace EasyCSV logo and colors with your company/brand logo and colors",
+              "Require Google Account for trusted uploads",
+              "Limit imports to users with specific email domains",
+              "Trade unique tokens with your app for trusted uploads",
+              "Password protect upload form",
+              "Combine & transform spreadsheet columns to make new values",
+              "Clean and extract parts of text from CSV values",
+              "Filter out unwanted / bad data before import",
+              "Customize posting JSON to easily use an existing API endpoint",
+              "Specify custom headers when posting to an API",
+              "Send import events to Slack",
+              "Create CSV files",
+              "1 CSV Generator",
+              "Automatically send Email with generated CSV file",
+              "Automatically upload generated CSV file via FTP/SFTP, Google Drive, Box, OneDrive, or Dropbox",
+              "PGP encryption for SFTP CSV Generations",
+              "GDPR Compliant",
+              "Real-person support"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Imports",
+                  "value": 50
+                },
+                {
+                  "name": "Import Duration",
+                  "value": "15 minutes"
+                },
+                {
+                  "name": "Generated CSV Rows",
+                  "value": 3
+                },
+                {
+                  "name": "CSV File Generations",
+                  "value": "Limited"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Standard",
+            "tier_description": "Enhanced plan with more features and higher limits.",
+            "monthly_price": 9.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "1 spreadsheet flow & form",
+              "Up to 5,000 rows per import/export",
+              "Upload CSV files",
+              "Search & upload Google Sheets",
+              "Email addresses that auto-import attached CSV or XLSX attached files",
+              "Schedule automatic pulling and importing of Google Sheets, Airtable, or CSV / XSLSX files from Google Drive Files, Dropbox, Box, OneDrive, Amazon S3, or FTP/SFTP servers",
+              "Send uploads to Zapier or IFTTT",
+              "Send uploads to Google Sheets",
+              "Send uploads to Salesforce, Pipedrive, Airtable, Amazon S3, Google Drive, Dropbox, FTP/SFTP, MySQL, Xero, Shopify, Trello, Bubble and more",
+              "Send uploads to any webhook / API",
+              "Send uploads to FTP/SFTP",
+              "Hosted & Shareable Import Form",
+              "Replace EasyCSV logo and colors with your company/brand logo and colors",
+              "Require Google Account for trusted uploads",
+              "Limit imports to users with specific email domains",
+              "Trade unique tokens with your app for trusted uploads",
+              "Password protect upload form",
+              "Combine & transform spreadsheet columns to make new values",
+              "Clean and extract parts of text from CSV values",
+              "Filter out unwanted / bad data before import",
+              "Customize posting JSON to easily use an existing API endpoint",
+              "Specify custom headers when posting to an API",
+              "Send import events to Slack",
+              "Create CSV files",
+              "1 CSV Generator",
+              "Automatically send Email with generated CSV file",
+              "Automatically upload generated CSV file via FTP/SFTP, Google Drive, Box, OneDrive, or Dropbox",
+              "PGP encryption for SFTP CSV Generations",
+              "GDPR Compliant",
+              "Real-person support"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Generated CSV Rows",
+                  "value": 100
+                },
+                {
+                  "name": "CSV File Generations",
+                  "value": 1000
+                },
+                {
+                  "name": "Import Duration",
+                  "value": "15 minutes"
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Advanced plan with premium features and maximum limits.",
+            "monthly_price": 29.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "3 spreadsheet flows & forms",
+              "Up to 10,000 rows per import/export",
+              "Embed upload form in your website",
+              "Extra optional filter to ONLY select unique rows by a column value from a file",
+              "Equation & Advanced Virtual Fields",
+              "Group spreadsheet file rows using a column and send nested JSON to APIs",
+              "Shopify: Sync / Update Metafields in Bulk",
+              "Shopify: B2B Catalog Pricing Sync",
+              "Shopify: B2B Wholesale Pricing Lookups when creating orders from CSV / XLSX files",
+              "Upload CSV files",
+              "Search & upload Google Sheets",
+              "Email addresses that auto-import attached CSV or XLSX attached files",
+              "Schedule automatic pulling and importing of Google Sheets, Airtable, or CSV / XSLSX files from Google Drive Files, Dropbox, Box, OneDrive, Amazon S3, or FTP/SFTP servers",
+              "Send uploads to Zapier or IFTTT",
+              "Send uploads to Google Sheets",
+              "Send uploads to Salesforce, Pipedrive, Airtable, Amazon S3, Google Drive, Dropbox, FTP/SFTP, MySQL, Xero, Shopify, Trello, Bubble and more",
+              "Send uploads to any webhook / API",
+              "Send uploads to FTP/SFTP",
+              "Hosted & Shareable Import Form",
+              "Replace EasyCSV logo and colors with your company/brand logo and colors",
+              "Require Google Account for trusted uploads",
+              "Limit imports to users with specific email domains",
+              "Trade unique tokens with your app for trusted uploads",
+              "Password protect upload form",
+              "Combine & transform spreadsheet columns to make new values",
+              "Clean and extract parts of text from CSV values",
+              "Filter out unwanted / bad data before import",
+              "Customize posting JSON to easily use an existing API endpoint",
+              "Specify custom headers when posting to an API",
+              "Send import events to Slack",
+              "Create CSV files",
+              "3 CSV Generators",
+              "Automatically send Email with generated CSV file",
+              "Automatically upload generated CSV file via FTP/SFTP, Google Drive, Box, OneDrive, or Dropbox",
+              "PGP encryption for SFTP CSV Generations",
+              "GDPR Compliant",
+              "Real-person support"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Generated CSV Rows",
+                  "value": 1000
+                },
+                {
+                  "name": "CSV File Generations",
+                  "value": 10000
+                },
+                {
+                  "name": "Imports per Hour",
+                  "value": 120
+                },
+                {
+                  "name": "Import Duration",
+                  "value": "15 minutes"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T01:31:00.714716",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\easycsv\\20250415_013101"
+}

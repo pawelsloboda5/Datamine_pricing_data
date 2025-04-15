@@ -1,0 +1,50 @@
+{
+  "app_id": "dropbox_sign",
+  "app_name": "Dropbox Sign",
+  "app_slug": "dropbox-sign",
+  "pricing_url": "https://www.dropboxsign.com/products/dropbox-sign/pricing-with-bundle",
+  "source_url": "https://www.dropboxsign.com/pricing",
+  "all_pricing_urls": [
+    "https://www.dropboxsign.com/products/dropbox-sign/pricing-with-bundle",
+    "https://www.dropboxsign.com/products/dropbox-sign-api/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Detailed pricing information is not publicly accessible; users are directed to contact sales or explore plans.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:52:36.158690",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c92503db-caf1-494c-8dc9-5765ebd1a10d",
+    "name": "Dropbox Sign",
+    "slug": "dropbox-sign",
+    "description": "Dropbox Sign is a brand new way to collect signatures and send important documents from an easy web interface. Just upload a PDF or Word Document and make your templates, and send them to anyone!",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/4be4eceb4511e9f9a031659e37529782.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Signatures"
+    ],
+    "category_slugs": [
+      "signatures"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 3
+  }
+}

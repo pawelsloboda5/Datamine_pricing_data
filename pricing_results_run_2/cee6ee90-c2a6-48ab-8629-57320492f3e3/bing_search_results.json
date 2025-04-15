@@ -1,0 +1,12 @@
+{
+  "app_name": "Microsoft Office 365",
+  "app_slug": "office-365",
+  "search_term": "Find the official pricing page URL for Microsoft Office 365 (office-365.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744704868.3959565,
+  "response_text": [
+    "I couldn't find an official pricing page for Microsoft Office 365 at the specified domain (office-365.com). Instead, Office 365 pricing is typically listed on Microsoft's main domain. Would you like me to search further for this?"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\office-365\\20250415_041428"
+}

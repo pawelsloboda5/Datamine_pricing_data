@@ -1,0 +1,157 @@
+{
+  "app_id": "teachworks",
+  "app_name": "Teachworks",
+  "app_slug": "teachworks",
+  "pricing_url": "https://www.teachworks.com/pricing",
+  "source_url": "https://www.teachworks.com/pricing",
+  "all_pricing_urls": [
+    "https://www.teachworks.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 21,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a base monthly fee plus a per-lesson fee. Additional fees apply for bulk emails exceeding fair usage limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": null,
+      "monthly_price": 16.49,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Students",
+        "Unlimited Teachers",
+        "Unlimited User Accounts",
+        "Unlimited Emails",
+        "Customer Support",
+        "Cancel Any Time",
+        "All Add-ons & Integrations (excluding API)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": null,
+      "monthly_price": 47.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Students",
+        "Unlimited Teachers",
+        "Unlimited User Accounts",
+        "Unlimited Emails",
+        "Customer Support",
+        "Cancel Any Time",
+        "All Add-ons & Integrations",
+        "Teachworks API Access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": null,
+      "monthly_price": 187.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Students",
+        "Unlimited Teachers",
+        "Unlimited User Accounts",
+        "Unlimited Emails",
+        "Customer Support",
+        "Cancel Any Time",
+        "All Add-ons & Integrations",
+        "Teachworks API Access",
+        "First 5 Branch Accounts Included"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Branch Accounts",
+            "value": "5 included, $35/month per additional branch"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "student lesson",
+      "unit": "per lesson",
+      "base_price": 0.29,
+      "tiers": null
+    },
+    {
+      "metric_name": "student lesson",
+      "unit": "per lesson",
+      "base_price": 0.172,
+      "tiers": null
+    },
+    {
+      "metric_name": "student lesson",
+      "unit": "per lesson",
+      "base_price": 0.059,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Bulk Email Fee",
+      "fee_amount": 1.0,
+      "fee_description": "Charge of $1 per 1,000 bulk emails exceeding fair usage limit."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:04:56.888840",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "cd0d2d02-ef02-4997-a44a-e4ff1e99f135",
+    "name": "Teachworks",
+    "slug": "teachworks",
+    "description": "Teachworks is a simple, easy-to-use system that education companies use for managing teachers, students, schedules, billing and more.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/e9288acbd6f77f0495fe0f25907fdf50.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 19,
+    "trigger_count": 17
+  }
+}

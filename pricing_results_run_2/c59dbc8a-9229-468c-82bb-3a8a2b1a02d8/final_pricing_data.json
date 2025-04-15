@@ -1,0 +1,89 @@
+{
+  "app_id": "laposta",
+  "app_name": "Laposta",
+  "app_slug": "laposta",
+  "pricing_url": "https://laposta.nl/tarieven",
+  "source_url": "https://laposta.nl/prijzen",
+  "all_pricing_urls": [
+    "https://laposta.nl/tarieven",
+    "https://laposta.nl/prijzen#main-content"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not directly accessible, but references to free usage and subscription plans were found.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free usage up to 2000 relationships.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Up to 2000 relationships"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Subscription",
+      "tier_description": "Paid subscription for extended features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Extended features"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Mail credits",
+      "unit": "per credit",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:05:26.356888",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c59dbc8a-9229-468c-82bb-3a8a2b1a02d8",
+    "name": "Laposta",
+    "slug": "laposta",
+    "description": "Send easy professional newsletters with Laposta.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/0409e6ae42f6890f9e61c95dc716a5df.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 2
+  }
+}

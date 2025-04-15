@@ -1,0 +1,192 @@
+{
+  "app_id": "aidaform",
+  "app_name": "AidaForm",
+  "app_slug": "aidaform",
+  "pricing_url": "https://aidaform.com/pricing.html",
+  "source_url": "https://aidaform.com/pricing.html",
+  "all_pricing_urls": [
+    "https://aidaform.com/pricing.html"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a discount compared to monthly plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "FREE",
+      "tier_description": "When you\u2019re testing the waters",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited number of forms",
+        "Unlimited fields in each form",
+        "Essential form creation tools",
+        "Video and audio answers",
+        "E-mail notifications for form owners",
+        "Google Sheets integration",
+        "Zapier integration"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "500 MB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly responses",
+            "value": 100
+          },
+          {
+            "name": "Custom subdomains",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "STARTER",
+      "tier_description": "Like FREE plus extra responses",
+      "monthly_price": 12.0,
+      "annual_price": 144.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited number of forms",
+        "Unlimited fields in each form",
+        "Essential form creation tools",
+        "Video and audio answers",
+        "E-mail notifications for form owners",
+        "Google Sheets integration",
+        "Zapier integration"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "2 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly responses",
+            "value": 1000
+          },
+          {
+            "name": "Custom subdomains",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "EXPERT",
+      "tier_description": "Powerful forms for pros",
+      "monthly_price": 24.0,
+      "annual_price": 288.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Starter and:",
+        "E-signature",
+        "File upload",
+        "Stripe and PayPal payments",
+        "Quiz scoring and calculations",
+        "Logic jumps",
+        "Custom thank you pages",
+        "E-mail notifications for respondents",
+        "Form footers without the AidaForm logo",
+        "Real-time results dashboard"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "5 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly responses",
+            "value": 5000
+          },
+          {
+            "name": "Custom subdomains",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "ULTIMATE",
+      "tier_description": "For big business ambitions",
+      "monthly_price": 40.0,
+      "annual_price": 480.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Expert and:",
+        "Custom form domains",
+        "Personalization with query parameter",
+        "A/B tests with a random cookie",
+        "Disabling on a date",
+        "Password protection",
+        "Limiting response number",
+        "Google Tag Manager",
+        "Facebook Pixel",
+        "No AidaForm backlinks in forms",
+        "Priority customer support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "10 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly responses",
+            "value": 10000
+          },
+          {
+            "name": "Custom subdomains",
+            "value": 5
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T02:35:59.866536",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ae2ecaee-41bb-48d4-9250-0ff223b51877",
+    "name": "AidaForm",
+    "slug": "aidaform",
+    "description": "AidaForm is a SaaS solution allowing you to create and publish online forms, Instagram Bio links, and landing pages. Collect and analyze response data, process and share the data with other services and tools.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/829bc9569fffc22589b54317ddd10b2f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

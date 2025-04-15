@@ -1,0 +1,19 @@
+{
+  "app_name": "WishList Member",
+  "app_slug": "wishlist-member",
+  "search_term": "Find the official pricing page URL for WishList Member (wishlist-member.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744694638.8633373,
+  "response_text": [
+    "The official pricing page for WishList Member can be found here: [https://wishlist-member.com/pricing](https://wishlist-member.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://wishlist-member.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\wishlist-member\\20250415_012359"
+}

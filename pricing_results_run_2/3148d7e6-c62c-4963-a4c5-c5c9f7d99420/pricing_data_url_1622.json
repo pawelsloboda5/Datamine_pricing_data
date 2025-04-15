@@ -1,0 +1,125 @@
+{
+  "app_id": "learnupon",
+  "app_name": "LearnUpon",
+  "app_slug": "learnupon",
+  "pricing_url": "https://www.learnupon.com/pricing/",
+  "source_url": "https://www.learnupon.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.learnupon.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are not publicly disclosed and require contacting sales for a quote.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essential",
+      "tier_description": "Streamline learning delivery with a centralized solution.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "SCORM and xAPI Support",
+        "Custom Branding",
+        "Live Learning",
+        "Gamification",
+        "eCommerce",
+        "Webinar Integrations",
+        "Single Sign-On (SSO)"
+      ],
+      "limits": {
+        "users": "up to 150",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Connect learning strategy into other business tools.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes all Essential features",
+        "Multiple Languages",
+        "Zapier Integration",
+        "Two-way API Access"
+      ],
+      "limits": {
+        "users": "150 to 500",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Deliver learning at scale with expert support.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes all Premium features",
+        "White Labelling",
+        "Salesforce Integration",
+        "Enterprise SLA"
+      ],
+      "limits": {
+        "users": "500+",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Nonprofit Special Pricing",
+      "offer_description": "Special pricing available for eligible nonprofit organizations.",
+      "discount_percentage": null,
+      "offer_url": "https://www.learnupon.com/schedule-live-demo/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:10:55.116319",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "3148d7e6-c62c-4963-a4c5-c5c9f7d99420",
+    "name": "LearnUpon",
+    "slug": "learnupon",
+    "description": "LearnUpon is an enterprise learning management system (LMS) that fuels business\u2019s employee, partner, and customer success through training.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/08b62b08f549f31866e578113f0a169f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 9,
+    "trigger_count": 0
+  }
+}

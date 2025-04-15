@@ -1,0 +1,102 @@
+{
+  "app_name": "Chiirp",
+  "app_slug": "chiirp",
+  "search_term": "Find the official pricing page URL for Chiirp (chiirp.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744698565.447859,
+  "response_text": [
+    "Here is the direct URL to the official pricing page for Chiirp: [https://www.chiirp.com/pricing](https://www.chiirp.com/pricing).\u30103:0\u2020source\u3011"
+  ],
+  "citations": [
+    {
+      "title": "Pricing - CHIIRP",
+      "url": "https://chiirp.com/pricing_/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://chiirp.com/pricing_/",
+      "is_accessible": true,
+      "content": "Pricing - CHIIRP\n===============\n\nWhat Software Do You Currently Use?\n-----------------------------------\n\nSelect One Of Our Integration Partners Below\n--------------------------------------------\n\n![Image 2](https://chiirp.com/wp-content/uploads/2024/10/Rectangle-130.png)\n\n![Image 3](https://chiirp.com/wp-content/uploads/2024/10/Group-240-1024x1024.png)\n\n[CLICK HERE](https://chiirp.com/pricing-service-titan/)\n\n![Image 4](https://chiirp.com/wp-content/uploads/2024/10/Group-233-1024x1024.png)\n\n[CLICK HERE](https://chiirp.com/pricing-house-call-pro/)\n\n![Image 5](https://chiirp.com/wp-content/uploads/2024/10/Group-242-1024x1024.png)\n\n[CLICK HERE](https://chiirp.com/pricing-jobber-2/)\n\n![Image 6](https://chiirp.com/wp-content/uploads/2024/10/Group-241-1024x1024.png)\n\n[CLICK HERE](https://chiirp.com/pricing-service-monster-2/)\n\n![Image 7](https://chiirp.com/wp-content/uploads/2024/10/Mask-group-2.png)\n\nDon\u2019t use any of the above listed softwares?\n--------------------------------------------\n\n![Image 8](https://chiirp.com/wp-content/uploads/2024/10/Rectangle-130.png)\n\nOur system works with many different CRMs and also works as a stand-alone system as well. We\u2019d love to get on a demo with you and show you how CHIIRP can help you grow your business. Click the button below and choose a time that works for you.\n--------------------------------------------------------------------------------------------------------------------------------\n\n[SCHEDULE DEMO](https://meetings.hubspot.com/chiirpsales/chiirp-demo)\n\n[SEE PRICING](https://chiirp.com/pricing-other_/)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "chiirp",
+        "app_name": "Chiirp",
+        "app_slug": "chiirp",
+        "pricing_url": "https://chiirp.com/pricing-other_/",
+        "source_url": "https://chiirp.com/pricing-other_/",
+        "all_pricing_urls": [
+          "https://chiirp.com/pricing-service-titan/",
+          "https://chiirp.com/pricing-house-call-pro/",
+          "https://chiirp.com/pricing-jobber-2/",
+          "https://chiirp.com/pricing-service-monster-2/",
+          "https://chiirp.com/pricing-other_/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.CUSTOM"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing appears to be customized based on integration partners or standalone usage.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T02:29:33.757274",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.chiirp.com/pricing",
+      "is_accessible": true,
+      "content": "Pricing - CHIIRP\n===============\n\nWhat Software Do You Currently Use?\n-----------------------------------\n\nSelect One Of Our Integration Partners Below\n--------------------------------------------\n\n![Image 2](https://chiirp.com/wp-content/uploads/2024/10/Rectangle-130.png)\n\n![Image 3](https://chiirp.com/wp-content/uploads/2024/10/Group-240-1024x1024.png)\n\n[CLICK HERE](https://chiirp.com/pricing-service-titan/)\n\n![Image 4](https://chiirp.com/wp-content/uploads/2024/10/Group-233-1024x1024.png)\n\n[CLICK HERE](https://chiirp.com/pricing-house-call-pro/)\n\n![Image 5](https://chiirp.com/wp-content/uploads/2024/10/Group-242-1024x1024.png)\n\n[CLICK HERE](https://chiirp.com/pricing-jobber-2/)\n\n![Image 6](https://chiirp.com/wp-content/uploads/2024/10/Group-241-1024x1024.png)\n\n[CLICK HERE](https://chiirp.com/pricing-service-monster-2/)\n\n![Image 7](https://chiirp.com/wp-content/uploads/2024/10/Mask-group-2.png)\n\nDon\u2019t use any of the above listed softwares?\n--------------------------------------------\n\n![Image 8](https://chiirp.com/wp-content/uploads/2024/10/Rectangle-130.png)\n\nOur system works with many different CRMs and also works as a stand-alone system as well. We\u2019d love to get on a demo with you and show you how CHIIRP can help you grow your business. Click the button below and choose a time that works for you.\n--------------------------------------------------------------------------------------------------------------------------------\n\n[SCHEDULE DEMO](https://meetings.hubspot.com/chiirpsales/chiirp-demo)\n\n[SEE PRICING](https://chiirp.com/pricing-other_/)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "chiirp",
+        "app_name": "Chiirp",
+        "app_slug": "chiirp",
+        "pricing_url": "https://chiirp.com/pricing-other_/",
+        "source_url": "https://chiirp.com/pricing-other_/",
+        "all_pricing_urls": [
+          "https://chiirp.com/pricing-service-titan/",
+          "https://chiirp.com/pricing-house-call-pro/",
+          "https://chiirp.com/pricing-jobber-2/",
+          "https://chiirp.com/pricing-service-monster-2/",
+          "https://chiirp.com/pricing-other_/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.CUSTOM"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing appears to be customized based on integration partners or standalone usage.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T02:29:45.636989",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\chiirp\\20250415_022945"
+}

@@ -1,0 +1,138 @@
+{
+  "app_id": "time_to_pet",
+  "app_name": "Time To Pet",
+  "app_slug": "time-to-pet",
+  "pricing_url": "https://www.timetopet.com/pricing",
+  "source_url": "https://www.timetopet.com/pricing",
+  "all_pricing_urls": [
+    "https://www.timetopet.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes options for individual and team-based plans with additional costs for active staff members.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lite",
+      "tier_description": "For those just starting their pet care business journey or looking for a basic tool to help them manage scheduling and invoicing.",
+      "monthly_price": 20.0,
+      "annual_price": 200.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Basic scheduling",
+        "Basic invoicing"
+      ],
+      "limits": {
+        "users": "1",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Solo",
+      "tier_description": "For a growing, one person-business looking for advanced functionality like videos, integrations, and email marketing.",
+      "monthly_price": 45.0,
+      "annual_price": 450.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Advanced scheduling",
+        "Advanced invoicing",
+        "Videos",
+        "Integrations",
+        "Email marketing"
+      ],
+      "limits": {
+        "users": "1",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "For a pet care business that has staff members and needs additional tools like time off, permissions, pay reports, and more.",
+      "monthly_price": 35.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Staff management",
+        "Time off",
+        "Permissions",
+        "Pay reports"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Active staff",
+            "value": "$15/month per active staff"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Large Team",
+      "tier_description": "For a large pet care business with more than 25 active staff members. Contact our team for custom pricing and additional onboarding support.",
+      "monthly_price": 110.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom onboarding support"
+      ],
+      "limits": {
+        "users": "25+",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:37:18.326753",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ebe399a8-5822-41a2-b438-bab01efdf088",
+    "name": "Time To Pet",
+    "slug": "time-to-pet",
+    "description": "Everything you need to manage, grow, and love your pet sitting or dog walking business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/c04e2322beb0fd4d55b7c511034b327a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 4
+  }
+}

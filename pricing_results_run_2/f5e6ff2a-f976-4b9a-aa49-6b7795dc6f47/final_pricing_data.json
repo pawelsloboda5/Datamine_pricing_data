@@ -1,0 +1,156 @@
+{
+  "app_id": "productive_io",
+  "app_name": "Productive.io",
+  "app_slug": "productive-io",
+  "pricing_url": "https://productive.io/pricing/",
+  "source_url": "https://productive.io/pricing",
+  "all_pricing_urls": [
+    "https://productive.io/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Volume discounts available for companies with 50+ users. Discounts for education, nonprofits, and charities.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essential",
+      "tier_description": "For small businesses and fast-moving teams.",
+      "monthly_price": 11.0,
+      "annual_price": 9.0,
+      "annual_discount_percentage": 18.18,
+      "setup_fee": null,
+      "features": [
+        "Budgeting",
+        "Resource scheduling",
+        "Project & task management",
+        "Docs",
+        "Time tracking",
+        "Expense management",
+        "Reporting",
+        "Time off management",
+        "HRIS integrations",
+        "API access"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "For growing companies ready to scale their operations.",
+      "monthly_price": 28.0,
+      "annual_price": 24.0,
+      "annual_discount_percentage": 14.29,
+      "setup_fee": null,
+      "features": [
+        "Everything in Essential",
+        "Invoicing integrations",
+        "Recurring budgets",
+        "Teams",
+        "Advanced task management",
+        "Advanced reports",
+        "Advanced time off management",
+        "5 account-level custom fields",
+        "Billable time approvals",
+        "Rate cards",
+        "Time off approval flow"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Ultimate",
+      "tier_description": "Designed for complex organizations with advanced financial oversight.",
+      "monthly_price": 39.0,
+      "annual_price": 32.0,
+      "annual_discount_percentage": 17.95,
+      "setup_fee": null,
+      "features": [
+        "Everything in Professional",
+        "Revenue forecasting",
+        "Scenario Builder",
+        "Multiple subsidiaries",
+        "Expense approvals",
+        "Hubspot integration",
+        "Advanced time tracking",
+        "Advanced custom fields",
+        "Overhead calculation",
+        "Schedule report sending to email or Slack",
+        "Enforce SSO or 2FA",
+        "Webhooks"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Nonprofit and Charity Discount",
+      "offer_description": "50% off on all subscriptions for nonprofits and charities.",
+      "discount_percentage": 50.0,
+      "offer_url": "https://productive.io/pricing/",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Education Discount",
+      "offer_description": "Free accounts for teachers and students.",
+      "discount_percentage": 100.0,
+      "offer_url": "https://productive.io/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Wire Transfer Payment",
+      "fee_amount": null,
+      "fee_description": "Available for annual subscriptions with a minimum order of 10 user seats."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:27:22.582344",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f5e6ff2a-f976-4b9a-aa49-6b7795dc6f47",
+    "name": "Productive.io",
+    "slug": "productiveio",
+    "description": "Productive is a project management tool that includes everything you need to run a profitable agency.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/cab7476baa69744892b1f1fca9eb6f89.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 20
+  }
+}

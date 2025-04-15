@@ -1,0 +1,163 @@
+{
+  "app_id": "descript",
+  "app_name": "Descript",
+  "app_slug": "descript",
+  "pricing_url": null,
+  "source_url": "https://www.descript.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription tiers with varying features and usage limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features with limited usage.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 hour transcription per editor",
+        "Basic AI Suite (5 uses)",
+        "720p video export resolution"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "limited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Transcription hours",
+            "value": "1 hr maximum / mo"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Creator",
+      "tier_description": "Enhanced features for creators.",
+      "monthly_price": 12.0,
+      "annual_price": 120.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "10 hours transcription per editor",
+        "Basic AI Suite (20 uses/month)",
+        "1080p video export resolution"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "limited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Transcription hours",
+            "value": "10 hours / month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced features for professionals.",
+      "monthly_price": 24.0,
+      "annual_price": 240.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "30 hours transcription per editor",
+        "Advanced AI Suite",
+        "4k video export resolution"
+      ],
+      "limits": {
+        "users": "1-3",
+        "storage": "limited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Transcription hours",
+            "value": "30 hours / month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom solutions for enterprises.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "40 hours transcription per editor",
+        "Professional AI Suite",
+        "4k video export resolution"
+      ],
+      "limits": {
+        "users": "No limits",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Transcription hours",
+            "value": "40 hours / month"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": true,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T02:33:35.878100",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "66253b3b-feec-4299-b882-496d94e9289e",
+    "name": "Descript",
+    "slug": "descript",
+    "description": "Descript is a tool for getting accurate, fast, and affordable automatic transcriptions of your audio and video media. Once your media is transcribed, you can also edit the text - media word processing.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/b6f761362e9a0abc3af47144281b306e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools",
+      "Transcription"
+    ],
+    "category_slugs": [
+      "ai-tools",
+      "transcription"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

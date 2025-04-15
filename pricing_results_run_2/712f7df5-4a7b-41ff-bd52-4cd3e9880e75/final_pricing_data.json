@@ -1,0 +1,155 @@
+{
+  "app_id": "thanks_io",
+  "app_name": "Thanks.io",
+  "app_slug": "thanks-io",
+  "pricing_url": null,
+  "source_url": "https://info.thanks.io/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes printing and postage. Domestic and international rates differ.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pay As You Go",
+      "tier_description": "No monthly fee, pay per usage.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Printing and postage included"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Monthly subscription with discounted rates.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Discounted rates",
+        "Automation campaigns",
+        "QR code tracking",
+        "Dynamic personalization",
+        "Remove branding",
+        "Website retargeting",
+        "API access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Monthly subscription with wholesale rates.",
+      "monthly_price": 499.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Wholesale rates",
+        "User sub-accounts",
+        "Concierge implementation services"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Postcards",
+      "unit": "per item",
+      "base_price": 1.13,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 1.13
+        }
+      ]
+    },
+    {
+      "metric_name": "Letters",
+      "unit": "per item",
+      "base_price": 2.17,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 2.17
+        }
+      ]
+    },
+    {
+      "metric_name": "Data Services",
+      "unit": "per lookup",
+      "base_price": 0.07,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 0.07
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Giftcard Amount",
+      "fee_amount": null,
+      "fee_description": "Additional cost for gift card value."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T00:57:24.615369",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "712f7df5-4a7b-41ff-bd52-4cd3e9880e75",
+    "name": "thanks.io",
+    "slug": "thanksio",
+    "description": "Thanks.io is a way to automatically send \u2018handwritten\u2019 postcards, letters, notecards, and giftcards at scale for as low as $.59 per card.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/4e73685eab0451704fb7d9ae1afb3abb.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Printing"
+    ],
+    "category_slugs": [
+      "printing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 12,
+    "trigger_count": 3
+  }
+}

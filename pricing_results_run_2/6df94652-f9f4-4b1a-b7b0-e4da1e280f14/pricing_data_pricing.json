@@ -1,0 +1,68 @@
+{
+  "app_id": "veeqo",
+  "app_name": "Veeqo",
+  "app_slug": "veeqo",
+  "pricing_url": null,
+  "source_url": "https://www.veeqo.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Veeqo offers its software completely free to use, with fair and transparent pricing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Completely free to use.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Shipping management",
+        "Inventory synchronization",
+        "Warehouse software",
+        "Integration with Amazon Buy Shipping"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:36:29.416859",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6df94652-f9f4-4b1a-b7b0-e4da1e280f14",
+    "name": "Veeqo",
+    "slug": "veeqo",
+    "description": "Veeqo is a complete solution for multichannel retailers; keep inventory levels accurate, streamline operations and ship orders on time.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/18dfb023e7cd9a390a4b33b09d1f69dd.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 4
+  }
+}

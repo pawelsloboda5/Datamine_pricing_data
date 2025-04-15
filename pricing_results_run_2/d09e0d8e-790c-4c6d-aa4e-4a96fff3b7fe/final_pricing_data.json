@@ -1,0 +1,205 @@
+{
+  "app_id": "pt_distinction",
+  "app_name": "PT Distinction",
+  "app_slug": "pt-distinction",
+  "pricing_url": "https://www.ptdistinction.com/pricing",
+  "source_url": "https://www.ptdistinction.com/pricing",
+  "all_pricing_urls": [
+    "https://www.ptdistinction.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes additional charges for extra clients beyond the tier limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": null,
+      "monthly_price": 19.9,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "iOS app",
+        "Android app",
+        "Program Builder",
+        "AI Program Builder",
+        "Nutrition coaching",
+        "AI (Smart) Meal Planner",
+        "AI Assistant",
+        "Assessments",
+        "Group training",
+        "In-App Messaging",
+        "Scheduled Email",
+        "Scheduled SMS",
+        "Automated workflows",
+        "On-demand coaching",
+        "Habits",
+        "Client exercise technique reviews",
+        "Integrations",
+        "Pre-made templates",
+        "Sell packages and take payments",
+        "Access to our community"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Extra clients",
+            "value": "$6.00 per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Most popular",
+      "monthly_price": 59.9,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "iOS app",
+        "Android app",
+        "Program Builder",
+        "AI Program Builder",
+        "Nutrition coaching",
+        "AI (Smart) Meal Planner",
+        "AI Assistant",
+        "Assessments",
+        "Group training",
+        "In-App Messaging",
+        "Scheduled Email",
+        "Scheduled SMS",
+        "Automated workflows",
+        "On-demand coaching",
+        "Habits",
+        "Client exercise technique reviews",
+        "Integrations",
+        "Pre-made templates",
+        "Sell packages and take payments",
+        "Access to our community",
+        "Custom branded Android and iOS apps",
+        "Website integration"
+      ],
+      "limits": {
+        "users": 25,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Extra clients",
+            "value": "$2.40 per month"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Master",
+      "tier_description": null,
+      "monthly_price": 89.9,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "iOS app",
+        "Android app",
+        "Program Builder",
+        "AI Program Builder",
+        "Nutrition coaching",
+        "AI (Smart) Meal Planner",
+        "AI Assistant",
+        "Assessments",
+        "Group training",
+        "In-App Messaging",
+        "Scheduled Email",
+        "Scheduled SMS",
+        "Automated workflows",
+        "On-demand coaching",
+        "Habits",
+        "Client exercise technique reviews",
+        "Integrations",
+        "Pre-made templates",
+        "Sell packages and take payments",
+        "Access to our community",
+        "Custom branded Android and iOS apps",
+        "Website integration"
+      ],
+      "limits": {
+        "users": 50,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Extra clients",
+            "value": "$1.60 per month"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Extra clients",
+      "unit": "per client per month",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 4.0,
+          "max": 25.0,
+          "price": 6.0
+        },
+        {
+          "min": 26.0,
+          "max": 50.0,
+          "price": 2.4
+        },
+        {
+          "min": 51.0,
+          "max": "unlimited",
+          "price": 1.6
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T10:19:38.035181",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d09e0d8e-790c-4c6d-aa4e-4a96fff3b7fe",
+    "name": "PT Distinction",
+    "slug": "pt-distinction",
+    "description": "PT Distinction enables overworked personal trainers to train more clients, take more time off, and get even better results.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/40fd78ce0d61b41513c49fd0ccb4d5e1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fitness"
+    ],
+    "category_slugs": [
+      "fitness"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 2
+  }
+}

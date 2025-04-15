@@ -1,0 +1,48 @@
+{
+  "app_id": "easyship",
+  "app_name": "Easyship",
+  "app_slug": "easyship",
+  "pricing_url": "https://www.easyship.com/plans",
+  "source_url": "https://www.easyship.com/plans?country=United+States",
+  "all_pricing_urls": [
+    "https://www.easyship.com/plans"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Easyship offers a free tier and a 14-day free trial for its services. Pricing details for other tiers are not explicitly listed in the provided content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:53:23.928860",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "ecc4a544-f2f8-49f0-ad62-167be453c61a",
+    "name": "Easyship",
+    "slug": "easyship",
+    "description": "Easyship is a shipping platform that allows eCommerce merchants to connect to 250+ courier solutions to help them grow internationally",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d985d1832edcd453d46a85587e427767.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 3
+  }
+}

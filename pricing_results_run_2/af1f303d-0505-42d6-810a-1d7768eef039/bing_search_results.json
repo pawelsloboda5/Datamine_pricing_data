@@ -1,0 +1,91 @@
+{
+  "app_name": "OneNote",
+  "app_slug": "onenote",
+  "search_term": "Find the official pricing page URL for OneNote (onenote.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744709807.9924703,
+  "response_text": [
+    "OneNote does not have a standalone pricing page since it is free to use. You can explore additional details on its official website at [https://www.onenote.com](https://www.onenote.com)."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.onenote.com",
+      "is_accessible": true,
+      "content": "Microsoft OneNote\n\nYour digital notebook\n\nOne cross-functional notebook for all your note taking needs.\n\n![Image 1: Microsoft OneNote](https://site-cdn.onenote.net/161880740451_Images/home/new/top_v3.png)\n\n![Image 2: Copilot in OneNote, supercharge your productivity](https://site-cdn.onenote.net/161880740451_Images/home/new/Copilot_v3.png)\n\nCopilot in OneNote, supercharge your productivity\n\nAs your notetaking partner, Copilot in OneNote uses your prompts to draft plans, generate ideas, create lists, organize information, and more.\n\nSketch, annotate, and highlight freely\n\nOneNote lets you combine the power of digital ink with the natural feel of a pen to help you sketch out your inspirations.\n\n![Image 3: Sketch, annotate, and highlight freely](https://site-cdn.onenote.net/161880740451_Images/home/new/Inking_v3.png)\n\n![Image 4: Share and Collaborate](https://site-cdn.onenote.net/161880740451_Images/home/new/Share_v3.png)\n\nShare and Collaborate\n\nGreat minds don't always think alike, but they can share ideas and create together in OneNote.\n\nNever miss a detail with voice transcription\n\nVoice transcription makes it easier than ever to efficiently capture your notes, focus on what's important, and review your content later.\n\n![Image 5: Never miss a detail with voice transcription](https://site-cdn.onenote.net/161880740451_Images/home/new/Transcription_v3.png)\n\n![Image 6: OneNote in Education](https://site-cdn.onenote.net/161880740451_Images/home/new/Edu_v3.png)\n\nOneNote in Education\n\nTeachers can use OneNote to organize lesson plans in searchable digital notebooks, and staff can create a sharable content library. Encourage students to handwrite notes and sketch diagrams.\n\n*   #### Windows\n    \n    [Desktop](https://www.onenote.com/download) [Tablet](https://go.microsoft.com/fwlink/?linkid=2209937)\n    \n*   #### Apple\n    \n    [Mac](https://go.microsoft.com/fwlink/?LinkId=390970&clcid=0x409) [iPad](https://go.microsoft.com/fwlink/?LinkId=618396&clcid=0x409) [iPhone](https://go.microsoft.com/fwlink/?LinkId=618395&clcid=0x409) [Watch](https://go.microsoft.com/fwlink/?LinkId=786846&clcid=0x409)\n    \n*   #### Android\n    \n    [Tablet](https://officeredir.microsoft.com/r/rlidOneNoteGPlay/?clid=1033) [Phone](https://officeredir.microsoft.com/r/rlidOneNoteGPlay/?clid=1033) [Wear](https://officeredir.microsoft.com/r/rlidOneNoteGPlay/?clid=1033)\n    \n*   #### Web\n    \n    [All Devices](https://www.onenote.com/notebooks) [Chromebook](https://chrome.google.com/webstore/detail/ciniambnphakdoflgeamacamhfllbkmo)\n    \n\n* * *\n\n}\n\n*   [Blog](https://officeredir.microsoft.com/r/rlidOneNoteBlog/?clid=1033 \"Blog\") [Facebook](https://officeredir.microsoft.com/r/rlidOneNoteFacebook/?clid=1033 \"Facebook\") [Twitter](https://officeredir.microsoft.com/r/rlidOneNoteTwitter/?clid=1033 \"Twitter\")\n*   #### Useful Links\n    \n    [Developers](https://dev.onenote.com/) [Get Office](https://aka.ms/onenote-get-office?clcid=0x409) Send Feedback\n    \n*   #### Service\n    \n    [OneNote Clipper](https://www.onenote.com/clipper) [Email to OneNote](https://www.onenote.com/EmailToOneNote) [Office Lens](https://www.onenote.com/get/officelens) [Featured Apps](https://www.onenote.com/apps)\n    \n*   #### Support\n    \n    [OneNote Help](https://go.microsoft.com/fwlink/?LinkId=786847&clcid=0x409) [Community Forum](https://go.microsoft.com/fwlink/?LinkId=786849&clcid=0x409) [Contact Support](https://go.microsoft.com/fwlink/?LinkId=786850&clcid=0x409)\n    \n\n* * *",
+      "error": null,
+      "pricing_data": {
+        "app_id": "onenote",
+        "app_name": "Microsoft OneNote",
+        "app_slug": "microsoft-onenote",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "OneNote is available for free with optional integration into Microsoft Office 365 subscriptions for additional features.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Basic functionality of OneNote available for free.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Digital notebook for note-taking",
+              "Sketching and annotation tools",
+              "Voice transcription",
+              "Collaboration features"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Office 365 Integration",
+            "tier_description": "Enhanced features available through Office 365 subscription.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Integration with Office 365 suite",
+              "Additional storage and collaboration tools"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T05:37:01.106207",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\onenote\\20250415_053701"
+}

@@ -1,0 +1,48 @@
+{
+  "app_name": "Splash",
+  "app_slug": "splash",
+  "search_term": "Find the official pricing page URL for Splash (splash.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744722258.6899526,
+  "response_text": [
+    "https://splashthat.com/platform-pricing"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://splashthat.com/platform-pricing",
+      "is_accessible": true,
+      "content": "Lost?\n-----\n\nThere's no place like [home](https://splashthat.com/).\n------------------------------------------------------",
+      "error": null,
+      "pricing_data": {
+        "app_id": "splash",
+        "app_name": "Splash",
+        "app_slug": "splash",
+        "pricing_url": "https://splashthat.com/",
+        "source_url": "https://splashthat.com/",
+        "all_pricing_urls": [
+          "https://splashthat.com/"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The provided content does not include specific pricing details.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:04:26.486650",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\splash\\20250415_090426"
+}

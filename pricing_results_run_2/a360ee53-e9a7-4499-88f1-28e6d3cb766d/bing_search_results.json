@@ -1,0 +1,24 @@
+{
+  "app_name": "Wizehire",
+  "app_slug": "wizehire",
+  "search_term": "Find the official pricing page URL for Wizehire (wizehire.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744717807.7015538,
+  "response_text": [
+    "The official pricing page for Wizehire is located at: [https://wizehire.com/pricing](https://wizehire.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Hiring Tools Pricing - Find Top Talent Now - Wizehire",
+      "url": "https://wizehire.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://wizehire.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\wizehire\\20250415_075023"
+}

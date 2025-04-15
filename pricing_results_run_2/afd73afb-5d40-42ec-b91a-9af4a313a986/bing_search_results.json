@@ -1,0 +1,147 @@
+{
+  "app_name": "KanbanFlow",
+  "app_slug": "kanbanflow",
+  "search_term": "Find the official pricing page URL for KanbanFlow (kanbanflow.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744709597.1075315,
+  "response_text": [
+    "The official pricing page for KanbanFlow is available at: [https://kanbanflow.com/pricing](https://kanbanflow.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - KanbanFlow",
+      "url": "https://kanbanflow.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://kanbanflow.com/pricing",
+      "is_accessible": true,
+      "content": "Features\nPricing\nPress\n\nLogin\nSign up\n\nPricing\nKanbanFlow offers a powerful free version. Whenever you feel like you need more, our Premium version is ready to take your productivity to the next level.\nFree\n$0\nNo time limitSign up now\nPremium\n$5\nper user per month10% discount when paying per yearStart free 14-day trialKanban boardUnlimited boardsUnlimited tasksWIP limitsSubtasksFilterRecurring tasksSwimlanesFile attachmentsCustom fieldsCustom colorsSearchCopy boardTask numberingAutomatic task sortingRelationsWatch columnsMass updateTime managementStopwatch timerPomodoro timerPomodoro statisticsTime spent reportAnalytics & reportingPrint viewExcel & CSV exportCumulative flowCycle & Lead timeBurndownThroughputCalendarDue date performanceDashboardMonte Carlo forecastingRevision historyTime estimate reportTask count reportIntegrationsExcel & CSV importAdd tasks by emailAPI & webhooksCalendar feed / iCalZapierDropboxGoogle DriveOneDriveBoxSecurity & controlTwo-factor authenticationView-only permission roleCustom permission rolesMiscellaneousBackup siteSupport levelStandardPriority\n\nFrequently asked questions\n\n\nIs there a time limit for the free version?\nNo. You can use it for as long as you want.\nCan I upgrade or downgrade between Free and Premium?\nYes. You can upgrade and downgrade your plan at any time.\nWhat is your cancelation policy?\nYou can cancel at any time. No more charges are made after you have canceled.\n\nWe are a team that wants Premium, should everyone sign up individually?\nIf you are a team, only one of you should sign up for premium and then invite the others. The person signing up will pay for the entire team.\nCan I enable Premium for only some of my boards?\nYes. You can select which boards that you want to enable the premium features for. The other boards can be shared with anyone without a license, just like in the free version.\nOther questions? Mail to sales@kanbanflow.com\n\n\n\nhello@kanbanflow.com\nFacebook\nX / Twitter\n\n\n\u00a9 2011-2025 CodeKick AB. All rights reserved.\nTerms of Service\nPrivacy Policy\n\nFor organizations in need of priority support and more functionality, we have a premium plan.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "kanbanflow",
+        "app_name": "KanbanFlow",
+        "app_slug": "kanbanflow",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The Premium plan offers a 10% discount for annual payments.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "Powerful free version with no time limit.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Kanban board",
+              "Unlimited boards",
+              "Unlimited tasks",
+              "WIP limits",
+              "Subtasks",
+              "Filter",
+              "Recurring tasks",
+              "Swimlanes",
+              "File attachments",
+              "Custom fields",
+              "Custom colors",
+              "Search",
+              "Copy board",
+              "Task numbering",
+              "Automatic task sorting",
+              "Relations",
+              "Watch columns",
+              "Mass update",
+              "Time management",
+              "Stopwatch timer",
+              "Pomodoro timer",
+              "Pomodoro statistics",
+              "Time spent report",
+              "Analytics & reporting",
+              "Print view",
+              "Excel & CSV export",
+              "Cumulative flow",
+              "Cycle & Lead time",
+              "Burndown",
+              "Throughput",
+              "Calendar",
+              "Due date performance",
+              "Dashboard",
+              "Monte Carlo forecasting",
+              "Revision history",
+              "Time estimate report",
+              "Task count report",
+              "Integrations",
+              "Excel & CSV import",
+              "Add tasks by email",
+              "API & webhooks",
+              "Calendar feed / iCal",
+              "Zapier",
+              "Dropbox",
+              "Google Drive",
+              "OneDrive",
+              "Box",
+              "Security & control",
+              "Two-factor authentication",
+              "View-only permission role",
+              "Custom permission roles",
+              "Miscellaneous",
+              "Backup site",
+              "Support level: Standard"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Premium",
+            "tier_description": "Enhanced features for increased productivity.",
+            "monthly_price": 5.0,
+            "annual_price": 54.0,
+            "annual_discount_percentage": 10.0,
+            "setup_fee": null,
+            "features": [
+              "All features of Free tier",
+              "Priority support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T05:33:24.283425",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\kanbanflow\\20250415_053324"
+}

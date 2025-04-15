@@ -1,0 +1,49 @@
+{
+  "app_id": "microsoft_teams",
+  "app_name": "Microsoft Teams",
+  "app_slug": "microsoft-teams",
+  "pricing_url": "https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-pricing",
+  "source_url": "https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-pricing",
+  "all_pricing_urls": [
+    "https://www.microsoft.com/en-us/microsoft-teams/microsoft-teams-pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page for Microsoft Teams was not accessible or found during the extraction process.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:36:04.400764",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "017e504c-21c6-489d-bb5b-c8662f64ce53",
+    "name": "Microsoft Teams",
+    "slug": "microsoft-teams",
+    "description": "Microsoft Teams is the hub for teamwork in Office 365 that integrates all the people, content, and tools your team needs to be more engaged and effective.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/22d6681f64c79dd71a34066afe1c54e2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Microsoft",
+      "Team Chat"
+    ],
+    "category_slugs": [
+      "microsoft",
+      "team-chat"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 6
+  }
+}

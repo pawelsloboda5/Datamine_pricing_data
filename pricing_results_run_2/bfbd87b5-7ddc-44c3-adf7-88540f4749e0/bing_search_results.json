@@ -1,0 +1,55 @@
+{
+  "app_name": "Keygen",
+  "app_slug": "keygen",
+  "search_term": "Find the official pricing page URL for Keygen (keygen.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744689013.571652,
+  "response_text": [
+    "The official pricing page for Keygen is https://keygen.sh/pricing\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "keygen.com",
+      "url": "https://www.keygen.com/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://keygen.sh/pricing\u30103:0\u2020source\u3011.",
+      "is_accessible": true,
+      "content": "404 Page Not Found\n===============\n\n[Keygen is now Fair SourceStar us on GitHub _arrow\\_right\\_alt_](https://github.com/keygen-sh/keygen-api)\n\n[KLygen](https://keygen.sh/)\n\n_menu_\n\n*   Use Cases_expand\\_more_\n    *   [_lock\\_open_ Software Application Licensing](https://keygen.sh/software-licensing-api/)Use Keygen's flagship software licensing API to add license key validation, device activation and entitlements to any software product.\n    *   [_cloud\\_download_ Software Artifact Distribution](https://keygen.sh/software-distribution-api/)Use Keygen's supplementary software distribution API to securely deliver artifacts and offer automatic updates to licensed users.\n    *   [_bolt_ No-code Licensing Automation](https://keygen.sh/integrate/zapier/)Use Zapier to integrate Keygen with your favorite tools, such as Stripe for payments, and Postmark for transactional emails. No code required.\n    *   [For On-Premise/Multi-Prem](https://keygen.sh/for-on-prem-software/)\n    *   [For Go Programs](https://keygen.sh/for-go-programs/)\n    *   [For Mac Applications](https://keygen.sh/for-mac-apps/)\n    *   [For Container Images](https://keygen.sh/for-docker-images/)\n    *   [For Windows Programs](https://keygen.sh/for-windows-programs/)\n    *   [For Electron Apps](https://keygen.sh/for-electron-apps/)\n    *   [For WordPress Plugins](https://keygen.sh/for-wordpress-plugins/)\n    *   [For Tauri Apps](https://keygen.sh/for-tauri-apps/)\n    *   [For Python Packages](https://keygen.sh/for-python-packages/)\n    *   [For PHP Packages](https://keygen.sh/for-composer-packages/)\n    *   [For Node Packages](https://keygen.sh/for-npm-packages/)\n    *   [For RubyGems](https://keygen.sh/for-rubygems/)\n*   Demos_expand\\_more_\n    *   [_phonelink\\_lock_ License Activation Portal Demo](https://keygen.sh/demo/license-activation-portal/)\n    *   [_vpn\\_key_ License Key Validation Demo](https://keygen.sh/demo/license-key-validation/)\n    *   [Try Dashboard Demo](https://app.keygen.sh/demo)\n*   Developers_expand\\_more_\n    *   [_dns_ Self-Host Keygen](https://keygen.sh/docs/self-hosting/)Learn how to self-host Keygen's Community Edition for free, or self-host our Enterprise Edition for your business.\n    *   [_lan_ Keygen Relay NEW](https://keygen.sh/docs/relay/)Use Keygen Relay to securely distribute node-locked licenses in offline and air-gapped environments.\n    *   [_terminal_ Developer CLI](https://keygen.sh/docs/cli/)Use Keygen's official CLI to sign and publish software releases. Integrate with our SDKs for secure automatic upgrades.\n    *   [_import\\_contacts_ Documentation](https://keygen.sh/docs/)\n    *   [_data\\_object_ API Reference](https://keygen.sh/docs/api/)\n    *   [_update_ Changelog](https://keygen.sh/changelog/)\n    *   [_security_ Security](https://keygen.sh/security/)\n    *   [_code_ Source Code](https://github.com/keygen-sh/keygen-api)\n*   Resources_expand\\_more_\n    *   [Read the Source Code](https://github.com/keygen-sh/keygen-api)Keygen is an Fair Source software licensing and distribution API. View the source code on GitHub to learn more. [_compare\\_arrows_ Build vs Buy](https://keygen.sh/build-vs-buy/)Businesses of all sizes face the question of whether to build or buy a licensing solution.\n    *   [_volunteer\\_activism_ Open Source](https://keygen.sh/open-source/)\n    *   [_description_ Fair Source](https://keygen.sh/license/)\n    *   [_campaign_ Affiliate Program](https://keygen.sh/affiliates/)\n    *   [_badge_ Careers](https://keygen.sh/jobs/)\n    *   [_article_ Blog](https://keygen.sh/blog/)\n    *   [_support_ Get Support](mailto:support@keygen.sh)\n*   [Pricing](https://keygen.sh/pricing/)\n*   [Log in](https://app.keygen.sh/login)\n*   [Sign Up](https://app.keygen.sh/register?plan=fba5986e-05d0-46e8-98cb-922a45887d4d)\n\n404\n===\n\nPage Not Found\n\n_cookie_ Dismiss Settings\n\n### Cookies\n\n##### First-party Cookies\n\n*   Keygen [ ] We use cookies to store your tracking preferences, and if you have a Keygen account, to store session data. These cookies are required. For more information, see our [Privacy Policy](https://keygen.sh/privacy/#2-3-cookies).\n    \n\n##### Third-party Cookies\n\n*   Fathom Analytics [ ] We use the [Fathom](https://usefathom.com/ref/YIFTJ2) service to count website visitors. Fathom is privacy-focused and fully GDPR compliant. No cookies are used.\n    \n*   Rewardful [ ] We use the [Rewardful](https://www.getrewardful.com/?via=keygen) service to track and count referrals for our affiliate program.\n    \n    This service is only loaded when `?via=` is included in the URL. Enabling this may credit the person who referred you.\n    \n\nFor more information on how we use cookies, please review our [Privacy Policy](https://keygen.sh/privacy/#2-3-cookies).",
+      "error": null,
+      "pricing_data": {
+        "app_id": "keygen",
+        "app_name": "Keygen",
+        "app_slug": "keygen",
+        "pricing_url": "https://keygen.sh/pricing/",
+        "source_url": "https://keygen.sh/pricing/",
+        "all_pricing_urls": [
+          "https://keygen.sh/pricing/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page was not accessible, and no specific pricing details were found in the provided content.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:50:24.170679",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\keygen\\20250414_235024"
+}

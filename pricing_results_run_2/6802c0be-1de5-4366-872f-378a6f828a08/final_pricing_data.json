@@ -1,0 +1,99 @@
+{
+  "app_id": "supersaas",
+  "app_name": "SuperSaaS",
+  "app_slug": "supersaas",
+  "pricing_url": null,
+  "source_url": "https://www.supersaas.com/info/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "free_tier",
+    "subscription"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The basic version is free and fully functional, with limitations on appointment numbers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Free tier with full functionality and appointment limits.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Flexible Scheduling",
+        "Integrations",
+        "Payments",
+        "Confirmations & Reminders",
+        "Custom Layout & Forms",
+        "Booking Constraints",
+        "Access Control",
+        "Calendar Customization",
+        "Security & Reliability",
+        "Reporting"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Appointments",
+            "value": "Limited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Paid Plans",
+      "tier_description": "Paid plans with extended appointment limits and additional features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Calendar Sync"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:40:32.512478",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6802c0be-1de5-4366-872f-378a6f828a08",
+    "name": "SuperSaaS",
+    "slug": "supersaas",
+    "description": "SuperSaaS is an online appointment scheduling for any type of business. Flexible and affordable booking software that can be integrated into any site.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/5e273d87fe8abc3922c6a7388cfa4c81.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 7
+  }
+}

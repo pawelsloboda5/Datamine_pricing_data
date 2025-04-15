@@ -1,0 +1,12 @@
+{
+  "app_name": "Livespace",
+  "app_slug": "livespace",
+  "search_term": "Find the official pricing page URL for Livespace (livespace.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744699692.4688106,
+  "response_text": [
+    "I couldn't locate the official pricing page for Livespace.com. Can you confirm the product or company name?"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\livespace\\20250415_024813"
+}

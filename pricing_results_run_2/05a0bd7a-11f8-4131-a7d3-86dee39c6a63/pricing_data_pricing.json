@@ -1,0 +1,188 @@
+{
+  "app_id": "sendlane",
+  "app_name": "Sendlane",
+  "app_slug": "sendlane",
+  "pricing_url": "https://www.sendlane.com/pricing",
+  "source_url": "https://www.sendlane.com/pricing",
+  "all_pricing_urls": [
+    "https://www.sendlane.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 60,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on usage and includes various tiers for email and SMS services.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Professional",
+      "tier_description": "0 - 9,999 Contacts",
+      "monthly_price": 523.0,
+      "annual_price": 6270.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Assisted onboarding support",
+        "Access to 24/7/365 customer support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional Plus",
+      "tier_description": "10,000+ Contacts",
+      "monthly_price": 625.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Assisted onboarding support",
+        "Access to 24/7/365 customer support",
+        "Knowledgebase/videos webinars",
+        "Dedicated customer success manager",
+        "Program reviews 1x/month",
+        "Proactive deliverability monitoring"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "200,000+ Contacts",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Assisted onboarding support",
+        "Access to 24/7/365 customer support",
+        "Knowledgebase/videos webinars",
+        "Dedicated customer success manager",
+        "Program reviews 1x/month",
+        "Proactive deliverability monitoring",
+        "Personal Slack",
+        "Program 2x/month"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise Plus",
+      "tier_description": "500,000+ Contacts",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Assisted onboarding support",
+        "Access to 24/7/365 customer support",
+        "Knowledgebase/videos webinars",
+        "Dedicated customer success manager",
+        "Program reviews 1x/month",
+        "Proactive deliverability monitoring",
+        "Personal Slack",
+        "Program 2x/month",
+        "Program review calls 1x/week",
+        "Quarterly business reviews",
+        "Direct Line to in-house deliverability",
+        "Dedicated IPs"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS Credits",
+      "unit": "per credit",
+      "base_price": 0.00615,
+      "tiers": [
+        {
+          "min": 250.0,
+          "max": 500.0,
+          "price": 11.0
+        },
+        {
+          "min": 500.0,
+          "max": 1000.0,
+          "price": 21.0
+        },
+        {
+          "min": 1000.0,
+          "max": 2500.0,
+          "price": 50.0
+        },
+        {
+          "min": 2500.0,
+          "max": 5000.0,
+          "price": 90.0
+        },
+        {
+          "min": 5000.0,
+          "max": 10000.0,
+          "price": 175.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Optional Short Code",
+      "fee_amount": 500.0,
+      "fee_description": "Optional short code for SMS services."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:56:10.480084",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "05a0bd7a-11f8-4131-a7d3-86dee39c6a63",
+    "name": "Sendlane",
+    "slug": "sendlane",
+    "description": "Sendlane is an email automation platform that allows you to connect and communicate with your subscribers and customers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/95ed58871f6f37d513a867475777806f_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 1
+  }
+}

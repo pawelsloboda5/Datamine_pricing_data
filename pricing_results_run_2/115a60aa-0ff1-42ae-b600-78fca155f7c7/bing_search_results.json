@@ -1,0 +1,71 @@
+{
+  "app_name": "YouTube",
+  "app_slug": "youtube",
+  "search_term": "Find the official pricing page URL for YouTube (youtube.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744720039.6918259,
+  "response_text": [
+    "The official pricing page for YouTube Premium can be found here: [https://www.youtube.com/premium](https://www.youtube.com/premium)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "YouTube Premium - YouTube",
+      "url": "https://www.youtube.com/premium"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.youtube.com/premium",
+      "is_accessible": true,
+      "content": "YouTube Premium\n===============\n\n[](https://www.youtube.com/ \"YouTube\")[](https://www.youtube.com/ \"YouTube\")\n\n[About](https://www.youtube.com/about/)[Press](https://www.youtube.com/about/press/)[Copyright](https://www.youtube.com/about/copyright/)[Contact us](https://www.youtube.com/t/contact_us/)[Creators](https://www.youtube.com/creators/)[Advertise](https://www.youtube.com/ads/)[Developers](https://developers.google.com/youtube)[Terms](https://www.youtube.com/t/terms)[Privacy](https://www.youtube.com/t/privacy)[Policy & Safety](https://www.youtube.com/about/policies/)[How YouTube works](https://www.youtube.com/howyoutubeworks?utm_campaign=ytgen&utm_source=ythp&utm_medium=LeftNav&utm_content=txt&u=https%3A%2F%2Fwww.youtube.com%2Fhowyoutubeworks%3Futm_source%3Dythp%26utm_medium%3DLeftNav%26utm_campaign%3Dytgen)[Test new features](https://www.youtube.com/new)[NFL Sunday Ticket](https://tv.youtube.com/learn/nflsundayticket)\n\n\u00a9 2025 Google LLC\n\nWith YouTube Premium, enjoy ad-free access, downloads, and background play on YouTube and YouTube Music.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "youtube",
+        "app_name": "YouTube",
+        "app_slug": "youtube",
+        "pricing_url": "https://www.youtube.com/premium",
+        "source_url": "https://www.youtube.com/premium",
+        "all_pricing_urls": [
+          "https://www.youtube.com/premium"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 30,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "YouTube Premium offers subscription-based pricing with a free trial period.",
+        "pricing_tiers": [
+          {
+            "tier_name": "YouTube Premium",
+            "tier_description": "Ad-free access, downloads, and background play on YouTube and YouTube Music.",
+            "monthly_price": 11.99,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Ad-free access",
+              "Downloads",
+              "Background play",
+              "Access to YouTube Music"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T08:27:26.698001",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\youtube\\20250415_082727"
+}

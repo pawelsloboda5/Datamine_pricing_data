@@ -1,0 +1,47 @@
+{
+  "app_id": "zoho_people",
+  "app_name": "Zoho People",
+  "app_slug": "zoho-people",
+  "pricing_url": "https://www.zoho.com/people/pricing.html",
+  "source_url": "https://www.zoho.com/people/pricing.html",
+  "all_pricing_urls": [
+    "https://www.zoho.com/people/pricing.html"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page for Zoho People was not accessible, and detailed pricing information could not be extracted.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:44:19.154534",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "77706322-b125-4510-8cd6-4f67adf3fe94",
+    "name": "Zoho People",
+    "slug": "zoho-people",
+    "description": "Zoho People is an online HR management software which helps you automate all your HR processes efficiently.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/1d743a8037dcd15556ff55b08dc95552.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "HR Talent & Recruitment",
+      "Zoho"
+    ],
+    "category_slugs": [
+      "hr",
+      "zoho"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 1
+  }
+}

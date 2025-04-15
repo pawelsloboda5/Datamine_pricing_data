@@ -1,0 +1,43 @@
+{
+  "app_id": "ecologi",
+  "app_name": "Ecologi",
+  "app_slug": "ecologi",
+  "pricing_url": null,
+  "source_url": "https://ecologi.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "GBP",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "No specific pricing information was found in the provided content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T07:40:04.193045",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "0d81972a-90e8-42e8-8678-c8ea45971eed",
+    "name": "Ecologi",
+    "slug": "ecologi",
+    "description": "Give back to the planet by planting trees.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/b4f635f2759138cb860a4b9675f6f354.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fundraising"
+    ],
+    "category_slugs": [
+      "fundraising"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

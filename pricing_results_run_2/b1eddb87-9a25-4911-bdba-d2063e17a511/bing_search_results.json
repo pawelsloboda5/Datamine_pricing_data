@@ -1,0 +1,237 @@
+{
+  "app_name": "QuickMail",
+  "app_slug": "quickmail",
+  "search_term": "Find the official pricing page URL for QuickMail (quickmail.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744720381.4794755,
+  "response_text": [
+    "https://quickmail.io/pricing\u30103:0\u2020source\u3011"
+  ],
+  "citations": [
+    {
+      "title": "Pricing - QuickMail",
+      "url": "https://quickmail.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://quickmail.com/pricing",
+      "is_accessible": true,
+      "content": "Single Basic Plan\n\nEngage and close prospects on autopilot.\n\n$49 /mo\n\n*   30,000 Emails Monthly\n*   10,000 Active Prospects\n*   5 Email Addresses\n*   1 LinkedIn Account\n*   Unlimited Team Members\n*   Free AutoWarmer with [MailFlow](https://www.mailflow.io/)\n*   Reply Handling\n*   Zapier\n*   Blacklists Monitoring\n*   Expert Support\n\nSingle Pro Plan\n\nPowerful Stats & native integration with CRM.\n\n$89 /mo\n\n*   100,000 Emails Monthly\n*   50,000 Active Prospects\n*   20 Email Addresses\n*   5 LinkedIn Accounts\n*   Unlimited Team Members\n*   Free AutoWarmer with [MailFlow](https://www.mailflow.io/)\n*   Reply Handling\n*   Zapier\n*   Blacklists Monitoring\n*   Expert Support\n*   HubSpot & Pipedrive Native Integration\n*   Deliverability AI\n*   Advanced Analytics\n\nSingle Expert Plan\n\nAdvanced Analytics, AI & Sub-Campaigns\n\n$129 /mo\n\n*   300,000 Emails Monthly\n*   100,000 Active Prospects\n*   50 Email Addresses\n*   15 LinkedIn Accounts\n*   Unlimited Team Members\n*   Free AutoWarmer with [MailFlow](https://www.mailflow.io/)\n*   Reply Handling\n*   Zapier\n*   Blacklists Monitoring\n*   Expert Support\n*   HubSpot & Pipedrive Native Integration\n*   Deliverability AI\n*   Advanced Analytics\n*   AI & Sub-Campaigns\n*   API\n\nAre You An Agency?\n------------------\n\nHave all your clients under one roof. Shift between client profiles with just one click. Give each client unique integrations, prospects, exclude list, and more.\n\nFREE\n\nAgency portal comes completely free. Invite your entire team at no extra cost.\n\n[LEARN MORE HERE...](https://quickmail.com/agencies \"Learn more\")\n\nSee how LinkedHacker grew to 200+ clients with QuickMail:\n\n![Image 1: How QuickMail helped lead generation agencies handling more than 200 accounts.](https://embed-ssl.wistia.com/deliveries/f674f366723ee020d4c4cadc311db4dd.webp?image_crop_resized=960x540)\u00a0\n\n![Image 2: Testimonial by Rachel](https://quickmail.com/static/78e5f29cbbf45c5544c07cc1329436fb/54028/testimonial-rachel.webp)\n\nFeatures by Plan\n----------------\n\n**Email sends**\n\nUp to 30,000 emails/month\n\nUp to 100,000 emails/month\n\nUp to 300,000 emails/month\n\n**Email addresses**\n\nAccounts for sending\n\nUp to 5\n\nUp to 20\n\nUp to 50\n\n**LinkedIn accounts**\n\nAccounts for connecting/messaging\n\n1\n\nUp to 5\n\nUp to 15\n\n**Prospect storage**\n\nWith activity records & notes\n\nUp to 10,000\n\nUp to 50,000\n\nUp to 100,000\n\n**Team Members**\n\nWith unique login\n\nUnlimited\n\nUnlimited\n\nUnlimited\n\n**Searchable audit logs**\n\nAll activities tracked\n\n**Expert support**\n\n**Prospects bulk import**\n\nVia CSV + Google drive\n\n**No duplicate prospects**\n\nUpload new prospects worry-free\n\n**Unsubscribe management**\n\nIn-app suppression list\n\n**DoNotContact by domain**\n\nSuppress sending to entire orgs\n\n**Prospect tags**\n\n**Custom attributes**\n\nSend highly personalized messages\n\n**Auto import spreadsheets**\n\nChanges detected automatically\n\n1 Sheet\n\nUp to 10 sheets\n\nUp to 30 sheets\n\n**Gmail-approved sending API**\n\nFor superior deliverability\n\n**Free AutoWarmer integration**\n\nSafe, seamless, and secure\n\n**Bounce detection**\n\nStops campaign immediately\n\n**Email deliverability score**\n\nBased on last 10 days of sending\n\n**Blacklist monitoring**\n\n**Email throttling**\n\nCustom daily send limits\n\n**Deliverability report**\n\nWeekly in your inbox\n\n**Inbox rotation**\n\nAssign multiple senders to a campaign\n\n**Deliverability AI**\n\nAutomatic replacement of bad senders\n\n**Built-in error detection**\n\nSend messages without blunders\n\n**Live campaigns**\n\nReach out via multiple channels to increase response\n\nUp to 10\n\nUp to 20\n\nUp to 50\n\n**Email campaign steps**\n\n**SMS campaign steps**\n\n**Call campaign steps**\n\n**Task campaign steps**\n\n**A/Z testing**\n\nVariations for testing and deliverability\n\n**Computed attributes**\n\nMention colleagues, days in advance\n\n**Sending times**\n\nSet days/times emails are sent\n\n**Scheduling automation**\n\nSet days/times prospects enter a campaign\n\n**Plain text sending**\n\nOptional deliverability boost\n\n**Liquid syntax**\n\nLogic for variable text\n\n**Auto stop on reply**\n\nStop campaign when reply detected\n\n**Stop colleagues on reply**\n\nCancel campaign for colleagues\n\n**Out of office detection**\n\nAuto pause campaign for 2 weeks\n\n**Conditional sending**\n\nSteps based on engagement\n\n**Sub-campaigns**\n\nAuto follow-up based on response\n\n**Campaign-level stats**\n\n**Live notifications**\n\nIn-app for open & click\n\n**Account dashboard**\n\n**Won/lost attribution**\n\n**Unsubscribe insights**\n\n**Advanced analytics**\n\nTracked by send time\n\n**Centralized reply handling**\n\nSupports multiple email providers\n\n**Advanced reply detection**\n\nDetects any email from a prospect\n\n**Snooze & archive replies**\n\n**Assign replies**\n\nHandle replies as a team\n\n**Advanced filters**\n\n**Reply from any inbox**\n\n**Active/pending status**\n\n**Add notes to thread**\n\n**Visible wait time**\n\n**Labels**\n\n**AI sentiment detection**\n\n**Auto unsubscribe**\n\nDetect and handle unsubscribe requests\n\n**Zapier**\n\nIntegrate with 3,000+ apps\n\n**Email verification**\n\nClean your prospect data in-app\n\n**Google Drive**\n\n**Slack integration**\n\nSend messages to your channel\n\n**Twilio integration**\n\nFor SMS campaign steps\n\n**Native CRM**\n\n2-way sync with HubSpot & Pipedrive\n\n**Webhooks**\n\n**API**\n\nHave your own integration\n\nReady To Get Started?\n\n**Up to 30,000 emails/month**\n\n**Up to 5**\n\n**1**\n\n**Up to 10,000**\n\n**Unlimited**\n\n**Searchable audit logs**\n\nAll activities tracked\n\n**Expert support**\n\n**Prospects bulk import**\n\nVia CSV + Google drive\n\n**No duplicate prospects**\n\nUpload new prospects worry-free\n\n**Unsubscribe management**\n\nIn-app suppression list\n\n**DoNotContact by domain**\n\nSuppress sending to entire orgs\n\n**Prospect tags**\n\n**Custom attributes**\n\nSend highly personalized messages\n\n**1 Sheet**\n\n**Gmail-approved sending API**\n\nFor superior deliverability\n\n**Free AutoWarmer integration**\n\nSafe, seamless, and secure\n\n**Bounce detection**\n\nStops campaign immediately\n\n**Email deliverability score**\n\nBased on last 10 days of sending\n\n**Blacklist monitoring**\n\n**Email throttling**\n\nCustom daily send limits\n\n**Inbox rotation**\n\nAssign multiple senders to a campaign\n\n**Built-in error detection**\n\nSend messages without blunders\n\n**Up to 10**\n\n**Email campaign steps**\n\n**SMS campaign steps**\n\n**Call campaign steps**\n\n**Task campaign steps**\n\n**A/Z testing**\n\nVariations for testing and deliverability\n\n**Computed attributes**\n\nMention colleagues, days in advance\n\n**Sending times**\n\nSet days/times emails are sent\n\n**Scheduling automation**\n\nSet days/times prospects enter a campaign\n\n**Plain text sending**\n\nOptional deliverability boost\n\n**Liquid syntax**\n\nLogic for variable text\n\n**Auto stop on reply**\n\nStop campaign when reply detected\n\n**Stop colleagues on reply**\n\nCancel campaign for colleagues\n\n**Out of office detection**\n\nAuto pause campaign for 2 weeks\n\n**Campaign-level stats**\n\n**Live notifications**\n\nIn-app for open & click\n\n**Account dashboard**\n\n**Won/lost attribution**\n\n**Unsubscribe insights**\n\n**Centralized reply handling**\n\nSupports multiple email providers\n\n**Advanced reply detection**\n\nDetects any email from a prospect\n\n**Snooze & archive replies**\n\n**Assign replies**\n\nHandle replies as a team\n\n**Advanced filters**\n\n**Reply from any inbox**\n\n**Active/pending status**\n\n**Add notes to thread**\n\n**Visible wait time**\n\n**Labels**\n\n**Zapier**\n\nIntegrate with 3,000+ apps\n\n**Email verification**\n\nClean your prospect data in-app\n\n**Google Drive**\n\n**Slack integration**\n\nSend messages to your channel\n\n**Twilio integration**\n\nFor SMS campaign steps\n\n[Try for Free](https://next.quickmail.com/signup \"Try for Free\")14-Day Trial\n\n**Up to 100,000 emails/month**\n\n**Up to 20**\n\n**Up to 5**\n\n**Up to 50,000**\n\n**Unlimited**\n\n**Searchable audit logs**\n\nAll activities tracked\n\n**Expert support**\n\n**Prospects bulk import**\n\nVia CSV + Google drive\n\n**No duplicate prospects**\n\nUpload new prospects worry-free\n\n**Unsubscribe management**\n\nIn-app suppression list\n\n**DoNotContact by domain**\n\nSuppress sending to entire orgs\n\n**Prospect tags**\n\n**Custom attributes**\n\nSend highly personalized messages\n\n**Up to 10 sheets**\n\n**Gmail-approved sending API**\n\nFor superior deliverability\n\n**Free AutoWarmer integration**\n\nSafe, seamless, and secure\n\n**Bounce detection**\n\nStops campaign immediately\n\n**Email deliverability score**\n\nBased on last 10 days of sending\n\n**Blacklist monitoring**\n\n**Email throttling**\n\nCustom daily send limits\n\n**Deliverability report**\n\nWeekly in your inbox\n\n**Inbox rotation**\n\nAssign multiple senders to a campaign\n\n**Deliverability AI**\n\nAutomatic replacement of bad senders\n\n**Built-in error detection**\n\nSend messages without blunders\n\n**Up to 20**\n\n**Email campaign steps**\n\n**SMS campaign steps**\n\n**Call campaign steps**\n\n**Task campaign steps**\n\n**A/Z testing**\n\nVariations for testing and deliverability\n\n**Computed attributes**\n\nMention colleagues, days in advance\n\n**Sending times**\n\nSet days/times emails are sent\n\n**Scheduling automation**\n\nSet days/times prospects enter a campaign\n\n**Plain text sending**\n\nOptional deliverability boost\n\n**Liquid syntax**\n\nLogic for variable text\n\n**Auto stop on reply**\n\nStop campaign when reply detected\n\n**Stop colleagues on reply**\n\nCancel campaign for colleagues\n\n**Out of office detection**\n\nAuto pause campaign for 2 weeks\n\n**Conditional sending**\n\nSteps based on engagement\n\n**Campaign-level stats**\n\n**Live notifications**\n\nIn-app for open & click\n\n**Account dashboard**\n\n**Won/lost attribution**\n\n**Unsubscribe insights**\n\n**Advanced analytics**\n\nTracked by send time\n\n**Centralized reply handling**\n\nSupports multiple email providers\n\n**Advanced reply detection**\n\nDetects any email from a prospect\n\n**Snooze & archive replies**\n\n**Assign replies**\n\nHandle replies as a team\n\n**Advanced filters**\n\n**Reply from any inbox**\n\n**Active/pending status**\n\n**Add notes to thread**\n\n**Visible wait time**\n\n**Labels**\n\n**AI sentiment detection**\n\n**Zapier**\n\nIntegrate with 3,000+ apps\n\n**Email verification**\n\nClean your prospect data in-app\n\n**Google Drive**\n\n**Slack integration**\n\nSend messages to your channel\n\n**Twilio integration**\n\nFor SMS campaign steps\n\n**Native CRM**\n\n2-way sync with HubSpot & Pipedrive\n\n**Webhooks**\n\n[Try for Free](https://next.quickmail.com/signup \"Try for Free\")14-Day Trial\n\n**Up to 300,000 emails/month**\n\n**Up to 50**\n\n**Up to 15**\n\n**Up to 100,000**\n\n**Unlimited**\n\n**Searchable audit logs**\n\nAll activities tracked\n\n**Expert support**\n\n**Prospects bulk import**\n\nVia CSV + Google drive\n\n**No duplicate prospects**\n\nUpload new prospects worry-free\n\n**Unsubscribe management**\n\nIn-app suppression list\n\n**DoNotContact by domain**\n\nSuppress sending to entire orgs\n\n**Prospect tags**\n\n**Custom attributes**\n\nSend highly personalized messages\n\n**Up to 30 sheets**\n\n**Gmail-approved sending API**\n\nFor superior deliverability\n\n**Free AutoWarmer integration**\n\nSafe, seamless, and secure\n\n**Bounce detection**\n\nStops campaign immediately\n\n**Email deliverability score**\n\nBased on last 10 days of sending\n\n**Blacklist monitoring**\n\n**Email throttling**\n\nCustom daily send limits\n\n**Deliverability report**\n\nWeekly in your inbox\n\n**Inbox rotation**\n\nAssign multiple senders to a campaign\n\n**Deliverability AI**\n\nAutomatic replacement of bad senders\n\n**Built-in error detection**\n\nSend messages without blunders\n\n**Up to 50**\n\n**Email campaign steps**\n\n**SMS campaign steps**\n\n**Call campaign steps**\n\n**Task campaign steps**\n\n**A/Z testing**\n\nVariations for testing and deliverability\n\n**Computed attributes**\n\nMention colleagues, days in advance\n\n**Sending times**\n\nSet days/times emails are sent\n\n**Scheduling automation**\n\nSet days/times prospects enter a campaign\n\n**Plain text sending**\n\nOptional deliverability boost\n\n**Liquid syntax**\n\nLogic for variable text\n\n**Auto stop on reply**\n\nStop campaign when reply detected\n\n**Stop colleagues on reply**\n\nCancel campaign for colleagues\n\n**Out of office detection**\n\nAuto pause campaign for 2 weeks\n\n**Conditional sending**\n\nSteps based on engagement\n\n**Sub-campaigns**\n\nAuto follow-up based on response\n\n**Campaign-level stats**\n\n**Live notifications**\n\nIn-app for open & click\n\n**Account dashboard**\n\n**Won/lost attribution**\n\n**Unsubscribe insights**\n\n**Advanced analytics**\n\nTracked by send time\n\n**Centralized reply handling**\n\nSupports multiple email providers\n\n**Advanced reply detection**\n\nDetects any email from a prospect\n\n**Snooze & archive replies**\n\n**Assign replies**\n\nHandle replies as a team\n\n**Advanced filters**\n\n**Reply from any inbox**\n\n**Active/pending status**\n\n**Add notes to thread**\n\n**Visible wait time**\n\n**Labels**\n\n**AI sentiment detection**\n\n**Auto unsubscribe**\n\nDetect and handle unsubscribe requests\n\n**Zapier**\n\nIntegrate with 3,000+ apps\n\n**Email verification**\n\nClean your prospect data in-app\n\n**Google Drive**\n\n**Slack integration**\n\nSend messages to your channel\n\n**Twilio integration**\n\nFor SMS campaign steps\n\n**Native CRM**\n\n2-way sync with HubSpot & Pipedrive\n\n**Webhooks**\n\n**API**\n\nHave your own integration\n\n[Try for Free](https://next.quickmail.com/signup \"Try for Free\")14-Day Trial\n\nFAQ\n---\n\n### Can I downgrade or cancel my plan anytime?\n\nYes - No contract is required to sign up. Use QuickMail for a month or 2, no problem. To update or cancel the subscription, just go to your Account Settings / Billing/Plan. When changes happen to your subscription, we prorate and calculate usage to the second.\n\n### Will I be charged automatically after the free trial ends?\n\nNope. No one likes surprises. We won't charge your card nor subscribe your account to a paid plan when the free trial ends. That's a no go for us, you stay in control of your purchase experience.\n\n### Why do I need to add my card info to sign up if it's free?\n\nWe require everyone to add their card information to prevent spammers from creating many accounts and abusing our system. That way we can provide a stable system and robust email deliverability for all our clients like we had through the years. Our trial ends without creating an automatic subscription, so you are safe.\n\n### Do you offer cold email marketing or lead generation services with QuickMail?\n\nQuickMail is a platform for your outbound, sending cold emails at scale and handling replies. We don't provide cold email marketing or lead generation service, we focus on building the best platform. We recommend joining our[Facebook group](https://www.facebook.com/groups/quickmail \"QuickMail Facebook Group\")and asking for help as there are cold email experts and agency owners that are members of the group.\n\n### What IP addresses does QuickMail use?\n\nQuickMail does not send the email through proprietary servers. QuickMail automates sending emails from the email account added as an inbox, so the IP address of the email provider will be the one used to send the email. E.g. If the inbox is Gmail, Google IPs will be used to send.\n\n### What servers does QuickMail use?\n\nWe automate sending emails from the email provider of that inbox. Emails are sent using the email provider's servers. E.g. if you have an Outlook inbox, Microsoft servers will send the email. We only tell Microsoft to send an email to certain email addresses. This way the emails you send are genuinely looking like emails you would send yourself from your email address.\n\n### Can I use multiple email addresses for sending emails?\n\nYes, it's possible to send emails from multiple email addresses (same of different domains) to distribute the volume of emails with ease using our advanced[Inbox Rotation](https://quickmail.com/inbox-rotation \"QuickMail Inbox Rotation Feature\")system. You won't have to create multiple email campaigns to send emails from different inboxes, you can assign multiple email addresses to the same campaign.\n\n### How many team members can I add?\n\nWe don't punish you for growing your team. You may add as many team members as needed at no additional cost. No more sharing login and password, everyone on your team can have their own login details. Our auditing log helps you to keep an eye on what your members are doing.\n\n### Can I send emails to people who haven't subscribed (opt-in) yet?\n\nYes, we are a cold outreach tool. It's made to open business with companies you never contacted before. It's no different from phoning a company and asking them if they would be open to your value proposition, except this is done by email.\n\n### What integrations do you offer?\n\nWe offer different integrations to help people automate their workflow and make them more effective. Here's the list of integrations that we are currently supporting:[Integration](https://quickmail.com/integrations \"QuickMail Integration\")\n\nStart Sending Today\n-------------------\n\nPut all our pro features to the test in your free 14-day trial.\n\nQuickMail pricing",
+      "error": null,
+      "pricing_data": {
+        "app_id": "quickmail",
+        "app_name": "QuickMail",
+        "app_slug": "quickmail",
+        "pricing_url": "https://quickmail.com/pricing",
+        "source_url": "https://quickmail.com/pricing",
+        "all_pricing_urls": [
+          "https://quickmail.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "QuickMail offers a free agency portal and a 14-day free trial for its paid plans.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic",
+            "tier_description": "Engage and close prospects on autopilot.",
+            "monthly_price": 49.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "30,000 Emails Monthly",
+              "10,000 Active Prospects",
+              "5 Email Addresses",
+              "1 LinkedIn Account",
+              "Unlimited Team Members",
+              "Free AutoWarmer with MailFlow",
+              "Reply Handling",
+              "Zapier",
+              "Blacklists Monitoring",
+              "Expert Support"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Emails Monthly",
+                  "value": 30000
+                },
+                {
+                  "name": "Active Prospects",
+                  "value": 10000
+                },
+                {
+                  "name": "Email Addresses",
+                  "value": 5
+                },
+                {
+                  "name": "LinkedIn Accounts",
+                  "value": 1
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "Powerful Stats & native integration with CRM.",
+            "monthly_price": 89.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "100,000 Emails Monthly",
+              "50,000 Active Prospects",
+              "20 Email Addresses",
+              "5 LinkedIn Accounts",
+              "Unlimited Team Members",
+              "Free AutoWarmer with MailFlow",
+              "Reply Handling",
+              "Zapier",
+              "Blacklists Monitoring",
+              "Expert Support",
+              "HubSpot & Pipedrive Native Integration",
+              "Deliverability AI",
+              "Advanced Analytics"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Emails Monthly",
+                  "value": 100000
+                },
+                {
+                  "name": "Active Prospects",
+                  "value": 50000
+                },
+                {
+                  "name": "Email Addresses",
+                  "value": 20
+                },
+                {
+                  "name": "LinkedIn Accounts",
+                  "value": 5
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Expert",
+            "tier_description": "Advanced Analytics, AI & Sub-Campaigns.",
+            "monthly_price": 129.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "300,000 Emails Monthly",
+              "100,000 Active Prospects",
+              "50 Email Addresses",
+              "15 LinkedIn Accounts",
+              "Unlimited Team Members",
+              "Free AutoWarmer with MailFlow",
+              "Reply Handling",
+              "Zapier",
+              "Blacklists Monitoring",
+              "Expert Support",
+              "HubSpot & Pipedrive Native Integration",
+              "Deliverability AI",
+              "Advanced Analytics",
+              "AI & Sub-Campaigns",
+              "API"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Emails Monthly",
+                  "value": 300000
+                },
+                {
+                  "name": "Active Prospects",
+                  "value": 100000
+                },
+                {
+                  "name": "Email Addresses",
+                  "value": 50
+                },
+                {
+                  "name": "LinkedIn Accounts",
+                  "value": 15
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T08:33:18.740475",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://quickmail.io/pricing\u30103:0\u2020source\u3011",
+      "is_accessible": true,
+      "content": "[Get 2X More Replies Without Sending More Emails -\\> \ud835\udddf\ud835\uddf2\ud835\uddee\ud835\uddff\ud835\uddfb \ud835\udde0\ud835\uddfc\ud835\uddff\ud835\uddf2](https://quickmail.com/cta-swipe-file \"Find Out How\")\n\n[QuickMail](https://quickmail.com/ \"QuickMail\")\n\n*   [Why QuickMail](https://quickmail.com/why-quickmail \"Why QuickMail\")\n*   [For Lead Gen Agencies](https://quickmail.com/agencies \"For Lead Gen Agencies\")\n*   [Solutions](https://quickmail.io/pricing%E3%80%903:0%E2%80%A0source%E3%80%91# \"Solutions\")\n    \n    *   [Deliverability AI](https://quickmail.com/deliverability-ai \"Deliverability AI\")\n    *   [Advanced Analytics](https://quickmail.com/analytics \"Advanced Analytics\")\n    *   [Scale Your Campaigns](https://quickmail.com/inbox-rotation \"Scale Your Campaigns\")\n    *   [Bring Your Entire Team](https://quickmail.com/unlimited-users \"Bring Your Entire Team \")\n    *   [Add Inboxes Securely](https://quickmail.com/add-inboxes-securely \"Add Inboxes Securely\")\n    *   [Integrations](https://quickmail.com/integrations \"Integrations\")\n    \n*   [Pricing](https://quickmail.com/pricing \"Pricing\")\n*   [Resources](https://quickmail.io/pricing%E3%80%903:0%E2%80%A0source%E3%80%91# \"Resources\")\n    \n    *   [The Cold Email Guide](https://quickmail.com/cold-email \"The Cold Email Guide\")\n    *   [Blog](https://quickmail.com/blog \"Blog\")\n    *   [Cold Outreach Advice](https://quickmail.com/newsletter \"Book\")\n    *   [CTA Swipe File](https://quickmail.com/cta-swipe-file \"CTA Swipe File\")\n    *   [Courses](https://quickmail.com/cold-email-mastery-courses \"Courses\")\n    *   [Podcast](https://quickmail.com/podcast \"Customer Stories\")\n    *   [Customer Stories](https://quickmail.com/testimonials \"Customer Stories\")\n    *   [Book](https://quickmail.com/book \"Book\")\n    \n\n[Log In](https://next.quickmail.com/login \"Log In\")[Start My Trial](https://next.quickmail.com/signup)\n\n404\n---\n\nPage not found\n--------------\n\nIt appears the page you were looking for couldn't be found.\n\n[I'm Feeling Lucky](https://quickmail.com/)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "quickmail",
+        "app_name": "QuickMail",
+        "app_slug": "quickmail",
+        "pricing_url": "https://quickmail.com/pricing",
+        "source_url": "https://quickmail.com/pricing",
+        "all_pricing_urls": [
+          "https://quickmail.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page was not accessible, so detailed tier information could not be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T08:33:28.372488",
+        "schema_validated": true,
+        "confidence_score": 85,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\quickmail\\20250415_083328"
+}

@@ -1,0 +1,43 @@
+{
+  "app_id": "buffer",
+  "app_name": "Buffer",
+  "app_slug": "buffer",
+  "pricing_url": null,
+  "source_url": "https://buffer.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The provided content does not contain pricing information for Buffer.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:59:23.488051",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "d4ca8d34-3d3d-4a4f-80a9-e8a507b43b41",
+    "name": "Buffer",
+    "slug": "buffer",
+    "description": "Manage your social media marketing together with Buffer's tools to schedule posts, analyze performance, and publish to a half-dozen social networks from one app.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/87153c7bef8efb74301fd2f5e0b679d9.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Social Media Marketing"
+    ],
+    "category_slugs": [
+      "social-marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 8
+  }
+}

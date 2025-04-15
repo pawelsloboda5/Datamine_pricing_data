@@ -1,0 +1,190 @@
+{
+  "app_id": "jibble",
+  "app_name": "Jibble",
+  "app_slug": "jibble",
+  "pricing_url": "https://www.jibble.io/pricing",
+  "source_url": "https://www.jibble.io/pricing",
+  "all_pricing_urls": [
+    "https://www.jibble.io/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user per month, with discounts for annual plans and custom plans for large teams.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "The most generous free plan around, with unlimited time tracking for an unlimited number of users.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Automated timesheets",
+        "GPS time tracking",
+        "Biometric verification",
+        "NFC/RFID time tracking",
+        "Unlimited activities",
+        "Unlimited projects and clients",
+        "Screenshot capturing",
+        "Basic time tracking policies",
+        "Notifications and alerts",
+        "Exportable reports",
+        "Unlimited integrations",
+        "2 geofences",
+        "1 work schedule"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "geofences",
+            "value": 2
+          },
+          {
+            "name": "work schedules",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Unlock enhanced time tracking with custom policies, overtime rules, and unlimited geofences.",
+      "monthly_price": 2.99,
+      "annual_price": 2.99,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Group management",
+        "Custom breaks",
+        "Overtime rules",
+        "Unlimited admins & managers",
+        "Unlimited geofences",
+        "Unlimited work schedules",
+        "Leave accruals and balances",
+        "Custom time tracking policies",
+        "Automated geofence-based clock in/out",
+        "Multi-level approvals (Soon!)",
+        "Activity tracking (Soon!)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "geofences",
+            "value": "unlimited"
+          },
+          {
+            "name": "work schedules",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Ultimate",
+      "tier_description": "Take full control with custom permissions and detailed insights.",
+      "monthly_price": 5.99,
+      "annual_price": 5.99,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Custom individual permissions",
+        "Live location tracking",
+        "High resolution screenshots",
+        "Attendance insights report",
+        "Prioritized support",
+        "Enforce 2FA (Soon!)",
+        "Shift scheduling (Soon!)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "screenshot resolution",
+            "value": "high"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Advanced solutions typically for teams of 500+ users.",
+      "monthly_price": 7.99,
+      "annual_price": 7.99,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Enterprise Account Manager",
+        "Onboarding and Rollout Manager",
+        "API Support Manager",
+        "SSO - SAML support",
+        "SLA",
+        "Self-hosting",
+        "Audit log",
+        "White labelling",
+        "Custom subdomain",
+        "Dedicated infrastructure"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "dedicated infrastructure",
+            "value": true
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:34:29.038770",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "51159cbd-13af-43e9-a18f-2c1838a2e298",
+    "name": "Jibble",
+    "slug": "jibble",
+    "description": "Jibble is a free time clock app that enables you to track when your staff are at work for attendance, payroll and projects. This app connects with Jibble 2 only.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/3f5b2a8f594c30c46a4046e2e79b62ab.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Time Tracking Software"
+    ],
+    "category_slugs": [
+      "time-tracking"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 35,
+    "trigger_count": 16
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "app_name": "Cloze",
+  "app_slug": "cloze",
+  "search_term": "Find the official pricing page URL for Cloze (cloze.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744689424.2696636,
+  "response_text": [
+    "The official pricing page for Cloze can be accessed through this direct URL: [https://www.cloze.com/pricing](https://www.cloze.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Compare Plans and Pricing - Cloze",
+      "url": "https://www.cloze.com/app/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.cloze.com/pricing",
+      "is_accessible": true,
+      "content": "Pricing | Cloze\n===============         \n\n[](https://ai.cloze.com/)\n\n[Platform](https://ai.cloze.com/platform/)\n\n[Resources](https://ai.cloze.com/cloze-apps/)\n\n[Company](https://ai.cloze.com/about-us/)\n\n[Sign In](https://www.cloze.com/in)\n\n[Try it Now](https://www.cloze.com/in) [Schedule a Demo](https://ai.cloze.com/contact-us/)\n\nSorry, we can't find it.\n========================\n\nWe tried. Really, we did.\n-------------------------\n\ngo back",
+      "error": null,
+      "pricing_data": {
+        "app_id": "cloze",
+        "app_name": "Cloze",
+        "app_slug": "cloze",
+        "pricing_url": "https://ai.cloze.com/",
+        "source_url": "https://ai.cloze.com/",
+        "all_pricing_urls": [
+          "https://ai.cloze.com/"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page does not provide any specific details about the pricing structure.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:57:12.313347",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.cloze.com/app/pricing",
+      "is_accessible": true,
+      "content": "Plans\n\nCloze\n\nPro\n\nEssential tools  \nfor individuals\n\n$17/mo\n\nbilled annually  \nor $19.99 month-to-month\n\n*   [Smart AI](https://www.cloze.com/app/pricing#feature-smart-ai)\n*   [One View of Everything](https://www.cloze.com/app/pricing#feature-everything)\n*   [Business-Grade Email](https://www.cloze.com/app/pricing#feature-business-email)\n*   [Open Tracking and Reply Reminders](https://www.cloze.com/app/pricing#feature-business-email)\n*   [Templates and Mail Merge](https://www.cloze.com/app/pricing#feature-business-email)\n*   [CRM Without Data Entry](https://www.cloze.com/app/pricing#feature-no-busy-work)\n*   [Unified Contact Management](https://www.cloze.com/app/pricing#feature-unified-contacts)\n*   Smart Custom Fields\n*   Advanced Integrations\n*   Text Message Syncing\n*   Track Partners\n*   Matching Engine\n*   Smart Templates\n*   Lead Capture\n*   Campaign Automation\n*   Marketing Mail\n*   Automatic Newsletters\n*   Generative AI\n*   Team Features\n*   Work as a Team\n*   Assign Responsibility\n*   Manage Privacy\n*   Team Analytics\n*   Enhanced Control\n*   Lead Routing\n*   Sub-Team Hierarchies\n*   User Archiving\n*   Enterprise Controls\n\nBusiness\n\nSilver\n\nEssential tools  \nfor small businesses\n\n$21/user/mo\n\nbilled annually  \nor $24.99 month-to-month\n\n*   [Smart AI](https://www.cloze.com/app/pricing#feature-smart-ai)\n*   [One View of Everything](https://www.cloze.com/app/pricing#feature-everything)\n*   [Business-Grade Email](https://www.cloze.com/app/pricing#feature-business-email)\n*   [Open Tracking and Reply Reminders](https://www.cloze.com/app/pricing#feature-business-email)\n*   [Templates and Mail Merge](https://www.cloze.com/app/pricing#feature-business-email)\n*   [CRM Without Data Entry](https://www.cloze.com/app/pricing#feature-no-busy-work)\n*   [Unified Contact Management](https://www.cloze.com/app/pricing#feature-unified-contacts)\n*   Smart Custom Fields\n*   Advanced Integrations\n*   Text Message Syncing\n*   Track Partners\n*   Matching Engine\n*   Smart Templates\n*   Lead Capture\n*   Campaign Automation\n*   Marketing Mail\n*   Automatic Newsletters\n*   Generative AI\n*   Team Features\n*   [Work as a Team](https://www.cloze.com/app/pricing#feature-teamwork)\n*   [Assign Responsibility](https://www.cloze.com/app/pricing#feature-assign)\n*   [Manage Privacy](https://www.cloze.com/app/pricing#feature-privacy)\n*   Team Analytics\n*   Enhanced Control\n*   Lead Routing\n*   Sub-Team Hierarchies\n*   User Archiving\n*   Enterprise Controls\n\nBusiness\n\nGold\n\nEverything for  \na growing business\n\n$29/user/mo\n\nbilled annually  \nor $34.99 month-to-month\n\n*   [Smart AI](https://www.cloze.com/app/pricing#feature-smart-ai)\n*   [One View of Everything](https://www.cloze.com/app/pricing#feature-everything)\n*   [Business-Grade Email](https://www.cloze.com/app/pricing#feature-business-email)\n*   [Open Tracking and Reply Reminders](https://www.cloze.com/app/pricing#feature-business-email)\n*   [Templates and Mail Merge](https://www.cloze.com/app/pricing#feature-business-email)\n*   [CRM Without Data Entry](https://www.cloze.com/app/pricing#feature-no-busy-work)\n*   [Unified Contact Management](https://www.cloze.com/app/pricing#feature-unified-contacts)\n*   [Smart Custom Fields](https://www.cloze.com/app/pricing#feature-biz-anniversaries)\n*   [Advanced Integrations](https://www.cloze.com/app/pricing#feature-biz-integration)\n*   [Text Message Syncing](https://www.cloze.com/app/pricing#feature-biz-texting)\n*   [Track Partners](https://www.cloze.com/app/pricing#feature-partners)\n*   Matching Engine\n*   Smart Templates\n*   Lead Capture\n*   Campaign Automation\n*   Marketing Mail\n*   Automatic Newsletters\n*   Generative AI\n*   Team Features\n*   [Work as a Team](https://www.cloze.com/app/pricing#feature-teamwork)\n*   [Assign Responsibility](https://www.cloze.com/app/pricing#feature-assign)\n*   [Manage Privacy](https://www.cloze.com/app/pricing#feature-privacy)\n*   [Team Analytics](https://www.cloze.com/app/pricing#feature-team-analytics)\n*   [Enhanced Control](https://www.cloze.com/app/pricing#feature-gold-limits)\n*   Lead Routing\n*   Sub-Team Hierarchies\n*   User Archiving\n*   Enterprise Controls\n\n\u00b9 User Archiving requires a Business Platinum team subscription. All current users' archives are included in your subscription. Your Business Platinum team subscription also includes 5 free past team member archives. Additional past team member archives cost $5/archive/mo or $50/archive/yr. Archives can be deleted at any time.\n\nConcierge Service\n\nPersonalized training and support to keep your business growing\n\n$20/user/mo\n\n$500/mo minimum, add on to any plan\n\nPriority Email Support\n\nTailored Team Training\n\nCustomer Success Manager\n\nData Import Assistance\n\nCampaign Design Assistance\n\nIntegration Assistance\n\nPersonalized Configuration\n\nProactive Account Review\n\n2 Team Training Sessions/mo\n\n![Image 1](https://cdn.cloze.com/site/img/home/silhouette@2x.png)\n\nCloze Pro\n\nSmart AI\n\nAutomatic reminders and discovery\n\n*   Understands action items and adds them to your Agenda (e.g. \"Please review and get back to me by Friday.\")\n*   Automatically reminds you when it's time to reach out to key people.\n*   Sees change to email signatures to update contacts.\n*   Automatically links agenda items to mentioned people and companies.\n*   Reminds you if an email you'd normally reply to is missed.\n\nOne View of Everything\n\nEmail, meetings, calls - with no data entry\n\n*   Emails: Automatically organizes mail by people, company, project and deal.\n*   Calls: Automatically log your calls.\n*   Files: Automatically link files to your contacts.\n*   Notes: Automatically match notes to contacts.\n*   Messages: Track Slack messages about your clients and customers.\n*   Calendar: Meeting context at your fingertips.\n\nBusiness-Grade Email\n\nOpen tracking, mail merge, templates\n\n*   Get reminded if you don't receive a reply to an important email.\n*   Be notified when a recipient opens an email or clicks on a link you sent.\n*   Templates: Create and reuse template emails.\n*   Mail merge: Personalize email sent to many people at the same time.\n*   Scheduled send: Write your email now, have Cloze deliver it later.\n*   Built-in support for Do Not Contact and the GDPR.\n\nCRM Without Data Entry\n\nAutomatic activity tracking and analytics\n\n*   Next steps: Automatic reminders of what's next for any deal.\n*   Add To-Dos to track things you have to get done.\n*   Agenda: one place to see all your meetings, reminders and follow-ups.\n*   Analytics: Analytics about how and where you spend your time.\n\n![Image 2](https://cdn.cloze.com/site/img/home/silhouette@2x.png)\n\nBusiness Silver\n\nIncludes everything in [**Cloze Pro**](https://www.cloze.com/app/pricing#cloze-pro) and ...\n\nWork as a Team\n\nTeam-wide view of activity\n\n*   One team-wide view of all communication for every contact and project.\n*   Always know who last talked to any customer or prospect.\n*   Share templates and next steps that work across your team.\n*   For colleagues you trust the most, Inner Circle lets you automatically share your timeline for all non-personal contacts.\n\nAssign Responsibility\n\nPeople, companies, projects, to-dos\n\n*   Assign responsibility for people and companies.\n*   Create project teams to work together on projects.\n*   Assign next steps on projects within the project teams.\n*   Assign to-dos to team mates and track their progress.\n\nManage Privacy\n\nPersonal stays private, work gets shared\n\n*   If you mark a contact Private your team will not see your contact details or activity for them.\n*   Any Home email address or phone number is assumed to be private unless you explicitly share it.\n*   Any contact set to a Personal Segment such as Friend or Family is always private.\n*   Before any activity is shared with your team, you always have time to mark sensitive messages private.\n*   Mark certain types as always redacted (for example text messages) so no one can ever see the content.\n\n![Image 3](https://cdn.cloze.com/site/img/home/silhouette@2x.png)\n\nBusiness Gold\n\nIncludes everything in [**Business Silver**](https://www.cloze.com/app/pricing#cloze-businesssilver) and ...\n\nSmart Custom Fields\n\nWith anniversary and relationship tracking\n\n*   Automatic reminders on business anniversaries (e.g. for policy renewal).\n*   Create templates for quick follow-up on business anniversaries.\n*   Track relationships among people (e.g. who they were referred by).\n\nAdvanced Integrations\n\nText Messages, MailChimp, Salesforce, and more\n\n*   Direct integrations with MailChimp and more.\n*   Sidebar integrations with Salesforce, Dynamics, Hubspot, and more.\n\nText Message Syncing\n\nAutomatically log text messages\n\n*   Syncing of iOS text messages to cloze.\n*   Syncing of Android text messages to cloze.\n*   Text message templates for sending.\n\nTrack Partners\n\nPartner with others on projects\n\n*   Track partners that are involved with multiple projects separate from customers.\n*   Invite external partners to share information on a project-by-project basis.\n\nTeam Analytics\n\nPipeline, forecast, engagement, leads\n\n*   Activity Analytics help you understand where your team are spending their time.\n*   Team Leaderboard helps you know which team members are pulling their weight.\n*   Pipeline Engagement gives you an objective view of your pipeline and identifies the projects that are truly on track.\n*   Forecast Analytics shows how your forecast is changing over time and what\u2019s flowing in the right direction.\n*   Lead Analytics highlight leads that are advancing and those that are going stale.\n\nEnhanced Control\n\nHigher limits, more control\n\n*   Balance your team's workload using drag-and-drop reassignment.\n*   Customize what team members are able to see and change.\n*   Create and use up to 20 custom segments, 50 custom fields, 500 custom templates across your team as well as up to 10 personal segments per team member.\n\n![Image 4](https://cdn.cloze.com/site/img/home/silhouette@2x.png)\n\nBusiness Platinum\n\nIncludes everything in [**Business Gold**](https://www.cloze.com/app/pricing#cloze-businessgold) and ...\n\nMatching Engine\n\nMatches clients to listings, jobs, etc.\n\n*   Find clients that match criteria for listings and jobs\n*   Find listings and jobs that match criteria for clients.\n*   Turn project summaries into emails automatically.\n*   Create mail-merge emails containing projects to send to matching customers.\n*   Support for integration of MLS and IDX feeds (additional restrictions and charges may apply).\n\nSmart Templates\n\nConditional content and smart fields\n\n*   Use your custom fields in email content.\n*   Create templates that work in multiple languages.\n*   Include different text based on recipient country.\n*   Use recipient's date and number formatting for values.\n*   Create templates that adjust based on related projects or recipients.\n*   Include different text for any recipients with mail merge.\n*   Add spouses and other related people to mail merge recipients.\n\nLead Capture\n\nAutomatically create leads from emails\n\n*   Turns leads received by emails into contacts automatically.\n*   Notifies you of the arrival of a new lead.\n*   Enhance contacts with information from the lead email.\n\nCampaign Automation\n\nCreate smart drip campaigns\n\n*   Automate multi-channel drip campaigns.\n*   Send emails and texts, create todos, assign to others, and more.\n*   Stop campaigns when a client replies or books a meeting.\n*   Automatically pause the campaign when you're actively talking.\n\nMarketing Mail\n\nCreate pixel-perfect emails with drag and drop\n\n*   Pixel-perfect designs that work on mobile and desktop.\n*   Send from your real email for a personal feel and great open rates.\n*   Drag and drop editor to make creation easy.\n*   Share a theme across all your designs.\n*   Lock parts of designs to manage team customization.\n\nAutomatic Newsletters\n\nCreate complete newsletters in less than 1 minute\n\n*   Use AI to create ready-to-send newsletters with images, articles, and copy in less than a minute.\n*   Add hand-picked articles to your library with a single tap.\n*   Check off articles from your library to include in your newsletter.\n*   Send the newsletter with mail merge or an automated camapaign.\n\nGenerative AI\n\nAutomatically create, edit, and improve content\n\n*   Create detailed real estate listing descriptions from only a few basic facts.\n*   Ghostwriter to create replies, new emails, and templates for you.\n*   Smart Edit to correct, improve, or change the tone of any written text.\n*   Integrates ChatGPT to create new and unique content.\n\nLead Routing\n\nDistribute leads across your team\n\n*   Round robin lead routing.\n*   First-come first-served lead distribution (a.k.a. lead ponds).\n*   Support for territories and geographical distribution.\n*   Instant push notification to team member's phones.\n*   Single tap to accept a lead.\n*   Send texts or emails while waiting for a team member to take action.\n*   Fallback if no one is available within a set timeframe.\n\nSub-Team Hierarchies\n\nStructure by territory, region, or role\n\n*   Organize your team by territory, region, or role hierarchy.\n*   Control who can see what by where they are in the hierarchy.\n*   Allow senior managers to see and control everything below them.\n*   Roll up Team Analytics at any level.\n*   Selectively control visibility to fields and values.\n\nUser Archiving\n\nPreserve historical business activity\n\n*   Preserve business activity history when users leave your team or disconnect their accounts.\n*   Protect against malicious removal of business activity history.\n*   Retain business activity of guests involved in specific projects.\n*   Easily manage which history to retain and which you no longer need.\n*   See all shared activity for any team member in one view.\n*   Available with team billing. Extra charges may apply.\n\nEnterprise Controls\n\nFine grained control and compliance\n\n*   Multiple customizable roles for team members rights.\n*   Manage team member accounts (lock, unlock, delete, etc.).\n*   Enforce security policies such as 2-step authentication.\n*   Protect your data by controlling who can export what data.\n*   Control who can customize business configuration and compliance settings.\n*   Lock down sharing and privacy settings.\n*   Enterprise single sign-on support.\n*   Specify which users are required to pay for their own Cloze subscription and which the team pays for.\n*   Create and use up to 100 custom segments, 250 custom fields, and 2500 custom templates across your team as well as up to 10 personal segments per team member.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "cloze",
+        "app_name": "Cloze",
+        "app_slug": "cloze",
+        "pricing_url": "https://www.cloze.com/app/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://www.cloze.com/app/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes both individual and team-oriented plans with additional features for higher tiers.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Pro",
+            "tier_description": "Essential tools for individuals",
+            "monthly_price": 19.99,
+            "annual_price": 204.0,
+            "annual_discount_percentage": 15.0,
+            "setup_fee": null,
+            "features": [
+              "Smart AI",
+              "One View of Everything",
+              "Business-Grade Email",
+              "Open Tracking and Reply Reminders",
+              "Templates and Mail Merge",
+              "CRM Without Data Entry",
+              "Unified Contact Management",
+              "Smart Custom Fields",
+              "Advanced Integrations",
+              "Text Message Syncing",
+              "Track Partners",
+              "Matching Engine",
+              "Smart Templates",
+              "Lead Capture",
+              "Campaign Automation",
+              "Marketing Mail",
+              "Automatic Newsletters",
+              "Generative AI",
+              "Team Features",
+              "Work as a Team",
+              "Assign Responsibility",
+              "Manage Privacy",
+              "Team Analytics",
+              "Enhanced Control",
+              "Lead Routing",
+              "Sub-Team Hierarchies",
+              "User Archiving",
+              "Enterprise Controls"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Business Silver",
+            "tier_description": "Essential tools for small businesses",
+            "monthly_price": 24.99,
+            "annual_price": 252.0,
+            "annual_discount_percentage": 16.0,
+            "setup_fee": null,
+            "features": [
+              "Includes everything in Cloze Pro",
+              "Work as a Team",
+              "Assign Responsibility",
+              "Manage Privacy"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Business Gold",
+            "tier_description": "Everything for a growing business",
+            "monthly_price": 34.99,
+            "annual_price": 348.0,
+            "annual_discount_percentage": 16.0,
+            "setup_fee": null,
+            "features": [
+              "Includes everything in Business Silver",
+              "Smart Custom Fields",
+              "Advanced Integrations",
+              "Text Message Syncing",
+              "Track Partners",
+              "Team Analytics",
+              "Enhanced Control"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Business Platinum",
+            "tier_description": "Advanced tools for large businesses",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Includes everything in Business Gold",
+              "Matching Engine",
+              "Smart Templates",
+              "Lead Capture",
+              "Campaign Automation",
+              "Marketing Mail",
+              "Automatic Newsletters",
+              "Generative AI",
+              "Lead Routing",
+              "Sub-Team Hierarchies",
+              "User Archiving",
+              "Enterprise Controls"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "User Archiving",
+            "unit": "per archive",
+            "base_price": 5.0,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": "unlimited",
+                "price": 5.0
+              }
+            ]
+          },
+          {
+            "metric_name": "Concierge Service",
+            "unit": "per user",
+            "base_price": 20.0,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": "unlimited",
+                "price": 20.0
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": true
+        },
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "User Archiving",
+            "fee_amount": 5.0,
+            "fee_description": "Additional past team member archives cost $5/archive/mo or $50/archive/yr."
+          }
+        ],
+        "extraction_timestamp": "2025-04-14T23:57:24.249150",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\cloze\\20250414_235724"
+}

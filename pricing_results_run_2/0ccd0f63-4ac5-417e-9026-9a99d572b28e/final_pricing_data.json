@@ -1,0 +1,125 @@
+{
+  "app_id": "accelo",
+  "app_name": "Accelo",
+  "app_slug": "accelo",
+  "pricing_url": "https://www.accelo.com/pricing/",
+  "source_url": "https://www.accelo.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.accelo.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are not explicitly listed on the page; users are encouraged to request a demo or access.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Core",
+      "tier_description": "Manage client details, tasks and communication centrally",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Client Relationship Management",
+        "Email & Calendar Sync",
+        "Client Communication Stream",
+        "Client Task Management",
+        "Client Files & Attachments",
+        "Address Book Sync",
+        "Customizable Lists & Reports"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Quote-to-cash management for professional service firms",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Client Project Management",
+        "Client Sales Management",
+        "Client Quote Management",
+        "Time Logs, Timers & Timesheets",
+        "Client Invoices & Payments",
+        "Financial Insight Dashboards"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Manage all types of client work with power and collaboration",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Client Retainer Management",
+        "Client Ticket Management",
+        "Shared Request Inbox",
+        "Expenses & Materials",
+        "Time Approvals for Billing",
+        "Unlimited Client Portal Users"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Powerful automation to scale your business profitably",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Advanced Custom Workflows",
+        "Advanced Triggers & Automation",
+        "Smart Scheduling & Utilization",
+        "Adaptive Project Scheduling",
+        "Client Asset Management",
+        "Advanced Reporting Users"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:10:19.380081",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0ccd0f63-4ac5-417e-9026-9a99d572b28e",
+    "name": "Accelo",
+    "slug": "accelo",
+    "description": "Accelo manages all your client work in one place, making your business more profitable and you less stressed.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/93a23c7cd310288cd40df929988cb9b9.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 1
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "app_name": "Odoo CRM",
+  "app_slug": "odoo",
+  "search_term": "Find the official pricing page URL for Odoo CRM (odoo.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744713932.8583746,
+  "response_text": [
+    "The official pricing page for Odoo CRM can be found at: [https://www.odoo.com/pricing](https://www.odoo.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Odoo Pricing | Discover Odoo Plans",
+      "url": "https://www.odoo.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.odoo.com/pricing",
+      "is_accessible": true,
+      "content": "Odoo Pricing | Discover Odoo Plans\n===============\n\n[Skip to Content](https://www.odoo.com/pricing#wrap)\n\n[Odoo](https://www.odoo.com/) [Menu](https://www.odoo.com/pricing#)\n\n*   [WhatsApp](https://wa.me/59895220128)\n*   [](https://www.odoo.com/shop/cart)\n*   [Sign in](https://www.odoo.com/web/login)\n*   [Try it free](https://www.odoo.com/trial)\n\n*   [Apps](https://www.odoo.com/pricing#)\n    \n    Finance\n    \n    *   [Accounting](https://www.odoo.com/app/accounting)\n    *   [Invoicing](https://www.odoo.com/app/invoicing)\n    *   [Expenses](https://www.odoo.com/app/expenses)\n    *   [Spreadsheet (BI)](https://www.odoo.com/app/spreadsheet)\n    *   [Documents](https://www.odoo.com/app/documents)\n    *   [Sign](https://www.odoo.com/app/sign)\n    \n    Sales\n    \n    *   [CRM](https://www.odoo.com/app/crm)\n    *   [Sales](https://www.odoo.com/app/sales)\n    *   [POS Shop](https://www.odoo.com/app/point-of-sale-shop)\n    *   [POS Restaurant](https://www.odoo.com/app/point-of-sale-restaurant)\n    *   [Subscriptions](https://www.odoo.com/app/subscriptions)\n    *   [Rental](https://www.odoo.com/app/rental)\n    \n    Websites\n    \n    *   [Website Builder](https://www.odoo.com/app/website)\n    *   [eCommerce](https://www.odoo.com/app/ecommerce)\n    *   [Blog](https://www.odoo.com/app/blog)\n    *   [Forum](https://www.odoo.com/app/forum)\n    *   [Live Chat](https://www.odoo.com/app/live-chat)\n    *   [eLearning](https://www.odoo.com/app/elearning)\n    \n    Supply Chain\n    \n    *   [Inventory](https://www.odoo.com/app/inventory)\n    *   [Manufacturing](https://www.odoo.com/app/manufacturing)\n    *   [PLM](https://www.odoo.com/app/plm)\n    *   [Purchase](https://www.odoo.com/app/purchase)\n    *   [Maintenance](https://www.odoo.com/app/maintenance)\n    *   [Quality](https://www.odoo.com/app/quality)\n    \n    Human Resources\n    \n    *   [Employees](https://www.odoo.com/app/employees)\n    *   [Recruitment](https://www.odoo.com/app/recruitment)\n    *   [Time Off](https://www.odoo.com/app/time-off)\n    *   [Appraisals](https://www.odoo.com/app/appraisals)\n    *   [Referrals](https://www.odoo.com/app/referrals)\n    *   [Fleet](https://www.odoo.com/app/fleet)\n    \n    Marketing\n    \n    *   [Social Marketing](https://www.odoo.com/app/social-marketing)\n    *   [Email Marketing](https://www.odoo.com/app/email-marketing)\n    *   [SMS Marketing](https://www.odoo.com/app/sms-marketing)\n    *   [Events](https://www.odoo.com/app/events)\n    *   [Marketing Automation](https://www.odoo.com/app/marketing-automation)\n    *   [Surveys](https://www.odoo.com/app/surveys)\n    \n    Services\n    \n    *   [Project](https://www.odoo.com/app/project)\n    *   [Timesheets](https://www.odoo.com/app/timesheet)\n    *   [Field Service](https://www.odoo.com/app/field-service)\n    *   [Helpdesk](https://www.odoo.com/app/helpdesk)\n    *   [Planning](https://www.odoo.com/app/planning)\n    *   [Appointments](https://www.odoo.com/app/appointments)\n    \n    Productivity\n    \n    *   [Discuss](https://www.odoo.com/app/discuss)\n    *   [Approvals](https://www.odoo.com/app/approvals)\n    *   [IoT](https://www.odoo.com/app/iot)\n    *   [VoIP](https://www.odoo.com/app/voip)\n    *   [Knowledge](https://www.odoo.com/app/knowledge)\n    *   [WhatsApp](https://www.odoo.com/app/whatsapp)\n    \n    [Third party apps](https://apps.odoo.com/apps/modules) [Odoo Studio](https://www.odoo.com/app/studio) [Odoo Cloud Platform](https://www.odoo.sh/)\n    \n*   [Industries](https://www.odoo.com/pricing#)\n    \n    Retail\n    \n    *   [Agriculture Store](https://www.odoo.com/industries/agriculture-store)\n    *   [Bakery](https://www.odoo.com/industries/bakery)\n    *   [Book Store](https://www.odoo.com/industries/book-store)\n    *   [Clothing Store](https://www.odoo.com/industries/clothing-store)\n    *   [Furniture Store](https://www.odoo.com/industries/furniture-store)\n    *   [Grocery Store](https://www.odoo.com/industries/grocery-store)\n    *   [Hardware Store](https://www.odoo.com/industries/hardware-store)\n    *   [Toy Store](https://www.odoo.com/industries/toy-store)\n    \n    Services\n    \n    *   [Bike Leasing](https://www.odoo.com/industries/bike-leasing)\n    *   [Billboard Rental](https://www.odoo.com/industries/billboard-rental)\n    *   [Hair Salon](https://www.odoo.com/industries/hair-salon)\n    *   [Handyman](https://www.odoo.com/industries/handyman)\n    *   [Law firm](https://www.odoo.com/industries/law-firm)\n    *   [Odoo Partner](https://www.odoo.com/industries/odoo-partner)\n    *   [Property Owner Association](https://www.odoo.com/industries/property-owner-association)\n    *   [Real Estate](https://www.odoo.com/industries/real-estate)\n    *   [Talent Acquisition](https://www.odoo.com/industries/talent-acquisition)\n    \n    Construction\n    \n    *   [Architecture Firm](https://www.odoo.com/industries/architecture-firm)\n    *   [Construction](https://www.odoo.com/industries/construction)\n    *   [Gardening](https://www.odoo.com/industries/gardening)\n    *   [Solar Energy](https://www.odoo.com/industries/solar-energy)\n    \n    Supply Chain\n    \n    *   [Beverage Distributor](https://www.odoo.com/industries/beverage-distributor)\n    *   [Corporate Gifts](https://www.odoo.com/industries/corporate-gifts)\n    *   [Custom Furniture Production](https://www.odoo.com/industries/custom-furniture-production)\n    *   [Micro Brewery](https://www.odoo.com/industries/micro-brewery)\n    \n    Health & Fitness\n    \n    *   [Eyewear Store](https://www.odoo.com/industries/eyewear-store)\n    *   [Fitness Center](https://www.odoo.com/industries/fitness-center)\n    *   [Sports Club](https://www.odoo.com/industries/sports-club)\n    *   [Wellness Practitioners](https://www.odoo.com/industries/wellness-practitioners)\n    \n    Hospitality\n    \n    *   [Bar and Pub](https://www.odoo.com/industries/bar-pub)\n    *   [Fast Food](https://www.odoo.com/industries/fast-food)\n    *   [Fine Dining Restaurant](https://www.odoo.com/industries/fine-dining-restaurant)\n    \n    ...and many more!\n    \n    ![Image 12](https://odoocdn.com/openerp_website/static/src/img/arrows/grey_arrow_sm_02.svg)\n    \n    [Browse all Industries](https://www.odoo.com/trial?industry)\n    \n*   [Community](https://www.odoo.com/pricing#)\n    \n    Learn\n    \n    *   [Tutorials](https://www.odoo.com/slides/all/tag/odoo-tutorials-9)\n    *   [Documentation](https://www.odoo.com/page/docs)\n    *   [Certifications](https://www.odoo.com/slides/all?slide_category=certification)\n    *   [Training](https://www.odoo.com/training-events)\n    *   [Podcast](https://www.odoo.fm/)\n    \n    Empower Education\n    \n    *   [Education Program](https://www.odoo.com/education/program)\n    *   [Scale Up! Business Game](https://www.odoo.com/education/scale-up-business-game)\n    *   [Visit Odoo](https://www.odoo.com/education/visit-odoo)\n    \n    Get the Software\n    \n    *   [Download](https://www.odoo.com/page/download)\n    *   [Compare Editions](https://www.odoo.com/page/editions)\n    *   [Releases](https://www.odoo.com/page/release-notes)\n    \n    Collaborate\n    \n    *   [Github](https://github.com/odoo)\n    *   [Forum](https://www.odoo.com/forum/help-1)\n    *   [Events](https://www.odoo.com/events)\n    *   [Translations](https://github.com/odoo/odoo/wiki/Translations)\n    \n    *   [Become a Partner](https://www.odoo.com/become-a-partner)\n    *   [Register your Accounting Firm](https://www.odoo.com/accounting-firms/register)\n    \n    Get Services\n    \n    *   [Find a Partner](https://www.odoo.com/partners)\n    *   [Find an Accountant](https://www.odoo.com/accounting-firms)\n    \n    *   [Meet an advisor](https://www.odoo.com/appointment?filter_appointment_type_ids=%255B181,%2B1113%255D)\n        \n    *   [Customer References](https://www.odoo.com/blog/customer-reviews-6)\n    \n    *   [Implementation Services](https://www.odoo.com/pricing-packs)\n    *   [Development Services](https://www.odoo.com/page/developers-on-demand)\n    *   [Support](https://www.odoo.com/help)\n    *   [Upgrades](https://upgrade.odoo.com/)\n    \n    [Github](https://github.com/odoo/odoo) [Youtube](https://www.youtube.com/channel/UCkQPikELWZFLgQNHd73jkdg) [Twitter](https://twitter.com/Odoo) [Linkedin](https://www.linkedin.com/company/odoo) [Instagram](https://www.instagram.com/odoo.official) [Facebook](https://www.facebook.com/odoo) [](https://www.tiktok.com/@odoo)[Spotify](https://podcast.odoo.com/)\n    \n    [+1 (650) 691-3277](tel:+1(650)691-3277) [WhatsApp with Us](https://wa.me/59895220128)\n    \n    [Get a demo](https://www.odoo.com/appointment?filter_appointment_type_ids=%255B181,%2B1113%255D)\n    \n*   [Pricing](https://www.odoo.com/pricing)\n*   [Help](https://www.odoo.com/help)\n\nYou are not dreaming!\n=====================\n\nYearly\n\nMonthly\n\n### One App Free\n\n$ **0**\n\n*   For **one app only**, unlimited users\n*   Odoo Online\n\n[START NOW](https://www.odoo.com/trial)\n\nFREE TRIAL\n\n### Standard\n\n$ **24 31**\n\n.90 .10\n\nUS$\u00a031.10 US$\u00a038.90 \\*\n\n/ user / month\n\n*   **All apps**\n*   Odoo Online\n\n[BUY NOW](https://www.odoo.com/pricing-configurator?plan=standard) [FREE TRIAL](https://www.odoo.com/trial)\n\n### Custom\n\n$ **37 46**\n\n.40 .80\n\nUS$\u00a046.70 US$\u00a058.40 \\*\n\n/ user / month\n\n*   **All apps**\n*   Odoo Online / Odoo.sh\\*\\* / On-premise\n*   Odoo Studio\n*   Multi-Company\n*   External API\n\n[BUY NOW](https://www.odoo.com/pricing-configurator?plan=custom) [FREE TRIAL](https://www.odoo.com/trial)\n\nThe **Standard** and **Custom** plans include all apps for a single fee:\n\n![Image 13](https://download.odoocdn.com/icons/sale/static/description/icon.svg)\n\nSales\n\n![Image 14](https://download.odoocdn.com/icons/marketing_automation/static/description/icon.svg)\n\nMarketing\n\n![Image 15](https://download.odoocdn.com/icons/sign/static/description/icon.svg)\n\nSign\n\n![Image 16](https://download.odoocdn.com/icons/website/static/description/icon.svg)\n\nWebsite\n\n![Image 17](https://download.odoocdn.com/icons/accountant/static/description/icon.svg)\n\nAccounting\n\n![Image 18](https://download.odoocdn.com/icons/crm/static/description/icon.svg)\n\nCRM\n\n![Image 19](https://download.odoocdn.com/icons/stock/static/description/icon.svg)\n\nInventory\n\n![Image 20](https://download.odoocdn.com/icons/hr/static/description/icon.svg)\n\nHR\n\n![Image 21](https://download.odoocdn.com/icons/project/static/description/icon.svg)\n\nProject\n\n![Image 22](https://download.odoocdn.com/icons/point_of_sale/static/description/icon.svg)\n\nPOS\n\n[And many more![Image 23](https://odoocdn.com/openerp_website/static/src/img/arrows/secondary_arrow_sm_03.svg)](https://www.odoo.com/page/all-apps)All our plans include **unlimited support, hosting** and **maintenance**.  \nWith no hidden costs, no limit on features or data: enjoy real transparency!\n\n(\\*) The discount is valid for 12 months, for initial users ordered.\n\n(\\*\\*) Cost for Odoo.sh hosting not included.\n\n[Meet an advisor](https://www.odoo.com/pricing#)\n\n*   [Meet an Advisor ( 1- 250 employees)](https://www.odoo.com/appointment/181)\n*   [Large company (250+ employees)](https://www.odoo.com/appointment/1113)\n\nAny Questions?\n--------------\n\nIf the answer to your question is not on this page, please contact our [Account Managers](https://www.odoo.com/contactus)\n\n[Do I really have access to hundreds of apps and modules for a single price?](https://www.odoo.com/pricing#)\n\n![Image 24](https://odoocdn.com/openerp_website/static/src/img/icons/emoticon-smile-2.svg)Yes, you are not dreaming.\n\n[What's included in the subscription?](https://www.odoo.com/pricing#)\n\nAll our plans include access to hundreds of Odoo apps on scalable cloud infrastructure, including hosting, incremental daily backups on two continents, email integration, top-notch security, 24/7 monitoring, and a control center to manage your Odoo environment.\n\nOur service includes unlimited access to our support by email, from Monday to Friday, 24/5, in English, French, Spanish or Dutch. Access to our eLearning platform is free too. Upgrades are also included in all our plans at no extra fee.\n\nSee detailed [Terms & Conditions](https://www.odoo.com/legal)\n\nWhat's not included in these plans:\n\n*   Hosting on Odoo.sh for custom developments (hosting on Odoo Online is free, with unmetered storage up to 100GB[\u00b9](https://www.odoo.com/acceptable-use#abuse))\n*   Implementation service and access to Odoo expert services\n*   In-App-Purchase credits: SMS, contacts auto-complete, lead generation, IA to scan vendor bills & expenses.\n*   Maintenance of custom code\n\n[What is On-premise / Odoo.sh?](https://www.odoo.com/pricing#)\n\nThe standard plan is hosted on Odoo Online, our cloud infrastructure to host databases without custom modules. With the custom plan, you can host on Odoo Online at no extra cost, or one of these two options:\n\n1.  Download Odoo Enterprise and host it yourself\n2.  Host on Odoo.sh, the continuous integration platform to host your development, staging and production branches, allowing you to develop or use custom modules.\n\nMore information on [https://odoo.sh](https://odoo.sh/)\n\n[Where can I get implementation services, and how much does it cost?](https://www.odoo.com/pricing#)\n\nIf you need implementation service: project management, business needs analysis, data import, customizations, developments, training, etc., we have two options:\n\n1.  Small companies (<50 employees) usually work directly with Odoo, using [Success Packs](https://www.odoo.com/pricing-packs). Check out our project estimator to know the cost of a project, based on your needs.\n2.  Mid-size and large companies (\\>50 employees) usually work with a partner who offers local project management services: [https://odoo.com/partners](https://www.odoo.com/partners)\n3.  Large-size companies (+250 employees), contact Odoo directly: [https://odoo.com/contactus](https://www.odoo.com/contactus)\n\n[Is multi-company or Studio available in the One App Free plan?](https://www.odoo.com/pricing#)\n\nYes, the free plan allows multiple companies.  \nYou can also choose Odoo Studio as the app for a free plan.\n\n[Why do I have multiple apps with the One App Free plan?](https://www.odoo.com/pricing#)\n\nIf you choose an app that depends on other apps (e.g., eCommerce depends on Website and Invoicing), you get these required apps for free too. So, you can start with any app, and we guarantee that its usage is free for unlimited users, forever, whatever the dependencies of the app.\n\n[How to upgrade from the One App Free plan to a Standard or Custom plan?](https://www.odoo.com/pricing#)\n\nTo upgrade from the One App Free plan to the Standard plan, just install the additional applications you need. If you install Studio or add companies to your database, you will automatically switch to the Custom plan.\n\n[What is the difference between the standard plan and the custom plan?](https://www.odoo.com/pricing#)\n\nThe custom plan is for companies that want to manage multiple companies on a single database and that need to customize Odoo through Odoo Studio, custom developments or through the API.\n\n[How do you define a paying user?](https://www.odoo.com/pricing#)\n\nA paying user is usually an employee who has access to the Odoo backend to create, view, or edit documents. External users (such as clients or suppliers) using Odoo through the portal are not paying users.\n\nExamples of paying users:\n\n*   An employee who reports their expenses or timesheet\n*   A third-party accountant who uses Odoo to work on your finances\n\nExamples of free users:\n\n*   Customers and suppliers who have access to their invoices on the portal\n*   Visitors of your website who are placing eCommerce orders and tracking their deliveries\n\n[Can I switch from a hosted plan (Odoo Online) to Odoo Enterprise or the other way around?](https://www.odoo.com/pricing#)\n\nWhen using Odoo Online, you can download a backup of your database at any time through the control center. You own your data!\n\nOdoo Online or Odoo Enterprise (On-premise or Odoo.sh) is the same software. Only the hosting and infrastructure are different: emails, backups, database redundancies, etc.\n\nOur cloud infrastructure runs on the latest version of Odoo with regular upgrades. On-premise users must use the latest stable version of Odoo. If you would like to switch from Odoo Online to Odoo On-premise, the best time to make this change is immediately following the release of the newest stable version.\n\n[What does External API mean?](https://www.odoo.com/pricing#)\n\nExternal API means you set up external software (such as legacy systems, reporting engines, etc.) that initiates calls to the Odoo API (JSON-RPC or XML-RPC) to query, retrieve or update data stored in Odoo.\n\nWhen the call is initiated from Odoo, this is NOT considered an \"External API.\" For example, when an Odoo app uses an external service such as payment providers (Stripe, PayPal, Adyen, etc.), delivery carriers (UPS, FedEx, DHL, etc.), VoIP providers, or bank synchronization, it is part of the standard plan\n\nCommunity\n\n*   [Tutorials](https://www.odoo.com/slides/all/tag/odoo-tutorials-9)\n*   [Documentation](https://www.odoo.com/page/docs)\n*   [Forum](https://www.odoo.com/forum/help-1)\n\nOpen Source\n\n*   [Download](https://www.odoo.com/page/download)\n\n*   [Github](https://github.com/odoo/odoo)\n*   [Runbot](https://runbot.odoo.com/)\n*   [Translations](https://github.com/odoo/odoo/wiki/Translations)\n\nServices\n\n*   [Odoo.sh Hosting](https://www.odoo.sh/)\n\n*   [Support](https://www.odoo.com/help)\n*   [Upgrade](https://upgrade.odoo.com/)\n*   [Custom Developments](https://www.odoo.com/page/developers-on-demand)\n*   [Education](https://www.odoo.com/education/program)\n\n*   [Find an Accountant](https://www.odoo.com/accounting-firms)\n\n*   [Find a Partner](https://www.odoo.com/partners)\n*   [Become a Partner](https://www.odoo.com/become-a-partner)\n\nAbout us\n\n*   [Our company](https://www.odoo.com/page/about-us)\n*   [Brand Assets](https://www.odoo.com/page/brand-assets)\n*   [Contact us](https://www.odoo.com/contactus)\n*   [Jobs](https://www.odoo.com/jobs)\n\n*   [Events](https://www.odoo.com/events)\n*   [Podcast](https://podcast.odoo.com/)\n*   [Blog](https://www.odoo.com/blog)\n*   [Customers](https://www.odoo.com/blog/6)\n\n*   [Legal](https://www.odoo.com/legal) \u2022 [Privacy](https://www.odoo.com/privacy)\n*   [Security](https://www.odoo.com/security)\n\n ![Image 25](https://odoocdn.com/base/static/img/country_flags/us.png?height=25) English\n\n [![Image 26](https://odoocdn.com/web/image/res.lang/23/flag_image?height=25) \u0627\u0644\u0652\u0639\u064e\u0631\u064e\u0628\u064a\u0651\u0629](https://www.odoo.com/ar/pricing \" \u0627\u0644\u0652\u0639\u064e\u0631\u064e\u0628\u064a\u0651\u0629\")[![Image 27](https://odoocdn.com/web/image/res.lang/30/flag_image?height=25) Catal\u00e0](https://www.odoo.com/ca_ES/pricing \" Catal\u00e0\")[![Image 28](https://odoocdn.com/base/static/img/country_flags/cn.png?height=25) \u7b80\u4f53\u4e2d\u6587](https://www.odoo.com/zh_CN/pricing \" \u7b80\u4f53\u4e2d\u6587\")[![Image 29](https://odoocdn.com/base/static/img/country_flags/tw.png?height=25) \u7e41\u9ad4\u4e2d\u6587](https://www.odoo.com/zh_TW/pricing \" \u7e41\u9ad4\u4e2d\u6587\")[![Image 30](https://odoocdn.com/base/static/img/country_flags/cz.png?height=25) \u010ce\u0161tina](https://www.odoo.com/cs_CZ/pricing \" \u010ce\u0161tina\")[![Image 31](https://odoocdn.com/base/static/img/country_flags/nl.png?height=25) Nederlands](https://www.odoo.com/nl_NL/pricing \" Nederlands\")[![Image 32](https://odoocdn.com/base/static/img/country_flags/us.png?height=25) English](https://www.odoo.com/pricing \"English\")[![Image 33](https://odoocdn.com/base/static/img/country_flags/fi.png?height=25) Suomi](https://www.odoo.com/fi_FI/pricing \" Suomi\")[![Image 34](https://odoocdn.com/base/static/img/country_flags/fr.png?height=25) Fran\u00e7ais](https://www.odoo.com/fr_FR/pricing \" Fran\u00e7ais\")[![Image 35](https://odoocdn.com/base/static/img/country_flags/de.png?height=25) Deutsch](https://www.odoo.com/de_DE/pricing \" Deutsch\")[![Image 36](https://odoocdn.com/base/static/img/country_flags/id.png?height=25) Bahasa Indonesia](https://www.odoo.com/id_ID/pricing \" Bahasa Indonesia\")[![Image 37](https://odoocdn.com/base/static/img/country_flags/it.png?height=25) Italiano](https://www.odoo.com/it_IT/pricing \" Italiano\")[![Image 38](https://odoocdn.com/base/static/img/country_flags/jp.png?height=25) \u65e5\u672c\u8a9e](https://www.odoo.com/ja_JP/pricing \" \u65e5\u672c\u8a9e\")[![Image 39](https://odoocdn.com/base/static/img/country_flags/kr.png?height=25) \ud55c\uad6d\uc5b4 (KR)](https://www.odoo.com/ko_KR/pricing \" \ud55c\uad6d\uc5b4 (KR)\")[![Image 40](https://odoocdn.com/base/static/img/country_flags/lt.png?height=25) Lietuvi\u0173 kalba](https://www.odoo.com/lt_LT/pricing \" Lietuvi\u0173 kalba\")[![Image 41](https://odoocdn.com/base/static/img/country_flags/pl.png?height=25) J\u0119zyk polski](https://www.odoo.com/pl_PL/pricing \" J\u0119zyk polski\")[![Image 42](https://odoocdn.com/base/static/img/country_flags/br.png?height=25) Portugu\u00eas (BR)](https://www.odoo.com/pt_BR/pricing \" Portugu\u00eas (BR)\")[![Image 43](https://odoocdn.com/base/static/img/country_flags/ro.png?height=25) rom\u00e2n\u0103](https://www.odoo.com/ro_RO/pricing \" rom\u00e2n\u0103\")[![Image 44](https://odoocdn.com/base/static/img/country_flags/ru.png?height=25) \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a](https://www.odoo.com/ru_RU/pricing \" \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a\")[![Image 45](https://odoocdn.com/base/static/img/country_flags/sk.png?height=25) Slovensk\u00fd jazyk](https://www.odoo.com/sk_SK/pricing \" Slovensk\u00fd jazyk\")[![Image 46](https://odoocdn.com/base/static/img/country_flags/si.png?height=25) sloven\u0161\u010dina](https://www.odoo.com/sl_SI/pricing \" sloven\u0161\u010dina\")[![Image 47](https://odoocdn.com/base/static/img/country_flags/419.png?height=25) Espa\u00f1ol (Am\u00e9rica Latina)](https://www.odoo.com/es/pricing \" Espa\u00f1ol (Am\u00e9rica Latina)\")[![Image 48](https://odoocdn.com/base/static/img/country_flags/es.png?height=25) Espa\u00f1ol](https://www.odoo.com/es_ES/pricing \" Espa\u00f1ol\")[![Image 49](https://odoocdn.com/base/static/img/country_flags/th.png?height=25) \u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22](https://www.odoo.com/th_TH/pricing \" \u0e20\u0e32\u0e29\u0e32\u0e44\u0e17\u0e22\")[![Image 50](https://odoocdn.com/base/static/img/country_flags/tr.png?height=25) T\u00fcrk\u00e7e](https://www.odoo.com/tr_TR/pricing \" T\u00fcrk\u00e7e\")[![Image 51](https://odoocdn.com/base/static/img/country_flags/ua.png?height=25) \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430](https://www.odoo.com/uk_UA/pricing \" \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430\")[![Image 52](https://odoocdn.com/base/static/img/country_flags/vn.png?height=25) Ti\u1ebfng Vi\u1ec7t](https://www.odoo.com/vi_VN/pricing \" Ti\u1ebfng Vi\u1ec7t\")\n\n* * *\n\nOdoo is a suite of open source business apps that cover all your company needs: CRM, eCommerce, accounting, inventory, point of sale, project management, etc.\n\nOdoo's unique value proposition is to be at the same time very easy to use and fully integrated.\n\n[](https://www.facebook.com/odoo)[](https://twitter.com/Odoo)[](https://www.linkedin.com/company/odoo)[](https://github.com/odoo/odoo)[](https://www.instagram.com/odoo.official)[](https://www.tiktok.com/@odoo)[](tel:+1(650)691-3277)[](https://wa.me/59895220128)\n\n[Website made with](https://www.odoo.com/app/website)\n\n### **Odoo Experience** on YouTube\n\n**1.** Use the live chat to ask your questions.  \n**2.** The operator answers within a few minutes.\n\n![Image 53: Live support on Youtube](https://odoocdn.com/openerp_website/static/src/img/2016/live-support/info.gif)\n\n[Watch now](https://www.odoo.com/event/odoo-experience-2024-4662/track)\n\nYou are not dreaming; a single price for all your applications; he best pricing plans you can get!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "odoo_crm",
+        "app_name": "Odoo CRM",
+        "app_slug": "odoo-crm",
+        "pricing_url": "https://www.odoo.com/pricing",
+        "source_url": "https://www.odoo.com/pricing",
+        "all_pricing_urls": [
+          "https://www.odoo.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The free tier allows unlimited users for one app only. The Standard and Custom plans include all apps for a single fee.",
+        "pricing_tiers": [
+          {
+            "tier_name": "One App Free",
+            "tier_description": "For one app only, unlimited users",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited users",
+              "Odoo Online"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "100GB",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Standard",
+            "tier_description": "Includes all apps",
+            "monthly_price": 38.9,
+            "annual_price": 31.1,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "All apps",
+              "Odoo Online"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "100GB",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Custom",
+            "tier_description": "Includes all apps with additional features",
+            "monthly_price": 58.4,
+            "annual_price": 46.7,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "All apps",
+              "Odoo Online / Odoo.sh / On-premise",
+              "Odoo Studio",
+              "Multi-Company",
+              "External API"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "100GB",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Initial User Discount",
+            "offer_description": "Discount valid for 12 months for initial users ordered",
+            "discount_percentage": 20.0,
+            "offer_url": "https://www.odoo.com/pricing",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": [
+          {
+            "fee_name": "Odoo.sh Hosting",
+            "fee_amount": null,
+            "fee_description": "Cost for Odoo.sh hosting not included"
+          },
+          {
+            "fee_name": "Implementation Service",
+            "fee_amount": null,
+            "fee_description": "Implementation service and access to Odoo expert services not included"
+          },
+          {
+            "fee_name": "In-App-Purchase Credits",
+            "fee_amount": null,
+            "fee_description": "SMS, contacts auto-complete, lead generation, IA to scan vendor bills & expenses not included"
+          },
+          {
+            "fee_name": "Custom Code Maintenance",
+            "fee_amount": null,
+            "fee_description": "Maintenance of custom code not included"
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T06:45:42.049641",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\odoo\\20250415_064542"
+}

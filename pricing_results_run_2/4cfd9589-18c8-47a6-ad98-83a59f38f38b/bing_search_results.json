@@ -1,0 +1,19 @@
+{
+  "app_name": "MailerLite Classic",
+  "app_slug": "mailerlite-classic",
+  "search_term": "Find the official pricing page URL for MailerLite Classic (mailerlite-classic.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744707339.7289193,
+  "response_text": [
+    "The official pricing page for MailerLite Classic is:\n\nhttps://www.mailerlite-classic.com/pricing"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.mailerlite-classic.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\mailerlite-classic\\20250415_045541"
+}

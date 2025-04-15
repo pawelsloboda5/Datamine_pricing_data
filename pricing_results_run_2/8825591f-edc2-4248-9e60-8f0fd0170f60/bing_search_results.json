@@ -1,0 +1,46 @@
+{
+  "app_name": "Simpro",
+  "app_slug": "simpro",
+  "search_term": "Find the official pricing page URL for Simpro (simpro.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688730.6144302,
+  "response_text": [
+    "I couldn't locate a specific Simpro pricing page at their official site. I suggest visiting [Simpro's official website](https://www.simpro.com) and exploring their solutions or contacting them directly for pricing details. Let me know if I can assist further!"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.simpro.com",
+      "is_accessible": true,
+      "content": "[![Image 1: 910P309%20Top%20Assy%20General%20Atomics](https://static.wixstatic.com/media/ad2dd3_2508ab20c4f5c1fad281b50f18c555ea.jpg/v1/fill/w_284,h_133,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/910P309%2520Top%2520Assy%2520General%2520Atomics.jpg)](https://www.simpro.com/p-309-ga-650-2000)\n\n##### Electric Unit\n\nElectric Powered\n\n\u200b\n\nOne 20 foot container\n\n650 scfm, 2000 scfm\n\nTo 5000 psig discharge\n\nSpill containment base\n\n\u200b\n\nRoof-mounted Heat Exchangers\u00a0direct the hot cooling air up and away from the equipment and surrounding\n\n[![Image 2](https://static.wixstatic.com/media/ad2dd3_15522d7451fbdaff0bc25375ffffb6e3.jpg/v1/fill/w_284,h_133,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/ad2dd3_15522d7451fbdaff0bc25375ffffb6e3.jpg)](https://www.simpro.com/ugn-750)\n\n##### Offshore\n\nPortable Offshore\n\nNitrogen Generators\n\nBuilt To Meet ATEX Requirements\n\n*   \u200bDNV 2.7-1 Containers\n    \n*   Less Than 13,000kg, 28,660lbs\n    \n*   N2 Flows to 22 m3/min, 750 scfm\n    \n\n\u200b\n\nSystems can be in single or multiple containers.\n\nDesigned for offshore use and trailer mounting\n\nDiesel Powered\n\n*   One or Two Engines\n    \n*   Rigsafe or Full Zone 2\n    \n\nElectric Powered\n\n*   Stationary or Protable\n    \n*   Explosion Proof, ATEX\n    \n\n![Image 3](https://static.wixstatic.com/media/ad2dd3_7e20198b62fcf426d55122b1f80b3e2d.png/v1/fill/w_284,h_133,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ad2dd3_7e20198b62fcf426d55122b1f80b3e2d.png)\n\n##### Trucks\n\nMobile Diesel or Diesel-Electric\n\nPowered Nitrogen Generators\n\nChassis Mounted Systems Available With Rates as High as 34m3/min, 1200 scfm, & Purities From 95% to 99.5%\n\n\u200b\n\nTrailer Mounted Systems Available with Rates as High as 50m3/min, 1800 scfm & Purities From 95% to 99.5%",
+      "error": null,
+      "pricing_data": {
+        "app_id": "simpro",
+        "app_name": "Simpro",
+        "app_slug": "simpro",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The provided content does not include specific pricing details for Simpro's products or services.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:45:39.087835",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\simpro\\20250414_234539"
+}

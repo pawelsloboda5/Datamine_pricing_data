@@ -1,0 +1,160 @@
+{
+  "app_id": "investorlift",
+  "app_name": "InvestorLift",
+  "app_slug": "investorlift",
+  "pricing_url": "https://get.investorlift.com/pricing-plans#",
+  "source_url": "https://get.investorlift.com/pricing-plans",
+  "all_pricing_urls": [
+    "https://get.investorlift.com/pricing-plans#"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes quarterly and annual billing options with discounts for annual payments.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Lite",
+      "tier_description": "Free forever plan.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic access"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Buyer Limit",
+            "value": 100000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Enhanced features for growing businesses.",
+      "monthly_price": 479.0,
+      "annual_price": 5748.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Email & SMS Blasts",
+        "AI Augmented Data",
+        "God Mode Access"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Buyer Limit",
+            "value": 500000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Falcon",
+      "tier_description": "Advanced features for scaling businesses.",
+      "monthly_price": 1000.0,
+      "annual_price": 12000.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Email & SMS Blasts",
+        "AI Augmented Data",
+        "God Mode Access"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Buyer Limit",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Lieutenant",
+      "tier_description": "Premium features for large enterprises.",
+      "monthly_price": 3000.0,
+      "annual_price": 36000.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Email & SMS Blasts",
+        "AI Augmented Data",
+        "God Mode Access",
+        "Seller Site"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Buyer Limit",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Billing Discount",
+      "offer_description": "Save up to 25% with annual billing.",
+      "discount_percentage": 25.0,
+      "offer_url": "https://get.investorlift.com/pricing-plans#",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:12:27.576695",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "57f9b62a-f570-4680-a4f3-a338d35f4154",
+    "name": "InvestorLift",
+    "slug": "investorlift",
+    "description": "InvestorLift's software powers the most profitable real estate investing businesses in America.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/eb378645a6030b208dbc92acf7828f65.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 6
+  }
+}

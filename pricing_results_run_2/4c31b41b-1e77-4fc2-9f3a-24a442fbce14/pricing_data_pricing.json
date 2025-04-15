@@ -1,0 +1,106 @@
+{
+  "app_id": "snitcher",
+  "app_name": "Snitcher",
+  "app_slug": "snitcher",
+  "pricing_url": "https://www.snitcher.com/pricing",
+  "source_url": "https://www.snitcher.com/pricing",
+  "all_pricing_urls": [
+    "https://www.snitcher.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on subscription tiers with all features included for all customers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Try before you buy",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Full access for two weeks to try our top-rated platform and assess our data"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "The only plan you need",
+      "monthly_price": 69.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Lock in a tier or scale as you grow with the best visitor ID platform on the market"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Agency",
+      "tier_description": "Built for managing accounts",
+      "monthly_price": 249.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Manage multiple clients, automate workflows and enjoy volume discounts"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T09:08:24.175712",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4c31b41b-1e77-4fc2-9f3a-24a442fbce14",
+    "name": "Snitcher",
+    "slug": "snitcher",
+    "description": "Turn IP Addresses Into Company Data - we identify your anonymous website visitors.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/d291565a8e6230019935f64e51f70f73_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 1
+  }
+}

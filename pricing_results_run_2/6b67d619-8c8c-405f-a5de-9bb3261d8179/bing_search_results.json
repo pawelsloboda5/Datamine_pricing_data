@@ -1,0 +1,53 @@
+{
+  "app_name": "Moneybird",
+  "app_slug": "moneybird",
+  "search_term": "Find the official pricing page URL for Moneybird (moneybird.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744686472.495153,
+  "response_text": [
+    "The official pricing page for Moneybird can be found at: https://www.moneybird.com/pricing\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Accounting software for entrepreneurs | Moneybird",
+      "url": "https://www.moneybird.com/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.moneybird.com/pricing\u30103:0\u2020source\u3011.",
+      "is_accessible": true,
+      "content": "Page not found | Moneybird\n=============== \n\n[Ga naar de hoofdinhoud](https://www.moneybird.com/pricing%E3%80%903:0%E2%80%A0source%E3%80%91.#main-content)\n\n*   [Knowledgebase](https://helpcenter.moneybird.nl/nl/)\n*   [Changelog](https://www.moneybird.nl/blog/product-update/)\n*   \ud83c\uddec\ud83c\udde7\n    \n    *   [Nederlands \ud83c\uddf3\ud83c\uddf1](https://www.moneybird.nl/)\n    *   [Nederlands (Belgi\u00eb) \ud83c\udde7\ud83c\uddea](https://www.moneybird.be/)\n    *   [Deutsch \ud83c\udde9\ud83c\uddea](https://www.moneybird.de/)\n    \n\n[Moneybird | Home](https://www.moneybird.com/)[](https://moneybird.com/login \"Login\")\n\nSearch \n\nWebsite results\n---------------\n\nKnowledge base results\n----------------------\n\nSomething went wrong while searching the knowledge base.\n\n[View 0 more results in the knowledge base](https://helpcenter.moneybird.nl/nl/)\n\nWe could not find anything.\n\n*   [Go to Dutch website](https://moneybird.nl/)\n\nSearch \n\nWebsite results\n---------------\n\nKnowledge base results\n----------------------\n\nSomething went wrong while searching the knowledge base.\n\n[View 0 more results in the knowledge base](https://helpcenter.moneybird.nl/nl/)\n\nWe could not find anything.\n\n*   [Login](https://moneybird.com/login)\n*   [Register](https://www.moneybird.com/aanmelden/)\n\nVind je onze website duidelijk? \u2192 Deel jouw ervaring\n\nClose\n\nOoops!\n======\n\nUnfortunately, the page you were looking for does not exist (anymore).  \nReturn to our homepage or contact us!\n\n[Back to the homepage](https://www.moneybird.com/) [Please contact support](mailto:support@moneybird.com)\n\nHelp",
+      "error": null,
+      "pricing_data": {
+        "app_id": "moneybird",
+        "app_name": "Moneybird",
+        "app_slug": "moneybird",
+        "pricing_url": "https://www.moneybird.com/pricing",
+        "source_url": "https://www.moneybird.com/pricing",
+        "all_pricing_urls": [
+          "https://www.moneybird.com/pricing"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "EUR",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page was not accessible, and no pricing information could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:08:04.584931",
+        "schema_validated": true,
+        "confidence_score": 90,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\moneybird\\20250414_230804"
+}

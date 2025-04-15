@@ -1,0 +1,221 @@
+{
+  "app_id": "octoparse",
+  "app_name": "Octoparse",
+  "app_slug": "octoparse",
+  "pricing_url": "https://www.octoparse.com/pricing",
+  "source_url": "https://www.octoparse.com/pricing",
+  "all_pricing_urls": [
+    "https://www.octoparse.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Octoparse offers a free tier and multiple subscription plans with varying features and limits. Enterprise pricing is quote-based.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Plan",
+      "tier_description": "For small, simple projects",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Octoparse Desktop App",
+        "10 tasks",
+        "Run tasks on local devices only",
+        "Up to 10K data per export",
+        "50K data export per month",
+        "Unlimited pages per run",
+        "Self support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "tasks",
+            "value": 10
+          },
+          {
+            "name": "data export per month",
+            "value": "50K"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard Plan",
+      "tier_description": "Great for small teams",
+      "monthly_price": 99.0,
+      "annual_price": 1199.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "500+ preset scraping templates",
+        "100 tasks",
+        "Run tasks on Octoparse Cloud",
+        "Up to 6 concurrent cloud processes",
+        "Local boost mode",
+        "Unlimited data export",
+        "IP rotation",
+        "Residential proxies",
+        "Automatic CAPTCHA solving",
+        "Image & file download",
+        "Automatic export",
+        "Task scheduling",
+        "Data Export API",
+        "Standard support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "tasks",
+            "value": 100
+          },
+          {
+            "name": "concurrent cloud processes",
+            "value": 6
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional Plan",
+      "tier_description": "Ideal for medium-sized businesses",
+      "monthly_price": 249.0,
+      "annual_price": 2999.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "250 tasks",
+        "Up to 20 concurrent cloud processes",
+        "Cloud task monitoring",
+        "Save data to Google Sheets, Google Drive, Dropbox & S3",
+        "Auto backup data to cloud",
+        "Advanced API",
+        "Priority support",
+        "Task review & 1-on-1 training"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "tasks",
+            "value": 250
+          },
+          {
+            "name": "concurrent cloud processes",
+            "value": 20
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise Plan",
+      "tier_description": "Large Enterprise-ready",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "750+ tasks",
+        "40+ concurrent cloud processes",
+        "High-performance cloud servers",
+        "Expansive capacity",
+        "Team collaboration",
+        "Dedicated success manager"
+      ],
+      "limits": {
+        "users": "1 admin, 2 or more agents",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "tasks",
+            "value": 750
+          },
+          {
+            "name": "concurrent cloud processes",
+            "value": 40
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Crawler Service",
+      "unit": "per crawler",
+      "base_price": 399.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Data Service",
+      "unit": "per service",
+      "base_price": 999.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Octoparse for Startups",
+      "offer_description": "Startups get Octoparse with a special 30% discount for a year.",
+      "discount_percentage": 30.0,
+      "offer_url": "https://www.octoparse.com/pricing",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Octoparse for Universities",
+      "offer_description": "Special discount for students and educators.",
+      "discount_percentage": null,
+      "offer_url": "https://www.octoparse.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:49:30.182878",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b3cc630a-765e-48d7-a500-43826822493c",
+    "name": "Octoparse",
+    "slug": "octoparse",
+    "description": "Octoparse is a web-scraping tool to extract unstructured data from websites and organize in structured formats.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/28dfe18190b5396f78f2fba4517a36db.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "support"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

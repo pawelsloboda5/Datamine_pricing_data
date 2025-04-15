@@ -1,0 +1,12 @@
+{
+  "app_name": "Google Contacts",
+  "app_slug": "google-contacts",
+  "search_term": "Find the official pricing page URL for Google Contacts (google-contacts.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744721160.5825124,
+  "response_text": [
+    "I couldn't locate an official pricing page for Google Contacts on the specified website (google-contacts.com). Let me know if you'd like further assistance!\u30103:search_idx\u2020source\u3011"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\google-contacts\\20250415_084600"
+}

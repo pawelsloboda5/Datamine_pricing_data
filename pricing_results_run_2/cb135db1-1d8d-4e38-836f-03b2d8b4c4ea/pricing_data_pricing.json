@@ -1,0 +1,179 @@
+{
+  "app_id": "paymo",
+  "app_name": "Paymo",
+  "app_slug": "paymo",
+  "pricing_url": "https://www.paymoapp.com/pricing/",
+  "source_url": "https://www.paymoapp.com/pricing",
+  "all_pricing_urls": [
+    "https://www.paymoapp.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Paymo offers a free tier and subscription-based pricing with discounts for annual payments and promotional offers for new customers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for small teams or individuals.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Users",
+        "Unlimited Time Tracking",
+        "Unlimited Invoices",
+        "Clients (limited to 5)",
+        "Projects (limited to 10)",
+        "Unlimited Tasks",
+        "Task List View",
+        "Desktop & Mobile Apps",
+        "1GB Storage"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "1GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Clients",
+            "value": 5
+          },
+          {
+            "name": "Projects",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Enhanced features for small teams.",
+      "monthly_price": 5.9,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Clients",
+        "Unlimited Projects",
+        "Flat Rate Projects",
+        "Retainer Projects",
+        "Task Calendar View",
+        "Task Kanban View",
+        "Guest Access",
+        "In-App Tech Support",
+        "5GB Storage"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "5GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": []
+      }
+    },
+    {
+      "tier_name": "Small Office",
+      "tier_description": "Advanced features for growing teams.",
+      "monthly_price": 10.9,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Task Spreadsheet View",
+        "Meta Kanban Board",
+        "Recurring Tasks",
+        "Bulk Time Entries",
+        "Active Timers",
+        "Timesheet Reports",
+        "Project Templates",
+        "Project Profitability",
+        "Proofing & Versioning",
+        "Recurring Invoices",
+        "Estimates & Expenses",
+        "Integrations & API Access",
+        "50GB Storage"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "50GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Comprehensive features for large teams.",
+      "monthly_price": 16.9,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Task Gantt Chart View",
+        "Task Dependencies",
+        "Portfolio Gantt Chart",
+        "Employee Scheduling & Workload",
+        "Project Schedule Timeline",
+        "Automatic Ghost Bookings",
+        "Employee Leave Management",
+        "Priority Support",
+        "Online Remote Assistance",
+        "500GB Storage"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "500GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": []
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Spring Special Offer",
+      "offer_description": "Get up to 40% OFF for the first 3 months.",
+      "discount_percentage": 40.0,
+      "offer_url": "https://www.paymoapp.com/pricing/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:19:13.097463",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "cb135db1-1d8d-4e38-836f-03b2d8b4c4ea",
+    "name": "Paymo",
+    "slug": "paymo",
+    "description": "Simple online project management application that bundles task management, time tracking and invoicing",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/d3853d49e457a26406a8b247c41f0be0.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 15
+  }
+}

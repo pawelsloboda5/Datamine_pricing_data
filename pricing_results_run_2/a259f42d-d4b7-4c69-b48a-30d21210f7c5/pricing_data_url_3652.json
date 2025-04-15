@@ -1,0 +1,184 @@
+{
+  "app_id": "goodcall",
+  "app_name": "Goodcall",
+  "app_slug": "goodcall",
+  "pricing_url": "https://www.goodcall.com/pricing/",
+  "source_url": "https://www.goodcall.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.goodcall.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on a per-agent subscription model with additional usage-based fees for unique customers exceeding the included limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Basic plan for small teams.",
+      "monthly_price": 59.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited minutes and tokens",
+        "1 form",
+        "1 logic flow",
+        "3 team members",
+        "3 directory contacts",
+        "7 days of call & customer details",
+        "100 unique customers monthly"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "unique customers",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "For growing teams.",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited minutes and tokens",
+        "3 forms",
+        "3 logic flows",
+        "9 team members",
+        "25 directory contacts",
+        "30 days of call & customer details",
+        "250 unique customers monthly"
+      ],
+      "limits": {
+        "users": 9,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "unique customers",
+            "value": 250
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "For larger teams.",
+      "monthly_price": 199.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited minutes and tokens",
+        "25 forms",
+        "25 logic flows",
+        "50 team members",
+        "500 directory contacts",
+        "Unlimited call & customer details",
+        "500 unique customers monthly"
+      ],
+      "limits": {
+        "users": 50,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "unique customers",
+            "value": 500
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "unique customers",
+      "unit": "per customer",
+      "base_price": 0.5,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": false
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Starter Discount",
+      "offer_description": "Discounted monthly price for Starter plan.",
+      "discount_percentage": 30.51,
+      "offer_url": "https://ai.goodcall.com/get-started/",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Growth Discount",
+      "offer_description": "Discounted monthly price for Growth plan.",
+      "discount_percentage": 30.3,
+      "offer_url": "https://ai.goodcall.com/get-started/",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Scale Discount",
+      "offer_description": "Discounted monthly price for Scale plan.",
+      "discount_percentage": 30.15,
+      "offer_url": "https://ai.goodcall.com/get-started/",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Overage Fee",
+      "fee_amount": 0.5,
+      "fee_description": "Fee per unique customer exceeding the included limit."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:12:32.589755",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a259f42d-d4b7-4c69-b48a-30d21210f7c5",
+    "name": "Goodcall",
+    "slug": "goodcall",
+    "description": "Goodcall is an AI phone assistant that leverages the power of GPT to offer seamless communication solutions for businesses.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/44720b36b74c55d12eea2a8c7b933639.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "AI Tools"
+    ],
+    "category_slugs": [
+      "ai-tools"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "app_name": "Customers.ai",
+  "app_slug": "customersai",
+  "search_term": "Find the official pricing page URL for Customers.ai (customersai.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744717641.9373379,
+  "response_text": [
+    "I located the official pricing page for Customers.ai here: [https://customers.ai/pricing](https://customers.ai/pricing)."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://customers.ai/pricing",
+      "is_accessible": true,
+      "content": "Identity Resolution Priced for Maximum ROI\n------------------------------------------\n\nChoose the plan tailored to your growth goals\n\nTap a plan name to learn more about maximizing conversions and advanced customer journey insights for Meta Ads, Emails, or our plans for Agencies\n\nRestore website visitor retargeting ad audiences and conversion signals\n\n![Image 1](https://customers.ai/wp-content/uploads/2024/06/Meta-Partner@2x.png)\n\n![Image 2](https://customers.ai/wp-content/uploads/2024/06/Facebook-partner@2x.png)\n\n![Image 3](https://customers.ai/wp-content/uploads/2024/10/Google-Partner-512.png)\n\n### For Advertisers\n\nStarts at\n\n$199\n\n/mo  \n**\\+ identifier visitor fees**\n\nfor 7 Days\n\nNo credit card required\n\nWhat You Get\n\n*   Enriched and targetable contact data for both known profiles and unknown anonymous visitors\n*   Encrypted audiences sent to Google Ads, Meta Ads Custom Audiences and Meta Conversions API\n*   Fully restore signal loss due to Meta Pixel cookie deprecation\n\nCustomers.ai for Meta Advertisers Guarantee\n\n##### Customers.ai for Meta Advertisers Event Match Quality Score Guarantee\n\nSee an improvement in one or more key Meta metrics in 90 days or cancel anytime.\n\n*   25% or more Increase in Event Match Quality Score\u00a0\n*   15% or more increase in conversions\n*   20% or more increase in engagement rates\n*   20% or more decrease in CAC\n*   20% or more increase in ROAS\n\nIdentify anonymous website visitors and supercharge email flows\n\n### For Email Marketers\n\nStarts at\n\n$199\n\n/mo  \n**\\+ identified visitor fees**\n\nfor 7 Days\n\nNo credit card required\n\nWhat You Get\n\n*   Contact data and on-site behavior tracking of identified visitors\n*   Fully restore returning contact signal loss due to third-party cookie deprecation\n*   Native or API integration with ESPs, CRMs and direct mail solutions\n*   Consumer or business contact enrichment\n*   Advanced audience segmentation\n*   Persistent customer journey tracking\n*   Suite of email deliverability optimization tools\n\nImprove ad performance and supercharge email flows\n\n![Image 4](https://customers.ai/wp-content/uploads/2024/06/Meta-Partner@2x.png)\n\n![Image 5](https://customers.ai/wp-content/uploads/2024/06/Facebook-partner@2x.png)\n\n![Image 6](https://customers.ai/wp-content/uploads/2024/10/Google-Partner-512.png)\n\n### For Advertisers & Email Marketers\n\nStarts at\n\n$399\n\n/mo  \n**\\+ identified visitor fees**\n\nfor 7 Days\n\nNo credit card required\n\nWhat You Get\n\n*   Contact data and on-site behavior tracking of identified visitors\n*   Fully restore signal loss due to Meta Pixel and third-party cookie deprecation\n*   Encrypted audiences sent to Google Ads, Meta Ads and Meta Conversions API\n*   Native or API integration with ESPs, CRMs and direct mail solutions\n*   Consumer or business contact enrichment\n*   Advanced audience segmentation\n*   Persistent customer journey tracking\n*   Suite of email deliverability optimization tools\n\nCustomers.ai for Meta Advertisers Guarantee\n\n##### Customers.ai for Meta Advertisers Event Match Quality Score Guarantee\n\nSee an improvement in one or more key Meta metrics in 90 days or cancel anytime.\n\n*   25% or more Increase in Event Match Quality Score\u00a0\n*   15% or more increase in conversions\n*   20% or more increase in engagement rates\n*   20% or more decrease in CAC\n*   20% or more increase in ROAS\n\nGrow your agency with invested partners and elite campaign performance\n\n![Image 7](https://customers.ai/wp-content/uploads/2024/06/Agency-artner.png)\n\n### Advertising & Email Marketing\n\nwith our Agency Partnership Team to learn more\n\nWhat You Get\n\n*   Agency partner promotion\n*   New business referrals\n*   Agency partner software training\n*   Improved client results using Customers.ai\n\n### HighLevel Agency\n\nabout our White Label plan for HighLevel Agencies\n\n![Image 8](https://customers.ai/wp-content/uploads/2024/06/Agency-artner.png)\n\nWhat You Get\n\n*   White label website visitor contact data\n*   HighLevel integration\n\nGet Website Visitor ID X-Ray Pixel, 500 website visitor contacts, ad retargeting audience recovery and email automation free for 7 days, no card required.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "customers_ai",
+        "app_name": "Customers.ai",
+        "app_slug": "customers-ai",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 7,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes a base subscription fee plus additional fees for identified visitor services.",
+        "pricing_tiers": [
+          {
+            "tier_name": "For Advertisers",
+            "tier_description": "Designed for advertisers to restore website visitor retargeting and conversion signals.",
+            "monthly_price": 199.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Enriched and targetable contact data for both known profiles and unknown anonymous visitors",
+              "Encrypted audiences sent to Google Ads, Meta Ads Custom Audiences and Meta Conversions API",
+              "Fully restore signal loss due to Meta Pixel cookie deprecation"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "For Email Marketers",
+            "tier_description": "Focused on email marketers to enhance email flows and contact tracking.",
+            "monthly_price": 199.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Contact data and on-site behavior tracking of identified visitors",
+              "Fully restore returning contact signal loss due to third-party cookie deprecation",
+              "Native or API integration with ESPs, CRMs and direct mail solutions",
+              "Consumer or business contact enrichment",
+              "Advanced audience segmentation",
+              "Persistent customer journey tracking",
+              "Suite of email deliverability optimization tools"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "For Advertisers & Email Marketers",
+            "tier_description": "Combines features for advertisers and email marketers.",
+            "monthly_price": 399.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Contact data and on-site behavior tracking of identified visitors",
+              "Fully restore signal loss due to Meta Pixel and third-party cookie deprecation",
+              "Encrypted audiences sent to Google Ads, Meta Ads and Meta Conversions API",
+              "Native or API integration with ESPs, CRMs and direct mail solutions",
+              "Consumer or business contact enrichment",
+              "Advanced audience segmentation",
+              "Persistent customer journey tracking",
+              "Suite of email deliverability optimization tools"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Identified Visitor Fees",
+            "unit": null,
+            "base_price": null,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:47:38.102494",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\customersai\\20250415_074742"
+}

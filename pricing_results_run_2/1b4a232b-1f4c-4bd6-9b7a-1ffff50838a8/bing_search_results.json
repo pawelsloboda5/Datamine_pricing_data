@@ -1,0 +1,24 @@
+{
+  "app_name": "Surefire Local Platform",
+  "app_slug": "surefire-local-platform",
+  "search_term": "Find the official pricing page URL for Surefire Local Platform (surefire-local-platform.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744723092.244366,
+  "response_text": [
+    "The official pricing page for the Surefire Local Platform can be found here: [https://info.surefirelocal.com/get-pricing](https://info.surefirelocal.com/get-pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Get Pricing for the Surefire Local Marketing Platform",
+      "url": "https://info.surefirelocal.com/lp/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://info.surefirelocal.com/lp/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\surefire-local-platform\\20250415_091827"
+}

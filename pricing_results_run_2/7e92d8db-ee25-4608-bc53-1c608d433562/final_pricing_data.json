@@ -1,0 +1,229 @@
+{
+  "app_id": "coda",
+  "app_name": "Coda",
+  "app_slug": "coda",
+  "pricing_url": "https://coda.io/pricing",
+  "source_url": "https://coda.io/pricing",
+  "all_pricing_urls": [
+    "https://coda.io/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on the number of Doc Makers in the workspace. Additional AI credits can be purchased.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free for you and your team",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited doc size for unshared docs",
+        "Low quota automations",
+        "1GB attachments per doc",
+        "Manual data refresh for Packs",
+        "7 days version history",
+        "Real-time collaboration",
+        "Doc sharing",
+        "Sync pages"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "1GB per doc",
+        "operations": "low quota",
+        "api_calls": null,
+        "integrations": "manual data refresh",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "$10/month per Doc Maker",
+      "monthly_price": 10.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited doc size",
+        "Some AI credits",
+        "Medium quota automations",
+        "5GB attachments per doc",
+        "Daily data refresh for Packs",
+        "30 days version history",
+        "Real-time collaboration",
+        "Doc sharing",
+        "Sync pages",
+        "Hidden pages"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "5GB per doc",
+        "operations": "medium quota",
+        "api_calls": null,
+        "integrations": "daily data refresh",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "$30/month per Doc Maker",
+      "monthly_price": 30.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited doc size",
+        "More AI credits",
+        "Unlimited automations",
+        "Unlimited attachments per doc",
+        "Hourly data refresh for Packs",
+        "Unlimited version history",
+        "Real-time collaboration",
+        "Doc sharing",
+        "Sync pages",
+        "Hidden pages",
+        "Custom domains"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "hourly data refresh",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom pricing",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited doc size",
+        "Most AI credits",
+        "Unlimited automations",
+        "Unlimited attachments per doc",
+        "Hourly data refresh for Packs",
+        "Unlimited version history",
+        "Real-time collaboration",
+        "Doc sharing",
+        "Sync pages",
+        "Hidden pages",
+        "Custom domains",
+        "Advanced locking",
+        "Enforced dependencies",
+        "Internal doc analytics",
+        "Page analytics",
+        "Advanced user management",
+        "Domain capture",
+        "Priority support",
+        "Dedicated success team",
+        "SAML-based Single Sign-on (SSO)",
+        "User provisioning & deprovisioning",
+        "Share with SCIM groups",
+        "Pack approvals & auditing",
+        "Pack controls",
+        "Advanced sharing rules",
+        "Audit events",
+        "SOC 2 Type II report",
+        "HIPAA compliance",
+        "Legal hold",
+        "eDiscovery"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "hourly data refresh",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "AI credits",
+      "unit": "per Doc Maker/month",
+      "base_price": 2.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 2000.0,
+          "price": 2.0
+        },
+        {
+          "min": 2001.0,
+          "max": 6000.0,
+          "price": 6.0
+        },
+        {
+          "min": 6001.0,
+          "max": "unlimited",
+          "price": 12.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": [
+    {
+      "offer_name": "Startup Team Plan",
+      "offer_description": "Eligible startups can get the Team plan free for 6 months.",
+      "discount_percentage": 100.0,
+      "offer_url": "https://coda.io/for/startups",
+      "valid_until": null
+    },
+    {
+      "offer_name": "Non-profit Discount",
+      "offer_description": "Qualifying organizations can receive a 50% discount.",
+      "discount_percentage": 50.0,
+      "offer_url": "https://help.coda.io/en/articles/3517611-students-teachers-and-nonprofits#h_c016f343e2",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:45:39.259591",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7e92d8db-ee25-4608-bc53-1c608d433562",
+    "name": "Coda",
+    "slug": "coda",
+    "description": "Coda is a new type of document that blends the flexibility of documents, the power of spreadsheets, and the utility of apps into a single new canvas.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/467b4e6c51ae25c9e272b4e63e1abf9a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Documents"
+    ],
+    "category_slugs": [
+      "documents"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 1
+  }
+}

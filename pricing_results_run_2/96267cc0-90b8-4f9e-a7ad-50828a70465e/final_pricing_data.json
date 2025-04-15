@@ -1,0 +1,183 @@
+{
+  "app_id": "coschedule",
+  "app_name": "CoSchedule",
+  "app_slug": "coschedule",
+  "pricing_url": "https://coschedule.com/pricing",
+  "source_url": "https://coschedule.com/pricing",
+  "all_pricing_urls": [
+    "https://coschedule.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing varies based on the number of users and features included in each tier.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Calendar",
+      "tier_description": "Basic calendar functionality for individual users.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Drag and Drop Content Calendar",
+        "Customizable Color Coding",
+        "Social Calendar",
+        "Social Sync",
+        "Social Campaigns",
+        "Social Previews"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Social Message Limits",
+            "value": "Up to 15"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Social Calendar",
+      "tier_description": "Enhanced social media calendar for small teams.",
+      "monthly_price": 29.0,
+      "annual_price": 228.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Free Viewers",
+        "Project Tag Management",
+        "Filtered & Saved Calendars",
+        "Social Profile Groups"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Social Message Limits",
+            "value": "Unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Agency Calendar",
+      "tier_description": "Advanced calendar for agencies managing multiple clients.",
+      "monthly_price": 69.0,
+      "annual_price": 708.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Custom Client Calendars",
+        "Client Brand Profiles",
+        "Custom Project Types",
+        "Custom Fields"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Social Message Limits",
+            "value": "Unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Content Calendar",
+      "tier_description": "Comprehensive content calendar for larger teams.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Marketing Campaigns",
+        "Kanban Dashboard",
+        "Table View"
+      ],
+      "limits": {
+        "users": "Custom User Limits",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Social Message Limits",
+            "value": "Unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Marketing Suite",
+      "tier_description": "Full suite for marketing teams with extensive needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom Sub-Calendars",
+        "Advanced Analytics",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": "Custom User Limits",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Social Message Limits",
+            "value": "Unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T01:31:47.275315",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "96267cc0-90b8-4f9e-a7ad-50828a70465e",
+    "name": "CoSchedule",
+    "slug": "coschedule",
+    "description": "CoSchedule is mission control for your entire marketing strategy.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/d32c776599a401d9120a770590123c96_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 4
+  }
+}

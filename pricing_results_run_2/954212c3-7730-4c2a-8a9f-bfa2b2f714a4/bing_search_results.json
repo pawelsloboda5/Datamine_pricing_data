@@ -1,0 +1,24 @@
+{
+  "app_name": "Zadarma",
+  "app_slug": "zadarma",
+  "search_term": "Find the official pricing page URL for Zadarma (zadarma.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744720332.9992473,
+  "response_text": [
+    "The official pricing page for Zadarma can be accessed at this URL: [https://www.zadarma.com/en/tariffs/](https://www.zadarma.com/en/tariffs/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Zadarma PBX price plan packages",
+      "url": "https://zadarma.com/en/tariffs/plans/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://zadarma.com/en/tariffs/plans/",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\zadarma\\20250415_083228"
+}

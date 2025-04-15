@@ -1,0 +1,190 @@
+{
+  "app_id": "webflow",
+  "app_name": "Webflow",
+  "app_slug": "webflow",
+  "pricing_url": "https://webflow.com/pricing",
+  "source_url": "https://webflow.com/pricing",
+  "all_pricing_urls": [
+    "https://webflow.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes various tiers for site plans, e-commerce plans, and workspace plans with optional add-ons.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Free plan with basic features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Webflow.io domain",
+        "2 pages",
+        "20 CMS collections",
+        "50 CMS items",
+        "50 form submits (lifetime)",
+        "1 GB bandwidth"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "1GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Paid plan for custom domains and additional features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 22.0,
+      "setup_fee": null,
+      "features": [
+        "Custom domain",
+        "150 pages",
+        "Unlimited form submits",
+        "10 GB bandwidth",
+        "Surge protection"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "10GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "CMS",
+      "tier_description": "Plan for content-driven sites.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 22.0,
+      "setup_fee": null,
+      "features": [
+        "Custom domain",
+        "150 pages",
+        "20 CMS collections",
+        "2,000 CMS items",
+        "Unlimited form submits",
+        "50 GB bandwidth",
+        "Surge protection",
+        "3 legacy Editor users",
+        "Site search"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "50GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Plan for high-traffic sites.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": 22.0,
+      "setup_fee": null,
+      "features": [
+        "Custom domain",
+        "300 pages",
+        "40 CMS collections",
+        "Unlimited form submits",
+        "Unlimited bandwidth",
+        "Surge protection",
+        "10 legacy Editor users",
+        "Site search",
+        "Form file upload"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom plan for large-scale needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Enterprise-ready scale",
+        "Advanced collaboration",
+        "Guaranteed SLA",
+        "Enterprise security",
+        "Customer success",
+        "Enterprise support"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "custom",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Optimize Add-on",
+      "fee_amount": 299.0,
+      "fee_description": "Starting price for optimization features."
+    },
+    {
+      "fee_name": "Analyze Add-on",
+      "fee_amount": 29.0,
+      "fee_description": "Starting price for analytics features."
+    },
+    {
+      "fee_name": "Localization Add-on",
+      "fee_amount": 9.0,
+      "fee_description": "Starting price for localization features."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:20:39.791554",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "40206f29-4d7e-4942-9f18-638e90ce0c2c",
+    "name": "Webflow",
+    "slug": "webflow",
+    "description": "Design and build professional websites with a CMS from scratch online with Webflow.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/f003c553c8cd9f05a0b56bcf2a873fcc.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders"
+    ],
+    "category_slugs": [
+      "cms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 2
+  }
+}

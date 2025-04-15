@@ -1,0 +1,49 @@
+{
+  "app_id": "microsoft_sharepoint",
+  "app_name": "Microsoft SharePoint",
+  "app_slug": "microsoft-sharepoint",
+  "pricing_url": "https://www.microsoft.com/en-us/microsoft-365/SharePoint/compare-SharePoint-plans",
+  "source_url": "https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration",
+  "all_pricing_urls": [
+    "https://www.microsoft.com/en-us/microsoft-365/SharePoint/compare-SharePoint-plans"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are available on the official Microsoft SharePoint pricing page.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:06:56.652861",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "3a3e2011-1d79-4dcb-bf02-13f7fae07fc7",
+    "name": "Microsoft SharePoint",
+    "slug": "sharepoint",
+    "description": "Microsoft SharePoint is a service that helps organizations share content to quickly find information and seamlessly collaborate.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/057cdf76061854216e940f624ce3379c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Microsoft",
+      "Team Collaboration"
+    ],
+    "category_slugs": [
+      "microsoft",
+      "team-collaboration"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 7
+  }
+}

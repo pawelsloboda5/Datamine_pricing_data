@@ -1,0 +1,145 @@
+{
+  "app_id": "sellfy",
+  "app_name": "Sellfy",
+  "app_slug": "sellfy",
+  "pricing_url": "https://sellfy.com/pricing/",
+  "source_url": "https://sellfy.com/pricing/",
+  "all_pricing_urls": [
+    "https://sellfy.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Plans are based on annual sales limits and include features like email marketing and product migration.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Basic plan for small sellers.",
+      "monthly_price": 29.0,
+      "annual_price": 264.0,
+      "annual_discount_percentage": 24.0,
+      "setup_fee": null,
+      "features": [
+        "Up to $10k in sales per year",
+        "Unlimited products",
+        "Digital products",
+        "Subscription products",
+        "Connect your own domain",
+        "Email marketing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Annual Sales Limit",
+            "value": "$10k"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Best value plan for growing businesses.",
+      "monthly_price": 79.0,
+      "annual_price": 708.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Starter",
+        "Up to $50k in sales per year",
+        "Product upselling",
+        "Cart abandonment",
+        "Affiliate marketing",
+        "Remove 'Sellfy' branding",
+        "Store design migration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Annual Sales Limit",
+            "value": "$50k"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Advanced plan for high-volume sellers.",
+      "monthly_price": 159.0,
+      "annual_price": 1428.0,
+      "annual_discount_percentage": 25.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Business",
+        "Up to $200k in sales per year",
+        "Product migration",
+        "Priority support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Annual Sales Limit",
+            "value": "$200k"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Overage Fee",
+      "fee_amount": 2.0,
+      "fee_description": "2% fee for revenue exceeding the plan's annual sales limit."
+    },
+    {
+      "fee_name": "Payment Processing Fees",
+      "fee_amount": null,
+      "fee_description": "PayPal or Stripe fees (typically 2.9% + $0.30 per transaction)."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:53:14.613170",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4618e70f-ed1d-4be5-a328-eb66520f3751",
+    "name": "Sellfy",
+    "slug": "sellfy",
+    "description": "Sellfy is an e-commerce platform for selling music, videos, e-books and anything else digital.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/8551f023119c31f4eb24fad1f677c143.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

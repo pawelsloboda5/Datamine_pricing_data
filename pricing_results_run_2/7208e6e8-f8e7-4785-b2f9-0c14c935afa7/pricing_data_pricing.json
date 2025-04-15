@@ -1,0 +1,157 @@
+{
+  "app_id": "pumble",
+  "app_name": "Pumble",
+  "app_slug": "pumble",
+  "pricing_url": "https://pumble.com/pricing",
+  "source_url": "https://pumble.com/pricing",
+  "all_pricing_urls": [
+    "https://pumble.com/pricing",
+    "https://pumble.com/pro-plan",
+    "https://pumble.com/enterprise"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes per-seat monthly and annual billing options with discounts for annual payments.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic communication features for unlimited users.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited users",
+        "Unlimited message history",
+        "Voice and video messages",
+        "1:1 meetings (voice and video)",
+        "Import from Slack",
+        "10GB storage per workspace",
+        "Export content",
+        "Up to 3 integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10GB",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": 3,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Enhanced collaboration and storage features.",
+      "monthly_price": 2.99,
+      "annual_price": 2.49,
+      "annual_discount_percentage": 16.72,
+      "setup_fee": null,
+      "features": [
+        "All Free features",
+        "Group meetings",
+        "Screen sharing",
+        "Customizable sections",
+        "10GB storage per seat",
+        "Up to 10 integrations",
+        "Dedicated success representative (if qualified)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10GB per seat",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": 10,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Advanced administration and guest user features.",
+      "monthly_price": 4.99,
+      "annual_price": 3.99,
+      "annual_discount_percentage": 20.04,
+      "setup_fee": null,
+      "features": [
+        "All Pro features",
+        "Permissions",
+        "Guest users",
+        "User groups",
+        "20GB storage per seat",
+        "Meeting recordings",
+        "Unlimited integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "20GB per seat",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Comprehensive control and security features.",
+      "monthly_price": 7.99,
+      "annual_price": 6.99,
+      "annual_discount_percentage": 12.52,
+      "setup_fee": null,
+      "features": [
+        "All Business features",
+        "Single sign-on (SSO)",
+        "Data retention",
+        "100GB storage per seat"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "100GB per seat",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Free Onboarding Session",
+      "offer_description": "Upgrade and get a FREE 30-minute tailored onboarding session.",
+      "discount_percentage": null,
+      "offer_url": "https://pumble.com/pricing",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-14T23:16:43.262701",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7208e6e8-f8e7-4785-b2f9-0c14c935afa7",
+    "name": "Pumble",
+    "slug": "pumble",
+    "description": "Pumble is team messaging and video conferencing software for seamless communication and collaboration.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/64c69af38e1f12479a290252e1b46c57.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Team Chat"
+    ],
+    "category_slugs": [
+      "team-chat"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 5
+  }
+}

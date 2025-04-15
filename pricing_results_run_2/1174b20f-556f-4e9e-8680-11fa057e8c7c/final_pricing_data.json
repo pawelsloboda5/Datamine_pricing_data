@@ -1,0 +1,141 @@
+{
+  "app_id": "pure_chat",
+  "app_name": "Pure Chat",
+  "app_slug": "pure-chat",
+  "pricing_url": null,
+  "source_url": "https://www.purechat.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pure Chat offers two main pricing tiers with additional charges for extra users/operators.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Growth",
+      "tier_description": null,
+      "monthly_price": 49.0,
+      "annual_price": 468.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "1 Website",
+        "4 Users/Operators Included",
+        "100 SMS Notifications"
+      ],
+      "limits": {
+        "users": 4,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Max Websites",
+            "value": 1
+          },
+          {
+            "name": "SMS Notifications",
+            "value": 100
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "PRO",
+      "tier_description": null,
+      "monthly_price": 99.0,
+      "annual_price": 948.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Websites",
+        "10 Users/Operators Included",
+        "1,000 SMS Notifications",
+        "Remove Pure Chat Branding",
+        "Unlimited Chats",
+        "Advanced Widget Customization",
+        "All Integrations",
+        "Engagement Hub",
+        "iOS and Android Mobile Apps",
+        "Security Roles (Admin, Power Users, and Operators)",
+        "Unlimited Chat History Transcripts",
+        "Canned Responses",
+        "Chat Notifications",
+        "File Transfer",
+        "Trigger-Based Actions and Alerts",
+        "Realtime Analytics",
+        "Visitor Tracking",
+        "Comprehensive Account Statistics and Reports",
+        "CSV exports for Reports & Contacts",
+        "Support"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Max Websites",
+            "value": "unlimited"
+          },
+          {
+            "name": "SMS Notifications",
+            "value": 1000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional Users/Operators",
+      "unit": "per user per month",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 15.0
+        },
+        {
+          "min": 1.0,
+          "max": "unlimited",
+          "price": 13.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T02:44:08.833550",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1174b20f-556f-4e9e-8680-11fa057e8c7c",
+    "name": "Pure Chat",
+    "slug": "pure-chat",
+    "description": "Generate more leads and drive sales with Pure Chat. Add live chat software to your website to engage visitors and customers! Get started in 3 mins today for free!",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/79e4e33fe32d82d5a458191c1af21734_5.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Customer Support"
+    ],
+    "category_slugs": [
+      "customer-support"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

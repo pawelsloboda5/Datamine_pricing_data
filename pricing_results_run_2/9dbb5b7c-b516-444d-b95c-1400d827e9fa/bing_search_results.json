@@ -1,0 +1,55 @@
+{
+  "app_name": "Samdock",
+  "app_slug": "samdock",
+  "search_term": "Find the official pricing page URL for Samdock (samdock.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744702225.6346965,
+  "response_text": [
+    "The official pricing page for Samdock can be found at: [https://samdock.com/en/pricing](https://samdock.com/en/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Prices I Samdock CRM",
+      "url": "https://www.samdock.com/en/preise"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://samdock.com/en/pricing",
+      "is_accessible": true,
+      "content": "![Image 1](https://framerusercontent.com/images/cM7vxwq6CikbwmYy3lKEyjKNPw.jpg)\n\nUps, Seite nicht gefunden.\n--------------------------\n\nEntweder ist die Seite umgezogen oder existriert nicht mehr. Am besten besuchst du direkt unsere Homepage oder nutzt die Suchfunktion.\n\n[Zur\u00fcck zur Homepage](https://www.samdock.com/en/)\n\n![Image 2](https://framerusercontent.com/images/xrx6V4vsi5E1svynKM4c2qC1zd4.png)\n\n![Image 3](https://framerusercontent.com/images/G8LKcaqnywB7xrSn3yLaBNbCSU.svg)\n\n![Image 4](https://framerusercontent.com/images/AJzjtaiDCVQn13vUgAS5kHuDKQ.svg)\n\n[Funktionen](https://www.samdock.com/en/funktionen)\n\n[Preise](https://www.samdock.com/en/preise)\n\n[\u00dcber Uns](https://www.samdock.com/en/ueber-uns)\n\n[Kontakt](https://www.samdock.com/en/kontakt)\n\nSelect Language\n\n[Login](https://samdock.app/login)\n\nKostenfrei starten\n\nSamdock ist ein CRM-System, das deine Sales-Prozesse vereinfacht. Arbeite mit deinen Leads so effektiv wie noch nie!",
+      "error": null,
+      "pricing_data": {
+        "app_id": "samdock",
+        "app_name": "Samdock",
+        "app_slug": "samdock",
+        "pricing_url": "https://www.samdock.com/en/preise",
+        "source_url": "https://www.samdock.com/en/preise",
+        "all_pricing_urls": [
+          "https://www.samdock.com/en/preise"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "EUR",
+        "is_pricing_public": true,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page was not accessible, and detailed pricing information could not be retrieved.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:30:41.103696",
+        "schema_validated": true,
+        "confidence_score": 80,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\samdock\\20250415_033041"
+}

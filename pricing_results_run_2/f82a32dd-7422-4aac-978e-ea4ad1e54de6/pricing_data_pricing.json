@@ -1,0 +1,236 @@
+{
+  "app_id": "easycsv",
+  "app_name": "EasyCSV",
+  "app_slug": "easycsv",
+  "pricing_url": "https://www.easycsv.io/pricing",
+  "source_url": "https://www.easycsv.io/pricing",
+  "all_pricing_urls": [
+    "https://www.easycsv.io/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.CUSTOM"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Custom plans are available for higher limits and additional features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic free tier with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 spreadsheet flow & form",
+        "3 rows per import/export",
+        "Upload CSV files",
+        "Search & upload Google Sheets",
+        "Email addresses that auto-import attached CSV or XLSX attached files",
+        "Schedule automatic pulling and importing of files",
+        "Send uploads to various platforms",
+        "Hosted & Shareable Import Form",
+        "Replace EasyCSV logo and colors",
+        "Require Google Account for trusted uploads",
+        "Password protect upload form",
+        "Combine & transform spreadsheet columns",
+        "Clean and extract parts of text",
+        "Filter out unwanted data",
+        "Customize posting JSON",
+        "Specify custom headers",
+        "Send import events to Slack",
+        "Create CSV files",
+        "1 CSV Generator",
+        "Limited number of CSV file generations per month",
+        "Automatically send Email with generated CSV file",
+        "Automatically upload generated CSV file",
+        "PGP encryption for SFTP CSV Generations",
+        "GDPR Compliant",
+        "Real-person support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Imports",
+            "value": 50
+          },
+          {
+            "name": "Import Duration",
+            "value": "15 minutes"
+          },
+          {
+            "name": "Generated CSV Rows",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Enhanced features for small-scale usage.",
+      "monthly_price": 9.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 spreadsheet flow & form",
+        "Up to 5,000 rows per import/export",
+        "Upload CSV files",
+        "Search & upload Google Sheets",
+        "Email addresses that auto-import attached CSV or XLSX attached files",
+        "Schedule automatic pulling and importing of files",
+        "Send uploads to various platforms",
+        "Hosted & Shareable Import Form",
+        "Replace EasyCSV logo and colors",
+        "Require Google Account for trusted uploads",
+        "Password protect upload form",
+        "Combine & transform spreadsheet columns",
+        "Clean and extract parts of text",
+        "Filter out unwanted data",
+        "Customize posting JSON",
+        "Specify custom headers",
+        "Send import events to Slack",
+        "Create CSV files",
+        "1 CSV Generator",
+        "Up to 1,000 CSV file generations per month",
+        "Automatically send Email with generated CSV file",
+        "Automatically upload generated CSV file",
+        "PGP encryption for SFTP CSV Generations",
+        "GDPR Compliant",
+        "Real-person support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Generated CSV Rows",
+            "value": 100
+          },
+          {
+            "name": "Import Duration",
+            "value": "15 minutes"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced features for professional use.",
+      "monthly_price": 29.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "3 spreadsheet flows & forms",
+        "Up to 10,000 rows per import/export",
+        "Embed upload form in your website",
+        "Extra optional filter to select unique rows",
+        "Equation & Advanced Virtual Fields",
+        "Group spreadsheet file rows using a column",
+        "Shopify integrations",
+        "Upload CSV files",
+        "Search & upload Google Sheets",
+        "Email addresses that auto-import attached CSV or XLSX attached files",
+        "Schedule automatic pulling and importing of files",
+        "Send uploads to various platforms",
+        "Hosted & Shareable Import Form",
+        "Replace EasyCSV logo and colors",
+        "Require Google Account for trusted uploads",
+        "Password protect upload form",
+        "Combine & transform spreadsheet columns",
+        "Clean and extract parts of text",
+        "Filter out unwanted data",
+        "Customize posting JSON",
+        "Specify custom headers",
+        "Send import events to Slack",
+        "Create CSV files",
+        "3 CSV Generators",
+        "Up to 10,000 CSV file generations per month",
+        "Automatically send Email with generated CSV file",
+        "Automatically upload generated CSV file",
+        "PGP encryption for SFTP CSV Generations",
+        "GDPR Compliant",
+        "Real-person support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Generated CSV Rows",
+            "value": 1000
+          },
+          {
+            "name": "Import Duration",
+            "value": "15 minutes"
+          },
+          {
+            "name": "Imports per Hour",
+            "value": 120
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Custom plans for higher limits and additional features.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom spreadsheet upload forms",
+        "Longer imports/exports",
+        "Higher rows per sheet",
+        "Additional CSV generations",
+        "Custom filter rules",
+        "Custom security & data agreements"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:31:12.862640",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f82a32dd-7422-4aac-978e-ea4ad1e54de6",
+    "name": "EasyCSV",
+    "slug": "easycsv",
+    "description": "EasyCSV enables your users or team members to import CSV files and Google Sheets into your app or any public api.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/cb0fa5e4ebcd638b81571cabf681727e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Spreadsheets"
+    ],
+    "category_slugs": [
+      "spreadsheets"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 1
+  }
+}

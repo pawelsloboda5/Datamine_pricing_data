@@ -1,0 +1,252 @@
+{
+  "app_id": "craftmypdf",
+  "app_name": "CraftMyPDF",
+  "app_slug": "craftmypdf",
+  "pricing_url": "https://craftmypdf.com/pricing",
+  "source_url": "https://craftmypdf.com/pricing",
+  "all_pricing_urls": [
+    "https://craftmypdf.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer up to 17% savings compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic free plan for PDF generation.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "50 PDFs/Images",
+        "3 Templates",
+        "Integrations",
+        "REST API",
+        "Zapier",
+        "Integromat/Make",
+        "Bubble.io"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 50,
+        "api_calls": null,
+        "integrations": 3,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Lite",
+      "tier_description": "Entry-level paid plan.",
+      "monthly_price": 29.0,
+      "annual_price": 290.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "1200 PDFs/Images",
+        "6 Templates",
+        "Integrations",
+        "REST API",
+        "Zapier",
+        "Integromat/Make",
+        "Bubble.io",
+        "DPA",
+        "Email Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 1200,
+        "api_calls": null,
+        "integrations": 6,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Intermediate paid plan.",
+      "monthly_price": 49.0,
+      "annual_price": 490.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "3000 PDFs/Images",
+        "15 Templates",
+        "Integrations",
+        "REST API",
+        "Zapier",
+        "Integromat/Make",
+        "Bubble.io",
+        "DPA",
+        "Email Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 3000,
+        "api_calls": null,
+        "integrations": 15,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Advanced paid plan.",
+      "monthly_price": 99.0,
+      "annual_price": 990.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "12,000 PDFs/Images",
+        "50 Templates",
+        "Integrations",
+        "REST API",
+        "Zapier",
+        "Integromat/Make",
+        "Bubble.io",
+        "Create and Manage Teams",
+        "Bring Your Own Storage",
+        "Upload to AWS S3 directly",
+        "PDF Password Protection",
+        "DPA",
+        "Email Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "Bring Your Own Storage",
+        "operations": 12000,
+        "api_calls": null,
+        "integrations": 50,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Enterprise-level plan.",
+      "monthly_price": 299.0,
+      "annual_price": 2990.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "40,000 PDFs/Images",
+        "1,000 Templates",
+        "Integrations",
+        "REST API",
+        "Zapier",
+        "Integromat/Make",
+        "Bubble.io",
+        "Create and Manage Teams",
+        "Bring Your Own Storage",
+        "Upload to AWS S3 directly",
+        "PDF Password Protection",
+        "DPA",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "Bring Your Own Storage",
+        "operations": 40000,
+        "api_calls": null,
+        "integrations": 1000,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "High-volume enterprise plan.",
+      "monthly_price": 499.0,
+      "annual_price": 4990.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "150,000 PDFs/Images",
+        "10,000 Templates",
+        "Integrations",
+        "REST API",
+        "Zapier",
+        "Integromat/Make",
+        "Bubble.io",
+        "Create and Manage Teams",
+        "Bring Your Own Storage",
+        "Upload to AWS S3 directly",
+        "PDF Password Protection",
+        "DPA",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "Bring Your Own Storage",
+        "operations": 150000,
+        "api_calls": null,
+        "integrations": 10000,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Top-tier enterprise plan.",
+      "monthly_price": 799.0,
+      "annual_price": 7990.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "300,000 PDFs/Images",
+        "50,000 Templates",
+        "Integrations",
+        "REST API",
+        "Zapier",
+        "Integromat/Make",
+        "Bubble.io",
+        "Create and Manage Teams",
+        "Bring Your Own Storage",
+        "Upload to AWS S3 directly",
+        "PDF Password Protection",
+        "DPA",
+        "Priority Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "Bring Your Own Storage",
+        "operations": 300000,
+        "api_calls": null,
+        "integrations": 50000,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:07:01.866060",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "98219dbc-f23e-4e25-8861-14dd608a4f1e",
+    "name": "CraftMyPDF.com",
+    "slug": "craftmypdfcom",
+    "description": "CraftMyPDF.com allows you to create PDF documents from templates with a simple to use template editor and API.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/006128dee29a85cb012a4c66110d7c78_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Content & Files"
+    ],
+    "category_slugs": [
+      "content-files"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 7,
+    "trigger_count": 0
+  }
+}

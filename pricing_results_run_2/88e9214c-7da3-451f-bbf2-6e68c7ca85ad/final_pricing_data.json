@@ -1,0 +1,165 @@
+{
+  "app_id": "better_stack",
+  "app_name": "Better Stack",
+  "app_slug": "better-stack",
+  "pricing_url": null,
+  "source_url": "https://betterstack.com/pricing/",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes various subscription tiers and usage-based options for additional features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Users",
+      "tier_description": "Unlimited team members with free access to Telemetry.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited team members",
+        "Free access to Telemetry"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Responder",
+      "tier_description": "Access to Uptime with incident management and monitoring.",
+      "monthly_price": 34.0,
+      "annual_price": 29.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Incident management",
+        "Monitoring",
+        "Unlimited phone call and SMS alerts"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Monitoring",
+      "tier_description": "Advanced external monitoring for various applications.",
+      "monthly_price": 25.0,
+      "annual_price": 21.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited phone call alerts",
+        "Up to 30 seconds check frequency",
+        "Screenshots of errors",
+        "Unlimited SMS",
+        "HTTP(s) keyword checks",
+        "Multi-location & Geo-specific checks",
+        "Push notifications",
+        "TCP/UDP port monitoring",
+        "Multi-step incident verification",
+        "E-mail alerts",
+        "POP3/IMAP/SMTP",
+        "AI post-mortem analysis",
+        "Slack integration",
+        "SSL monitoring",
+        "Uptime SLA reporting",
+        "MS Teams integration",
+        "TLD expiration monitoring",
+        "Response time tracking",
+        "Zapier integration",
+        "DNS server monitoring",
+        "Traceroute & MTR diagnosis",
+        "REST API",
+        "Ping monitoring",
+        "Maintenance windows",
+        "Terraform provider",
+        "IPv6 support",
+        "Status pages",
+        "Webhooks"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": 10,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Additional monitors",
+            "value": "50 monitors"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Logs ingestion",
+      "unit": "per GB",
+      "base_price": 0.45,
+      "tiers": null
+    },
+    {
+      "metric_name": "Metrics retention",
+      "unit": "per GB per week",
+      "base_price": 0.025,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Custom CSS & JavaScript for status pages",
+      "fee_amount": 15.0,
+      "fee_description": "Per page per month"
+    },
+    {
+      "fee_name": "White-labeling for status pages",
+      "fee_amount": 250.0,
+      "fee_description": "Per page per month"
+    }
+  ],
+  "extraction_timestamp": "2025-04-14T23:42:59.520755",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "88e9214c-7da3-451f-bbf2-6e68c7ca85ad",
+    "name": "Better Stack",
+    "slug": "better-stack",
+    "description": "Better Stack is a tool to provide reliable monitoring with voice calls and beautiful on-call scheduling. Configure everything in just 3 minutes, free plan included!",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/6941510c3b26bafd61923eea1a71482f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Server Monitoring"
+    ],
+    "category_slugs": [
+      "server-monitoring"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 1
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "app_name": "ScreenshotOne",
+  "app_slug": "screenshotone",
+  "search_term": "Find the official pricing page URL for ScreenshotOne (screenshotone.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688984.1116896,
+  "response_text": [
+    "https://screenshotone.com/pricing"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://screenshotone.com/pricing",
+      "is_accessible": true,
+      "content": "\"Great support.\"\n\n\"It brings reliability to our business.\"\n\n\"It works like a charm.\"\n\nGet started for free\n\nCancel anytime, without any questions. Try **all the features** (except GPU rendering) with 100 free screenshots.\n\n\u2190 2 months free\n\n### Basic\n\nThe essentials to start rendering screenshots today.\n\n$17 /month\n\n[Try free \u2192](https://dash.screenshotone.com/sign-up)\n\n*   2,000 screenshots\n*   40 requests per minute\n*   $0.009 per extra\\*\n*   Block ads and cookie banners\n*   Render PDFs\n*   PNG, WebP, JPEG, or even HTML\n*   Full page screenshots\n*   Cache and CDN\n*   Upload to S3\n*   Zapier, webhooks, and signed links\n\n### Growth\n\nRecommended\n\nA plan that scales with your rapidly growing business.\n\n$79 /month\n\n[Try free \u2192](https://dash.screenshotone.com/sign-up)\n\n*   10,000 screenshots\n*   80 requests per minute\n*   $0.006 per extra\\*\n*   Block ads and cookie banners\n*   Render PDFs\n*   PNG, WebP, JPEG, or even HTML\n*   Full page screenshots\n*   Cache and CDN\n*   Upload to S3\n*   Zapier, webhooks, and signed links\n*   Choose IP location\n*   Scrolling screenshots\n*   Generate videos\n*   Priority Support\n\n### Scale\n\nPrioritized support and infrastructure for your company.\n\n$259 /month\n\n[Try free \u2192](https://dash.screenshotone.com/sign-up)\n\n*   50,000 screenshots\n*   150 requests per minute\n*   $0.004 per extra\\*\n*   Block ads and cookie banners\n*   Render PDFs\n*   PNG, WebP, JPEG, or even HTML\n*   Full page screenshots\n*   Cache and CDN\n*   Upload to S3\n*   Zapier, webhooks, and signed links\n*   Choose IP location\n*   Scrolling screenshots\n*   Generate videos\n*   GPU rendering\n*   Priority Support\n\n5 out of 5 stars\n\n> Awesome product that-just-works\u2122. Took me 10 minutes to add it to my (Rails) stack. Simple pricing. Great support. If you need something like a \"Screenshot as a Service\" API. Give it a try!\n\n![Image 1: Guillaume Barillot](https://screenshotone.com/_astro/guillaume_barillot.Dc7ZNHqP_ZSrgNw.webp)\n\nGuillaume Barillot\n\nCTO\n\nFrequently asked questions\n--------------------------\n\nYes, ScreenshotOne is a free screenshot API. You can take up to 100 screenshots of any URL for free per month, including rendering HTML and PDF.\n\nOnly successfully rendered screenshots are counted.\n\nOnly unique screenshots (unique combination of options) are counted that are not cached. However, we use CDN for caching, and if there is a cache miss, we might rerender the screenshot and count it against the monthly quota.\n\nYou will receive an email when you are at 90% and 100% usage of your monthly quota. Nevertheless, you can disable or enable these notifications if you wish.\n\nYes, included in every plan. Email us at support@screenshotone.com on what is missing and we will try to deliver as fast as possible.\n\nNo. Our payment processor, Paddle, handles all subscription management.\n\nYes, of course, you can do it anytime you wish. You need to navigate to the \"Subscription\" page and cancel your plan. You will no longer be charged, and you will be able to take screenshots until the end of the paid monthly limit.\n\nIf you are disappointed with your purchase for any reason, email us at support@screenshotone.com within 30 days, and we will refund you in full, no questions asked.\n\nScreenshotOne Pricing",
+      "error": null,
+      "pricing_data": {
+        "app_id": "screenshotone",
+        "app_name": "ScreenshotOne",
+        "app_slug": "screenshotone",
+        "pricing_url": "https://dash.screenshotone.com/sign-up",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://dash.screenshotone.com/sign-up"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The service offers a free tier with limited usage and additional screenshots are charged based on usage.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic",
+            "tier_description": "The essentials to start rendering screenshots today.",
+            "monthly_price": 17.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "2,000 screenshots",
+              "40 requests per minute",
+              "Block ads and cookie banners",
+              "Render PDFs",
+              "PNG, WebP, JPEG, or even HTML",
+              "Full page screenshots",
+              "Cache and CDN",
+              "Upload to S3",
+              "Zapier, webhooks, and signed links"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": 2000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "requests per minute",
+                  "value": 40
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Growth",
+            "tier_description": "A plan that scales with your rapidly growing business.",
+            "monthly_price": 79.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "10,000 screenshots",
+              "80 requests per minute",
+              "Block ads and cookie banners",
+              "Render PDFs",
+              "PNG, WebP, JPEG, or even HTML",
+              "Full page screenshots",
+              "Cache and CDN",
+              "Upload to S3",
+              "Zapier, webhooks, and signed links",
+              "Choose IP location",
+              "Scrolling screenshots",
+              "Generate videos",
+              "Priority Support"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": 10000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "requests per minute",
+                  "value": 80
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Scale",
+            "tier_description": "Prioritized support and infrastructure for your company.",
+            "monthly_price": 259.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "50,000 screenshots",
+              "150 requests per minute",
+              "Block ads and cookie banners",
+              "Render PDFs",
+              "PNG, WebP, JPEG, or even HTML",
+              "Full page screenshots",
+              "Cache and CDN",
+              "Upload to S3",
+              "Zapier, webhooks, and signed links",
+              "Choose IP location",
+              "Scrolling screenshots",
+              "Generate videos",
+              "GPU rendering",
+              "Priority Support"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": 50000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "requests per minute",
+                  "value": 150
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "extra screenshots",
+            "unit": "per screenshot",
+            "base_price": null,
+            "tiers": [
+              {
+                "min": 1.0,
+                "max": 2000.0,
+                "price": 0.009
+              },
+              {
+                "min": 2001.0,
+                "max": 10000.0,
+                "price": 0.006
+              },
+              {
+                "min": 10001.0,
+                "max": "unlimited",
+                "price": 0.004
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "2 months free",
+            "offer_description": "Get 2 months free when subscribing to an annual plan.",
+            "discount_percentage": null,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:49:56.459531",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\screenshotone\\20250414_234956"
+}

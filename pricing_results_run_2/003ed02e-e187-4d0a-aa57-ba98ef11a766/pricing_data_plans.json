@@ -1,0 +1,110 @@
+{
+  "app_id": "checkfront",
+  "app_name": "Checkfront",
+  "app_slug": "checkfront",
+  "pricing_url": "https://www.checkfront.com/plans",
+  "source_url": "https://www.checkfront.com/plans",
+  "all_pricing_urls": [
+    "https://www.checkfront.com/plans"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 21,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is subscription-based with no hidden fees.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "For small businesses starting out.",
+      "monthly_price": 29.0,
+      "annual_price": 290.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Basic booking management",
+        "Email support"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "5GB",
+        "operations": 1000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "For growing businesses.",
+      "monthly_price": 79.0,
+      "annual_price": 790.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Advanced booking management",
+        "Priority email support",
+        "Custom branding"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "20GB",
+        "operations": 5000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large businesses.",
+      "monthly_price": 149.0,
+      "annual_price": 1490.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Full booking management",
+        "Dedicated account manager",
+        "API access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:54:02.383777",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "003ed02e-e187-4d0a-aa57-ba98ef11a766",
+    "name": "Checkfront",
+    "slug": "checkfront",
+    "description": "Checkfront is the leading online booking management platform for tour and activity, rental, and accommodation operators worldwide.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/f95ce32c2250482868a72704d04aca34.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 3
+  }
+}

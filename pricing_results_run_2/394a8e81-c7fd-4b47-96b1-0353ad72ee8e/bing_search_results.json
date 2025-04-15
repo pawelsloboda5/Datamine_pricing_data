@@ -1,0 +1,19 @@
+{
+  "app_name": "Canopy",
+  "app_slug": "canopy",
+  "search_term": "Find the official pricing page URL for Canopy (canopy.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744712267.3877673,
+  "response_text": [
+    "The official pricing page for Canopy can be found here: [https://www.canopy.com/pricing](https://www.canopy.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.canopy.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 422"
+    }
+  ],
+  "results_directory": "pricing_results\\canopy\\20250415_061752"
+}

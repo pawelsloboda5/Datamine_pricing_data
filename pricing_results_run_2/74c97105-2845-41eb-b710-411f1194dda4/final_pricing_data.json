@@ -1,0 +1,190 @@
+{
+  "app_id": "lemlist",
+  "app_name": "lemlist",
+  "app_slug": "lemlist",
+  "pricing_url": "https://app.lemlist.com/create-account?r=0",
+  "source_url": "https://www.lemlist.com/pricing?r=0",
+  "all_pricing_urls": [
+    "https://app.lemlist.com/create-account?r=0"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription tiers with additional usage-based fees for certain features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Plan",
+      "tier_description": "Basic access to lemlist features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Find, verify, and export up to 100 leads\u2019 emails or 25 phone numbers each month"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "emails per month",
+            "value": 100
+          },
+          {
+            "name": "phone numbers per month",
+            "value": 25
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Email Pro",
+      "tier_description": "For growing teams.",
+      "monthly_price": 55.0,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Free 200 emails or 50 phone numbers per month",
+        "Unlimited with paid credits",
+        "450M+ leads database",
+        "Unlimited LinkedIn leads export",
+        "Unlimited email campaigns & follow-ups",
+        "Personalization at scale",
+        "AI-powered outreach",
+        "CRM integration",
+        "Emails warm-up & deliverability boost",
+        "Live lead monitoring & custom reports"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "sending emails per user",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Multichannel Expert",
+      "tier_description": "For scaling businesses.",
+      "monthly_price": 79.0,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in the Email Pro",
+        "Free 300 emails, or 75 phone numbers, or 475 call minutes per month",
+        "Unlimited with paid credits",
+        "Automated LinkedIn actions",
+        "In-app calling",
+        "Conditioned sequence steps",
+        "Centralized multichannel inbox",
+        "Intents & signals targeting",
+        "Custom landing pages",
+        "Campaign templates",
+        "API, webhooks, & integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "sending emails per user",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in the Multichannel Expert",
+        "Unlimited guest seats",
+        "Free 500 emails, or 125 phone numbers, or 800 call minutes per month",
+        "Unlimited with paid credits",
+        "Custom user roles & permissions",
+        "Activity logs",
+        "Personalized onboarding",
+        "Dedicated account manager",
+        "Premium support",
+        "Custom terms of use",
+        "Payment by wire transfer or SEPA",
+        "Yearly commitment with quarterly payments",
+        "Advanced API access",
+        "Advanced login security",
+        "Custom credits assignment"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "sending emails per user",
+            "value": 5
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional sending email",
+      "unit": "per email per month",
+      "base_price": 9.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:56:52.824333",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "74c97105-2845-41eb-b710-411f1194dda4",
+    "name": "lemlist",
+    "slug": "lemlist",
+    "description": "lemlist is an outreach email platform with personalized images and videos.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/3ee796183a6943d416d9c6999a52d22d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Drip Emails"
+    ],
+    "category_slugs": [
+      "drip-emails"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 18,
+    "trigger_count": 1
+  }
+}

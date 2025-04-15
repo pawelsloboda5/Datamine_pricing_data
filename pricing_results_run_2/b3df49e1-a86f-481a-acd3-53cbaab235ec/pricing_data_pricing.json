@@ -1,0 +1,165 @@
+{
+  "app_id": "ringover",
+  "app_name": "Ringover",
+  "app_slug": "ringover",
+  "pricing_url": "https://www.ringover.com/pricing",
+  "source_url": "https://www.ringover.com/pricing",
+  "all_pricing_urls": [
+    "https://www.ringover.com/pricing",
+    "https://www.ringover.com/empower/pricing",
+    "https://www.ringover.com/cadence/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer discounts up to 27%.",
+  "pricing_tiers": [
+    {
+      "tier_name": "SMART",
+      "tier_description": "A friendly and flexible cloud phone system for your company\u2019s everyday needs.",
+      "monthly_price": 29.0,
+      "annual_price": 21.0,
+      "annual_discount_percentage": 27.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited calls to 110 destinations",
+        "Local number from 43 countries",
+        "Mobile, web, and desktop applications",
+        "IVR and call forwarding",
+        "Call logs and recordings",
+        "Call and voicemail transcription and summary",
+        "Click-to-call",
+        "Video conference, instant messaging",
+        "Access to our API"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "BUSINESS",
+      "tier_description": "A 100% integrated cloud solution that empowers team management and support.",
+      "monthly_price": 54.0,
+      "annual_price": 44.0,
+      "annual_discount_percentage": 18.52,
+      "setup_fee": null,
+      "features": [
+        "All SMART features",
+        "Local number from 65 countries",
+        "Advanced IVR (smart routing, call groups, call queues)",
+        "2 integrations",
+        "Advanced analytics",
+        "Coaching (double listening, whispering)",
+        "Access to our webhooks"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": 2,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "ADVANCED",
+      "tier_description": "Advanced communication and productivity features to boost your business.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All BUSINESS features",
+        "Call campaigns",
+        "Power Dialer",
+        "Call scripts",
+        "Voicemail drop",
+        "Local Presence Dialing",
+        "3 integrations",
+        "Single Sign-On"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": 3,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "WhatsApp messaging",
+      "unit": "per message",
+      "base_price": 0.04,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.04
+        }
+      ]
+    },
+    {
+      "metric_name": "MMS",
+      "unit": "per message",
+      "base_price": 0.05,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": "unlimited",
+          "price": 0.05
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Brand application fee",
+      "fee_amount": 4.0,
+      "fee_description": "Required for all businesses for brand registration."
+    },
+    {
+      "fee_name": "Campaign vetting fee",
+      "fee_amount": 15.0,
+      "fee_description": "Required for all businesses for campaign registration."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:26:21.058921",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "b3df49e1-a86f-481a-acd3-53cbaab235ec",
+    "name": "Ringover",
+    "slug": "ringover",
+    "description": "Ringover is an all-in-one communication app that keeps you connected to colleagues and clients via phone, video, SMS & chat.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/269e355ba92737f5e4cbbfbf912a9ad4.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 2
+  }
+}

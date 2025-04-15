@@ -1,0 +1,155 @@
+{
+  "app_id": "clubworx",
+  "app_name": "Clubworx",
+  "app_slug": "clubworx",
+  "pricing_url": null,
+  "source_url": "https://www.clubworx.com/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and additional features available at higher tiers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic plan with limited features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Active Members: 20",
+        "Flexible Membership Plans Class Passes & Automatic Payments",
+        "Contact Management (CRM)",
+        "Member Alerts",
+        "Attendance Tracking"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Growing",
+      "tier_description": "Plan for growing businesses.",
+      "monthly_price": 109.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Active Members: 100",
+        "Flexible Membership Plans Class Passes & Automatic Payments",
+        "Contact Management (CRM)",
+        "Member Alerts",
+        "Attendance Tracking",
+        "Chat, Email and Phone Support"
+      ],
+      "limits": {
+        "users": 100,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Accelerating",
+      "tier_description": "Plan for accelerating businesses.",
+      "monthly_price": 149.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Active Members: 250",
+        "Flexible Membership Plans Class Passes & Automatic Payments",
+        "Contact Management (CRM)",
+        "Member Alerts",
+        "Attendance Tracking",
+        "Chat, Email and Phone Support",
+        "1:1 Onboarding with a Customer Success Specialist"
+      ],
+      "limits": {
+        "users": 250,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Established",
+      "tier_description": "Plan for established businesses.",
+      "monthly_price": 169.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Active Members: Unlimited",
+        "Flexible Membership Plans Class Passes & Automatic Payments",
+        "Contact Management (CRM)",
+        "Member Alerts",
+        "Attendance Tracking",
+        "Chat, Email and Phone Support",
+        "1:1 Onboarding with a Customer Success Specialist"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Mobile member app",
+      "fee_amount": 100.0,
+      "fee_description": "Additional cost per month for mobile member app."
+    },
+    {
+      "fee_name": "Martial Arts Grading Events",
+      "fee_amount": 10.0,
+      "fee_description": "Additional cost per month for martial arts grading events."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:02:55.352648",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "86b01e1c-9f28-4846-9a4e-0ac505f1fccf",
+    "name": "Clubworx",
+    "slug": "clubworx",
+    "description": "Clubworx is a gym management application.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/4353879d225f0353a83435dbfb6e603b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 7
+  }
+}

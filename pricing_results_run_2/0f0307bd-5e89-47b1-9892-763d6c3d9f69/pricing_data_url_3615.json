@@ -1,0 +1,63 @@
+{
+  "app_id": "amazon_sns",
+  "app_name": "Amazon Simple Notification Service (SNS)",
+  "app_slug": "amazon-sns",
+  "pricing_url": "https://aws.amazon.com/sns/pricing/",
+  "source_url": "https://aws.amazon.com/sns/pricing/",
+  "all_pricing_urls": [
+    "https://aws.amazon.com/sns/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Amazon SNS pricing is based on usage metrics such as the number of messages published, delivered, and the type of endpoints used.",
+  "pricing_tiers": null,
+  "usage_based_pricing": [
+    {
+      "metric_name": "Number of messages published",
+      "unit": "per million messages",
+      "base_price": 0.5,
+      "tiers": null
+    },
+    {
+      "metric_name": "Number of messages delivered",
+      "unit": "per million messages",
+      "base_price": 0.6,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:50:23.958042",
+  "schema_validated": true,
+  "confidence_score": 70,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "0f0307bd-5e89-47b1-9892-763d6c3d9f69",
+    "name": "Amazon SNS",
+    "slug": "amazon-sns",
+    "description": "Amazon Simple Notification Service is a flexible, and fast messaging service which is fully managed. SNS is a simple and cost-effective method to message both distributed services and human recipients.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/4dbcca7d3eb1ceff95275d3930feb460.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Amazon",
+      "Notifications"
+    ],
+    "category_slugs": [
+      "aws",
+      "notifications"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 2
+  }
+}

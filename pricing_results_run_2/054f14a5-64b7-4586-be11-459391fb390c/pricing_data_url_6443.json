@@ -1,0 +1,43 @@
+{
+  "app_id": "zenkit",
+  "app_name": "Zenkit",
+  "app_slug": "zenkit",
+  "pricing_url": null,
+  "source_url": "https://zenkit.com/en/suite/pricing/",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The content provided does not include specific pricing details.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:37:29.536823",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "054f14a5-64b7-4586-be11-459391fb390c",
+    "name": "Zenkit",
+    "slug": "zenkit",
+    "description": "Zenkit is a flexible workspace you can use to organize the things you care about, in the way that suits you best.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/ba35d4a5385b8c925e9092a8c9fc5291.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "todo-lists"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 3
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "app_id": "hootsuite",
+  "app_name": "Hootsuite",
+  "app_slug": "hootsuite",
+  "pricing_url": "https://hootsuite.com/billing/create-account",
+  "source_url": "https://www.hootsuite.com/plans",
+  "all_pricing_urls": [
+    "https://hootsuite.com/billing/create-account"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing varies by user count and tier, with additional features available for higher tiers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": null,
+      "monthly_price": 99.0,
+      "annual_price": 1188.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Connect accounts to publish, schedule, and manage all your content in one place.",
+        "Includes notification management",
+        "Unlimited publishing and content curation",
+        "Includes AI content and ideas generator",
+        "Includes AI caption enhancements",
+        "Includes AI hashtag suggestions",
+        "Includes design with Canva templates",
+        "Includes free stock photos and Giphy library",
+        "Includes social content calendar exporting",
+        "Includes link shortening and tracking",
+        "Includes digital media editing",
+        "Includes asset and content library",
+        "Includes target audience settings",
+        "Includes discover trending topics",
+        "Includes post performance reports",
+        "Includes multiple networks reporting",
+        "Includes industry benchmarking",
+        "Includes best times to publish charts",
+        "Includes social performance score",
+        "Includes personalized recommendations",
+        "Includes basic report exporting",
+        "Includes basic report scheduling",
+        "Includes all-in-one centralized inbox",
+        "Includes DM automations",
+        "Includes conversation and contact notes",
+        "Includes message masking",
+        "Includes quick search (7 days)",
+        "Includes sentiment analysis",
+        "Includes image recognition",
+        "Includes peak detection",
+        "Includes basic data sources",
+        "Includes results exporting",
+        "Includes social ads publishing and scheduling",
+        "Includes social ads analytics and reporting",
+        "Includes boost posts across networks",
+        "Includes automatically boost Facebook posts"
+      ],
+      "limits": {
+        "users": "1+",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Connect accounts",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Most popular",
+      "monthly_price": 249.0,
+      "annual_price": 2988.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes all Standard features",
+        "Includes approval workflows",
+        "Includes internal comments",
+        "Includes link in bio tool (Hootbio)",
+        "Includes bulk scheduling",
+        "Includes custom-branded URLs (vanity URLs)",
+        "Includes automated link tracking and shortening",
+        "Includes integrate with Bitly",
+        "Includes suspend scheduled posts",
+        "Includes outbound message tagging",
+        "Includes customizable reports and templates",
+        "Includes advanced report exporting",
+        "Includes share analytics reports within Hootsuite",
+        "Includes export to an external email",
+        "Includes team productivity reporting",
+        "Includes analytics report notes",
+        "Includes add logo or image to report",
+        "Includes tags and tag automations",
+        "Includes topics and topic automations",
+        "Includes inbox team productivity reporting",
+        "Includes inbox search",
+        "Includes cross-channel conversation history",
+        "Includes set your business hours",
+        "Includes agent collision avoidance",
+        "Includes chat with other agents",
+        "Includes configurable auto-resolve conversations",
+        "Includes resolve reasons",
+        "Includes skill-based routing",
+        "Includes customer service surveys and notifications",
+        "Includes data export",
+        "Includes build complete contact profiles",
+        "Includes forecasting"
+      ],
+      "limits": {
+        "users": "1+",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Connect accounts",
+            "value": "unlimited"
+          },
+          {
+            "name": "Competitors",
+            "value": 20
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes all Advanced features",
+        "Includes generative AI chatbot",
+        "Includes Salesforce integration",
+        "Includes advanced data sources",
+        "Includes alerts",
+        "Includes scheduled reports",
+        "Includes employee advocacy",
+        "Includes advanced analytics for social attribution",
+        "Includes advanced inbox for social customer care",
+        "Includes listening solutions powered by Talkwalker",
+        "Includes monitor brand reviews"
+      ],
+      "limits": {
+        "users": "5+",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Connect accounts",
+            "value": "unlimited"
+          },
+          {
+            "name": "Competitors",
+            "value": 20
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Custom",
+      "tier_description": "Contact for pricing",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Customizable features and limits based on organizational needs"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": {
+    "has_token_based_pricing": false,
+    "input_token_price": null,
+    "output_token_price": null,
+    "models_pricing": null,
+    "has_inference_pricing": false,
+    "has_fine_tuning_pricing": false,
+    "has_training_pricing": false,
+    "ai_addon_available": true
+  },
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:14:47.348675",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c6b94d69-0f20-4739-a322-673b56983707",
+    "name": "Hootsuite",
+    "slug": "hootsuite",
+    "description": "Hootsuite is the leading social media dashboard allowing you to manage multiple networks and profiles and measure your campaign results.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/7a4956c54c153fcbc7c967d15ed2f00b.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Social Media Marketing"
+    ],
+    "category_slugs": [
+      "social-marketing"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 4,
+    "trigger_count": 1
+  }
+}

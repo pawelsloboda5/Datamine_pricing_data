@@ -1,0 +1,104 @@
+{
+  "app_id": "you_need_a_budget",
+  "app_name": "You Need A Budget",
+  "app_slug": "you-need-a-budget",
+  "pricing_url": "https://www.youneedabudget.com/pricing",
+  "source_url": "https://www.youneedabudget.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.youneedabudget.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 34,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes monthly and annual subscription options with a free trial available.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Monthly Plan",
+      "tier_description": "Monthly subscription plan.",
+      "monthly_price": 14.99,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to all YNAB features",
+        "Share subscription with up to 6 people"
+      ],
+      "limits": {
+        "users": "6",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Annual Plan",
+      "tier_description": "Annual subscription plan with savings.",
+      "monthly_price": 9.08,
+      "annual_price": 109.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Access to all YNAB features",
+        "Share subscription with up to 6 people"
+      ],
+      "limits": {
+        "users": "6",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Referral Program",
+      "offer_description": "Receive an additional free month when referred by a friend.",
+      "discount_percentage": null,
+      "offer_url": "https://www.youneedabudget.com/referral-program",
+      "valid_until": null
+    },
+    {
+      "offer_name": "College Program",
+      "offer_description": "Free 365-day trial for college students.",
+      "discount_percentage": null,
+      "offer_url": "https://www.youneedabudget.com/college",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:33:32.069025",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d5971a3a-5604-4b5c-8df4-d4b5f258005d",
+    "name": "You Need A Budget",
+    "slug": "you-need-a-budget",
+    "description": "You Need A Budget is a tool to help you gain total control of your money, living paycheck to paycheck, get out of debt, and save more money.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/263a3c8cc65abca4b2146f1024ff5eb2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 15
+  }
+}

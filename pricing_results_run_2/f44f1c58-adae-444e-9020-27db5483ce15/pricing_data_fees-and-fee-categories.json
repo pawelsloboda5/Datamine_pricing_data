@@ -1,0 +1,43 @@
+{
+  "app_id": "ebay",
+  "app_name": "eBay",
+  "app_slug": "ebay",
+  "pricing_url": null,
+  "source_url": "https://www.ebay.com/seller-center/payments-and-fees/fees-and-fee-categories",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The provided content does not include specific pricing information for eBay.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:22:44.594758",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f44f1c58-adae-444e-9020-27db5483ce15",
+    "name": "eBay",
+    "slug": "ebay",
+    "description": "eBay is a premier auction site that allows anyone to buy and sell goods, from individuals to retailers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/84c647027dbb9ddff799ca5ece59f05f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "app_id": "keeper",
+  "app_name": "Keeper",
+  "app_slug": "keeper",
+  "pricing_url": "https://www.keepersecurity.com/pricing.html",
+  "source_url": "https://www.keepersecurity.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.keepersecurity.com/pricing.html",
+    "https://www.keepersecurity.com/pricing/business-and-enterprise.html",
+    "https://www.keepersecurity.com/pricing/personal-and-family.html"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page was not directly accessible, but multiple links to pricing details for different user categories were provided.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:16:56.796906",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "518e024c-8180-484e-a867-68327a9c4597",
+    "name": "Keeper",
+    "slug": "keeper",
+    "description": "Keeper is an app to run your bookkeeping business: communicate with clients, catch coding errors, track KPIs, and manage your work.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/60d8dacc7cae0f13572692a2eff0a19f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Business Intelligence"
+    ],
+    "category_slugs": [
+      "business-intelligence"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 2
+  }
+}

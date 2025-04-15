@@ -1,0 +1,124 @@
+{
+  "app_id": "phone_com",
+  "app_name": "Phone.com",
+  "app_slug": "phone-com",
+  "pricing_url": "https://www.phone.com/pricing/",
+  "source_url": "https://www.phone.com/pricing.",
+  "all_pricing_urls": [
+    "https://www.phone.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers a 17% discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "For small teams",
+      "monthly_price": 15.0,
+      "annual_price": 180.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited minutes",
+        "1 phone number per account",
+        "Mobile and web apps",
+        "50 standard voice features Including IVR",
+        "Video conferencing"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "For growing teams",
+      "monthly_price": 22.5,
+      "annual_price": 269.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Basic",
+        "AI-Connect Answering",
+        "1 phone number per user",
+        "IP Desk Phone Compatible",
+        "Voicemail Transcription",
+        "Enterprise Business Texting"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For big teams",
+      "monthly_price": 33.33,
+      "annual_price": 399.0,
+      "annual_discount_percentage": 17.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Plus",
+        "Call Recording",
+        "Call Analytics",
+        "CRM Integration",
+        "10 year data retention"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Additional minutes for Basic users",
+      "fee_amount": 0.039,
+      "fee_description": "Charged per minute for usage exceeding 500 minutes per month for Basic users."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:39:03.416965",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "63638413-6c5f-4916-8fed-bb2c238cb2bd",
+    "name": "Phone.com",
+    "slug": "phone-com",
+    "description": "Phone.com app allows you to send and receive SMS, integrate CRM, get events on calls and call logs and generate calls.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/887be53e24e5b23b2b61203017496474_10.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 7
+  }
+}

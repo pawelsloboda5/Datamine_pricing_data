@@ -1,0 +1,193 @@
+{
+  "app_id": "docparser",
+  "app_name": "Docparser",
+  "app_slug": "docparser",
+  "pricing_url": "https://docparser.com/pricing/",
+  "source_url": "https://docparser.com/pricing/",
+  "all_pricing_urls": [
+    "https://docparser.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes monthly and yearly subscription options with varying parsing credits and features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Great for individuals tired of manually extracting data trapped inside of their documents.",
+      "monthly_price": 3900.0,
+      "annual_price": 3250.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "1200 Parsing Credits Per Year",
+        "Create up to 15 different parsers",
+        "Premium Template Access",
+        "Smart Checkboxes",
+        "Parse PDF, Word & Image Files",
+        "Download to Excel, CSV, JSON, XML",
+        "Google Sheets Export Integration",
+        "Access to 100\u2019s of Other Integrations",
+        "Beginners Webinar, Articles + Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Parsing Credits",
+            "value": "1200 per year"
+          },
+          {
+            "name": "Parsers",
+            "value": 15
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Perfect for professionals getting serious about data extraction and workflow automation.",
+      "monthly_price": 7400.0,
+      "annual_price": 6150.0,
+      "annual_discount_percentage": 16.89,
+      "setup_fee": null,
+      "features": [
+        "3000 Parsing Credits Per Year",
+        "Create up to 50 different parsers",
+        "Multifactor Authentication",
+        "Teams & Managed Users",
+        "Smart Tables",
+        "1 Free Parsing Setup"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Parsing Credits",
+            "value": "3000 per year"
+          },
+          {
+            "name": "Parsers",
+            "value": 50
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "Automate entire business processes with document parsing and cloud integrations.",
+      "monthly_price": 15900.0,
+      "annual_price": 13300.0,
+      "annual_discount_percentage": 16.35,
+      "setup_fee": null,
+      "features": [
+        "12000 Parsing Credits Per Year",
+        "Create up to 500 different parsers",
+        "Parser Version Control",
+        "Multi-Layout Parsers",
+        "Priority Support",
+        "Priority Parsing Access"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Parsing Credits",
+            "value": "12000 per year"
+          },
+          {
+            "name": "Parsers",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Need more? Build a package tailored to your specific parsing requirements.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom Parsing Credits Per Year",
+        "Unlimited Parsers",
+        "Extended Document Retention",
+        "White Labeling License"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Parsing Credits",
+            "value": "Custom"
+          },
+          {
+            "name": "Parsers",
+            "value": "Unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Parsing Assistant",
+      "fee_amount": null,
+      "fee_description": "Customized parser setup for recurring documents."
+    },
+    {
+      "fee_name": "Extended Retention",
+      "fee_amount": null,
+      "fee_description": "Option for extended document retention within the account."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:17:23.290116",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e7a331bd-edc7-4bc3-8509-b8e788e69d11",
+    "name": "Docparser",
+    "slug": "docparser",
+    "description": "Docparser converts your PDF documents into structured and easy-to-handle data. With Docparser you can pull out specific data fields (e.g. Purchase Order Number, Date, Shipping Address, ...) and tabular data from your documents.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/ca439d506eb20f596d9bf205e51ba673.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Documents"
+    ],
+    "category_slugs": [
+      "documents"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 1
+  }
+}

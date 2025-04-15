@@ -1,0 +1,88 @@
+{
+  "app_id": "precisefp",
+  "app_name": "PreciseFP",
+  "app_slug": "precisefp",
+  "pricing_url": "https://precisefp.com/pricing/",
+  "source_url": "https://precisefp.com/pricing/",
+  "all_pricing_urls": [
+    "https://precisefp.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes additional costs for users, teams, and account profiles.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Standard",
+      "tier_description": "For small businesses and solo practitioners",
+      "monthly_price": 89.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": null,
+      "limits": null
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For businesses with +10 employees",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": null,
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional User",
+      "unit": "per user per month",
+      "base_price": 49.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Additional Team",
+      "unit": "per team per month",
+      "base_price": 25.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "100 Account Profiles",
+      "unit": "per 100 profiles per month",
+      "base_price": 15.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:36:42.625316",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "119fc878-7767-45cf-9b9b-d8e8320e191c",
+    "name": "PreciseFP",
+    "slug": "precisefp",
+    "description": "PreciseFP is a data management platform that helps with your data-gathering process and automates your administrative work.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/0ea419be24f5e1c1094d7d125f2cbf8d_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 7
+  }
+}

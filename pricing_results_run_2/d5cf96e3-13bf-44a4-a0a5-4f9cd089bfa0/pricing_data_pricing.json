@@ -1,0 +1,222 @@
+{
+  "app_id": "wistia",
+  "app_name": "Wistia",
+  "app_slug": "wistia",
+  "pricing_url": "https://wistia.com/pricing",
+  "source_url": "https://wistia.com/pricing",
+  "all_pricing_urls": [
+    "https://wistia.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and multiple subscription plans with annual billing discounts.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free forever plan with basic features.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Up to 10 videos",
+        "Customizable player",
+        "Recording and editing"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "200 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Included Media",
+            "value": 10
+          },
+          {
+            "name": "Media Limit",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Plus",
+      "tier_description": "Basic plan with additional features.",
+      "monthly_price": 19.0,
+      "annual_price": 230.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Free",
+        "Remove Wistia Branding",
+        "Basic CTAs",
+        "Multiple users"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "1 TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Included Media",
+            "value": 20
+          },
+          {
+            "name": "Media Limit",
+            "value": 75
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced plan with enhanced features.",
+      "monthly_price": 79.0,
+      "annual_price": 950.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Plus",
+        "Lead capture forms",
+        "Enhanced data analytics",
+        "Webinar hosting"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "1 TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Included Media",
+            "value": 50
+          },
+          {
+            "name": "Media Limit",
+            "value": 500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Advanced",
+      "tier_description": "Comprehensive plan for professional use.",
+      "monthly_price": 319.0,
+      "annual_price": 3830.0,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Pro",
+        "Marketing integrations",
+        "Unlimited video galleries",
+        "Custom branded webinars"
+      ],
+      "limits": {
+        "users": 20,
+        "storage": "1 TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Included Media",
+            "value": 250
+          },
+          {
+            "name": "Media Limit",
+            "value": 2000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Custom plan for enterprise needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Customizable features and limits"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "2 TB+",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Media Limit",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Extra Media Cost",
+      "unit": "per media file",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": 2.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Live Event Additional Costs",
+      "unit": "per minute and attendee",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": null,
+          "price": 1.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:59:08.834403",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "d5cf96e3-13bf-44a4-a0a5-4f9cd089bfa0",
+    "name": "Wistia",
+    "slug": "wistia",
+    "description": "Wistia makes it easy to track and measure video engagement online. Upload your own videos to Wistia's professional video hosting services and let them take care of the rest.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/fd6e266b406bceaa0f9cfa626853aebb.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Video & Audio"
+    ],
+    "category_slugs": [
+      "video"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 4
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "app_id": "ashby",
+  "app_name": "Ashby",
+  "app_slug": "ashby",
+  "pricing_url": "https://www.ashbyhq.com/pricing",
+  "source_url": "https://www.ashbyhq.com/pricing",
+  "all_pricing_urls": [
+    "https://www.ashbyhq.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing varies based on company size, usage, and commitment. Discounts available for annual commitments and emerging markets.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Foundations Plan",
+      "tier_description": "Up to 100 employees",
+      "monthly_price": 400.0,
+      "annual_price": 4320.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "All-in-one recruiting solution",
+        "Scales with company growth"
+      ],
+      "limits": {
+        "users": "100",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Plus Plan",
+      "tier_description": "Best for 101 - 1000 employees",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Built for scale",
+        "Comprehensive recruiting solution"
+      ],
+      "limits": {
+        "users": "1000",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise Plan",
+      "tier_description": "Best for 1,000+ employees",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Enterprise-grade solution",
+        "Supports large organizations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Usage",
+      "unit": null,
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Annual Commitment Discount",
+      "offer_description": "10% discount for annual commitments",
+      "discount_percentage": 10.0,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Emerging Market Pricing",
+      "offer_description": "Special pricing for emerging markets",
+      "discount_percentage": null,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:39:42.284743",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "a7632980-9df3-4e0e-b5e6-1fb2cca979b0",
+    "name": "Ashby",
+    "slug": "ashby",
+    "description": "Ashby's all-in-one recruiting software consolidates your ATS, Analytics, Scheduling, and CRM.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/cb9182b95a49b07a8d43c4e68279d922_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "HR Talent & Recruitment"
+    ],
+    "category_slugs": [
+      "hr"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 14,
+    "trigger_count": 10
+  }
+}

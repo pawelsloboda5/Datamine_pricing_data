@@ -1,0 +1,169 @@
+{
+  "app_id": "lmn",
+  "app_name": "LMN",
+  "app_slug": "lmn",
+  "pricing_url": "https://golmn.com/pricing/",
+  "source_url": "https://golmn.com/pricing/",
+  "all_pricing_urls": [
+    "https://golmn.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes tiered plans with additional licenses and features available for purchase.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "Built for growing companies, the Starter plan comes with the essential LMN features you need to get and stay profitable.",
+      "monthly_price": 297.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "1 office/crew lead license",
+        "5 crew member licenses"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Office/Crew Lead Licenses",
+            "value": 1
+          },
+          {
+            "name": "Crew Member Licenses",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Operational efficiency is the key to sustainable growth. Reduce waste and improve your field communication with the Professional plan.",
+      "monthly_price": 598.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "3 office/crew lead licenses",
+        "15 crew member licenses",
+        "Additional licenses available for a fee"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Office/Crew Lead Licenses",
+            "value": 3
+          },
+          {
+            "name": "Crew Member Licenses",
+            "value": 15
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "With multi-locations, analytics and ongoing one-on-one support, LMN scales to support your business \u2013 no matter how big.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "15 office/crew lead licenses",
+        "35 crew member licenses",
+        "Includes Greenius and 40 training seats",
+        "Additional LMN licenses and Greenius seats available for a fee"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Office/Crew Lead Licenses",
+            "value": 15
+          },
+          {
+            "name": "Crew Member Licenses",
+            "value": 35
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "SMS",
+      "unit": "per message",
+      "base_price": 0.06,
+      "tiers": [
+        {
+          "min": 1.0,
+          "max": 500.0,
+          "price": 30.0
+        },
+        {
+          "min": 501.0,
+          "max": 2000.0,
+          "price": 0.06
+        }
+      ]
+    },
+    {
+      "metric_name": "Greenius Training Seats",
+      "unit": "per seat",
+      "base_price": 9.97,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "SMS Add-on",
+      "fee_amount": 75.0,
+      "fee_description": "One-time fee for SMS feature activation."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T02:55:41.362508",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "156ac85f-ea20-48a8-b812-12fca761efc5",
+    "name": "LMN",
+    "slug": "lmn",
+    "description": "Landscape Management Network is business management software designed for landscape contractors.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/083e3184d7989eb567aa132383c7cb8e.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 2
+  }
+}

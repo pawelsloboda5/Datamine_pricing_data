@@ -1,0 +1,12 @@
+{
+  "app_name": "Grade.us",
+  "app_slug": "grade-us",
+  "search_term": "Find the official pricing page URL for Grade.us (grade-us.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744702022.5856574,
+  "response_text": [
+    "I couldn't locate the official pricing page URL for Grade.us on their website. You might need to check their site directly or contact their support for the exact page."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\grade-us\\20250415_032704"
+}

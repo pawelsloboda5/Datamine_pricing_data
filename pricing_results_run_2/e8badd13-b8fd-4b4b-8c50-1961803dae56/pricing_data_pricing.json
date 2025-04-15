@@ -1,0 +1,167 @@
+{
+  "app_id": "databox",
+  "app_name": "Databox",
+  "app_slug": "databox",
+  "pricing_url": "https://databox.com/pricing",
+  "source_url": "https://databox.com/pricing",
+  "all_pricing_urls": [
+    "https://databox.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and multiple subscription plans with varying features and limits.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Forever",
+      "tier_description": "Daily monitoring of your most-important metrics for up to 3 data sources.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Daily monitoring of metrics",
+        "3 data sources",
+        "3 users",
+        "Daily data updates",
+        "3 dashboards",
+        "11 months of historical data"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "5GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": 3,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Starter",
+      "tier_description": "Basic features for high-level performance management and reporting.",
+      "monthly_price": 47.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 users",
+        "Data updated every 4 hours",
+        "Unlimited dashboards",
+        "11 months of historical data"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "20GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": 3,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Custom analytics capabilities for monitoring KPIs from any data source.",
+      "monthly_price": 159.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited users",
+        "Hourly data updates",
+        "Unlimited dashboards",
+        "24 months of historical data"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "20GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": 3,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "AI-enhanced analytics & advanced performance management.",
+      "monthly_price": 319.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited users",
+        "Hourly data updates",
+        "Unlimited dashboards",
+        "Unlimited historical data"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "20GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": 3,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "All features & most add-ons with unlimited usage and enterprise-level security.",
+      "monthly_price": 799.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "100 data sources",
+        "Hourly data updates",
+        "Unlimited dashboards",
+        "Unlimited historical data"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": 100,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Additional Data Source",
+      "fee_amount": 5.6,
+      "fee_description": "Monthly cost per additional data source beyond the included limit."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:13:35.583894",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e8badd13-b8fd-4b4b-8c50-1961803dae56",
+    "name": "Databox",
+    "slug": "databox",
+    "description": "Databox is a business analytics platform built to help you understand what's going on with your business and keep KPIs from cloud services, spreadsheets, databases in one place.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/5440f64542925612e1ba89bd4eb16978.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Dashboards"
+    ],
+    "category_slugs": [
+      "dashboards"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "app_id": "onfleet",
+  "app_name": "Onfleet",
+  "app_slug": "onfleet",
+  "pricing_url": "https://onfleet.com/pricing",
+  "source_url": "https://onfleet.com/pricing",
+  "all_pricing_urls": [
+    "https://onfleet.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription plans with task limits and optional telephony services.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Launch",
+      "tier_description": "All the basics for new and small teams",
+      "monthly_price": 599.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes 2,500 delivery or pickup tasks",
+        "Unlimited users",
+        "Driver app",
+        "Photo and signature proof of delivery",
+        "Driver-dispatcher chat",
+        "Route optimization",
+        "Status and ETA-triggered notifications",
+        "Driver pay calculation",
+        "90-day historical reporting",
+        "Custom fields",
+        "Ready-to-use integrations",
+        "API & webhook access",
+        "Email and scheduled phone support",
+        "Branded tracking experience"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 2500,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Scale",
+      "tier_description": "Advanced tools for growing delivery operations",
+      "monthly_price": 1299.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Launch",
+        "Includes 5,000 delivery or pickup tasks",
+        "Barcode scanning",
+        "ID scanning and age verification",
+        "Customized completion requirements",
+        "Advanced route optimization (with API access)",
+        "Dynamic ETA notifications",
+        "Auto-dispatch",
+        "Operational Command Center",
+        "1-year historical reporting",
+        "Guided onboarding",
+        "Dedicated customer success manager"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 5000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Customized solutions for established delivery operations",
+      "monthly_price": 2999.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Scale",
+        "10,000+ delivery or pickup tasks",
+        "Multi-brand and multi-region support",
+        "Enhanced branding and telephony capabilities",
+        "Enterprise SSO",
+        "Lifetime historical reporting",
+        "Premium onboarding, implementation, and support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "10,000+",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Telephony services",
+      "unit": "per SMS segment",
+      "base_price": null,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Telephony services",
+      "fee_amount": null,
+      "fee_description": "Optional telephony services include SMS and voice communication, billed per usage."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T03:04:58.604856",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "21e8cee8-5953-4d76-84f0-b5f01b252514",
+    "name": "Onfleet",
+    "slug": "onfleet",
+    "description": "Onfleet transforms cumbersome last-mile logistics into delightful delivery management. Intuitive smartphone apps, powerful web dashboard and automatic customer notifications handle the heavy lifting so you can focus on your customer.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c3854278ac9bdb3cda89198a19fa3e7a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Product Management"
+    ],
+    "category_slugs": [
+      "product-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 13
+  }
+}

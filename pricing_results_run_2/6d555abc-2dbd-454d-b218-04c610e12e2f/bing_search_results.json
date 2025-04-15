@@ -1,0 +1,19 @@
+{
+  "app_name": "Flokzu",
+  "app_slug": "flokzu",
+  "search_term": "Find the official pricing page URL for Flokzu (flokzu.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744722834.1763008,
+  "response_text": [
+    "The official pricing page for Flokzu can be found at: [https://flokzu.com/pricing](https://flokzu.com/pricing)."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://flokzu.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\flokzu\\20250415_091409"
+}

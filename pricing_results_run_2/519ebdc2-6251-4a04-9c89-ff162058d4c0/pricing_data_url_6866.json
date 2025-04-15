@@ -1,0 +1,124 @@
+{
+  "app_id": "small_improvements",
+  "app_name": "Small Improvements",
+  "app_slug": "small-improvements",
+  "pricing_url": "https://www.small-improvements.com/pricing/feature-list/",
+  "source_url": "https://www.small-improvements.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.small-improvements.com/pricing/feature-list/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Minimum pricing applies to the Elevate plan, equivalent to 50 users.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Launch",
+      "tier_description": "Jumpstart and automate a lean performance review process.",
+      "monthly_price": 3.0,
+      "annual_price": 36.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Essential Performance Reviews",
+        "Praise",
+        "Company Directory",
+        "HRIS integrations",
+        "Google Sign-in"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Grow",
+      "tier_description": "Everything you need to build a culture of continuous feedback and growth.",
+      "monthly_price": 6.0,
+      "annual_price": 72.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Launch",
+        "360\u00ba & Anytime Feedback",
+        "Essential Objectives",
+        "1:1 Meetings",
+        "Pulse Surveys",
+        "Slack integration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Elevate",
+      "tier_description": "Our all-inclusive solution for engagement and performance at scale.",
+      "monthly_price": 9.0,
+      "annual_price": 108.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Grow",
+        "All features",
+        "All Integrations",
+        "All Customizations",
+        "Advanced Analytics"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Minimum Pricing for Elevate Plan",
+      "fee_amount": 5400.0,
+      "fee_description": "Minimum subscription pricing for Elevate plan is equal to purchasing the tool for 50 users annually."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:46:47.100987",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "519ebdc2-6251-4a04-9c89-ff162058d4c0",
+    "name": "Small Improvements",
+    "slug": "small-improvements",
+    "description": "Small Improvements is a software tool that enables employees to provide and receive feedback that helps them improve.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ac6336b7108c8fbbe00c6c098bb9f496.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "HR Talent & Recruitment"
+    ],
+    "category_slugs": [
+      "hr"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 12
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "app_id": "submittable",
+  "app_name": "Submittable",
+  "app_slug": "submittable",
+  "pricing_url": "https://www.submittable.com/pricing/",
+  "source_url": "https://www.submittable.com/pricing",
+  "all_pricing_urls": [
+    "https://www.submittable.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are customized based on organizational needs and are not publicly listed.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Enhanced solutions for organizations that need enterprise-grade features, support, and services.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Funds distribution",
+        "Custom branding",
+        "Custom integrations",
+        "Project management and professional services",
+        "Premium support and implementation"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:41:10.019203",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "b15e6169-ab34-4f86-a278-efd682eadcac",
+    "name": "Submittable",
+    "slug": "submittable",
+    "description": "Submittable brings your team together so you can collect, collaborate, and manage any application and review process, exactly the way you want.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/628341c9bb45b224fb5d8f06e85c66fd.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 8
+  }
+}

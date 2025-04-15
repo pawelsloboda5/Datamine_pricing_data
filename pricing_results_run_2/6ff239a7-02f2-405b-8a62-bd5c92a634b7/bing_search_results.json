@@ -1,0 +1,12 @@
+{
+  "app_name": "Event Tickets",
+  "app_slug": "event-tickets",
+  "search_term": "Find the official pricing page URL for Event Tickets (event-tickets.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744699063.4871871,
+  "response_text": [
+    "I couldn't find the official pricing page for Event Tickets at event-tickets.com. Let me know if you want me to assist further!"
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\event-tickets\\20250415_023743"
+}

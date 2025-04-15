@@ -1,0 +1,47 @@
+{
+  "app_id": "evoliz",
+  "app_name": "Evoliz",
+  "app_slug": "evoliz",
+  "pricing_url": "https://www.evoliz.com/tarifs.php",
+  "source_url": "https://www.evoliz.com/tarifs",
+  "all_pricing_urls": [
+    "https://www.evoliz.com/tarifs.php"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing page is accessible but specific details were not included in the provided content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T08:44:35.496765",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fed8c197-d91e-442e-8aee-ced4a85b1493",
+    "name": "Evoliz",
+    "slug": "evoliz",
+    "description": "Evoliz is an invoicing and management software designed for small businesses but also their accountants.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/b443d5f0b01c247894ddabcc3b355b5c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 31,
+    "trigger_count": 15
+  }
+}

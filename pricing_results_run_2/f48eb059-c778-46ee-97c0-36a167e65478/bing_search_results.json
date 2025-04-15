@@ -1,0 +1,19 @@
+{
+  "app_name": "Drop Cowboy",
+  "app_slug": "drop-cowboy",
+  "search_term": "Find the official pricing page URL for Drop Cowboy (drop-cowboy.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744706072.1352868,
+  "response_text": [
+    "The official pricing page URL for Drop Cowboy is [https://drop-cowboy.com/pricing](https://drop-cowboy.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://drop-cowboy.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\drop-cowboy\\20250415_043432"
+}

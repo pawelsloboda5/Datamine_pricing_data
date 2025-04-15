@@ -1,0 +1,130 @@
+{
+  "app_id": "emailable",
+  "app_name": "Emailable",
+  "app_slug": "emailable",
+  "pricing_url": "https://emailable.com/pricing",
+  "source_url": "https://emailable.com/pricing",
+  "all_pricing_urls": [
+    "https://emailable.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Emailable offers both pay-as-you-go and subscription-based pricing models, with volume discounts for larger purchases.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pay-As-You-Go",
+      "tier_description": "Flexible pricing for occasional use.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Credits never expire",
+        "Buy only what you need"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Minimum Credits Purchase",
+            "value": 5000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard Subscription",
+      "tier_description": "Monthly subscription for regular use.",
+      "monthly_price": 149.0,
+      "annual_price": 1490.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "500 Inbox Reports",
+        "50 Blacklist Monitors",
+        "12-Hour Blacklist Check Frequency"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Customized solutions for large-scale needs.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Inbox Reports",
+        "Unlimited Blacklist Monitors",
+        "Hourly Blacklist Check Frequency"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Credits",
+      "unit": "per credit",
+      "base_price": 0.0076,
+      "tiers": [
+        {
+          "min": 5000.0,
+          "max": "unlimited",
+          "price": 0.0076
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:10:22.893530",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "32eef064-ca96-4188-9aee-b44d708ee68b",
+    "name": "Emailable",
+    "slug": "emailable",
+    "description": "Emailable is an email verification platform that helps to improve your deliverability and email marketing ROI.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/fd916caee7037a2ce42703442cafe645.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

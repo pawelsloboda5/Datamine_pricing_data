@@ -1,0 +1,47 @@
+{
+  "app_id": "dealfront",
+  "app_name": "Dealfront",
+  "app_slug": "dealfront",
+  "pricing_url": "https://www.dealfront.com/us/pricing/",
+  "source_url": "https://www.dealfront.com/pricing/",
+  "all_pricing_urls": [
+    "https://www.dealfront.com/us/pricing/"
+  ],
+  "price_model_type": [
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is customized based on company needs, including geography, number of users, and required features.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:38:48.755236",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "dd1e2d3d-ff79-4870-acf0-c8f6c34b26a7",
+    "name": "Dealfront",
+    "slug": "dealfront",
+    "description": "Connect Zapier with Dealfront, the go-to-market platform for Europe that gives businesses everything they need to win leads and close deals.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/cd07877d32173c72c07579faa14a8a1c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "sales-crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 1
+  }
+}

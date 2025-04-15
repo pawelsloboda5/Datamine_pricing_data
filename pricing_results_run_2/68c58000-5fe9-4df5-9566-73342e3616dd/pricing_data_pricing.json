@@ -1,0 +1,192 @@
+{
+  "app_id": "wealthbox_crm",
+  "app_name": "Wealthbox CRM",
+  "app_slug": "wealthbox-crm",
+  "pricing_url": "https://www.wealthbox.com/pricing/",
+  "source_url": "https://www.wealthbox.com/pricing",
+  "all_pricing_urls": [
+    "https://www.wealthbox.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Wealthbox CRM offers a free trial and has tiered pricing based on features and user count.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basic",
+      "tier_description": "Starter CRM",
+      "monthly_price": 59.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Contact & Household Management",
+        "Contact Segmentation Tags",
+        "Contact Roles",
+        "Teams",
+        "Customizable Groups",
+        "Wealthbox Mail",
+        "Task Management",
+        "Suggested Actions",
+        "Daily Task Digest",
+        "Opportunity Management",
+        "Opportunity Kanban Boards",
+        "Opportunity Pipelines",
+        "Calendar",
+        "Workflows",
+        "Workflow Outcomes",
+        "Workflow Milestones",
+        "Workflow Template Sharing",
+        "Subtasks for Workflows",
+        "Send-To Actions",
+        "Customizable Workflow Actions",
+        "Workflow Form Builders",
+        "Projects",
+        "Reports \u2013 Automated",
+        "Reports \u2013 Dynamic/Customized",
+        "AI for Reports",
+        "Report Calculations",
+        "Report Groupings",
+        "Charts & Graphs",
+        "Customizable Dashboards",
+        "Customizable Homepages",
+        "Customizable Role-Based Homepages",
+        "File Storage",
+        "Custom Fields",
+        "Activity Stream",
+        "Coworker Notifications",
+        "Workspaces",
+        "Administrative Controls",
+        "Mobile App Companion",
+        "Partner App Integrations",
+        "API Development Support",
+        "Compliance & Security",
+        "Compliant Note Archiving",
+        "Permissions & Visibility",
+        "Bank-Level Security",
+        "Session Timeout",
+        "2-Factor Authentication",
+        "Workspace-wide 2-Factor Authentication Enforcement",
+        "SOC 2 Compliant",
+        "Support",
+        "Customer Support Help Desk",
+        "Live Help",
+        "Data Portability",
+        "Video Tutorial Library",
+        "CRM Migration Assistance",
+        "Knowledge Base Q&A",
+        "Integrated Email",
+        "Two-Way Email Sync",
+        "Two-Way Calendar Sync",
+        "Chrome Extension for Gmail",
+        "Bcc Email Forwarding",
+        "Broadcast Email",
+        "Email Templates and Themes",
+        "Email Open Tracking",
+        "Email Link Tracking"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "2 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Core CRM Features",
+      "monthly_price": 75.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes all Basic features",
+        "Enhanced storage and user limits"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "5 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Premier",
+      "tier_description": "Advanced Features for Power Users",
+      "monthly_price": 99.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Includes all Pro features",
+        "Advanced reporting and customization options"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Customizable, Multi-Workspace",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Customizable enterprise solutions",
+        "Dedicated account manager",
+        "Priority enterprise support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "20 GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:49:15.565729",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "68c58000-5fe9-4df5-9566-73342e3616dd",
+    "name": "Wealthbox CRM",
+    "slug": "wealthbox",
+    "description": "Wealthbox is a web-based CRM solution that allows financial advisors to manage their client relationships with ease.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/d30b61a9b64d1cfd1077681aebb72689.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 9
+  }
+}

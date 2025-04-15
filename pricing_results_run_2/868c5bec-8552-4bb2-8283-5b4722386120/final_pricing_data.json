@@ -1,0 +1,162 @@
+{
+  "app_id": "customerio",
+  "app_name": "Customer.io",
+  "app_slug": "customerio",
+  "pricing_url": "https://customer.io/pricing",
+  "source_url": "https://customer.io/pricing",
+  "all_pricing_urls": [
+    "https://customer.io/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "usage_based",
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes subscription tiers with additional usage-based costs for emails and profiles.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essentials",
+      "tier_description": "For small companies who are gaining momentum",
+      "monthly_price": 100.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "2 object types",
+        "Email and community support",
+        "Ad audience sync",
+        "Visual workflow builder",
+        "Data Pipelines basic integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly email sends",
+            "value": 100000
+          },
+          {
+            "name": "Workspaces",
+            "value": 2
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "For companies who are growing rapidly",
+      "monthly_price": null,
+      "annual_price": 1000.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom profile volume & pricing",
+        "Custom email volume & pricing",
+        "10 object types",
+        "Premium chat & email support",
+        "90-day onboarding support",
+        "HIPAA Compliance",
+        "Data Pipelines premium integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly email sends",
+            "value": "custom"
+          },
+          {
+            "name": "Workspaces",
+            "value": "unlimited"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For companies who are scaling globally",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Our best pricing on profile & email volume",
+        "Priority technical support",
+        "Migration support",
+        "Dedicated Customer Success Manager",
+        "Dedicated hardware",
+        "Audit logging & data governance"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": "unlimited",
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Monthly email sends",
+            "value": "custom"
+          },
+          {
+            "name": "Workspaces",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional people & object profiles",
+      "unit": "per profile",
+      "base_price": 0.009,
+      "tiers": null
+    },
+    {
+      "metric_name": "Additional 1,000 emails",
+      "unit": "per 1,000 emails",
+      "base_price": 0.12,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:13:20.649487",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "868c5bec-8552-4bb2-8283-5b4722386120",
+    "name": "Customer.io",
+    "slug": "customerio",
+    "description": "With Customer.io you can send email, SMS, and push based on what people do or don't do in your app.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/5bbf95abebef7eed8dd300e8ecaec16f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email"
+    ],
+    "category_slugs": [
+      "email"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

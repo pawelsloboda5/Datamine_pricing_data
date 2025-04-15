@@ -1,0 +1,52 @@
+{
+  "app_id": "mysql",
+  "app_name": "MySQL",
+  "app_slug": "mysql",
+  "pricing_url": "https://www.mysql.com/products/",
+  "source_url": "https://www.mysql.com/products/",
+  "all_pricing_urls": [
+    "https://www.mysql.com/products/",
+    "https://www.mysql.com/products/enterprise/",
+    "https://www.mysql.com/products/standard/",
+    "https://www.mysql.com/products/classic/",
+    "https://www.mysql.com/products/cluster/",
+    "https://www.mysql.com/oem/"
+  ],
+  "price_model_type": [
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details are not explicitly listed on the website; contacting sales is required for quotes.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:50:35.916992",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "9628ea2d-759a-4c47-82a4-098d5d423799",
+    "name": "MySQL",
+    "slug": "mysql",
+    "description": "MySQL is a premier database used in millions of production environments around the world. Easily plug your MySQL database into any web service.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/c23b6298d70e5cc925a8e795e48b6898.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Databases"
+    ],
+    "category_slugs": [
+      "databases"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 5,
+    "trigger_count": 4
+  }
+}

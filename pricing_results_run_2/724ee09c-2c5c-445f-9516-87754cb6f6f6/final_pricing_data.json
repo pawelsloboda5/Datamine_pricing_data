@@ -1,0 +1,172 @@
+{
+  "app_id": "evernote",
+  "app_name": "Evernote",
+  "app_slug": "evernote",
+  "pricing_url": "https://evernote.com/compare-plans",
+  "source_url": "https://evernote.com/compare-plans",
+  "all_pricing_urls": [
+    "https://evernote.com/compare-plans"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 7,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Evernote offers a free tier and subscription plans with annual discounts. Enterprise pricing is quote-based.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Capture ideas and find them quickly",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Create up to 50 notes",
+        "Create up to 1 notebook",
+        "Connect up to 1 device",
+        "250 MB monthly uploads",
+        "200 MB max. note size",
+        "Access to Tasks, Calendar, Web Clipper, and more",
+        "Access to advanced tools like image and document search, offline mode, PDF annotations, and more"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "250MB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Max note size",
+            "value": "200MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Personal",
+      "tier_description": "Keep home and family on track",
+      "monthly_price": 10.83,
+      "annual_price": 129.99,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Create up to 150,000 notes",
+        "Create up to 2,000 notebooks",
+        "Unlimited connected devices",
+        "10 GB monthly uploads"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "10GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Max note size",
+            "value": "200MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "Tackle any project, at work or at home",
+      "monthly_price": 14.16,
+      "annual_price": 169.99,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Personal, plus",
+        "20 GB monthly uploads",
+        "AI Edit & AI-Powered Search"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "20GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Max note size",
+            "value": "200MB"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom solutions and support to meet your unique organizational and security needs",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Professional, plus",
+        "Company ownership of all business data",
+        "Dedicated Customer Success Manager",
+        "Advanced account and content administration",
+        "Enhanced security and compliance",
+        "Single Sign-On (SSO) and User Provisioning (SCIM)",
+        "20 GB monthly uploads + 2 GB per user",
+        "Customizable plan limits based on your organization\u2019s needs"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "custom",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Max note size",
+            "value": "200MB"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Student Discount",
+      "offer_description": "Eligible college students can get 40% off a one-year subscription to Evernote Personal.",
+      "discount_percentage": 40.0,
+      "offer_url": "https://evernote.com/students",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:16:21.664532",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "724ee09c-2c5c-445f-9516-87754cb6f6f6",
+    "name": "Evernote",
+    "slug": "evernote",
+    "description": "Evernote is a powerful note taking application that makes it easy to capture ideas, images, contacts, and anything else you need to remember. Bring your life's work together in one digital workspace\u2014available on all major mobile platforms and devices. Using Evernote for work? See Evernote Business.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/a0593c9367f0399018187eed64c9da46.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Notes"
+    ],
+    "category_slugs": [
+      "notes"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 3
+  }
+}

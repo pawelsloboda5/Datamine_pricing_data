@@ -1,0 +1,48 @@
+{
+  "app_name": "Mailbox Power",
+  "app_slug": "mailbox-power",
+  "search_term": "Find the official pricing page URL for Mailbox Power (mailbox-power.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744700237.5318496,
+  "response_text": [
+    "The official pricing page for Mailbox Power can be found at: [https://www.mailboxpower.com/pricing/](https://www.mailboxpower.com/pricing/) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.mailboxpower.com/pricing/",
+      "is_accessible": true,
+      "content": "404 - Not Found\n---------------\n\nThis is not the web page you are looking for...\n\n[Click here to go about your business.](https://www.mailboxpower.com/)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "mailbox_power",
+        "app_name": "Mailbox Power",
+        "app_slug": "mailbox-power",
+        "pricing_url": null,
+        "source_url": "https://www.mailboxpower.com/",
+        "all_pricing_urls": [
+          "https://www.mailboxpower.com/"
+        ],
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page was not accessible, and no detailed pricing information could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T02:57:29.069250",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\mailbox-power\\20250415_025729"
+}

@@ -1,0 +1,46 @@
+{
+  "app_name": "Plumsail Documents",
+  "app_slug": "plumsail-documents",
+  "search_term": "Find the official pricing page URL for Plumsail Documents (plumsail-documents.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744706186.974994,
+  "response_text": [
+    "The official pricing page for Plumsail Documents can be found at: https://plumsail.com/documents/pricing/.  "
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://plumsail.com/documents/pricing/.",
+      "is_accessible": true,
+      "content": "Documents & Forms\n\nMicrosoft 365 & SharePoint Tools\n\nClassic SharePoint Tools\n\n[![Image 1: menu Documents](blob:http://localhost/8ce574a16ac1d515f5e4edac8f0734d2) Documents Create documents from templates, collect eSignatures, upload to the cloud or send by e-mail](https://plumsail.com/documents/)\n\n[![Image 2: menu HelpDesk for SharePoint](blob:http://localhost/06e32b8a03bf7f2e4266329d606d71f1) HelpDesk for SharePoint Ticket Management System for SharePoint Online in Microsoft 365](https://plumsail.com/sharepoint-helpdesk/)\n\n[![Image 3: menu Forms for SharePoint](blob:http://localhost/6e01f8b322fb0302824782e307c11372) Forms for SharePoint Design forms for SharePoint Online and SharePoint 2019/SE](https://plumsail.com/forms/sharepoint-forms/)\n\n[![Image 4: menu Forms](blob:http://localhost/115248571a0c0d07d6b7e7b56f8bdf83) Forms Design and publish web forms, process submissions in Power Automate, Zapier, or Plumsail Documents](https://plumsail.com/forms/public-forms/)\n\n[![Image 5: menu Actions for Power Automate](blob:http://localhost/2af1f404501082009eccb322127e87c0) Actions for Power Automate Advanced SharePoint actions for Microsoft Flow, Azure Logic Apps or PowerApps](https://plumsail.com/actions/)\n\n[![Image 6: menu Org Chart for SharePoint](blob:http://localhost/899d8d68d44b45a69faf38ff25cc1210) Org Chart for SharePoint Visualize organization structure in SharePoint Online or on-premises](https://plumsail.com/sharepoint-orgchart/)\n\n[![Image 7: menu Charts for SharePoint](blob:http://localhost/736be8faefaf0e3db583aa7cfe319963) Charts for SharePoint Create interactive charts for SharePoint based on lists, libraries, or external data](https://plumsail.com/sharepoint-charts/)\n\nDocuments & Forms\n\n[![Image 8: menu Documents](blob:http://localhost/8ce574a16ac1d515f5e4edac8f0734d2) Documents Create documents from templates, collect eSignatures, upload to the cloud or send by e-mail](https://plumsail.com/documents/)[![Image 9: menu Forms](blob:http://localhost/115248571a0c0d07d6b7e7b56f8bdf83) Forms Design and publish web forms, process submissions in Power Automate, Zapier, or Plumsail Documents](https://plumsail.com/forms/public-forms/)\n\nMicrosoft 365 & SharePoint Tools\n\n[![Image 10: menu HelpDesk for SharePoint](blob:http://localhost/06e32b8a03bf7f2e4266329d606d71f1) HelpDesk for SharePoint Ticket Management System for SharePoint Online in Microsoft 365](https://plumsail.com/sharepoint-helpdesk/)[![Image 11: menu Forms for SharePoint](blob:http://localhost/6e01f8b322fb0302824782e307c11372) Forms for SharePoint Design forms for SharePoint Online and SharePoint 2019/SE](https://plumsail.com/forms/sharepoint-forms/)[![Image 12: menu Actions for Power Automate](blob:http://localhost/2af1f404501082009eccb322127e87c0) Actions for Power Automate Advanced SharePoint actions for Microsoft Flow, Azure Logic Apps or PowerApps](https://plumsail.com/actions/)[![Image 13: menu Org Chart for SharePoint](blob:http://localhost/899d8d68d44b45a69faf38ff25cc1210) Org Chart for SharePoint Visualize organization structure in SharePoint Online or on-premises](https://plumsail.com/sharepoint-orgchart/)[![Image 14: menu Charts for SharePoint](blob:http://localhost/736be8faefaf0e3db583aa7cfe319963) Charts for SharePoint Create interactive charts for SharePoint based on lists, libraries, or external data](https://plumsail.com/sharepoint-charts/)\n\nClassic SharePoint Tools\n\n[![Image 15: menu Forms for classic UI](blob:http://localhost/29f0952fb7db94ac0140b5b85086425f)Forms for classic UI](https://plumsail.com/sharepoint-forms-designer/)[![Image 16: menu Lookup for classic UI](blob:http://localhost/e4b0a98fa939729dcabb29b8f83c6d27)Lookup for classic UI](https://plumsail.com/cross-site-lookup/)\n\nThere is no such page",
+      "error": null,
+      "pricing_data": {
+        "app_id": "plumsail_documents",
+        "app_name": "Plumsail Documents",
+        "app_slug": "plumsail-documents",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The provided content does not contain specific pricing details for Plumsail Documents.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T04:36:43.697131",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\plumsail-documents\\20250415_043643"
+}

@@ -1,0 +1,142 @@
+{
+  "app_id": "starshipit",
+  "app_name": "Starshipit",
+  "app_slug": "starshipit",
+  "pricing_url": "https://starshipit.com/pricing",
+  "source_url": "https://starshipit.com/pricing",
+  "all_pricing_urls": [
+    "https://starshipit.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "AUD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on monthly order volume, with yearly plans offering up to 10% savings.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Starter",
+      "tier_description": "For businesses shipping up to 500 labels per month.",
+      "monthly_price": 45.0,
+      "annual_price": 486.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Automation rules (up to 3 rules)",
+        "Automatically import orders",
+        "Write-back tracking updates & sync information",
+        "Bulk and quick print labels",
+        "Scan-to-print labels",
+        "View orders, filtering & tagging",
+        "Merge orders",
+        "Split orders",
+        "Automate packing slips, manifests & customs documentation",
+        "Document manager",
+        "Mobile pick pack app"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 500,
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Professional",
+      "tier_description": "For businesses shipping between 501 and 5,000 labels per month.",
+      "monthly_price": 180.0,
+      "annual_price": 1944.0,
+      "annual_discount_percentage": 10.0,
+      "setup_fee": null,
+      "features": [
+        "Automation rules (up to 5 rules)",
+        "Automatically import orders",
+        "Write-back tracking updates & sync information",
+        "Bulk and quick print labels",
+        "Scan-to-print labels",
+        "View orders, filtering & tagging",
+        "Product catalogue",
+        "Packing validation",
+        "Recommended packaging",
+        "Merge orders",
+        "Split orders",
+        "Automate packing slips, manifests & customs documentation",
+        "Document manager",
+        "Mobile pick pack app"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 5000,
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For businesses shipping over 5,000 labels per month.",
+      "monthly_price": 495.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Automation rules (unlimited rules)",
+        "Automatically import orders",
+        "Write-back tracking updates & sync information",
+        "Bulk and quick print labels",
+        "Scan-to-print labels",
+        "View orders, filtering & tagging",
+        "Product catalogue",
+        "Packing validation",
+        "Recommended packaging",
+        "Merge orders",
+        "Split orders",
+        "Automate packing slips, manifests & customs documentation",
+        "Document manager",
+        "Mobile pick pack app"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "custom",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:27:53.262337",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "28c3c7da-2701-47fa-b9b7-dc65bfe29dd1",
+    "name": "Starshipit",
+    "slug": "starshipit",
+    "description": "Starshipit is an integrated shipping and tracking software allowing you to generate shipments in bulk, send out customised notifications to your customers, and track shipments.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/074bc6265bf8672a1d724b3ca136eb48.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 10,
+    "trigger_count": 2
+  }
+}

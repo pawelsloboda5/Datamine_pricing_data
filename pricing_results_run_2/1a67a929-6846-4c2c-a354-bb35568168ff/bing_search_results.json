@@ -1,0 +1,19 @@
+{
+  "app_name": "Bind ERP",
+  "app_slug": "bind-erp",
+  "search_term": "Find the official pricing page URL for Bind ERP (bind-erp.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744706494.0465658,
+  "response_text": [
+    "The official pricing page URL for Bind ERP is [https://www.bind-erp.com/precios](https://www.bind-erp.com/precios) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.bind-erp.com/precios",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\bind-erp\\20250415_044134"
+}

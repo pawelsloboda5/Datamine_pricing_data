@@ -1,0 +1,19 @@
+{
+  "app_name": "Kiflo PRM",
+  "app_slug": "kiflo-prm",
+  "search_term": "Find the official pricing page URL for Kiflo PRM (kiflo-prm.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744720934.1854835,
+  "response_text": [
+    "The official pricing page for Kiflo PRM can be found here: [https://kiflo-prm.com/plans/](https://kiflo-prm.com/plans/) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://kiflo-prm.com/plans/",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\kiflo-prm\\20250415_084214"
+}

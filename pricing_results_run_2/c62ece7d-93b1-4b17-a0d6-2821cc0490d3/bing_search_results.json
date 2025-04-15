@@ -1,0 +1,84 @@
+{
+  "app_name": "Canva",
+  "app_slug": "canva",
+  "search_term": "Find the official pricing page URL for Canva (canva.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744688503.0867949,
+  "response_text": [
+    "The official pricing page for Canva is https://www.canva.com/pricing\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Canva Pricing: Compare Free, Pro, Teams and Enterprise plans",
+      "url": "https://www.canva.com/en/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.canva.com/pricing\u30103:0\u2020source\u3011.",
+      "is_accessible": true,
+      "content": "Not found (404)\n---------------\n\nSorry, the page you are looking for does not exist.\n\n**Please visit our [Help Center](https://www.canva.com/help)** for more information.  \nError code: \\[93086ddfe8740297\\-ORD\\]\n\n[Go back to the Canva homepage](https://www.canva.com/)",
+      "error": null,
+      "pricing_data": {
+        "app_id": "canva",
+        "app_name": "Canva",
+        "app_slug": "canva",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing page was not accessible, and no detailed pricing information could be extracted.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:41:53.800302",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": true,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.canva.com/en/pricing/",
+      "is_accessible": true,
+      "content": "*   Ray ID: 93086e09fb1e10c6\n*   Your IP address: 2600:1900:0:2d04::2001\n*   Detected location: US\n\nWe\u2019re currently checking your connection. This shouldn\u2019t take long.  \nIf you keep getting this page, check if there\u2019s a [problem with Canva](https://www.canvastatus.com/).",
+      "error": null,
+      "pricing_data": {
+        "app_id": "canva",
+        "app_name": "Canva",
+        "app_slug": "canva",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The pricing information could not be extracted due to the content being a connection check page.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-14T23:41:58.389629",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": true,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\canva\\20250414_234158"
+}

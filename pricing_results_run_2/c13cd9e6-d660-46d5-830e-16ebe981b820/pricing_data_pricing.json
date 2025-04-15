@@ -1,0 +1,43 @@
+{
+  "app_id": "squadcast",
+  "app_name": "SquadCast",
+  "app_slug": "squadcast",
+  "pricing_url": null,
+  "source_url": "https://www.squadcast.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The provided content does not include specific pricing details for SquadCast.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T01:03:26.681088",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "c13cd9e6-d660-46d5-830e-16ebe981b820",
+    "name": "SquadCast",
+    "slug": "squadcast",
+    "description": "SquadCast is the cloud recording studio where you can connect and record audio and video to create content audiences love.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/0384fa2159f40fa94122c0505a7665c0.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Video & Audio"
+    ],
+    "category_slugs": [
+      "video"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 12
+  }
+}

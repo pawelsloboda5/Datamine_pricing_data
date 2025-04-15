@@ -1,0 +1,45 @@
+{
+  "app_id": "pdfco",
+  "app_name": "PDF.co",
+  "app_slug": "pdfco",
+  "pricing_url": "https://app.pdf.co/subscriptions",
+  "source_url": "https://pdf.co/pricing",
+  "all_pricing_urls": [
+    "https://app.pdf.co/subscriptions"
+  ],
+  "price_model_type": [],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page was not accessible, and detailed pricing information could not be extracted.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T04:37:56.711408",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fb3bd2bd-921b-4cae-aea5-3b3fec4244e6",
+    "name": "PDF.co",
+    "slug": "pdfco",
+    "description": "PDF.co is a set of tools for PDF file and data extraction. Get CSV out of pdf, spreadshets, barcodes, invoices. Also can split pdf, merge pdf, convert pdf.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/57c67151e9fcae1a85978a71320fa5ad.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Documents"
+    ],
+    "category_slugs": [
+      "documents"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 28,
+    "trigger_count": 0
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "app_id": "event_temple",
+  "app_name": "Event Temple",
+  "app_slug": "event-temple",
+  "pricing_url": "https://www.eventtemple.com/pricing",
+  "source_url": "https://www.eventtemple.com/pricing",
+  "all_pricing_urls": [
+    "https://www.eventtemple.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing starts at $249 per month, with custom quotes available based on needs. Annual billing is required.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Custom Quote",
+      "tier_description": "Pricing tailored to your business needs.",
+      "monthly_price": 249.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Customizable features based on business size and needs"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Setup Fee",
+      "fee_amount": null,
+      "fee_description": "Additional fees may apply depending on setup requirements."
+    },
+    {
+      "fee_name": "Data Import Fee",
+      "fee_amount": null,
+      "fee_description": "Fees may vary for data import services."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T05:31:54.048685",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "5c89d934-0d15-4f02-b659-08bf6d1345ee",
+    "name": "EventTemple",
+    "slug": "eventtemple",
+    "description": "Event Temple is an all in one event management software used by hotels, wedding venues, clubs, restaurants, and conference centers.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/dacea40d99dc950c2fb4b50f851b1504.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 12,
+    "trigger_count": 16
+  }
+}

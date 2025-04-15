@@ -1,0 +1,24 @@
+{
+  "app_name": "MailMunch",
+  "app_slug": "mailmunch",
+  "search_term": "Find the official pricing page URL for MailMunch (mailmunch.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744697038.21327,
+  "response_text": [
+    "The official pricing page for MailMunch is: [https://www.mailmunch.com/pricing](https://www.mailmunch.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - Mailmunch",
+      "url": "https://www.mailmunch.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.mailmunch.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "Insufficient content extracted"
+    }
+  ],
+  "results_directory": "pricing_results\\mailmunch\\20250415_020359"
+}

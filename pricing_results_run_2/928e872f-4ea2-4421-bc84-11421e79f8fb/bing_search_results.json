@@ -1,0 +1,225 @@
+{
+  "app_name": "Uploadcare",
+  "app_slug": "uploadcare",
+  "search_term": "Find the official pricing page URL for Uploadcare (uploadcare.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744701699.7726047,
+  "response_text": [
+    "The official pricing page for Uploadcare can be accessed at: [https://uploadcare.com/pricing/](https://uploadcare.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing | Uploadcare",
+      "url": "https://uploadcare.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://uploadcare.com/pricing/",
+      "is_accessible": true,
+      "content": "Free to explore. Pay as you grow.\n---------------------------------\n\nLearn and experiment your way. Operations-based pricing fits any usage profile, from static content delivery to complex UGC pipelines.\n\n### Demo\n\n$0\n\nPerfect for passion projects and simple websites\n\n[Start for free](https://app.uploadcare.com/accounts/signup/)Features included:\n\n*   10,000 operations per month\n    \n    OperationsTotal number of actions performed with your files through Uploadcare APIs, including everything from file uploading, image optimization, and transformations to video processing, document conversion, and more.\n    \n*   10 MB max file size\n    \n*   Uploading widget, API\n    \n*   Basic image transformations\n    \n*   Delivery through a CDN\n    \n*   Signed uploads\n    \n*   Webhooks\n    \n*   Personal use only\n    \n\nMost Popular\n\n### Pro\n\n$66\u00a0/ mo\n\nFor production apps and websites with the option to scale\n\n[Get started](https://app.uploadcare.com/accounts/signup/)Everything in Demo, plus\u2026\n\n*   100,000 operations per month\n    \n    OperationsTotal number of actions performed with your files through Uploadcare APIs, including everything from file uploading, image optimization, and transformations to video processing, document conversion, and more.\n    \n*   1 GB max file size\n    \n*   Auto-moderation on upload\n    \n*   Malicious content filtering\n    \n*   Automated image optimization\n    \n*   Content-aware crop and resize\n    \n*   Automated responsive images\n    \n*   Document conversion\n    \n*   Asynchronous video processing\n    \n*   Adaptive bitrate streaming\n    \n*   Signed URLs\n    \n*   3 team members\n    \n\n### Business\n\n$166\u00a0/ mo\n\nFor large-scale applications managing tons of digital media\n\n[Get started](https://app.uploadcare.com/accounts/signup/)Everything in Pro, plus\u2026\n\n*   250,000 operations per month\n    \n    OperationsTotal number of actions performed with your files through Uploadcare APIs, including everything from file uploading, image optimization, and transformations to video processing, document conversion, and more.\n    \n*   10 GB max file size\n    \n*   Automated AVIF compression\n    \n*   Uploading widget whitelabeling\n    \n*   Custom Upload API domain\n    \n*   Custom CDN CNAME\n    \n*   Custom OAuth applications\n    \n*   Dedicated solution engineer\n    \n*   Performance & security review\n    \n*   4 team members\n    \n\n### Enterprise\n\nCustom\n\nFor teams with more security, support, and performance needs\n\n[Contact sales](https://uploadcare.com/schedule-demo/)Everything in Business, plus\u2026\n\n*   Custom operations limit\n    \n*   File size up to 5 TB\n    \n*   Traffic and storage price match\n    \n*   Connect AWS S3 Storage\n    \n*   Use Okta as SSO provider\n    \n*   Project management API\n    \n*   Free migration\n    \n*   Enterprise-grade security\n    \n*   Enterprise SLAs and support\n    \n*   HIPAA and SOC2 compliant\n    \n*   Dedicated solution architect\n    \n*   Private Slack channel\n    \n\nCompare plans\n-------------\n\nUsage\n\nOperations\n\nOperations include file and API-related actions such as file uploads, requests, and image transformations.\n\n10,000\n\n/\u2009mo\n\n100,000\n\n/\u2009mo\n\nincludedthen $0.5 per 1000\n\n250,000\n\n/\u2009mo\n\nincludedthen $0.45 per 1000\n\nCustomas low as $0.10 per 1000\n\nTraffic\n\nDeliver your media anywhere as if it was cached next door.\n\n5 GB\n\n/\u2009mo\n\n75 GB\n\n/\u2009mo\n\nincludedthen $0.5 per GB\n\n200 GB\n\n/\u2009mo\n\nincludedthen $0.45 per GB\n\nCustomas low as $0.04 per GB\n\nStorage\n\nFast and secure integrated storage that just works.\n\n1 GB\n\n50 GB\n\nincludedthen $0.5 per GB\n\n125 GB\n\nincludedthen $0.45 per GB\n\nCustomas low as $0.03 per GB\n\nMax file size\n\nMaximum file size Uploadcare will accept.\n\n10 MB\n\n1 GB\n\n10 GB\n\n5 TB\n\nTeam members\n\nMaximum number of accounts you can share project with.\n\nPersonal use only\n\n3 seats\n\n4 seats\n\nCustom\n\nUploading\n\nFile uploader\n\nLightweight feature-rich UI widget for file uploading that fits your stack and branding. You can customize basic design via dashboard, or go deep with CSS & JavaScript.\n\nUpload API\n\nThe Upload API allows uploading files to Uploadcare servers. The API can be used with our File Uploader HTML5 widget, or via direct integration.\n\nAccelerated uploading\n\nUse your own domain for CDN links to your files stored on Uploadcare. Replace the default ucarecdn.com domain with e.g. cdn.mycompany.com for your URLs.\n\nMalware protection\n\nYour uploads are continually scanned for infected or malicious files using ClamAV, a high-performance antivirus engine. On business plan you can choose what to do with infected files.\n\nSigned uploads\n\nControl who can upload files to your account by authenticating upload requests. You generate a token on your backend that your app will pass to File Uploader or API.\n\nImage editor\n\nHelp your users upload better images. The File Uploader comes with a GUI-based image editor, featuring 9 built-in operations and a sleek, intuitive design.\n\nFile size limiting\n\nSet the maximum file size for uploaded files on the server side.\n\nMIME type filtering\n\nRestrict the types of files that can be uploaded to your project.\n\nCopy uploads to custom S3 bucket\n\nCopy uploads to your S3 bucket \u2014 all of them or by using a pattern.\n\nBackup to S3 bucket\n\nUse your own S3 bucket to backup files from your Uploadcare projects.\n\nUpload widget whitelabeling\n\nRemove copyright from the Uploader, use custom CNAMEs with CDN, upload API and social sources.\n\nCustom OAuth apps\n\nUsers will see your app name, icon, and legal documents when authenticating with Facebook, Google Drive, Dropbox etc. to upload files.\n\nConnect AWS S3 Storage\n\nUse all features of Uploadcare with your own AWS S3 storage.\n\nProject management API\n\nCreate and control projects programmatically.\n\nCustom Upload API domain\n\nUse your own domain name for the Upload API and source endpoints, e.g. upload.mydomain.com instead of upload.uploadcare.com and social.uploadcare.com\n\n1\n\nincluded\n\nThen $50 each\n\nCustom\n\nOptimization\n\nURL API\n\nThe simplest way to process images on the fly. Each of your images has a unique URL that you can append transformations to. They\u2019re intuitively named, easy to learn, and they happen instantly on our CDN when image versions are requested for delivery.\n\nAutomatic responsive images\n\nAutomatically load the optimal images for each breakpoint and screen size.\n\nAutomatic image optimization\n\nLet our AI analyze an image and set the correct compression level just before visual artifacts appear.\n\nAutomatic format selection\n\nGive modern browsers the modern image formats they need: smaller and snappier to load. Convert images on the fly into WebP, AVIF, PNG, or JPEG, or ask Uploadcare to select the best format automatically based on each user\u2019s browser support.\n\nAnimated images optimization\n\nConvert animated GIF, WebP or HEIC to video on the fly.\n\nWebP\n\nModern and efficient format that supports transparency. Available for both automatic and manual format conversion.\n\nAVIF\n\nA new highly efficient image format which beats JPEG at almost 50% of file size with similar visual quality.\n\nImage transformations\n\nURL API\n\nThe simplest way to process images on the fly. Each of your images has a unique URL that you can append transformations to. They\u2019re intuitively named, easy to learn, and they happen instantly on our CDN when image versions are requested for delivery.\n\nResize, crop, rotation, flip\n\nHandy essentials for image manipulation.\n\nBorder radius and circle crop\n\nMake images with rounded corners or as circles.\n\nEffects and enhancements\n\nAutomatically make photos look better or create a distinct look and feel.\n\nOverlays and watermarks\n\nLayer images one over another and use intuitive URL operations to set transparency and mutual positioning.\n\nFace-detection based transformations\n\nThis specialized algorithm returns accurate coordinates of faces in photos, making it easy to automatically crop, blur out, or tag images of people. Use face detection to automatically generate perfectly centered and standardized profile pictures at scale.\n\nColor adjustments\n\nAdjust basic image properties (brightness, contrast etc); deliver grayscale, enhanced and inverted colors.\n\nColor profile management\n\nAccurately convert CMYK to RGB using ICC profile data.\n\nContent-aware crop and resize\n\nDetect faces, objects, and corners to determine the perfect cropping frame.\n\nBackground removal\n\nAutomatically and accurately isolate key content in any image.\n\nDelivery\n\nAdaptive bitrate streaming\n\nReduce data transfer costs for high-traffic videos with on-the-fly conversion to H.264 and AV1 formats and resolution that best fit the user\u2019s bandwidth and device.\n\nHigh performance CDN\n\n325,000+ CDN nodes in 135 countries greatly increase loading speed and reduce latency from anywhere in the world.\n\nFetch and deliver remote files\n\nUse Uploadcare CDN with your existing assets \u2014 just add a prefix to the URLs and your files will be distributed from our CDN.\n\nSearch engine indexing control\n\nIf you turn off indexing, Uploadcare adds response headers to restrict indexing of images and text, making sure your files don\u2019t turn up in search or impact your overall SEO.\n\nSigned URLs\n\nGrant access to specific files or file versions. Signed URLs contain authentication tokens that give access only ones with the link. Requires CDN CNAME.\n\nCustom CDN / Proxy CNAME\n\nIf you depend on a specific CDN infrastructure or are under contract, you can use your current CDN with our platform.\n\n$25 / month\n\n1\n\nincluded\n\nThen $25 each\n\nCustom\n\nFile management\n\nAPI for everything\n\nThe Upload API allows uploading files to Uploadcare servers. The API can be used with our File Uploader HTML5 widget, or via direct integration.\n\nAccess logs\n\nReview all API requests (POST, GET, PUT, DELETE), errors, and infected files in your Dashboard.\n\nWebhooks\n\nSubscribe to file events and trigger corresponding actions within your app. For example, get a notification when a file is uploaded to a public URL you specify.\n\nZapier integration\n\nBuild no-code apps with Uploadcare. Send notifications about new files, copy files to Google Drive or Dropbox.\n\nMake integration\n\nMake API calls, upload files or listen for webhooks with no code.\n\nUsage Info\n\nLet your app know your projects usage. For example, to calculate the bills for your customers.\n\nImage auto-tagging\n\nCategorize and tag people, objects, and other content in your images.\n\nUnsafe content detection\n\nDetect and block unwanted content like NSFW, violence, or drug use.\n\nAsynchronous video processing\n\nEncode video files, adjust quality, generate thumbnails.\n\nDocument conversion\n\nConvert documents from all popular formats.\n\nColor recognition\n\nGet the prevailing colors in an image. Specify the number of colors you want and recieve a JSON with RGB values. Use it to, for example, build color-based search filters.\n\nSupport\n\nCommunity support\n\nGet help from Uploadcare team and community members through our Forum and Discord.\n\nEmail support\n\nGet help from Uploadcare support engineers.\n\nPriority email support\n\nGet help from Uploadcare support engineers with a guaranteed response time of 1 business day.\n\nEmail support SLA\n\nGet custom support response time SLA.\n\nIntegration assistance\n\nOur experts will help you with your integration process.\n\nPrivate Slack channel\n\nGet support from Uploadcare engineers and developers through a private Slack channel.\n\nDedicated Customer Success team\n\nWe're always within your context, ready to help.\n\nCustom contracts and invoicing\n\nWe'll adjust to your legal or accounting needs.\n\nFrequently asked questions\n--------------------------\n\nUploadcare is a complete file handling platform for your websites and mobile applications. Our platform manages everything from uploads and storage to processing and delivery and is tailor-made for handling high volumes of user-generated content such as images, videos, documents and more. Uploadcare is connected to multiple CDNs and optimized with the latest industry standards for peak performance.\n\nWe also provide extensive APIs and management tools, making it straightforward to integrate Uploadcare with both new and existing web and mobile apps.\n\nUploadcare is a part of PandaDoc, Zapier, Buffer and many other products, apps and websites that you may have used or visited before. Check out our [customers\u2019 stories](https://uploadcare.com/customers/).\n\nAbsolutely! We\u2019ll price-match your current contracts with CDN and other vendors, and migrate you for free! [Get in touch](https://uploadcare.com/schedule-demo/) with our sales team to learn more.\n\nIt usually takes anywhere from 5 mins to a few days, depending on your use case. We offer ready-made libraries for all popular frameworks and follow the API-first approach. Plus, everyone on the Uploadcare customer support team is an engineer, so they can actually help you to build something cool!\n\nUploadcare works with multiple CDNs including Cloudfront, Akamai and Fastly. [Get in touch](https://uploadcare.com/schedule-demo/) if you want to migrate your current contract or use another CDN.\n\nYes, but only with a custom plan. [Get in touch](https://uploadcare.com/schedule-demo/) with our team to discuss the details.\n\nUploadcare supports any file types: images, videos or documents, up to 5TB each.\n\nUploadcare has built-in integrations with more than ten cloud storage services and social media platforms including Facebook and Instagram. Your users can choose files from anywhere to upload to your platform. And, if you work with sensitive content, you can set up your own apps so your users will feel safer when they provide access to their files.\n\nOperations are various actions associated with your files and API usage. Actions like uploading a file, making requests, or requesting transformations on your images are considered operations. Different actions have different operation costs, If you\u2019re curious about more information on how operations are calculated you can read [this article](https://uploadcare.com/docs/billing/).\n\nIn Uploadcare, \u201cTraffic\u201d refers to the data transferred both from Uploadcare CDN to your end-users and between Uploadcare CDN and Uploadcare\u2019s servers.\n\nUploadcare offers image and video optimization tools, which are quite handy because they help you significantly reduce your traffic usage. By optimizing your files, you\u2019re essentially reducing the file size without noticeably affecting the quality, meaning less data needs to be transferred, hence, less traffic used.\n\nWhen it comes to Storage in Uploadcare, it\u2019s all about the total size of the original files stored in your account. This includes every single image, video, document, or other type of file that you\u2019ve uploaded to Uploadcare. Unlike in some other systems, only the original versions of your files count towards your storage \u2014 not any transformations or alterations you might have made.\n\nIt\u2019s important to note that this metric is cumulative, meaning it adds up over time. The storage counter doesn\u2019t reset at the start of a new billing cycle.\n\nYes, the Demo plan is free of charge. It is designed to allow users to explore and experience the features and capabilities of Uploadcare without any cost. However, it\u2019s important to note that the Demo plan may have certain limitations compared to our paid subscription plans. If you require additional information about the specific features and limitations of the Demo plan, feel free to contact Uploadcare\u2019s [sales team](https://uploadcare.com/schedule-demo/).\n\nThe Demo plan is meant to give you a taste of Uploadcare\u2019s features for free, but going over the limits will result in a suspension until the next month begins. To avoid any interruptions in your account, we suggest upgrading to one of our paid plans. This will provide you with more generous limits and ensure uninterrupted usage.\n\nWe charge for our services through a subscription model. There are two types of fees: Subscription Fees and Usage Fees. The Subscription Fee is paid upfront when you sign up and covers a certain amount of usage for the chosen monthly or annual period.\n\nIf you exceed the allowed usage limits in your subscription plan, we will charge Usage Fees at the end of each month.\n\nFor more detailed information on the terms and conditions, including the Order Form, taxes, and refund policies, please refer to the full [terms of service](https://uploadcare.com/about/terms/) provided by Uploadcare.\n\nUploadcare limits are soft, and if you go above them, overage fees will apply automatically. Please [contact us](https://uploadcare.com/schedule-demo/) to discuss a plan which aligns best with your needs.\n\nUploadcare currently accepts major credit and debit cards for payment. In addition, if you\u2019re subscribed to the Enterprise plan, you also have the option to make payments via bank transfers.\n\nPlease note, alternatives like PayPal, Bitcoin, and similar methods are not currently supported. If you need further information or assistance with payment methods, feel free to get in touch with Uploadcare\u2019s [sales team](https://uploadcare.com/schedule-demo/).\n\nUploadcare values your ownership rights and privacy. All files and data you upload to Uploadcare remain your property. You maintain ownership of your files and data, and Uploadcare merely acts as a service provider to store and handle your files based on your instructions.\n\nYes, Uploadcare is SOC2 and HIPAA-compliant, ensuring that industry-standard security measures are in place to protect your files and data. As a trusted file management service, Uploadcare prioritizes the security and integrity of your information.\n\nUploadcare provides a 99.9% Service Level Agreement (SLA) on all paid plans, ensuring high availability and reliability of the services. Additionally, Uploadcare systems maintain over 99.99% monthly uptime figures for most regions.\n\nFor more specific details about Uploadcare\u2019s security certifications, compliance standards, and the SLA, check out the [Trust Center](https://uploadcare.com/about/trust/).\n\nThe cost is based on the number of resolution options and the duration of the video. Each resolution is billed separately.\n\n*   Each 10 seconds of video requires 20 operations.\n*   The duration is rounded up to the nearest 10 seconds.\n\nFor example, a 52-second video with three resolutions (360p, 720p, 1080p) requires: (6 \u00d7 20 operations) \u00d7 3 resolutions = 360 operations\n\nThere are three resolution options: 360p, 720p, and 1080p.\n\n*   The resolution is based on the smaller side of the video.\n*   Videos are never upscaled; if the original video is 900p, the highest resolution will remain 900p.\n*   If the original video is smaller than 720p or 1080p, those resolutions will not be created.\n\nVideo durations are rounded up to the nearest 10-second increment. For instance:\n\n*   A 52-second video is rounded up to 60 seconds.\n*   Billing is then calculated based on this rounded duration.\n\nNo, the resolution options depend on the original video\u2019s quality:\n\n*   If the original video is smaller than a resolution option (e.g., 720p or 1080p), those resolutions are not generated. This ensures no unnecessary upscaling in processing.\n\nFlexible pricing for companies and individual developers.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "uploadcare",
+        "app_name": "Uploadcare",
+        "app_slug": "uploadcare",
+        "pricing_url": "https://uploadcare.com/pricing/",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://uploadcare.com/pricing/"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Uploadcare offers a free tier with limited features and operations. Paid plans include additional features and higher limits, with usage-based pricing for exceeding limits.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Demo",
+            "tier_description": "Perfect for passion projects and simple websites",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "10,000 operations per month",
+              "10 MB max file size",
+              "Uploading widget, API",
+              "Basic image transformations",
+              "Delivery through a CDN",
+              "Signed uploads",
+              "Webhooks",
+              "Personal use only"
+            ],
+            "limits": {
+              "users": "Personal use only",
+              "storage": "1 GB",
+              "operations": 10000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "For production apps and websites with the option to scale",
+            "monthly_price": 66.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "100,000 operations per month",
+              "1 GB max file size",
+              "Auto-moderation on upload",
+              "Malicious content filtering",
+              "Automated image optimization",
+              "Content-aware crop and resize",
+              "Automated responsive images",
+              "Document conversion",
+              "Asynchronous video processing",
+              "Adaptive bitrate streaming",
+              "Signed URLs",
+              "3 team members"
+            ],
+            "limits": {
+              "users": 3,
+              "storage": "50 GB",
+              "operations": 100000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Business",
+            "tier_description": "For large-scale applications managing tons of digital media",
+            "monthly_price": 166.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "250,000 operations per month",
+              "10 GB max file size",
+              "Automated AVIF compression",
+              "Uploading widget whitelabeling",
+              "Custom Upload API domain",
+              "Custom CDN CNAME",
+              "Custom OAuth applications",
+              "Dedicated solution engineer",
+              "Performance & security review",
+              "4 team members"
+            ],
+            "limits": {
+              "users": 4,
+              "storage": "125 GB",
+              "operations": 250000,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "For teams with more security, support, and performance needs",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Custom operations limit",
+              "File size up to 5 TB",
+              "Traffic and storage price match",
+              "Connect AWS S3 Storage",
+              "Use Okta as SSO provider",
+              "Project management API",
+              "Free migration",
+              "Enterprise-grade security",
+              "Enterprise SLAs and support",
+              "HIPAA and SOC2 compliant",
+              "Dedicated solution architect",
+              "Private Slack channel"
+            ],
+            "limits": {
+              "users": "Custom",
+              "storage": "Custom",
+              "operations": "Custom",
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Operations",
+            "unit": "per 1000",
+            "base_price": 0.5,
+            "tiers": [
+              {
+                "min": 100001.0,
+                "max": 250000.0,
+                "price": 0.45
+              },
+              {
+                "min": 250001.0,
+                "max": "Custom",
+                "price": 0.1
+              }
+            ]
+          },
+          {
+            "metric_name": "Traffic",
+            "unit": "per GB",
+            "base_price": 0.5,
+            "tiers": [
+              {
+                "min": 76.0,
+                "max": 200.0,
+                "price": 0.45
+              },
+              {
+                "min": 201.0,
+                "max": "Custom",
+                "price": 0.04
+              }
+            ]
+          },
+          {
+            "metric_name": "Storage",
+            "unit": "per GB",
+            "base_price": 0.5,
+            "tiers": [
+              {
+                "min": 51.0,
+                "max": 125.0,
+                "price": 0.45
+              },
+              {
+                "min": 126.0,
+                "max": "Custom",
+                "price": 0.03
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:21:51.983874",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\uploadcare\\20250415_032152"
+}

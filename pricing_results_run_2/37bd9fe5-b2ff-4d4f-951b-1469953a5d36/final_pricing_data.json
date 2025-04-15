@@ -1,0 +1,94 @@
+{
+  "app_id": "nutshell",
+  "app_name": "Nutshell",
+  "app_slug": "nutshell",
+  "pricing_url": "https://www.nutshell.com/pricing",
+  "source_url": "https://www.nutshell.com/pricing",
+  "all_pricing_urls": [
+    "https://www.nutshell.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is per user per month with discounts for annual billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pro",
+      "tier_description": "For teams that need CRM, sales automation, advanced reporting, and multiple pipelines to help you connect and close more leads.",
+      "monthly_price": 49.0,
+      "annual_price": 42.0,
+      "annual_discount_percentage": 14.29,
+      "setup_fee": null,
+      "features": [
+        "5 customizable pipelines",
+        "Sales automation",
+        "Personal email sequences",
+        "Full reporting suite, including Activity, Funnel, and Forecast reports",
+        "Meeting scheduling software (lite version)"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For teams and organizations that need deeper customization, change logs, and AI features to improve efficiency.",
+      "monthly_price": 67.0,
+      "annual_price": 59.0,
+      "annual_discount_percentage": 11.94,
+      "setup_fee": null,
+      "features": [
+        "Increased pipelines, territories, markets, teams and more",
+        "Unlimited Notetaker usage (AI powered speech-to-text transcription)",
+        "Meeting scheduling software (full version)",
+        "Audit log and changelog",
+        "Send email templates directly from Gmail"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T07:11:54.778978",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "37bd9fe5-b2ff-4d4f-951b-1469953a5d36",
+    "name": "Nutshell",
+    "slug": "nutshell-crm",
+    "description": "Nutshell is an affordable, easy-to-use CRM that helps small-business sales teams win more deals.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/96c0a2ff1ca63cb1cbf38ce6c21f44a1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 15,
+    "trigger_count": 5
+  }
+}

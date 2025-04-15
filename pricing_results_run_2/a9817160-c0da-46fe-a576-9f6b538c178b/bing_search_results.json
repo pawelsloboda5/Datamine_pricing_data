@@ -1,0 +1,12 @@
+{
+  "app_name": "BoomTown",
+  "app_slug": "boomtown",
+  "search_term": "Find the official pricing page URL for BoomTown (boomtown.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744715443.334583,
+  "response_text": [
+    "I couldn\u2019t locate an official pricing page for BoomTown on its website. You might want to check their site manually for assistance."
+  ],
+  "citations": [],
+  "extracted_content": [],
+  "results_directory": "pricing_results\\boomtown\\20250415_071043"
+}

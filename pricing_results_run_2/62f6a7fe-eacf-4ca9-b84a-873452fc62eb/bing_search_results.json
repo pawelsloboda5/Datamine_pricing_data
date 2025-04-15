@@ -1,0 +1,211 @@
+{
+  "app_name": "Funnelish",
+  "app_slug": "funnelish",
+  "search_term": "Find the official pricing page URL for Funnelish (funnelish.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744717837.4165637,
+  "response_text": [
+    "The official pricing page for Funnelish can be found at: [https://funnelish.com/pricing](https://funnelish.com/pricing)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Funnelish Pricing and Plans",
+      "url": "https://funnelish.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://funnelish.com/pricing",
+      "is_accessible": true,
+      "content": "### ![Image 1: funnelish plus logo](https://funnelish.com/_nuxt/img/funnelishPlus.bdc3f5d.svg)\n\nBuild high-performance eCommerce funnels in our Drag'n'Drop funnel builder without using any 3rd party tools.\n\n### Basic\n\n$ 49\n\nper month\n\nBilled monthly\n\nStart Free 14-Day Trial\n\n0% commission fees\n\n**20,000** Visitors per month\n\n**Unlimited** sales\n\nShare funnels with your unique affiliate link\n\n**20** Funnels\n\n**100** Pages\n\nUnlimited products\n\n**Unlimited** product automations\n\n**1** Workflow Automation (per funnel)\n\n**1** Custom domain\n\n**3** Payment gateways\n\n24/7 chat and email support\n\n**FREE** custom coding support\n\nPaid done-for-you funnels and migration services\n\n### Intermediate\n\n$ 79\n\nper month\n\nBilled monthly\n\nStart Free 14-Day Trial\n\n0% commission fees\n\n**100,000** Visitors per month\n\n**Unlimited** sales\n\nShare funnels with your unique affiliate link\n\n**100** Funnels\n\nUnlimited pages\n\nUnlimited products\n\n**Unlimited** product automations\n\n**3** Workflow Automations (per funnel)\n\n**3** Custom domains\n\n**6** Payment gateways\n\n24/7 chat and email support\n\n**FREE** custom coding support\n\nPaid done-for-you funnels and migration services\n\n### Advanced\n\n$ 199\n\nper month\n\nBilled monthly\n\nStart Free 14-Day Trial\n\n0% commission fees\n\n**Unlimited** visitors per month\n\n**Unlimited** sales\n\nShare funnels with your unique affiliate link\n\n**Unlimited** funnels\n\n**Unlimited** pages\n\n**Unlimited** products\n\n**Unlimited** product automations\n\n**9** Workflow Automations (per funnel)\n\n**9** Custom domains\n\n**9** Payment gateways\n\n24/7 chat and email support\n\n**FREE** custom coding support\n\n**FREE** done-for-you funnels and migration services\n\nFunnelish Apps For Clickfunnels\n\nIn case you are using Clickfunnels already and not ready to fully switch to Funnelish, you can use our apps and integrations to boost and automate your Clickfunnels sales funnels for as low as $24/mo.\n\n$ 29\n\nper month\n\nBilled monthly\n\nTestimonials\n\nWhat our users say\n\nWhat's included?\n----------------\n\nFunnelish is overloaded with features to help you scale up your eCommerce sales funnels.\n\n![Image 2](https://funnelish.com/_nuxt/img/dollarMini.1e1148b.svg) ![Image 3](https://funnelish.com/_nuxt/img/dollarBig.6eb859d.svg)\n\n##### 6 Most popular payment methods\n\nFunnelish can process payments through **Stripe, Klarna, PayPal, NMI, iDEAL and Cash on Delivery**, (we are adding new ones regularly).\n\n![Image 4](https://funnelish.com/_nuxt/img/integration.ff031c8.svg) ![Image 5](https://funnelish.com/_nuxt/img/integration2.d3099a7.svg)\n\n##### 12+ integrations\n\nShopify, Google sheets, ActiveCampaign, Klaviyo, and much more (we are adding new direct integrations regularly).\n\n![Image 6](https://funnelish.com/_nuxt/img/apps.514fe27.svg) ![Image 7](https://funnelish.com/_nuxt/img/apps2.c7d2931.svg)\n\n##### 15+ Apps\n\nOur apps are super-charged with features. We constantly add new apps that will boost your sales funnels.\n\n![Image 8](https://funnelish.com/_nuxt/img/reload.b1049d8.svg) ![Image 9](https://funnelish.com/_nuxt/img/reload2.76de8f0.svg)\n\n##### Powerful automations\n\nYou can make automations for about any use case to handle about any orders fulfillment scenario!\n\n![Image 10](https://funnelish.com/_nuxt/img/transaction.5c0b070.svg) ![Image 11](https://funnelish.com/_nuxt/img/transaction2.6448682.svg)\n\n##### 0% Transaction fee\n\nWe charge you absolutely nothing on sales you make through our platform.\n\n![Image 12](https://funnelish.com/_nuxt/img/emailBlue.347566f.svg) ![Image 13](https://funnelish.com/_nuxt/img/email2.ef18db5.svg)\n\n##### Abandoned cart sequences\n\nTrigger emails, notifications, or any integration based on your customers behaviour.\n\nDrive up your conversion rates, track your prospects, and level up your funnels all in one seamless platform",
+      "error": null,
+      "pricing_data": {
+        "app_id": "funnelish",
+        "app_name": "Funnelish",
+        "app_slug": "funnelish",
+        "pricing_url": "https://funnelish.com/pricing",
+        "source_url": "https://funnelish.com/pricing",
+        "all_pricing_urls": [
+          "https://funnelish.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": null,
+        "pricing_tiers": [
+          {
+            "tier_name": "Basic",
+            "tier_description": null,
+            "monthly_price": 49.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "0% commission fees",
+              "20,000 Visitors per month",
+              "Unlimited sales",
+              "Share funnels with your unique affiliate link",
+              "20 Funnels",
+              "100 Pages",
+              "Unlimited products",
+              "Unlimited product automations",
+              "1 Workflow Automation (per funnel)",
+              "1 Custom domain",
+              "3 Payment gateways",
+              "24/7 chat and email support",
+              "FREE custom coding support",
+              "Paid done-for-you funnels and migration services"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Visitors per month",
+                  "value": 20000
+                },
+                {
+                  "name": "Funnels",
+                  "value": 20
+                },
+                {
+                  "name": "Pages",
+                  "value": 100
+                },
+                {
+                  "name": "Workflow Automations per funnel",
+                  "value": 1
+                },
+                {
+                  "name": "Custom domains",
+                  "value": 1
+                },
+                {
+                  "name": "Payment gateways",
+                  "value": 3
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Intermediate",
+            "tier_description": null,
+            "monthly_price": 79.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "0% commission fees",
+              "100,000 Visitors per month",
+              "Unlimited sales",
+              "Share funnels with your unique affiliate link",
+              "100 Funnels",
+              "Unlimited pages",
+              "Unlimited products",
+              "Unlimited product automations",
+              "3 Workflow Automations (per funnel)",
+              "3 Custom domains",
+              "6 Payment gateways",
+              "24/7 chat and email support",
+              "FREE custom coding support",
+              "Paid done-for-you funnels and migration services"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Visitors per month",
+                  "value": 100000
+                },
+                {
+                  "name": "Funnels",
+                  "value": 100
+                },
+                {
+                  "name": "Workflow Automations per funnel",
+                  "value": 3
+                },
+                {
+                  "name": "Custom domains",
+                  "value": 3
+                },
+                {
+                  "name": "Payment gateways",
+                  "value": 6
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Advanced",
+            "tier_description": null,
+            "monthly_price": 199.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "0% commission fees",
+              "Unlimited visitors per month",
+              "Unlimited sales",
+              "Share funnels with your unique affiliate link",
+              "Unlimited funnels",
+              "Unlimited pages",
+              "Unlimited products",
+              "Unlimited product automations",
+              "9 Workflow Automations (per funnel)",
+              "9 Custom domains",
+              "9 Payment gateways",
+              "24/7 chat and email support",
+              "FREE custom coding support",
+              "FREE done-for-you funnels and migration services"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Workflow Automations per funnel",
+                  "value": 9
+                },
+                {
+                  "name": "Custom domains",
+                  "value": 9
+                },
+                {
+                  "name": "Payment gateways",
+                  "value": 9
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:50:47.878043",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\funnelish\\20250415_075048"
+}

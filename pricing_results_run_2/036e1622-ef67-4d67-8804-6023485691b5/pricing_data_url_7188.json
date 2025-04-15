@@ -1,0 +1,179 @@
+{
+  "app_id": "goproposal",
+  "app_name": "GoProposal",
+  "app_slug": "goproposal",
+  "pricing_url": "https://goproposal.com/pricing/",
+  "source_url": "https://goproposal.com/pricing/",
+  "all_pricing_urls": [
+    "https://goproposal.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "All prices exclude VAT. Optional add-ons are available for additional fees.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Solo",
+      "tier_description": "Access to all features",
+      "monthly_price": 75.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 Proposals",
+        "1 User"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Proposals",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Access to all features",
+      "monthly_price": 120.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10 Proposals",
+        "1 User"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Proposals",
+            "value": 10
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Standard",
+      "tier_description": "Access to all features",
+      "monthly_price": 150.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "50 Proposals",
+        "2 Users"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Proposals",
+            "value": 50
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "Access to all features",
+      "monthly_price": 255.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Proposals",
+        "10 Users"
+      ],
+      "limits": {
+        "users": 10,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Proposals",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "GoProposal AML",
+      "fee_amount": 32.0,
+      "fee_description": "Basic plan for AML add-on"
+    },
+    {
+      "fee_name": "GoProposal AML",
+      "fee_amount": 55.0,
+      "fee_description": "Standard plan for AML add-on"
+    },
+    {
+      "fee_name": "GoProposal AML",
+      "fee_amount": 75.0,
+      "fee_description": "Premium plan for AML add-on"
+    },
+    {
+      "fee_name": "OverSuite",
+      "fee_amount": 40.0,
+      "fee_description": "Basic plan for OverSuite add-on"
+    },
+    {
+      "fee_name": "OverSuite",
+      "fee_amount": 55.0,
+      "fee_description": "Standard plan for OverSuite add-on"
+    },
+    {
+      "fee_name": "OverSuite",
+      "fee_amount": 80.0,
+      "fee_description": "Premium plan for OverSuite add-on"
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:58:58.753346",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "036e1622-ef67-4d67-8804-6023485691b5",
+    "name": "GoProposal",
+    "slug": "goproposal",
+    "description": "GoProposal enables accountants to price consistently & eliminate scope creep.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/eb66a5cac21efd26fd12e5f8d3cdbd55.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Proposal & Invoice Management"
+    ],
+    "category_slugs": [
+      "invoices"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

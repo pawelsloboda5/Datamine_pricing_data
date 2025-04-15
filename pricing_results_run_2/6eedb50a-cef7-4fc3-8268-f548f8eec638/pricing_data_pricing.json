@@ -1,0 +1,47 @@
+{
+  "app_id": "cloudtalk",
+  "app_name": "CloudTalk",
+  "app_slug": "cloudtalk",
+  "pricing_url": "https://www.cloudtalk.io/pricing/",
+  "source_url": "https://www.cloudtalk.io/pricing",
+  "all_pricing_urls": [
+    "https://www.cloudtalk.io/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing details were not explicitly listed in the provided content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:46:46.002781",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6eedb50a-cef7-4fc3-8268-f548f8eec638",
+    "name": "CloudTalk",
+    "slug": "cloudtalk",
+    "description": "CloudTalk help modern sales and customer service teams provide better phone support and close more deals.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ac1e9000bdb71607cf5447192339ca35.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Phone & SMS"
+    ],
+    "category_slugs": [
+      "phone"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 2
+  }
+}

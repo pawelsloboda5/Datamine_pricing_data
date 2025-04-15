@@ -1,0 +1,203 @@
+{
+  "app_id": "kajabi",
+  "app_name": "Kajabi",
+  "app_slug": "kajabi",
+  "pricing_url": "https://kajabi.com/pricing",
+  "source_url": "https://kajabi.com/pricing",
+  "all_pricing_urls": [
+    "https://kajabi.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Kajabi offers a free tier for its 'Link in Bio' plan and a 14-day free trial for its paid plans.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Kickstarter",
+      "tier_description": "Get the foundations right to set up your business.",
+      "monthly_price": 89.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "0% Transaction Fee",
+        "1 Website",
+        "1 Product + 1 Community",
+        "250 Contacts",
+        "7,500 Marketing Emails",
+        "Unlimited Landing Pages",
+        "Group Onboarding Call",
+        "Kajabi AI",
+        "Creator Studio"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 250
+          },
+          {
+            "name": "Marketing Emails",
+            "value": 7500
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Basic",
+      "tier_description": "Everything you need to start running your business.",
+      "monthly_price": 149.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "0% Transaction Fee",
+        "Unlimited Landing Pages",
+        "Unlimited Marketing Emails",
+        "3 Products",
+        "3 Funnels",
+        "10,000 Contacts",
+        "1,000 Active Customers",
+        "1 Website",
+        "Kajabi AI Features",
+        "Creator Studio"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 10000
+          },
+          {
+            "name": "Active Customers",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growth",
+      "tier_description": "Expand your business and get serious about growing.",
+      "monthly_price": 199.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "0% Transaction Fee",
+        "Unlimited Landing Pages",
+        "Unlimited Marketing Emails",
+        "15 Products",
+        "15 Funnels",
+        "25,000 Contacts",
+        "10,000 Active Customers",
+        "1 Website",
+        "Kajabi AI Features",
+        "Creator Studio",
+        "Advanced Automations",
+        "Affiliate Program",
+        "Customer Branding",
+        "24/7 Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 25000
+          },
+          {
+            "name": "Active Customers",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Scale your business and team with advanced features.",
+      "monthly_price": 399.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "0% Transaction Fee",
+        "Unlimited Landing Pages",
+        "Unlimited Marketing Emails",
+        "100 Products",
+        "100 Funnels",
+        "100,000 Contacts",
+        "20,000 Active Customers",
+        "3 Websites",
+        "Kajabi AI Features",
+        "Creator Studio",
+        "Advanced Automations",
+        "Affiliate Program",
+        "Customer Branding",
+        "24/7 Support"
+      ],
+      "limits": {
+        "users": null,
+        "storage": "unlimited",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Contacts",
+            "value": 100000
+          },
+          {
+            "name": "Active Customers",
+            "value": 20000
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T08:57:56.719727",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c3e64244-dda3-4975-9b20-56797aba5cd4",
+    "name": "Kajabi",
+    "slug": "kajabi",
+    "description": "Kajabi is an all in one platform for selling, marketing, and delivering your online content.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/67a76228de122ef0b505e70759b632c1.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 5
+  }
+}

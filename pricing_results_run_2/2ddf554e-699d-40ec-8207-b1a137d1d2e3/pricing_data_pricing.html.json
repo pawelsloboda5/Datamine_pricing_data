@@ -1,0 +1,69 @@
+{
+  "app_id": "zoho_projects",
+  "app_name": "Zoho Projects",
+  "app_slug": "zoho-projects",
+  "pricing_url": "https://www.zoho.com/projects/pricing.html",
+  "source_url": "https://www.zoho.com/projects/pricing.html",
+  "all_pricing_urls": [
+    "https://www.zoho.com/projects/pricing.html"
+  ],
+  "price_model_type": [
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The free tier is limited to 5 users.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Free plan for up to 5 users.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Basic project management features"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T00:49:20.627564",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "2ddf554e-699d-40ec-8207-b1a137d1d2e3",
+    "name": "Zoho Projects",
+    "slug": "zoho-projects",
+    "description": "Zoho Projects is an online project management app that helps you plan your work and keep track of your progress. It also lets the people in the project communicate easily, discuss ideas, and stay updated. This lets you deliver quality results on time.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/9bbd70911f81b75e3d6788a0aea4b105.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management",
+      "Zoho"
+    ],
+    "category_slugs": [
+      "project-management",
+      "zoho"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 11,
+    "trigger_count": 6
+  }
+}

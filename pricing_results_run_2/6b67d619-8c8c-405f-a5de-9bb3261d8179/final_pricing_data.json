@@ -1,0 +1,45 @@
+{
+  "app_id": "moneybird",
+  "app_name": "Moneybird",
+  "app_slug": "moneybird",
+  "pricing_url": "https://www.moneybird.com/pricing",
+  "source_url": "https://www.moneybird.com/pricing\u30103:0\u2020source\u3011.",
+  "all_pricing_urls": [
+    "https://www.moneybird.com/pricing"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page was not accessible, and no pricing information could be extracted.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:08:07.880296",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "6b67d619-8c8c-405f-a5de-9bb3261d8179",
+    "name": "Moneybird",
+    "slug": "moneybird",
+    "description": "Moneybird provides cloud accounting for SME's in Holland.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/183267e75303f3334fb5f86afe35e88b_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 2
+  }
+}

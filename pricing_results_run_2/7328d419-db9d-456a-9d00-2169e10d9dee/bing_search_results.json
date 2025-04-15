@@ -1,0 +1,159 @@
+{
+  "app_name": "Frame.io",
+  "app_slug": "frameio",
+  "search_term": "Find the official pricing page URL for Frame.io (frameio.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744714988.6259403,
+  "response_text": [
+    "The official pricing page for Frame.io can be found at [https://www.frame.io/plans](https://www.frame.io/plans)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Frame.io",
+      "url": "https://frame.io/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://frame.io/pricing",
+      "is_accessible": true,
+      "content": "![Image 1](https://cdn.sanity.io/images/s6lu43cv/production-v4/dd1705dcb4b45503d30981963c24e17a743ed1d2-2880x8442.png?rect=0%2C0%2C2880%2C3046&w=2400&h=7035&q=80&auto=format&fit=max)\n\nPlans designed for how you work.\n--------------------------------\n\nFor basic use\n\nFree\n\n$0\n\nStart experiencing Frame.io right now. No credit card required.\n\nFree Plan includes\n\n*   Up to 2 members\n*   2GB storage\n*   Up to 2 projects\n*   Camera to Cloud\n    \n    Takes from the set are instantly uploaded the moment the director yells \u201ccut.\u201d So the rest of the team doesn\u2019t have to be at the shoot to be part of it.\n    \n\n[View all Features](https://frame.io/pricing#pricing-table)\n\nFor professionals\n\nPro\n\n15 dollars\n\nper memberper month + tax\n\nShare and present securely, easily, and beautifully.\n\nEverything in Free, plus\n\n*   Up to 5 members\n*   2 TB included + 2TB per member\n*   Unlimited projects\n*   Custom-branded shares\n*   Passphrase-protected shares\n    \n    Secure your share links with custom passphrases.\n    \n*   Share link expiration\n    \n    Control how long shared links can be accessed by setting an expiration date.\n    \n*   Share permissions\n    \n    Disable asset downloads or comments, and hide previous asset versions to secure your content and workflow.\n    \n*   Comment attachments\n\n[View all Features](https://frame.io/pricing#pricing-table)\n\nMost popular\n\nTeam\n\n25 dollars\n\nper memberper month + tax\n\nRemove blockers to create and deliver high-quality content faster.\n\nEverything in Pro, plus\n\n*   Up to 15 members\n*   3TB included + 2TB per member\n*   Restricted projects\n*   Internal comments\n    \n    Separate internal conversations from conversations with clients and collaborators.\n    \n\n[View all Features](https://frame.io/pricing#pricing-table)\n\nFor multiple teams\n\nEnterprise\n\nCustom\n\nIndustry-leading security, scalability, and admin controls.\n\nEverything in Team, Plus\n\n*   Custom members and storage\n*   Single sign-on\n*   Multiple team workspaces\n    \n    Easily create separate, private Frame.io workspaces for each client, department, production, or brand.\n    \n*   Session-based watermarking\n    \n    Secure asset views and downloads by embedding personal identifying information like the viewer\u2019s email, IP, or geolocation.\n    \n*   Secure Sharing\n    \n    Send invite-only secure links to specific emails or manage Share access in account setting.\n    \n*   Priority in-app support\n    \n    Get enhanced support with 24/5 one-hour response time, enterprise-level SLA, escalated bug reporting, and more.\n    \n*   Storage Connect\n    \n    Connect your own AWS-S3 bucket directly to Frame.io\n    \n\n[View all Features](https://frame.io/pricing#pricing-table)\n\nOgilvy Logo\n\nGoogle Logo\n\nMasterClass Logo\n\nFox Sports Logo\n\nNational Geographic Society Logo\n\nMediaMonks Logo\n\nTurner Logo\n\nVice Logo\n\nOgilvy Logo\n\nGoogle Logo\n\nMasterClass Logo\n\nFox Sports Logo\n\nNational Geographic Society Logo\n\nMediaMonks Logo\n\nTurner Logo\n\nVice Logo\n\nOgilvy Logo\n\nGoogle Logo\n\nMasterClass Logo\n\nFox Sports Logo\n\nNational Geographic Society Logo\n\nMediaMonks Logo\n\nTurner Logo\n\nVice Logo\n\nCompare  \nplans\n---------------\n\n*   Member seat limit\n    \n    2\n    \n    Storage\n    \n    2GB\n    \n    Storage add-ons available\n    \n    \u2014\n    \n    Storage Connect\\*\n    \n    \u2014\n    \n    Projects\n    \n    2\n    \n    Restricted projects\n    \n    \u2014\n    \n    Workspaces\n    \n    1\n    \n    Frame-accurate & range-based comments\n    \n    Annotations\n    \n    Metadata: Custom & default\n    \n    Collections\n    \n    Download & export comments\n    \n    Print comments & annotation thumbnails\n    \n    Copy & paste comments\n    \n    Comment attachments\n    \n    \u2014\n    \n    Internal comments\n    \n    \u2014\n    \n    Document Markup\n    \n    Software integrations\n    \n    Hardware integrations\n    \n    Custom branded shares\n    \n    \u2014\n    \n    Share Branding Defaults\n    \n    \u2014\n    \n    Public shares\n    \n    Reel layout\n    \n    \u2014\n    \n    Passphrase-protected shares\n    \n    \u2014\n    \n    Disable asset downloads\n    \n    \u2014\n    \n    Disable comments\n    \n    \u2014\n    \n    Hide previous versions\n    \n    \u2014\n    \n    Share link expiration\n    \n    \u2014\n    \n    Secure Sharing\\*\n    \n    \u2014\n    \n    Secure sharing authorized domains\n    \n    \u2014\n    \n    Content security settings\n    \n    \u2014\n    \n    Version stacks\n    \n    Comparison viewer\n    \n    4K UHD playback\n    \n    \u2014\n    \n    HDR playback (Frame.io iOS app)\n    \n    \u2014\n    \n    Transcription (Beta)\n    \n    Session-based watermarking\\*\\*\n    \n    \u2014\n    \n    Static watermarking\n    \n    \u2014\n    \n    Watermarking Templates\n    \n    \u2014\n    \n    SOC Type 2 compliant\n    \n    TPN+ Gold Shield accredited\n    \n    Social Sign-On\n    \n    SAML2-based SSO\n    \n    \u2014\n    \n    Frame.io iOS app\n    \n    Frame.io tvOS App\n    \n    Frame.io Transfer app\n    \n    Premiere Pro integration\n    \n    Frame.io to Lightroom connection\n    \n    Final Cut Pro integration\n    \n    Knowledge base\n    \n    Email support\n    \n    In-app chat support\n    \n    \u2014\n    \n    Adobe Support - Standard\n    \n    Adobe Support - Prioritized\n    \n    \u2014\n    \n    Dedicated account manager\n    \n    \u2014\n    \n    Enterprise SLA\n    \n    \u2014\n    \n    Custom trainings\n    \n    \u2014\n    \n    Auto-Payment via card\n    \n    Payment by invoice\n    \n    \u2014\n    \n    Custom invoicing period\n    \n    \u2014\n    \n*   Member seat limit\n    \n    5\n    \n    Storage\n    \n    2TB included + 2TB per member\n    \n    Storage add-ons available\n    \n    Storage Connect\\*\n    \n    \u2014\n    \n    Projects\n    \n    Unlimited\n    \n    Restricted projects\n    \n    \u2014\n    \n    Workspaces\n    \n    1\n    \n    Frame-accurate & range-based comments\n    \n    Annotations\n    \n    Metadata: Custom & default\n    \n    Collections\n    \n    Download & export comments\n    \n    Print comments & annotation thumbnails\n    \n    Copy & paste comments\n    \n    Comment attachments\n    \n    Internal comments\n    \n    \u2014\n    \n    Document Markup\n    \n    Software integrations\n    \n    Hardware integrations\n    \n    Custom branded shares\n    \n    Share Branding Defaults\n    \n    Public shares\n    \n    Reel layout\n    \n    Passphrase-protected shares\n    \n    Disable asset downloads\n    \n    Disable comments\n    \n    Hide previous versions\n    \n    Share link expiration\n    \n    Secure Sharing\\*\n    \n    \u2014\n    \n    Secure sharing authorized domains\n    \n    \u2014\n    \n    Content security settings\n    \n    \u2014\n    \n    Version stacks\n    \n    Comparison viewer\n    \n    4K UHD playback\n    \n    HDR playback (Frame.io iOS app)\n    \n    Transcription (Beta)\n    \n    Session-based watermarking\\*\\*\n    \n    \u2014\n    \n    Static watermarking\n    \n    Watermarking Templates\n    \n    1\n    \n    SOC Type 2 compliant\n    \n    TPN+ Gold Shield accredited\n    \n    Social Sign-On\n    \n    SAML2-based SSO\n    \n    \u2014\n    \n    Frame.io iOS app\n    \n    Frame.io tvOS App\n    \n    Frame.io Transfer app\n    \n    Premiere Pro integration\n    \n    Frame.io to Lightroom connection\n    \n    Final Cut Pro integration\n    \n    Knowledge base\n    \n    Email support\n    \n    In-app chat support\n    \n    Adobe Support - Standard\n    \n    Adobe Support - Prioritized\n    \n    \u2014\n    \n    Dedicated account manager\n    \n    \u2014\n    \n    Enterprise SLA\n    \n    \u2014\n    \n    Custom trainings\n    \n    \u2014\n    \n    Auto-Payment via card\n    \n    Payment by invoice\n    \n    \u2014\n    \n    Custom invoicing period\n    \n    \u2014\n    \n*   Member seat limit\n    \n    15\n    \n    Storage\n    \n    3TB included + 2TB per member\n    \n    Storage add-ons available\n    \n    Storage Connect\\*\n    \n    \u2014\n    \n    Projects\n    \n    Unlimited\n    \n    Restricted projects\n    \n    Workspaces\n    \n    1\n    \n    Frame-accurate & range-based comments\n    \n    Annotations\n    \n    Metadata: Custom & default\n    \n    Collections\n    \n    Download & export comments\n    \n    Print comments & annotation thumbnails\n    \n    Copy & paste comments\n    \n    Comment attachments\n    \n    Internal comments\n    \n    Document Markup\n    \n    Software integrations\n    \n    Hardware integrations\n    \n    Custom branded shares\n    \n    Share Branding Defaults\n    \n    Public shares\n    \n    Reel layout\n    \n    Passphrase-protected shares\n    \n    Disable asset downloads\n    \n    Disable comments\n    \n    Hide previous versions\n    \n    Share link expiration\n    \n    Secure Sharing\\*\n    \n    \u2014\n    \n    Secure sharing authorized domains\n    \n    \u2014\n    \n    Content security settings\n    \n    \u2014\n    \n    Version stacks\n    \n    Comparison viewer\n    \n    4K UHD playback\n    \n    HDR playback (Frame.io iOS app)\n    \n    Transcription (Beta)\n    \n    Session-based watermarking\\*\\*\n    \n    \u2014\n    \n    Static watermarking\n    \n    Watermarking Templates\n    \n    1\n    \n    SOC Type 2 compliant\n    \n    TPN+ Gold Shield accredited\n    \n    Social Sign-On\n    \n    SAML2-based SSO\n    \n    \u2014\n    \n    Frame.io iOS app\n    \n    Frame.io tvOS App\n    \n    Frame.io Transfer app\n    \n    Premiere Pro integration\n    \n    Frame.io to Lightroom connection\n    \n    Final Cut Pro integration\n    \n    Knowledge base\n    \n    Email support\n    \n    In-app chat support\n    \n    Adobe Support - Standard\n    \n    Adobe Support - Prioritized\n    \n    \u2014\n    \n    Dedicated account manager\n    \n    \u2014\n    \n    Enterprise SLA\n    \n    \u2014\n    \n    Custom trainings\n    \n    \u2014\n    \n    Auto-Payment via card\n    \n    Payment by invoice\n    \n    \u2014\n    \n    Custom invoicing period\n    \n    \u2014\n    \n*   Member seat limit\n    \n    Custom\n    \n    Storage\n    \n    Custom\n    \n    Storage add-ons available\n    \n    Storage Connect\\*\n    \n    Projects\n    \n    Unlimited\n    \n    Restricted projects\n    \n    Workspaces\n    \n    Unlimited\n    \n    Frame-accurate & range-based comments\n    \n    Annotations\n    \n    Metadata: Custom & default\n    \n    Collections\n    \n    Download & export comments\n    \n    Print comments & annotation thumbnails\n    \n    Copy & paste comments\n    \n    Comment attachments\n    \n    Internal comments\n    \n    Document Markup\n    \n    Software integrations\n    \n    Hardware integrations\n    \n    Custom branded shares\n    \n    Share Branding Defaults\n    \n    Public shares\n    \n    Reel layout\n    \n    Passphrase-protected shares\n    \n    Disable asset downloads\n    \n    Disable comments\n    \n    Hide previous versions\n    \n    Share link expiration\n    \n    Secure Sharing\\*\n    \n    Secure sharing authorized domains\n    \n    Content security settings\n    \n    Version stacks\n    \n    Comparison viewer\n    \n    4K UHD playback\n    \n    HDR playback (Frame.io iOS app)\n    \n    Transcription (Beta)\n    \n    Session-based watermarking\\*\\*\n    \n    Static watermarking\n    \n    Watermarking Templates\n    \n    Unlimited\n    \n    SOC Type 2 compliant\n    \n    TPN+ Gold Shield accredited\n    \n    Social Sign-On\n    \n    SAML2-based SSO\n    \n    Frame.io iOS app\n    \n    Frame.io tvOS App\n    \n    Frame.io Transfer app\n    \n    Premiere Pro integration\n    \n    Frame.io to Lightroom connection\n    \n    Final Cut Pro integration\n    \n    Knowledge base\n    \n    Email support\n    \n    In-app chat support\n    \n    Adobe Support - Standard\n    \n    Adobe Support - Prioritized\n    \n    Adobe Support Plan Add-On\n    \n    Dedicated account manager\n    \n    Enterprise SLA\n    \n    Custom trainings\n    \n    Auto-Payment via card\n    \n    \u2014\n    \n    Payment by invoice\n    \n    Custom invoicing period\n    \n\nMember seat limit\n\n5\n\nStorage\n\n2TB included + 2TB per member\n\nStorage add-ons available\n\nStorage Connect\\*\n\n\u2014\n\nProjects\n\nUnlimited\n\nRestricted projects\n\n\u2014\n\nWorkspaces\n\n1\n\nFrame-accurate & range-based comments\n\nAnnotations\n\nMetadata: Custom & default\n\nCollections\n\nDownload & export comments\n\nPrint comments & annotation thumbnails\n\nCopy & paste comments\n\nComment attachments\n\nInternal comments\n\n\u2014\n\nDocument Markup\n\nSoftware integrations\n\nHardware integrations\n\nCustom branded shares\n\nShare Branding Defaults\n\nPublic shares\n\nReel layout\n\nPassphrase-protected shares\n\nDisable asset downloads\n\nDisable comments\n\nHide previous versions\n\nShare link expiration\n\nSecure Sharing\\*\n\n\u2014\n\nSecure sharing authorized domains\n\n\u2014\n\nContent security settings\n\n\u2014\n\nVersion stacks\n\nComparison viewer\n\n4K UHD playback\n\nHDR playback (Frame.io iOS app)\n\nTranscription (Beta)\n\nSession-based watermarking\\*\\*\n\n\u2014\n\nStatic watermarking\n\nWatermarking Templates\n\n1\n\nSOC Type 2 compliant\n\nTPN+ Gold Shield accredited\n\nSocial Sign-On\n\nSAML2-based SSO\n\n\u2014\n\nFrame.io iOS app\n\nFrame.io tvOS App\n\nFrame.io Transfer app\n\nPremiere Pro integration\n\nFrame.io to Lightroom connection\n\nFinal Cut Pro integration\n\nKnowledge base\n\nEmail support\n\nIn-app chat support\n\nAdobe Support - Standard\n\nAdobe Support - Prioritized\n\n\u2014\n\nDedicated account manager\n\n\u2014\n\nEnterprise SLA\n\n\u2014\n\nCustom trainings\n\n\u2014\n\nAuto-Payment via card\n\nPayment by invoice\n\n\u2014\n\nCustom invoicing period\n\n\u2014\n\n\\*Exclusive to Frame.io Enterprise Prime package, \\*\\*Available as paid add-on to Frame.io Enterprise Select package\n\nPrincess Cruises - White\n\n\u201cWe\u2019ve coined the term \u201ccollaboration velocity.\u201d With Frame.io we\u2019re able to communicate at speeds we\u2019ve never been able to before.\u201d\n--------------------------------------------------------------------------------------------------------------------------------\n\nScott Martin _Senior Manager of Media Production, Princess Cruises_\n\nFrequently  \nasked questions\n----------------------------\n\n### Start using Frame.io  \ntoday for free.\n\nFrame.io is the world's leading creative review and collaboration platform. Share media, collect feedback, manage reviews, and deliver finished work faster \u2014 from anywhere in the world.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "frame_io",
+        "app_name": "Frame.io",
+        "app_slug": "frame-io",
+        "pricing_url": "https://frame.io/pricing",
+        "source_url": "https://frame.io/pricing",
+        "all_pricing_urls": [
+          "https://frame.io/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.FREE_TIER",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is based on per-member per-month rates for Pro and Team plans, with custom pricing for Enterprise.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Free",
+            "tier_description": "For basic use",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Up to 2 members",
+              "2GB storage",
+              "Up to 2 projects",
+              "Camera to Cloud"
+            ],
+            "limits": {
+              "users": 2,
+              "storage": "2GB",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Pro",
+            "tier_description": "For professionals",
+            "monthly_price": 15.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Up to 5 members",
+              "2TB included + 2TB per member",
+              "Unlimited projects",
+              "Custom-branded shares",
+              "Passphrase-protected shares",
+              "Share link expiration",
+              "Share permissions",
+              "Comment attachments"
+            ],
+            "limits": {
+              "users": 5,
+              "storage": "2TB included + 2TB per member",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Team",
+            "tier_description": "Most popular",
+            "monthly_price": 25.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Up to 15 members",
+              "3TB included + 2TB per member",
+              "Restricted projects",
+              "Internal comments"
+            ],
+            "limits": {
+              "users": 15,
+              "storage": "3TB included + 2TB per member",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Enterprise",
+            "tier_description": "For multiple teams",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Custom members and storage",
+              "Single sign-on",
+              "Multiple team workspaces",
+              "Session-based watermarking",
+              "Secure Sharing",
+              "Priority in-app support",
+              "Storage Connect"
+            ],
+            "limits": {
+              "users": "Custom",
+              "storage": "Custom",
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T07:03:22.376936",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.frame.io/plans",
+      "is_accessible": false,
+      "content": null,
+      "error": "Exception: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=15)"
+    }
+  ],
+  "results_directory": "pricing_results\\frameio\\20250415_070337"
+}

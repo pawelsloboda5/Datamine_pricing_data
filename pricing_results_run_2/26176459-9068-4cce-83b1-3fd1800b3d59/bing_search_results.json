@@ -1,0 +1,46 @@
+{
+  "app_name": "Pushcut",
+  "app_slug": "pushcut",
+  "search_term": "Find the official pricing page URL for Pushcut (pushcut.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744702718.6685786,
+  "response_text": [
+    "The official pricing page for Pushcut is at https://www.pushcut.io/pricing."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.pushcut.io/pricing.",
+      "is_accessible": true,
+      "content": "Pushcut | Automatically show your favorite site's recent news on your homescreen\n===============         \n\n \u00a0[![Image 1: Pushcut](https://www.pushcut.io/assets/pushcut-icon.png) Pushcut](https://www.pushcut.io/)\n\n[Guides](https://www.pushcut.io/guides)[Widgets](https://www.pushcut.io/guides_widgets)[Support](https://www.pushcut.io/support)[Videos](https://www.pushcut.io/videos)[Shortcuts](https://www.pushcut.io/shortcuts_actions)[Updates](https://www.pushcut.io/blog)\n\nNot Found\n=========\n\nThe page you're looking for could not be found.\n\nHere are some useful pages:\n\n*   [Guides](https://www.pushcut.io/guides)\n    \n*   [Widgets](https://www.pushcut.io/guides_widgets)\n    \n*   [Support](https://www.pushcut.io/support)\n    \n*   [Videos](https://www.pushcut.io/videos)\n    \n*   [Shortcuts](https://www.pushcut.io/shortcuts_actions)\n    \n*   [Updates](https://www.pushcut.io/blog)\n    \n*   [Schedule and Cancel Notifications with the API](https://www.pushcut.io/guides/homekit-api-schedule-cancel)\n    \n*   [Smart notifications for HomeKit](https://www.pushcut.io/guides/homekit)\n    \n*   [Trigger shortcuts from IFTTT](https://www.pushcut.io/guides/ifttt)\n    \n*   [IFTTT: Notification Inputs](https://www.pushcut.io/guides/ifttt-maildrop)\n    \n*   [Using Background triggers and IFTTT webhooks](https://www.pushcut.io/guides/ifttt-webhook)\n    \n*   [Trigger shortcuts based on location](https://www.pushcut.io/guides/location)\n    \n*   [Trigger online actions with Make](https://www.pushcut.io/guides/make)\n    \n*   [Scheduled shortcuts](https://www.pushcut.io/guides/scheduled)\n    \n*   [Push notifications from Zapier](https://www.pushcut.io/guides/zapier)\n    \n*   [Automation Server](https://www.pushcut.io/support/automation-server)\n    \n*   [IFTTT](https://www.pushcut.io/support/ifttt)\n    \n*   [Synchronization, Integration Services and API](https://www.pushcut.io/support/integrations)\n    \n*   [Notifications, Shortcuts & Triggers](https://www.pushcut.io/support/notifications)\n    \n*   [Settings](https://www.pushcut.io/support/settings)\n    \n*   [URL Scheme](https://www.pushcut.io/support/url-scheme)\n    \n*   [Widgets](https://www.pushcut.io/support/widgets)\n    \n\n\u00a9 Simon Leeb 2019\n\nApple, the Apple logo, iPhone, iPad, and Apple Watch are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Shortcuts is an app produced by Apple. We are not affiliated with it in any way.\n\n[Snailed It Development Ltd (Company No. 13620216) is registered in England and Wales at 7 Bell Yard, London, WC2A 2JR.](https://snailedit.dev/)\n\n*   [Guides](https://www.pushcut.io/guides)\n*   [Widgets](https://www.pushcut.io/guides_widgets)\n*   [Support](https://www.pushcut.io/support)\n*   [Videos](https://www.pushcut.io/videos)\n*   [Shortcuts](https://www.pushcut.io/shortcuts_actions)\n*   [Updates](https://www.pushcut.io/blog)\n*   [App Store](https://www.pushcut.io/appstore)\n*   [IFTTT](https://www.pushcut.io/ifttt)\n*   [Mastodon](https://www.pushcut.io/mastodon)\n*   [Privacy](https://www.pushcut.io/privacy)\n*   [Reddit](https://www.pushcut.io/reddit)\n*   [Terms of Use](https://www.pushcut.io/terms)\n*   [Web API](https://www.pushcut.io/webapi)\n\nTrigger iOS shortcuts from anywhere! Automation superpowers through smart notifications. Trigger the right action based on location, time, HomeKit, or any online event. Connect to HomeKit, IFTTT, Zapier, Flow, Make, or anything connected to the internet.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "pushcut",
+        "app_name": "Pushcut",
+        "app_slug": "pushcut",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": false,
+        "pricing_notes": "The pricing page for Pushcut could not be located or accessed.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:38:45.554802",
+        "schema_validated": true,
+        "confidence_score": 80,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\pushcut\\20250415_033846"
+}

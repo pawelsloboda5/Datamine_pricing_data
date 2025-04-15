@@ -1,0 +1,196 @@
+{
+  "app_id": "wise_agent_crm",
+  "app_name": "Wise Agent CRM",
+  "app_slug": "wise-agent-crm",
+  "pricing_url": "https://wiseagent.com/pricing.asp",
+  "source_url": "https://wiseagent.com/pricing.asp",
+  "all_pricing_urls": [
+    "https://wiseagent.com/pricing.asp"
+  ],
+  "price_model_type": [
+    "subscription",
+    "custom"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes options for additional features and enterprise solutions.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Monthly",
+      "tier_description": "Standard monthly subscription.",
+      "monthly_price": 49.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Drip Marketing Campaigns",
+        "Lead Automation",
+        "Team-Friendly Calendar",
+        "Free 24/7 support",
+        "Transaction Manager",
+        "Contact Manager",
+        "Customizable Landing Pages",
+        "Unlimited Training",
+        "Lead Enhancement",
+        "Unlimited Document Storage",
+        "Monthly Newsletter",
+        "Reporting Tools"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Team Members",
+            "value": 5
+          },
+          {
+            "name": "Landing Pages",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Annual",
+      "tier_description": "Annual subscription with a discount.",
+      "monthly_price": null,
+      "annual_price": 499.0,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Drip Marketing Campaigns",
+        "Lead Automation",
+        "Team-Friendly Calendar",
+        "Free 24/7 support",
+        "Transaction Manager",
+        "Contact Manager",
+        "Customizable Landing Pages",
+        "Unlimited Training",
+        "Lead Enhancement",
+        "Unlimited Document Storage",
+        "Monthly Newsletter",
+        "Reporting Tools"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Team Members",
+            "value": 5
+          },
+          {
+            "name": "Landing Pages",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom pricing for teams of 15+ agents.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Bulk Licensing",
+        "White Label Solutions",
+        "24/7 x 365 Live Support"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Lead Enhancement Credits",
+      "unit": "per credit",
+      "base_price": 5.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 100.0,
+          "price": 0.0
+        },
+        {
+          "min": 101.0,
+          "max": "unlimited",
+          "price": 5.0
+        }
+      ]
+    },
+    {
+      "metric_name": "WiseText SMS",
+      "unit": "per month",
+      "base_price": 11.0,
+      "tiers": [
+        {
+          "min": 0.0,
+          "max": 1000.0,
+          "price": 11.0
+        }
+      ]
+    },
+    {
+      "metric_name": "Additional Landing Pages",
+      "unit": "per page",
+      "base_price": 5.0,
+      "tiers": [
+        {
+          "min": 2.0,
+          "max": "unlimited",
+          "price": 5.0
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "WiseText SMS Registration Fee",
+      "fee_amount": 80.0,
+      "fee_description": "One-time registration fee for SMS feature."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T01:26:56.820336",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "7432f8a5-0918-4147-b7be-66aa65045347",
+    "name": "Wise Agent CRM",
+    "slug": "wise-agent-crm",
+    "description": "Wise Agent CRM helps Realtor's become pros by automating their leads, responses, appointments, and transactions.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/f636348624013f39d77c1b3cb9ed72eb_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)"
+    ],
+    "category_slugs": [
+      "crm"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 2,
+    "trigger_count": 0
+  }
+}

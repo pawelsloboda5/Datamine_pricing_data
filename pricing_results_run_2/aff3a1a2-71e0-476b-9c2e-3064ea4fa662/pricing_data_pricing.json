@@ -1,0 +1,133 @@
+{
+  "app_id": "patreon",
+  "app_name": "Patreon",
+  "app_slug": "patreon",
+  "pricing_url": "https://www.patreon.com/pricing",
+  "source_url": "https://www.patreon.com/pricing",
+  "all_pricing_urls": [
+    "https://www.patreon.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Patreon charges a percentage of earnings as fees, with additional processing and conversion fees.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Pro",
+      "tier_description": "A core set of tools to help you earn an income for your creative work directly from your community.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Monthly and annual subscriptions",
+        "Membership tiers",
+        "Free trials and special offers",
+        "Priority customer support",
+        "Engagement tools (chats, DMs, comments)",
+        "Member analytics and insights"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Premium",
+      "tier_description": "An enhanced set of tools to help you earn an income for your creative work directly from your community and grow your creative business.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything from Pro",
+        "Dedicated partner manager",
+        "Team accounts",
+        "Merch for membership"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Commerce",
+      "tier_description": "Quickly and easily sell digital products directly on Patreon.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited products, no listing fees",
+        "Hosting for all media types",
+        "Dedicated shop tab on your page",
+        "Product detail pages",
+        "Sales analytics and insights",
+        "Promotional tools"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Pro Plan",
+      "unit": "percentage of income",
+      "base_price": 8.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Premium Plan",
+      "unit": "percentage of income",
+      "base_price": 12.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Commerce Plan",
+      "unit": "percentage of monthly sales earnings",
+      "base_price": 5.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "Payment processing fees",
+      "fee_amount": null,
+      "fee_description": "Additional fees for processing payments."
+    },
+    {
+      "fee_name": "Currency conversion fees",
+      "fee_amount": null,
+      "fee_description": "Fees for converting currencies."
+    },
+    {
+      "fee_name": "Payout fees",
+      "fee_amount": null,
+      "fee_description": "Fees for transferring payouts."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T07:28:25.707199",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "aff3a1a2-71e0-476b-9c2e-3064ea4fa662",
+    "name": "Patreon",
+    "slug": "patreon",
+    "description": "Patreon was built to power membership businesses for creators and strives to support creators who wish to gain consistent, sustainable income through their work. Patreon also empowers creators to retain direct contact with their most passionate fans and own creative control of their work.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/feec5ab9e3b5e3eee166d3553952b510_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fundraising"
+    ],
+    "category_slugs": [
+      "fundraising"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 8
+  }
+}

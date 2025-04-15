@@ -1,0 +1,166 @@
+{
+  "app_name": "SkedPal",
+  "app_slug": "skedpal",
+  "search_term": "Find the official pricing page URL for SkedPal (skedpal.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744700863.0307505,
+  "response_text": [
+    "The official pricing page for SkedPal is: [https://www.skedpal.com/pricing/](https://www.skedpal.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing - SkedPal",
+      "url": "https://skedpal.com/pricing/"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.skedpal.com/pricing/",
+      "is_accessible": true,
+      "content": "Start Your **FREE Trial**\n-------------------------\n\nMonthly\n-------\n\n$ 14\n\n95\n\nper month plus taxes billed monthly. Cancel any time.\n\n*   Full access to all features\n    \n*   Pay Monthly\n    \n*   Cancel any time\n    \n\n[Try it FREE](https://app.skedpal.com/#/getting-started/welcome?)\n\nNo credit card required to sign up! Try it FREE for 14 days.\n\nYearly\n------\n\n$ 9\n\n95\n\nper month plus taxes billed yearly. Cancel any time.\n\n*   Full access to all features\n    \n*   Pay Yearly\n    \n*   Cancel any time\n    \n\n[Try it FREE](https://app.skedpal.com/#/getting-started/welcome?)\n\nNo credit card required to sign up! Try it FREE for 14 days.\n\nSave 33%\n\nFAQ's\n-----\n\nYou will have full access to all the features of SkedPal during this period absolutely free with no obligation.\n\nWe do not ask for any payment details to get started for the 14-day free trial. In case, you do not wish to subscribe, there won\u2019t be any charges or commitments.\n\nThere are many free task management apps with premium pricing of as little as $3/mo. There is a lot more to SkedPal than list management. The artificial intelligence used in the app makes you 10x more productive. Try it FREE now!\n\nAs soon as you\u2019re ready to upgrade your account to a paid subscription plan, you can go to the app settings and subscribe to either the monthly or yearly plans.\n\nYou\u2019ll be able to cancel your subscription at any time using the app settings. This will prevent your card from getting charged at the next billing cycle.\n\nIf you cancel before the end of your billing period, you can continue to enjoy SkedPal services up until your renewal date!\n\nYes, you can get up to 100% discount on your subscription cost by inviting your friends. For every friend who subscribes to SkedPal, we\u2019ll give you both 10% discount.\n\nWe use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking \u201cAccept All\u201d, you consent to the use of ALL the cookies. However, you may visit \"Cookie Settings\" to provide a controlled consent.\n\nStart Your FREE Trial Monthly $ 14 95 per month plus taxes billed monthly. Cancel any time. Full access to all features Pay Monthly Cancel any time Try it FREE No credit card required to sign up! Try it FREE for 14 days. Yearly $ 9 95 per month plus taxes billed yearly. Cancel any",
+      "error": null,
+      "pricing_data": {
+        "app_id": "skedpal",
+        "app_name": "SkedPal",
+        "app_slug": "skedpal",
+        "pricing_url": "https://app.skedpal.com/#/getting-started/welcome?",
+        "source_url": "https://app.skedpal.com/#/getting-started/welcome?",
+        "all_pricing_urls": [
+          "https://app.skedpal.com/#/getting-started/welcome?"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Users can invite friends to receive discounts on subscription costs.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Monthly",
+            "tier_description": "Monthly subscription plan.",
+            "monthly_price": 14.95,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Full access to all features",
+              "Pay Monthly",
+              "Cancel any time"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Yearly",
+            "tier_description": "Yearly subscription plan.",
+            "monthly_price": 9.95,
+            "annual_price": 119.4,
+            "annual_discount_percentage": 33.0,
+            "setup_fee": null,
+            "features": [
+              "Full access to all features",
+              "Pay Yearly",
+              "Cancel any time"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Referral Discount",
+            "offer_description": "Receive up to 100% discount by inviting friends. Each friend subscription gives both users a 10% discount.",
+            "discount_percentage": 100.0,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:07:51.927112",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://skedpal.com/pricing/",
+      "is_accessible": true,
+      "content": "Start Your **FREE Trial**\n-------------------------\n\nMonthly\n-------\n\n$ 14\n\n95\n\nper month plus taxes billed monthly. Cancel any time.\n\n*   Full access to all features\n    \n*   Pay Monthly\n    \n*   Cancel any time\n    \n\n[Try it FREE](https://app.skedpal.com/#/getting-started/welcome?)\n\nNo credit card required to sign up! Try it FREE for 14 days.\n\nYearly\n------\n\n$ 9\n\n95\n\nper month plus taxes billed yearly. Cancel any time.\n\n*   Full access to all features\n    \n*   Pay Yearly\n    \n*   Cancel any time\n    \n\n[Try it FREE](https://app.skedpal.com/#/getting-started/welcome?)\n\nNo credit card required to sign up! Try it FREE for 14 days.\n\nSave 33%\n\nFAQ's\n-----\n\nYou will have full access to all the features of SkedPal during this period absolutely free with no obligation.\n\nWe do not ask for any payment details to get started for the 14-day free trial. In case, you do not wish to subscribe, there won\u2019t be any charges or commitments.\n\nThere are many free task management apps with premium pricing of as little as $3/mo. There is a lot more to SkedPal than list management. The artificial intelligence used in the app makes you 10x more productive. Try it FREE now!\n\nAs soon as you\u2019re ready to upgrade your account to a paid subscription plan, you can go to the app settings and subscribe to either the monthly or yearly plans.\n\nYou\u2019ll be able to cancel your subscription at any time using the app settings. This will prevent your card from getting charged at the next billing cycle.\n\nIf you cancel before the end of your billing period, you can continue to enjoy SkedPal services up until your renewal date!\n\nYes, you can get up to 100% discount on your subscription cost by inviting your friends. For every friend who subscribes to SkedPal, we\u2019ll give you both 10% discount.\n\nWe use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking \u201cAccept All\u201d, you consent to the use of ALL the cookies. However, you may visit \"Cookie Settings\" to provide a controlled consent.\n\nStart Your FREE Trial Monthly $ 14 95 per month plus taxes billed monthly. Cancel any time. Full access to all features Pay Monthly Cancel any time Try it FREE No credit card required to sign up! Try it FREE for 14 days. Yearly $ 9 95 per month plus taxes billed yearly. Cancel any",
+      "error": null,
+      "pricing_data": {
+        "app_id": "skedpal",
+        "app_name": "SkedPal",
+        "app_slug": "skedpal",
+        "pricing_url": "https://app.skedpal.com/#/getting-started/welcome?",
+        "source_url": "https://app.skedpal.com/#/getting-started/welcome?",
+        "all_pricing_urls": [
+          "https://app.skedpal.com/#/getting-started/welcome?"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Users can cancel subscriptions anytime. Discounts are available for referrals.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Monthly",
+            "tier_description": "Monthly subscription plan.",
+            "monthly_price": 14.95,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Full access to all features",
+              "Pay Monthly",
+              "Cancel any time"
+            ],
+            "limits": null
+          },
+          {
+            "tier_name": "Yearly",
+            "tier_description": "Yearly subscription plan.",
+            "monthly_price": 9.95,
+            "annual_price": 119.4,
+            "annual_discount_percentage": 33.0,
+            "setup_fee": null,
+            "features": [
+              "Full access to all features",
+              "Pay Yearly",
+              "Cancel any time"
+            ],
+            "limits": null
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Referral Discount",
+            "offer_description": "Receive up to 100% discount by inviting friends. Each friend subscription grants a 10% discount to both.",
+            "discount_percentage": 100.0,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T03:08:01.239523",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\skedpal\\20250415_030801"
+}

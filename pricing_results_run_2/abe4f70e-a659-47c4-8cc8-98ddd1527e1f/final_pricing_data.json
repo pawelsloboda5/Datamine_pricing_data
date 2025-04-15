@@ -1,0 +1,45 @@
+{
+  "app_id": "iterable",
+  "app_name": "Iterable",
+  "app_slug": "iterable",
+  "pricing_url": null,
+  "source_url": "https://iterable.com",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "quote_based"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing details for Iterable are not publicly available on the provided content. It appears that pricing is customized based on the user's requirements and use case.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:13:43.870066",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "abe4f70e-a659-47c4-8cc8-98ddd1527e1f",
+    "name": "Iterable",
+    "slug": "iterable",
+    "description": "Iterable is the growth marketing platform that empowers you to deliver completely seamless, personalized customer experiences.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/8a756d9d970001e17b1d263eab7d1072.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Email Newsletters"
+    ],
+    "category_slugs": [
+      "email-newsletters"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 5,
+    "trigger_count": 0
+  }
+}

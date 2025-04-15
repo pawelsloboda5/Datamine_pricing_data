@@ -1,0 +1,146 @@
+{
+  "app_id": "setmore_appointments",
+  "app_name": "Setmore Appointments",
+  "app_slug": "setmore-appointments",
+  "pricing_url": "https://www.setmore.com/pricing",
+  "source_url": "https://www.setmore.com/pricing",
+  "all_pricing_urls": [
+    "https://www.setmore.com/pricing"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 30,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers discounted rates compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic plan for up to 4 users.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Up to 200 appointments",
+        "Accept payments",
+        "Custom Booking Page",
+        "iOS and Android apps",
+        "Customized notifications",
+        "Email reminders",
+        "Integrations"
+      ],
+      "limits": {
+        "users": 4,
+        "storage": null,
+        "operations": 200,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced features for 1-2 users.",
+      "monthly_price": 12.0,
+      "annual_price": 5.0,
+      "annual_discount_percentage": 58.33,
+      "setup_fee": null,
+      "features": [
+        "Unlimited appointments",
+        "Accept payments",
+        "Custom Booking Page",
+        "iOS and Android apps",
+        "Customized notifications",
+        "SMS and email reminders",
+        "Pro integrations",
+        "Recurring appointments",
+        "2-way calendar sync",
+        "Remove branding",
+        "Tree planting donation"
+      ],
+      "limits": {
+        "users": 2,
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "Unlimited users with advanced features.",
+      "monthly_price": 9.0,
+      "annual_price": 5.0,
+      "annual_discount_percentage": 44.44,
+      "setup_fee": null,
+      "features": [
+        "Unlimited appointments",
+        "Accept payments",
+        "Custom Booking Page",
+        "iOS and Android apps",
+        "Customized notifications",
+        "SMS and email reminders",
+        "Pro integrations",
+        "Recurring appointments",
+        "2-way calendar sync",
+        "Remove branding",
+        "Unlimited users",
+        "Tree planting donation"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "Custom solutions for larger organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything from Team plan",
+        "Customization options"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T06:31:56.416183",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "8799dcf6-de0a-4ce4-b234-5f17c93be870",
+    "name": "Setmore Appointments",
+    "slug": "setmore-appointment",
+    "description": "Setmore helps small businesses book appointments online and grow their business every day.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/9cf2c5d850cadebe51bdbd335cda8d14.jpg?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Scheduling & Booking"
+    ],
+    "category_slugs": [
+      "scheduling"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 5
+  }
+}

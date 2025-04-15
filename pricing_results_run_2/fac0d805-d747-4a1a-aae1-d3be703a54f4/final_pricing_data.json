@@ -1,0 +1,106 @@
+{
+  "app_id": "kingsumo",
+  "app_name": "KingSumo",
+  "app_slug": "kingsumo",
+  "pricing_url": null,
+  "source_url": "https://kingsumo.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "free_tier",
+    "one_time"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The Free plan offers basic features, while the Lifetime Plan includes advanced features for a one-time payment.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for free.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Giveaways",
+        "Bonus Entries",
+        "GDPR Compliance",
+        "Embed on Any Site",
+        "Auto-Reminder Emails",
+        "Multiple Prizes/Winners",
+        "Customer Support",
+        "Basic Integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "Basic",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Lifetime Plan",
+      "tier_description": "Advanced features for a one-time payment.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited Giveaways",
+        "Bonus Entries",
+        "GDPR Compliance",
+        "Embed on Any Site",
+        "Auto-Reminder Emails",
+        "Multiple Prizes/Winners",
+        "Customer Support",
+        "Custom Branding",
+        "Meta Pixel Tracking",
+        "Conversion Tracking",
+        "Translation/Localization",
+        "Custom Rules and Terms",
+        "Additional Entry Fields",
+        "Remove Sponsored Entry",
+        "Advanced Integrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "Advanced",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T05:22:27.524637",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "fac0d805-d747-4a1a-aae1-d3be703a54f4",
+    "name": "KingSumo",
+    "slug": "kingsumo",
+    "description": "KingSumo is a giveaway platform to grow your audience.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/918b0fc887f126ba0542921e23bc9c03.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 1
+  }
+}

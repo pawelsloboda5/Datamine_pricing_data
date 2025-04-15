@@ -1,0 +1,108 @@
+{
+  "app_id": "corsizio",
+  "app_name": "Corsizio",
+  "app_slug": "corsizio",
+  "pricing_url": "https://www.corsizio.com/pricing",
+  "source_url": "https://www.corsizio.com/pricing",
+  "all_pricing_urls": [
+    "https://www.corsizio.com/pricing",
+    "https://help.corsizio.com/billing"
+  ],
+  "price_model_type": [
+    "usage_based",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Corsizio uses a pay-per-use model with free usage for up to 50 registrations per month. Billing is enabled for higher volumes.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Usage",
+      "tier_description": "Initial free usage for up to 50 new registrations per month.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All core features"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": 50,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enabled Billing",
+      "tier_description": "Usage billing enabled for higher volumes.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All core features",
+        "Unlimited registrations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "registrations",
+      "unit": "per registration",
+      "base_price": null,
+      "tiers": [
+        {
+          "min": 51.0,
+          "max": "unlimited",
+          "price": null
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Online Payment Processing Fee",
+      "fee_amount": null,
+      "fee_description": "Nominal service fee deducted during each online payment transaction automatically via Stripe."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T09:42:02.464954",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ef3016b6-419e-4f62-89bf-e8ca44483e01",
+    "name": "Corsizio",
+    "slug": "corsizio",
+    "description": "Corsizio is a platform that enables you to facilitate and manage attendee online registrations and payments for your classes, courses, workshops, training, and similar events.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/237bba21f88cda1df7e73b2d457a977f.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Event Management"
+    ],
+    "category_slugs": [
+      "event-management"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 5
+  }
+}

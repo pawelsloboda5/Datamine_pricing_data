@@ -1,0 +1,101 @@
+{
+  "app_id": "everhour",
+  "app_name": "Everhour",
+  "app_slug": "everhour",
+  "pricing_url": "https://everhour.com/pricing",
+  "source_url": "https://everhour.com/pricing",
+  "all_pricing_urls": [
+    "https://everhour.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual payment offers a 15% discount. Minimum 5 seats required for the paid plan.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Simple time tracking for small teams with no integrations",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": 0.0,
+      "setup_fee": null,
+      "features": [
+        "Time tracking",
+        "Projects and tasks",
+        "Reports",
+        "Export data",
+        "Web, iOS app, browser extension"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 0,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Team",
+      "tier_description": "All features and integrations for businesses",
+      "monthly_price": 10.0,
+      "annual_price": 8.5,
+      "annual_discount_percentage": 15.0,
+      "setup_fee": null,
+      "features": [
+        "Unlimited seats",
+        "Integrations",
+        "Billing & budgeting",
+        "Invoicing",
+        "Time approval",
+        "Time off",
+        "Expenses",
+        "Optional screenshots",
+        "SSO",
+        "API",
+        "Much more"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T03:23:14.316120",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "2d1dcd16-a809-4a97-b183-8b84340ac8e4",
+    "name": "Everhour",
+    "slug": "everhour",
+    "description": "Everhour is a time tracking software equipped with budgeting, forward resource planning, expenses tracking, visual dashboards and flexible reports.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/ab1f4bed1c8eac516f021db8f9c28d90.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Time Tracking Software"
+    ],
+    "category_slugs": [
+      "time-tracking"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 15,
+    "trigger_count": 5
+  }
+}

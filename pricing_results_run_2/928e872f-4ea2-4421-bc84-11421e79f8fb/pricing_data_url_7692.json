@@ -1,0 +1,217 @@
+{
+  "app_id": "uploadcare",
+  "app_name": "Uploadcare",
+  "app_slug": "uploadcare",
+  "pricing_url": "https://uploadcare.com/pricing/",
+  "source_url": "https://uploadcare.com/pricing/",
+  "all_pricing_urls": [
+    "https://uploadcare.com/pricing/"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.USAGE_BASED",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and usage-based overage fees. Enterprise plans are customizable.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Demo",
+      "tier_description": "Perfect for passion projects and simple websites",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "10,000 operations per month",
+        "10 MB max file size",
+        "Uploading widget, API",
+        "Basic image transformations",
+        "Delivery through a CDN",
+        "Signed uploads",
+        "Webhooks",
+        "Personal use only"
+      ],
+      "limits": {
+        "users": "personal use only",
+        "storage": "1 GB",
+        "operations": 10000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "For production apps and websites with the option to scale",
+      "monthly_price": 66.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "100,000 operations per month",
+        "1 GB max file size",
+        "Auto-moderation on upload",
+        "Malicious content filtering",
+        "Automated image optimization",
+        "Content-aware crop and resize",
+        "Automated responsive images",
+        "Document conversion",
+        "Asynchronous video processing",
+        "Adaptive bitrate streaming",
+        "Signed URLs",
+        "3 team members"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "50 GB",
+        "operations": 100000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business",
+      "tier_description": "For large-scale applications managing tons of digital media",
+      "monthly_price": 166.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "250,000 operations per month",
+        "10 GB max file size",
+        "Automated AVIF compression",
+        "Uploading widget whitelabeling",
+        "Custom Upload API domain",
+        "Custom CDN CNAME",
+        "Custom OAuth applications",
+        "Dedicated solution engineer",
+        "Performance & security review",
+        "4 team members"
+      ],
+      "limits": {
+        "users": 4,
+        "storage": "125 GB",
+        "operations": 250000,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For teams with more security, support, and performance needs",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Custom operations limit",
+        "File size up to 5 TB",
+        "Traffic and storage price match",
+        "Connect AWS S3 Storage",
+        "Use Okta as SSO provider",
+        "Project management API",
+        "Free migration",
+        "Enterprise-grade security",
+        "Enterprise SLAs and support",
+        "HIPAA and SOC2 compliant",
+        "Dedicated solution architect",
+        "Private Slack channel"
+      ],
+      "limits": {
+        "users": "custom",
+        "storage": "custom",
+        "operations": "custom",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Operations",
+      "unit": "per 1000",
+      "base_price": 0.5,
+      "tiers": [
+        {
+          "min": 100001.0,
+          "max": 250000.0,
+          "price": 0.45
+        },
+        {
+          "min": 250001.0,
+          "max": "custom",
+          "price": 0.1
+        }
+      ]
+    },
+    {
+      "metric_name": "Traffic",
+      "unit": "per GB",
+      "base_price": 0.5,
+      "tiers": [
+        {
+          "min": 76.0,
+          "max": 200.0,
+          "price": 0.45
+        },
+        {
+          "min": 201.0,
+          "max": "custom",
+          "price": 0.04
+        }
+      ]
+    },
+    {
+      "metric_name": "Storage",
+      "unit": "per GB",
+      "base_price": 0.5,
+      "tiers": [
+        {
+          "min": 51.0,
+          "max": 125.0,
+          "price": 0.45
+        },
+        {
+          "min": 126.0,
+          "max": "custom",
+          "price": 0.03
+        }
+      ]
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:22:02.483506",
+  "schema_validated": true,
+  "confidence_score": 100.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "928e872f-4ea2-4421-bc84-11421e79f8fb",
+    "name": "Uploadcare",
+    "slug": "uploadcare",
+    "description": "File system as a service to handle your web and mobile app uploads.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/23a6c6eb31c9f33fd7a4229c51c2ea8c.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "File Management & Storage"
+    ],
+    "category_slugs": [
+      "files"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

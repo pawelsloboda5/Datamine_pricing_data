@@ -1,0 +1,74 @@
+{
+  "app_name": "Lark",
+  "app_slug": "lark",
+  "search_term": "Find the official pricing page URL for Lark (lark.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744691431.7400231,
+  "response_text": [
+    "I couldn't locate a clear official pricing page for Lark on their website at this moment. If you're looking for specific details, I recommend directly visiting [Lark.com](https://www.lark.com) or contacting their support team for exact pricing or availability."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.lark.com",
+      "is_accessible": true,
+      "content": "[![Image 1](https://cdn.prod.website-files.com/622154d4a1d5c090426f44f1/63bc83792a98b69fd85219a3_What%27s%20included.webp)](https://enroll.lark.com/next/new-benefit/dpp/program/dpp-survey)\n\n**Get our new and improved digital health coach, a smart scale, and the chance to earn a Fitbit\u00ae for $0 with eligible insurance\\***\n\nDigital Diabetes Prevention Program\n\n$0 with eligible insurance\\*\n\nFeatures\n\nAccredited Diabetes Prevention Program on your smartphone\n\nReceive a smart scale and the chance to earn a Fitbit\u00ae\n\nReach weight loss, nutrition, and activity goals with 24/7 digital coaching\n\nGet access to our member community, live coaching, and more\n\nTake the 2-minute quiz!\n\n[Check my eligibility](https://enroll.lark.com/next/new-benefit/dpp/program/dpp-survey)\n\n[###### Learn more ![Image 2](https://cdn.prod.website-files.com/622154d4a1d5c090426f44f1/6384f8971115175a2d7fb308_fi-rr-arrow-small-right.webp)](https://www.lark.com/for-individuals)\n\n![Image 3](https://cdn.prod.website-files.com/622154d4a1d5c090426f44f1/64b59a789e414abe3f299c8d_circle-2.webp)\n\n![Image 4](https://cdn.prod.website-files.com/622154d4a1d5c090426f44f1/651c5c772c183f25f8925def_home_section2_image.webp)\n\nAsk our 2+ million members and trusted partners\n-----------------------------------------------\n\n### Ask our 2+ million members and trusted partners\n\nLark's Diabetes Prevention Program has been clinically tested, and shows results on par with telehealth and live coaching. Our team is friendly, compassionate, and innovative, and we bring those values to the Lark experience!\n\n![Image 5](https://cdn.prod.website-files.com/622154d4a1d5c090426f44f1/651c537ebfaafa1692da65a4_home_section2_logos_mobile.webp)\n\n![Image 6](https://cdn.prod.website-files.com/622154d4a1d5c090426f44f1/651c683876ad46ee1fe19c12_home_section2_image_mobile.webp)\n\nPersonalized care at scale\n--------------------------\n\n### Activation and engagement at scale\n\n![Image 7](https://cdn.prod.website-files.com/622154d4a1d5c090426f44f1/6273ef0afce3ad800ee51187_checkmark.webp)\n\nHelp prevent and manage chronic conditions including weight management\n\n![Image 8](https://cdn.prod.website-files.com/622154d4a1d5c090426f44f1/6273ef0afce3ad800ee51187_checkmark.webp)\n\nClose gaps in care and drive outcomes\n\n![Image 9](https://cdn.prod.website-files.com/622154d4a1d5c090426f44f1/6273ef0afce3ad800ee51187_checkmark.webp)\n\nGather unique member insights\n\n![Image 10](https://cdn.prod.website-files.com/622154d4a1d5c090426f44f1/6273ef0afce3ad800ee51187_checkmark.webp)\n\nManage rising costs\n\n![Image 11](https://cdn.prod.website-files.com/622154d4a1d5c090426f44f1/651b4019cafee687e066d4e3_home_section3_image.webp)\n\nHelp control prediabetes with a Fitbit\u00ae, health coaching and scale\u2014all at no cost to you. At no cost\u2014get a Fitbit\u00ae, scale and digital health coaching to help control prediabetes. #1 Diabetes Prevention. 1 Minute Eligibility Quiz. Fitbit\u00ae, Scale, + Coach. Lark Health Coach.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "lark",
+        "app_name": "Lark",
+        "app_slug": "lark",
+        "pricing_url": "https://www.lark.com/for-individuals",
+        "source_url": "https://enroll.lark.com/next/new-benefit/dpp/program/dpp-survey",
+        "all_pricing_urls": [
+          "https://www.lark.com/for-individuals",
+          "https://enroll.lark.com/next/new-benefit/dpp/program/dpp-survey"
+        ],
+        "price_model_type": [
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "The program is offered at no cost with eligible insurance.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Digital Diabetes Prevention Program",
+            "tier_description": "Accredited Diabetes Prevention Program with digital coaching and tools.",
+            "monthly_price": 0.0,
+            "annual_price": 0.0,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Accredited Diabetes Prevention Program on your smartphone",
+              "Receive a smart scale and the chance to earn a Fitbit\u00ae",
+              "Reach weight loss, nutrition, and activity goals with 24/7 digital coaching",
+              "Access to member community and live coaching"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T00:30:42.207280",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\lark\\20250415_003042"
+}

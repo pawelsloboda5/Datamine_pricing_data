@@ -1,0 +1,95 @@
+{
+  "app_id": "splitwise",
+  "app_name": "Splitwise",
+  "app_slug": "splitwise",
+  "pricing_url": "https://secure.splitwise.com/pro/subscribe",
+  "source_url": "https://secure.splitwise.com/pro",
+  "all_pricing_urls": [
+    "https://secure.splitwise.com/pro/subscribe"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Splitwise offers a free tier with basic features and a Pro subscription for advanced features.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free",
+      "tier_description": "Basic features for tracking shared expenses.",
+      "monthly_price": 0.0,
+      "annual_price": 0.0,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Track shared expenses",
+        "Basic expense management"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Advanced features for enhanced expense management.",
+      "monthly_price": 3.99,
+      "annual_price": 39.99,
+      "annual_discount_percentage": 16.7,
+      "setup_fee": null,
+      "features": [
+        "Unlimited expenses",
+        "Transaction import",
+        "Currency conversion",
+        "Charts and graphs",
+        "Receipt scanning",
+        "Itemization",
+        "Expense search",
+        "Default split settings"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "unlimited",
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-14T23:58:47.489957",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "60d09bd0-197b-4dcc-988b-0911f450cb9e",
+    "name": "Splitwise",
+    "slug": "splitwise",
+    "description": "Splitwise is an app for splitting bills and expenses with friends.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/e477bc94cc487d1f5e467dfa82120cc6.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Accounting"
+    ],
+    "category_slugs": [
+      "accounting"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

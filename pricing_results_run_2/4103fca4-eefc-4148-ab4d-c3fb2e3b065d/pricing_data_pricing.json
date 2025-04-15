@@ -1,0 +1,101 @@
+{
+  "app_id": "feefo",
+  "app_name": "Feefo",
+  "app_slug": "feefo",
+  "pricing_url": null,
+  "source_url": "https://business.feefo.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "GBP",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes VAT and is structured for monthly payments. Bespoke plans are available for custom needs.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Essential",
+      "tier_description": "Provides key features for starting verified review collection.",
+      "monthly_price": 99199.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Feefo Analytics",
+        "Google Partnership",
+        "Social Sharing",
+        "Feedback Request Manager",
+        "NPS",
+        "Insights Labels & Predictive Response",
+        "Surveys",
+        "SMS Feedback Requests",
+        "Custom Questions",
+        "Ecolabels",
+        "Location Feedback",
+        "Review Booster",
+        "Dynamic Topic Display\u200b & Highlighted Snippets",
+        "Custom Form Templates"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Enhanced",
+      "tier_description": "Adds advanced analytics for deeper customer insights.",
+      "monthly_price": 249299.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All features of Essential",
+        "Full Human Moderation",
+        "Full Moderation (blend of human and AI)",
+        "Reply Moderation",
+        "Dedicated Customer Success Manager",
+        "Annual Account Review"
+      ],
+      "limits": null
+    },
+    {
+      "tier_name": "Bespoke",
+      "tier_description": "Customised plan to align review platform features with business goals.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Customised features based on business needs"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:10:58.638047",
+  "schema_validated": true,
+  "confidence_score": 80.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "4103fca4-eefc-4148-ab4d-c3fb2e3b065d",
+    "name": "Feefo",
+    "slug": "feefo",
+    "description": "Feefo is a globally recognised platform used by thousands of brands to collect genuine, verified customer feedback.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/96f91c4f5f46f0c86e54cd97d050d244_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

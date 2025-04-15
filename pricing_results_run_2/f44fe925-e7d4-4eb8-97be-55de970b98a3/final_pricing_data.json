@@ -1,0 +1,114 @@
+{
+  "app_id": "thrive_themes",
+  "app_name": "Thrive Themes",
+  "app_slug": "thrive-themes",
+  "pricing_url": "https://thrivethemes.com/pricing/",
+  "source_url": "https://thrivethemes.com/pricing/",
+  "all_pricing_urls": [
+    "https://thrivethemes.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Renewals are at full price. Refunds available within 30 days of purchase.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Thrive Suite Yearly",
+      "tier_description": "Annual subscription for Thrive Suite.",
+      "monthly_price": null,
+      "annual_price": 299.0,
+      "annual_discount_percentage": 50.0,
+      "setup_fee": null,
+      "features": [
+        "All 8 Thrive Themes WordPress Plugins",
+        "Thrive Theme Builder with companion themes and templates",
+        "24/5 Support",
+        "Access to Thrive University",
+        "Install and use on up to 5 websites",
+        "30 Day Money Back Guarantee"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Websites",
+            "value": 5
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Thrive Suite Quarterly",
+      "tier_description": "Quarterly subscription for Thrive Suite.",
+      "monthly_price": 49.67,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "All 8 Thrive Themes WordPress Plugins",
+        "Thrive Theme Builder with companion themes and templates",
+        "24/5 Support",
+        "Access to Thrive University",
+        "Install and use on up to 5 websites",
+        "30 Day Money Back Guarantee"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Websites",
+            "value": 5
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Yearly Plan Discount",
+      "offer_description": "Save $300 on the yearly plan.",
+      "discount_percentage": 50.0,
+      "offer_url": "https://thrivethemes.com/pricing/#tve-jump-180d8d24b14",
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:00:28.868123",
+  "schema_validated": true,
+  "confidence_score": 75.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "f44fe925-e7d4-4eb8-97be-55de970b98a3",
+    "name": "Thrive Themes",
+    "slug": "thrive-themes",
+    "description": "Thrive Themes is a company that provides marketing focused themes and plugins for building a conversion focused website on WordPress",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/1f9008c85db492adf3902a91fee7ce2a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders"
+    ],
+    "category_slugs": [
+      "cms"
+    ],
+    "has_actions": false,
+    "has_triggers": true,
+    "action_count": 0,
+    "trigger_count": 2
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "app_id": "smiirl",
+  "app_name": "Smiirl",
+  "app_slug": "smiirl",
+  "pricing_url": null,
+  "source_url": "https://www.smiirl.com/shop",
+  "all_pricing_urls": null,
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The provided content does not include specific pricing information for Smiirl.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:52:49.923718",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "8620816e-3556-49c6-ad18-0f3677b30ae2",
+    "name": "Smiirl",
+    "slug": "smiirl",
+    "description": "Smiirl Custom Counters: A physical display for your key business metrics. Keep your progress visible, and amplify your success.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/b576f00fc3e54333d9008b3ac8bd7a28.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Internet of Things"
+    ],
+    "category_slugs": [
+      "internet-of-things"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 4,
+    "trigger_count": 0
+  }
+}

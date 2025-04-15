@@ -1,0 +1,58 @@
+{
+  "app_id": "phaxio",
+  "app_name": "Phaxio",
+  "app_slug": "phaxio",
+  "pricing_url": null,
+  "source_url": "https://www.phaxio.com/pricing",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.USAGE_BASED"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing is based on usage per page and per fax received, with volume discounts available upon request.",
+  "pricing_tiers": null,
+  "usage_based_pricing": [
+    {
+      "metric_name": "Per Page",
+      "unit": "page",
+      "base_price": 0.07,
+      "tiers": null
+    },
+    {
+      "metric_name": "Per Fax Received",
+      "unit": "fax",
+      "base_price": 0.01,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T03:43:00.812941",
+  "schema_validated": true,
+  "confidence_score": 70,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "cdc4d81e-4c01-444f-beea-78cb89814f28",
+    "name": "Phaxio",
+    "slug": "phaxio",
+    "description": "Super simple fax API for developers. Send and receive faxes, and pay as you go.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/f6d838569fac46bb5f895265e8746012.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Fax"
+    ],
+    "category_slugs": [
+      "fax"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 1,
+    "trigger_count": 1
+  }
+}

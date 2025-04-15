@@ -1,0 +1,157 @@
+{
+  "app_id": "lemlist",
+  "app_name": "lemlist",
+  "app_slug": "lemlist",
+  "pricing_url": "https://app.lemlist.com/create-account",
+  "source_url": "https://www.lemlist.com/pricing",
+  "all_pricing_urls": [
+    "https://app.lemlist.com/create-account"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.QUOTE_BASED"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing includes a free tier and multiple subscription options with additional features for higher tiers.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Free Plan",
+      "tier_description": "Basic access to lemlist features.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Find, verify, and export up to 100 leads\u2019 emails or 25 phone numbers each month"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": 100,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Email Pro",
+      "tier_description": "For growing teams.",
+      "monthly_price": 55.0,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "3 sending emails per user",
+        "Free 200 emails or 50 phone numbers per month",
+        "Unlimited email campaigns & follow-ups",
+        "AI-powered outreach",
+        "CRM integration"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Additional sending email",
+            "value": "$9/mo/email"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Multichannel Expert",
+      "tier_description": "For scaling businesses.",
+      "monthly_price": 79.0,
+      "annual_price": null,
+      "annual_discount_percentage": 20.0,
+      "setup_fee": null,
+      "features": [
+        "5 sending emails per user",
+        "Free 300 emails, or 75 phone numbers, or 475 call minutes per month",
+        "Automated LinkedIn actions",
+        "In-app calling",
+        "Centralized multichannel inbox"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Additional sending email",
+            "value": "$9/mo/email"
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": "For large organizations.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "5 sending emails per user",
+        "Free 500 emails, or 125 phone numbers, or 800 call minutes per month",
+        "Custom user roles & permissions",
+        "Dedicated account manager",
+        "Advanced API access"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": null,
+        "operations": "unlimited",
+        "api_calls": null,
+        "integrations": "unlimited",
+        "custom_limits": [
+          {
+            "name": "Minimum seats",
+            "value": 5
+          },
+          {
+            "name": "Additional sending email",
+            "value": "$9/mo/email"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:57:08.011937",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "74c97105-2845-41eb-b710-411f1194dda4",
+    "name": "lemlist",
+    "slug": "lemlist",
+    "description": "lemlist is an outreach email platform with personalized images and videos.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/3ee796183a6943d416d9c6999a52d22d.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Drip Emails"
+    ],
+    "category_slugs": [
+      "drip-emails"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 18,
+    "trigger_count": 1
+  }
+}

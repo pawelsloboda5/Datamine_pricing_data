@@ -1,0 +1,142 @@
+{
+  "app_name": "MessageBird",
+  "app_slug": "messagebird",
+  "search_term": "Find the official pricing page URL for MessageBird (messagebird.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744704039.8749576,
+  "response_text": [
+    "The official pricing page URL for MessageBird is: [https://www.messagebird.com/en/pricing](https://www.messagebird.com/en/pricing)"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://www.messagebird.com/en/pricing",
+      "is_accessible": true,
+      "content": "Bird Pricing: CRM for Marketing, Sales & Payments | Bird\n===============\n\n[](https://www.messagebird.com/en/)\n\nReach\n\nGrow\n\nManage\n\nAutomate\n\n[Log in](https://app.bird.com/auth/login)\n\n[Book demo](https://www.messagebird.com/en/demo)\n\nPricing\n=======\n\nSimple pricing for businesses of all sizes\n\n[Marketing](https://www.messagebird.com/en/pricing#marketing-cloud)[Inbox](https://www.messagebird.com/en/pricing#service-cloud)[Reach](https://www.messagebird.com/en/pricing#developer-cloud)\n\nMarketing\n---------\n\nSMS, Email, and WhatsApp marketing without additional markup.\n-------------------------------------------------------------\n\nUSD\n\n### Contact-based pricing\n\nBird charges based on the number of Contacts you are targeting on a monthly basis.\n\nMonthly Contacts\n\n3,000\n\n$45\n\n/month\\*\n\nUp to\n\n30,000\n\nEmail, SMS or WhatsApp sends\\*\\*\n\nGlobal coverage for SMS and Whatsapp\n\nJourneys, CDP, Templates, Integrations and more\n\nGDPR compliance & enterprise features\n\nCustom support plans\n\nAdvanced deliverability services\n\n[Get demo](https://www.messagebird.com/en/demo)\n\n\\*Price is for an annual upfront contract\n\n\\*\\*[WhatsApp](https://www.messagebird.com/en/pricing/whatsapp) and [3rd party SMS fees](https://www.messagebird.com/en/pricing/sms) charged where applicable without additional markup.\n\n### Enterprise pricing\n\nFor businesses reaching more than 50,000 monthly contacts.\n\nMonthly Contacts\n\n+50,000\n\nCustom\n\n/month\\*\n\nUnlimited Email, SMS or WhatsApp sends\\*\\*\n\nGlobal coverage for SMS and Whatsapp\n\nJourneys, CDP, Templates, Integrations and more\n\nGDPR compliance & enterprise features\n\nCustom support plans\n\nAdvanced deliverability services\n\n[Get a tailored quote](https://www.messagebird.com/en/demo)\n\n\\*[WhatsApp](https://www.messagebird.com/en/pricing/whatsapp) and [3rd party SMS fees](https://www.messagebird.com/en/pricing/sms) charged where applicable without additional markup.\n\n### Not on a Bird Marketing plan?  \nCheck your SMS and WhatsApp pricing here.\n\n[SMS pricing](https://www.messagebird.com/en/pricing/connectivity/sms)\n\n[Whatsapp pricing](https://www.messagebird.com/en/pricing/connectivity/whatsapp)\n\nHow our pricing works\n---------------------\n\nBird CRM charges based on the number of Contacts you are targeting on a monthly basis. All platform features are included at no extra charge.\n--------------------------------------------------------------------------------------------------------------------------------\n\nSignup Forms to capture subscribers\n\nCustomer Profiles & Audiences\n\nJourneys, Campaigns, and Chatbots\n\nEmail, SMS, and WhatsApp Templates\n\nYour Estimated Cost\n\n$45.00\n\n/month\n\n[Get tailored quote](https://www.messagebird.com/en/demo)\n\n### In what country are the majority of your contacts based?\n\nUnited States of America\n\n### How many SMS do you plan to send?\n\n### SMS prices below include carrier fees.\n\n10DLC SMS\n\nSent through a 10-digit long code number.\n\n####   \n\n0\n\n$0$0.00331per SMS\n\nShortcode SMS\n\nSent through a shortcode number.\n\n####   \n\n0\n\n$0$0.0039per SMS\n\nToll Free SMS\n\nSent through business messaging numbers for high throughput.\n\n####   \n\n0\n\n$0$0.00447per SMS\n\nThird party SMS fees are estimated. See all carrier fees for the US and Canada [here](https://www.messagebird.com/en/pricing/sms/fees).\n\nLongcode SMS\n\nSent through a 10-digit long code number.\n\n####   \n\n0\n\n$0$0.00331per SMS\n\nShortcode SMS\n\nSent through a shortcode number.\n\n####   \n\n0\n\n$0$0.0039per SMS\n\nToll Free SMS\n\nSent through business messaging numbers for high throughput.\n\n####   \n\n0\n\n$0$0.00447per SMS\n\nThird party SMS fees are estimated. See all carrier fees for the US and Canada [here](https://www.messagebird.com/en/pricing/sms/fees).\n\nSMS messages\n\nMessages sent through the platform to your contacts.\n\n####   \n\n0\n\n$0$0per SMS\n\n### How many WhatsApp messages do you plan to send?\n\nWhatsApp messages\n\nBird does not charge you for WhatsApp. Only Meta fees apply.\n\n####   \n\n0\n\n$0$0.0425per marketing conversation\n\n\\*Meta fees as based on your use case. See Meta fees in detail [here](https://www.messagebird.com/en/pricing/whatsapp).\n\n### How many numbers do you plan to send from?\n\n10DLC Numbers\n\nA long SMS enabled number suitable for 2-way use cases.\n\n####   \n\n0\n\n$0$0.11per Number\n\nShortcode Numbers\n\nA short SMS enabled number, suitable for 2-way use cases.\n\n####   \n\n0\n\n$0$625per Number\n\nToll Free Numbers\n\nBusiness messaging numbers for high throughput.\n\n####   \n\n0\n\n$0$0.26per Number\n\nShortcode Numbers\n\nA short SMS enabled number, suitable for 2-way use cases.\n\n####   \n\n0\n\n$0$625per Number\n\nLongcode Numbers\n\nA long SMS enabled number suitable for 2-way use cases.\n\n####   \n\n0\n\nN/A\n\nShortcode Numbers\n\nA short SMS enabled number, suitable for 2-way use cases.\n\n####   \n\n0\n\n$0$625per Number\n\nToll Free Numbers\n\nBusiness messaging numbers for high throughput.\n\n####   \n\n0\n\n$0$0.26per Number\n\nLongcode Numbers\n\nA long SMS enabled number suitable for 2-way use cases.\n\n####   \n\n0\n\nN/A\n\nAlphanumeric Numbers\n\nUse your brand as a sender, suitable for 1-way use cases.\n\n####   \n\n0\n\n$0$0per Number\n\nThird party SMS fees are estimated. See all carrier fees for the US and Canada [here](https://www.messagebird.com/en/pricing/sms/fees).\n\nEverything you need to grow\n---------------------------\n\nPowerful automation and AI features built for business.\n-------------------------------------------------------\n\nEmail, WhatsApp & SMS\n\nCustomer Data Platform\n\nPrecise Access Controls\n\nDeep Customer Profiles\n\nTailored Personalization\n\nTraceable Audit Logs\n\nCustom Audiences\n\nEcommerce Integrations\n\nGDPR & PSD2 Compliance\n\nEmbeddable Signup Forms\n\nReporting & Analytics\n\nISO/IEC 27001:2013 certified\n\nGet more done with Bird\n-----------------------\n\nGet more out of the Bird platform.\n----------------------------------\n\n[#### PowerMTA Enterprise-grade self-hosted MTA. Custom pricing? Contact sales](https://www.messagebird.com/en/demo)[#### Email Analytics Analyze your inbox placement. Custom pricing? Contact sales](https://www.messagebird.com/en/demo)[#### Competitive Tracker Analyze your competitors email campaigns. Custom pricing? Contact sales](https://www.messagebird.com/en/demo)[#### Email Recipient Validation Protect your sender reputation with email validation. $0.003 per email recipientvalidation 100k-250k email Contact sales](https://www.messagebird.com/en/demo)[#### Support plans Flexible support plans for businesses of all sizes. Starts for free Contact sales](https://www.messagebird.com/en/demo)\n\nInbox\n-----\n\nProvide stellar support on channels like live chat, SMS, WhatsApp, Email, RCS and more with Bird's Service Cloud.\n-----------------------------------------------------------------------------------------------------------------\n\n### Inbox\n\nTalk to customers on every channel without compromising on experience.\n\nSeats\n\nPrice per seat (monthly)\n\nUp to 2\n\nFree\n\nMore than 2\n\n[Contact sales](https://www.messagebird.com/en/demo)\n\n[Contact sales](https://www.messagebird.com/en/demo)\n\n![Image 1](https://framerusercontent.com/images/x7dM4GpnTMKtsgXTpcBeRbsuucs.png)\n\nReach\n-----\n\nAccess our comprehensive messaging platform to reach your customers through Email, SMS, WhatsApp, and Verify channels.\n----------------------------------------------------------------------------------------------------------------------\n\n### Reach\n\nAccess all Channel API's via Bird's Developer Cloud.\n\nCustom pricing\n\n[Contact sales](https://www.messagebird.com/en/demo)\n\n[Start](https://www.messagebird.com/en/demo)\n\n![Image 2](https://framerusercontent.com/images/qcSsv7GbaFtvEmNcR7Q8wo8.png)\n\nCompare Bird with\n-----------------\n\nHow Bird stands out against competitors\n---------------------------------------\n\n### With Bird, you pay no markup on SMS\n\nWe\u2019ve completely removed our markup on SMS messages, allowing you to save big on your messaging bill compared to Twilio.\n\nHow many SMS do you send monthly?\n\n30,000\n\nEstimated savings\n\n\\-56%\n\n\\-$183\n\nBird\n\nTwilio\n\n10DLC\n\nSMS Price\n\nIncl. carrier fees\n\n$0.00331\n\n$0.0109\n\nPlatform\n\n$45\n\n$0\n\nMonthly Total\n\n$144.30\n\n$327.00\n\n[Get tailored quote](https://www.messagebird.com/en/demo)\n\n\\*Carrier fees may apply when receiving SMS in the US.\n\n### With Bird, inbound SMS is free for 10DLC and shortcode\n\nTwilio charges customers for inbound SMS. This means you get charged when anybody sends you an SMS. With Bird, inbound SMS is free for 10DLC and shortcode\\*.\n\n[Go global](https://www.messagebird.com/en/demo)\n\n\\*Carrier fees may apply when receiving SMS in the US.\n\n### With Twilio, you still pay for Segment\n\nBird offers CDP functionality out-of-the-box and directly integrated into the platform, while Twilio charges for Segment separately.\n\n[Stop paying extra](https://www.messagebird.com/en/demo)\n\n### With Twilio, you still pay for SendGrid\n\nNeed to send marketing emails? You\u2019ll now need Twilio SendGrid account too. Bird lets you send Email, SMS and WhatsApp from the same platform.\n\n[Start sending for less](https://www.messagebird.com/en/demo)\n\n### With Bird, you don\u2019t need to ask your developer\n\nTwilio is built for developers, which means every change requires developer time. With Bird, you can easily make changes yourself to move faster so you can run more experiments.\n\n[Unblock your team](https://www.messagebird.com/en/demo)\n\n### Twilio offers no way to grow your list\n\nWith Twilio creating simple signup forms require custom engineering projects. With Bird you can add forms anywhere with the click of a button.\n\n[Grow your list](https://www.messagebird.com/en/demo)\n\n\\*Based on internal pricing analysis conducted in February 2024, comparing the price of sending SMS through the Bird CRM to those sent through Twilio. Prices may vary based on many variables such as location, service configurations, platform fees, operator costs and/or promotions. This comparison does not encompass all possible market offerings and may not reflect future price changes. Verify current prices and features before making a purchase decision. Bird is a competitor of Twilio and not affiliated with Twilio. Trademarks mentioned belong to their respective owners.\n\nFrequently asked questions\n--------------------------\n\nAny questions left unanswered?\n------------------------------\n\nHow do I access this new pricing?\n\nWhy are you removing the SMS markup?\n\nHow do I get pricing for MMS?\n\nWhat if I go over the messaging limit?\n\nHow do the WhatsApp and 3rd party SMS fees get charged?\n\n[![Image 3: Uber logo](https://framerusercontent.com/images/wK6TR87IQXCjBBm02CRwRKYHTDs.png)](https://www.uber.com/)[![Image 4: Square logo](https://framerusercontent.com/images/gkQ8awmoeZFHQqRae5qzzMxyl04.png)](https://squareup.com/us/en)[![Image 5: Adobe logo](https://framerusercontent.com/images/bqxmUsHBoxrnWGgB2Biq7FWWtw.png)](https://www.adobe.com/)[![Image 6: Meta logo](https://framerusercontent.com/images/vfsx4X9Md4Nad8hGNljLyckkP8.png)](https://about.meta.com/)\n\n[Book a demo](https://www.messagebird.com/en/demo)\n\n[![Image 7](https://framerusercontent.com/images/WXg0kA8LGDNeg0tvXDVkC4MEaM.png?scale-down-to=2048) * Book a demo. Experience and see how Bird can transform your business. --------------------------------------------------------------------- * Book a demo. See Bird in action and discover how it can transform your business. -------------------------------------------------------------------------------- * Book a demo. Experience and see how Bird can transform your business. --------------------------------------------------------------------- * Book a demo. See Bird in action and discover how it can transform your business. -------------------------------------------------------------------------------- * Book a demo. Experience and see how Bird can transform your business. --------------------------------------------------------------------- * Book a demo. See Bird in action and discover how it can transform your business. --------------------------------------------------------------------------------](https://www.messagebird.com/en/demo)\n\n#### Reach\n\n[Email](https://www.messagebird.com/en/reach/email-api)\n\n[Voice API](https://www.messagebird.com/en/reach/voice-api)\n\n[Numbers API](https://www.messagebird.com/en/reach/numbers-api)\n\n[SMS API](https://www.messagebird.com/en/reach/sms-api)\n\n[WhatsApp API](https://www.messagebird.com/en/reach/whatsapp-api)\n\n[PowerMTA](https://www.messagebird.com/en/reach/email/email-on-prem/power-mta)\n\n[Momentum](https://www.messagebird.com/en/reach/email/email-on-prem/momentum)\n\n#### Grow\n\n[Marketing](https://www.messagebird.com/en/grow/marketing)\n\n[Sales](https://www.messagebird.com/en/grow/sales)\n\n#### Manage\n\n[Customer Support](https://www.messagebird.com/en/manage/inbox)\n\n[Payments](https://www.messagebird.com/en/manage/payments)\n\n[Expenses](https://www.messagebird.com/en/manage/expenses)\n\n[HR](https://www.messagebird.com/en/manage/hr)\n\n#### Automate\n\n[AI](https://www.messagebird.com/en/automate/ai)\n\n[Workflows](https://www.messagebird.com/en/automate/workflows)\n\n#### Resources\n\n[Pricing](https://www.messagebird.com/en/pricing)\n\n[Changelog](https://www.messagebird.com/en/updates)\n\n[Documentation](https://docs.bird.com/)\n\n[Support](https://www.messagebird.com/en/support-center)\n\n[Manual](https://www.messagebird.com/en/manual)\n\n[Customers](https://www.messagebird.com/en/customers)\n\n[Guides](https://www.messagebird.com/en/guides)\n\n#### Company\n\n[About](https://www.messagebird.com/en/about)\n\n[Partners](https://www.messagebird.com/en/partners)\n\n[Careers](https://www.messagebird.com/en/careers)\n\n[Legal](https://www.messagebird.com/en/legal)\n\n[Terms](https://www.messagebird.com/en/legal/website-terms-of-use)\n\nBy clicking \u201cAccept\u201d, you agree to the use of cookies on your device or browser to enhance site navigation, analyze site usage, and assist in our marketing efforts.\n\nRemove my data\n\n[Privacy Statement](https://www.messagebird.com/en/legal/privacy)\n\nAccept all\n\nAdjust settings\n\n#### Newsletter\n\nStay up to date with Bird through weekly updates to your inbox.\n\nSignup\n\nBy submitting, you agree Bird may contact you about our products and services.\n\nYou can unsubscribe anytime. See Bird's [Privacy Statement](https://www.messagebird.com/en/legal/privacy) for details on data processing.\n\n[x.com](https://x.com/messagebird)\n\n[Instagram](https://instagram.com/messagebird)\n\n[LinkedIn](https://www.linkedin.com/company/birdhq/)\n\nIntuitive pricing for businesses of all sizes. Take advantage volume discounts with custom monthly plans and volume discounts.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "messagebird",
+        "app_name": "MessageBird",
+        "app_slug": "messagebird",
+        "pricing_url": "https://www.messagebird.com/en/pricing",
+        "source_url": "https://www.messagebird.com/en/pricing",
+        "all_pricing_urls": [
+          "https://www.messagebird.com/en/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.QUOTE_BASED"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes subscription-based tiers and usage-based fees for SMS and WhatsApp services. Enterprise pricing is custom and requires contacting sales.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Marketing - Basic",
+            "tier_description": "For businesses targeting up to 3,000 monthly contacts.",
+            "monthly_price": 45.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Email, SMS, and WhatsApp sends",
+              "Global coverage for SMS and WhatsApp",
+              "Journeys, CDP, Templates, Integrations",
+              "GDPR compliance",
+              "Custom support plans",
+              "Advanced deliverability services"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Monthly Contacts",
+                  "value": 3000
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Marketing - Enterprise",
+            "tier_description": "For businesses targeting more than 50,000 monthly contacts.",
+            "monthly_price": null,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited Email, SMS, and WhatsApp sends",
+              "Global coverage for SMS and WhatsApp",
+              "Journeys, CDP, Templates, Integrations",
+              "GDPR compliance",
+              "Custom support plans",
+              "Advanced deliverability services"
+            ],
+            "limits": {
+              "users": null,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Monthly Contacts",
+                  "value": "50,000+"
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "SMS",
+            "unit": "per SMS",
+            "base_price": 0.00331,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": null,
+                "price": 0.00331
+              }
+            ]
+          },
+          {
+            "metric_name": "WhatsApp",
+            "unit": "per marketing conversation",
+            "base_price": 0.0425,
+            "tiers": [
+              {
+                "min": 0.0,
+                "max": null,
+                "price": 0.0425
+              }
+            ]
+          }
+        ],
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Third-party SMS fees",
+            "fee_amount": null,
+            "fee_description": "Fees charged by third-party SMS providers without additional markup."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T04:00:59.168071",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\messagebird\\20250415_040059"
+}

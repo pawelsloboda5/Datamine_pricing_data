@@ -1,0 +1,45 @@
+{
+  "app_id": "bigin_by_zoho_crm",
+  "app_name": "Bigin by Zoho CRM",
+  "app_slug": "bigin-by-zoho-crm",
+  "pricing_url": null,
+  "source_url": "https://www.bigin.com/pricing",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "Pricing information could not be extracted due to lack of relevant content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:03:01.324103",
+  "schema_validated": true,
+  "confidence_score": 20,
+  "extraction_error": true,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "44729a0e-3fce-4ce3-b6fd-7d1f52a5f10e",
+    "name": "Bigin by Zoho CRM",
+    "slug": "bigin",
+    "description": "Bigin is a sales pipeline management software that lets you manage deals, track activities and keep all the interactions with your contacts at one place.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/7e36d3e56c05a109fc4fba67bad4d3ce_2.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "CRM (Customer Relationship Management)",
+      "Zoho"
+    ],
+    "category_slugs": [
+      "crm",
+      "zoho"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 24,
+    "trigger_count": 9
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "app_id": "tapfiliate",
+  "app_name": "Tapfiliate",
+  "app_slug": "tapfiliate",
+  "pricing_url": "https://tapfiliate.com/pricing/",
+  "source_url": "https://tapfiliate.com/plans/",
+  "all_pricing_urls": [
+    "https://tapfiliate.com/pricing/"
+  ],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "The pricing page was not accessible, and no specific pricing details were found in the provided content.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T02:32:13.086288",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "a3db43dd-6bd2-4728-abeb-19ef94cf2dcd",
+    "name": "Tapfiliate",
+    "slug": "tapfiliate",
+    "description": "Tapfiliate is cloud based affiliate tracking software. It enables you to create, track and optimize your own affiliate programs.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/91ea0168bebc54f21077e09b39f32c5a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "eCommerce"
+    ],
+    "category_slugs": [
+      "ecommerce"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 17,
+    "trigger_count": 7
+  }
+}

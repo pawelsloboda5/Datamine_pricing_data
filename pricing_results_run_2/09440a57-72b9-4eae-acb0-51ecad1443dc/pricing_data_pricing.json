@@ -1,0 +1,48 @@
+{
+  "app_id": "emnify",
+  "app_name": "EMnify",
+  "app_slug": "emnify",
+  "pricing_url": "https://www.emnify.com/plans-and-packages",
+  "source_url": "https://www.emnify.com/pricing",
+  "all_pricing_urls": [
+    "https://www.emnify.com/plans-and-packages"
+  ],
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION",
+    "PriceModelType.FREE_TIER"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Detailed pricing information is available on the dedicated pricing page.",
+  "pricing_tiers": null,
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": null,
+  "extraction_timestamp": "2025-04-15T05:54:13.222985",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "09440a57-72b9-4eae-acb0-51ecad1443dc",
+    "name": "EMnify",
+    "slug": "emnify",
+    "description": "EMnify is a cloud communication platform for IoT that transforms complex global cellular connectivity into an easy to consume cloud resource.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/92ab660ee071f0c8512ccab3a0f2f986.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Internet of Things"
+    ],
+    "category_slugs": [
+      "internet-of-things"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 6,
+    "trigger_count": 3
+  }
+}

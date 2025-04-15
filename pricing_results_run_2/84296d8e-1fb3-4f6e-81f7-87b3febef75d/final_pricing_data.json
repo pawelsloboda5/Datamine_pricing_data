@@ -1,0 +1,150 @@
+{
+  "app_id": "formstack",
+  "app_name": "Formstack",
+  "app_slug": "formstack",
+  "pricing_url": "https://www.formstack.com/pricing",
+  "source_url": "https://www.formstack.com/pricing",
+  "all_pricing_urls": [
+    "https://www.formstack.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a discount equivalent to two months free.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Forms",
+      "tier_description": "Digitally collect data with a no-code, drag-and-drop form and workflow builder.",
+      "monthly_price": 99.0,
+      "annual_price": 83.0,
+      "annual_discount_percentage": 16.16,
+      "setup_fee": null,
+      "features": [
+        "No-code drag-and-drop form builder",
+        "Workflow builder",
+        "Dynamic task assignment",
+        "Form to form prefill",
+        "Workflow dashboard",
+        "Custom branding"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": "2GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Forms",
+            "value": 25
+          },
+          {
+            "name": "Submissions per form",
+            "value": 1000
+          },
+          {
+            "name": "Total submissions",
+            "value": 25000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Suite",
+      "tier_description": "Bundle all of Formstack\u2019s tools.",
+      "monthly_price": 299.0,
+      "annual_price": 250.0,
+      "annual_discount_percentage": 16.39,
+      "setup_fee": null,
+      "features": [
+        "Access Forms, Documents, and Sign",
+        "Workflows access",
+        "Dynamic task assignment",
+        "Form to form prefill",
+        "Workflow dashboard",
+        "Workspace",
+        "Step logic",
+        "Group approvals",
+        "Smart lists",
+        "Data routing",
+        "Custom branding"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": "10GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Forms",
+            "value": 100
+          },
+          {
+            "name": "Submissions per form",
+            "value": 5000
+          },
+          {
+            "name": "Total submissions",
+            "value": 1000000
+          },
+          {
+            "name": "Document merges",
+            "value": 250
+          },
+          {
+            "name": "Document templates",
+            "value": 100
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Users",
+      "unit": "per user",
+      "base_price": 20.0,
+      "tiers": null
+    },
+    {
+      "metric_name": "Usage",
+      "unit": "per unit",
+      "base_price": 50.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T04:10:29.713351",
+  "schema_validated": true,
+  "confidence_score": 90.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "84296d8e-1fb3-4f6e-81f7-87b3febef75d",
+    "name": "Formstack",
+    "slug": "formstack",
+    "description": "Formstack is one of the easiest ways to build custom forms that let you collect data your way.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/b97efaa88e53498fd91b67a09cfdfcca.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Forms & Surveys"
+    ],
+    "category_slugs": [
+      "forms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 2,
+    "trigger_count": 1
+  }
+}

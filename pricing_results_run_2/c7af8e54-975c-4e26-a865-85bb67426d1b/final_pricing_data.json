@@ -1,0 +1,141 @@
+{
+  "app_id": "mighty_networks",
+  "app_name": "Mighty Networks",
+  "app_slug": "mighty-networks",
+  "pricing_url": "https://www.mightynetworks.com/pricing",
+  "source_url": "https://www.mightynetworks.com/pricing",
+  "all_pricing_urls": [
+    "https://www.mightynetworks.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual billing offers a discount equivalent to two months free.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Community Plan",
+      "tier_description": "Start a community or move one over from a social media group or a chat app.",
+      "monthly_price": 41.0,
+      "annual_price": 492.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Events & Polls"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "250 GB",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Courses Plan",
+      "tier_description": "Add courses, challenges, and resource libraries to a community or membership.",
+      "monthly_price": 99.0,
+      "annual_price": 1188.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Courses & Challenges"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "1 TB",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Business Plan",
+      "tier_description": "Integrate your community with your other tools and take advantage of more livestreaming and white-labeling.",
+      "monthly_price": 179.0,
+      "annual_price": 2148.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "SSO & Auto-Generated Polls"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "2 TB",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Path-to-Pro Plan",
+      "tier_description": "Grow your revenue and scale with dedicated services and support, more white-labeling, and our most advanced automated workflows.",
+      "monthly_price": 360.0,
+      "annual_price": 4320.0,
+      "annual_discount_percentage": 16.67,
+      "setup_fee": null,
+      "features": [
+        "Space Banners & Advanced Automations"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "3 TB",
+        "operations": "unlimited",
+        "api_calls": "unlimited",
+        "integrations": "unlimited",
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [
+    {
+      "fee_name": "Transaction Fee",
+      "fee_amount": 3.0,
+      "fee_description": "Mighty charges a small fee on each transaction for the Community Plan."
+    },
+    {
+      "fee_name": "Transaction Fee",
+      "fee_amount": 2.0,
+      "fee_description": "Mighty charges a small fee on each transaction for the Courses and Business Plans."
+    },
+    {
+      "fee_name": "Transaction Fee",
+      "fee_amount": 1.0,
+      "fee_description": "Mighty charges a small fee on each transaction for the Path-to-Pro Plan."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:38:26.702469",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "c7af8e54-975c-4e26-a865-85bb67426d1b",
+    "name": "Mighty Networks",
+    "slug": "mightynetworks",
+    "description": "Mighty Networks is a platform that offers anyone the opportunity to create their own community and start getting paid to support their work. Your members can message, meet, and go deeper around the topics and interests they care about most.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/2acb01a8452b7ad9d7301f0d6a0ce4d8.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Website Builders"
+    ],
+    "category_slugs": [
+      "cms"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 9,
+    "trigger_count": 6
+  }
+}

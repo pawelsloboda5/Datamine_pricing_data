@@ -1,0 +1,46 @@
+{
+  "app_name": "Enormail",
+  "app_slug": "enormail",
+  "search_term": "Find the official pricing page URL for Enormail (enormail.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744725523.6243072,
+  "response_text": [
+    "I couldn't locate the exact official pricing page for Enormail on their site right now. You might need to visit https://enormail.com and navigate directly to their pricing information. Let me know if I can assist further!"
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://enormail.com",
+      "is_accessible": true,
+      "content": "Proudly powered by LiteSpeed Web Server\n\nPlease be advised that LiteSpeed Technologies Inc. is not a web hosting company and, as such, has no control over content found on this site.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "enormail",
+        "app_name": "Enormail",
+        "app_slug": "enormail",
+        "pricing_url": null,
+        "source_url": null,
+        "all_pricing_urls": null,
+        "price_model_type": [],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "USD",
+        "is_pricing_public": false,
+        "pricing_page_accessible": true,
+        "pricing_notes": "No pricing information was found in the provided content.",
+        "pricing_tiers": null,
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:58:48.296689",
+        "schema_validated": null,
+        "confidence_score": null,
+        "extraction_error": null,
+        "json_repaired": null
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\enormail\\20250415_095848"
+}

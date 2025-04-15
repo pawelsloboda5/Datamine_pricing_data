@@ -1,0 +1,75 @@
+{
+  "app_id": "digimember",
+  "app_name": "DigiMember",
+  "app_slug": "digimember",
+  "pricing_url": null,
+  "source_url": "https://digimember.com/digimember-pro-order/",
+  "all_pricing_urls": null,
+  "price_model_type": [
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Pricing details for DigiMember PRO are not fully disclosed in the provided content.",
+  "pricing_tiers": [
+    {
+      "tier_name": "PRO",
+      "tier_description": "Advanced features for creating member pages.",
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited products (Levels)",
+        "Sequential activation (subscriptions)",
+        "Member and Download Products",
+        "Autojoin function",
+        "Examinations",
+        "Browser PUSH-Notifications",
+        "Progress indicator",
+        "Individual content on your member pages",
+        "Actions (tagging of members)",
+        "Automatic blocking in case of non-payment",
+        "Easy integration of payment providers",
+        "Certificates for your customers"
+      ],
+      "limits": null
+    }
+  ],
+  "usage_based_pricing": null,
+  "ai_specific_pricing": null,
+  "promotional_offers": null,
+  "additional_fees": [
+    {
+      "fee_name": "VAT",
+      "fee_amount": null,
+      "fee_description": "All prices are VAT exclusive."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T08:40:20.172376",
+  "schema_validated": true,
+  "confidence_score": 70.0,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "2769adea-0963-49c3-8f8d-f244775121c3",
+    "name": "DigiMember",
+    "slug": "digimember",
+    "description": "DigiMember is a powerful membership plugin for WordPress, that enables you to build your very own automated member area within minutes.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/d47856e6cda10c0c68e4416460cf9ed5_3.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Online Courses"
+    ],
+    "category_slugs": [
+      "it-operations-education"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 3,
+    "trigger_count": 0
+  }
+}

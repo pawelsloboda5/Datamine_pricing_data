@@ -1,0 +1,244 @@
+{
+  "app_name": "Axonaut",
+  "app_slug": "axonaut",
+  "search_term": "Find the official pricing page URL for Axonaut (axonaut.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744689789.8734355,
+  "response_text": [
+    "The official pricing page URL for Axonaut is [https://axonaut.com/#prices](https://axonaut.com/#prices)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Axonaut - Le logiciel en ligne tout compris, sans engagement",
+      "url": "https://axonaut.com/content/prix"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://axonaut.com/content/prix",
+      "is_accessible": true,
+      "content": "Nous n\u2019avons jamais augment\u00e9 nos tarifs pour nos clients.\n\n**JAMAIS**.\n\nTarif pour 1 utilisateur\n\n69\u20ac99\n\nht/mois\n\nLe plus vendu\n\n62\u20ac99\n\nht/moisPaiement en 1 fois\n\n55\u20ac99\n\nht/moisPaiement en 1 fois\n\n41\u20ac99\n\nht/moisPaiement en 1 fois\n\n![Image 1](https://axonaut.com/content/uploaded_images/16564_b3ec-2174-56e0-2dbf-6727/illus-fonctionnalite-tarifpng.webp)\n\nToutes les  \nfonctionnalit\u00e9s\n----------------------------\n\n#### Devis/factures\n\nInclus\n\nNombre de devis et factures **illimit\u00e9**\n\n**Conforme** facturation \u00e9lectronique\n\n**Personnalisation** des devis et factures\n\nAcomptes, factures interm\u00e9diaires, soldes et avoirs\n\n**Alerte** lorsque vos devis et factures sont consult\u00e9s\n\nAffichage de vos marges\n\nG\u00e9n\u00e9ration et envoi automatique de **factures r\u00e9currentes** (abonnement)\n\n**Avance de tr\u00e9sorerie**\n\n**Relance automatique**\u00a0des devis et des impay\u00e9s\n\n**Recouvrement d'impay\u00e9s** par huissiers\n\n**Signature \u00e9lectronique** des devis et documents\n\nPaiement de vos factures par **CB en ligne ou pr\u00e9l\u00e8vement automatique** (Stripe, GoCardless, Paypal)\n\n#### Commercial\n\nInclus\n\nNombre de **contacts illimit\u00e9**\n\n**Cat\u00e9gorisation** des clients et des produits\n\nCommandes clients et **bons de livraison**\n\nG\u00e9n\u00e9ration de documents \u00e0 partir de vos mod\u00e8les\n\n**Statistiques** et indicateurs commerciaux\n\nSynchronisation de vos rendez-vous et **rappels int\u00e9gr\u00e9s**\n\nRemont\u00e9e automatique des emails dans les **fiches clients**\n\nPersonnalisation et suivi de votre prospection\n\nAjout automatique de contacts depuis Gmail, Outlook et LinkedIn\n\n#### Compte Pro\n\nInclus\n\nIBAN **fran\u00e7ais**\n\nTenue de compte\n\nR\u00e9ception des **paiements clients**\n\n**Gestion des virements**\n\nCartes **Mastercard** (physiques et virtuelles) personnalisables, gratuites pour vous et vos salari\u00e9s (gestion des plafonds, des paiements depuis votre compte Axonaut)\n\nAucun frais de tenue de compte, frais de mouvement ou gestion des cartes\n\n#### D\u00e9penses\n\nInclus\n\n**Saisie automatique** des d\u00e9penses\n\n**Cat\u00e9gorisation** de vos d\u00e9penses\n\nCommandes fournisseurs et bons de commande\n\n**Notes de frais et indemnit\u00e9s kilom\u00e9triques**\n\n**Paiement** des fournisseurs\n\n**Rapprochement bancaire**\n\n**R\u00e9cup\u00e9ration automatique** des lignes bancaires\n\nImport manuel possible\n\nSuggestion automatique des achats ou ventes \u00e0 rapprocher\n\n#### Comptabilit\u00e9\n\nInclus\n\n**Acc\u00e8s gratuit pour votre comptable**\n\nAutomatisation des **journaux de ventes et d\u00e9penses**\n\n**Exports comptables personnalis\u00e9s**\n\nInt\u00e9gration directe avec les logiciels comptables\n\nCalcul automatique de la **d\u00e9claration de la TVA**\n\nGestion de l'autoliquidation (export / intracommunautaire)\n\n#### Tr\u00e9sorerie\n\nInclus\n\n**Pr\u00e9visionnel de tr\u00e9sorerie** personnalisable\n\n**Cat\u00e9gorisation** des encaissements et d\u00e9caissements\n\nRemplissage **manuel et automatique** du pr\u00e9visionnel\n\nGraphique de la **tr\u00e9sorerie pr\u00e9visionnelle**\n\nSc\u00e9narios de tr\u00e9sorerie et **comparaison des sc\u00e9narios**\n\n**Comparaison r\u00e9el et pr\u00e9visionnel** avec commentaires\n\n#### Gestion de stock\n\nInclus\n\nCMUP et **valeur du stock en temps r\u00e9el**\n\n**Alerte en cas de stock bas**\n\n**D\u00e9cr\u00e9mentation automatique**\u00a0\u00e0 l'\u00e9dition du bon de livraison ou de la facture\n\nR\u00e9ception de marchandises\n\n**Tra\u00e7abilit\u00e9 du stock** (num\u00e9ro de lot, de s\u00e9rie, DLC, DLUO)\n\n#### Projets\n\nInclus\n\nNombre de **projets illimit\u00e9**\n\nD\u00e9coupage en **t\u00e2ches**\n\n**Suivi de projet**\n\n**Feuilles de temps**\n\nFacturation et d\u00e9penses li\u00e9es au projet\n\n**Indicateurs projet** (CA, co\u00fbt, temps pass\u00e9, marge)\n\n#### RH\n\nInclus\n\n**Registre du personnel**\n\nStockage des bulletins de salaire\n\nGestion des **charges sociales**\n\nGestion des **cong\u00e9s et absences**\n\n#### Ticketing\n\nInclus\n\n**Cr\u00e9ation automatique de tickets** sur r\u00e9ception d'emails\n\n**Mod\u00e8le de r\u00e9ponses**\n\nBons d'intervention\n\nCat\u00e9gorisation des tickets\n\n**Statistiques** et indicateurs\n\nCommentaires internes, priorisation et escalade\n\n#### Marketing\n\nInclus\n\n**Segmentation des clients**\n\n**Campagnes d'emailing**\n\n**Campagnes SMS**\n\nTemplate de campagnes\n\n#### Param\u00e9trage\n\nInclus\n\n**Reprise de vos donn\u00e9es avec les imports**\n\nExport de donn\u00e9es\n\nGestion des **droits des utilisateurs**\n\n**Connexion avec des logiciels externes**\n\nAPI publique\n\n**Interface pour vos clients** (devis, factures, tickets, t\u00e2ches)\n\n### QUESTIONS FR\u00c9QUENTES\n\n![Image 2](https://axonaut.com/content/uploaded_images/16216_e8d7-a035-dc04-1f66-0dac/tag-axobot-faqpng.webp)\n\n#### Comment est calcul\u00e9 le prix ?\n\nLe prix d'Axonaut est calcul\u00e9 en fonction du nombre d'utilisateurs.\n\nVous payez 69,99\u20ac/mois (1 utilisateur compris) + 29,99\u20ac/mois par utilisateur\n\nAxonaut est sans engagement mais r\u00e9compense votre fid\u00e9lit\u00e9.  \nLe paiement d'1 an vous donne droit \u00e0 10% de r\u00e9duction sur le prix mensuel et avec 2 ans achet\u00e9s, c'est 20% d'\u00e9conomis\u00e9s.\n\n#### Un outil complet pour si peu cher ?\n\nNous connaissons bien les contraintes des TPE/PME, il nous fallait donc un tarif en cons\u00e9quence.  \nPour autant, nous ne voulons pas d\u2019un outil au rabais. Nous avons donc d\u00e9velopp\u00e9 une solution qui r\u00e9pond \u00e0 la majorit\u00e9 de vos besoins.  \nSi vous avez des processus m\u00e9tiers sp\u00e9cifiques, nous ne serons peut-\u00eatre pas adapt\u00e9s... mais nous pouvons tout \u00e0 fait les \u00e9tudier.\n\n#### Faut-il payer au module ?\n\nNon, chez Axonaut,\u00a0**tout est inclus**.  \nC\u2019est plus simple \u00e0 g\u00e9rer pour vous comme pour nous.\n\nLes seuls \u00e9l\u00e9ments en suppl\u00e9ment sont les services externes (signature \u00e9lectronique, paiement en ligne des factures, courriers postaux ...).\u00a0Pas d'inqui\u00e9tude, c'est \u00e0 vous de les activer et le prix est clairement indiqu\u00e9 !  \nEt si nous avons d\u00e9cid\u00e9 de ne pas vous faire payer au module, c\u2019est que nous voulons\u00a0**vous accompagner sur le long terme**.  \nM\u00eame si au d\u00e9part vous n'avez pas l'utilit\u00e9 de toutes les fonctions, vous savez qu'Axonaut sera capable de suivre l'\u00e9volution de vos besoins... sans augmentation de la facture.\n\n#### Le Compte Pro Axonaut est-il vraiment inclus dans l'abonnement ?\n\nOUI ! Le Compte Pro Axonaut est inclus dans votre abonnement Axonaut sans frais suppl\u00e9mentaire. Nous souhaitons vous offrir une nouvelle exp\u00e9rience avec les m\u00eames fonctionnalit\u00e9s qu'une banque traditionnelle, sans les frais, avec le support Axonaut :)\n\nToutefois, certaines op\u00e9rations peuvent engendrer des frais qui ne sont pas du ressort de Axonaut. Voici un petit rappel de l\u2019ensemble des frais potentiels selon votre utilisation :\n\n  \n\n*   Alimenter votre Compte Pro Axonaut via carte bancaire : 0.7% + 0.12\u20ac TTC (sachez que\u00a0**vous pouvez l'alimenter gratuitement via virement**)\n*   Frais d'intervention pour gestion du d\u00e9couvert non autoris\u00e9 : 8\u20ac TTC par op\u00e9ration, dans la limite de 80\u20ac TTC par mois.\n*   20\u20ac TTC pour le traitement de dossiers particuliers peuvent s'appliquer.\n*   R\u00e9ception d\u2019un paiement en ligne effectu\u00e9 avec une carte commerciale dans l'Espace \u00e9conomique europ\u00e9en : 0,25\u20ac + 2,5% HT\n*   R\u00e9ception d\u2019un paiement en ligne effectu\u00e9 avec une carte personnelle \u00e9mise dans l'Espace \u00e9conomique europ\u00e9en : 0,25\u20ac + 1,2% HT\n*   R\u00e9ception d\u2019un paiement en ligne effectu\u00e9 avec une carte commerciale ou personnelle \u00e9mise en dehors de l'Espace \u00e9conomique europ\u00e9en : 0,25\u20ac + 2,9% HT\n*   Contestation d'un paiement par carte en ligne : 20\u20ac HT\n*   R\u00e9daction d\u2019une lettre attestant de l\u2019existence d\u2019un Compte dans les livres de Swan : 20\u20ac HT\n*   R\u00e9daction d'une lettre de circularisation pour un titulaire personne morale : 45\u20ac HT\n*   Utilisation irr\u00e9guli\u00e8re du compte (tentative ou r\u00e9alisation d\u2019actes en contravention avec la loi et/ou la pr\u00e9sente Convention de compte) : 150\u20ac HT\n*   Frais de rejet de pr\u00e9l\u00e8vement sortant pour solde insuffisant : 10\u20ac maximum\n*   Paiement de biens et de prestations de services dans les commerces ou \u00e0 distance qui ne sont pas libell\u00e9s et ex\u00e9cut\u00e9s en euros : 2% du montant r\u00e9gl\u00e9\n*   Traitement de saisie judiciaire ou administrative, avis \u00e0 tiers d\u00e9tenteur : Un montant \u00e9quivalent \u00e0 10% de l\u2019avis \u00e0 tiers d\u00e9tenteur, dans la limite de \u20ac100 par cas\n\n### D\u00e9couvrez nos t\u00e9moignages clients Axonaut !\n\nD\u00e9couvrez les tarifs transparents d'Axonaut : des solutions compl\u00e8tes pour simplifier la gestion de votre entreprise, adapt\u00e9es \u00e0 vos besoins",
+      "error": null,
+      "pricing_data": {
+        "app_id": "axonaut",
+        "app_name": "Axonaut",
+        "app_slug": "axonaut",
+        "pricing_url": "https://axonaut.com/pricing",
+        "source_url": null,
+        "all_pricing_urls": [
+          "https://axonaut.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": false,
+        "has_free_trial": false,
+        "free_trial_period_days": null,
+        "currency": "EUR",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is based on the number of users, with discounts for annual and biennial payments.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Single User",
+            "tier_description": "Pricing for one user.",
+            "monthly_price": 69.99,
+            "annual_price": 755.88,
+            "annual_discount_percentage": 10.0,
+            "setup_fee": null,
+            "features": [
+              "Unlimited invoices and quotes",
+              "Electronic invoicing compliance",
+              "Recurring invoice automation",
+              "Electronic signature",
+              "Online payment integration"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Additional User",
+            "tier_description": "Cost per additional user.",
+            "monthly_price": 29.99,
+            "annual_price": 323.88,
+            "annual_discount_percentage": 10.0,
+            "setup_fee": null,
+            "features": [
+              "All features included in the base plan"
+            ],
+            "limits": {
+              "users": 1,
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": [
+          {
+            "offer_name": "Annual Payment Discount",
+            "offer_description": "10% discount for annual payment.",
+            "discount_percentage": 10.0,
+            "offer_url": null,
+            "valid_until": null
+          },
+          {
+            "offer_name": "Biennial Payment Discount",
+            "offer_description": "20% discount for biennial payment.",
+            "discount_percentage": 20.0,
+            "offer_url": null,
+            "valid_until": null
+          }
+        ],
+        "additional_fees": [
+          {
+            "fee_name": "Card Payment Fee",
+            "fee_amount": 0.7,
+            "fee_description": "Fee for funding the account via card payment."
+          },
+          {
+            "fee_name": "Overdraft Management Fee",
+            "fee_amount": 8.0,
+            "fee_description": "Fee per operation for managing unauthorized overdrafts."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T00:03:23.122678",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://axonaut.com/#prices",
+      "is_accessible": true,
+      "content": "Axonaut - LE Logiciel de Gestion Conforme, Complet et Fran\u00e7ais.\n=============== \n\n[![Image 1: Axonaut](https://axonaut.com/content/uploaded_images/_e04c-ca62-113b-af2a-fb34/axonaut-logopng.webp)](https://axonaut.com/)\n\n*   [Pour qui ?](https://axonaut.com/#)\n    \n     \n    \n     [![Image 2: Voir aussi 2](https://axonaut.com/content/uploaded_images/16216_c2c7-bbdf-3c3e-bd02-fe81/menu-artisanpng.webp) Artisan](https://axonaut.com/content/logiciel-artisan)[![Image 3: Voir aussi 3](https://axonaut.com/content/uploaded_images/16216_90f8-c2d9-16e9-73f8-82de/menu-agencepng.webp) Agences](https://axonaut.com/content/Agence)[![Image 4: Voir aussi 4](https://axonaut.com/content/uploaded_images/16216_2659-9786-2983-d455-f21c/menu-startuppng.webp) Start-Up](https://axonaut.com/content/logiciel-facturation-startup)[![Image 5: Voir aussi 5](https://axonaut.com/content/uploaded_images/16216_0e9f-9982-d4a5-1c7e-5628/menu-entreprise-de-servicespng.webp) Entreprise de services](https://axonaut.com/content/Service)\n    \n     [![Image 6: Voir aussi 2](https://axonaut.com/content/uploaded_images/16216_e9ec-fa32-4d94-292b-d21e/menu-franchisepng.webp) Franchise](https://axonaut.com/content/logiciel-gestion-franchise)[![Image 7: Voir aussi 3](https://axonaut.com/content/uploaded_images/16216_304c-c986-78b7-efdf-9d4c/menu-expert-comptablespng.webp) Experts-comptables](https://axonaut.com/content/logiciel-gestion-expert-comptable)[![Image 8: Voir aussi 4](https://axonaut.com/content/uploaded_images/16216_d4e3-ae70-743d-a792-ab53/menu-secretaire-independantepng.webp) Secr\u00e9taires ind\u00e9pendantes](https://axonaut.com/content/logiciel-secretaire-independante)\n    \n    ![Image 9](https://axonaut.com/content/uploaded_images/16290_353d-f18b-6538-2e0c-d73a/tag-axobot-checkpng.webp)\n    \n*   [Fonctionnalit\u00e9s](https://axonaut.com/#)\n    \n     \n    \n     [![Image 10: Voir aussi 2](https://axonaut.com/content/uploaded_images/19606_23a9-e241-5c66-8f03-31c2/menu-function-commercialpng.webp) Gestion commerciale](https://axonaut.com/content/logiciel-gestion-commerciale)[![Image 11: Voir aussi 3](https://axonaut.com/content/uploaded_images/19608_e36d-a35f-2d60-1322-3d3f/menu-function-devispng.webp) Devis](https://axonaut.com/content/logiciel-pour-devis)[![Image 12: Voir aussi 4](https://axonaut.com/content/uploaded_images/19610_6211-1be5-b657-eb61-18c4/menu-function-facturespng.webp) Factures](https://axonaut.com/content/logiciel-facture)[![Image 13: Voir aussi 5](https://axonaut.com/content/uploaded_images/19612_4728-d716-ef1c-6a0e-6d5d/menu-function-depensespng.webp) Gestion des d\u00e9penses & achats](https://axonaut.com/content/logiciel-achat)\n    \n    **Et aussi :**[Facture \u00e9lectronique](https://axonaut.com/content/logiciel-facture-electronique)[Tr\u00e9sorerie](https://axonaut.com/content/logiciel-tresorerie)[Compte Pro & Cartes](https://axonaut.com/content/compte-profesionnel-en-ligne)[Notes de frais](https://axonaut.com/content/logiciel-note-de-frais)[Factures r\u00e9currentes & abonnements](https://axonaut.com/content/logiciel-factures-recurrentes-abonnements)[Comptabilit\u00e9](https://axonaut.com/content/logiciel-comptabilite)[Ressources Humaines](https://axonaut.com/content/logiciel-gestion-rh)[Ticketing (SAV)](https://axonaut.com/content/logiciel-gestion-ticket)[Bons de commande](https://axonaut.com/content/bon-de-commande)[Gestion de projet](https://axonaut.com/content/outil-gestion-projet)[Gestion des stocks](https://axonaut.com/content/logiciel-gestion-stock)[Marketing](https://axonaut.com/content/logiciel-marketing)  \n      \n    \n    **[Toutes les fonctionnalit\u00e9s](https://axonaut.com/content/fonctionnalites)**\n    \n    ![Image 14](https://axonaut.com/content/uploaded_images/17404_b525-f4b6-8cbb-3d3c-662c/tag-axobot-cardspng.webp)\n    \n*   [Tarifs](https://axonaut.com/content/prix)\n*   [Avis Clients](https://axonaut.com/content/temoignages)\n*   [Ressources](https://axonaut.com/#)\n    \n     \n    \n     [![Image 15: Voir aussi 2](https://axonaut.com/content/uploaded_images/17420_c7cd-0037-76f2-1be9-6511/menu-plus-blogpng.webp) Blog](https://axonaut.com/blog/)[![Image 16: Voir aussi 3](https://axonaut.com/content/uploaded_images/17422_9acd-abbb-3d31-bf20-7ca6/menu-plus-academypng.webp) Academy Axonaut](https://support.axonaut.com/)[![Image 17: Voir aussi 4](https://axonaut.com/content/uploaded_images/17424_82f7-608e-632c-ea79-f714/menu-plus-youtubepng.webp) Notre Cha\u00eene Youtube](https://youtube.com/playlist?list=PLSKaC0QlCLGg_g8YpGjf9DDvof16bJZMt)[![Image 18: Voir aussi 5](https://axonaut.com/content/uploaded_images/17426_e18f-506a-c3be-eaab-5645/menu-plus-formationpng.webp) Formation](https://axonaut.com/formation)[![Image 19: Voir aussi 6](https://axonaut.com/content/uploaded_images/17428_22c7-f163-e7e8-41c7-5444/menu-plus-affiliationpng.webp) Affiliation / Revendeur](https://axonaut.com/affiliation)[![Image 20: Voir aussi 7](https://axonaut.com/content/uploaded_images/17430_0859-9ecc-4095-8583-58e8/menu-plus-integrateurpng.webp) Int\u00e9grateurs](https://axonaut.com/integrateur)\n    \n    ![Image 21](https://axonaut.com/content/uploaded_images/17432_e1a1-0be5-87b2-179c-f567/tag-axobot-ressourcespng.webp)\n    \n*   [Plus](https://axonaut.com/#)\n    \n     \n    \n    [Qui sommes-nous ?](https://axonaut.com/content/a-propos)[Solutions connect\u00e9es & partenaires](https://axonaut.com/integration)[Espace presse](https://axonaut.com/content/presse)[Contact](https://axonaut.com/#)\n    \n    ![Image 22](https://axonaut.com/content/uploaded_images/17436_a02f-b8b5-7eb7-fb91-a8bf/tag-axobot-morepng.webp)\n    \n\n*   [Connexion](https://axonaut.com/login)\n*   [Essai Gratuit](https://axonaut.com/onboarding/)\n\nVotre alli\u00e9  \npour une  \ngestion  \nsimplifi\u00e9e\n=============================================\n\nUn seul outil, pour vous accompagner dans toute la gestion de votre entreprise et **pouvoir vous concentrer sur votre vrai m\u00e9tier**\n\n[Essayez gratuitement](https://axonaut.com/onboarding/)\n\n[Demandez une d\u00e9mo](https://app.livestorm.co/axonaut/session-de-questions-reponses?source=home?type=detailed)\n\n![Image 23: illustration de deux coll\u00e8gues utilisant Axonaut en copie de sa mascotte](https://axonaut.com/content/uploaded_images/16188_4c77-472c-7d58-78af-952c/axonaut-header-lightpng.webp)\n\n![Image 24](https://axonaut.com/content/uploaded_images/19856_0358-f3be-7f41-4902-136c/axonaut-header-mobpng.webp)\n\n**\\+ 189 000**\n\nutilisateurs\n\nnous font confiance\n\n![Image 25: Label Factur-X](https://axonaut.com/content/uploaded_images/16204_fed7-178c-9165-0040-ab38/label-factur-xpng.webp)\n\n![Image 26: label RGPD](https://axonaut.com/content/uploaded_images/16206_7c39-1686-0aa2-1e9e-ca03/label-rgpdpng.webp)\n\n![Image 27: Label French Tech](https://axonaut.com/content/uploaded_images/16208_38b0-0bb3-4028-8ee1-f2c0/label-la-french-techpng.webp)\n\nPourquoi choisir Axonaut ?\n--------------------------\n\n![Image 28: AXOBOT pr\u00e9sente](https://axonaut.com/content/uploaded_images/16216_2e00-822d-ee71-8c56-d379/tag-axobot-argumentspng.webp)\n\n##### Gagnez du temps sur votre comptabilit\u00e9\n\nAutomatisez la gestion de votre facturation, paiements, achats, tr\u00e9sorerie, liaison facilit\u00e9e avec votre comptable, connexion aux outils de production.  \n  \nUn gain de temps pour vous et votre comptable !\n\n##### Boostez vos ventes\n\nG\u00e9rez vos contacts et votre prospection commerciale depuis un seul **outil de gestion en ligne**.  \n  \nAxonaut vous accompagne pour transformer vos prospects en clients plus rapidement !\n\n##### Profitez d'un service client r\u00e9actif et fran\u00e7ais !\n\nN\u2019h\u00e9sitez pas \u00e0 poser vos questions \u00e0 notre \u00e9quipe support disponible et \u00e0 votre \u00e9coute ! Nous mettons \u00e9galement \u00e0 votre disposition un centre d\u2019aide ainsi qu\u2019une cha\u00eene YouTube pour que vous puissiez ma\u00eetriser jusqu'au bout des doigts votre **logiciel de gestion d\u2019entreprise en ligne** pr\u00e9f\u00e9r\u00e9 ! Tout est compris dans notre abonnement.\n\n##### Des donn\u00e9es s\u00e9curis\u00e9es\n\nEn tant que logiciel 100% fran\u00e7ais, nous respectons les normes de s\u00e9curit\u00e9 en vigueur. Nous h\u00e9bergeons vos donn\u00e9es en France sur des serveurs s\u00e9curis\u00e9s.\n\nFacilitez-vous (enfin) la vie avec  \nun logiciel de gestion en ligne complet\n----------------------------------------------------------------------------\n\n[Devis & Factures](https://axonaut.com/#functionAnchor_devis-factures)[D\u00e9penses](https://axonaut.com/#functionAnchor_depenses)[Gestion commerciale](https://axonaut.com/#functionAnchor_gestion-commerciale)[Tr\u00e9sorerie](https://axonaut.com/#functionAnchor_tresorerie)[Gestion financi\u00e8re](https://axonaut.com/#functionAnchor_gestion-financiere)\n\n![Image 29: G\u00e9rez vos devis et factures](https://axonaut.com/content/uploaded_images/16216_9d96-779d-86d5-f86c-675d/tag-function-devis-facturepng.webp)\n\n### Cr\u00e9ez des devis et factures \u00e0 votre image facilement\n\nInclus\n\nD\u00e9couvrez les fonctionnalit\u00e9s de notre [logiciel de factures](https://axonaut.com/content/logiciel-facture) !  \n\n*   Transformez les devis en factures en un clic.\n*   Faites signer \u00e9lectroniquement vos devis et documents gr\u00e2ce \u00e0 notre [logiciel de devis](https://axonaut.com/content/logiciel-pour-devis).\n*   Soyez pr\u00e9venu automatiquement de l\u2019ouverture de vos documents.\n*   Proposez le paiement en ligne des factures et devis : CB et pr\u00e9l\u00e8vements bancaires. (Stripe, GoCardless et Paypal).\n*   Relancez automatiquement vos factures impay\u00e9es ainsi que vos devis.\n*   Cr\u00e9ez et envoyez automatiquement vos factures r\u00e9currentes.\n\n![Image 30: G\u00e9rez vos d\u00e9penses professionnelles](https://axonaut.com/content/uploaded_images/16216_be7a-db3b-6d1d-a8c7-ab12/tag-function-depensepng.webp)\n\n### Automatisez la gestion de vos d\u00e9penses\n\nInclus\n\nAxonaut vous accompagne de l'encaissement jusqu'au d\u00e9caissement en automatisant la gestion de vos d\u00e9penses :  \n\n*   Simplifiez la cr\u00e9ation de vos d\u00e9penses avec l\u2019OCR.\n*   Payez vos fournisseurs.\n*   Cr\u00e9ez et validez vos notes de frais et indemnit\u00e9s kilom\u00e9triques de n\u2019importe o\u00f9 (**application gestion d\u2019entreprise** sur Android et IOS).\n*   Cr\u00e9ez des commandes et des [bons de commande](https://axonaut.com/content/bon-de-commande).\n\n![Image 31: La prospection pour les professionnels](https://axonaut.com/content/uploaded_images/16216_c9a4-0553-2140-a6ed-e1b3/tag-function-prospectionpng.webp)\n\n### Centralisez vos contacts & gagnez du temps dans votre prospection\n\nInclus\n\nLe [logiciel de gestion commerciale](https://axonaut.com/content/logiciel-gestion-commerciale) vous aide \u00e0 cr\u00e9er et conserver une relation commerciale avec vos clients :  \n\n*   Connectez votre agenda et vos emails.\n*   Personnalisez vos opportunit\u00e9s commerciales et vos cycles de ventes.\n*   Centralisez toutes vos donn\u00e9es prospects, clients et fournisseurs.\n*   G\u00e9rez vos campagnes marketing (emailing et SMS).\n*   Boostez vos ventes gr\u00e2ce au module segmentation : identifiez vos meilleurs clients et les plus \u00e0 risque pour optimiser votre relation client !\n\n![Image 32: Anticipez votre tr\u00e9sorerie d'entrprise](https://axonaut.com/content/uploaded_images/16216_5ed1-46c7-783b-25f8-1b4f/tag-function-tresoreriepng.webp)\n\n### Pilotez votre tr\u00e9sorerie et votre comptabilit\u00e9 en temps r\u00e9el\n\nInclus\n\nD\u00e9couvrez notre [logiciel de gestion comptable](https://axonaut.com/content/logiciel-comptabilite) : automatisez les actions comptables et communiquez plus facilement avec votre expert-comptable.\n\n*   Connectez votre compte bancaire (rapprochement bancaire).\n*   Le module tr\u00e9sorerie : cr\u00e9ez votre pr\u00e9visionnel en un clic et anticipez l'impact de diff\u00e9rents sc\u00e9narios sur votre tr\u00e9sorerie.\n*   Avance de tr\u00e9sorerie : n\u2019attendez plus pour recevoir vos paiements clients (moins de 48h) et acc\u00e9l\u00e9rer votre croissance !\n*   Exports comptables personnalis\u00e9s.\n*   Connexion automatis\u00e9e aux outils de production comptables.\n*   Acc\u00e8s gratuit pour votre comptable.\n\n![Image 33: La gestion financi\u00e8re pour votre entreprise](https://axonaut.com/content/uploaded_images/16216_d91a-4ced-6bb3-329d-c4d9/tag-function-financepng.webp)\n\n### Facilitez la gestion de vos finances avec le compte pro\n\nInclus\n\nGr\u00e2ce \u00e0 votre logiciel de gestion fran\u00e7ais, connectez un compte professionnel en ligne fran\u00e7ais, s\u00e9curis\u00e9 et sans frais cach\u00e9s !  \n\n*   IBAN fran\u00e7ais et s\u00e9curis\u00e9.\n*   Obtenez des cartes physiques et virtuelles et effectuez des virements (vraiment) gratuitement !\n*   Facilitez la gestion de vos d\u00e9penses.\n*   Centralisez toutes les informations sur une seule et m\u00eame interface : banque, gestion des d\u00e9penses, factures clients, tr\u00e9sorerie\u2026 Sans frais cach\u00e9s et compris dans votre abonnement Axonaut !\n\n### D\u00e9couvrez l'ensemble de nos fonctionnalit\u00e9s\n\n**Connaissez en temps r\u00e9el la rentabilit\u00e9 de vos projets.**\n\n*   Suivez en temps r\u00e9el la rentabilit\u00e9 de vos projets\n*   Gestion des t\u00e2ches facilit\u00e9e : pointage de temps et facturation.\n*   Acc\u00e8s gratuit \u00e0 vos clients pour suivre l'avanc\u00e9e des t\u00e2ches / projets.\n\n**G\u00e9rez vos stocks efficacement**\n\n*   Suivez votre stock en temps r\u00e9el (incr\u00e9mentation, d\u00e9cr\u00e9mentation).\n*   Centralisez tous vos produits et services.\n*   Fabriquez vos produits.\n*   Cr\u00e9ez des bons de livraisons.\n\n**Offrez une exp\u00e9rience client unique \u00e0 vos clients.**\n\n*   Connectez votre adresse email SAV et optimisez la gestion de la relation client de mani\u00e8re simple et collaborative.\n*   Retrouvez des statistiques.\n*   Cr\u00e9ez, partagez et commentez des tickets pour un meilleur service client.\n\n**Assurez la gestion des Ressources Humaines (RH)**\n\n*   G\u00e9rez les cong\u00e9s sur une seule et m\u00eame interface.\n*   Acc\u00e9dez au registre personnel en un clic.\n\n[Toutes les fonctionnalit\u00e9s pour votre gestion](https://axonaut.com/content/fonctionnalites)\n\nConnectez Axonaut \u00e0 14000 outils  \net optimisez tous vos processus m\u00e9tier\n-------------------------------------------------------------------------\n\n![Image 34: Axonaut connect\u00e9 \u00e0 gmail, prestashop, woo commerce, shopify, gocardless, paypal, zappier, l'urssaf, stripe, outlook, linkedin et bien plus encore](https://axonaut.com/content/uploaded_images/16236_4851-3c2a-12cf-a92b-1833/axonaut-integrationspng.webp)\n\nAxonaut centralise la gestion de votre entreprise pour **vous faire gagner des heures sur votre travail administratif** gr\u00e2ce \u00e0 une interface simple et intuitive.\u00a0Pour aller plus loin, vous pouvez vous connecter avec vos logiciels m\u00e9tier pour automatiser au maximum vos t\u00e2ches r\u00e9currentes.\n\nQue ce soit avec vos emails (Gmail, Outlook, ...), votre boutique e-commerce\u00a0 (Prestashop, Shopify, WooCommerce), vos moyens de paiement (GoCardLess, Stripe Paypal, Hiboutik, ...) ou des services de l'\u00e9tat fran\u00e7ais (Urssaf, ...) vous trouverez votre bonheur dans plus de 14000 int\u00e9grations possibles.\n\nDes tarifs  \ntout compris, sans engagement\n------------------------------------------\n\n**1 mois**\u00a0\n\n69\u20ac99\n\nht/mois\n\n[Essayer](https://axonaut.com/onboarding/?preset=fromPrice1Month)\n\nLe plus vendu\n\n**1 an**_10% de r\u00e9duction_\n\n62\u20ac99\n\nht/moisPaiement en 1 fois\n\n[Essayer](https://axonaut.com/onboarding/?preset=fromPrice1Year)\n\n**2 ans**_20% de r\u00e9duction_\n\n55\u20ac99\n\nht/moisPaiement en 1 fois\n\n[Essayer](https://axonaut.com/onboarding/?preset=fromPrice2Years)\n\nAvec le Parrainage\n\n0\u20ac00\n\nht/mois\n\n[Essayer](https://axonaut.com/onboarding/?preset=fromPriceReferral)\n\n+29\u20ac99 /mois /utilisateur suppl\u00e9mentaire\n\n### Plus de 189 000 professionnels  \ngagnent du temps sur leur gestion quotidienne\n\n![Image 35](https://axonaut.com/assets/home/images/icon/youtubeplay.svg)\n\n \n\n**Testez gratuitement votre prochain**  \n**logiciel de gestion commerciale**\n\n[Commencer mon **essai gratuit**](https://axonaut.com/onboarding/)\n\n### Axonaut,  \nune entreprise engag\u00e9e\n\nChez Axonaut, nous croyons que la r\u00e9ussite des TPE est un moteur de changement collectif favorisant une \u00e9conomie plus diversifi\u00e9e et vertueuse pour tous.\n\n*   **Notre mission**\u00a0: Simplifier la gestion d\u2019entreprise pour les TPE et PME.\n*   **Notre vision**\u00a0: Un monde o\u00f9 chaque dirigeant(e) peut d\u00e9velopper son projet en toute s\u00e9r\u00e9nit\u00e9.\n*   **Notre engagement**\u00a0: \u00c9voluer en permanence tout en restant une solution intuitive, conforme et bas\u00e9e en France.\n\n[En savoir plus sur nous](https://axonaut.com/content/a-propos)\n\n![Image 36: Photo de l'\u00e9quipe Axonaut](https://axonaut.com/content/uploaded_images/16262_1a29-1f1a-7357-227a-0fbe/axonaut-une-equipe-engageepng.webp)\n\n### Questions fr\u00e9quentes\n\n![Image 37](https://axonaut.com/content/uploaded_images/16216_e8d7-a035-dc04-1f66-0dac/tag-axobot-faqpng.webp)\n\n#### \n\nQu'est-ce qu'un logiciel de gestion ?\n\nUn logiciel de gestion d\u2019entreprise ou progiciel de gestion int\u00e9gr\u00e9e (il est aussi appel\u00e9 logiciel ERP en anglais) accompagne l\u2019entrepreneur dans sa vie de tous les jours. Il propose plusieurs fonctionnalit\u00e9s qui facilitent le pilotage comptable, financier et commercial d\u2019une entreprise. Quels sont ses avantages et pourquoi en adopter un ?\n\n  \n\n*   Gain de temps : gr\u00e2ce \u00e0 ses automatisations, un logiciel de gestion va vous faire gagner du temps au quotidien. Vous pourrez cr\u00e9er vos factures en quelques clics, retrouver en temps r\u00e9el toutes les statistiques sur l\u2019\u00e9tat financier de votre entreprise et conna\u00eetre l\u2019\u00e9tat de votre stock rapidement par exemple.\u00a0\n*   Meilleure collaboration : \u00e9tant donn\u00e9 que tous les \u00e9l\u00e9ments sont connect\u00e9s et centralis\u00e9s, les membres d\u2019une \u00e9quipe n\u2019ont plus besoin de rechercher l\u2019information. Cela permet de r\u00e9duire les erreurs \u00e9galement. Par exemple, il sera v\u00e9rifiable rapidement si une relance client a \u00e9t\u00e9 effectu\u00e9e et ne pas la renvoyer.\n*   Performance de votre entreprise : aujourd\u2019hui, un entrepreneur se doit d\u2019\u00eatre au courant en temps r\u00e9el de ses r\u00e9sultats. En effet, les formules sur Excel ont leur limite ! Avoir acc\u00e8s \u00e0 toutes les statistiques et automatiser des t\u00e2ches vous fait gagner un temps pr\u00e9cieux pour d\u00e9velopper votre activit\u00e9.\n\nD\u00e9couvrez notre\u00a0[blog](https://axonaut.com/blog/)\u00a0pour en savoir plus sur comment choisir votre logiciel pour am\u00e9liorer la performance de votre entreprise !\n\n#### \n\nQuels sont les meilleurs logiciels de gestion ?\n\nQuel est le meilleur logiciel de gestion pour votre entreprise ? Cela d\u00e9pend de plusieurs crit\u00e8res \u00e0 d\u00e9finir selon votre activit\u00e9 et votre fonctionnement :\n\n  \n\n*   Les fonctionnalit\u00e9s : avant de vous lancer dans une recherche de logiciel, vous devrez vous poser la question de vos besoins. Quelles sont les probl\u00e9matiques dans mon entreprise ? Quelles sont les t\u00e2ches \u00e0 automatiser pour optimiser mon temps ? Cela vous permettra de d\u00e9gager une liste de fonctionnalit\u00e9s n\u00e9cessaires pour vous.\n*   La taille de l\u2019entreprise : une entreprise de 5 salari\u00e9s n\u2019aura pas les m\u00eames besoins qu\u2019une plus grande entreprise. C\u2019est important de le prendre en compte ! De nombreux logiciels adapt\u00e9s aux petites entreprises vous proposeront les solutions n\u00e9cessaires pour vous accompagner au quotidien sans payer pour des fonctionnalit\u00e9s dont vous n\u2019aurez pas besoin. Pour v\u00e9rifier ce point, n\u2019h\u00e9sitez pas \u00e0 demander une d\u00e9monstration de l\u2019outil.\n*   L\u2019ergonomie : pour que chaque membre d\u2019une \u00e9quipe s\u2019en serve, il est important de v\u00e9rifier sa facilit\u00e9 de prise en main. Pour cela, les \u00e9diteurs de logiciels proposent souvent des p\u00e9riodes d\u2019essai.\n*   Le prix du logiciel : il est important de d\u00e9finir un budget avant de souscrire un abonnement. En g\u00e9n\u00e9ral, les \u00e9diteurs proposent une tarification en fonction des modules, du nombre d\u2019utilisateurs ou certaines fonctionnalit\u00e9s. N\u2019h\u00e9sitez pas \u00e0 bien v\u00e9rifier aupr\u00e8s du service client le prix exact pour ne louper aucun co\u00fbt cach\u00e9 \u00e9ventuel !\n*   La connexion aux outils : vous devez avant tout choisir un outil qui s\u2019int\u00e9gre avec votre \u00e9cosyst\u00e8me actuel. En effet, il doit \u00e9galement s\u2019adapter \u00e0 votre organisation en interne ! N\u2019h\u00e9sitez pas \u00e0 v\u00e9rifier qu\u2019il s\u2019int\u00e8gre bien ou qu\u2019une API est disponible pour permettre \u00e0 des d\u00e9veloppeurs de faire une connexion facilement.\n*   Le service client : et c\u2019est un point tr\u00e8s important ! V\u00e9rifiez bien que le logiciel propose un service client r\u00e9actif et disponible lors de votre p\u00e9riode d\u2019essai. Un point positif sera d\u2019avoir acc\u00e8s \u00e0 des tutoriels ou des cha\u00eenes Youtube.\n\n![Image 38](https://axonaut.com/content/uploaded_images/16268_a24b-dfe0-4a58-2eb7-a4a1/logo-axonaut-blancpng.webp)\n\nVotre alli\u00e9 pour  \nune gestion simplifi\u00e9e\n\n[15 jours d'**essai gratuit**](https://axonaut.com/onboarding/)\n\n[Tarifs](https://axonaut.com/content/prix)  \n[Fonctionnalit\u00e9s](https://axonaut.com/content/fonctionnalites)  \n[Portail comptable](https://axonaut.com/portail-comptable)  \n[Tarifs](https://axonaut.com/portail-comptable/annuaire)  \n[Annuaire comptable](https://axonaut.com/content/prix)  \n[Portail client](https://axonaut.com/espace-client)  \n[Affiliation](https://axonaut.com/affiliation)  \n[L'\u00e9quipe](https://axonaut.com/content/a-propos)  \n[Presse](https://axonaut.com/content/presse)  \n\n[![Image 39: T\u00e9l\u00e9charger dans l'App Store](https://axonaut.com/content/uploaded_images/16278_2706-33e5-3dc9-9962-62ff/appli-ios-appstorepng.webp)](https://apps.apple.com/fr/app/axonaut-facture-ndf/id1478286860)\n\n[![Image 40: Disponible sur Google play](https://axonaut.com/content/uploaded_images/16280_cf0a-edcd-14b2-24d5-1e00/appli-androidpng.webp)](https://play.google.com/store/apps/details?id=com.axonaut.axonaut&hl=fr&gl=US)\n\n* * *\n\n[](https://fr-fr.facebook.com/axonaut/)[](https://www.instagram.com/axonaut_officiel/)[](https://fr.linkedin.com/company/axonaut)[](https://www.youtube.com/c/axonaut)[](https://www.tiktok.com/@axonaut)\n\n\u00a9 2025 Axonaut | 2460 L'Occitane, 31670 Lab\u00e8ge |\u00a0[Conditions g\u00e9n\u00e9rales de vente](https://axonaut.com/cgv/cgv.pdf)\u00a0|\n\n\u00a0[Mentions L\u00e9gales](https://axonaut.com/mentions-legales)\u00a0|\u00a0[Politique de confidentialit\u00e9](https://axonaut.com/cgv/politiqueconfidentialite.pdf)\n\n            ![Image 44](https://t.co/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%26800%26600%264%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=33de5cba-af66-4432-bffc-9232405b7792&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1187dab9-1baa-44cf-941d-984f580bb900&tw_document_href=https%3A%2F%2Faxonaut.com%2F&tw_iframe_status=0&txn_id=o2ttn&type=javascript&version=2.3.31)![Image 45](https://analytics.twitter.com/1/i/adsct?bci=4&dv=UTC%26en-US%26Google%20Inc.%26Linux%20x86_64%26255%26800%26600%264%2624%26800%26600%260%26na&eci=3&event=%7B%7D&event_id=33de5cba-af66-4432-bffc-9232405b7792&integration=advertiser&p_id=Twitter&p_user_id=0&pl_id=1187dab9-1baa-44cf-941d-984f580bb900&tw_document_href=https%3A%2F%2Faxonaut.com%2F&tw_iframe_status=0&txn_id=o2ttn&type=javascript&version=2.3.31)\n\n![Image 46](https://bat.bing.com/action/0?ti=56030841&tm=gtm002&Ver=2&mid=7e2d9577-d7cb-4950-b02f-1cf004a39c5c&bo=1&sid=93cfdbd019ae11f098ebfb36f9384492&vid=93d0070019ae11f0b7ce5b1a47e39e3e&vids=1&msclkid=N&pi=918639831&lg=en-US&sw=800&sh=600&sc=24&tl=Axonaut%20-%20LE%20Logiciel%20de%20Gestion%20Conforme,%20Complet%20et%20Fran%C3%A7ais.&p=https%3A%2F%2Faxonaut.com%2F&r=&lt=1221&evt=pageLoad&sv=1&cdb=AQAQ&rn=298800)\n\n![Image 47: image](https://axonaut.com/assets/app/images/chatbot/bot_avatar_4.png) ![Image 48: image](https://axonaut.com/assets/app/images/chatbot/bot_avatar_4_mob.png)\n\n#### Axo votre assistant virtuel\n\nJe r\u00e9ponds \u00e0 vos questions instantan\u00e9ment\u26a1\ufe0f  \net transmet au besoin la demande \u00e0 l'\u00e9quipe Axonaut\n\nBonjour et bienvenue chez Axonaut ! \ud83d\ude80  \n  \nJe suis Axo, votre assistant virtuel intelligent \ud83e\udd16.  \nJe suis l\u00e0 pour r\u00e9pondre \u00e0 toutes vos questions, vous guider et vous faciliter la vie. Besoin d'aide ? Je suis \u00e0 vos c\u00f4t\u00e9s 24/7 ! \u2728  \n  \nEn quoi puis-je vous aider ?\n\nJe suis expert-comptable \ud83d\udcc8\n\nje suis entrepreneur \ud83e\udd20\n\n[R\u00e9initialiser la conversation](https://axonaut.com/#)\n\n[](https://axonaut.com/#)[](https://axonaut.com/#)[](https://axonaut.com/#)\n\n ![Image 49](https://axonaut.com/assets/app/images/chatbot/human-chatbot.png) Si besoin, contactez le support en [cliquant ici](https://axonaut.com/#).\n\n![Image 50](https://axonaut.com/assets/app/images/chatbot/human-chatbot.png) Si besoin, contactez le support en [cliquant ici](https://axonaut.com/#).\n\n### Cr\u00e9er un ticket Nous vous r\u00e9pondrons au plus vite par email\n\n  \n\nTicket title \n\nRenseignez votre email \n\n  \n_Votre conversation est int\u00e9gr\u00e9e automatiquement au ticket.  \nSi vous souhaitez ajouter des informations compl\u00e9mentaires, [cliquez-ici](https://axonaut.com/#)_\n\nTicket message \n\nB I  \n\n  \n[Cancel](https://axonaut.com/#) Send Send\n\nVotre message a bien \u00e9t\u00e9 envoy\u00e9.  \n  \n  \n[Close](https://axonaut.com/#)\n\nUne erreur s'est produite lors de l'envoi de votre demande. Veuillez nous contacter par email via [support@axonaut.com](mailto:support@axonaut.com)\n\n  \n[Close](https://axonaut.com/#)\n\n \n\n[](https://axonaut.com/#)\n\nAxonaut est le logiciel de gestion certifi\u00e9 pour PME et TPE ! CRM, Devis, Facturation, Projets, Tr\u00e9sorerie, Relances. B\u00e9n\u00e9ficiez d'un essai gratuit.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "axonaut",
+        "app_name": "Axonaut",
+        "app_slug": "axonaut",
+        "pricing_url": "https://axonaut.com/content/prix",
+        "source_url": "https://axonaut.com/content/prix",
+        "all_pricing_urls": [
+          "https://axonaut.com/content/prix"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 15,
+        "currency": "EUR",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing includes options for monthly, annual, and biennial subscriptions, with discounts for longer commitments.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Monthly Subscription",
+            "tier_description": "Standard monthly subscription.",
+            "monthly_price": 69.99,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Full access to Axonaut features"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Annual Subscription",
+            "tier_description": "Annual subscription with a 10% discount.",
+            "monthly_price": 62.99,
+            "annual_price": 755.88,
+            "annual_discount_percentage": 10.0,
+            "setup_fee": null,
+            "features": [
+              "Full access to Axonaut features"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Biennial Subscription",
+            "tier_description": "Biennial subscription with a 20% discount.",
+            "monthly_price": 55.99,
+            "annual_price": 671.88,
+            "annual_discount_percentage": 20.0,
+            "setup_fee": null,
+            "features": [
+              "Full access to Axonaut features"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          },
+          {
+            "tier_name": "Referral Program",
+            "tier_description": "Free subscription through referral program.",
+            "monthly_price": 0.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Full access to Axonaut features"
+            ],
+            "limits": {
+              "users": "unlimited",
+              "storage": "unlimited",
+              "operations": "unlimited",
+              "api_calls": "unlimited",
+              "integrations": "unlimited",
+              "custom_limits": null
+            }
+          }
+        ],
+        "usage_based_pricing": null,
+        "ai_specific_pricing": null,
+        "promotional_offers": null,
+        "additional_fees": [
+          {
+            "fee_name": "Additional User Fee",
+            "fee_amount": 29.99,
+            "fee_description": "Monthly fee per additional user."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T00:03:38.089304",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\axonaut\\20250415_000338"
+}

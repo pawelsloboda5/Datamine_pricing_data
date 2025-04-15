@@ -1,0 +1,46 @@
+{
+  "app_id": "timeular",
+  "app_name": "Timeular",
+  "app_slug": "timeular",
+  "pricing_url": null,
+  "source_url": "https://timeular.com",
+  "all_pricing_urls": [],
+  "price_model_type": [
+    "subscription",
+    "free_tier"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": null,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "The pricing details are inferred from the content provided, but specific tier names and prices are not explicitly mentioned.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T06:19:36.091462",
+  "schema_validated": true,
+  "confidence_score": 55,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "46c85ec5-069f-4435-a0c1-d5b94a94422f",
+    "name": "Timeular",
+    "slug": "timeular",
+    "description": "Timeular - Effortless time tracking to help you lead a more productive life.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/585ec16cf87b0b8e8fef5e80047acf93.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Productivity"
+    ],
+    "category_slugs": [
+      "productivity"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 12
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "app_id": "socialbee",
+  "app_name": "SocialBee",
+  "app_slug": "socialbee",
+  "pricing_url": "https://socialbee.com/pricing/",
+  "source_url": "https://socialbee.com/pricing/",
+  "all_pricing_urls": [
+    "https://socialbee.com/pricing/"
+  ],
+  "price_model_type": [
+    "subscription"
+  ],
+  "has_free_tier": false,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 16% discount compared to monthly billing. Special promotional offers are available during Black Friday.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Bootstrap",
+      "tier_description": "Best for solopreneurs, and businesses just starting out",
+      "monthly_price": 29.0,
+      "annual_price": 24.2,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Connect up to 5 social profiles",
+        "1 user/workspace | 1 workspace",
+        "Analytics up to 3 months of data"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 5,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Accelerate",
+      "tier_description": "Best for small businesses",
+      "monthly_price": 49.0,
+      "annual_price": 40.8,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Connect up to 10 social profiles",
+        "1 user/workspace | 1 workspace",
+        "Analytics up to 2 years of data"
+      ],
+      "limits": {
+        "users": 1,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 10,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro",
+      "tier_description": "Best for social media managers, teams, and agencies",
+      "monthly_price": 99.0,
+      "annual_price": 82.5,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "Connect up to 25 social profiles",
+        "3 users/workspace | 5 workspaces",
+        "Analytics up to 2 years of data"
+      ],
+      "limits": {
+        "users": 3,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 25,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro50",
+      "tier_description": "Small",
+      "monthly_price": 179.0,
+      "annual_price": 149.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "All in Pro with these differences",
+        "Connect up to 50 social profiles",
+        "Add 5 users/workspace | 10 workspaces"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 50,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro100",
+      "tier_description": "Medium",
+      "monthly_price": 329.0,
+      "annual_price": 274.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "All in Pro50 with these differences",
+        "Connect up to 100 social profiles",
+        "Add 5 users/workspace | 20 workspaces"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 100,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Pro150",
+      "tier_description": "Large",
+      "monthly_price": 449.0,
+      "annual_price": 374.0,
+      "annual_discount_percentage": 16.0,
+      "setup_fee": null,
+      "features": [
+        "All in Pro100 with these differences",
+        "Connect up to 150 social profiles",
+        "Add 5 users/workspace | 30 workspaces"
+      ],
+      "limits": {
+        "users": 5,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": 150,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [
+    {
+      "offer_name": "Black Friday Monthly Discount",
+      "offer_description": "Use the code SOCIALBEEBF24 at checkout before December 2 to get 70% off monthly plans for 3 months.",
+      "discount_percentage": 70.0,
+      "offer_url": "https://socialbee.com/pricing/",
+      "valid_until": "2023-12-02"
+    },
+    {
+      "offer_name": "Black Friday Yearly Discount",
+      "offer_description": "Use the code SOCIALBEEBF24 at checkout before December 2 to get 50% off yearly plans.",
+      "discount_percentage": 50.0,
+      "offer_url": "https://socialbee.com/pricing/",
+      "valid_until": "2023-12-02"
+    }
+  ],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:17:44.903480",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "e2951eb5-7104-4820-aa68-65121d780f24",
+    "name": "SocialBee",
+    "slug": "socialbee",
+    "description": "Social Media on Autopilot All-in-One Tools and Services for Content Posting & Recycling, Follower Growth, Engagement, and More",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer_cli/ea771064066cc3a39c0cf73d31b558c8.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Social Media Accounts"
+    ],
+    "category_slugs": [
+      "social"
+    ],
+    "has_actions": true,
+    "has_triggers": false,
+    "action_count": 1,
+    "trigger_count": 0
+  }
+}

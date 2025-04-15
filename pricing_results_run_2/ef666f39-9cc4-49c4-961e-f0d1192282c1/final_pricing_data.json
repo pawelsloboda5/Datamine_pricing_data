@@ -1,0 +1,166 @@
+{
+  "app_id": "viral_loops",
+  "app_name": "Viral Loops",
+  "app_slug": "viral-loops",
+  "pricing_url": "https://viral-loops.com/pricing",
+  "source_url": "https://viral-loops.com/pricing",
+  "all_pricing_urls": [
+    "https://viral-loops.com/pricing"
+  ],
+  "price_model_type": [
+    "subscription",
+    "free_tier",
+    "quote_based"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 14,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Annual plans offer a 30% discount compared to monthly billing.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Start-up",
+      "tier_description": null,
+      "monthly_price": 49.0,
+      "annual_price": 35.0,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "Access to templates",
+        "Unlimited campaigns",
+        "Basic integrations",
+        "Fraud detection",
+        "Email notifications",
+        "Import & Export participants"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Participants",
+            "value": 1000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Growing",
+      "tier_description": "Popular plan",
+      "monthly_price": 229.0,
+      "annual_price": 159.0,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Start-up plus:",
+        "Custom domain & CSS",
+        "GA4 and HubSpot integrations",
+        "Double opt-in verification",
+        "Conversion tracking",
+        "Full API Access"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Participants",
+            "value": 10000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Power",
+      "tier_description": null,
+      "monthly_price": 399.0,
+      "annual_price": 279.0,
+      "annual_discount_percentage": 30.0,
+      "setup_fee": null,
+      "features": [
+        "Everything in Growing plus",
+        "Priority support",
+        "Remove watermark",
+        "Concierge implementation",
+        "All integrations",
+        "Custom referral links",
+        "Viral Loops Rewarding"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Participants",
+            "value": 25000
+          }
+        ]
+      }
+    },
+    {
+      "tier_name": "Enterprise",
+      "tier_description": null,
+      "monthly_price": null,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Everything in Power plus",
+        "Account Management",
+        "Concierge company onboarding",
+        "APIs tailored to your needs",
+        "All templates"
+      ],
+      "limits": {
+        "users": null,
+        "storage": null,
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": [
+          {
+            "name": "Participants",
+            "value": "unlimited"
+          }
+        ]
+      }
+    }
+  ],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T09:43:13.609486",
+  "schema_validated": true,
+  "confidence_score": 85.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "ef666f39-9cc4-49c4-961e-f0d1192282c1",
+    "name": "Viral Loops",
+    "slug": "viral-loops",
+    "description": "Viral Loops is a referral marketing platform for busy marketers and founders.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/b1fb216ddc9bc2a6e50405e2165ffb66.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Marketing Automation"
+    ],
+    "category_slugs": [
+      "marketing-automation"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 3,
+    "trigger_count": 5
+  }
+}

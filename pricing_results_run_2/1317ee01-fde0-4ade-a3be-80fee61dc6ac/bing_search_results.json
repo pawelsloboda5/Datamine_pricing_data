@@ -1,0 +1,19 @@
+{
+  "app_name": "Stan",
+  "app_slug": "stan-creator",
+  "search_term": "Find the official pricing page URL for Stan (stan-creator.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744708316.4445586,
+  "response_text": [
+    "Here is the official pricing page URL for Stan: [https://stan-creator.com/pricing](https://stan-creator.com/pricing) ."
+  ],
+  "citations": [],
+  "extracted_content": [
+    {
+      "url": "https://stan-creator.com/pricing",
+      "is_accessible": false,
+      "content": null,
+      "error": "HTTP error: 400"
+    }
+  ],
+  "results_directory": "pricing_results\\stan-creator\\20250415_051157"
+}

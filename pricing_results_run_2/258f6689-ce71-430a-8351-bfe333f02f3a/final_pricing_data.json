@@ -1,0 +1,43 @@
+{
+  "app_id": "mailup",
+  "app_name": "MailUp",
+  "app_slug": "mailup",
+  "pricing_url": null,
+  "source_url": "https://www.mailup.com/pricing\u30103:1\u2020source\u3011.",
+  "all_pricing_urls": [],
+  "price_model_type": [],
+  "has_free_tier": false,
+  "has_free_trial": false,
+  "free_trial_period_days": null,
+  "currency": "EUR",
+  "is_pricing_public": false,
+  "pricing_page_accessible": false,
+  "pricing_notes": "No specific pricing information was provided in the content.",
+  "pricing_tiers": [],
+  "usage_based_pricing": [],
+  "ai_specific_pricing": {},
+  "promotional_offers": [],
+  "additional_fees": [],
+  "extraction_timestamp": "2025-04-15T00:52:59.656761",
+  "schema_validated": true,
+  "confidence_score": 40,
+  "extraction_error": null,
+  "json_repaired": null,
+  "original_app_metadata": {
+    "app_id": "258f6689-ce71-430a-8351-bfe333f02f3a",
+    "name": "MailUp",
+    "slug": "mailup",
+    "description": "MailUp is your complete email delivery solution. Send newsletters, create blog digests from RSS feeds, send automated messages when certain conditions occur. Advanced email marketing tools made easy.",
+    "logo_url": "https://zapier-images.imgix.net/storage/developer/234653f68d86be1ad7d8a3538141a68a.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Drip Emails"
+    ],
+    "category_slugs": [
+      "drip-emails"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 7,
+    "trigger_count": 6
+  }
+}

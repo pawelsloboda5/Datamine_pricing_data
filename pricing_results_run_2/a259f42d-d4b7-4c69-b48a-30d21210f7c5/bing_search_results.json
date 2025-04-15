@@ -1,0 +1,360 @@
+{
+  "app_name": "Goodcall",
+  "app_slug": "goodcall",
+  "search_term": "Find the official pricing page URL for Goodcall (goodcall.com). Only provide the exact URL to the pricing page, not a summary of pricing information.",
+  "timestamp": 1744722664.390314,
+  "response_text": [
+    "The official pricing page for Goodcall can be found at: [https://www.goodcall.com/pricing/](https://www.goodcall.com/pricing/)\u30103:0\u2020source\u3011."
+  ],
+  "citations": [
+    {
+      "title": "Pricing with free trial | AI Phone Agent for inbound calls | Goodcall",
+      "url": "https://www.goodcall.com/pricing"
+    }
+  ],
+  "extracted_content": [
+    {
+      "url": "https://www.goodcall.com/pricing",
+      "is_accessible": true,
+      "content": "An affordable solution that scales with you\n-------------------------------------------\n\nStarter\n\n### $59 monthly\n\nper agent\n\n### unlimited minutes and tokens\n\n### 1 form\n\n### 1 logic flow\n\n### 3 team members\n\n### 3 directory contacts\n\n### 7 days of call & customer details\n\n### 100 unique customers monthly\n\n\\*$0.50/customer after 100\n\nGrowth\n\n### $99 monthly\n\nper agent\n\n### unlimited minutes and tokens\n\n### 3 forms\n\n### 3 logic flows\n\n### 9 team members\n\n### 25 directory contacts\n\n### 30 days of call & customer details\n\n### 250 unique customers monthly\\*\n\n\\*$0.50/customer after 250\n\nScale\n\n### $199 monthly\n\nper agent\n\n### unlimited minutes and tokens\n\n### 25 forms\n\n### 25 logic flows\n\n### 50 team members\n\n### 500 directory contacts\n\n### unlimited call & customer details\n\n### 500 unique customers monthly\\*\n\n\\*$0.50/customer after 500\n\nStarter\n\n### $59 $41 monthly\n\nper agent\n\n### unlimited minutes and tokens\n\n### 1 form\n\n### 1 logic flow\n\n### 3 team members\n\n### 3 directory contacts\n\n### 7 days of call & customer details\n\n### 100 unique customers monthly\n\n\\*$0.50/customer after 100\n\n[Try it free](https://ai.goodcall.com/get-started/)\n\nGrowth\n\n### $99 $69 monthly\n\nper agent\n\n### unlimited minutes and tokens\n\n### 3 forms\n\n### 3 logic flows\n\n### 9 team members\n\n### 25 directory contacts\n\n### 30 days of call & customer details\n\n### 250 unique customers monthly\n\n\\*$0.50/customer after 250\n\n[Try it free](https://ai.goodcall.com/get-started/)\n\nScale\n\n### $199 $139 monthly\n\nper agent\n\n### unlimited minutes and tokens\n\n### 25 forms\n\n### 25 logic flows\n\n### 50 team members\n\n### 500 directory contacts\n\n### unlimited call & customer details\n\n### 500 unique customers monthly\n\n\\*$0.50/customer after 500\n\n[Try it free](https://ai.goodcall.com/get-started/)\n\n### Enterprise-Ready Solutions for In-House Call Centers and CRM Integration\n\nRunning a large-scale operation or managing an in-house call center? Our platform is designed with enterprise needs in mind, including seamless CRM integrations to streamline processes and drive efficiency. Connect with our sales team to explore custom solutions tailored to support your unique requirements.[](https://www.goodcall.com/enterprise)\n\n[**Learn more**](https://www.goodcall.com/enterprise)\n\nFrequently Asked Questions\n--------------------------\n\nWhat is a \"unique customer\"?\n\n![Image 1: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nA \"unique customer\" means any caller with a unique phone number that calls and interacts (i.e actually says something to agent and does not quickly hang up) with your Goodcall agent in any given month. This has a couple advantages on your side compared to by-the-minute/by-the-token pricing models. Firstly, your costs stay down, as a single client who calls 10+ times in a month would only count as 1 \"unique customer\" (so long as they aways call from the same phone number). Secondly, your costs are far more predictable. If a caller spends a very long time speaking to your agent, you won't occur any additional charges or fees. Every subscription tier has a generous allowance of unique monthly customers, and a modest fee for any overages. Robo calls, numbers you block, or callers who never say anything to your agent will never count towards your allowance.\n\nAre there any charges for number of calls, minutes, or AI\u00a0tokens?\n\n![Image 2: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nWe DO\u00a0NOT charge any fees for number of calls call minutes, or tokens consumed by your AI\u00a0in the course of conversing with your customer. We believe that raw call volume or minutes spent on the line are extremely limited indicators of the actual value provided to you by your agent, can create misaligned incentives (our job is to help your customers get answers quickly and efficiently, not milk you for \"call minutes\") and can lead to a high degree of variability in your total costs. Instead, we believe that \"unique customers\" served is a usage-based metric that more closely aligns with the value your agent brings to your business.\n\nCan I use my current number?\n\n![Image 3: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nAll Goodcall agents are assigned a unique Goodcall number out of the box. This number is what enables your Goodcall agent to speak to real customers, and all the skills you set up to actually trigger in real world conversations. You can choose the area code for this number, so many businesses find success by simply replacing their old number with their new number on their website, Google Maps listings and other third-party sources. However, if your number is an important part of your brand, you can easily set up conditional call fowarding with your current phone provider. Conditional call forwarding allows customers to call your existing phone number, and will automatically forward that call to your Goodcall number when you don't answer, or if the line is busy. Be sure to use \"conditional call forwarding\" for best results. Here's an article where you can [learn more](https://www.goodcall.com/pricing#https://help.goodcall.com/en/articles/8007555-can-i-set-up-my-current-phone-to-forward-to-goodcall). Our team is also happy to help you set this up.\n\nWhat are \"form\" and \"logic\" flows?\n\n![Image 4: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nYour agent's behaviors are controlled in 2 areas of the products. Skills allow you to configure your agent to respond anything your caller might ask. \"Flows\" are where you can dive into more complex workflows, including \"forms\" which you can use to collect information about the caller to capture and qualify them as a lead, and \"logic\" where you can determine how the agent should handle a caller based on their answer to a yes/no or multiple choice question, or based on whether they are a brand new lead or return caller. Linking skills and flows together is the key to creating extremely powerful workflows inside of Goodcall.\n\nWhat is the difference between a \"team member\" and a \"directory contact?\"\n\n![Image 5: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nTeam members are able to actually go inside of your Goodcall dashboard and look at agent performance or make changes to your agent (if they have permission to do so).\n\nDirectory contacts can't log into the dashboard or make changes to your agent, but they can have calls transferred to their lines and will be notified \u00a0if a caller leaves a message that needs their attention or goes through a flow related to their area of responsibility.\n\nDoes Goodcall work with Google Voice?\n\n![Image 6: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nGoodcal integrates seamlessly with Google Voice. All you need to do is verify your number, and your agent will be ready to answer calls that go to an existing Google voice number. Here's an article where you can [learn more.](https://www.goodcall.com/pricing#https://help.goodcall.com/en/articles/8007550-google-voice-is-now-available-for-goodcall)\n\nWhat if I have more than one location?\n\n![Image 7: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nThere are no limits to how many Goodcall agents you can build, so you can easily have a unique agent for every location of your business. If you're looking to build more than 10 agents, we'd be happy to help. [Get in touch here.](mailto:sales@goodcall.ai?subject=Looking%20to%20build%20more%20than%2010%20agents)\n\nCan I\u00a0give other people access to my performance dashboard?\n\n![Image 8: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nYour performance dashboard is only accessible to people you add to your \"team\" under your \"account.\" At the lowest permission level- \"performance viewer,\" team members will have access to your performance analytics, customers, and call recordings, but won't be able to edit your agent's behavior in any way. That means if you're an agency, you can give your clients access to their agent's performance without giving them access to everything \"under the hood.\"\n\nCan I connect Goodcall with existing business tools?\n\n![Image 9: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nConnecting your Goodcall agent with your CRM\u00a0of choice is easy using Zapier. Zapier is natively integrated within the Goodcall application. For exact details on how to do this, this article will help you [learn more](https://www.goodcall.com/pricing#https://help.goodcall.com/en/articles/9215884-step-by-step-guide-to-linking-goodcall-with-zapier)\n\nStart with a free Demo and a 14 day fully featured free trial for an AI Phone agent for business.  Works for solo operators and larger in house call centers.  Join 10,000+ other businesses GPT powered AI business agents.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "goodcall",
+        "app_name": "Goodcall",
+        "app_slug": "goodcall",
+        "pricing_url": "https://www.goodcall.com/pricing",
+        "source_url": "https://www.goodcall.com/pricing",
+        "all_pricing_urls": [
+          "https://www.goodcall.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is based on a per-agent subscription model with additional usage-based fees for unique customers exceeding the included limits.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Starter",
+            "tier_description": "Basic plan for small teams.",
+            "monthly_price": 59.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited minutes and tokens",
+              "1 form",
+              "1 logic flow",
+              "3 team members",
+              "3 directory contacts",
+              "7 days of call & customer details",
+              "100 unique customers monthly"
+            ],
+            "limits": {
+              "users": 3,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Unique customers",
+                  "value": 100
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Growth",
+            "tier_description": "For growing teams.",
+            "monthly_price": 99.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited minutes and tokens",
+              "3 forms",
+              "3 logic flows",
+              "9 team members",
+              "25 directory contacts",
+              "30 days of call & customer details",
+              "250 unique customers monthly"
+            ],
+            "limits": {
+              "users": 9,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Unique customers",
+                  "value": 250
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Scale",
+            "tier_description": "For larger teams.",
+            "monthly_price": 199.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited minutes and tokens",
+              "25 forms",
+              "25 logic flows",
+              "50 team members",
+              "500 directory contacts",
+              "Unlimited call & customer details",
+              "500 unique customers monthly"
+            ],
+            "limits": {
+              "users": 50,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Unique customers",
+                  "value": 500
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Unique customers",
+            "unit": "per customer",
+            "base_price": 0.5,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": false
+        },
+        "promotional_offers": [
+          {
+            "offer_name": "Starter Discount",
+            "offer_description": "Discounted monthly price for Starter plan.",
+            "discount_percentage": 30.0,
+            "offer_url": "https://ai.goodcall.com/get-started/",
+            "valid_until": null
+          },
+          {
+            "offer_name": "Growth Discount",
+            "offer_description": "Discounted monthly price for Growth plan.",
+            "discount_percentage": 30.0,
+            "offer_url": "https://ai.goodcall.com/get-started/",
+            "valid_until": null
+          },
+          {
+            "offer_name": "Scale Discount",
+            "offer_description": "Discounted monthly price for Scale plan.",
+            "discount_percentage": 30.0,
+            "offer_url": "https://ai.goodcall.com/get-started/",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": [
+          {
+            "fee_name": "Overage Fee",
+            "fee_amount": 0.5,
+            "fee_description": "Fee per unique customer exceeding the included limit."
+          }
+        ],
+        "extraction_timestamp": "2025-04-15T09:11:34.066013",
+        "schema_validated": true,
+        "confidence_score": 95,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    },
+    {
+      "url": "https://www.goodcall.com/pricing/",
+      "is_accessible": true,
+      "content": "An affordable solution that scales with you\n-------------------------------------------\n\nStarter\n\n### $59 monthly\n\nper agent\n\n### unlimited minutes and tokens\n\n### 1 form\n\n### 1 logic flow\n\n### 3 team members\n\n### 3 directory contacts\n\n### 7 days of call & customer details\n\n### 100 unique customers monthly\n\n\\*$0.50/customer after 100\n\nGrowth\n\n### $99 monthly\n\nper agent\n\n### unlimited minutes and tokens\n\n### 3 forms\n\n### 3 logic flows\n\n### 9 team members\n\n### 25 directory contacts\n\n### 30 days of call & customer details\n\n### 250 unique customers monthly\\*\n\n\\*$0.50/customer after 250\n\nScale\n\n### $199 monthly\n\nper agent\n\n### unlimited minutes and tokens\n\n### 25 forms\n\n### 25 logic flows\n\n### 50 team members\n\n### 500 directory contacts\n\n### unlimited call & customer details\n\n### 500 unique customers monthly\\*\n\n\\*$0.50/customer after 500\n\nStarter\n\n### $59 $41 monthly\n\nper agent\n\n### unlimited minutes and tokens\n\n### 1 form\n\n### 1 logic flow\n\n### 3 team members\n\n### 3 directory contacts\n\n### 7 days of call & customer details\n\n### 100 unique customers monthly\n\n\\*$0.50/customer after 100\n\n[Try it free](https://ai.goodcall.com/get-started/)\n\nGrowth\n\n### $99 $69 monthly\n\nper agent\n\n### unlimited minutes and tokens\n\n### 3 forms\n\n### 3 logic flows\n\n### 9 team members\n\n### 25 directory contacts\n\n### 30 days of call & customer details\n\n### 250 unique customers monthly\n\n\\*$0.50/customer after 250\n\n[Try it free](https://ai.goodcall.com/get-started/)\n\nScale\n\n### $199 $139 monthly\n\nper agent\n\n### unlimited minutes and tokens\n\n### 25 forms\n\n### 25 logic flows\n\n### 50 team members\n\n### 500 directory contacts\n\n### unlimited call & customer details\n\n### 500 unique customers monthly\n\n\\*$0.50/customer after 500\n\n[Try it free](https://ai.goodcall.com/get-started/)\n\n### Enterprise-Ready Solutions for In-House Call Centers and CRM Integration\n\nRunning a large-scale operation or managing an in-house call center? Our platform is designed with enterprise needs in mind, including seamless CRM integrations to streamline processes and drive efficiency. Connect with our sales team to explore custom solutions tailored to support your unique requirements.[](https://www.goodcall.com/enterprise)\n\n[**Learn more**](https://www.goodcall.com/enterprise)\n\nFrequently Asked Questions\n--------------------------\n\nWhat is a \"unique customer\"?\n\n![Image 1: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nA \"unique customer\" means any caller with a unique phone number that calls and interacts (i.e actually says something to agent and does not quickly hang up) with your Goodcall agent in any given month. This has a couple advantages on your side compared to by-the-minute/by-the-token pricing models. Firstly, your costs stay down, as a single client who calls 10+ times in a month would only count as 1 \"unique customer\" (so long as they aways call from the same phone number). Secondly, your costs are far more predictable. If a caller spends a very long time speaking to your agent, you won't occur any additional charges or fees. Every subscription tier has a generous allowance of unique monthly customers, and a modest fee for any overages. Robo calls, numbers you block, or callers who never say anything to your agent will never count towards your allowance.\n\nAre there any charges for number of calls, minutes, or AI\u00a0tokens?\n\n![Image 2: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nWe DO\u00a0NOT charge any fees for number of calls call minutes, or tokens consumed by your AI\u00a0in the course of conversing with your customer. We believe that raw call volume or minutes spent on the line are extremely limited indicators of the actual value provided to you by your agent, can create misaligned incentives (our job is to help your customers get answers quickly and efficiently, not milk you for \"call minutes\") and can lead to a high degree of variability in your total costs. Instead, we believe that \"unique customers\" served is a usage-based metric that more closely aligns with the value your agent brings to your business.\n\nCan I use my current number?\n\n![Image 3: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nAll Goodcall agents are assigned a unique Goodcall number out of the box. This number is what enables your Goodcall agent to speak to real customers, and all the skills you set up to actually trigger in real world conversations. You can choose the area code for this number, so many businesses find success by simply replacing their old number with their new number on their website, Google Maps listings and other third-party sources. However, if your number is an important part of your brand, you can easily set up conditional call fowarding with your current phone provider. Conditional call forwarding allows customers to call your existing phone number, and will automatically forward that call to your Goodcall number when you don't answer, or if the line is busy. Be sure to use \"conditional call forwarding\" for best results. Here's an article where you can [learn more](https://www.goodcall.com/pricing/#https://help.goodcall.com/en/articles/8007555-can-i-set-up-my-current-phone-to-forward-to-goodcall). Our team is also happy to help you set this up.\n\nWhat are \"form\" and \"logic\" flows?\n\n![Image 4: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nYour agent's behaviors are controlled in 2 areas of the products. Skills allow you to configure your agent to respond anything your caller might ask. \"Flows\" are where you can dive into more complex workflows, including \"forms\" which you can use to collect information about the caller to capture and qualify them as a lead, and \"logic\" where you can determine how the agent should handle a caller based on their answer to a yes/no or multiple choice question, or based on whether they are a brand new lead or return caller. Linking skills and flows together is the key to creating extremely powerful workflows inside of Goodcall.\n\nWhat is the difference between a \"team member\" and a \"directory contact?\"\n\n![Image 5: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nTeam members are able to actually go inside of your Goodcall dashboard and look at agent performance or make changes to your agent (if they have permission to do so).\n\nDirectory contacts can't log into the dashboard or make changes to your agent, but they can have calls transferred to their lines and will be notified \u00a0if a caller leaves a message that needs their attention or goes through a flow related to their area of responsibility.\n\nDoes Goodcall work with Google Voice?\n\n![Image 6: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nGoodcal integrates seamlessly with Google Voice. All you need to do is verify your number, and your agent will be ready to answer calls that go to an existing Google voice number. Here's an article where you can [learn more.](https://www.goodcall.com/pricing/#https://help.goodcall.com/en/articles/8007550-google-voice-is-now-available-for-goodcall)\n\nWhat if I have more than one location?\n\n![Image 7: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nThere are no limits to how many Goodcall agents you can build, so you can easily have a unique agent for every location of your business. If you're looking to build more than 10 agents, we'd be happy to help. [Get in touch here.](mailto:sales@goodcall.ai?subject=Looking%20to%20build%20more%20than%2010%20agents)\n\nCan I\u00a0give other people access to my performance dashboard?\n\n![Image 8: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nYour performance dashboard is only accessible to people you add to your \"team\" under your \"account.\" At the lowest permission level- \"performance viewer,\" team members will have access to your performance analytics, customers, and call recordings, but won't be able to edit your agent's behavior in any way. That means if you're an agency, you can give your clients access to their agent's performance without giving them access to everything \"under the hood.\"\n\nCan I connect Goodcall with existing business tools?\n\n![Image 9: Arrow](https://cdn.prod.website-files.com/648285b892d25284328a897f/648285b892d25284328a8c57_Arrow%20146.svg)\n\nConnecting your Goodcall agent with your CRM\u00a0of choice is easy using Zapier. Zapier is natively integrated within the Goodcall application. For exact details on how to do this, this article will help you [learn more](https://www.goodcall.com/pricing/#https://help.goodcall.com/en/articles/9215884-step-by-step-guide-to-linking-goodcall-with-zapier)\n\nStart with a free Demo and a 14 day fully featured free trial for an AI Phone agent for business.  Works for solo operators and larger in house call centers.  Join 10,000+ other businesses GPT powered AI business agents.",
+      "error": null,
+      "pricing_data": {
+        "app_id": "goodcall",
+        "app_name": "Goodcall",
+        "app_slug": "goodcall",
+        "pricing_url": "https://www.goodcall.com/pricing",
+        "source_url": "https://www.goodcall.com/pricing",
+        "all_pricing_urls": [
+          "https://www.goodcall.com/pricing"
+        ],
+        "price_model_type": [
+          "PriceModelType.SUBSCRIPTION",
+          "PriceModelType.USAGE_BASED",
+          "PriceModelType.FREE_TIER"
+        ],
+        "has_free_tier": true,
+        "has_free_trial": true,
+        "free_trial_period_days": 14,
+        "currency": "USD",
+        "is_pricing_public": true,
+        "pricing_page_accessible": true,
+        "pricing_notes": "Pricing is based on a per-agent subscription model with additional usage-based fees for unique customers exceeding the included limits.",
+        "pricing_tiers": [
+          {
+            "tier_name": "Starter",
+            "tier_description": "Basic plan for small teams.",
+            "monthly_price": 59.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited minutes and tokens",
+              "1 form",
+              "1 logic flow",
+              "3 team members",
+              "3 directory contacts",
+              "7 days of call & customer details",
+              "100 unique customers monthly"
+            ],
+            "limits": {
+              "users": 3,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Unique customers",
+                  "value": 100
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Growth",
+            "tier_description": "For growing teams.",
+            "monthly_price": 99.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited minutes and tokens",
+              "3 forms",
+              "3 logic flows",
+              "9 team members",
+              "25 directory contacts",
+              "30 days of call & customer details",
+              "250 unique customers monthly"
+            ],
+            "limits": {
+              "users": 9,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Unique customers",
+                  "value": 250
+                }
+              ]
+            }
+          },
+          {
+            "tier_name": "Scale",
+            "tier_description": "For scaling businesses.",
+            "monthly_price": 199.0,
+            "annual_price": null,
+            "annual_discount_percentage": null,
+            "setup_fee": null,
+            "features": [
+              "Unlimited minutes and tokens",
+              "25 forms",
+              "25 logic flows",
+              "50 team members",
+              "500 directory contacts",
+              "Unlimited call & customer details",
+              "500 unique customers monthly"
+            ],
+            "limits": {
+              "users": 50,
+              "storage": null,
+              "operations": null,
+              "api_calls": null,
+              "integrations": null,
+              "custom_limits": [
+                {
+                  "name": "Unique customers",
+                  "value": 500
+                }
+              ]
+            }
+          }
+        ],
+        "usage_based_pricing": [
+          {
+            "metric_name": "Unique customers",
+            "unit": "per customer",
+            "base_price": 0.5,
+            "tiers": null
+          }
+        ],
+        "ai_specific_pricing": {
+          "has_token_based_pricing": false,
+          "input_token_price": null,
+          "output_token_price": null,
+          "models_pricing": null,
+          "has_inference_pricing": false,
+          "has_fine_tuning_pricing": false,
+          "has_training_pricing": false,
+          "ai_addon_available": false
+        },
+        "promotional_offers": [
+          {
+            "offer_name": "Starter Discount",
+            "offer_description": "Discounted monthly price for Starter plan.",
+            "discount_percentage": 30.0,
+            "offer_url": "https://ai.goodcall.com/get-started/",
+            "valid_until": null
+          },
+          {
+            "offer_name": "Growth Discount",
+            "offer_description": "Discounted monthly price for Growth plan.",
+            "discount_percentage": 30.0,
+            "offer_url": "https://ai.goodcall.com/get-started/",
+            "valid_until": null
+          },
+          {
+            "offer_name": "Scale Discount",
+            "offer_description": "Discounted monthly price for Scale plan.",
+            "discount_percentage": 30.0,
+            "offer_url": "https://ai.goodcall.com/get-started/",
+            "valid_until": null
+          }
+        ],
+        "additional_fees": null,
+        "extraction_timestamp": "2025-04-15T09:11:52.565479",
+        "schema_validated": true,
+        "confidence_score": 100,
+        "extraction_error": false,
+        "json_repaired": false
+      },
+      "pricing_analyzed": true
+    }
+  ],
+  "results_directory": "pricing_results\\goodcall\\20250415_091152"
+}

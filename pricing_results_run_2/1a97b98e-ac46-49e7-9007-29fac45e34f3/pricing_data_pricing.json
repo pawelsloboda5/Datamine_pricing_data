@@ -1,0 +1,147 @@
+{
+  "app_id": "basecamp_3",
+  "app_name": "Basecamp 3",
+  "app_slug": "basecamp-3",
+  "pricing_url": "https://3.basecamp.com/signup/account/new",
+  "source_url": "https://basecamp.com/pricing",
+  "all_pricing_urls": [
+    "https://3.basecamp.com/signup/account/new"
+  ],
+  "price_model_type": [
+    "PriceModelType.FREE_TIER",
+    "PriceModelType.SUBSCRIPTION"
+  ],
+  "has_free_tier": true,
+  "has_free_trial": true,
+  "free_trial_period_days": 60,
+  "currency": "USD",
+  "is_pricing_public": true,
+  "pricing_page_accessible": true,
+  "pricing_notes": "Basecamp offers a free tier and two subscription tiers with different features and limits. Additional upgrades and storage can be purchased.",
+  "pricing_tiers": [
+    {
+      "tier_name": "Basecamp Free",
+      "tier_description": "Run one project at a time.",
+      "monthly_price": 0.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "One project",
+        "1 GB storage space"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "1GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basecamp Plus",
+      "tier_description": "Ideal for freelancers, startups, and smaller teams.",
+      "monthly_price": 15.0,
+      "annual_price": null,
+      "annual_discount_percentage": null,
+      "setup_fee": null,
+      "features": [
+        "Unlimited projects",
+        "500 GB storage space",
+        "24/7/365 customer support"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "500GB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    },
+    {
+      "tier_name": "Basecamp Pro Unlimited",
+      "tier_description": "Top-of-the-line, all-inclusive fixed pricing.",
+      "monthly_price": 299.0,
+      "annual_price": 3588.0,
+      "annual_discount_percentage": 16.7,
+      "setup_fee": null,
+      "features": [
+        "Unlimited projects",
+        "5 terabytes storage space",
+        "Priority 24/7/365 customer support",
+        "Includes Timesheet upgrade",
+        "Includes Admin Pro Pack upgrade",
+        "Personal onboarding"
+      ],
+      "limits": {
+        "users": "unlimited",
+        "storage": "5TB",
+        "operations": null,
+        "api_calls": null,
+        "integrations": null,
+        "custom_limits": null
+      }
+    }
+  ],
+  "usage_based_pricing": [
+    {
+      "metric_name": "Additional Storage",
+      "unit": "per 1TB",
+      "base_price": 50.0,
+      "tiers": null
+    }
+  ],
+  "ai_specific_pricing": null,
+  "promotional_offers": [
+    {
+      "offer_name": "Non-profit Discount",
+      "offer_description": "10% off for registered 501(c)(3) non-profits.",
+      "discount_percentage": 10.0,
+      "offer_url": null,
+      "valid_until": null
+    },
+    {
+      "offer_name": "Educational Discount",
+      "offer_description": "100% free for K-12, homeschoolers, or Universities for class work.",
+      "discount_percentage": 100.0,
+      "offer_url": null,
+      "valid_until": null
+    }
+  ],
+  "additional_fees": [
+    {
+      "fee_name": "Timesheet Upgrade",
+      "fee_amount": 50.0,
+      "fee_description": "Allows tracking time spent on tasks and projects."
+    },
+    {
+      "fee_name": "Admin Pro Pack Upgrade",
+      "fee_amount": 50.0,
+      "fee_description": "Provides enhanced admin controls and permissions."
+    }
+  ],
+  "extraction_timestamp": "2025-04-15T04:56:29.618498",
+  "schema_validated": true,
+  "confidence_score": 95.0,
+  "extraction_error": false,
+  "json_repaired": false,
+  "original_app_metadata": {
+    "app_id": "1a97b98e-ac46-49e7-9007-29fac45e34f3",
+    "name": "Basecamp 3",
+    "slug": "basecamp3",
+    "description": "Basecamp\u2019s unique blend of tools is everything any team needs to stay on the same page about whatever they\u2019re working on.",
+    "logo_url": "https://zapier-images.imgix.net/storage/services/666ce73ae4b8fb7730e6e096cd46c8ff.png?auto=format%2Ccompress&ixlib=python-3.0.0&q=50",
+    "categories": [
+      "Project Management"
+    ],
+    "category_slugs": [
+      "project-management"
+    ],
+    "has_actions": true,
+    "has_triggers": true,
+    "action_count": 21,
+    "trigger_count": 11
+  }
+}
